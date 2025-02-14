@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
+  "description": "\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c \u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZEE PRUK, NuNew",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
@@ -772,6 +772,28 @@
       "duration_ms": 225200,
       "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d (Original soundtrack from \"Cutie Pie 2 You\")",
+        "url": "https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d - Original soundtrack from \"Cutie Pie 2 You\"",
+      "url": "https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9"
     },
     {
       "album": {
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227186,
       "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
       "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 199310,
       "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 - Original soundtrack from \"\u0e19\u0e34\u0e48\u0e07\u0e40\u0e2e\u0e35\u0e22\u0e01\u0e47\u0e2b\u0e32\u0e27\u0e48\u0e32\u0e0b\u0e37\u0e48\u0e2d\" cutie pie series",
       "url": "https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj"
@@ -1672,6 +1694,28 @@
       "duration_ms": 19097,
       "name": "\u0e1b\u0e23\u0e34\u0e28\u0e19\u0e32\u0e15\u0e32\u0e21\u0e2b\u0e32\u0e20\u0e39\u0e15\u0e34\u0e41\u0e2b\u0e48\u0e07\u0e2a\u0e32\u0e22\u0e19\u0e49\u0e33",
       "url": "https://open.spotify.com/track/0Gw8mjZv0rmkBnuYQO8cDQ"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e44\u0e1b\u0e1b\u0e48\u0e30 (So Bright Baby)",
+        "url": "https://open.spotify.com/album/1szv6EkOzZsRg5YlRRGDjp"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159645,
+      "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e44\u0e1b\u0e1b\u0e48\u0e30 (So Bright Baby)",
+      "url": "https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2"
     },
     {
       "album": {
@@ -2124,7 +2168,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
@@ -2146,7 +2190,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 197684,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 - From \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ"
@@ -3028,7 +3072,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
@@ -3064,7 +3108,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 245413,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c",
       "url": "https://open.spotify.com/track/2ZvuGneo9p5JqtDQU45Yhv"
@@ -3390,6 +3434,28 @@
       "duration_ms": 261750,
       "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
       "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35 (Destiny) [Original Soundtrack \"\u0e14\u0e31\u0e1a\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35\"]",
+        "url": "https://open.spotify.com/album/028UerSvd6hUg1AdnhTPRS"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35 (Destiny) [Original Soundtrack \"\u0e14\u0e31\u0e1a\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35\"]",
+      "url": "https://open.spotify.com/track/5MvHwXj0FJtYzCKZd7dBI1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: L\u00e9a Sen",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Luvcat",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2804,6 +2804,24 @@
       "duration_ms": 240655,
       "name": "Loud",
       "url": "https://open.spotify.com/track/3eTH67em8ZO5qzbv3w0w1L"
+    },
+    {
+      "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
     },
     {
       "album": {

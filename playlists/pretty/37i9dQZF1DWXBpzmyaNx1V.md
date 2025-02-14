@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,549 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,546 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 8 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 9 | [Empire](https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Data Doom](https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV) | 7:28 |
 | 10 | [Ce matin\-là](https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:39 |
-| 11 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
-| 12 | [M.E.X.I.C.O.](https://open.spotify.com/track/1yYhKkqxIAJM6fH3oDbe7p) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Midnight Boom](https://open.spotify.com/album/3X8OMpgoNyMvOEZSKvDjbh) | 1:39 |
+| 11 | [M.E.X.I.C.O.](https://open.spotify.com/track/1yYhKkqxIAJM6fH3oDbe7p) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Midnight Boom](https://open.spotify.com/album/3X8OMpgoNyMvOEZSKvDjbh) | 1:39 |
+| 12 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
 | 13 | [Carreta Furacão](https://open.spotify.com/track/4p1971NZaeGcf5BOidrx7R) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Carreta Furacão](https://open.spotify.com/album/3WDtUS2r2CasNc1MoEisMy) | 6:47 |
 | 14 | [Disco Dino](https://open.spotify.com/track/2fwxOcgU4mZYomAD6bCStZ) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 5:48 |
 | 15 | [Brother In the Wind](https://open.spotify.com/track/5hHT01wTlyNyXcg4ITmm4e) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Blessed Black Wings](https://open.spotify.com/album/2Fez8YmdKDD9732QTBeJzt) | 5:40 |

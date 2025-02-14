@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Aakaya Therotame",
+        "url": "https://open.spotify.com/album/5iG4mrxxTPoDss52m81FAV"
+      },
+      "artists": [
+        {
+          "name": "Arun Gopan",
+          "url": "https://open.spotify.com/artist/5OAYaHDcHFCxxg4xkkzNrU"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175993,
+      "name": "Aakaya Therotame",
+      "url": "https://open.spotify.com/track/2p5YiaTrUr6yRrj7fC1PSl"
+    },
+    {
+      "album": {
         "name": "Aaraadhadhaa",
         "url": "https://open.spotify.com/album/7LirRg7XRhrm0dA14hBjRC"
       },
@@ -8980,7 +8998,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 343152,
       "name": "Oru Parvaiyaal",
       "url": "https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER"
@@ -10436,7 +10454,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 223392,
       "name": "Ratha Kothippu",
       "url": "https://open.spotify.com/track/0HFPg4ofuzKy4qjH7rFLbD"

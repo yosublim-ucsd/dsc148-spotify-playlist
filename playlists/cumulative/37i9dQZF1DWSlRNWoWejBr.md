@@ -4,7 +4,7 @@
 
 > ginga y balança
 
-313 songs - 13 hr 31 min
+314 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Chapa Máxima](https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [CAO$](https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW) | [Chapa Máxima](https://open.spotify.com/album/1DkRzC3vCBaHoiddVsZozN) | 2:31 | 2024-12-10 |  |
 | [Chego Minha Encomenda](https://open.spotify.com/track/194QRsvUCRyFuQVUPNc59q) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Rd Sucessada Oficial](https://open.spotify.com/artist/2bGRYJ6vlxcdy4ykoUDTNr) | [Chego Minha Encomenda](https://open.spotify.com/album/3n3tz0DoFOD4Y6I8SNBhdX) | 1:41 | 2024-07-12 | 2024-10-12 |
 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 | 2024-06-17 | 2024-07-13 |
-| [Cheirinho Bom](https://open.spotify.com/track/7kTlSSAWuYcBtw4Hzd2XFL) | [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [DJ VN Mix](https://open.spotify.com/artist/66tMbFxVDndtxsv5YO7lxu) | [Cheirinho Bom](https://open.spotify.com/album/5aMj1GP1bsxvClEHCF58Mg) | 2:16 | 2025-02-10 |  |
+| [Cheirinho Bom](https://open.spotify.com/track/0K3tVVzv3DbRcgxXkRsT1k) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [DJ CARAI](https://open.spotify.com/artist/7FxWEdixCM3QpHCdVpqBZP), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Cheirinho Bom](https://open.spotify.com/album/1bgff0IaAQkqgoXDg1TXec) | 2:09 | 2025-02-13 |  |
+| [Cheirinho Bom](https://open.spotify.com/track/7kTlSSAWuYcBtw4Hzd2XFL) | [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [DJ VN Mix](https://open.spotify.com/artist/66tMbFxVDndtxsv5YO7lxu) | [Cheirinho Bom](https://open.spotify.com/album/5aMj1GP1bsxvClEHCF58Mg) | 2:16 | 2025-02-10 | 2025-02-14 |
 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 | 2024-07-16 | 2024-09-11 |
 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 | 2024-07-12 |  |
 | [Colo do pai](https://open.spotify.com/track/0iCA0rynWVmE5D9qWgas9s) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [No Pique do GBR](https://open.spotify.com/album/6yBdJ09hwSrlbftsxsBsDW) | 2:05 | 2023-10-06 | 2024-03-12 |

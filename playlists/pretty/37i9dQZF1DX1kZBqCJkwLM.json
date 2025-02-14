@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 85842,
+  "num_followers": 85856,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
         "name": "What if I jump from a Bridge?",
         "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
       },
       "artists": [
         {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+      },
+      "artists": [
+        {
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
         "name": "NOT RN!",
         "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 159963,
       "name": "THAT'S ON YOU!",
       "url": "https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
-        "name": "GORGEOUS",
-        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
-      },
-      "artists": [
-        {
-          "name": "BODUR",
-          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
         "name": "Replay - Trance Mix",
         "url": "https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 154437,
       "name": "PrettyGirlBop",
       "url": "https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2025-01-31 05:00:24",

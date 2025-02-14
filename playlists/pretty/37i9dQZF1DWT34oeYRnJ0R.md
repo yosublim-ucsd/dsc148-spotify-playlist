@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Alleh, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,077 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,097 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 83 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 | 84 | [ANGELITO](https://open.spotify.com/track/0dTMGvsO9YpApxkZQoPi4J) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [ANGELITO](https://open.spotify.com/album/1wIbAOcYH3TDxkWI1Zcb5K) | 2:20 |
 | 85 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
-| 86 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 |
-| 87 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
+| 86 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
+| 87 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 |
 | 88 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
 | 89 | [Ohnana \(feat\. Farruko & Nicky Jam\) \- Remix](https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ohnana \(feat\. Farruko & Nicky Jam\) \[Remix\]](https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk) | 5:17 |
 | 90 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 |

@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-233 songs - 14 hr 8 min
+234 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 |  |
 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 | 2022-12-15 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-13 |  |
+| [Don't Fret!](https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Don't Fret!](https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG) | 3:19 | 2025-02-05 |  |
 | [don't give up on me](https://open.spotify.com/track/69dCUv9htSIGQ2Wrq36sD2) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [don't give up on me](https://open.spotify.com/album/7JzEyrvfRWletnCLkJPCRP) | 3:18 | 2023-08-17 | 2023-09-08 |
 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 | 2023-06-08 | 2023-07-14 |
 | [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR) | 3:10 | 2025-02-05 |  |
@@ -129,7 +130,7 @@
 | [Love Language](https://open.spotify.com/track/43Q412QJxCshzh9oIjLgEF) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/6aGXPQFm5ZGZYqz1ClG6tx) | 3:18 | 2025-02-05 |  |
 | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS) | 3:04 | 2022-12-01 |  |
 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 | 2023-05-25 | 2023-07-31 |
-| [Love Type](https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C) | 3:35 | 2025-02-05 |  |
+| [Love Type](https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C) | 3:35 | 2025-02-05 | 2025-02-14 |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2022-12-01 |  |
 | [Make A Move](https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:35 | 2025-02-05 |  |
 | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/track/6OQdZnSSapbrUhWv7Wg18Y) | [The Meeting Tree](https://open.spotify.com/artist/3wOBAJXJ4EFkcBPbaHnBPM) | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/album/4FnI8i77dSwbkXiDes7rhr) | 4:40 | 2022-12-01 | 2023-01-27 |

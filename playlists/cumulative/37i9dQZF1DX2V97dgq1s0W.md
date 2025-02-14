@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Mahalia, Lila Iké
+> The best voices in R&B\. Cover: kwn, Kehlani
 
-407 songs - 21 hr 24 min
+409 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Heaven's Here \[Feat\. Ant Clemons\]](https://open.spotify.com/track/5I7CWUqNCREiYSjZ3xdH1b) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 3:57 | 2023-02-23 | 2023-05-15 |
 | [Hello](https://open.spotify.com/track/5V45znFk0hMyRo0RMXqLfO) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Hello](https://open.spotify.com/album/2UANDwNmfoh1NONgdc2p0o) | 3:26 | 2024-09-05 | 2025-01-31 |
 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 | 2023-02-23 | 2024-12-06 |
-| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-05-10 |  |
+| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-05-10 | 2025-02-14 |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:19 | 2023-02-23 | 2023-05-15 |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-04-19 | 2024-11-29 |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 | 2025-02-07 |
@@ -266,7 +266,7 @@
 | [One Of Them Days \(feat\. Monica\)](https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 2:35 | 2024-02-28 | 2024-04-27 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 | 2025-01-17 |  |
 | [Only The Brave](https://open.spotify.com/track/4brOrpLd0QyWR1fIvja8qP) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:18 | 2024-04-19 | 2024-06-15 |
-| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
+| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2025-02-14 |
 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 | 2024-12-06 |  |
 | [Options](https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U) | [Options](https://open.spotify.com/album/3fVaM3KjD3OasMuqIaWhsQ) | 2:41 | 2024-09-26 |  |
 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 | 2023-05-14 | 2024-01-26 |
@@ -331,6 +331,7 @@
 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 | 2023-05-14 | 2023-07-22 |
 | [Sinner](https://open.spotify.com/track/7e9FvhmqibLIhZ6x8bKyT4) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:54 | 2023-02-23 | 2023-05-15 |
 | [Slow Dancing](https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing](https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV) | 3:46 | 2023-05-14 | 2023-10-28 |
+| [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 | 2025-02-14 |  |
 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 | 2023-02-23 | 2023-05-15 |
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/4CZYU36tRUXVWKqd0Xtidm) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [So Be It \(with Summer Walker\) \[Remix\]](https://open.spotify.com/album/7a6axBirYuebMEsOtmKVWy) | 3:13 | 2023-05-14 | 2023-09-30 |
 | [Some Feelings Never Go Away](https://open.spotify.com/track/2W3opOU3acvOKwo8UDx0mf) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Some Feelings Never Go Away](https://open.spotify.com/album/4DCjK4nmfen3fkYxfrxa6i) | 2:57 | 2023-07-21 | 2024-04-19 |
@@ -413,6 +414,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 | 2024-04-19 | 2025-01-24 |
 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 | 2023-11-24 | 2025-01-31 |
 | [Woman Now \- A COLORS SHOW](https://open.spotify.com/track/3YpoYC2zVGfL01IfWJXOAr) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now \- A COLORS SHOW](https://open.spotify.com/album/6gHGhc6bhweJtpGLSQZG5N) | 2:40 | 2024-09-05 | 2025-01-24 |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-14 |  |
 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 | 2024-12-13 |  |
 | [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 | 2024-11-15 |  |
 

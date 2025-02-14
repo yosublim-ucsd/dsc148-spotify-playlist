@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras elevando a la Música Mexicana\. Cover: Luis R Conriquez & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,359,151 likes - 61 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,359,795 likes - 61 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "LA HAINE",
+        "url": "https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "LA HAINE",
+      "url": "https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn"
+    },
+    {
+      "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,884 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,923 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 15 | [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 |
 | 16 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
 | 17 | [Sufoco](https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alerta Geral](https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra) | 4:05 |
-| 18 | [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 |
-| 19 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 |
+| 18 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 |
+| 19 | [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 |
 | 20 | [Meu Limão, Meu Limoeiro \- Ao Vivo](https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Vou Deixar Cair...](https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O) | 3:08 |
 | 21 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 |
 | 22 | [Princípio, Meio e Fim](https://open.spotify.com/track/1DdX2dJfr2xrwvh3PxXkuZ) | [Camilla Araujo](https://open.spotify.com/artist/62NqspbrWjKE0LG4hihjHg), [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI), [Leàndro Máttos](https://open.spotify.com/artist/4ICyNLr5zrJ4BO6bM7P8iO) | [Princípio, Meio e Fim](https://open.spotify.com/album/7hvbQZR2cEykFbhb5Og0V0) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,054 likes - 220 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,147 likes - 220 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

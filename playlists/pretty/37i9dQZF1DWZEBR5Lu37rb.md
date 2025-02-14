@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,813 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,920 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 33 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
 | 34 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 |
 | 35 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
-| 36 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 37 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
+| 36 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
+| 37 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
 | 38 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
 | 39 | [Fairytale](https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [Oscillations](https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts) | 5:06 |
 | 40 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 50 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 |
 | 51 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
 | 52 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
-| 53 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
-| 54 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
+| 53 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
+| 54 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
 | 55 | [Easy to Love](https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Princess of House \(Easy to Love\)](https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR) | 5:35 |
 | 56 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 57 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |

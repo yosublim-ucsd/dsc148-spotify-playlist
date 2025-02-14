@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-210 songs - 12 hr 1 min
+212 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Be Kind](https://open.spotify.com/track/1v2dSYojE7oigmkN9gPQ0v) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Be Kind](https://open.spotify.com/album/56iqovByIl1QFLh1Ouztnh) | 4:24 | 2025-01-25 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-12-22 | 2023-05-05 |
 | [Before You Let Me Go](https://open.spotify.com/track/2yu5RQzExtQOGV875tfPIX) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:42 | 2023-07-13 | 2024-04-05 |
-| [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2024-04-18 |  |
+| [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2024-04-18 | 2025-02-14 |
 | [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 | 2024-04-19 |
 | [Beggin’ \- Acoustic](https://open.spotify.com/track/7a5QGqYKUMSv1cBdG6RQo0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Beggin'](https://open.spotify.com/album/4dkbdbQXcDgDAjhLWgYn9F) | 3:52 | 2024-06-07 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 | 2024-08-01 |  |
@@ -56,6 +56,7 @@
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-16 |  |
 | [De Echte Vent](https://open.spotify.com/track/01MCHGtGZHtYVeVUNqgMbC) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [De Echte Vent](https://open.spotify.com/album/2r2rQrvSsr9iyZvTLuMUcJ) | 3:55 | 2022-12-22 | 2023-04-29 |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2022-12-22 |  |
+| [Defenseless](https://open.spotify.com/track/7lJRWdXp88DJecgWmEiGAR) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Defenseless](https://open.spotify.com/album/5nNXOc7Bd8eJQHs5Elsz5H) | 4:21 | 2025-02-13 |  |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-12-22 | 2024-04-19 |
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2024-04-18 |  |
 | [Electric Life](https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Electric Life](https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6) | 3:14 | 2022-12-22 |  |
@@ -169,7 +170,7 @@
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2022-12-22 | 2023-11-24 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2023-02-01 | 2024-04-19 |
 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 | 2024-04-18 |  |
-| [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 | 2022-12-22 |  |
+| [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 | 2022-12-22 | 2025-02-14 |
 | [Tattoo](https://open.spotify.com/track/4UfNfXmf6TosF4MsJYcaph) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Tattoo](https://open.spotify.com/album/7uYTIkxdTFnLaetkUJKT4m) | 3:39 | 2022-12-22 | 2024-07-27 |
 | [Tell Me That You Miss Me](https://open.spotify.com/track/5tDCPZMXj1gEKLqYsJDhWa) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Tell Me That You Miss Me](https://open.spotify.com/album/4rSITSawyDRONvcpYUjXP4) | 2:55 | 2022-12-22 | 2023-12-25 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-12-22 |  |
@@ -205,6 +206,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-12-22 | 2023-02-24 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-12-22 | 2023-04-26 |
 | [Weathered \- Stripped](https://open.spotify.com/track/3AnaM2KjdnVzEsyZJeWpa3) | [James Walker](https://open.spotify.com/artist/08cmuH6uJGH9dQjvvdkTvR) | [Weathered \(Stripped\)](https://open.spotify.com/album/5EwUclGhBBOHWtVbu8AIGu) | 4:08 | 2022-12-22 | 2023-12-16 |
+| [What If](https://open.spotify.com/track/4YQU1knQzsxag5JqJyNNMb) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [What If](https://open.spotify.com/album/0DG6SymB8u52tW9xEUMgHB) | 2:43 | 2025-02-13 |  |
 | [what it is to love](https://open.spotify.com/track/1D8EkYBlvHNhdZ5bEYxO12) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [what it is to love](https://open.spotify.com/album/76qrFblYh2LPN1k5whi6Lp) | 3:07 | 2024-02-08 |  |
 | [When I Feel This Way](https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When I Feel This Way](https://open.spotify.com/album/0tIUxcgbx06IQKAk8x7lM6) | 3:19 | 2022-12-22 | 2025-01-26 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-12-22 | 2024-04-19 |

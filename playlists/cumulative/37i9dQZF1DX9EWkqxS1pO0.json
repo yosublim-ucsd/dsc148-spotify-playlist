@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Kaan Malko\u00e7",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: manifest",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196617,
       "name": "Arabesk Par\u00e7alar",
       "url": "https://open.spotify.com/track/7vQqKSxS9Ja02vsUXxPMIL"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 189187,
       "name": "Ben Bu Kalbi Ne Yapsam",
       "url": "https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v"
@@ -694,6 +694,24 @@
       "duration_ms": 155714,
       "name": "Bu Ne Bela",
       "url": "https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5"
+    },
+    {
+      "album": {
+        "name": "Bu Yang\u0131n",
+        "url": "https://open.spotify.com/album/0Q2PPmruCGGiTnVthScLtt"
+      },
+      "artists": [
+        {
+          "name": "merhababensokak",
+          "url": "https://open.spotify.com/artist/3G9IfSbpM10wK68aNR9k4Y"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182869,
+      "name": "Bu Yang\u0131n",
+      "url": "https://open.spotify.com/track/3IQpvbZ2ziQLdZ6muToMb7"
     },
     {
       "album": {
@@ -1721,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "K\u0131rlang\u0131\u00e7lar",
+        "url": "https://open.spotify.com/album/2Lg3sLUbFvN241rtsaAanx"
+      },
+      "artists": [
+        {
+          "name": "ENGIN",
+          "url": "https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272508,
+      "name": "K\u0131rlang\u0131\u00e7lar",
+      "url": "https://open.spotify.com/track/3H3k1XBns0Wh9MRvQcht7u"
+    },
+    {
+      "album": {
         "name": "Laleler Beyaz",
         "url": "https://open.spotify.com/album/6QlahLGtmsSu94e6dT9Gtd"
       },
@@ -2374,7 +2410,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 209423,
       "name": "Sonumu Bile Bile",
       "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"
@@ -2512,6 +2548,24 @@
       "duration_ms": 175200,
       "name": "Tamam",
       "url": "https://open.spotify.com/track/04bEcRfmY6N3rsfSlfuc7p"
+    },
+    {
+      "album": {
+        "name": "Tane Tane",
+        "url": "https://open.spotify.com/album/1WOEq0dz8Hx2yaB0oOLl3e"
+      },
+      "artists": [
+        {
+          "name": "Batuhan Polat",
+          "url": "https://open.spotify.com/artist/6SZpPDwlBPtvx9TDoBgwH8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289375,
+      "name": "Tane Tane",
+      "url": "https://open.spotify.com/track/1Fn1hhLZj1cQc1CSmiVpJf"
     },
     {
       "album": {
@@ -3329,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "\u00e7ok zor",
+        "url": "https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB"
+      },
+      "artists": [
+        {
+          "name": "FEM",
+          "url": "https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147352,
+      "name": "\u00e7ok zor",
+      "url": "https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv"
+    },
+    {
+      "album": {
         "name": "\u00c7orba",
         "url": "https://open.spotify.com/album/5vBmUAFkcCD4eyIeKUSln8"
       },
@@ -3470,7 +3542,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 213500,
       "name": "\u015eehrin I\u015f\u0131klar\u0131",
       "url": "https://open.spotify.com/track/76A20QpQga3jqEgnMnUlwT"

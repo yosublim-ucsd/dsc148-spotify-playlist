@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Lotusx
+> Geleceğin seslerini dinle! Kapak: Baran Mengüç
 
 89 songs - 4 hr 15 min
 

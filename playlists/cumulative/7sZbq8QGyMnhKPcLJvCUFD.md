@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-666 songs - 1 day 9 hr 46 min
+667 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Catching Feelings](https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe) | [Catching Feelings](https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq) | 2:25 | 2023-03-01 | 2023-08-10 |
 | [Cereb](https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Cereb](https://open.spotify.com/album/201kszqcsGij86IBeZvFnj) | 4:36 | 2023-08-03 | 2023-08-10 |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 | 2023-04-28 |
+| [Change](https://open.spotify.com/track/3UqK34q5uhmHsyQhBIV2T4) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Change](https://open.spotify.com/album/3OBJ42ekOCgYt5Pj7idOwY) | 3:07 | 2025-02-13 |  |
 | [CHEAT CODES](https://open.spotify.com/track/5yGTjvc0o9OwCtTJ1MzpRy) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [CHEAT CODES](https://open.spotify.com/album/1qzpCa6E72boKZ3gf7QpTS) | 3:28 | 2024-12-16 |  |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 | 2023-08-10 |
 | [Citadel](https://open.spotify.com/track/0EXrVB7WHXOnVjegjcgIPu) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waterflame](https://open.spotify.com/artist/7biIlpW0y5KqYIehTQz1wz) | [Citadel](https://open.spotify.com/album/29xwUf0mStw4SKxxKxSxcG) | 3:27 | 2024-11-22 |  |

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
+> Dendang Dangdut teratas\. Cover: Wandra Restusiyan
 
-220 songs - 17 hr 19 min
+221 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 | 2023-09-29 |
 | [Simpati Cinta](https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Simpati Cinta](https://open.spotify.com/album/3dBT1zmQ9QOqx4PtLF9TPw) | 5:56 | 2023-04-28 | 2024-11-29 |
 | [Sinar Pelangi](https://open.spotify.com/track/668dgOwLrtua1DLaITJsYb) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/6P94jF7Fw16uVZXxw4G14o) | 4:10 | 2024-09-06 | 2025-01-31 |
+| [Sing Tego](https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Sing Tego](https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk) | 4:27 | 2025-02-13 |  |
 | [Singget](https://open.spotify.com/track/1s69jZHwfpgPopf2pGYEoS) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Album, Vol\. 3](https://open.spotify.com/album/2NzestN2ZSOAOIxn9EfHlm) | 4:45 | 2023-03-30 | 2023-08-25 |
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |
 | [Suci \- Live At Ska Reggae](https://open.spotify.com/track/6FDjmD8pvkNPy5YBAy3tl9) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Suci \(Live At Ska Reggae\)](https://open.spotify.com/album/6dZ9I20Muk6DnDfVWHwNlI) | 5:38 | 2024-09-26 | 2024-10-18 |

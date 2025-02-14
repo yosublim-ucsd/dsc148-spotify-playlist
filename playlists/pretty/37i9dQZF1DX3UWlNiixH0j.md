@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ズカイ \(Zukai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,583 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,612 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 41 | [little gley](https://open.spotify.com/track/7sHX1Fo3pI5VB69KLIyxBW) | [Dokkoise House](https://open.spotify.com/artist/6fZC5XbFsie1IY1dMUuNyT) | [little gley](https://open.spotify.com/album/53Z56gCwyjkPyusHdiymrw) | 4:24 |
 | 42 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
 | 43 | [Dark Chocolate](https://open.spotify.com/track/1XRQDWMclZqM2uUQCtRoQJ) | [Illreme](https://open.spotify.com/artist/2DjU1RKTeSmnOGyMOJUoHX) | [Bittersweetness](https://open.spotify.com/album/27R7TpZEV71NPCQSMuF2Cp) | 3:50 |
-| 44 | [naughty AI](https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [naughty AI](https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY) | 2:39 |
+| 44 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 |
 | 45 | [Day for Night](https://open.spotify.com/track/3jvlsZoGIqqFIaSSs8XgJ5) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [In Awe Of Nature](https://open.spotify.com/album/6NkglpK6PsYWODeFoiwxyq) | 5:18 |
-| 46 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 |
+| 46 | [naughty AI](https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [naughty AI](https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY) | 2:39 |
 | 47 | [こころにさわる](https://open.spotify.com/track/5NoNglAEY6KHzfg5VEXS8w) | [モテギスミスバンド](https://open.spotify.com/artist/27gSxWOxTu47hkiBfsgsd6) | [こころにさわる](https://open.spotify.com/album/6Q3NmDAjTY03iJRRMUMStT) | 4:10 |
 | 48 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
 | 49 | [リズのきもち](https://open.spotify.com/track/1lvUypGqqAZ4DvuTjcfEcO) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [The 100 Things](https://open.spotify.com/album/5xDFlcm6TVnD4tTWCrZERT) | 3:50 |
 | 50 | [VLM](https://open.spotify.com/track/42EbmuvT7a2UZ73tx7n3EU) | [comeropeway](https://open.spotify.com/artist/5UdDLwMKAHOnmNMNe3HjtJ) | [VLM](https://open.spotify.com/album/2zGVvF4B1jZKljmw2oVeFU) | 4:46 |
 | 51 | [Alone](https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [Alone](https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE) | 3:45 |
 | 52 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 |
-| 53 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
+| 53 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
 | 54 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 |
-| 55 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
+| 55 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
 | 56 | [sober](https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [sober](https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr) | 3:56 |
 | 57 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 58 | [Blue Train](https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [Lemuria](https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo) | 3:44 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 71 | [火魅蟲](https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [火魅蟲](https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG) | 3:10 |
 | 72 | [Echoes](https://open.spotify.com/track/1PIe3nJeOu1ssOVOvID4bL) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Echoes](https://open.spotify.com/album/0HdbHHtE0svFLBibnDEHWl) | 2:58 |
 | 73 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
-| 74 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
-| 75 | [Fine Love](https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fine Love](https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh) | 4:45 |
+| 74 | [アンブレイラ](https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [S'more](https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ) | 3:57 |
+| 75 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
 
 Snapshot ID: `Z6v6NwAAAABDQg/w98TNHlA2jFUN1dUm`

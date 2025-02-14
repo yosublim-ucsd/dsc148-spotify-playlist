@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,000 songs - 6 day 21 hr 31 min
+3,002 songs - 6 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1725,6 +1725,7 @@
 | [Mirrors](https://open.spotify.com/track/1N1MKJybisCykTIeTyaXYP) | [lofácil](https://open.spotify.com/artist/63t2fIxO0FthRVvsTWIRnO) | [UMBRALES](https://open.spotify.com/album/5MamMVwGmwPIR7GEEnHlvZ) | 2:54 | 2024-12-13 | 2024-12-28 |
 | [MIS PUTAS LO MUEVEN PT2](https://open.spotify.com/track/26n5FCBXjGOpMIQHxPdy6T) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [PUSSY TASTE](https://open.spotify.com/album/1rzO1W8fvGZcMJI4frUY10) | 2:57 | 2024-05-03 | 2024-05-18 |
 | [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-19 | 2024-07-27 |
+| [Mis ídolos están en mi casa](https://open.spotify.com/track/6RIBmb2ULjexyrf9iAWXTU) | [marquitos](https://open.spotify.com/artist/6BsVKwQgIZHaojxpNmOlRU) | [Mis ídolos están en mi casa](https://open.spotify.com/album/4XRa2V0Quhj4qJ1J4HZywO) | 3:39 | 2025-02-13 |  |
 | [misericordia](https://open.spotify.com/track/6zbotpKz2yANINcgHItpFr) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [misericordia](https://open.spotify.com/album/5V4WDNxEAEM3voCR4NsPSf) | 1:55 | 2024-12-13 | 2024-12-28 |
 | [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-29 | 2024-12-07 |
 | [Misil](https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Misil](https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq) | 2:53 | 2024-09-27 | 2024-10-05 |
@@ -1736,6 +1737,7 @@
 | [Modern Cycling](https://open.spotify.com/track/68OUxeZTW4tvp894XWMKuA) | [Marcelo Pantani](https://open.spotify.com/artist/2PAXsvAXDIVnygDHUl4hAd) | [Modern Cycling](https://open.spotify.com/album/5creZP78EkhW9FHrWnIm3p) | 4:00 | 2025-01-31 | 2025-02-08 |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-06 | 2024-09-14 |
 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 | 2024-07-12 | 2024-07-19 |
+| [Mon Cheri Go Home](https://open.spotify.com/track/0340Kvl35SM3t1Hg0ReBj4) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO), [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [Mon Cheri Go Home](https://open.spotify.com/album/6yUTviwyp8FZoHJ2abAz4G) | 2:51 | 2025-02-13 |  |
 | [Moncayo](https://open.spotify.com/track/0wxOv1YxMqZXvT1xexK6z9) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Moncayo](https://open.spotify.com/album/70laXbKWQ8GnXIJ84Vo4p4) | 3:19 | 2024-11-29 | 2024-12-07 |
 | [MONIGOTE](https://open.spotify.com/track/1nwZIxkW9v2WLtk2wUKn3b) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ) | [AMORIOS\. LA VERDAD DE MI COPLILLA](https://open.spotify.com/album/3xLRVcOyWsWxmoqB3A7cpa) | 2:10 | 2025-01-24 | 2025-02-01 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-01-24 | 2025-02-01 |

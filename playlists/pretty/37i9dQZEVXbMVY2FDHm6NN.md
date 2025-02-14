@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,168 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,181 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 4 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 5 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 6 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
-| 7 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 7 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 |
 | 8 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 9 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 |
+| 9 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 10 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
-| 11 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
+| 11 | [REBEL HEART](https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/7wDskR5Q6K1qqLPEG8W8kB) | 3:08 |
 | 12 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 |
 | 13 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 |
 | 14 | [Hold On](https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Hold On](https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v) | 3:00 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 22 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 |
 | 23 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 |
 | 24 | [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 |
-| 25 | [Supernova](https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 2:58 |
+| 25 | [Supernova](https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4) | 2:58 |
 | 26 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
 | 27 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:49 |
 | 28 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 35 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 36 | [Winter Ahead \(with PARK HYO SHIN\) : Silent Carol Ver.](https://open.spotify.com/track/0KqCs7XM8rsaRg9Kv8PbUa) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\) : Silent Carol Ver.](https://open.spotify.com/album/4hcghI7Io7BFdHHsiaAylg) | 3:34 |
 | 37 | [跳楼机](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [跳楼机](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
-| 38 | [FOREVER](https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:32 |
+| 38 | [FOREVER](https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:32 |
 | 39 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 |
 | 40 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
 | 41 | [小孩](https://open.spotify.com/track/6kyH1z6IdLo1GH3EcZXHMa) | [罗森涛](https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi) | [为何离开](https://open.spotify.com/album/3bDRe5CwhS5NGuZS0trZw7) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [愛, 很簡單](https://open.spotify.com/track/3OXHwY8gI2QUh0QliXBwrI) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [陶喆同名專輯](https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q) | 4:29 |
 | 50 | [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 |
 
-Snapshot ID: `L0AMSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L0FdyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

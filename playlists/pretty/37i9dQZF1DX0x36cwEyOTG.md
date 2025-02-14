@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,393 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,481 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 12 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
 | 13 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 14 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
-| 15 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
-| 16 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 16 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
 | 17 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 18 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 19 | [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 43 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 44 | [Free](https://open.spotify.com/track/4b57xU7rviFrRgilxMjDJb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:36 |
 | 45 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
-| 46 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |
-| 47 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 46 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 47 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |
 | 48 | [Interlude I \(The End\)](https://open.spotify.com/track/1bApBBq8aa3GYHOX8Mdsp9) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 1:14 |
 | 49 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 |
 | 50 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |

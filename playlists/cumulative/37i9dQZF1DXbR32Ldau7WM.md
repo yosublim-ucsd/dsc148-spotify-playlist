@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: indigo la End
 
-1,207 songs - 3 day 7 hr 39 min
+1,208 songs - 3 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-06-09 | 2022-06-12 |
 | [FALLING](https://open.spotify.com/track/7ms5u8VD4iHQLjRGh73IRG) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [FALLING](https://open.spotify.com/album/39CHUE0HBfOR5d65BPD6Pv) | 5:22 | 2022-05-10 | 2022-05-18 |
 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 | 2023-02-21 | 2024-04-24 |
+| [farewell](https://open.spotify.com/track/4nhQgXGvIDZmQR5GG7urbF) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [farewell](https://open.spotify.com/album/3zI5YFsZPqgzexM8CJijQJ) | 3:40 | 2025-02-13 |  |
 | [Feel Alive](https://open.spotify.com/track/6P0ZFKD6ovXnpJ8fOTzuRB) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [Feel Alive](https://open.spotify.com/album/5vbFIeNWKOdJaIC4JtgtG8) | 4:20 | 2022-05-12 | 2022-07-27 |
 | [Feel bad](https://open.spotify.com/track/2Plic6QHr74DA4XCnsJZ9R) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Feel bad](https://open.spotify.com/album/00dCuHlzXdSO61DbhQpBkF) | 3:59 | 2022-05-17 | 2022-06-12 |
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-06-15 |
@@ -471,7 +472,7 @@
 | [Re\-monolith](https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-monolith](https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa) | 3:23 | 2023-10-10 | 2023-10-27 |
 | [Re\-swim](https://open.spotify.com/track/4mOpM9lKBtokiyhFHubxWm) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-Birth](https://open.spotify.com/album/7ISkjyWyY2TfNj5JyMv98c) | 4:08 | 2023-10-17 | 2023-11-18 |
 | [Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:48 | 2023-06-27 | 2024-02-21 |
-| [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 | 2025-01-14 |  |
+| [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 | 2025-01-14 | 2025-02-14 |
 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 | 2025-01-28 |  |
 | [Reasons](https://open.spotify.com/track/7qwgLDrm52qPs3acF8SLJr) | [CONFVSE](https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT) | [Reasons](https://open.spotify.com/album/4UywvUBYPPckuNbgqT8LXg) | 3:42 | 2023-04-04 | 2023-04-12 |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-07 |  |

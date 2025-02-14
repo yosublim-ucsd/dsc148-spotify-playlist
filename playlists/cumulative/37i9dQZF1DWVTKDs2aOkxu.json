@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Inhaler",
+  "description": "The best indie music of the moment. Cover: Bon Iver",
   "name": "The Indie List",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
+    },
+    {
+      "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
     },
     {
       "album": {
@@ -430,7 +452,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 191476,
       "name": "Ankles",
       "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
@@ -542,10 +564,28 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
     },
     {
       "album": {
@@ -582,6 +622,24 @@
       "duration_ms": 250537,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co"
+    },
+    {
+      "album": {
+        "name": "Backseat Banton",
+        "url": "https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211289,
+      "name": "Backseat Banton",
+      "url": "https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0"
     },
     {
       "album": {
@@ -747,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
+    },
+    {
+      "album": {
         "name": "Besties",
         "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
       },
@@ -776,7 +852,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 232290,
       "name": "Better",
       "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
@@ -964,6 +1040,24 @@
       "duration_ms": 165200,
       "name": "Body",
       "url": "https://open.spotify.com/track/1lb8y5ayNhqmoyDMULKPhn"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215258,
+      "name": "body to you",
+      "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
     },
     {
       "album": {
@@ -1418,7 +1512,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 203766,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj"
@@ -1804,7 +1898,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 243314,
       "name": "ellipsis",
       "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
@@ -1822,7 +1916,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169051,
       "name": "embodiment",
       "url": "https://open.spotify.com/track/4CbqNz6Xm1gzkNuCzmvQik"
@@ -1884,6 +1978,24 @@
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "album": {
@@ -2208,6 +2320,24 @@
       "duration_ms": 217413,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH"
     },
     {
       "album": {
@@ -2976,7 +3106,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169586,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC"
@@ -3102,7 +3232,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
@@ -3329,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
+    },
+    {
+      "album": {
         "name": "Love Me Not (feat. Rex Orange County)",
         "url": "https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI"
       },
@@ -3528,6 +3676,24 @@
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
+      "album": {
+        "name": "Mega Circuit",
+        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184933,
+      "name": "Mega Circuit",
+      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
     },
     {
       "album": {
@@ -3949,6 +4115,24 @@
     },
     {
       "album": {
+        "name": "Omorfo Mou",
+        "url": "https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "Omorfo Mou",
+      "url": "https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq"
+    },
+    {
+      "album": {
         "name": "One Way Ticket",
         "url": "https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq"
       },
@@ -3996,7 +4180,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 145093,
       "name": "Orlando in Love",
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
@@ -4176,7 +4360,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 309820,
       "name": "Pill",
       "url": "https://open.spotify.com/track/4SqWJA9Yq8PGqhaXcLlENN"
@@ -4216,6 +4400,42 @@
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "album": {
+        "name": "pitpony",
+        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156536,
+      "name": "pitpony",
+      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
+    },
+    {
+      "album": {
+        "name": "Pleasures / Oh, Completely",
+        "url": "https://open.spotify.com/album/7JlRDvAPTpb1FD8C2G9GlG"
+      },
+      "artists": [
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Pleasures",
+      "url": "https://open.spotify.com/track/2SXSuPOPV15AZs6hjd33kl"
     },
     {
       "album": {
@@ -4544,7 +4764,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 174322,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB"
@@ -5251,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
+    },
+    {
+      "album": {
         "name": "Novium",
         "url": "https://open.spotify.com/album/75lQ42UAIOZSNNhrXbdiqh"
       },
@@ -5320,7 +5558,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 221565,
       "name": "The Beginning Of The End (feat. DMA'S)",
       "url": "https://open.spotify.com/track/0vtyxhoTo6eWHLQg8ewa9J"
@@ -5584,6 +5822,28 @@
       "duration_ms": 210666,
       "name": "There Goes My Baby",
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
     },
     {
       "album": {
@@ -5958,7 +6218,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 464880,
       "name": "Vacillator",
       "url": "https://open.spotify.com/track/2qaEUTFIjxaQJB8zHRJVWH"
@@ -6020,7 +6280,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 298846,
       "name": "Wants Needs",
       "url": "https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,365 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,438 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 45 | [Nobody Like You \(Live\)](https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 7:22 |
 | 46 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 47 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well \(Live\)](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
-| 48 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
-| 49 | [Jesus, Come Be the Center \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 8:08 |
+| 48 | [Jesus, Come Be the Center \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 8:08 |
+| 49 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
 | 50 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 51 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 52 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |

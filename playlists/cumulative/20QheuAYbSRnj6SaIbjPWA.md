@@ -4,7 +4,7 @@
 
 > 2021
 
-99 songs - 6 hr 27 min
+102 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2023-11-28 |  |
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2023-10-17 |  |
 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 | 2024-11-18 |  |
+| [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-02-13 |  |
 | [Hate](https://open.spotify.com/track/399olOwTieMU3hqelRsfpH) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 4:04 | 2023-05-31 |  |
 | [Heaven](https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 4:36 | 2025-01-11 |  |
 | [HGU](https://open.spotify.com/track/4q6iKWRy3auzEn9dRoLInk) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:21 | 2024-01-22 |  |
@@ -91,6 +92,7 @@
 | [Stars & Shards](https://open.spotify.com/track/6e6VlzrbLQtXpfcwS77sTn) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:07 | 2023-09-16 |  |
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2023-10-11 |  |
 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 | 2023-03-29 |  |
+| [Sunshine on Leith](https://open.spotify.com/track/3Vu6IeuO4sZMt8RAO4du7s) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 5:16 | 2025-02-13 |  |
 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 | 2025-02-01 |  |
 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2022-06-27 |  |
 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 | 2023-08-17 |  |
@@ -98,6 +100,7 @@
 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 | 2023-05-13 |  |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2022-10-25 |  |
 | [Those Eyes](https://open.spotify.com/track/1EstYSjIaL8l203EfVvY9T) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Those Eyes](https://open.spotify.com/album/5mvPjMGElKVYz6NtL4O8e5) | 3:38 | 2023-12-18 |  |
+| [Toothpaste Kisses](https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Colour It In](https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s) | 2:39 | 2025-02-13 |  |
 | [Transformation](https://open.spotify.com/track/6zGAgfm8fbkUq51sBg194z) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 5:16 | 2024-04-24 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-07-24 |  |
 | [Wandering Nomad](https://open.spotify.com/track/03l0rO4IIIuGWqOujIJXOK) | [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Good Days](https://open.spotify.com/album/7zZWkvMoTkylBihC81VqDd) | 2:53 | 2022-07-01 |  |

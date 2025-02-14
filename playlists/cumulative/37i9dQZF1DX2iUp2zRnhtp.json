@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Batmobile",
+        "url": "https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117216,
+      "name": "Batmobile",
+      "url": "https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -1665,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "High Fashion",
+        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
+    },
+    {
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
       },
@@ -2156,10 +2192,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169578,
       "name": "Livet",
       "url": "https://open.spotify.com/track/0de3W34QGX6ERSA4gwprgA"
+    },
+    {
+      "album": {
+        "name": "Lojal",
+        "url": "https://open.spotify.com/album/65bM3ytzxEz75NFsJo5MvI"
+      },
+      "artists": [
+        {
+          "name": "Tonje",
+          "url": "https://open.spotify.com/artist/6WA5TJtCL1yhXTouYM59k7"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178475,
+      "name": "Lojal",
+      "url": "https://open.spotify.com/track/3QC5f4nKvmJkA9kQ2P9dyX"
     },
     {
       "album": {
@@ -2568,7 +2622,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 175579,
       "name": "NATT & DAG",
       "url": "https://open.spotify.com/track/53slL2n0a5aRVf7dOoPUKO"
@@ -2666,7 +2720,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 137460,
       "name": "Noe mere",
       "url": "https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4"
@@ -2706,7 +2760,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 199578,
       "name": "N\u00e5gon kommer \u00e4lska dig igen",
       "url": "https://open.spotify.com/track/3ZiSSGYuMe8pfCZcUnktZs"
@@ -2902,6 +2956,24 @@
       "duration_ms": 147125,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4"
+    },
+    {
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "album": {

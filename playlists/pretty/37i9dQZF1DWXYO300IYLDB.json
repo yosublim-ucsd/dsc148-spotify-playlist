@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139402,
+  "num_followers": 139396,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
         "name": "The Ones We Once Loved",
         "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 273362,
       "name": "The Ones We Once Loved",
       "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
-        "name": "Think I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        },
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Think I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -951,18 +947,22 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "Heartbreakdown",
-        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+        "name": "Think I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
         }
       ],
-      "duration_ms": 254822,
-      "name": "Heartbreakdown",
-      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+      "duration_ms": 164494,
+      "name": "Think I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208154,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208154,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
-        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
-      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
         "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
         "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1387,6 +1371,22 @@
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1435,6 +1435,22 @@
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1499,22 +1515,6 @@
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+      },
+      "artists": [
+        {
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1603,18 +1619,22 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+        "name": "I'm So Happy",
+        "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
       "artists": [
         {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+      "duration_ms": 173365,
+      "name": "I'm So Happy (with BENEE)",
+      "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
     },
     {
       "added_at": "2025-02-06 15:00:21",
@@ -1647,26 +1667,6 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
-    },
-    {
-      "added_at": "2025-02-06 15:00:21",
-      "album": {
-        "name": "I'm So Happy",
-        "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "I'm So Happy (with BENEE)",
-      "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
     },
     {
       "added_at": "2025-02-06 15:00:21",

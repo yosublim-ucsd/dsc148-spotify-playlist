@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Rawayana & Akapellah",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Alleh & Yorghaki",
   "name": "Made In Venezuela",
   "tracks": [
     {
@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146857,
+      "name": "el ingeniero",
+      "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
+    },
+    {
+      "album": {
         "name": "El Peor",
         "url": "https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT"
       },
@@ -1436,7 +1458,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 146165,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH"
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 209941,
       "name": "La Ducha",
       "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
@@ -1802,6 +1824,32 @@
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201307,
+      "name": "Me Pasa (Piscis)",
+      "url": "https://open.spotify.com/track/2vXg6TC7mpRe28inMM7JVk"
     },
     {
       "album": {

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover:Jasmine Kelly
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Almond Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,200 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,201 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dancing in the Dark 2.0](https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [等一下就回家](https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z) | [Dancing in the Dark 2.0](https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen) | 3:22 |
-| 2 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 |
-| 3 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
-| 4 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 |
-| 5 | [Mountain Song](https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Mountain Song](https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I) | 3:10 |
-| 6 | [Be Your Man](https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Be Your Man](https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8) | 3:59 |
-| 7 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
-| 8 | [Tender Lover](https://open.spotify.com/track/4t4kEwlfJXNmEnnCLNHKwm) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:24 |
+| 1 | [Mountain Song](https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Mountain Song](https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I) | 3:10 |
+| 2 | [Be Your Man](https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Be Your Man](https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8) | 3:59 |
+| 3 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
+| 4 | [Tender Lover](https://open.spotify.com/track/4t4kEwlfJXNmEnnCLNHKwm) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:24 |
+| 5 | [Dancing in the Dark 2.0](https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [等一下就回家](https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z) | [Dancing in the Dark 2.0](https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen) | 3:22 |
+| 6 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 |
+| 7 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
+| 8 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 |
 | 9 | [Like Snow](https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Like Snow](https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6) | 2:51 |
 | 10 | [Let's Stay In](https://open.spotify.com/track/4ez32AQQjqjw4F1hItmqA0) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Let's Stay In](https://open.spotify.com/album/6zMofv6OrGxA1VG1Kuex1r) | 2:30 |
 | 11 | [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 68 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 69 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `Z6TcmAAAAABaByA2uZhfcIjijtr2epzB`
+Snapshot ID: `Z64XEQAAAABheMTqINoWutph68HXMehH`

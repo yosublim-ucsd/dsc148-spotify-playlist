@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,864 likes - 50 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,885 likes - 50 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 35 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
 | 36 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
 | 37 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
-| 38 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
-| 39 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
+| 38 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
+| 39 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 40 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
-| 41 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
-| 42 | [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 |
+| 41 | [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 |
+| 42 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
 | 43 | [my new love](https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:05 |
 | 44 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
 | 45 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |

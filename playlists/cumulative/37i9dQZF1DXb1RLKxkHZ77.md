@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Tenxi, Jemsii, Naykilla
 
-628 songs - 1 day 15 hr 26 min
+629 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,8 @@
 | [Nak Dara Rindu](https://open.spotify.com/track/6W5zgdGi4NFnbyslbrmy6L) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Belagu II](https://open.spotify.com/album/56IDVtAk3NJ4FM8ScK1kEk) | 4:04 | 2023-02-01 | 2023-03-23 |
 | [Nang](https://open.spotify.com/track/7mDvcKlMxONKaDWgYNIKmX) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Nang](https://open.spotify.com/album/0WwKzpFVUeGJoRFT8dfPmL) | 3:26 | 2022-05-25 | 2022-08-18 |
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 | 2023-06-07 | 2024-05-09 |
-| [Nanti pulangnya ke aku, ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 | 2025-02-12 |  |
+| [Nanti pulangnya ke aku, ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 | 2025-02-12 | 2025-02-14 |
+| [Nanti pulangnya ke aku, ya?](https://open.spotify.com/track/5xMqdhb6zSRQhXpgYuL4lv) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/0UI4CCBeKA3Wrj4iymyYUc) | 3:46 | 2025-02-13 |  |
 | [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 | 2022-06-01 |
 | [Nirmala](https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Nirmala](https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs) | 3:10 | 2025-01-22 |  |
 | [No Skibidi](https://open.spotify.com/track/29fTQ2g0s1b9h1KZvwi2IF) | [Caprice](https://open.spotify.com/artist/08kchik08wcyQ6UQCn9R0w), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [B\-Heart](https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK), [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe) | [No Skibidi](https://open.spotify.com/album/6jGGuwBQsqrMGi2GqOuIY6) | 3:08 | 2024-10-30 | 2024-11-21 |

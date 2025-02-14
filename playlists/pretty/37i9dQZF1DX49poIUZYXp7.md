@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Ashley Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,069 likes - 134 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,144 likes - 134 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

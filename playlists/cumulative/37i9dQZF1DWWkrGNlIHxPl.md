@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-358 songs - 19 hr 40 min
+359 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 | 2023-08-06 |  |
 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 | 2024-04-12 |  |
 | [CALM DOWN](https://open.spotify.com/track/6cCVxAMuRfgCuRzHhATwAu) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Shepard](https://open.spotify.com/artist/7cOAU2gxgUOgRTMxoMWXwM) | [CALM DOWN](https://open.spotify.com/album/1S35vubI5QNZUlmYK6p0Zz) | 1:30 | 2024-01-05 | 2024-07-18 |
+| [Can't Afford](https://open.spotify.com/track/51V2cgFDgUZjcUtd68ygR4) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Can't Afford](https://open.spotify.com/album/2YH6KgZ6AE5Ahbte48fJ6E) | 3:10 | 2025-02-13 |  |
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
 | [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 | 2023-06-13 | 2023-09-20 |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-04-09 |
@@ -252,7 +253,7 @@
 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 | 2023-01-31 | 2024-03-21 |
 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-07 | 2023-05-08 |
 | [Preach](https://open.spotify.com/track/57wTXMZjMKP9X06b1NIQob) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Preach](https://open.spotify.com/album/1BwCdCiFsakr3hemuRKn08) | 2:29 | 2024-10-07 |  |
-| [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 | 2024-02-13 |  |
+| [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 | 2024-02-13 | 2025-02-14 |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-08 | 2023-04-01 |
 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-20 | 2024-06-30 |
 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 | 2023-10-02 |  |

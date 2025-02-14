@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: The Weeknd
+> The best tracks from the world of music\. Cover: Ara Johari
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,006 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,131 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 39 | [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 |
 | 40 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
 | 41 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
-| 42 | [Beban](https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Beban](https://open.spotify.com/album/3pY3HRRPu6QPtYpsImd0CI) | 2:56 |
-| 43 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
-| 44 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 45 | [Tiba\-Tiba](https://open.spotify.com/track/0pbL1ru2WXMQj5h5u5ZXBC) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Kau Apa Sebenarnya?](https://open.spotify.com/album/5C8wxwbhJxbDOatGPGcXzE) | 3:39 |
-| 46 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
-| 47 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 48 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 49 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 |
-| 50 | [BEKU](https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [BEKU](https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg) | 3:26 |
+| 42 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
+| 43 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 44 | [Tiba\-Tiba](https://open.spotify.com/track/0pbL1ru2WXMQj5h5u5ZXBC) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Kau Apa Sebenarnya?](https://open.spotify.com/album/5C8wxwbhJxbDOatGPGcXzE) | 3:39 |
+| 45 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
+| 46 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 47 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
+| 48 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 |
+| 49 | [BEKU](https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [BEKU](https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg) | 3:26 |
 
-Snapshot ID: `Z6xHTQAAAAAxQvJK9PreAGu3ldbUUsw5`
+Snapshot ID: `Z64XEQAAAAD7KIMBYab3TNNTUpoACuZx`

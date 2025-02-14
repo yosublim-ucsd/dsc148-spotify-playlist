@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: The Weeknd
+> The best tracks from the world of music\. Cover: DIOR 大穎
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,754 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,760 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 50 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
 
-Snapshot ID: `Z6xD+QAAAAB0MF2lKKGfmhrFWGKyty91`
+Snapshot ID: `Z64XEQAAAACoklnQkiEIhbEVVe5xQhR9`

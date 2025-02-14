@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 919856,
+  "num_followers": 919979,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -635,8 +635,8 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "The Globe",
-        "url": "https://open.spotify.com/album/7bhRilzc9srMwwkJQc3o0e"
+        "name": "This Is Big Audio Dynamite",
+        "url": "https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
         }
       ],
-      "duration_ms": 257133,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
+      "duration_ms": 354626,
+      "name": "E=MC2",
+      "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -795,8 +795,8 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "This Is Big Audio Dynamite",
-        "url": "https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B"
+        "name": "The Globe",
+        "url": "https://open.spotify.com/album/7bhRilzc9srMwwkJQc3o0e"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
         }
       ],
-      "duration_ms": 354626,
-      "name": "E=MC2",
-      "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
+      "duration_ms": 257133,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
     }
   ],
   "unique_name": "Essential New Wave",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,884 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,911 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 42 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
 | 43 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 4:05 |
 | 44 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
-| 45 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
-| 46 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
+| 45 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
+| 46 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
 | 47 | [Ojitos Rojos](https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ojitos Rojos](https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU) | 3:01 |
 | 48 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
 | 49 | [Símbolo Sexual](https://open.spotify.com/track/1HruIuiCO9N3UsDnypp4QT) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:00 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 51 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
 | 52 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 | 53 | [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 |
-| 54 | [Ya Te Superé](https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya Te Superé](https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq) | 3:46 |
+| 54 | [CHSM El Higado](https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Hígado X2](https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR) | 3:05 |
 | 55 | [MERCEDES](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 |
-| 56 | [CHSM El Higado](https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Hígado X2](https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR) | 3:05 |
+| 56 | [Ya Te Superé](https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya Te Superé](https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq) | 3:46 |
 | 57 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 |
 | 58 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 |
 | 59 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |

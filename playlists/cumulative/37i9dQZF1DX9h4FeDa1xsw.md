@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Pitt
+> Photo : Rilès
 
-75 songs - 3 hr 32 min
+77 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,11 @@
 | [Bisou sur la bouche](https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz) | 2:45 | 2024-10-03 | 2025-01-24 |
 | [C'était pas à cause de toi](https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [C'était pas à cause de toi](https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt) | 2:46 | 2024-12-19 |  |
 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 | 2024-06-20 | 2024-09-27 |
-| [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
+| [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 | 2025-02-14 |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
 | [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit \[ARCHIVE\]](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 | 2024-06-20 | 2024-12-20 |
 | [Comic sans MS](https://open.spotify.com/track/6H3u3KdZT5d37IYhd5u6LW) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Comic sans MS](https://open.spotify.com/album/68sOOXtT9bAtUYAoXLh4i7) | 2:52 | 2025-01-23 |  |
-| [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 |  |
+| [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 | 2025-02-14 |
 | [Comment te remplacer](https://open.spotify.com/track/61wsJbova6u1UNIBmoKMcK) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Par nous\-mêmes](https://open.spotify.com/album/7hMSLnBcnkrfOs0Uluksc5) | 2:35 | 2024-12-05 |  |
 | [Corde sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 | 2024-09-26 |  |
 | [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 | 2024-06-20 | 2024-09-13 |
@@ -40,6 +40,7 @@
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-06-20 |  |
 | [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-09 |  |
 | [Joue le jeu](https://open.spotify.com/track/6yXEFxfrBRGooBzNMkUSV3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Joue le jeu](https://open.spotify.com/album/4ZsLmiGSWPRBEIBNPBUvNr) | 1:49 | 2024-11-07 |  |
+| [jtm.mp3](https://open.spotify.com/track/1PAcLSKxX1333rlWWvlFb3) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [jtm.mp3](https://open.spotify.com/album/6t484AIwPqTZP4kQcJIDjm) | 2:44 | 2025-02-13 |  |
 | [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 | 2024-07-19 |
 | [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 | 2024-11-22 |
 | [L'Été en Hiver](https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0) | [Whisper](https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Été en Hiver](https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY) | 2:32 | 2024-11-21 |  |
@@ -57,6 +58,7 @@
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2024-06-20 | 2024-09-27 |
 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 | 2024-06-20 | 2024-12-06 |
 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 | 2024-11-08 |
+| [Mon amour](https://open.spotify.com/track/2LbqFzZjgOoF2DcQp1dNch) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Mon amour](https://open.spotify.com/album/3doJ7vvQLpoISbhzbRJUcE) | 2:29 | 2025-02-13 |  |
 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 | 2024-06-20 |  |
 | [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 | 2024-06-20 | 2025-01-10 |
 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 | 2024-06-20 |  |

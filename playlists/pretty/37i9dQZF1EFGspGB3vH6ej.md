@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,176 likes - 251 songs - 17 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,177 likes - 251 songs - 17 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 193 | [Bye Bye \- So So Def Remix](https://open.spotify.com/track/2fXPWxrFr2TokVVCfSAbTy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Bye Bye \[So So Def Remix featuring JAY\-Z \(Explicit\)\]](https://open.spotify.com/album/4JQh3a9LJkY4MREMn1WOJf) | 3:53 |
 | 194 | [Do You Think of Me](https://open.spotify.com/track/4t99ozH6ai7AGBDAWcZ3hw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:48 |
 | 195 | [Subtle Invitation](https://open.spotify.com/track/5a6LOhn46syVlEjzYGsxpm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:26 |
-| 196 | [Irresistible \(West Side Connection\)](https://open.spotify.com/track/5pEyJpB2PaUxoKOAizbofd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:03 |
-| 197 | [Reflections \(Care Enough\)](https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:20 |
+| 196 | [Reflections \(Care Enough\)](https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:20 |
+| 197 | [Irresistible \(West Side Connection\)](https://open.spotify.com/track/5pEyJpB2PaUxoKOAizbofd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:03 |
 | 198 | [Vulnerability \(Interlude\)](https://open.spotify.com/track/4aDGpzH2gIF67w3hwgCI1J) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 1:11 |
 | 199 | [Did I Do That?](https://open.spotify.com/track/2pkL5uXoGAF4ZIJMT0ABLx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 200 | [Lullaby](https://open.spotify.com/track/2MUV7GGJ5aqNKIsxWLBvqM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:55 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 250 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 251 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbpbIAAAAAC49jPlus8wjnaH3uspjIrb`
+Snapshot ID: `Abpg8gAAAADnPsxJBgycjObE1BukdHGr`

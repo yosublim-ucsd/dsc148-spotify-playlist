@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Sinomine
+> ✨giovane✨pop✨z✨ Cover: CLARA
 
 627 songs - 1 day 5 hr 3 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 249769,
+  "num_followers": 249809,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 249800,
       "name": "El Taxi",
       "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "La T\u00f3xica",
+        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "La T\u00f3xica",
-        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 180520,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+      "duration_ms": 182093,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1251,22 +1267,6 @@
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Fan de Tus Fotos",
-        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Fan de Tus Fotos",
-      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1471,6 +1451,46 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "Fan de Tus Fotos",
+        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Fan de Tus Fotos",
+      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Ram Pam Pam",
+        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200785,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "B de Bellako (Remix)",
         "url": "https://open.spotify.com/album/3H3teYMly8Jvd2jVKsd1R3"
       },
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Ram Pam Pam",
-        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200785,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Polvo de tu Vida",
         "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
       },
@@ -1591,6 +1591,26 @@
       "duration_ms": 172105,
       "name": "Polvo de tu Vida",
       "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5PbK9N675eK6ZyvezMgbQR"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1619,22 +1639,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 172500,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/5PbK9N675eK6ZyvezMgbQR"
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1675,26 +1695,6 @@
       "duration_ms": 154229,
       "name": "VALERIA (feat. Gordo)",
       "url": "https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2025-02-07 06:00:19",

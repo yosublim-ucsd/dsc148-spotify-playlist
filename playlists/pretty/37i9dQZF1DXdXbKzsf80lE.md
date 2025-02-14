@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,799 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,827 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 39 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
 | 40 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 41 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 |
-| 42 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
-| 43 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
+| 42 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
+| 43 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
 | 44 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
 | 45 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
 | 46 | [Batom De Ouro](https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:18 |

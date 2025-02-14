@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Bren Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,963 likes - 164 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,978 likes - 164 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

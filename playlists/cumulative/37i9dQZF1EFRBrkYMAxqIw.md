@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 7 hr 55 min
+151 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 | 2022-05-25 |  |
 | [Hunter](https://open.spotify.com/track/1My0Hfu5dTCbYisBk9ZRGr) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:03 | 2022-05-25 |  |
 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 | 2022-05-25 |  |
+| [I Love You But You're Making Me Sad](https://open.spotify.com/track/1wkpY848iJvl8B93XqRZpS) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [I Love You But You're Making Me Sad](https://open.spotify.com/album/3BNara0XxzSHxw1ynSPRZP) | 2:55 | 2025-02-13 |  |
 | [Island](https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 2:55 | 2023-12-13 |  |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-12-13 |  |
 | [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 | 2023-12-13 | 2024-05-08 |

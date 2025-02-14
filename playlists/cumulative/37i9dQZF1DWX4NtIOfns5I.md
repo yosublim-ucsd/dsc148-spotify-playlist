@@ -2,7 +2,7 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> meet rachel bobbitt 💌
+> where folk flowers bloom\. cover: Bo Staloch
 
 429 songs - 1 day 1 hr 12 min
 

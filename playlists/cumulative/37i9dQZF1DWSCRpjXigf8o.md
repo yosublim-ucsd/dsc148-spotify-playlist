@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-567 songs - 1 day 10 hr 26 min
+569 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2023-04-20 | 2023-05-19 |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-02 |  |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2022-12-15 | 2024-04-19 |
-| [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 | 2025-01-09 |  |
+| [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 | 2025-01-09 | 2025-02-14 |
 | [Easy Violence](https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:21 | 2023-09-05 | 2023-10-27 |
 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-07 | 2023-04-12 |
 | [Empty](https://open.spotify.com/track/3TS6PFsksrXUNJf3y7LoEv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:02 | 2023-04-06 | 2023-07-05 |
@@ -164,6 +164,7 @@
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-10-20 | 2024-04-19 |
 | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7) | 4:44 | 2023-10-10 | 2024-01-12 |
 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 | 2023-08-03 | 2023-10-11 |
+| [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 | 2025-02-13 |  |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2023-01-31 | 2024-04-19 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-10-20 |  |
 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-10-20 | 2022-12-15 |
@@ -324,7 +325,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-10-20 | 2023-01-06 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 |  |
 | [Nonvignon](https://open.spotify.com/track/0HIrwgryXKOJ0CIfyP3gds) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Nonvignon](https://open.spotify.com/album/7JHB9DWgncfSI4q58mi2eU) | 3:53 | 2023-04-20 | 2023-09-22 |
-| [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 |  |
+| [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2025-02-14 |
 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 | 2024-02-15 | 2024-06-28 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-02 |  |
 | [Old Note](https://open.spotify.com/track/0K3HWnhWB2EWCy2rPeCPFW) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Old Note](https://open.spotify.com/album/3Hpmybx1qnm2ZRXysWOKjL) | 6:07 | 2022-11-15 | 2022-12-07 |
@@ -485,6 +486,7 @@
 | [Who Needs You \- Special Edition](https://open.spotify.com/track/2HyvRCnFAX65gKsxwyPV5O) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Who Needs You \(Special Edition\)](https://open.spotify.com/album/0RVpXQpLUYpnfVS3FENm9y) | 3:17 | 2023-04-20 | 2023-12-13 |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2023-10-17 | 2024-02-14 |
 | [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 |  |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-03-07 |  |
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-06-27 | 2024-09-28 |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-21 |

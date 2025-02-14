@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-358 songs - 20 hr 50 min
+361 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 | 2022-04-05 | 2022-07-29 |
 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 | 2022-09-29 |  |
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2022-07-29 |  |
-| [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 |  |
+| [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 | 2025-02-14 |
 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 | 2022-07-29 |  |
 | [Be Slow](https://open.spotify.com/track/23GmSpYkMks0ulGGr9hYsF) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/21riF5CPBLenJBAfwXknrT) | 3:25 | 2022-04-05 | 2022-07-29 |
 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2022-07-29 | 2023-11-23 |
@@ -70,9 +70,9 @@
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-07-29 | 2022-09-30 |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2022-04-05 | 2022-07-28 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-21 | 2023-05-04 |
-| [Chaotic](https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Chaotic](https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk) | 3:14 | 2025-01-09 |  |
+| [Chaotic](https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Chaotic](https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk) | 3:14 | 2025-01-09 | 2025-02-14 |
 | [Charlie](https://open.spotify.com/track/4H24vduqzowuXiZ06CidCr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Driving Music](https://open.spotify.com/album/2gC8d0zIJRa13cs0KQBxr5) | 3:10 | 2022-04-05 | 2022-07-29 |
-| [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 | 2022-04-05 |  |
+| [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 | 2022-04-05 | 2025-02-14 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-04-05 | 2022-10-13 |
 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-09-29 | 2024-04-19 |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-07-29 | 2024-04-19 |
@@ -211,6 +211,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2025-01-09 |  |
 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 | 2022-09-29 | 2024-04-19 |
 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2022-04-05 | 2022-10-13 |
+| [Lying in the Sun](https://open.spotify.com/track/205bRwxiJ3Rj4P7XBU5vPA) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Lying in the Sun](https://open.spotify.com/album/3w5XCQLXn9CWdXKqTzp1JT) | 3:12 | 2025-02-13 |  |
 | [Madeleine](https://open.spotify.com/track/7CTVIpoQqwCki0Lprz0ez6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Madeleine](https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf) | 3:00 | 2022-04-05 | 2022-07-27 |
 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-07-29 | 2022-09-30 |
 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2023-08-24 | 2024-04-19 |
@@ -341,6 +342,7 @@
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-07-29 | 2022-10-13 |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-04-05 |  |
 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 | 2022-04-05 | 2025-02-07 |
+| [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-13 |  |
 | [Truly Madly Deeply \- triple j Like A Version](https://open.spotify.com/track/3iOIOamls6jSWpt9iafpMe) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Truly Madly Deeply \(triple j Like A Version\)](https://open.spotify.com/album/210M7h0UZUPheZoySmA26a) | 4:24 | 2022-04-05 | 2022-07-29 |
 | [Two Strong Hearts](https://open.spotify.com/track/31Y9yVkcT70JjKs3A2eR36) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/70dKYiUjXSV6tSq9psDuDI) | 3:06 | 2022-04-05 | 2022-07-29 |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-07-29 | 2023-02-02 |
@@ -362,6 +364,7 @@
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-07-29 |  |
 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2022-04-05 | 2022-07-29 |
 | [You Make Me Feel Like Dancing](https://open.spotify.com/track/2wnx10JlIHANnWlvcMqpZE) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1dwBwg4BjtCAoi1mxr26OG) | 3:40 | 2022-04-05 | 2025-01-15 |
+| [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 | 2025-02-13 |  |
 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 | 2022-07-29 | 2024-04-19 |
 | [You’re here that’s the thing](https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:18 | 2023-08-24 | 2025-01-10 |
 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 | 2022-04-05 | 2022-07-29 |

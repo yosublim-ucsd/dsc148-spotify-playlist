@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/43K4hlaKhlSAIRgUb5zMPg"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "KOATES",
+          "url": "https://open.spotify.com/artist/5YSPtpr66K8oOTvy3UjDcj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231290,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/2XAwf3OU5APIc4OIn62AjC"
+    },
+    {
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1743,6 +1765,32 @@
     },
     {
       "album": {
+        "name": "Hide U",
+        "url": "https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG"
+      },
+      "artists": [
+        {
+          "name": "Kosheen",
+          "url": "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+        },
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "Isidoros",
+          "url": "https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228099,
+      "name": "Hide U",
+      "url": "https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI"
+    },
+    {
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -1824,6 +1872,28 @@
       "duration_ms": 297374,
       "name": "Highest Love",
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258515,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
     },
     {
       "album": {
@@ -1970,7 +2040,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 199682,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
@@ -2140,6 +2210,24 @@
       "duration_ms": 154153,
       "name": "Ice Moon",
       "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
+    },
+    {
+      "album": {
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
     },
     {
       "album": {
@@ -2534,7 +2622,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 233532,
       "name": "LMK",
       "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
@@ -2724,7 +2812,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 272180,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
@@ -2808,7 +2896,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
@@ -3946,7 +4034,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 189375,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0lnvO4NJ3bqBLL0vHfjeOx"
@@ -3972,6 +4060,24 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
       "album": {

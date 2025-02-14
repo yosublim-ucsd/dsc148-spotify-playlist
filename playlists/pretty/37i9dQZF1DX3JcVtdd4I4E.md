@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,261 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,263 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 5 | [Dead Man Walking](https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Dead Man Walking](https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb) | 2:57 |
 | 6 | [Deep Down \- From the Film ‘The Abyss’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘The Abyss’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 |
 | 7 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
-| 8 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
+| 8 | [Everytime We Touch](https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Everytime We Touch](https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy) | 2:21 |
 | 9 | [Nobody Love No One](https://open.spotify.com/track/7vV3VSe0KVm8rqj5xAYJwc) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Nobody Loves No One](https://open.spotify.com/album/20UZUkJfVs8jHWKgw6ZTee) | 2:46 |
-| 10 | [Everytime We Touch](https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Everytime We Touch](https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy) | 2:21 |
+| 10 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
 | 11 | [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 |
 | 12 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 |
 | 13 | [Come Back To Life](https://open.spotify.com/track/062C1QjfQc42gk1VjZyRtN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 3:32 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 23 | [Where Did You Go](https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Where Did You Go](https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD) | 2:51 |
 | 24 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 |
 | 25 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
-| 26 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
+| 26 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
 | 27 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
-| 28 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
+| 28 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
 | 29 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
 | 30 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 31 | [Rhythm Of My Show](https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Rhythm Of My Show](https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE) | 2:45 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 42 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
 | 43 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
 | 44 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 45 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
+| 45 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 |
 | 46 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 |
 | 47 | [I’ll Think of You](https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Solitude](https://open.spotify.com/album/3p3saMidKHm879P3SC0znA) | 2:23 |
 | 48 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 |
 | 49 | [For The Show](https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [For The Show](https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3) | 2:50 |
-| 50 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 |
+| 50 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
 | 51 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 |
 | 52 | [I Don’t Know Love](https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Don't Know Love](https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi) | 4:13 |
 | 53 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 75 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 |
 | 76 | [Lemonade](https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Lemonade](https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL) | 3:03 |
 | 77 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 |
-| 78 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
-| 79 | [Legend \(Fortress\)](https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Legend of Ely](https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J) | 3:21 |
+| 78 | [Legend \(Fortress\)](https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Legend of Ely](https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J) | 3:21 |
+| 79 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
 | 80 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
 
 Snapshot ID: `ZlWOOQAAAABq1RoMAdiJ6NlpAG8I+5nB`

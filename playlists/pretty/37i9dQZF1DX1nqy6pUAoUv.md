@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,964 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,972 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 51 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
 | 52 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 |
 | 53 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
-| 54 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 |
-| 55 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
+| 54 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
+| 55 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 |
 | 56 | [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 |
 | 57 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
 | 58 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 61 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
 | 62 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
 | 63 | [Barbary Coast \(Later\)](https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Ruminations](https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB) | 4:12 |
-| 64 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
-| 65 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
+| 64 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
+| 65 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
 | 66 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
 | 67 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 | 68 | [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 |

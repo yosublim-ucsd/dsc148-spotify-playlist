@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-867 songs - 1 day 23 hr 24 min
+868 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2022-02-28 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Más De La Una](https://open.spotify.com/track/00szcRmgqJGtqrfIUYkM1h) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:56 | 2021-03-27\* | 2021-07-11 |
-| [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-06-30 |  |
+| [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-06-30 | 2025-02-14 |
 | [NADIE SABE](https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 6:19 | 2023-10-14 | 2023-10-21 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-28 |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2021-12-26 | 2021-12-27 |
@@ -730,6 +730,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-06 | 2022-09-10 |
 | [Si Veo a Tu Mamá](https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:50 | 2022-01-01 | 2025-01-04 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-27 | 2022-04-05 |
+| [Sin Tu Amor](https://open.spotify.com/track/42b0KMmRgqmJz7kgYWfekW) | [La Mega Orquesta Del Don Equis](https://open.spotify.com/artist/5LdwbDYKGeNh0u8nvaYb4t) | [Sin Tu Amor](https://open.spotify.com/album/1tAel8DQVmWxLwXsg6tEhk) | 2:34 | 2025-02-13 |  |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 | 2024-07-22 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2023-09-12 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:02 | 2024-07-20 | 2024-07-27 |

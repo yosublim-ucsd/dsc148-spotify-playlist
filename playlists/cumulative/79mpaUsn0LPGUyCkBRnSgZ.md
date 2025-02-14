@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-794 songs - 2 day 5 hr 11 min
+798 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Alewife](https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2023-11-03 | 2024-01-04 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2024-04-07 |  |
 | [All Delighted People \(Original Version\)](https://open.spotify.com/track/50QVLS30ELqeJOphx4pWv7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 11:38 | 2023-08-14 |  |
+| [All I Bring You Is Love](https://open.spotify.com/track/4OBUa5G0HXsrCiVnPv5deX) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 2:41 | 2025-02-14 |  |
 | [All I Really Want](https://open.spotify.com/track/3CKTKuCbHz97i9vYyiP8gt) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 4:44 | 2024-01-08 | 2024-01-22 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-06-27 | 2023-05-17 |
 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 | 2023-08-14 | 2024-03-28 |
@@ -188,6 +189,7 @@
 | [Departed](https://open.spotify.com/track/1piZEjk3QiqY7wekdSz3tb) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 2:14 | 2024-08-19 |  |
 | [Describe You](https://open.spotify.com/track/5QX8sjpXdXRqlvRKZHR2HW) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Confessions](https://open.spotify.com/album/523NK9KpUMDov85Flrn1kf) | 3:19 | 2024-01-18 |  |
 | [Detroit Rock City](https://open.spotify.com/track/4DmBwHmp0FVO6NJ9QfH2w2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 5:18 | 2023-02-11 |  |
+| [Diamond Day](https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 1:47 | 2025-02-14 |  |
 | [Different Trains: America, Before the War](https://open.spotify.com/track/1YiBEdXvyWL9rupB3Cg4IQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Different Trains / Electric Counterpoint](https://open.spotify.com/album/3i8ojYITZwfiZilo8ShpxQ) | 8:58 | 2024-02-07 | 2024-02-10 |
 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 | 2023-08-14 |  |
 | [Dig My Grave](https://open.spotify.com/track/5mdYxvtDAnuYNYQw085Plw) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 1:08 | 2024-01-09 |  |
@@ -386,7 +388,7 @@
 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-12-14 |  |
 | [Kim Cattrall](https://open.spotify.com/track/2JPh5kSNgX79mgaMmUQPFN) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Rabbit Rabbit](https://open.spotify.com/album/5RWNHToyEel7qS5CZmYOms) | 3:18 | 2024-01-18 |  |
 | [Knew You Once](https://open.spotify.com/track/6RvaFiaownh238E6ACEDaE) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [I Call Out to Myself](https://open.spotify.com/album/5wsdUVANSHU75WRBB1J4BD) | 2:34 | 2024-09-27 | 2024-09-29 |
-| [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 | 2024-10-10 |  |
+| [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 | 2024-10-10 | 2025-02-14 |
 | [Knotty Pine](https://open.spotify.com/track/6OVrzpbprJutSZeJGAfm5F) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 2:22 | 2023-12-03 | 2023-12-23 |
 | [Knower Forever](https://open.spotify.com/track/59jK0jEezHsYddaOpeUC8p) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [KNOWER FOREVER](https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L) | 2:26 | 2024-01-15 |  |
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |
@@ -455,6 +457,7 @@
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 | 2023-08-09 |
 | [Misery Town](https://open.spotify.com/track/7qxj8y24oDBwWspbuzuDAN) | [Cheater](https://open.spotify.com/artist/31FObQ7rXbvTZHVMZ1kTGE) | [Home is Where the Heart is](https://open.spotify.com/album/3u13yLAaLmeHF3rPxMoPVK) | 2:27 | 2024-03-10 |  |
+| [Miwok Shapes](https://open.spotify.com/track/24ov0ue42XN3uTSM1A17N8) | [Brightblack Morning Light](https://open.spotify.com/artist/3hXQmVUYo3Mppb16f8wFOx) | [Brightblack Morning Light](https://open.spotify.com/album/3fvHRuZ4yIGdpUjL7nJDvH) | 5:49 | 2025-02-14 |  |
 | [Mo Move](https://open.spotify.com/track/5dGClop5hvOr0vXADmAYw8) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 6:54 | 2024-01-18 |  |
 | [Mobius Streak](https://open.spotify.com/track/40l4Z2pYvnoXD2PTl3T26Z) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 5:59 | 2023-12-31 |  |
 | [Mojo Pin](https://open.spotify.com/track/3wBy12K7BHKHJspUwJw8fq) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:42 | 2022-07-31 |  |
@@ -631,6 +634,7 @@
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 | 2023-07-02 |
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
 | [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 | 2023-12-31 |  |
+| [Springtime Again](https://open.spotify.com/track/1IMbKfMzGyFK4WxsMy9xRF) | [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Sleeping Beauty \(Expanded Edition\)](https://open.spotify.com/album/2u9bxiMQ6aVC3cBQLVIFg4) | 9:15 | 2025-02-13 |  |
 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 | 2024-10-28 | 2024-12-19 |
 | [Stanley Kubrick](https://open.spotify.com/track/7rzhQEtfMy3Xinzs0aLnaQ) | [Angry Blackmen](https://open.spotify.com/artist/5wgdXBYakv0C8v0b6hxnpC) | [The Legend of ABM](https://open.spotify.com/album/5KwBvabWfSo1rHbFldITCS) | 2:32 | 2024-03-28 |  |
 | [star\-crossed](https://open.spotify.com/track/0EYDsKvLtGMdvsA7PaUvJO) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:19 | 2022-07-24 | 2024-06-08 |

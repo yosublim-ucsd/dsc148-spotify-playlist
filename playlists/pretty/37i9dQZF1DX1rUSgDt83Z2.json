@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 35132,
+  "num_followers": 35150,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
+        "name": "Nergens Liever",
+        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 195694,
+      "name": "Nergens Liever",
+      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
+    },
+    {
+      "added_at": "2025-02-10 12:03:49",
+      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
-    },
-    {
-      "added_at": "2025-02-10 12:03:49",
-      "album": {
-        "name": "Nergens Liever",
-        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 195694,
-      "name": "Nergens Liever",
-      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
     },
     {
       "added_at": "2025-02-10 12:03:49",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
+        "name": "Wat Is Dan Liefde",
+        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
+      },
+      "artists": [
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
+    },
+    {
+      "added_at": "2025-02-10 12:03:49",
+      "album": {
         "name": "Welkom In Mijn Hart",
         "url": "https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 158694,
       "name": "Wat Ik Ook Ga Doen",
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
-    },
-    {
-      "added_at": "2025-02-10 12:03:49",
-      "album": {
-        "name": "Wat Is Dan Liefde",
-        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
-      },
-      "artists": [
-        {
-          "name": "Silver Metz",
-          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
-      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
       "added_at": "2025-02-10 12:03:49",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
-        "name": "Groots De Laatste - Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Wat Ik Ook Ga Doen - Live @ Philips Stadion, Eindhoven 2024",
-      "url": "https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV"
-    },
-    {
-      "added_at": "2025-02-10 12:03:49",
-      "album": {
         "name": "Tempo Giusto",
         "url": "https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 188217,
       "name": "Zie Ik Jou Weer Morgen?",
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
+    },
+    {
+      "added_at": "2025-02-10 12:03:49",
+      "album": {
+        "name": "Groots De Laatste - Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Wat Ik Ook Ga Doen - Live @ Philips Stadion, Eindhoven 2024",
+      "url": "https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV"
     },
     {
       "added_at": "2025-02-10 12:03:49",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
+        "name": "Ik Weet Dat Jij Het Niet Weet",
+        "url": "https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi"
+      },
+      "artists": [
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Ik Weet Dat Jij Het Niet Weet",
+      "url": "https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU"
+    },
+    {
+      "added_at": "2025-02-10 12:03:49",
+      "album": {
         "name": "Alsof",
         "url": "https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
-        "name": "Idool",
-        "url": "https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE"
-      },
-      "artists": [
-        {
-          "name": "Ben Forte",
-          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "Idool",
-      "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
-    },
-    {
-      "added_at": "2025-02-10 12:03:49",
-      "album": {
         "name": "Geen Water Bij De Wijn",
         "url": "https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-02-10 12:03:49",
       "album": {
-        "name": "Ik Weet Dat Jij Het Niet Weet",
-        "url": "https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi"
+        "name": "Idool",
+        "url": "https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE"
       },
       "artists": [
         {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
         }
       ],
-      "duration_ms": 222288,
-      "name": "Ik Weet Dat Jij Het Niet Weet",
-      "url": "https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU"
+      "duration_ms": 182606,
+      "name": "Idool",
+      "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
     },
     {
       "added_at": "2025-02-10 12:03:49",

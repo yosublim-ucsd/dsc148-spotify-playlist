@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 97th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,627 likes - 61 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,632 likes - 61 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

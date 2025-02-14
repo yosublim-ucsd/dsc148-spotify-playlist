@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: Kremesoda
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,345 likes - 52 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,338 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

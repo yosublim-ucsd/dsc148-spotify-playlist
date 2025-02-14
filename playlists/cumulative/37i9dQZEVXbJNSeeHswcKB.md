@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,721 songs - 3 day 23 hr 23 min
+1,722 songs - 3 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2023-08-22 | 2023-08-26 |
 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-07-09 | 2023-08-23 |
 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 | 2024-06-08 | 2024-07-27 |
+| [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2025-02-13 |  |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-13 | 2024-05-15 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-20 |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-03 |
@@ -1503,8 +1504,8 @@
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-10 | 2023-01-22 |
 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 | 2023-01-21 | 2023-06-03 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-28 | 2022-08-08 |
-| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-03 | 2025-02-02 |
-| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 |  |
+| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-03 |  |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 | 2025-02-14 |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2023-12-05 | 2023-12-09 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-08-07 | 2022-08-13 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-26 |
@@ -1715,7 +1716,7 @@
 | [À peu près](https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:24 | 2022-09-17 | 2023-02-26 |
 | [ça m'ennuie pas](https://open.spotify.com/track/7siHCotFdZC5xbITODUm2U) | [Chérine](https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM) | [ça m'ennuie pas](https://open.spotify.com/album/78CAyyGUofZpcsX7daKIrc) | 3:01 | 2023-01-16 | 2023-01-19 |
 | [Ça mène à rien](https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 3:18 | 2024-01-20 | 2024-02-12 |
-| [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-09-27 |  |
+| [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-09-27 | 2025-02-14 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-20 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |
 | [Δ\. Dieu ne ment jamais](https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:19 | 2022-12-13 | 2022-12-15 |

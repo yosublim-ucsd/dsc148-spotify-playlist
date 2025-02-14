@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,910 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,935 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 38 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 | 39 | [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 |
 | 40 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
-| 41 | [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 |
-| 42 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
-| 43 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
+| 41 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
+| 42 | [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 |
+| 43 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
 | 44 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 45 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
 | 46 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |

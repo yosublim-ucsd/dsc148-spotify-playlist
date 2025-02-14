@@ -1,6 +1,6 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 102981,
+  "num_followers": 102979,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
@@ -310,11 +310,15 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -446,15 +450,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 116630,
-      "name": "Funny Thing",
-      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
         "name": "She\u2019s Gone, Dance On",
         "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 116630,
+      "name": "Funny Thing",
+      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 140241,
       "name": "Keep Driving",
       "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -1083,6 +1063,26 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
+        "name": "Phone Numbers",
+        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 146826,
+      "name": "Phone Numbers",
+      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
         "name": "Overnight",
         "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "added_at": "2024-08-09 14:31:55",

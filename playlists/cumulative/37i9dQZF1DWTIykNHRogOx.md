@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Terrenoire
+> Les  meilleures nouveautés de la chanson française\. Photo : Styleto
 
-137 songs - 7 hr 31 min
+138 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 |  |
 | [Cowboy](https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Cowboy](https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4) | 3:37 | 2024-09-19 | 2025-01-31 |
 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 | 2024-11-07 |  |
-| [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 |  |
+| [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 | 2025-02-14 |
 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 | 2024-11-21 |  |
 | [Dormir en cuillère](https://open.spotify.com/track/62C3xySr6Q3NWFSsHhZhF9) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Zouzou](https://open.spotify.com/album/1SBkbQTV02JGuDpSS8o5BH) | 3:31 | 2024-11-07 | 2025-01-24 |
 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2024-06-27 | 2024-08-30 |
@@ -107,6 +107,7 @@
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-06-27 | 2024-11-15 |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [PEUR DE RIEN](https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [À TRAVERS](https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x) | 3:22 | 2024-10-03 |  |
+| [Plastique](https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r) | 3:07 | 2025-02-13 |  |
 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 | 2025-01-30 |  |
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-11-07 |  |
 | [Prologue](https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Prologue](https://open.spotify.com/album/6aV27BzyHxEBrh4uDIQkQm) | 3:34 | 2024-06-27 | 2024-09-27 |

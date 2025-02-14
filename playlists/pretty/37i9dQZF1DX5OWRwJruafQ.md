@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,670 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,691 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 19 | [Ferozi Chunni](https://open.spotify.com/track/4W6sV6jA0yYJPzaB2IWEol) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Ferozi Chunni](https://open.spotify.com/album/5dIwyLBKrXoKKsaToMWQIB) | 2:54 |
 | 20 | [Cream](https://open.spotify.com/track/7LgYzp5DkC6wPE3WPU3dZS) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Cream](https://open.spotify.com/album/1Z3AIHg848JJGQ2rDWz7Hj) | 3:22 |
 | 21 | [Top G](https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Top G](https://open.spotify.com/album/4cgtmGUyBfMNKLGJkPpK9J) | 3:04 |
-| 22 | [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 |
+| 22 | [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo), [Nayaab](https://open.spotify.com/artist/7D0cCYQcYBVEOnBvyy164p) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 |
 | 23 | [Enemy](https://open.spotify.com/track/5Qezc8ITTq5MZqtKMc3i5Q) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Enemy](https://open.spotify.com/album/0ziChr9CGn1b6TW2f0IFA2) | 2:55 |
 | 24 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 |
 | 25 | [TYPE SHII](https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 2:46 |

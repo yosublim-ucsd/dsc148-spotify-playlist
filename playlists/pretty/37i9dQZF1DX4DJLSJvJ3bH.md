@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,094 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,078 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 121 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 122 | [A Toast to Friends](https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 5:09 |
 | 123 | [Love to Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 |
-| 124 | [It's a Marshmallow World](https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [It Had to Be You: Lost Radio Recordings](https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB) | 2:10 |
-| 125 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0jn7VR6QOuB5C5s57SFICf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF) | 4:27 |
+| 124 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0jn7VR6QOuB5C5s57SFICf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF) | 4:27 |
+| 125 | [It's a Marshmallow World](https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [It Had to Be You: Lost Radio Recordings](https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB) | 2:10 |
 
 Snapshot ID: `Z2Uo7gAAAACrz9CpqhT9J6z3yZv0gXe1`

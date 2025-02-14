@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Debordo Leekunfa",
+  "description": "African dance party music from the continent to Paris. Photo : DJ KEROZEN",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -696,6 +696,24 @@
       "duration_ms": 216061,
       "name": "C'est pour les grands",
       "url": "https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm"
+    },
+    {
+      "album": {
+        "name": "C'EST SON TEMPS",
+        "url": "https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "C'EST SON TEMPS",
+      "url": "https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb"
     },
     {
       "album": {
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 142451,
       "name": "J'aime \u00e7a",
       "url": "https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b"

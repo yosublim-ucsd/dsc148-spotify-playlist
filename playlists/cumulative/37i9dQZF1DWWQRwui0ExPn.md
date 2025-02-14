@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,207 songs - 11 day 9 hr 5 min
+7,208 songs - 11 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2264,7 +2264,7 @@
 | [For Those Who Love..\. \- Beat Edit](https://open.spotify.com/track/3BzpJKOwdqUpSwjPDlkGPG) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [For Those Who Love..\. \(Beat Edit\)](https://open.spotify.com/album/7CudklKMxVsVSMIJuyxPZF) | 2:55 | 2022-10-07 | 2022-11-24 |
 | [For Those Who Love..\. \- Beat Edit](https://open.spotify.com/track/57aDumntS8xTRXNXHRgKux) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [For Those Who Love..\. \(Beat Edit\)](https://open.spotify.com/album/6JDOPDxpMo2hRaqPqNOHyx) | 2:55 | 2022-11-18 | 2022-12-16 |
 | [For U](https://open.spotify.com/track/3Mh5VZAAeEPJETEm5C0Ikk) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [For U](https://open.spotify.com/album/54DvPhxD3lbuKxNRtoRgbf) | 2:03 | 2023-08-17 | 2023-09-30 |
-| [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 | 2022-07-08 |  |
+| [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 | 2022-07-08 | 2025-02-14 |
 | [For You](https://open.spotify.com/track/20KQRMBrmkm2I0yudg0jph) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [For You](https://open.spotify.com/album/07In60ev2ohfBaVZJFEepA) | 2:16 | 2021-11-05 | 2022-05-27 |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2019-05-26\* | 2020-06-09 |
 | [For You](https://open.spotify.com/track/48MDPe5ZgiPBKVEYF8nqzi) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [For You](https://open.spotify.com/album/1ongrNQiqGluhIKAKOjBMg) | 2:59 | 2021-08-22 | 2022-03-21 |
@@ -3218,6 +3218,7 @@
 | [Jurassic Snooze](https://open.spotify.com/track/2P5hbyBB7LhOaJ2HM7G6Eb) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Jurassic Snooze](https://open.spotify.com/album/7elLC0JbnSXiYNVkwygoz9) | 1:49 | 2023-04-12 | 2023-05-04 |
 | [Jusqu'ici Tout Va Bien](https://open.spotify.com/track/3UQOdVwoo9xdMHRZkVCsRy) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jusqu'ici Tout Va Bien](https://open.spotify.com/album/7qzinrF35EQ6JuU1CTyUG1) | 2:38 | 2022-04-23 | 2022-09-16 |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 | 2021-09-11 | 2022-04-08 |
+| [Just A Dream](https://open.spotify.com/track/6s5ssmbLHAoL0h5VmQCFDQ) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Just A Dream](https://open.spotify.com/album/6dRH8YS4PbjkwLBolkwclJ) | 1:53 | 2025-02-07 |  |
 | [just because](https://open.spotify.com/track/4q8XnGT4o4kIrQ1hxjC9b7) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [just because](https://open.spotify.com/album/7j3FrfFxerp7iJT0Nr6TZ8) | 1:33 | 2022-12-09 | 2023-01-20 |
 | [Just Breathe](https://open.spotify.com/track/4vyaUgnSupdVYQcMqPiw4a) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm) | [Dreams of Angels](https://open.spotify.com/album/1tYvaSCdQ7H7z8bPJis7zI) | 2:10 | 2022-08-12 | 2022-11-25 |
 | [Just Friends](https://open.spotify.com/track/2Bdx4PmAJyAvbRAdZ5295W) | [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA) | [Just Friends](https://open.spotify.com/album/32p16AiHqL6APodLCoc4RR) | 2:29 | 2024-04-26 |  |

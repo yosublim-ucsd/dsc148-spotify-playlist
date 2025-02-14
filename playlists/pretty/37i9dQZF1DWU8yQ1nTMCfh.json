@@ -419,22 +419,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 233751,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "ECLIPSE",
         "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "She\u2019s So Cool (with Pale Waves)",
-        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "She\u2019s So Cool (with Pale Waves)",
-      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "She\u2019s So Cool (with Pale Waves)",
+        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "She\u2019s So Cool (with Pale Waves)",
+      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "MALAVIDA (feat. Evlay)",
-      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "F\u00fatbol Rock",
         "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 163720,
       "name": "Qu\u00e9date Con \u00c9l",
       "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 179872,
       "name": "TRAS",
       "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1055,22 +1071,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Verano Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 250746,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Echao\u2019 a perder",
-        "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Echao\u2019 a perder",
-      "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1207,42 +1191,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Su\u00e9ltate el pelo",
-        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
+        "name": "Echao\u2019 a perder",
+        "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 171904,
-      "name": "Su\u00e9ltate el pelo",
-      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
+      "duration_ms": 168375,
+      "name": "Echao\u2019 a perder",
+      "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
     },
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Noches Largas (feat. Bruses)",
-        "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
       "artists": [
         {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Noches Largas (feat. Bruses)",
-      "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1267,18 +1243,42 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+        "name": "Noches Largas (feat. Bruses)",
+        "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+      "duration_ms": 293866,
+      "name": "Noches Largas (feat. Bruses)",
+      "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Su\u00e9ltate el pelo",
+        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Su\u00e9ltate el pelo",
+      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Los 90",
-        "url": "https://open.spotify.com/album/5DvEG9DiVQ9QUZuhTGT2pt"
+        "name": "Una sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
       },
       "artists": [
         {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 193984,
-      "name": "Los 90",
-      "url": "https://open.spotify.com/track/2BYV6Cv4VtgxObWMynyrdf"
+      "duration_ms": 197169,
+      "name": "Una sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
     }
   ],
   "unique_name": "Rock Total",

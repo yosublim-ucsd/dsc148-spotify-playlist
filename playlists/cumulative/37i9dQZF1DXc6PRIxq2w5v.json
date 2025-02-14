@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Thiag\u00e3o",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -1688,6 +1688,24 @@
       "duration_ms": 201270,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/3PscU3Whs200A5p8CGxol9"
+    },
+    {
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/4RVK33eh726d0m60VNW6NF"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158107,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/0CYhyFXV2duXs8VBxTmz4W"
     },
     {
       "album": {
@@ -6734,7 +6752,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
@@ -6832,7 +6850,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 173222,
       "name": "Paulo & Silas",
       "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
@@ -9636,6 +9654,32 @@
       "duration_ms": 344117,
       "name": "Uma Prece por Mim",
       "url": "https://open.spotify.com/track/6QXcr9AhGKtd2OtQh9VUEJ"
+    },
+    {
+      "album": {
+        "name": "Umbral",
+        "url": "https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP"
+      },
+      "artists": [
+        {
+          "name": "Ian DaRua",
+          "url": "https://open.spotify.com/artist/1L2z3Cdc2iZifngTEC1Gyz"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Fernandinho Beat Box",
+          "url": "https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169019,
+      "name": "Umbral",
+      "url": "https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,433,592 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433,548 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 15 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
 | 16 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
 | 17 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
-| 18 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 19 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
-| 20 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 18 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
+| 19 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 20 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 21 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
 | 22 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 |
-| 23 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
-| 24 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
+| 23 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
+| 24 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
 | 25 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 |
 | 26 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
 | 27 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 33 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 34 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
 | 35 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
-| 36 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
-| 37 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
-| 38 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
+| 36 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
+| 37 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
+| 38 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
 | 39 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
 | 40 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
-| 41 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
-| 42 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 |
+| 41 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 |
+| 42 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 43 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 44 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
 | 45 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 55 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
 | 56 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 57 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
-| 58 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
-| 59 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
+| 58 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
+| 59 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
 | 60 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 61 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 62 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop hits, fresh for the UK. Cover: Bea and her Business",
+  "description": "Your future favourite pop hits, fresh for the UK. Cover: Say Now",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "All for Love",
+        "url": "https://open.spotify.com/album/5VcOUaFOvirALpzrMwN2UM"
+      },
+      "artists": [
+        {
+          "name": "TS Graye",
+          "url": "https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/1dOXAjO03S83qsIpC7pr2A"
+    },
+    {
+      "album": {
         "name": "All of a Sudden",
         "url": "https://open.spotify.com/album/5b8VNZwBlaN65NpBQQttQa"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 121489,
       "name": "Antibiotics",
       "url": "https://open.spotify.com/track/5to5yd13LPNIkXdr3xzubk"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190123,
       "name": "Different Planets",
       "url": "https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2"
@@ -923,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/3sSdSbnrHbVHNVPyU3CFsA"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/0zkJYIMrWBrbHRBMQZS6AD"
+    },
+    {
+      "album": {
         "name": "Pulverise",
         "url": "https://open.spotify.com/album/4E530gmLhANJ9Gr8niP3n2"
       },
@@ -959,6 +995,42 @@
     },
     {
       "album": {
+        "name": "If You're Looking For A New Best Friend",
+        "url": "https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110684,
+      "name": "Don't Panic",
+      "url": "https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk"
+    },
+    {
+      "album": {
+        "name": "DON'T TEXT DON'T CALL",
+        "url": "https://open.spotify.com/album/3AZqZgyo1iVfStEJPNXSZG"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149174,
+      "name": "DON'T TEXT DON'T CALL",
+      "url": "https://open.spotify.com/track/2Wd8reHxs93hfwI6B4T08Q"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
       },
@@ -970,7 +1042,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169934,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
@@ -1046,6 +1118,24 @@
       "duration_ms": 149683,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
+    },
+    {
+      "album": {
+        "name": "Claire",
+        "url": "https://open.spotify.com/album/4xEsbszzdEWln1nlO9XzDe"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226967,
+      "name": "every time",
+      "url": "https://open.spotify.com/track/2gGUMWTDJmgJKHjfBH4KV4"
     },
     {
       "album": {
@@ -1150,7 +1240,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 125943,
       "name": "fancy",
       "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
@@ -1222,7 +1312,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169087,
       "name": "Five Years",
       "url": "https://open.spotify.com/track/6SYJz0PaK4XQA87dJE1gHz"
@@ -1334,6 +1424,24 @@
       "duration_ms": 164034,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
+    },
+    {
+      "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm"
     },
     {
       "album": {
@@ -1852,7 +1960,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178453,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0ybFLlfjdXg0ZYGceAJEwJ"
@@ -1967,6 +2075,42 @@
     },
     {
       "album": {
+        "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
+    },
+    {
+      "album": {
+        "name": "I\u2019ve seen ur ex",
+        "url": "https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "I\u2019ve seen ur ex",
+      "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
+    },
+    {
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V"
       },
@@ -2039,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236954,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
+    },
+    {
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -2068,7 +2230,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 154532,
       "name": "Late For The Reservation",
       "url": "https://open.spotify.com/track/4VfilmF1juqisJ1VvwNXis"
@@ -2328,6 +2490,24 @@
       "duration_ms": 127192,
       "name": "Moist",
       "url": "https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL"
+    },
+    {
+      "album": {
+        "name": "More Time",
+        "url": "https://open.spotify.com/album/7paoPKPhsmwWfdwjCANoqs"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/2FJXl5aEVnOzDF69WGE6Vj"
     },
     {
       "album": {
@@ -2745,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL"
+    },
+    {
+      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW"
       },
@@ -2810,7 +3008,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 207000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
@@ -3181,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "In The Middle Of Somewhere",
+        "url": "https://open.spotify.com/album/5Ir8HNOorKRgfKHffWGhn6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193759,
+      "name": "Too Much Ain't Enough",
+      "url": "https://open.spotify.com/track/0mzW5gng20UwJV67x4vEUo"
+    },
+    {
+      "album": {
         "name": "Touching Toes",
         "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
@@ -3272,7 +3488,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185480,
       "name": "Vice",
       "url": "https://open.spotify.com/track/4ydj9EtjIYoNyYP9LTcWJd"
@@ -3362,7 +3578,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212682,
       "name": "When We Kiss",
       "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
@@ -3398,7 +3614,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 216241,
       "name": "Who\u2019s Making You Feel It",
       "url": "https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa"
@@ -3546,7 +3762,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 126794,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5jp3CfoQLxLSRKhscLqb1p"

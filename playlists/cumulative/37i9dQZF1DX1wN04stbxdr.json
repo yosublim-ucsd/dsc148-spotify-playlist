@@ -123,6 +123,32 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/6SC3GZOStWXbZ2eUOpr9F9"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173111,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/1sG0eTEPInXcVFwT4s5i15"
+    },
+    {
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -618,6 +644,58 @@
       "duration_ms": 174860,
       "name": "Fanga av ein stormvind",
       "url": "https://open.spotify.com/track/0GssNPAI7NSbi1aaThO3EX"
+    },
+    {
+      "album": {
+        "name": "Fredag",
+        "url": "https://open.spotify.com/album/079erPos4o37SKrV4UM1HV"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149997,
+      "name": "Fredag",
+      "url": "https://open.spotify.com/track/2NWA7Klgmi0FCxuoEdkGz3"
+    },
+    {
+      "album": {
+        "name": "Friskis",
+        "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
+      },
+      "artists": [
+        {
+          "name": "Kjartan Lauritzen",
+          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168774,
+      "name": "Friskis",
+      "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
       "album": {
@@ -1225,6 +1303,58 @@
     },
     {
       "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/1ZPosSa7xr3XB2LfiSD6LM"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145193,
+      "name": "Matters",
+      "url": "https://open.spotify.com/track/3IfRPSK5GjUjRoo00THzAB"
+    },
+    {
+      "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/42v2XAaRLJFLdZVJ7ZVqFF"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Mi beste side",
+      "url": "https://open.spotify.com/track/0R0PbOdxhPlCXCpQuvb6uE"
+    },
+    {
+      "album": {
         "name": "Min far",
         "url": "https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp"
       },
@@ -1332,6 +1462,32 @@
       "duration_ms": 189000,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/5mSExgcU9GYYt9wrgQD090"
+    },
+    {
+      "album": {
+        "name": "Null Kj\u00e6rlighet",
+        "url": "https://open.spotify.com/album/2a0kPgdKYR4pFT3aWQaF0B"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Null Kj\u00e6rlighet",
+      "url": "https://open.spotify.com/track/2QzYSpruQQXyO7lEf0bVhy"
     },
     {
       "album": {
@@ -1622,6 +1778,36 @@
       "duration_ms": 230000,
       "name": "Samurai Swords",
       "url": "https://open.spotify.com/track/02Ixue9YkjgvPD3TAQFvP1"
+    },
+    {
+      "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/42v2XAaRLJFLdZVJ7ZVqFF"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Si meg",
+      "url": "https://open.spotify.com/track/2vwdl6l3nyXtqZAEFT5Zvx"
     },
     {
       "album": {

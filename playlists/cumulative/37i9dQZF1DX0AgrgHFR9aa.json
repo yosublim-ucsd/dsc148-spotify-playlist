@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Heykel",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Mairo",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169920,
       "name": "BLE$$$",
       "url": "https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 170945,
       "name": "Dernier shift",
       "url": "https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE"
@@ -698,6 +698,28 @@
       "duration_ms": 176933,
       "name": "DIEU EST GRANDE",
       "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
+    },
+    {
+      "album": {
+        "name": "dope",
+        "url": "https://open.spotify.com/album/4Z0sok37Oqr4Os7jLVfXKM"
+      },
+      "artists": [
+        {
+          "name": "Mairo",
+          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
+        },
+        {
+          "name": "Hopital",
+          "url": "https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "dope",
+      "url": "https://open.spotify.com/track/1Ig6wDFx745YiTgbgOyRCj"
     },
     {
       "album": {
@@ -1246,6 +1268,24 @@
       "duration_ms": 210279,
       "name": "L'empreinte de ma plume",
       "url": "https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN"
+    },
+    {
+      "album": {
+        "name": "L'hiver",
+        "url": "https://open.spotify.com/album/0BQRHLTXTWHpjma9jZqc1M"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4MwXuOyte7BBkhPGMDpCvB"
     },
     {
       "album": {

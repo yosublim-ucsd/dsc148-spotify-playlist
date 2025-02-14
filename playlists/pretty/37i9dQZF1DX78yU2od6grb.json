@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553616,
+  "num_followers": 553635,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Physical (Alok Remix)",
-        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Physical - Alok Remix",
-      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "World War Joy",
-        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "Call You Mine (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "World War Joy",
+        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "Call You Mine (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
     },
     {
       "added_at": "2025-02-07 03:01:15",

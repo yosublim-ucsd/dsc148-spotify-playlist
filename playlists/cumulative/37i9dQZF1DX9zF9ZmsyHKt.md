@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-289 songs - 17 hr 5 min
+290 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Morena De Angola](https://open.spotify.com/track/2197m72oqAuxBiSIV5cQ72) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Brasil Mestiço](https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun) | 3:26 | 2021-10-15 | 2024-10-23 |
 | [Muito Tempo É Pouco](https://open.spotify.com/track/36Jj3HligzIUyAjdYKdojp) | [Indy Naíse](https://open.spotify.com/artist/0iRR5TUiGCZubAIWjgXGxg) | [Muito Tempo É Pouco](https://open.spotify.com/album/04IdYNUqErbJwksywf5sZ1) | 4:11 | 2021-10-15 | 2022-07-25 |
 | [Mulher](https://open.spotify.com/track/7mZNraR0ErZzC3ox3gXkwH) | [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN) | [Abre Caminho](https://open.spotify.com/album/2KRO3sBLjKAfQaWHGCS83z) | 3:04 | 2021-10-15 | 2022-07-29 |
+| [Mulher da Amazônia](https://open.spotify.com/track/2nkppTrdoS5Dztms7DvoJ0) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Mulher da Amazônia](https://open.spotify.com/album/2TCChPcM5XBSiEajXQhlgJ) | 3:41 | 2025-02-14 |  |
 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 | 2021-10-15 | 2023-12-30 |
 | [Mulherão](https://open.spotify.com/track/4PGj9FewxLbgej4UEIBJ2r) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sol a Sol](https://open.spotify.com/album/39aZor21FBRhjgkXcZI13t) | 3:53 | 2021-10-15 | 2022-07-28 |
 | [Musa da Babilônia](https://open.spotify.com/track/6RiNKcMoJlHVPrRag1bL5F) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [Rebujo](https://open.spotify.com/album/6z6Ap5lqHAIwgLJPv2HKu7) | 3:36 | 2021-10-15 | 2022-07-29 |
@@ -187,7 +188,7 @@
 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 | 2025-01-31 |  |
 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 | 2024-10-22 |  |
 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 | 2021-10-15 | 2024-10-23 |
-| [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 |  |
+| [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 | 2025-02-14 |
 | [O Sangue Não Nega](https://open.spotify.com/track/0ZO4z16mEUHjDOSP2xbcva) | [Zezé Motta](https://open.spotify.com/artist/0fUaGtg6Wji6KS6KVtT6qG) | [Negra Melodia](https://open.spotify.com/album/5IxcCElQLNbhQHuOJms6YN) | 2:27 | 2021-10-15 | 2022-07-29 |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:17 | 2021-10-15 | 2024-10-23 |
 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 | 2024-10-22 |  |

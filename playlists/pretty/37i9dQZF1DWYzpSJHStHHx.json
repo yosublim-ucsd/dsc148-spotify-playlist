@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485714,
+  "num_followers": 485718,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
     },
     {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Awake",
@@ -375,22 +391,6 @@
       "duration_ms": 492280,
       "name": "Soft Rock Band",
       "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Existential Playboy",
-        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
-      },
-      "artists": [
-        {
-          "name": "Surf Rock Is Dead",
-          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "always learning not what to do",
-      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Pennied Days",
@@ -567,6 +551,22 @@
       "duration_ms": 214013,
       "name": "Border On Border",
       "url": "https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Existential Playboy",
+        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "always learning not what to do",
+      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
-      },
-      "artists": [
-        {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Hideaway",
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Cigarettes In Space",
         "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -865,22 +881,6 @@
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Simpin'",
-        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 213661,
-      "name": "Simpin'",
-      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "The Way You Talk",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Rock And Roll Music",
-        "url": "https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk"
-      },
-      "artists": [
-        {
-          "name": "Baby Jesus",
-          "url": "https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Right Before I Go",
-      "url": "https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Out Of Here",
@@ -943,6 +927,22 @@
       "duration_ms": 151838,
       "name": "Out Of Here",
       "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Rock And Roll Music",
+        "url": "https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk"
+      },
+      "artists": [
+        {
+          "name": "Baby Jesus",
+          "url": "https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Right Before I Go",
+      "url": "https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Teasing Me",
-        "url": "https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo"
-      },
-      "artists": [
-        {
-          "name": "J.F. Gloss",
-          "url": "https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1"
-        }
-      ],
-      "duration_ms": 97869,
-      "name": "Teasing Me",
-      "url": "https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "MOVING ON",
         "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Teasing Me",
+        "url": "https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo"
+      },
+      "artists": [
+        {
+          "name": "J.F. Gloss",
+          "url": "https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1"
+        }
+      ],
+      "duration_ms": 97869,
+      "name": "Teasing Me",
+      "url": "https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rua Mundo Novo",
-        "url": "https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
-        }
-      ],
-      "duration_ms": 197523,
-      "name": "Ainda Est\u00e1 No Ar",
-      "url": "https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Prefiro Vila Velha",
-        "url": "https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9 Tardia",
-          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
-        }
-      ],
-      "duration_ms": 147892,
-      "name": "Prefiro Vila Velha",
-      "url": "https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -1123,22 +1091,6 @@
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Can-Can",
-        "url": "https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML"
-      },
-      "artists": [
-        {
-          "name": "Los Petardos!",
-          "url": "https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1159,34 +1111,82 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Jumping Jack b/w Little Cinderella",
-        "url": "https://open.spotify.com/album/6rp2OIvLI2d3IlOJ7OFc2A"
+        "name": "Rua Mundo Novo",
+        "url": "https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ"
       },
       "artists": [
         {
-          "name": "Red and The Flames",
-          "url": "https://open.spotify.com/artist/4rQ0ekYCBZi2j8pjfuKE6r"
+          "name": "Gabriel Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
         }
       ],
-      "duration_ms": 116022,
-      "name": "Jumping Jack",
-      "url": "https://open.spotify.com/track/3mWdEEm8cwipwYgLBy4dHO"
+      "duration_ms": 197523,
+      "name": "Ainda Est\u00e1 No Ar",
+      "url": "https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Big Sky",
-        "url": "https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL"
+        "name": "Can-Can",
+        "url": "https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML"
       },
       "artists": [
         {
-          "name": "Pricey",
-          "url": "https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9"
+          "name": "Los Petardos!",
+          "url": "https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum"
         }
       ],
-      "duration_ms": 163677,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S"
+      "duration_ms": 172493,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Prefiro Vila Velha",
+        "url": "https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9 Tardia",
+          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
+        }
+      ],
+      "duration_ms": 147892,
+      "name": "Prefiro Vila Velha",
+      "url": "https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bees",
+        "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
+      },
+      "artists": [
+        {
+          "name": "Wholesome",
+          "url": "https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+      },
+      "artists": [
+        {
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+        }
+      ],
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+        "name": "Jumping Jack b/w Little Cinderella",
+        "url": "https://open.spotify.com/album/6rp2OIvLI2d3IlOJ7OFc2A"
       },
       "artists": [
         {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+          "name": "Red and The Flames",
+          "url": "https://open.spotify.com/artist/4rQ0ekYCBZi2j8pjfuKE6r"
         }
       ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
+      "duration_ms": 116022,
+      "name": "Jumping Jack",
+      "url": "https://open.spotify.com/track/3mWdEEm8cwipwYgLBy4dHO"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

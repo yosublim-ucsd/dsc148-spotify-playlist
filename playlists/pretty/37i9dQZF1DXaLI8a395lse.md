@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cranberries
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360,399 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,730 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 38 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 |
 | 39 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 40 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
-| 41 | [Popular](https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [High/Low](https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L) | 3:40 |
-| 42 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
+| 41 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
+| 42 | [Popular](https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [High/Low](https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L) | 3:40 |
 | 43 | [Regret \- 2015 Remaster](https://open.spotify.com/track/1UVll7jjUlqSGxCZ6uXVaD) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Republic](https://open.spotify.com/album/7mIOgbore2HTzdh2ZyS4rH) | 4:08 |
 | 44 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
 | 45 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,845 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,005 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

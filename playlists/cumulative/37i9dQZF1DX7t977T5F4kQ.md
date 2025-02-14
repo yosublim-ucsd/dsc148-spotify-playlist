@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Mr Drew
 
-464 songs - 1 day 0 hr 14 min
+465 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Ohemaa](https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Ohemaa](https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0) | 3:33 | 2023-02-09 | 2023-02-24 |
 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 | 2024-12-20 | 2025-01-15 |
 | [Olukeke \- A COLORS SHOW](https://open.spotify.com/track/1wLFBauKxbF4lAbJAc1AYo) | [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Olukeke \- A COLORS SHOW](https://open.spotify.com/album/0vt0Pkpe6X9c2s7YamCack) | 3:39 | 2023-05-12 | 2023-06-10 |
+| [OMG](https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lova Boy Era](https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x) | 2:38 | 2025-02-14 |  |
 | [On My Way](https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [On My Way](https://open.spotify.com/album/7M0TnoDk2uz0AtE5oXaA2Z) | 2:53 | 2024-03-01 | 2024-10-13 |
 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 | 2024-02-09 |  |
 | [Onoa](https://open.spotify.com/track/6P0c4dcZNj6rwGxrc6zPx4) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Onoa](https://open.spotify.com/album/078bV0BV8pqSu03kQbPHHy) | 2:48 | 2024-06-28 |  |

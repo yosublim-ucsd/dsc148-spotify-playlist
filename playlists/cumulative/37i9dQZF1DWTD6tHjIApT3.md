@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 高畑充希
 
-2,868 songs - 7 day 16 hr 4 min
+2,870 songs - 7 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [\#YOLO](https://open.spotify.com/track/389iS8g2CvoIJfGclk7nDj) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [\#YOLO](https://open.spotify.com/album/7Ap2ULTcnmBZYQIocr2GeC) | 3:20 | 2024-04-16 | 2024-05-29 |
 | [\(NOT\) Remember you](https://open.spotify.com/track/5KBZAp7B0YrGkXmHKYXfrF) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Remember you](https://open.spotify.com/album/4CablfTCtnFPIvXYqyUdn9) | 3:42 | 2023-01-03 | 2023-01-11 |
 | [\(wanna vibe\) with you](https://open.spotify.com/track/16Hfgakfi5BH52Uq6giV9P) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [\(wanna vibe\) with you](https://open.spotify.com/album/4CiHbABkYhLKYNtlB4ifla) | 3:02 | 2023-10-26 | 2023-11-01 |
+| [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 | 2025-02-13 |  |
 | [078](https://open.spotify.com/track/0OL46gHdT5KZQUDnUPmlQl) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [078](https://open.spotify.com/album/0m6JV0QGs0Qs5yturvKDYr) | 3:10 | 2024-04-09 | 2024-04-17 |
 | [07:19:32](https://open.spotify.com/track/6E0cTY3jmPmElVNNmCqGrx) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [07:19:32](https://open.spotify.com/album/4hps8BvonJubjFED9cpif5) | 2:33 | 2023-11-21 | 2023-11-23 |
 | [07:19:32](https://open.spotify.com/track/7LdQC2u7wPLQd51l0OrlyQ) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [07:19:32](https://open.spotify.com/album/4wI67lCdS3LRTeg5S0WRY4) | 2:33 | 2023-11-21 | 2023-11-29 |
@@ -1075,7 +1076,7 @@
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 | 2024-12-04 |
 | [Paradise](https://open.spotify.com/track/0le2Ze3cfNvuItHgQHC3sk) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [Paradise](https://open.spotify.com/album/5kqmmevk2Ra1pKKLJ7otg9) | 4:06 | 2022-06-25 | 2022-06-29 |
 | [PARAGRAPH](https://open.spotify.com/track/0nwVaounL0nnbelxWz2eOg) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [PARAGRAPH](https://open.spotify.com/album/0RdTRCDs2imTkfhY3v4AGQ) | 2:32 | 2025-01-14 | 2025-01-22 |
-| [Parallel Love](https://open.spotify.com/track/54weGZIMHQFJCdTAh1L37k) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [Parallel Love](https://open.spotify.com/album/3S0Ipnd4H1Pphftu1in0OZ) | 3:40 | 2025-02-04 |  |
+| [Parallel Love](https://open.spotify.com/track/54weGZIMHQFJCdTAh1L37k) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [Parallel Love](https://open.spotify.com/album/3S0Ipnd4H1Pphftu1in0OZ) | 3:40 | 2025-02-04 | 2025-02-14 |
 | [Part of Your World \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/4C7ufs8hOYTkIk7hdyeu7J) | [Erika Toyohara](https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj) | [Part of Your World \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/3OEBqbReTKlhG7fS4zQIc5) | 3:34 | 2023-05-02 | 2023-05-10 |
 | [Partner](https://open.spotify.com/track/19CstlQzdzRUfR9lsYATEV) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Stamp Rally](https://open.spotify.com/album/0zIhqeV373XzNG20NTCIXD) | 2:54 | 2022-06-21 | 2022-08-15 |
 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 | 2024-01-25 |  |
@@ -1270,6 +1271,7 @@
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-24 | 2023-02-08 |
 | [Skeleton Wedding](https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/1jHtKLztk72l4W2e0dSltd) | 3:37 | 2023-05-02 | 2023-05-04 |
 | [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-02 | 2023-05-10 |
+| [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 | 2025-02-13 |  |
 | [skirt](https://open.spotify.com/track/1CbMXhAVAaR1LyUMrZ49h8) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [skirt](https://open.spotify.com/album/0Jiz6XnUfQWiz06PrtuOVa) | 4:15 | 2024-08-20 | 2024-10-09 |
 | [Sky Above](https://open.spotify.com/track/7zvRjuHEi3BieC9oiiKH6z) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Sky Above](https://open.spotify.com/album/6efBHJjlBzF3rOiOkUqTbA) | 3:43 | 2024-03-26 | 2024-04-10 |
 | [SKYDRIVE \- Feat\. とた](https://open.spotify.com/track/2gxDoCMchaYAPs6M4VlHkI) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [EMPT MILE](https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf) | 3:51 | 2024-12-10 | 2024-12-18 |
@@ -2835,7 +2837,7 @@
 | [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 | 2022-10-08 |
 | [青春の影](https://open.spotify.com/track/4X6UXHTs90x77g0mxUo67N) | [Chihiro Onitsuka](https://open.spotify.com/artist/4NXiJRheKGsTycUmPwtwSP) | [青春の影](https://open.spotify.com/album/5Fz5wQMoGgR56woB2osZwZ) | 3:28 | 2024-03-05 | 2024-03-20 |
 | [青春の続き](https://open.spotify.com/track/3Sv4Uiy4pmB94UV4UZXpiP) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [青春の続き](https://open.spotify.com/album/3WWY1Jqcl9JgQAHl117p1e) | 3:21 | 2022-11-15 | 2022-12-14 |
-| [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-03-19 |  |
+| [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-03-19 | 2025-02-14 |
 | [青果店](https://open.spotify.com/track/3BvWTkI4n2FvNDD8SK1Tqp) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [青果店](https://open.spotify.com/album/5Sd9k4L6MIuFk9JBZfLSqD) | 2:59 | 2024-05-28 | 2024-06-05 |
 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-07-28 | 2023-11-22 |
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-14 | 2022-07-29 |

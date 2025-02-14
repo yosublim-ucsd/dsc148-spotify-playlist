@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Mshukuru Mungu Tu",
+        "url": "https://open.spotify.com/album/2r9C2PqJ7ZP5lFgzrE4YqI"
+      },
+      "artists": [
+        {
+          "name": "Sifaeli Mwabuka",
+          "url": "https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418728,
+      "name": "Mshukuru Mungu Tu",
+      "url": "https://open.spotify.com/track/0gs4w9EFOQw2cJR36QPfN8"
+    },
+    {
+      "album": {
         "name": "Mtawala",
         "url": "https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2"
       },
@@ -3890,6 +3908,28 @@
       "duration_ms": 395293,
       "name": "Walivuka Bahari",
       "url": "https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz"
+    },
+    {
+      "album": {
+        "name": "Wananiuliza (feat. Guardian Angel)",
+        "url": "https://open.spotify.com/album/6TLLsicNv9MX1enci8QuXu"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        },
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214543,
+      "name": "Wananiuliza (feat. Guardian Angel)",
+      "url": "https://open.spotify.com/track/1JwgVYRQiQ7PMH4nZDum26"
     },
     {
       "album": {

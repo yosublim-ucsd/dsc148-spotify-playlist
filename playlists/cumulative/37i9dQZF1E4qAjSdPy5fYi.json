@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With glitterpop!, Joshua Lanuarii, STYXVII and more",
+  "description": "With Joshua Lanuarii, glitterpop!, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 140400,
       "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
       "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -415,6 +415,50 @@
     },
     {
       "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        },
+        {
+          "name": "Rabbit Ran Late",
+          "url": "https://open.spotify.com/artist/5Y0Yxn2ctzgy3qIlmaKo4w"
+        },
+        {
+          "name": "Maruyama Yuki",
+          "url": "https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224125,
+      "name": "CHOKING!!!",
+      "url": "https://open.spotify.com/track/3hEqkwt2WjiKYMBtei76Yz"
+    },
+    {
+      "album": {
+        "name": "CLICK ME",
+        "url": "https://open.spotify.com/album/0YLBaaLITzGM7Vj7cupr9Y"
+      },
+      "artists": [
+        {
+          "name": "KOKAYNA",
+          "url": "https://open.spotify.com/artist/4BHrZkg0EddxG2e7pGFmac"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125201,
+      "name": "CLICK ME",
+      "url": "https://open.spotify.com/track/4XlmnvNd6GpCDWMh3H3uY5"
+    },
+    {
+      "album": {
         "name": "COPE",
         "url": "https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY"
       },
@@ -462,7 +506,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 127500,
       "name": "DOKTORSPIELE 4 SPARKLEFURS!!!",
       "url": "https://open.spotify.com/track/5wbUoMt6kW0E4l1VWotlA4"
@@ -506,7 +550,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 77216,
       "name": "don't forget (to not be a jerk)",
       "url": "https://open.spotify.com/track/2aU43VxROsnRdmD4jDwic5"
@@ -618,7 +662,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155897,
       "name": "FURRIES JUST WANNA HAVE FUN!",
       "url": "https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk"
@@ -713,6 +757,24 @@
     },
     {
       "album": {
+        "name": "I'm Your Baby",
+        "url": "https://open.spotify.com/album/7fZ48NMjXmSMRC12cPBkr8"
+      },
+      "artists": [
+        {
+          "name": "Daxbak",
+          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "I'm Your Baby",
+      "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
+    },
+    {
+      "album": {
         "name": "ICE CREAM PARTY",
         "url": "https://open.spotify.com/album/0Uy3K5JuxOgclVo0QkYbU7"
       },
@@ -764,7 +826,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 153124,
       "name": "IDOLiZER",
       "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
@@ -859,6 +921,32 @@
     },
     {
       "album": {
+        "name": "#HYPERDRILL2",
+        "url": "https://open.spotify.com/album/4g7wXn4tJJapLL2eMIcoaC"
+      },
+      "artists": [
+        {
+          "name": "POPSTARBILLS",
+          "url": "https://open.spotify.com/artist/3L8JSRKuX9a1NQi5nfB5lZ"
+        },
+        {
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
+        },
+        {
+          "name": "Alice Gas",
+          "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "INTERNET",
+      "url": "https://open.spotify.com/track/3Hxloa1dHnhwZrislOkcMC"
+    },
+    {
+      "album": {
         "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
         "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
@@ -932,7 +1020,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 138000,
       "name": "KNOT SONG",
       "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
@@ -1008,7 +1096,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150000,
       "name": "luv u FUREVR!!!",
       "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
@@ -1048,7 +1136,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
@@ -1066,7 +1154,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 66940,
       "name": "measuring cup!",
       "url": "https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP"
@@ -1084,7 +1172,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 127058,
       "name": "MURDER EVERY 1 U KNOW! - SALVIA'S VERSION",
       "url": "https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz"
@@ -1323,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Perfect Fiction (Tsumugi Shirogane Fan Song)",
+        "url": "https://open.spotify.com/album/42A1F8WGjunGXp5Hb8oFfo"
+      },
+      "artists": [
+        {
+          "name": "Mcki Robyns-P",
+          "url": "https://open.spotify.com/artist/07OGOPi4udEwdD6TcGSxdj"
+        },
+        {
+          "name": "Circus P",
+          "url": "https://open.spotify.com/artist/6qEXIU7uzhSUXTWOcc3z4k"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Perfect Fiction (Tsumugi Shirogane Fan Song)",
+      "url": "https://open.spotify.com/track/66if1xGhUmaFau3AE1p4zp"
+    },
+    {
+      "album": {
         "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
         "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
       },
@@ -1410,7 +1520,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 173333,
       "name": "pretty boys in pretty skirts",
       "url": "https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2"
@@ -1446,7 +1556,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
@@ -1482,7 +1592,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 223198,
       "name": "Rest of my Life - DEMO",
       "url": "https://open.spotify.com/track/5WfIDdVeIcOL3gLIXI6PC9"
@@ -1526,6 +1636,24 @@
       "duration_ms": 229288,
       "name": "SAVE ME!!",
       "url": "https://open.spotify.com/track/3fLkQuvM6hKIoKUPS8UZfe"
+    },
+    {
+      "album": {
+        "name": "Senpai, Won't You Notice Me?",
+        "url": "https://open.spotify.com/album/3x0r4dvXnyjHCLSVKEg9vl"
+      },
+      "artists": [
+        {
+          "name": "Fandroid!",
+          "url": "https://open.spotify.com/artist/1ugK8Asl9rFTv6ehF9puwv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125036,
+      "name": "Senpai, Won't You Notice Me?",
+      "url": "https://open.spotify.com/track/6dVGWdfE1ug3g1MH6KuYmP"
     },
     {
       "album": {
@@ -1576,7 +1704,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 198832,
       "name": "sweet bod",
       "url": "https://open.spotify.com/track/2nyr6mG2GQ9fAz6Cdloz6X"
@@ -1659,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "STAY @ HOME SUMMER 2020",
+        "url": "https://open.spotify.com/album/6ELu8qZXh5UJRGJsbSBx5F"
+      },
+      "artists": [
+        {
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130769,
+      "name": "THIS ONE'S FOR THE 2000's FURRIES",
+      "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"
+    },
+    {
+      "album": {
         "name": "u are my favorite!",
         "url": "https://open.spotify.com/album/1uBBaaLFG2dAjHfvwSPIju"
       },
@@ -1714,7 +1860,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -1754,6 +1900,28 @@
       "duration_ms": 78233,
       "name": "want me dead",
       "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3CFtKuYqYIuTEXalJEG3O0"
+      },
+      "artists": [
+        {
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
+        },
+        {
+          "name": "GUMI",
+          "url": "https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126804,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/0tKWVnnCD6rmtSBIR7AiE4"
     },
     {
       "album": {
@@ -1840,7 +2008,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186666,
       "name": "your boyfriend's corpse",
       "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"

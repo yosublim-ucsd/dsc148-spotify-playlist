@@ -3645,6 +3645,28 @@
     },
     {
       "album": {
+        "name": "Delirious (English Version)",
+        "url": "https://open.spotify.com/album/6SHiHFevIKQ0BSPlEaeMPW"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176675,
+      "name": "Delirious (English Version)",
+      "url": "https://open.spotify.com/track/4kT2agM7TzRKKJ0rPTSEtF"
+    },
+    {
+      "album": {
         "name": "Delirious (French Version)",
         "url": "https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2"
       },

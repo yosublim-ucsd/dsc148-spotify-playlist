@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sgribaz in cover della playlist con la nuova generazione del rap italiano. ",
+  "description": "Tokyo in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 139744,
       "name": "120p",
       "url": "https://open.spotify.com/track/6fpH9r3zBCKvvS3DyHkcYa"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130263,
       "name": "6AM",
       "url": "https://open.spotify.com/track/1N39icVWCfSPdTaR61FAXY"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130285,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/3n2kduzwv8dinVTmgtOPFP"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 136800,
       "name": "Assolo",
       "url": "https://open.spotify.com/track/4qwZ6vYaOcrjRgoySJN6FW"
@@ -3460,6 +3460,24 @@
       "duration_ms": 118153,
       "name": "BEEF",
       "url": "https://open.spotify.com/track/3HC0jFOHZ6LUDTloTBqAwC"
+    },
+    {
+      "album": {
+        "name": "bella musica x belle ragazze",
+        "url": "https://open.spotify.com/album/5W0kxTxjrfi3XZeE8IK1hX"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "bella musica x belle ragazze",
+      "url": "https://open.spotify.com/track/0Kou4dC9CIVVY0xXQ2NW1m"
     },
     {
       "album": {
@@ -6707,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "Cobra Kai",
+        "url": "https://open.spotify.com/album/4Zun4V6ben94jSVEHmFJaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Rich",
+          "url": "https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144659,
+      "name": "Cobra Kai",
+      "url": "https://open.spotify.com/track/3myslAxIoknuDRh4MWLZz2"
+    },
+    {
+      "album": {
         "name": "EP 5/4 (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/2KD3QwAQY5sjY5ZSBMLx9x"
       },
@@ -6770,7 +6806,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 137460,
       "name": "COCAINA NERA",
       "url": "https://open.spotify.com/track/0ImelN0NRIsjaXZjUjKR0g"
@@ -8308,7 +8344,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 174400,
       "name": "Delay",
       "url": "https://open.spotify.com/track/4MLlRPhK4Xyyzx08FsFDYJ"
@@ -9614,6 +9650,28 @@
       "duration_ms": 124500,
       "name": "Entriamo d'abuso",
       "url": "https://open.spotify.com/track/26d8hSpEjm2snnNZNZXW9Y"
+    },
+    {
+      "album": {
+        "name": "EQUIPAGGIO",
+        "url": "https://open.spotify.com/album/1OcqVx68akxq0sm8nwIJzw"
+      },
+      "artists": [
+        {
+          "name": "Glasond",
+          "url": "https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq"
+        },
+        {
+          "name": "Hammon",
+          "url": "https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181910,
+      "name": "EQUIPAGGIO",
+      "url": "https://open.spotify.com/track/1H2rbyEQFmkUMmsPP1PJhz"
     },
     {
       "album": {
@@ -12050,7 +12108,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 141000,
       "name": "GIOSTRE",
       "url": "https://open.spotify.com/track/6SPRqUyDss4DsMm8w0MUyv"
@@ -18218,7 +18276,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 148183,
       "name": "MEGACOSTOSO",
       "url": "https://open.spotify.com/track/7n8lM7poYbRjhX2qxiu7a4"
@@ -18262,6 +18320,24 @@
       "duration_ms": 138288,
       "name": "Meglio Ke",
       "url": "https://open.spotify.com/track/4C1UdPseU65AXNvXy8PeMs"
+    },
+    {
+      "album": {
+        "name": "melting point",
+        "url": "https://open.spotify.com/album/4oS0baLbEA3cGpipl1hxzp"
+      },
+      "artists": [
+        {
+          "name": "ERA DWK",
+          "url": "https://open.spotify.com/artist/4kFlo81lJLDBS2X4H1BZeT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99944,
+      "name": "melting point",
+      "url": "https://open.spotify.com/track/1S1kVGuQm0MxAonV0QeZpp"
     },
     {
       "album": {
@@ -19497,6 +19573,28 @@
     },
     {
       "album": {
+        "name": "ENTROPIA/CORTISOLO",
+        "url": "https://open.spotify.com/album/0o6L99iGJnpQu1bAOdrz70"
+      },
+      "artists": [
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "MORIREMO",
+      "url": "https://open.spotify.com/track/76tBcX95i8ul7dCkT0fMN9"
+    },
+    {
+      "album": {
         "name": "MOTARD",
         "url": "https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH"
       },
@@ -20513,6 +20611,24 @@
     },
     {
       "album": {
+        "name": "No iPhone",
+        "url": "https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "No iPhone",
+      "url": "https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG"
+    },
+    {
+      "album": {
         "name": "NO JECKERSON",
         "url": "https://open.spotify.com/album/4jzKmEy05gvaGLafp9IAPq"
       },
@@ -21076,7 +21192,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 205333,
       "name": "Non respiro",
       "url": "https://open.spotify.com/track/72V4jivh9tCh6D0Q6MRl0C"
@@ -24030,10 +24146,28 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 154838,
       "name": "POTO (feat. N\u00e9za)",
       "url": "https://open.spotify.com/track/4gB1d7kVZamGTOy7TeBvNM"
+    },
+    {
+      "album": {
+        "name": "POUR AMOUR",
+        "url": "https://open.spotify.com/album/1c0qvf2C1a35F0HG0TSKFx"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125365,
+      "name": "POUR AMOUR",
+      "url": "https://open.spotify.com/track/3nhPo19BHc5SUp5Vit8TnM"
     },
     {
       "album": {
@@ -25442,7 +25576,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 88888,
       "name": "RESTANDO SVEGLIO",
       "url": "https://open.spotify.com/track/2ltjvU8KqMlrw4XGaVsY3v"
@@ -27082,7 +27216,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169787,
       "name": "serotonina",
       "url": "https://open.spotify.com/track/1B6mnqZG73a1by4WlxpJET"

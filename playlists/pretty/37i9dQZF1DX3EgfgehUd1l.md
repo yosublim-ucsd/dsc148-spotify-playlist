@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,171 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,193 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 57 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/617WaAaVKKOPyYbx04p74h) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Kisses Sweeter Than Wine](https://open.spotify.com/album/2mNxmv5IcoHvwkU7TIAcSI) | 2:13 |
 | 58 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
 | 59 | [Unchained Melody](https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH) | [Jimmy Young](https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV) | [Rock & Roll 50s & 60s Mix](https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h) | 2:46 |
-| 60 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
-| 61 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 60 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 61 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
 | 62 | [Just Walkin' in the Rain](https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Summer Holiday](https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw) | 2:37 |
 | 63 | [I Need You Now \- 2001 Remastered](https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 2:29 |
 | 64 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 76 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
 | 77 | [I'm Walking Behind You \- 2001 Remastered](https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 3:04 |
 | 78 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
-| 79 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
-| 80 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
+| 79 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
+| 80 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
 
 Snapshot ID: `Zl3YwgAAAAAXfQqcmrm3MtaeL7E1nvvt`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Semicenk
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Kubilay Karça
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,118 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,210 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
 | 50 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 |
 
-Snapshot ID: `Z6zJFQAAAAAdCUtxvULLPnmDsY44kMR0`
+Snapshot ID: `Z65dcQAAAACKFdIlHn4KoZBD0qBQyjBX`

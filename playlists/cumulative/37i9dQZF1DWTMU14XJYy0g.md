@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Turf y Conociendo Rusia
 
-346 songs - 21 hr 37 min
+347 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 | 2023-01-20 | 2023-09-02 |
 | [Cambian](https://open.spotify.com/track/7chuX6EefRPb520HqAFDej) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Cambian](https://open.spotify.com/album/63kRgJ0EtVVDQpKoAUiOsz) | 4:24 | 2024-03-07 | 2024-08-24 |
 | [Camionero Blues](https://open.spotify.com/track/3vDmgKzZPrK4Hn7IHYCYWy) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Cintas Mágicas Volumen III](https://open.spotify.com/album/2ynkZW347XOVLIBdyGdmFp) | 3:50 | 2022-12-02 | 2023-07-29 |
+| [Campanas en la Noche](https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Campanas en la Noche](https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr) | 4:10 | 2025-02-13 |  |
 | [Canciones de amor](https://open.spotify.com/track/25Zk0XfW51saVwcH7bBOV4) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Canciones de amor](https://open.spotify.com/album/657L4NaNNPqNQYbpZmDHX8) | 3:23 | 2024-06-07 | 2024-09-07 |
 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 | 2022-07-30 |
 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-01 | 2024-07-27 |
@@ -351,7 +352,7 @@
 | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 | 2022-07-30 |
 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 | 2024-08-23 |  |
 | [Yo Soy la Máquina](https://open.spotify.com/track/4eq8fPmokjpFcMVpNLKwaI) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Yo Soy la Máquina](https://open.spotify.com/album/1KgTB2iKxtvGWQ5EL97LDZ) | 3:04 | 2022-10-14 | 2023-03-04 |
-| [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-12 |  |
+| [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-12 | 2025-02-14 |
 | [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 | 2023-03-17 | 2024-06-08 |
 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-07 |  |
 

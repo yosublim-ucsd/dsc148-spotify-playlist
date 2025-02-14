@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Colyn, Innellea",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Pawelo",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -7147,6 +7147,28 @@
     },
     {
       "album": {
+        "name": "Delirious (English Version)",
+        "url": "https://open.spotify.com/album/6SHiHFevIKQ0BSPlEaeMPW"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176675,
+      "name": "Delirious (English Version)",
+      "url": "https://open.spotify.com/track/4kT2agM7TzRKKJ0rPTSEtF"
+    },
+    {
+      "album": {
         "name": "Delirious (French Version)",
         "url": "https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2"
       },
@@ -7296,6 +7318,24 @@
       "duration_ms": 138661,
       "name": "Devil",
       "url": "https://open.spotify.com/track/0ZrJ5soMgpRi6YcU9U1iCK"
+    },
+    {
+      "album": {
+        "name": "Devil In My Ear",
+        "url": "https://open.spotify.com/album/1Xv5jwJP9X51RqDoPceJM9"
+      },
+      "artists": [
+        {
+          "name": "STUBBVRN",
+          "url": "https://open.spotify.com/artist/0MB1dBsdSg2vCCe4de3mKK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "Devil In My Ear",
+      "url": "https://open.spotify.com/track/0kmjQITLri3Y9p3AQf1QGN"
     },
     {
       "album": {
@@ -12085,6 +12125,24 @@
     },
     {
       "album": {
+        "name": "Give Me One Reason",
+        "url": "https://open.spotify.com/album/0azWUoqVxXAnHzI4ly3s11"
+      },
+      "artists": [
+        {
+          "name": "Pawel\u014d",
+          "url": "https://open.spotify.com/artist/76xuVwMGa55gY2pQcp8fqH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/0RUOqcKBZqY84EPGzr2WXZ"
+    },
+    {
+      "album": {
         "name": "Give To Me",
         "url": "https://open.spotify.com/album/66saaaONECfathKY0zXiuE"
       },
@@ -13456,6 +13514,32 @@
       "duration_ms": 128437,
       "name": "Home",
       "url": "https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA"
+    },
+    {
+      "album": {
+        "name": "Home (feat. Colton Avery)",
+        "url": "https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO"
+      },
+      "artists": [
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Colton Avery",
+          "url": "https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147396,
+      "name": "Home (feat. Colton Avery)",
+      "url": "https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6"
     },
     {
       "album": {
@@ -16116,6 +16200,24 @@
       "duration_ms": 169687,
       "name": "Jump",
       "url": "https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/3ecDkFlkQ4Ehu48eFfaCiN"
+      },
+      "artists": [
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5rX7lQzWSk3b6RA5FNcEVc"
     },
     {
       "album": {
@@ -20660,6 +20762,28 @@
       "duration_ms": 144750,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/4uyOQKIqGPcKKvYN53WIjT"
+    },
+    {
+      "album": {
+        "name": "Mirror Machine (feat. Aurelia Ray)",
+        "url": "https://open.spotify.com/album/2kOMPQL3Dh0txs9SLyrKbM"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Aurelia Ray",
+          "url": "https://open.spotify.com/artist/1XBlyH8em537ST8B4bifds"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Mirror Machine (feat. Aurelia Ray)",
+      "url": "https://open.spotify.com/track/02idOTV7xd70dtWv5ALKNt"
     },
     {
       "album": {
@@ -26487,6 +26611,28 @@
     },
     {
       "album": {
+        "name": "Riff (BLR Remix)",
+        "url": "https://open.spotify.com/album/0Gaic22UWnWPxWGxvvcWfj"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Riff (BLR Remix)",
+      "url": "https://open.spotify.com/track/5LRYAGYdldhP2bDNuO6GWb"
+    },
+    {
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/6wDd5bQrqEn6EvWdEyOewA"
       },
@@ -28390,6 +28536,24 @@
       "duration_ms": 159193,
       "name": "Sleepwalking (feat. The Chain Gang of 1974)",
       "url": "https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ"
+    },
+    {
+      "album": {
+        "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/2sZwH67mSfBAlhFLhkjvtW"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223645,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/1p29fXoNNK6vTX0mMI3XhG"
     },
     {
       "album": {

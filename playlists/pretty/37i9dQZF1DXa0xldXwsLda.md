@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,973 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,979 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 92 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 |
 | 93 | [Azul](https://open.spotify.com/track/4ZfgdOhUEnvwSevO8xN9R3) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Azul](https://open.spotify.com/album/2c3XPHXI3kx5X2MrdWzjxd) | 3:30 |
 | 94 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
-| 95 | [Cruz de Navajas](https://open.spotify.com/track/1J4r7ztWO9jLCSID0fXVU9) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 5:04 |
-| 96 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 |
+| 95 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 |
+| 96 | [Cruz de Navajas](https://open.spotify.com/track/1J4r7ztWO9jLCSID0fXVU9) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 5:04 |
 | 97 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
 | 98 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 |
 | 99 | [Malibu](https://open.spotify.com/track/10pbPIPuOR8RhGozwcb3cE) | [Eden Mary](https://open.spotify.com/artist/6sg4OZ2ZzhsEeOTTEZYMYJ) | [Acoustic Weekend, Miley Dua Lipa etc](https://open.spotify.com/album/1EjA6HepLhZGakpnfGk7dV) | 3:42 |

@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Helena au sommet de la première playlist de France.
+> Lola Young au sommet de la première playlist de France.
 
-286 songs - 14 hr 30 min
+287 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-02-06 |  |
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-06-27 | 2024-10-25 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-11 | 2024-11-08 |
-| [Femme Like U \- Tribute 2024 Remix by W.A.N.O](https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75), [W.A.N.O](https://open.spotify.com/artist/0jIAr2DcV8UWlpTVmY1MC3) | [Femme Like U \(20th Anniversary Tribute\)](https://open.spotify.com/album/36PgFWsIRTLkn5oXwwgXQ1) | 2:21 | 2024-12-12 |  |
+| [Femme Like U \- Tribute 2024 Remix by W.A.N.O](https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75), [W.A.N.O](https://open.spotify.com/artist/0jIAr2DcV8UWlpTVmY1MC3) | [Femme Like U \(20th Anniversary Tribute\)](https://open.spotify.com/album/36PgFWsIRTLkn5oXwwgXQ1) | 2:21 | 2024-12-12 | 2025-02-14 |
 | [FLASHBACK](https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:56 | 2023-11-16 | 2024-05-24 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-07-27 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-03 | 2023-08-18 |
@@ -162,6 +162,7 @@
 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 | 2023-07-27 | 2023-10-27 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2024-01-25 | 2024-03-15 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-04 | 2024-03-15 |
+| [Ma faute \(version 2025\)](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-02-13 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-28 |  |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2024-03-21 | 2024-06-21 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-03-07 | 2024-07-12 |

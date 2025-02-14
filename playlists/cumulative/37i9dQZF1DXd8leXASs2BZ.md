@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 5Leaf
 
-844 songs - 1 day 15 hr 5 min
+845 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Get Dirty](https://open.spotify.com/track/4KwJHRomNoUERhWN6jUrGQ) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe), [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU) | [Get Dirty](https://open.spotify.com/album/2N6dfCa4f0nga3tCaxLmCI) | 2:46 | 2024-09-10 | 2024-11-06 |
 | [GET RIGHT BACK](https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [GET RIGHT BACK](https://open.spotify.com/album/2GRECGqkujuAC6uRvOauPA) | 2:19 | 2023-12-07 | 2024-02-28 |
 | [Ghetto Saiyan](https://open.spotify.com/track/6s6Z4n8IVBECW4VpqBAmXz) | [Kampf](https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK) | [GHETTO SAIYAN](https://open.spotify.com/album/5P0lSJ38BPZhiGQGNdSteh) | 1:57 | 2024-12-03 |  |
-| [GIFT](https://open.spotify.com/track/4DyefcTv3Z6yNRbSScTaXh) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [GIFT](https://open.spotify.com/album/7e7Jc4JLTG4XI0wbWlzgJv) | 3:15 | 2024-11-27 |  |
+| [GIFT](https://open.spotify.com/track/4DyefcTv3Z6yNRbSScTaXh) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [GIFT](https://open.spotify.com/album/7e7Jc4JLTG4XI0wbWlzgJv) | 3:15 | 2024-11-27 | 2025-02-14 |
 | [Gifu City is Come Back](https://open.spotify.com/track/3yCiMkAeK41EMehU5NLjXA) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt) | [Gifu City is Come Back](https://open.spotify.com/album/2XuJhO8gehCQgnVFoCKDln) | 2:03 | 2025-01-08 |  |
 | [Gimme Mo \(feat\. EASTA\)](https://open.spotify.com/track/79z4VoQWlAtMYLn1o0fbfi) | [GINJI MIKAZUKI](https://open.spotify.com/artist/6J07tTWInNyy1ZzWcr8roz), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [Gimme Mo \(feat\. EASTA\)](https://open.spotify.com/album/1CwuLfj0zwxCfL8QnRHtpR) | 3:18 | 2024-11-12 | 2024-11-20 |
 | [GINGINDEGO](https://open.spotify.com/track/0y3pRhjFnTGRZyOPdtFF9T) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/4FTSOFSOAAkWnsy4Dx5q94) | 1:51 | 2024-04-16 | 2024-05-29 |
@@ -497,6 +497,7 @@
 | [No Follow \(feat\. DADA\)](https://open.spotify.com/track/4DBZjUJJIvvtPCA4Msg7ff) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Aurora](https://open.spotify.com/album/135Vc6lX1BUhxMdTBTtSxM) | 2:59 | 2025-01-14 |  |
 | [No Limit Your Life \(feat\. WILYWNKA\)](https://open.spotify.com/track/5y5Ue4ePNghqA5f8Spbtbs) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Flipping](https://open.spotify.com/album/6YyzdePI3LvUuuFHsSU7BU) | 2:53 | 2024-07-09 | 2024-11-06 |
 | [No Love](https://open.spotify.com/track/4tvSyiit5A7QFxcHDqIbAS) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Cyprus](https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv) | [No Love](https://open.spotify.com/album/5nXTiC49S54td9zS1mPcPm) | 3:17 | 2024-07-02 | 2024-08-07 |
+| [No Love \(feat\. M3R, ROBBIN & L.O.S.T\)](https://open.spotify.com/track/2l5DVAF1AOYIUzhA1LtVTK) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB), [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [No Love \(feat\. M3R, ROBBIN & L.O.S.T\)](https://open.spotify.com/album/6gPrWCOq9V7x4Qs28sYj4x) | 2:33 | 2025-02-13 |  |
 | [NO MARK](https://open.spotify.com/track/6qP3iZ1YXgThRvmFE7luyJ) | [STAR SEEED](https://open.spotify.com/artist/4RwnTKcN7LmBxcYTCjBH06), [CHILL GIRL RABBIT](https://open.spotify.com/artist/5QyQQmX4UyZkppQvRN2CT0) | [NO MARK](https://open.spotify.com/album/7kLCwtHpMk01UNvmMtFpyH) | 2:09 | 2025-01-14 |  |
 | [NO RULES](https://open.spotify.com/track/5OEPtB1XLGQulfdirZVEKX) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [NO RULES](https://open.spotify.com/album/0NTjnb9gP7X9ighkElA32Z) | 2:48 | 2025-02-04 | 2025-02-12 |
 | [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 | 2024-02-15 | 2024-03-22 |
@@ -785,7 +786,7 @@
 | [おだち](https://open.spotify.com/track/1u9MYtPBt81ZFcKApyxteF) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA), [S4K.clear](https://open.spotify.com/artist/1e4sGAGa0MBi9b3UEbAPqs), [henrik](https://open.spotify.com/artist/6mDdDpQhGGcH26KydElubc) | [おだち](https://open.spotify.com/album/4tM4mq5sPPOy4k0bxRLvZE) | 4:19 | 2024-07-30 | 2024-09-25 |
 | [おっぱじめ！](https://open.spotify.com/track/3Fsob6FMxkNjupTQwA1Auo) | [Legal nerd boyz](https://open.spotify.com/artist/25ggylVPSvLtgpAZK66OVn) | [おっぱじめ！](https://open.spotify.com/album/5rs9EM6ZuzROU9NxyfRWky) | 2:50 | 2024-11-06 | 2025-02-05 |
 | [かかってこい](https://open.spotify.com/track/3hxxNZevvcy6DVYliyNgiK) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/3ARpKk257vA0zEzybcN4DB) | 2:39 | 2024-04-16 | 2024-05-15 |
-| [こんなもん](https://open.spotify.com/track/0ReudWNq34DkPfI7zrn7Sw) | [シラフ](https://open.spotify.com/artist/4NTgCBuUgWbeOPuUwj2I5V) | [こんなもん / 旅人](https://open.spotify.com/album/3mnxaBXgjdyjNV3wwHTqpz) | 2:52 | 2024-10-29 |  |
+| [こんなもん](https://open.spotify.com/track/0ReudWNq34DkPfI7zrn7Sw) | [シラフ](https://open.spotify.com/artist/4NTgCBuUgWbeOPuUwj2I5V) | [こんなもん / 旅人](https://open.spotify.com/album/3mnxaBXgjdyjNV3wwHTqpz) | 2:52 | 2024-10-29 | 2025-02-14 |
 | [ずっとフロウ](https://open.spotify.com/track/3Gr9mtAwzuZ5bvWD9P9KQQ) | [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ) | [ずっとフロウ](https://open.spotify.com/album/4WYQObkTiYyFHqcNHooTRp) | 2:14 | 2024-07-30 | 2024-08-28 |
 | [そういえばさ](https://open.spotify.com/track/67tDM0mNG094Pjs7OYrEoG) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [そういえばさ](https://open.spotify.com/album/51WVp8jC7FRxncclDbzdGR) | 2:18 | 2024-07-02 | 2024-08-07 |
 | [でんせつポケモン](https://open.spotify.com/track/4Mt743DMMOhEEkUBbPdeOd) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [RAPQUEST Ⅱ 〜夢の大陸〜](https://open.spotify.com/album/5FXvsPQBDU0WOVCUCPju73) | 2:22 | 2024-05-28 | 2024-06-12 |

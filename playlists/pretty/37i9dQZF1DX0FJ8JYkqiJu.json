@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 399056,
+  "num_followers": 399170,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z6rN3wAAAAATcNZ9rNwHkdWTDclmwUao",
   "tracks": [
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
-    },
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 189000,
       "name": "Luminary",
       "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -179,26 +179,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "We Are Mirage (Radio Edit)",
-        "url": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 202742,
-      "name": "We Are Mirage - Radio Edit",
-      "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Shout It Out",
         "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 188739,
       "name": "Shout It Out",
       "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "We Are Mirage (Radio Edit)",
+        "url": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 202742,
+      "name": "We Are Mirage - Radio Edit",
+      "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -363,26 +363,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "No Gravity (feat. Bava)",
-      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 151025,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "No Gravity (feat. Bava)",
+      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Amman",
-        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 208290,
-      "name": "Amman",
-      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175292,
       "name": "Say It",
       "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Amman",
+        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 208290,
+      "name": "Amman",
+      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -735,22 +715,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
       },
@@ -763,6 +727,42 @@
       "duration_ms": 242376,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "Hopecore",
         "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
       },
@@ -915,26 +931,6 @@
       "duration_ms": 319551,
       "name": "Oceanside Girl",
       "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
-      },
-      "artists": [
-        {
-          "name": "goodlife",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 167009,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -999,6 +995,26 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
+      },
+      "artists": [
+        {
+          "name": "goodlife",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "New Fires",
         "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 251591,
       "name": "New Fires",
       "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1267,22 +1287,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+        "name": "Wale Wale",
+        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 290625,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+      "duration_ms": 317884,
+      "name": "Wale Wale",
+      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1319,26 +1339,6 @@
       "duration_ms": 209849,
       "name": "The World",
       "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Wale Wale",
-        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
-      },
-      "artists": [
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 317884,
-      "name": "Wale Wale",
-      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "added_at": "2025-02-11 04:11:11",

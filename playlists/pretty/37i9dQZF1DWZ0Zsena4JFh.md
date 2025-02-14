@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Djo  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,103 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,096 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 11 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 |
 | 12 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 13 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 |
-| 14 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
+| 14 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 15 | [Same Old Story](https://open.spotify.com/track/7jyy9JO1IT3txW2FMLNLf5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Same Old Story](https://open.spotify.com/album/6SRh9ykaXuheaC83PahQ4o) | 2:51 |
-| 16 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 16 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
 | 17 | [bastard](https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [bastard](https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0) | 2:16 |
 | 18 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 19 | [Don't Wait Up](https://open.spotify.com/track/18yDsGdHw4LhYMMTbNlNWS) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Don't Wait Up](https://open.spotify.com/album/4mGi7lkUGSqal4YEIKKE00) | 3:47 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 37 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 38 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 | 39 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 40 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
-| 41 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
+| 40 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
+| 41 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
 | 42 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 |
 | 43 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 44 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |

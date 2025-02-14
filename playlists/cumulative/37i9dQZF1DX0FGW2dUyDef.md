@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Semicenk
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Kubilay Karça
 
 117 songs - 6 hr 5 min
 

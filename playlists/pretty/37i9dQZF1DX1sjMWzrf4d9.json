@@ -143,22 +143,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "ELEMENT.",
-      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "KOD",
         "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 200309,
       "name": "Kevin\u2019s Heart",
       "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 229240,
       "name": "Show Stopper",
       "url": "https://open.spotify.com/track/5FRIqUXfTazrtRmYEGO4G0"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "Throw A Fit",
+        "url": "https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 158757,
+      "name": "Throw A Fit",
+      "url": "https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b"
     }
   ],
   "unique_name": "Ziwe's Taste ",

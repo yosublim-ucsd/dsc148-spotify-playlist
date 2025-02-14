@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Bolivard
+> The best French indie tracks right now\. Cover : Oracle Sisters
 
-584 songs - 1 day 7 hr 49 min
+586 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [De passage](https://open.spotify.com/track/4qF7Zmu83lewHKTjP8sHqD) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 3:06 | 2024-01-18 | 2024-04-19 |
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-22 |
 | [De ta faute](https://open.spotify.com/track/5oj0j8VDbNscUAfv7acteK) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [De ta faute](https://open.spotify.com/album/7Ggkx1UE9wCQ0vFu4h80Mo) | 2:53 | 2023-08-24 | 2024-02-09 |
-| [Denim](https://open.spotify.com/track/36LHLhjTdDJcwYUT1tnZ7H) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [Denim](https://open.spotify.com/album/0dmwgJiUO3ob46WseHYy82) | 3:05 | 2025-01-30 |  |
+| [Denim](https://open.spotify.com/track/36LHLhjTdDJcwYUT1tnZ7H) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [Denim](https://open.spotify.com/album/0dmwgJiUO3ob46WseHYy82) | 3:05 | 2025-01-30 | 2025-02-14 |
 | [Des Choses](https://open.spotify.com/track/1zvmRYVcCbdr2ml6U9cqxw) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Des Choses](https://open.spotify.com/album/6HSL1XRfNmkBkPWJ4Ix5YH) | 3:12 | 2024-11-14 | 2025-01-17 |
 | [Des fleurs](https://open.spotify.com/track/2jNeR1QAIvikSfvpImES6f) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [Des fleurs](https://open.spotify.com/album/350HmeclApbU0aOtqWtkjh) | 2:53 | 2025-01-09 |  |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
@@ -326,6 +326,7 @@
 | [Magique](https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Magique](https://open.spotify.com/album/1QovWMxy4xIatjjkvvqD1W) | 2:58 | 2023-01-12 | 2023-03-25 |
 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 | 2024-10-18 |
 | [Marathon](https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Marathon](https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm) | 3:02 | 2023-09-28 | 2024-01-19 |
+| [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-02-13 |  |
 | [Masque d'or](https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Masque d'or](https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt) | 3:31 | 2021-12-16 | 2022-11-11 |
 | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM) | 3:55 | 2023-11-30 | 2024-10-11 |
 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 | 2024-03-21 |  |
@@ -335,6 +336,7 @@
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-07 | 2024-06-07 |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 | 2023-04-06 | 2023-10-06 |
+| [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 | 2025-02-13 |  |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-04 |  |
 | [MIEL](https://open.spotify.com/track/0ZEf0aUGqB1HFKMdy2OLdp) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [L'autre moi](https://open.spotify.com/album/3t1YXwlIa0caYvSG6Yk6h5) | 2:55 | 2025-02-06 |  |
 | [Mieux](https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa) | [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI), [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y) | [Mieux](https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N) | 2:49 | 2023-02-09 | 2023-09-22 |
@@ -534,7 +536,7 @@
 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 | 2023-04-13 | 2023-06-02 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-12-16 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
-| [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 |  |
+| [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |

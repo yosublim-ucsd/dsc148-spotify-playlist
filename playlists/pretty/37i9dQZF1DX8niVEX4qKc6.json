@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 189066,
+  "num_followers": 189094,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2025-02-07 01:16:10",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2025-02-07 01:16:10",
-      "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Fanky - Live",
-      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
-    },
-    {
-      "added_at": "2025-02-07 01:16:10",
-      "album": {
         "name": "La Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 320600,
       "name": "El Tesoro - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
+    },
+    {
+      "added_at": "2025-02-07 01:16:10",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Fanky - Live",
+      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
-    },
-    {
-      "added_at": "2025-02-07 01:16:10",
-      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 133859,
       "name": "No me pidas que no sea un inconsciente",
       "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+    },
+    {
+      "added_at": "2025-02-07 01:16:10",
+      "album": {
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "El Viejo Comunista",
-        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
         },
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
-      "duration_ms": 297000,
-      "name": "El Viejo Comunista",
-      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
+        "name": "El Viejo Comunista",
+        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
       "artists": [
         {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         },
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+      "duration_ms": 297000,
+      "name": "El Viejo Comunista",
+      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "Ac\u00fastico Gran Rex",
-        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 260813,
-      "name": "Me Est\u00e1s Tratando Mal - En Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP"
-    },
-    {
-      "added_at": "2025-02-07 01:16:10",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2025-02-07 01:16:10",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 260813,
+      "name": "Me Est\u00e1s Tratando Mal - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "Seminare",
-        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
-      },
-      "artists": [
-        {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "Seminare",
-      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
-    },
-    {
-      "added_at": "2025-02-07 01:16:10",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2025-02-07 01:16:10",
       "album": {
-        "name": "De Mi Flor",
-        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
+        "name": "Seminare",
+        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Juan Jos\u00e9 Vasconcellos",
-          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
         }
       ],
-      "duration_ms": 221651,
-      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
-      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+      "duration_ms": 204540,
+      "name": "Seminare",
+      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
     },
     {
       "added_at": "2025-02-07 01:16:10",
@@ -1543,6 +1523,26 @@
       "duration_ms": 202500,
       "name": "Mil Mensajes",
       "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
+    },
+    {
+      "added_at": "2025-02-07 01:16:10",
+      "album": {
+        "name": "De Mi Flor",
+        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Juan Jos\u00e9 Vasconcellos",
+          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
+        }
+      ],
+      "duration_ms": 221651,
+      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
+      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
     },
     {
       "added_at": "2025-02-07 01:16:10",

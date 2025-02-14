@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 243356,
       "name": "\u4ecb\u8d28",
       "url": "https://open.spotify.com/track/67IEgoowJgpCGT0a4Ya9W7"
@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u5df2\u7d93\u66ff\u6211\u6c7a\u5b9a\u4e86 - \u96fb\u5f71\u300a\u547d\u4e2d\u8a3b\u5b9a\u90a3\u982d\u9d5d\u300b\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "\u4f60\u5df2\u7d93\u66ff\u6211\u6c7a\u5b9a\u4e86 - \u96fb\u5f71\u300a\u547d\u4e2d\u8a3b\u5b9a\u90a3\u982d\u9d5d\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ"
+    },
+    {
+      "album": {
         "name": "Dear Myself",
         "url": "https://open.spotify.com/album/5vtzx3WkGesmshvpPdJ5oC"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227462,
       "name": "\u4f60\u662f\u6211\u5728\u5fc3\u4e2d\u91cd\u8981\u7684\u90a3\u500b\u4eba",
       "url": "https://open.spotify.com/track/0wMKfEWtVJUQMWmYlrUFGs"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234978,
       "name": "\u5230\u5f8c\u4f86\u9084\u662f\u5931\u53bb\u4e86\u4e00\u5207",
       "url": "https://open.spotify.com/track/32tUGRT5H22EEQAyywr9Fp"
@@ -2860,6 +2878,28 @@
       "duration_ms": 285272,
       "name": "\u5343\u5e74\u4ee5\u5f8c - \u4e09\u7acb/\u53f0\u8996\u795e\u5e7b\u65d7\u8266\u5927\u6232\u300a\u5929\u5de1\u8005\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/26IMkJibNcV5H51fA9KCB0"
+    },
+    {
+      "album": {
+        "name": "\u534a\u4fe1\u534a\u7591 (feat. \u674e\u6b23\u5ead)",
+        "url": "https://open.spotify.com/album/57M691lgVQKSGQUuMYH6VV"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        },
+        {
+          "name": "\u674e\u6b23\u5ead",
+          "url": "https://open.spotify.com/artist/0oUpAcUVbIduFLEpZatuBc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298298,
+      "name": "\u534a\u4fe1\u534a\u7591 (feat. \u674e\u6b23\u5ead)",
+      "url": "https://open.spotify.com/track/7zQ3e5B9onfirIEeL6Nd0Z"
     },
     {
       "album": {
@@ -4955,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "\u602a\u6211\u62ce\u4e0d\u6e05",
+        "url": "https://open.spotify.com/album/366xmmYODYQwE1rFD5qCr8"
+      },
+      "artists": [
+        {
+          "name": "\u627f\u6853",
+          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205074,
+      "name": "\u602a\u6211\u62ce\u4e0d\u6e05",
+      "url": "https://open.spotify.com/track/4rlaeVHSxRLmuefpqy91Xs"
+    },
+    {
+      "album": {
         "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
         "url": "https://open.spotify.com/album/3vrYZg4mjuu9FbK5SnAFXY"
       },
@@ -6332,7 +6390,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 236269,
       "name": "\u6251\u706b",
       "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
@@ -8598,7 +8656,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 233142,
       "name": "\u820a\u8857",
       "url": "https://open.spotify.com/track/71UomceDKDdt93Tjpmyp1T"

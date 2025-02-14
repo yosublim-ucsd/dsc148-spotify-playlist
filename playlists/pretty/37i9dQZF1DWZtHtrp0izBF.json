@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 28974,
+  "num_followers": 29048,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZttrWQAAAADqcdUKi+BV0eUY0Wdh+GxB",
   "tracks": [
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 302320,
       "name": "La Quiero A Morir",
       "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/7CV3xQzREhrKHzipageL3n"
       },
@@ -431,6 +447,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -443,22 +475,6 @@
       "duration_ms": 304333,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Nuevo Milenio - El Mismo Sabor",
         "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 283200,
       "name": "Mia",
       "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Cheo",
         "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 253253,
       "name": "Anacaona",
       "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Soy Feliz",
         "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 244800,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296920,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
     },
     {
       "added_at": "2024-09-06 20:51:37",

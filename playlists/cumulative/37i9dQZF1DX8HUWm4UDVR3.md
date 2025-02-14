@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Vendredi sur Mer
+> La pop française annonce la couleur\. Photo : Ben Mazué et Yoa
 
-265 songs - 13 hr 12 min
+266 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Stop](https://open.spotify.com/track/1FHYc87SB04yU4D07Ar9eD) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Stop](https://open.spotify.com/album/41B9LhfvPuQ9a1u9n7DIhs) | 3:08 | 2024-04-25 | 2024-09-27 |
 | [Super potos](https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [Super potos](https://open.spotify.com/album/6AuJdkK4SBkcLskg9tF1NK) | 2:11 | 2023-09-14 | 2023-11-10 |
 | [T'es pas sexy](https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [T'es pas sexy](https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw) | 2:29 | 2024-10-10 |  |
+| [T'es Qui Toi ?](https://open.spotify.com/track/4FDeIZxfukhsHK3Lwo41nu) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [T'es Qui Toi ?](https://open.spotify.com/album/1U5rwv5Uy7P56CDYXlhonO) | 2:44 | 2025-02-13 |  |
 | [TANT MIEUX](https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [TANT MIEUX](https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA) | 2:36 | 2024-10-03 |  |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2023-12-14 | 2024-10-04 |
 | [tattoo](https://open.spotify.com/track/7evwmxNkhVLd2upYjGa7De) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:50 | 2024-07-05 | 2024-08-23 |
@@ -260,7 +261,7 @@
 | [TU M'RENDS FOU \(spooky bitch\)](https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [LE CLUB C'EST VOUS](https://open.spotify.com/album/6ApAbH2lJXkm5LiM8QS3qI) | 2:46 | 2024-03-28 | 2024-07-12 |
 | [Tu me plais](https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [Tu me plais](https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV) | 3:07 | 2024-07-11 |  |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 | 2024-03-29 |
-| [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-07-05 |  |
+| [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-07-05 | 2025-02-14 |
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 | 2024-09-13 |
 | [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 | 2024-01-26 | 2024-02-02 |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |

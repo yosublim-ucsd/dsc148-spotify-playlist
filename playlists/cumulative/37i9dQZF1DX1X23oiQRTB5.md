@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi au top de la première playlist de rap français.
+> SDM x Rim'K au top de la première playlist de rap français.
 
-304 songs - 15 hr 38 min
+305 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Laisse tomber](https://open.spotify.com/track/1qnEPb5kyJXaIq1xau0dRr) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [SUAVEMENTE](https://open.spotify.com/album/4VM0NDn0OQlz3odTKvnTJf) | 3:11 | 2022-11-10 | 2022-11-13 |
 | [Laisse tomber](https://open.spotify.com/track/2I09PaS6In9XUCrREVo4C6) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Racines](https://open.spotify.com/album/6yVw74sZZ2lDyvVVnWPTRc) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 | 2022-07-28 | 2022-11-18 |
-| [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-28 |  |
+| [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-28 | 2025-02-14 |
 | [LE PLAN](https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE PLAN](https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB) | 2:48 | 2025-01-09 |  |
 | [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 | 2023-11-09 | 2024-01-19 |
@@ -261,6 +261,7 @@
 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 | 2022-08-04 | 2022-12-05 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 | 2022-09-16 |
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 | 2022-12-02 |
+| [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/2IiCeifwD1U5cvb5rgUh6g) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/album/7KJcR218DxsTSr2RpVgYTK) | 2:25 | 2025-02-13 |  |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-19 | 2024-02-02 |
 | [RR Phantom](https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [RR Phantom](https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY) | 2:32 | 2024-05-02 | 2024-09-06 |
 | [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 | 2025-01-16 |  |

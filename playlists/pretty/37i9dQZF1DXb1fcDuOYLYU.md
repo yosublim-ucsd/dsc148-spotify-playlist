@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,008 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,080 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 83 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
 | 84 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |
 | 85 | [Tengo Un Trato \- Remastered 2015](https://open.spotify.com/track/13crLwJf5aEt3R8MKcisou) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico \(Edición 15 Aniversario\)](https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR) | 2:48 |
-| 86 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 87 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 |
+| 86 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 |
+| 87 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 88 | [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 |
 | 89 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 | 90 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
 | 91 | [BOBO](https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [BOBO](https://open.spotify.com/album/7nMVMZeaTPsWx8T6BbOHzC) | 3:44 |
-| 92 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
-| 93 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
-| 94 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
-| 95 | [Coquette \(Remix\)](https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Coquette \(Remix\)](https://open.spotify.com/album/30WEmCF5a1YNZv5uzBMdvA) | 3:36 |
-| 96 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:43 |
-| 97 | [Los Mejores Años](https://open.spotify.com/track/4wrCdbPzT2hJYyzSsqHqHf) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años \(notas de diario\)](https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp) | 3:21 |
-| 98 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 |
+| 92 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
+| 93 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
+| 94 | [Coquette \(Remix\)](https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Coquette \(Remix\)](https://open.spotify.com/album/30WEmCF5a1YNZv5uzBMdvA) | 3:36 |
+| 95 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:43 |
+| 96 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 |
+| 97 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
+| 98 | [BSUKEO](https://open.spotify.com/track/4T1kufseBSNBhrVPeK3bZL) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [BSUKEO](https://open.spotify.com/album/40ABWjVkALc5WvTjgnqRa4) | 2:38 |
 | 99 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
-| 100 | [Buen Provecho](https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Modales](https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS) | 2:16 |
+| 100 | [Cuando Te Encuentre](https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:56 |
 
 Snapshot ID: `Z6BEzQAAAACYqaj0dAkwctu20Zua4Iv5`

@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 446759,
+  "num_followers": 446780,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -659,30 +659,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "ojitos caramelo (Remix)",
-        "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        },
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "ojitos caramelo - Remix",
-      "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "Primer encuentro",
         "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
       },
@@ -723,6 +699,30 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "ojitos caramelo (Remix)",
+        "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        },
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "ojitos caramelo - Remix",
+      "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -795,6 +779,22 @@
       "duration_ms": 292880,
       "name": "SIN MIRAR - Midnight Generation Remix",
       "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "Hasta M\u00e1laga",
         "url": "https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 148229,
       "name": "Hasta M\u00e1laga",
       "url": "https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+      "duration_ms": 198914,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1547,22 +1563,6 @@
       "duration_ms": 194039,
       "name": "G CLASS",
       "url": "https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 198914,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Como Si Fuera La Primera Vez",
-        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
       },
       "artists": [
         {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 176538,
-      "name": "Como Si Fuera La Primera Vez",
-      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+        "name": "Como Si Fuera La Primera Vez",
+        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+      "duration_ms": 176538,
+      "name": "Como Si Fuera La Primera Vez",
+      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
     },
     {
       "added_at": "2025-01-31 05:00:25",

@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u9084\u662f\u653e\u4e0d\u4e0b\u4f60 \u771f\u7684\u53ef\u60dc \u6211\u5728\u4e5f\u7121\u80fd\u70ba\u529b \u7e7c\u7e8c\u611b\u4f60\u3002",
-  "num_followers": 185984,
+  "num_followers": 185986,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u964c\u751f\u4eba",
-        "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 234120,
-      "name": "\u964c\u751f\u4eba",
-      "url": "https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
         "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 237840,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u964c\u751f\u4eba",
+        "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 234120,
+      "name": "\u964c\u751f\u4eba",
+      "url": "https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u521d\u5b78\u8005",
-        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+        "name": "\u672a\u5b8c\u6210",
+        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
       },
       "artists": [
         {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
         }
       ],
-      "duration_ms": 261249,
-      "name": "\u6f14\u54e1",
-      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
+      "duration_ms": 320400,
+      "name": "\u6211\u4e0d\u96e3\u904e",
+      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u672a\u5b8c\u6210",
-        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
+        "name": "\u521d\u5b78\u8005",
+        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
       "artists": [
         {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
         }
       ],
-      "duration_ms": 320400,
-      "name": "\u6211\u4e0d\u96e3\u904e",
-      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+      "duration_ms": 261249,
+      "name": "\u6f14\u54e1",
+      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u611b&\u82f1\u96c4 LOVE HERO",
-        "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
-      },
-      "artists": [
-        {
-          "name": "Alien Huang",
-          "url": "https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ"
-        }
-      ],
-      "duration_ms": 281182,
-      "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u771f\u5be6",
         "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 286239,
       "name": "\u8a18\u5f97",
       "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u611b&\u82f1\u96c4 LOVE HERO",
+        "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
+      },
+      "artists": [
+        {
+          "name": "Alien Huang",
+          "url": "https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ"
+        }
+      ],
+      "duration_ms": 281182,
+      "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -719,8 +719,8 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u4eca\u65e5\u71df\u696d\u4e2d",
-        "url": "https://open.spotify.com/album/1mrrKAhUxCAIrTDLTYFGnA"
+        "name": "\u5927\u5c0f\u8aaa\u5bb6",
+        "url": "https://open.spotify.com/album/62r7dcrgRinOk2tTHYiOcl"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
         }
       ],
-      "duration_ms": 330000,
-      "name": "\u5929\u771f\u6709\u90aa",
-      "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
+      "duration_ms": 307213,
+      "name": "\u6d6a\u8cbb",
+      "url": "https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH"
     },
     {
       "added_at": "2025-02-03 08:01:17",

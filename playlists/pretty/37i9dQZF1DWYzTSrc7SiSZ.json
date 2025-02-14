@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 902497,
+  "num_followers": 902498,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Quieres de mi",
-        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
-      },
-      "artists": [
-        {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Quieres de mi",
-      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Chocomenta",
         "url": "https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 164250,
       "name": "Chocomenta",
       "url": "https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Quieres de mi",
+        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
+      },
+      "artists": [
+        {
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quieres de mi",
+      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "NOS SOLTAMOS chiliado",
-        "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        },
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        },
-        {
-          "name": "Sablo",
-          "url": "https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u"
-        }
-      ],
-      "duration_ms": 222806,
-      "name": "NOS SOLTAMOS chiliado",
-      "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -855,22 +831,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pan con mantequilla",
-        "url": "https://open.spotify.com/album/3eQmuh5v2y6amoPbYEIfCB"
+        "name": "NOS SOLTAMOS chiliado",
+        "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
         },
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        },
+        {
+          "name": "Sablo",
+          "url": "https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u"
         }
       ],
-      "duration_ms": 184347,
-      "name": "Pan con mantequilla",
-      "url": "https://open.spotify.com/track/41tDpgy8FXbhRM11sQRvfw"
+      "duration_ms": 222806,
+      "name": "NOS SOLTAMOS chiliado",
+      "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -891,34 +871,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
+        "name": "Pan con mantequilla",
+        "url": "https://open.spotify.com/album/3eQmuh5v2y6amoPbYEIfCB"
       },
       "artists": [
         {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        },
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+      "duration_ms": 184347,
+      "name": "Pan con mantequilla",
+      "url": "https://open.spotify.com/track/41tDpgy8FXbhRM11sQRvfw"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -939,6 +907,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Bolitas",
         "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 211562,
       "name": "Uh",
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "dosextra\u00f1os",
         "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 227244,
       "name": "dosextra\u00f1os",
       "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "demasiado poco (demasiado tarde)",
-        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 188376,
-      "name": "demasiado poco - demasiado tarde",
-      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "OCIO",
         "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 205773,
       "name": "MENTE TREN",
       "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "demasiado poco (demasiado tarde)",
+        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 188376,
+      "name": "demasiado poco - demasiado tarde",
+      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
         "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 272130,
       "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
       "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Indirecta",
-        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Indirecta",
-      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Dos y Veintid\u00f3s",
         "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Indirecta",
+        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Indirecta",
+      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "WADGYMAR",
-        "url": "https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p"
-      },
-      "artists": [
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        },
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 139833,
-      "name": "WADGYMAR",
-      "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "YNQNP",
         "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "WADGYMAR",
+        "url": "https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p"
+      },
+      "artists": [
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 139833,
+      "name": "WADGYMAR",
+      "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "fluye",
-        "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
-      },
-      "artists": [
-        {
-          "name": "Danny Mont",
-          "url": "https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "lily",
-      "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "fluye",
+        "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
+      },
+      "artists": [
+        {
+          "name": "Danny Mont",
+          "url": "https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "lily",
+      "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1619,22 +1619,6 @@
       "duration_ms": 192599,
       "name": "Flores Frescas",
       "url": "https://open.spotify.com/track/7nuZO15vxH0T8MtThmfjLC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Esc\u00e1pate",
-        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
-      },
-      "artists": [
-        {
-          "name": "Malxs",
-          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Esc\u00e1pate",
-      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "jap\u00f3n",
-      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Lucecita",
         "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 165156,
       "name": "Lucecita",
       "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
+      },
+      "artists": [
+        {
+          "name": "Malxs",
+          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "jap\u00f3n",
+      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
     },
     {
       "added_at": "2024-12-06 05:00:00",

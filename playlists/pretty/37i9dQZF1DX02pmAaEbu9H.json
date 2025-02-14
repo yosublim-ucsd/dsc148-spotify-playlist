@@ -1,6 +1,6 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1490424,
+  "num_followers": 1490575,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
         "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -735,22 +751,6 @@
       "duration_ms": 173133,
       "name": "Dia de Enero",
       "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Voluma",
-        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 254240,
       "name": "Antologia",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Voluma",
+        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
-        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Grignani",
-          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
-      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 217986,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
+        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Grignani",
+          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
+      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
-      },
-      "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 205280,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 288600,
       "name": "Afuera",
       "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1267,22 +1283,6 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 193373,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Atado a Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -1463,22 +1447,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Te Mando Flores",
-      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -1491,6 +1459,38 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Nada Valgo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
       },
@@ -1619,6 +1603,26 @@
       "duration_ms": 331360,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     }
   ],
   "unique_name": "Viaje en Carretera Nostalgia",

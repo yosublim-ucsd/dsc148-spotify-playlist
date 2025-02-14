@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 417843,
+  "num_followers": 417911,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2025-01-31 14:09:14",
-      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2025-01-31 14:09:14",
+      "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2025-01-31 14:09:14",
-      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 189929,
       "name": "Frere Jacques",
       "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+    },
+    {
+      "added_at": "2025-01-31 14:09:14",
+      "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
-    },
-    {
-      "added_at": "2025-01-31 14:09:14",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
       },
       "artists": [
         {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
         }
       ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -827,6 +811,22 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2025-01-31 14:09:14",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -903,18 +903,22 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
       "artists": [
         {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -943,22 +947,18 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
+        "name": "Emberlights",
+        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 288059,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
+    },
+    {
+      "added_at": "2025-01-31 14:09:14",
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 383626,
       "name": "Have a Day",
       "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2025-01-31 14:09:14",
-      "album": {
-        "name": "Emberlights",
-        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 288059,
-      "name": "Dreamsville",
-      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
     },
     {
       "added_at": "2025-01-31 14:09:14",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-01-31 14:09:14",
       "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
-      },
-      "artists": [
-        {
-          "name": "Spike Wilner Trio",
-          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
-        }
-      ],
-      "duration_ms": 403285,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
-    },
-    {
-      "added_at": "2025-01-31 14:09:14",
-      "album": {
         "name": "Soul Survivor",
         "url": "https://open.spotify.com/album/0hYgT7AnSTvB89TirwT1Yw"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 268949,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d"
+    },
+    {
+      "added_at": "2025-01-31 14:09:14",
+      "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+      },
+      "artists": [
+        {
+          "name": "Spike Wilner Trio",
+          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+        }
+      ],
+      "duration_ms": 403285,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
     },
     {
       "added_at": "2025-01-31 14:09:14",

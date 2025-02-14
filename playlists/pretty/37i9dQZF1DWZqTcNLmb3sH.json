@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62705,
+  "num_followers": 62710,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6xJ7gAAAABDzM3odUUYtMxeht9RlLId",
+  "snapshot_id": "Z64TOAAAAAAKFqMvSD5o4frN4DY8uMI8",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -221,6 +221,30 @@
       "url": "https://open.spotify.com/track/3LJcskUgVZPZnZ2C2WTks2"
     },
     {
+      "added_at": "2025-02-13 15:43:52",
+      "album": {
+        "name": "Nimitta Matra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/49B80ZLIEVf5EJvcWY6tku"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Rajeev",
+          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
+        },
+        {
+          "name": "Nikhil Partha Sarathy",
+          "url": "https://open.spotify.com/artist/4bCdiEIGa6cicC41UQEZpG"
+        },
+        {
+          "name": "Pradyumna Narahalli",
+          "url": "https://open.spotify.com/artist/3a4lX7QZEUTMc15QGvbgSb"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Jo Jo",
+      "url": "https://open.spotify.com/track/3pYP1kXuo0lLkBqI3B0Xhw"
+    },
+    {
       "added_at": "2025-02-12 07:12:46",
       "album": {
         "name": "Nisha Naanu",
@@ -259,6 +283,26 @@
       "duration_ms": 187800,
       "name": "Mouna (Sad Version) (From \"Nimitta Matra\")",
       "url": "https://open.spotify.com/track/4QwfPWTY36KC1YkKJUKeNI"
+    },
+    {
+      "added_at": "2025-02-13 15:43:52",
+      "album": {
+        "name": "Gali Ghandha (From \"Olavina Payana\")",
+        "url": "https://open.spotify.com/album/285QVCRIXGtuBnK2SgqBpx"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Sai Sarvesh",
+          "url": "https://open.spotify.com/artist/0kJH0vVsNOyRSISjHfszWf"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Gali Ghandha - From \"Olavina Payana\"",
+      "url": "https://open.spotify.com/track/3lg0MJRctPTIVNYxNSPtkH"
     },
     {
       "added_at": "2025-02-11 05:35:42",
@@ -1249,30 +1293,6 @@
       "url": "https://open.spotify.com/track/0HWqoTzIvyIcxvHDra1ysH"
     },
     {
-      "added_at": "2025-01-08 06:01:56",
-      "album": {
-        "name": "Lock Lock (From \"Unlock Raghava\")",
-        "url": "https://open.spotify.com/album/7kgxuem4TNxNMhjPrwZ7sH"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/0m7V5e0K5bJpXbU7A1J2te"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        }
-      ],
-      "duration_ms": 244575,
-      "name": "Lock Lock - From \"Unlock Raghava\"",
-      "url": "https://open.spotify.com/track/6G2jGoXEZjFS8ZfusbWX3f"
-    },
-    {
       "added_at": "2025-01-13 10:25:15",
       "album": {
         "name": "Horrible 24 (From \"Manada Kadalu\")",
@@ -1723,26 +1743,6 @@
       "duration_ms": 244887,
       "name": "Bachelor Baduku (From ''Apaayavide Eccharike'')",
       "url": "https://open.spotify.com/track/2scWlSOgj7iBxj83XxJABp"
-    },
-    {
-      "added_at": "2024-12-16 07:40:47",
-      "album": {
-        "name": "Dasarahalli",
-        "url": "https://open.spotify.com/album/2HDl9dHNAyy4OYQdUfwzR8"
-      },
-      "artists": [
-        {
-          "name": "Ravindra Soragavi",
-          "url": "https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat"
-        },
-        {
-          "name": "Vishak Nagalapura",
-          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
-        }
-      ],
-      "duration_ms": 288782,
-      "name": "Enu Kadharu",
-      "url": "https://open.spotify.com/track/6wZBz4caM86r1IkRN1rrx8"
     },
     {
       "added_at": "2024-12-16 07:40:47",

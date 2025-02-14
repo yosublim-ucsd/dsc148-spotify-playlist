@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61811,
+  "num_followers": 61812,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
-      },
-      "artists": [
-        {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Boss Tenor (RVG Remasters / Remastered 2006)",
         "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 252946,
       "name": "My Romance - Remastered 2006",
       "url": "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+      },
+      "artists": [
+        {
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sous Le Ciel De Paris",
-      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
         }
       ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+      "duration_ms": 244866,
+      "name": "Sous Le Ciel De Paris",
+      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -535,6 +519,22 @@
       "duration_ms": 201153,
       "name": "The Great Ennui",
       "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
         "name": "Timelines",
         "url": "https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 200386,
       "name": "When It's Sleepy Time Down South",
       "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Evans",
         "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 248165,
       "name": "Evans",
       "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "All Blues (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
-      },
-      "artists": [
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        }
-      ],
-      "duration_ms": 404026,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 416986,
-      "name": "Mule - Remastered",
-      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 416986,
+      "name": "Mule - Remastered",
+      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
     },
     {
       "added_at": "2025-02-03 02:13:14",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-02-03 02:13:14",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
-    },
-    {
-      "added_at": "2025-02-03 02:13:14",
-      "album": {
         "name": "Components",
         "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 303160,
       "name": "Tranquillity - Remastered 1994",
       "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
+    },
+    {
+      "added_at": "2025-02-03 02:13:14",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 387733,
+      "name": "Surprises",
+      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
     },
     {
       "added_at": "2025-02-03 02:13:14",

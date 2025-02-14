@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Debordo Leekunfa
+> African dance party music from the continent to Paris\. Photo : DJ KEROZEN
 
-221 songs - 12 hr 24 min
+222 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 |  |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
+| [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 | 2025-02-13 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
 | [C'Gaté](https://open.spotify.com/track/277fdzfakixEtX2Cerfuaa) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Toto le Banzou](https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh), [Arii](https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N) | [C'Gaté](https://open.spotify.com/album/4W9Muvhr4Ju9BzyEzqtx2j) | 3:01 | 2024-09-19 |  |
@@ -115,7 +116,7 @@
 | [Ils Sont Où?](https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Ils Sont Où?](https://open.spotify.com/album/03HpoLkthTOHlr8pLLD42l) | 3:32 | 2023-04-27 | 2023-11-24 |
 | [Intervention Rapide](https://open.spotify.com/track/6WY2LPHEspgbpO7sQb0Zjn) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Intervention Rapide](https://open.spotify.com/album/0Gwjqhqw79umMJQmjhpjaq) | 3:43 | 2024-12-12 |  |
 | [J'aime ça](https://open.spotify.com/track/0ddBz53fWZEmCT4LcBQZhE) | [KMBI Jamax](https://open.spotify.com/artist/3SKeInahC0cCoji0E3AxTs), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [J'aime ça](https://open.spotify.com/album/0d36TPaXqra7McNYecKZnZ) | 2:49 | 2024-10-03 |  |
-| [J'aime ça](https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J), [AK Binks](https://open.spotify.com/artist/5VVLZ1ViFB6h8EMR0Ja0br) | [J'aime ça](https://open.spotify.com/album/1qlPAplZUgWxx5ZJi7Ch9V) | 2:22 | 2025-01-30 |  |
+| [J'aime ça](https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J), [AK Binks](https://open.spotify.com/artist/5VVLZ1ViFB6h8EMR0Ja0br) | [J'aime ça](https://open.spotify.com/album/1qlPAplZUgWxx5ZJi7Ch9V) | 2:22 | 2025-01-30 | 2025-02-14 |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |

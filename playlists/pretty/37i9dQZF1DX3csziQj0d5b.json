@@ -1,6 +1,6 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1841937,
+  "num_followers": 1842225,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 200379,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/3fGW43fnu3OHEw6ohTC2Bw"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     }
   ],
   "unique_name": "homework vibes",

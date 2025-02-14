@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 550887,
+  "num_followers": 550914,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 120508,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
+    },
+    {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 233211,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
-    },
-    {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 120508,
-      "name": "Pollen",
-      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1555,34 +1571,18 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+      "duration_ms": 199461,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
         }
       ],
-      "duration_ms": 199461,
-      "name": "Palm Trees",
-      "url": "https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm"
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "If We Go Down",
-        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "If We Go Down",
-      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
         "name": "swim",
         "url": "https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 282389,
       "name": "swim",
       "url": "https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H"
+    },
+    {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
+        "name": "If We Go Down",
+        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "If We Go Down",
+      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "BOOTS",
-        "url": "https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu"
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 199375,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg"
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     }
   ],
   "unique_name": "golden hour",

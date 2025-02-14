@@ -4,7 +4,7 @@
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Mỹ Anh
 
-294 songs - 18 hr 51 min
+295 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Kẻ Tàn Nhẫn Thường Sống Thảnh Thơi](https://open.spotify.com/track/7sLbGmK4Mq2gET84Q9GDnz) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Kẻ Tàn Nhẫn Thường Sống Thảnh Thơi](https://open.spotify.com/album/5Cl49b6DdFzi4WktoUpmTx) | 3:59 | 2023-11-29 | 2024-03-08 |
 | [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 | 2023-08-10 | 2023-09-06 |
 | [Let's Talk About Love](https://open.spotify.com/track/0urC4kxpc9YcVhmpWifrug) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Let's Talk About Love](https://open.spotify.com/album/0JJbK3juFfG3bMetKGDQ7W) | 4:02 | 2021-12-24 | 2022-02-24 |
+| [letting go](https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [letting go](https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8) | 3:35 | 2025-02-13 |  |
 | [Like This Like That \(feat\. tlinh\)](https://open.spotify.com/track/2sN4QQDFXMzqyfsm97iu9F) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 3:45 | 2023-02-21 | 2023-08-02 |
 | [Little Love \(But No Limit\)](https://open.spotify.com/track/7mA9oPfWSMXKOdPZqyow55) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Little Love \(But No Limit\)](https://open.spotify.com/album/2RZi0rxTOLwq3RZriuhq4W) | 3:58 | 2024-03-07 |  |
 | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/track/6N877oVBaZveFGDvBIVlXm) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/album/0XDBxevzLBe2wT8YOO6GcW) | 6:30 | 2021-12-07 | 2022-04-07 |
@@ -166,7 +167,7 @@
 | [Mùa Hoa Năm Ấy](https://open.spotify.com/track/3HtfZZpvU3J0jGjf4QaDzw) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Mùa Hoa Năm Ấy](https://open.spotify.com/album/7JOQ0K06NcM5RJGlCUHK1d) | 4:36 | 2024-04-02 | 2024-05-21 |
 | [Mơ Trên Môi Anh](https://open.spotify.com/track/1ohim4RJHeyDU9QmwymiTu) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:29 | 2023-08-10 | 2023-09-06 |
 | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/track/06QKELTP9ofe04C9rpcL0V) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/album/5ATDeLganeKXkR7KETJmfx) | 4:20 | 2024-04-02 | 2024-06-08 |
-| [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 3:10 | 2025-02-04 |  |
+| [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 3:10 | 2025-02-04 | 2025-02-14 |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-12-07 | 2022-07-29 |
 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 | 2022-07-24 |  |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-30 | 2022-10-05 |

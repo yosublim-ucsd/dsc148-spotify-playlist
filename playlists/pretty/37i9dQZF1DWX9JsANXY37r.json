@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121706,
+  "num_followers": 121704,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-02-07 23:41:22",
       "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209403,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
+    },
+    {
+      "added_at": "2025-02-07 23:41:22",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2025-02-07 23:41:22",
-      "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209403,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
     },
     {
       "added_at": "2025-02-07 23:41:22",

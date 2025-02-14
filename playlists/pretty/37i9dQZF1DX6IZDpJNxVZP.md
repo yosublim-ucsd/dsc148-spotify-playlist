@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,103 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,096 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 15 | [Go Santa Go](https://open.spotify.com/track/56tZSMuheDHQkAQkyhq3Lz) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggly, Wiggly Christmas!](https://open.spotify.com/album/5u5GMLpF7NfyumXHiNFL2Z) | 2:08 |
 | 16 | [It's The Holidays!](https://open.spotify.com/track/3J97ArvC3VUs470LYKd97Z) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [It's The Holidays!](https://open.spotify.com/album/1xUI91MtCt9EUtvTRM2orI) | 2:12 |
 | 17 | [Countdown to Christmas](https://open.spotify.com/track/2qZ2B6xZt29o94F6Y4w0DW) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Caitie's Countdown to Christmas](https://open.spotify.com/album/3lgw617euKsTzQEHEvo6kX) | 3:31 |
-| 18 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/59FXFRUEBhVZ988UnM7cVC) | [Jolly Jingles](https://open.spotify.com/artist/1ejtPqQq1vEP8xnyzQg4Mt) | [Kids Christmas Hits \(Vol\. 1\)](https://open.spotify.com/album/4tJrxwYiuDl2EKvYWp2tuX) | 1:46 |
-| 19 | [Christmas All Over Again](https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey and the Very Many Christmases \(Original Soundtrack\)](https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L) | 1:51 |
+| 18 | [Christmas All Over Again](https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey and the Very Many Christmases \(Original Soundtrack\)](https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L) | 1:51 |
+| 19 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/59FXFRUEBhVZ988UnM7cVC) | [Jolly Jingles](https://open.spotify.com/artist/1ejtPqQq1vEP8xnyzQg4Mt) | [Kids Christmas Hits \(Vol\. 1\)](https://open.spotify.com/album/4tJrxwYiuDl2EKvYWp2tuX) | 1:46 |
 | 20 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 |
 | 21 | [Jingle Bell Rock](https://open.spotify.com/track/5EhMLJgjf1vASv0X87iNWn) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Christmas Time](https://open.spotify.com/album/3ySm7zy9MAvDikteDQJ1wM) | 2:03 |
-| 22 | [Peppa's Sleigh Ride](https://open.spotify.com/track/6d4vPBlZIaE9kLsjhNQoLH) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Happy Holidays with Peppa Pig](https://open.spotify.com/album/3Vy9FyTFq1finvi8k8H13g) | 3:23 |
-| 23 | [Jill's Frozen Palace \- Snow Queen](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 |
+| 22 | [Jill's Frozen Palace \- Snow Queen](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 |
+| 23 | [Peppa's Sleigh Ride](https://open.spotify.com/track/6d4vPBlZIaE9kLsjhNQoLH) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Happy Holidays with Peppa Pig](https://open.spotify.com/album/3Vy9FyTFq1finvi8k8H13g) | 3:23 |
 | 24 | [Don't Be A Jerk \(It's Christmas\)](https://open.spotify.com/track/6diKTB6VWE1JxRUvjzoTld) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [It's A SpongeBob Christmas! Album](https://open.spotify.com/album/441OzdFDiUUgQ273HjHzlA) | 2:34 |
 | 25 | ['Zat You, Santa Claus?](https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:34 |
 | 26 | [Ho\-Ho\-Hold on Santa Claus](https://open.spotify.com/track/5tmrl605ygkCjlUEKleR2G) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [The Christmas Letter Express](https://open.spotify.com/album/5ErYLRjXLr4eZ55NnYX2zG) | 1:55 |

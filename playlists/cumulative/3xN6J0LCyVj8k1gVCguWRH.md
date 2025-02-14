@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,509 songs - 10 day 12 hr 44 min
+4,512 songs - 10 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [Comme une idole](https://open.spotify.com/track/7LD69G2RofF7RonMtQ32vj) | [Dynah](https://open.spotify.com/artist/0OLQW4uZajLMlzbvGBxZFh) | [Dynah](https://open.spotify.com/album/7afBd8lOSUSsSbUi0XpwNJ) | 3:55 | 2020-11-27 | 2020-12-12 |
 | [Communication](https://open.spotify.com/track/4v5idbCKVg5yDMV3Rq6juY) | [Eternal Zion](https://open.spotify.com/artist/34coczHTQw5HnrAfAJpXBr) | [Relationship Goals](https://open.spotify.com/album/4ZZxyQxR6Kx2HU7bRKddTW) | 3:30 | 2021-03-26 | 2021-04-11 |
 | [Como](https://open.spotify.com/track/21XoZTD5XE9qx0aQ62mbpn) | [Barang](https://open.spotify.com/artist/7mZm5qBtyQLd3ykBSvB8Pe) | [Como](https://open.spotify.com/album/7o3ROVrdJcifHOFlKUyvMb) | 3:14 | 2022-11-18 | 2022-12-10 |
+| [Como Me Miras](https://open.spotify.com/track/7oEDum0lUKmTRcFVBrJ5O2) | [Savahna](https://open.spotify.com/artist/41GA2LUDYf63in6bHtkzTx) | [Como Me Miras](https://open.spotify.com/album/7xN1nbpRjHxwSLrM6n5Wzz) | 2:21 | 2025-02-13 |  |
 | [Como Me Sorprendes](https://open.spotify.com/track/6MwAchl4iw5GGsHST7iw2L) | [Luis Damon](https://open.spotify.com/artist/05v2Uod7NM8KGsNb8EOPNq) | [Como Me Sorprendes](https://open.spotify.com/album/7Ldhatq1rPuuWMKF68yn7V) | 3:58 | 2024-02-08 | 2024-02-20 |
 | [COMO TE VA?](https://open.spotify.com/track/1yl0M3XNSiA50gVI8wrde4) | [Andres Mora](https://open.spotify.com/artist/76C2nonBVqhpsY61UP9tMR) | [EN LAS NUBES 5](https://open.spotify.com/album/6wb2GpEtdcputOqzBlnZI8) | 2:29 | 2024-07-31 | 2024-08-12 |
 | [Como Tu Me Gustas](https://open.spotify.com/track/7qAL36qVx8eKywSy10sDVy) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Como Tu Me Gustas](https://open.spotify.com/album/3qbjjLlvOyCRRclN4rrBqP) | 2:57 | 2024-09-16 | 2024-09-28 |
@@ -2730,6 +2731,7 @@
 | [Newman Beauty](https://open.spotify.com/track/7tQAC4CnE1j3MfcfvtBpdg) | [Nai'a](https://open.spotify.com/artist/5irDXaVVx519HjzQQLPhKp) | [Newman Beauty](https://open.spotify.com/album/0jFyBXQMBfLz5CtQbEAczj) | 3:54 | 2023-03-03 | 2023-03-29 |
 | [News](https://open.spotify.com/track/1hTL4WF495hDNKRfUocUiN) | [Pano](https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw) | [News](https://open.spotify.com/album/6GXJokdZZnTBSzI5E0JUXA) | 2:20 | 2024-03-18 | 2024-04-01 |
 | [Next to Me](https://open.spotify.com/track/3aBbfb6nFESIovlact1wLe) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Next to Me](https://open.spotify.com/album/7fbRpZXZ9I7ek2hLDU317k) | 3:23 | 2023-08-12 | 2023-08-28 |
+| [Next Year \(Alive\) \- Full Band](https://open.spotify.com/track/4kD0qcwf9enAWnWAUGGP7m) | [Hal Savar](https://open.spotify.com/artist/7eZVNet4Adu0k1xJZG2QiN) | [Next Year \(Revisited\)](https://open.spotify.com/album/47QNVSeT5B1EQguwiDTSCS) | 6:25 | 2025-02-13 |  |
 | [Nice & Easy](https://open.spotify.com/track/5s8h82AKGENJg9biAFagw5) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Tammy Infusino](https://open.spotify.com/artist/3fSJyDHLgJcNNZNdAyb2sX) | [Nice & Easy](https://open.spotify.com/album/1zzrPzrLhJKoyp77hZxK1B) | 3:41 | 2021-11-05 | 2021-11-21 |
 | [Nice Guy](https://open.spotify.com/track/6qieKbqOJfOcj5y2Jbbpiw) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:06 | 2022-08-26 | 2022-09-11 |
 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 | 2020-08-20 | 2023-08-28 |
@@ -4355,6 +4357,7 @@
 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/00vR63trn1CzygcjgAFaiM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/6ImITnIw9fYiSDJ7uJhvMk) | 2:41 | 2024-08-12 |  |
 | [White Bars](https://open.spotify.com/track/1v81UUpxxNddF53akviptw) | [Blue Boi](https://open.spotify.com/artist/4SgBCvU1m58G0M7gltpRO5) | [White Bars](https://open.spotify.com/album/3S1qZ1VD73xD5JUeApqC3G) | 1:58 | 2022-01-07 | 2022-01-23 |
 | [White Bear](https://open.spotify.com/track/5Z4cDJYgygLDpsNyveR8Vy) | [Lava Hong](https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu) | [White Bear](https://open.spotify.com/album/5qLzbMhraLgXIV8ZFvkMjq) | 2:46 | 2024-08-12 | 2024-08-24 |
+| [white boy i sat next to on the plane](https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [white boy i sat next to on the plane](https://open.spotify.com/album/4cDP3rmNwvZIKouMI83ZLg) | 3:24 | 2025-02-13 |  |
 | [White Eyed](https://open.spotify.com/track/7g87TG9Di9OUdDZjZchVZ8) | [Frankie Fame](https://open.spotify.com/artist/1n6mGzCvv5VzvZWFVAnnKl) | [White Eyed](https://open.spotify.com/album/41Dk2JX8T8kZQXx3rS688V) | 2:42 | 2023-09-14 | 2023-12-14 |
 | [White Lie](https://open.spotify.com/track/3lET84RSfCByTEiyHLGhz1) | [Sz.K](https://open.spotify.com/artist/5oMMCZJrcqw6kWYfpELzfi) | [Sz.K](https://open.spotify.com/album/52QWo9BRt222EMdZFyelNd) | 3:02 | 2023-09-25 | 2023-12-14 |
 | [Who \- MTG Funk Version](https://open.spotify.com/track/0qyTn3MkcN7a6y6skLpFnP) | [BRUSA FUNK](https://open.spotify.com/artist/7IPrZUWtDis3EyfaiBrsv8), [Cabra Guaraná](https://open.spotify.com/artist/5hk1NvdVy731IowVMs5x5D), [Riko Viana](https://open.spotify.com/artist/5ZLJi4zyqFbgmR1CNbdmEc) | [BRUSA FUNK, VOL.02](https://open.spotify.com/album/1loqble54Cgoo9MYdrLIBW) | 2:43 | 2024-09-07 | 2024-09-19 |

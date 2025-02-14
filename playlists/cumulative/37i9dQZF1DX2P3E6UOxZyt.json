@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3 (ddkogi88)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 196433,
       "name": "fairytale",
       "url": "https://open.spotify.com/track/4v8XJrPB1rgVa9bk1Ravab"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 196535,
       "name": "Galaxy official",
       "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
@@ -2108,6 +2108,24 @@
       "duration_ms": 172282,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL"
+    },
+    {
+      "album": {
+        "name": "\u8d85\u672a\u6765\u6ce22",
+        "url": "https://open.spotify.com/album/3WocBt3tYIxwYVvMpbFfRD"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "I.D., Pt. II",
+      "url": "https://open.spotify.com/track/7zyha0JQRv76jtM5Uh4mqU"
     },
     {
       "album": {
@@ -6702,7 +6720,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 189570,
       "name": "\u5929\u6c23",
       "url": "https://open.spotify.com/track/04QDyBSYEnBg7mKjciSXFJ"
@@ -9164,7 +9182,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "\u6c92\u6210\u672a\u4f86\u7684\u591c\u88e1",
       "url": "https://open.spotify.com/track/2lmdWEDm97WvzOVppaa7QT"
@@ -9360,7 +9378,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 107368,
       "name": "\u6d77\u6d0b\u8cdc\u4e88",
       "url": "https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar"
@@ -9516,7 +9534,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 229500,
       "name": "\u6f80 (feat.\u570b\u86cb)",
       "url": "https://open.spotify.com/track/1ZO94uA0ZKXJ5joKj1mFkT"
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 184615,
       "name": "\u7a7a\u767d\u984c",
       "url": "https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO"
@@ -10482,7 +10500,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 234857,
       "name": "\u7de9\u7de9",
       "url": "https://open.spotify.com/track/3aQwzPFgzLgjoPfguQWNFJ"
@@ -10590,7 +10608,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 170014,
       "name": "\u812b\u4fd7",
       "url": "https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf"

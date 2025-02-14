@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Cyndi Lauper",
-  "num_followers": 994779,
+  "num_followers": 995481,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -631,18 +615,34 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
       "artists": [
         {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
         }
       ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Kick (Remastered 2011)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Living In The Background",
-        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 378946,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Discography - Complete Singles Collection",
-        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 269696,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Branigan",
+        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Wang Chung",
-          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+      "duration_ms": 247360,
+      "name": "Bad - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 247360,
-      "name": "Bad - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1527,22 +1543,6 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Around the World in a Day",
-        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Bananarama (Collector's Edition)",
         "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "So (Remastered)",
         "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 313533,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Lexicon Of Love",
-        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
-      },
-      "artists": [
-        {
-          "name": "ABC",
-          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "The Look Of Love, Pt.1",
-      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "True (Special Edition)",
         "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 290720,
       "name": "Gold - 2003 Remaster",
       "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Lexicon Of Love",
+        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
+      },
+      "artists": [
+        {
+          "name": "ABC",
+          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "The Look Of Love, Pt.1",
+      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Why ?",
-      "url": "https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 251506,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Why ?",
+      "url": "https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Kilroy Was Here",
         "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 328706,
       "name": "Mr. Roboto",
       "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Let the Music Play",
-        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
-      },
-      "artists": [
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
-        }
-      ],
-      "duration_ms": 214379,
-      "name": "Let the Music Play",
-      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 355066,
       "name": "True Faith",
       "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered - featured in 'Babygirl'",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     }
   ],
   "unique_name": "80s Party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,407 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,435 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 54 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 |
 | 55 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
 | 56 | [New York, New York from on the Town \- 1995 Remaster](https://open.spotify.com/track/7tVKbsTkkJRMEkMQxfuUWU) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Dennis Lotis](https://open.spotify.com/artist/1JwMttpqHyQYH74uRCJwEa), [Lionel Blair](https://open.spotify.com/artist/4kT8M76PscIyPoeopjxu83), [Shane Rimmer](https://open.spotify.com/artist/36zgLy1zXKjB1y97top4mC), [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Essential Bernstein](https://open.spotify.com/album/2kFGIufcevP17tzMqrbDij) | 3:03 |
-| 57 | [Nimrod From Enigma Variations](https://open.spotify.com/track/5t9UkwkrumEmOpnz3SRdbm) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Philip Ellis](https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S) | [Last Night of the Proms](https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE) | 3:46 |
+| 57 | [Elgar: Variations on an Original Theme, Op\. 36 "Enigma": Variation IX\. Adagio "Nimrod"](https://open.spotify.com/track/5t9UkwkrumEmOpnz3SRdbm) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Philip Ellis](https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S) | [Last Night of the Proms](https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE) | 3:46 |
 | 58 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 59 | [Chills and Fever](https://open.spotify.com/track/1BOQQql4llMcqOeyjQojBU) | [Freddie Houston](https://open.spotify.com/artist/4mUE6mwvD0KNuTbj8GPkRC) | [Monster Party: Halloween Rock & Roll Oldies, Vol\. 1](https://open.spotify.com/album/2680vSXv9bBGO0yAH8IycW) | 2:42 |
 | 60 | [Wheels \(Cha Cha\)](https://open.spotify.com/track/3YkAq6wrm3QWihcMqo1l5G) | [Joe Loss & His Orchestra](https://open.spotify.com/artist/3OixquvLvKBdSUJlYDPbxU) | [Early British Pop](https://open.spotify.com/album/2yxUgAlRYeM6IQ0o6xfUQ4) | 2:12 |

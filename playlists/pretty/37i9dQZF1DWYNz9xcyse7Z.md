@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,862 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,056 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 48 | [Estrellas Y Diamantes](https://open.spotify.com/track/4W74SThE9ZGTQVxLmbdf8X) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:04 |
 | 49 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
 | 50 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
-| 51 | [Las Rancheras de los Reyes](https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [Ven](https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1) | 10:30 |
-| 52 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
+| 51 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
+| 52 | [Las Rancheras de los Reyes](https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [Ven](https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1) | 10:30 |
 | 53 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:00 |
 | 54 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
 | 55 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |

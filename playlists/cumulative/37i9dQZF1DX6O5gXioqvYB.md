@@ -2,9 +2,9 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> Il futuro dell'indie italiano è in questa playlist 👀 Cover: GattoToro
+> Il futuro dell'indie italiano è in questa playlist 👀 Cover: EMSAISI
 
-354 songs - 17 hr 25 min
+357 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Airbag](https://open.spotify.com/track/1MGStIoi8Lyy6tZIwiapi7) | [Bueno](https://open.spotify.com/artist/0j8bZXM94A3yeUIZ2GPRjB) | [Airbag](https://open.spotify.com/album/48SbuykbI9JB52sy1kNMLT) | 2:53 | 2024-06-27 | 2024-07-05 |
 | [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 | 2024-11-20 |
 | [Alta Marea](https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC) | [Dorian](https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk) | [Alta Marea](https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5) | 2:13 | 2024-09-26 | 2024-11-08 |
+| [Always](https://open.spotify.com/track/3XgTW8Umkf9UI0oGzS0NPj) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Always](https://open.spotify.com/album/1DwGE5H0MkSkT8dMrk0j4L) | 2:32 | 2025-02-13 |  |
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-07 |  |
 | [America Latina](https://open.spotify.com/track/1k3FSEJzHUTcwYjxSGenI1) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [America Latina](https://open.spotify.com/album/4TIUkruNHQ2avNYnFEbVVy) | 2:42 | 2024-12-17 | 2025-01-03 |
 | [America Mattina](https://open.spotify.com/track/6pkzqjEsosJ2Eo642Rksif) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Gala](https://open.spotify.com/album/3qqPIdnCLZIzkfZSD6Ugxv) | 2:50 | 2025-01-30 |  |
@@ -66,6 +67,7 @@
 | [Centomila caramelle](https://open.spotify.com/track/60W8sXGW175M95Lk8KY2L4) | [Skoob](https://open.spotify.com/artist/36ojtDb5leDwle768reQzM) | [Centomila caramelle](https://open.spotify.com/album/5id2324s82M7sjHdOWpXH1) | 2:42 | 2024-12-17 | 2025-01-31 |
 | [CERIGNOLA CAMPAGNA](https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [CERIGNOLA CAMPAGNA](https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS) | 2:57 | 2024-11-14 | 2025-02-07 |
 | [Che Delusione](https://open.spotify.com/track/03cQhtyevyrvWTMxHgkII2) | [taha](https://open.spotify.com/artist/2U67nezNg7TK1oV4YWiMw5) | [Che Delusione](https://open.spotify.com/album/5kpIInvCjkiVt3kVQ7Zqxd) | 3:25 | 2025-01-30 |  |
+| [Che Guevara](https://open.spotify.com/track/1oEp2BlXfAjlgDG5tHHMjs) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Che Guevara](https://open.spotify.com/album/6nNYs8poSdcok9kB4BGk7P) | 3:04 | 2025-02-13 |  |
 | [Che Vita Di](https://open.spotify.com/track/3GtNaSjxdvYFj3Pkxtaa2v) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Che Vita Di](https://open.spotify.com/album/1LBQc5YaiBDFZZbLYmh1J3) | 2:21 | 2025-01-16 |  |
 | [Che voglia](https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [In quella casa in fiamme ci sono dei bambini](https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6) | 2:23 | 2024-06-27 | 2024-07-27 |
 | [chefastidio](https://open.spotify.com/track/0sm6dVGt1100BO74w9t2Dh) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J), [Bleu Smith](https://open.spotify.com/artist/3Pyn6XseElYT90ATJL1xjN) | [chefastidio](https://open.spotify.com/album/7JrEOLAeBJ45HrJRsob6I1) | 3:18 | 2025-01-23 |  |
@@ -159,7 +161,7 @@
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 | 2024-11-26 |  |
 | [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 | 2024-10-21 |
-| [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2024-12-05 |  |
+| [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2024-12-05 | 2025-02-14 |
 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 | 2025-01-16 |  |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 | 2025-02-07 |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
@@ -215,11 +217,11 @@
 | [Nocturne](https://open.spotify.com/track/6BBKFh8MotziBj8OzYaG20) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Briefs](https://open.spotify.com/album/26zh5cmCLAk5MX82DhVaO3) | 3:05 | 2024-12-17 | 2025-01-03 |
 | [Non c'eri mai](https://open.spotify.com/track/0ugoWLH9VthBfgC8YZoB4C) | [Aria](https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW) | [Estate Inverno](https://open.spotify.com/album/1DpU2GPjrPpDorx2rPSO2w) | 2:56 | 2024-12-05 | 2024-12-18 |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 | 2024-10-25 |
-| [Non ci sei](https://open.spotify.com/track/2jUXlrAUWmEAhxEWuxZnJG) | [Monviso](https://open.spotify.com/artist/7FOurawpFY4w2iHMlnnICd) | [Non ci sei](https://open.spotify.com/album/3AxtUxrBmd8akuBkt518Oz) | 2:30 | 2025-01-09 |  |
+| [Non ci sei](https://open.spotify.com/track/2jUXlrAUWmEAhxEWuxZnJG) | [Monviso](https://open.spotify.com/artist/7FOurawpFY4w2iHMlnnICd) | [Non ci sei](https://open.spotify.com/album/3AxtUxrBmd8akuBkt518Oz) | 2:30 | 2025-01-09 | 2025-02-14 |
 | [Non me ne frega un cazzo](https://open.spotify.com/track/2sggIlER01Q9s7sf8vUAcv) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Non me ne frega un cazzo](https://open.spotify.com/album/3ZA2ihJ5T8SiBIec6RVive) | 2:05 | 2025-02-06 |  |
 | [non si vive solo per non bagnarsi](https://open.spotify.com/track/3u56y6HDHYtBBvy6gbMlSu) | [alaska](https://open.spotify.com/artist/08wibq50EmhXgkKI4kgKfB) | [non si vive solo per non bagnarsi](https://open.spotify.com/album/7tFRH3V6pdVwRWq9ItpnPt) | 3:08 | 2025-01-23 |  |
 | [Non Siamo Broke](https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l) | [Shori](https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG) | [Non Siamo Broke](https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW) | 2:51 | 2024-06-27 | 2024-07-27 |
-| [Non ti fermi mai](https://open.spotify.com/track/2tzITljqWtItqSetnJkBG4) | [Evandro](https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ) | [Non ti fermi mai](https://open.spotify.com/album/2GPXwTuq08hpf1GyffWpB8) | 2:58 | 2024-12-19 |  |
+| [Non ti fermi mai](https://open.spotify.com/track/2tzITljqWtItqSetnJkBG4) | [Evandro](https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ) | [Non ti fermi mai](https://open.spotify.com/album/2GPXwTuq08hpf1GyffWpB8) | 2:58 | 2024-12-19 | 2025-02-14 |
 | [Non ti scusare \(Anna\)](https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Non ti scusare \(Anna\)](https://open.spotify.com/album/4Wf4LUGWsaEgREyJGDOo78) | 3:01 | 2024-06-27 | 2024-07-19 |
 | [NOSTALGIA](https://open.spotify.com/track/41hZnjJYL2LMlpsg50yZn5) | [chiaraMente](https://open.spotify.com/artist/6YPphNLpIgRYsXrLgpcTNc) | [NOSTALGIA](https://open.spotify.com/album/4Z6CkD1dWcidZpsSWyVZO8) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [NULLA \(non ci ho capito\)](https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [NULLA \(non ci ho capito\)](https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj) | 3:30 | 2024-07-04 | 2024-07-27 |
@@ -311,6 +313,7 @@
 | [SOTTOCASSA](https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SOTTOCASSA](https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi) | 3:36 | 2024-06-27 | 2024-07-12 |
 | [Spero Piova](https://open.spotify.com/track/4pUp5NGBcT2HY8IxYcruu1) | [Chiara Cami](https://open.spotify.com/artist/3dVUsJqt6lEdZ5ZCbS0Zt7) | [Spero Piova](https://open.spotify.com/album/1tBLvyz2hcjg6QZj0T6V9b) | 3:36 | 2025-01-30 |  |
 | [Spezzabuio](https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Spezzabuio](https://open.spotify.com/album/004Mgjg73He63yXE08l2ln) | 3:01 | 2024-09-05 | 2024-09-27 |
+| [Spring \(But With The Snow\)](https://open.spotify.com/track/6zW0xZCyPE1sYCi7flJmHM) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Tender Superpower](https://open.spotify.com/album/2dmEJeZTuo5H5TfD3eBGTM) | 4:08 | 2025-02-13 |  |
 | [stefania](https://open.spotify.com/track/4jPiCLRIYm76RU1nZNDVtt) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [stefania](https://open.spotify.com/album/1oPizWiPBfmMmb0lpHObWc) | 1:56 | 2025-01-02 | 2025-01-24 |
 | [Sto grande carro](https://open.spotify.com/track/3tJCSVef5sXu6gic1VnAJF) | [chela](https://open.spotify.com/artist/3eKuNJjfZsVt03Qfla2s0u) | [Sto grande carro](https://open.spotify.com/album/7sknGlGWbt7BdpIBQOcagv) | 2:25 | 2024-08-09 | 2024-09-27 |
 | [Sto impazzendo \(piangi\) \(feat\. Atarde\)](https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:03 | 2024-07-11 | 2024-10-04 |

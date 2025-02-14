@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 16 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 17 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 18 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
-| 19 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
-| 20 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
+| 19 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
+| 20 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
 | 21 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
 | 22 | [My Bed](https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc) | [John Frog](https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE) | [My Bed](https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO) | 2:47 |
 | 23 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |

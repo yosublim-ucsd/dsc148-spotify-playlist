@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q"> Kennedy Ryon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,478 likes - 159 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,539 likes - 159 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Growing Pains](https://open.spotify.com/track/5piMrHmFYoQekulxfIcoUy) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH), [Swanky](https://open.spotify.com/artist/3Igx2cI24XDGjGsOLEDM6E) | [Growing Pains](https://open.spotify.com/album/1dfU1wafLFqy4FtvyUwGi9) | 3:18 |
-| 2 | [Have It Your Way](https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Have It Your Way](https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur) | 3:43 |
+| 2 | [Have It Your Way](https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Have It Your Way](https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur) | 3:42 |
 | 3 | [GREY](https://open.spotify.com/track/41ZGDLBTRWnOoOfEa3P86W) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [REMEMBER WHEN](https://open.spotify.com/album/4qhe990gZoUbWJMqAMirj2) | 2:15 |
 | 4 | [Play Bout You](https://open.spotify.com/track/2ja9ZkUmMJqfEVt2kxHiWf) | [Tniyah](https://open.spotify.com/artist/7EHD7M7VrgyUaRkleSNlKN) | [Play Bout You](https://open.spotify.com/album/72rFpoDQ0FEIUavgtbmEWw) | 3:04 |
 | 5 | [1\-800 Heartbreak](https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [1\-800 Heartbreak](https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ) | 3:40 |

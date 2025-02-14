@@ -3711,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "Darkness In Me",
+        "url": "https://open.spotify.com/album/6CnT7uYn3gnhz83AaC9Gx9"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Modern Tales",
+          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268549,
+      "name": "Darkness In Me",
+      "url": "https://open.spotify.com/track/1YLMr6JAwM1HhKJdSnvNjX"
+    },
+    {
+      "album": {
         "name": "Day 'N' Nite (Martin Jensen Edit)",
         "url": "https://open.spotify.com/album/4edGK565BSJL2C8wwZAnDh"
       },
@@ -3844,7 +3866,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 140444,
       "name": "Deeper Love",
       "url": "https://open.spotify.com/track/22i2Jrth3s7Qq5dgrMLy8T"
@@ -6006,6 +6028,28 @@
       "duration_ms": 204813,
       "name": "For Real",
       "url": "https://open.spotify.com/track/2IakHDKl1ok4LFnJw9v6sr"
+    },
+    {
+      "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
+      },
+      "artists": [
+        {
+          "name": "8181 Enzo",
+          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164544,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
     },
     {
       "album": {
@@ -9392,7 +9436,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155076,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
@@ -10788,7 +10832,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 113595,
       "name": "Man In Finance (with David Guetta)",
       "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
@@ -13344,7 +13388,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
@@ -14380,7 +14424,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -18584,6 +18628,32 @@
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146308,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
     },
     {
       "album": {

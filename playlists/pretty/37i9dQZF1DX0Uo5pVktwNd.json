@@ -1,6 +1,6 @@
 {
   "description": "Throwback to the golden age of Indian pop. Cover - Alisha Chinai",
-  "num_followers": 189183,
+  "num_followers": 189267,
   "original_name": "Indipop Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-01-31 09:56:07",
       "album": {
-        "name": "Pal",
-        "url": "https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0"
-      },
-      "artists": [
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 359373,
-      "name": "Pyaar Ke Pal",
-      "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
-    },
-    {
-      "added_at": "2025-01-31 09:56:07",
-      "album": {
         "name": "Pyar Ke Geet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 280600,
       "name": "Dholna",
       "url": "https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH"
+    },
+    {
+      "added_at": "2025-01-31 09:56:07",
+      "album": {
+        "name": "Pal",
+        "url": "https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 359373,
+      "name": "Pyaar Ke Pal",
+      "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
     },
     {
       "added_at": "2025-01-31 09:56:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-31 09:56:07",
       "album": {
-        "name": "Salaam - Nusrat Fateh Ali Khan",
-        "url": "https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl"
-      },
-      "artists": [
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 464426,
-      "name": "Piya Re Piya Re",
-      "url": "https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo"
-    },
-    {
-      "added_at": "2025-01-31 09:56:07",
-      "album": {
         "name": "Kismat",
         "url": "https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266040,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V"
+    },
+    {
+      "added_at": "2025-01-31 09:56:07",
+      "album": {
+        "name": "Salaam - Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 464426,
+      "name": "Piya Re Piya Re",
+      "url": "https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo"
     },
     {
       "added_at": "2025-01-31 09:56:07",

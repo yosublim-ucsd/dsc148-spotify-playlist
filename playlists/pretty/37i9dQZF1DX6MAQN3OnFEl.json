@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 522691,
+  "num_followers": 522849,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
         {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
         }
       ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2024-07-12 21:13:59",

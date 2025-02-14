@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Adornment",
+        "url": "https://open.spotify.com/album/3VIonFf8876xiWKmv7SJpZ"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170052,
+      "name": "Daniel in the Den",
+      "url": "https://open.spotify.com/track/4tOci1vlMAbuw0J7cNYQOY"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
       },
@@ -4033,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Leaning",
+        "url": "https://open.spotify.com/album/4fYE1i7bK0SoarAypPpYXl"
+      },
+      "artists": [
+        {
+          "name": "Blessing Emmanuel",
+          "url": "https://open.spotify.com/artist/3bmy26teHjRR7kccIiZJDN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Leaning",
+      "url": "https://open.spotify.com/track/0Lh5xdIdJ1KOSZL8As2lCn"
+    },
+    {
+      "album": {
         "name": "Let it Go",
         "url": "https://open.spotify.com/album/43kWJ1PlyR7uXyy3JlkqGJ"
       },
@@ -4415,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "LOVE N AFFECTION",
+        "url": "https://open.spotify.com/album/5TPa6T5DTbhkFn8cK0a3pz"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155663,
+      "name": "Love N Affection Stripped",
+      "url": "https://open.spotify.com/track/4X8n52C8oiTdteJUuXgCXb"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
       },
@@ -4442,6 +4496,28 @@
       "duration_ms": 188628,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/2p510whUi9Rnyhw2XPOTC2"
+      },
+      "artists": [
+        {
+          "name": "Tianney",
+          "url": "https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/3LsH0m9PlqghgV1H4KJnnr"
     },
     {
       "album": {
@@ -4554,6 +4630,24 @@
       "duration_ms": 201137,
       "name": "Majority",
       "url": "https://open.spotify.com/track/29YFxm0ePejDJSUhSz7NyX"
+    },
+    {
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/1E2YDli0Z1qJlUZTk9nQPs"
+      },
+      "artists": [
+        {
+          "name": "Ify Benson",
+          "url": "https://open.spotify.com/artist/2KiXfF8UiD0qA7kqMvYKBl"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224831,
+      "name": "Man Of Galilee",
+      "url": "https://open.spotify.com/track/2U5AUyc7Y8WUoSMBKdh39g"
     },
     {
       "album": {
@@ -6332,7 +6426,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 110517,
       "name": "pray without ceasing",
       "url": "https://open.spotify.com/track/7i0DHDEZxmdCS6JI5p98Qq"
@@ -6420,6 +6514,32 @@
       "duration_ms": 150750,
       "name": "Provider",
       "url": "https://open.spotify.com/track/5ULJy8nuV7jeNjsjyUpzXw"
+    },
+    {
+      "album": {
+        "name": "Pure Like U",
+        "url": "https://open.spotify.com/album/4FmWopEidOB5DodQu9XBhp"
+      },
+      "artists": [
+        {
+          "name": "JoeKings",
+          "url": "https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137116,
+      "name": "Pure Like U",
+      "url": "https://open.spotify.com/track/1eh9Yin1ITxpb4Ez7fbUMW"
     },
     {
       "album": {
@@ -7385,6 +7505,28 @@
     },
     {
       "album": {
+        "name": "Sweet To Me",
+        "url": "https://open.spotify.com/album/1ggCdgKIMCutzZ9mc9omhm"
+      },
+      "artists": [
+        {
+          "name": "Imancee",
+          "url": "https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6"
+        },
+        {
+          "name": "Exploit Music",
+          "url": "https://open.spotify.com/artist/3AZbgSiJKTULHcQAFZex4B"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160631,
+      "name": "Sweet To Me",
+      "url": "https://open.spotify.com/track/6ozgeplqAyC6kxNGHMWAnb"
+    },
+    {
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/16OwFKMfAryebOdCuhhz0W"
       },
@@ -7670,6 +7812,28 @@
       "duration_ms": 97418,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw"
+    },
+    {
+      "album": {
+        "name": "The Love Medley",
+        "url": "https://open.spotify.com/album/6K3j3yUQ6XPZH9uR49ZsDn"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Achiaamusic",
+          "url": "https://open.spotify.com/artist/5xPYTQWXbUEcjrT6pMrksd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346999,
+      "name": "The Love Medley",
+      "url": "https://open.spotify.com/track/1osUJMsDdl3AGiMaiiYmpe"
     },
     {
       "album": {

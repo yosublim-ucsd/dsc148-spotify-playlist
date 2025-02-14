@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-60 songs - 3 hr 42 min
+61 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,5 +68,6 @@
 | [When You Want Me](https://open.spotify.com/track/4kk7aHXUx7KTfPqnk9gZ3U) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Porsche](https://open.spotify.com/album/6PkhPpNkGgG129V0XuKDHk) | 3:53 | 2025-02-06 |  |
 | [Wild and Free](https://open.spotify.com/track/3qsl5j3xc2VmkuaGlJjN2T) | [That Kid CG](https://open.spotify.com/artist/0JGbaXZgaigAnUbKtQBwwK) | [My Tiny Planet 2](https://open.spotify.com/album/2B3raABHsJOlGWLFZOrWf1) | 2:20 | 2025-02-06 |  |
 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 | 2025-02-06 |  |
+| [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 | 2025-02-13 |  |
 
 \*This playlist was first scraped on 2025-02-07. Prior content cannot be recovered.

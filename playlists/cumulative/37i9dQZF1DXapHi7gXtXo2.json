@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 164433,
       "name": "Brillas en la Pista",
       "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
@@ -1458,6 +1458,28 @@
       "duration_ms": 212229,
       "name": "KIL\u00d3METROS",
       "url": "https://open.spotify.com/track/7bxKcnzYjeuuMxw3LWnQoM"
+    },
+    {
+      "album": {
+        "name": "La Burbuja",
+        "url": "https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230179,
+      "name": "La Burbuja",
+      "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
     },
     {
       "album": {

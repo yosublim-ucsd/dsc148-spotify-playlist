@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,924 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,957 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 46 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |
 | 47 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 48 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
-| 49 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 |
-| 50 | [flashes](https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [flashes](https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk) | 3:05 |
+| 49 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
+| 50 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 |
 
 Snapshot ID: `Z6WTfQAAAABa25zzZ0pX0/jwvSdKIatC`

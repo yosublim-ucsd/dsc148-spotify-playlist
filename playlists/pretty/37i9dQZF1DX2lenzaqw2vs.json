@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 136593,
+  "num_followers": 136596,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Y Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Y Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
         "name": "Pa Tanto",
         "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 169629,
       "name": "Pa Tanto",
       "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -955,8 +955,8 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+      "duration_ms": 220777,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 220777,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
-        }
-      ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
         "name": "El Invierno",
         "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
       "artists": [
         {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
         }
       ],
-      "duration_ms": 157909,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1539,6 +1523,22 @@
       "duration_ms": 184800,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1587,8 +1587,8 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Mala Crianza",
-        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
+        "name": "Lesbihonest",
+        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
       },
       "artists": [
         {
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
         }
       ],
-      "duration_ms": 144998,
-      "name": "PXRNX",
-      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
+      "duration_ms": 207157,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Lesbihonest",
-        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
+        "name": "Mala Crianza",
+        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
+      "duration_ms": 144998,
+      "name": "PXRNX",
+      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
     },
     {
       "added_at": "2025-01-24 14:41:23",

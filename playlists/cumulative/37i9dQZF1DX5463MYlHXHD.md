@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-309 songs - 17 hr 23 min
+310 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cachito](https://open.spotify.com/track/3CyYTW3cSscn3Y9elQqUcV) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [K\-LIBRE 9](https://open.spotify.com/artist/0hhZgx8NFIbtCbqtptcbIn) | [Cachito](https://open.spotify.com/album/4wiQsolniLNGuv8PpaCotJ) | 3:34 | 2023-10-20 | 2023-11-18 |
 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 | 2023-05-26 |  |
 | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB) | 2:48 | 2023-05-26 |  |
-| [Cariñito](https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:21 | 2024-04-19 |  |
+| [Cariñito](https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:21 | 2024-04-19 | 2025-02-14 |
 | [Carta A Un Amigo](https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Autentico Creador De La Cumbia Callejera](https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq) | 3:35 | 2024-03-08 |  |
 | [Carta Para Un Amigo](https://open.spotify.com/track/4JG5M3Q1JLlQ37FM7yGDiG) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Carta Para un Amigo](https://open.spotify.com/album/1mu1cA4fFZaCF3xAC14JQm) | 2:13 | 2024-03-29 | 2024-04-19 |
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2023-05-26 |  |
@@ -263,6 +263,7 @@
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-26 |  |
 | [Sos Botón](https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [La Vanda Más Loca](https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE) | 4:19 | 2023-05-26 | 2024-04-19 |
 | [Sos Un Boton](https://open.spotify.com/track/36jhHChKNzIZUdfbCYN1zu) | [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Dany Lescano y Su Flor de Piedra](https://open.spotify.com/artist/1VFoC9tUQhiWZO6H4yMK05) | [Sos Un Boton](https://open.spotify.com/album/4cevwCBkPCc8xRItp1lFft) | 4:23 | 2024-07-05 | 2024-08-22 |
+| [Soy Así](https://open.spotify.com/track/6Yyr3licBfOogOf60bOkUr) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Soy Así](https://open.spotify.com/album/0ZMhQLbunsd5PX3sIUFcjG) | 2:20 | 2025-02-13 |  |
 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 | 2023-05-26 |  |
 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 | 2024-03-05 | 2024-04-19 |
 | [Tal Para Cual](https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tal Para Cual](https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy) | 2:31 | 2024-01-12 | 2024-03-09 |

@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: AprilBlue\)
 
-182 songs - 12 hr 35 min
+183 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 | 2024-12-05 |
 | [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 |  |
+| [farewell](https://open.spotify.com/track/4nhQgXGvIDZmQR5GG7urbF) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [farewell](https://open.spotify.com/album/3zI5YFsZPqgzexM8CJijQJ) | 3:40 | 2025-02-13 |  |
 | [Fearful Symmetry](https://open.spotify.com/track/4oEVBukdjokW2aSLYzzKJE) | [Rissau](https://open.spotify.com/artist/1sHSIAlqsqOIBKYKRqXQOq), [Sunshypeach](https://open.spotify.com/artist/7waFmxr8k9ds641Pt2mQdk) | [Fearful Symmetry](https://open.spotify.com/album/5Eq9ulbmbsqGjVCfwd7sHG) | 3:45 | 2024-12-04 |  |
 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 | 2024-06-27 |  |
 | [Florida](https://open.spotify.com/track/668zlxXdGYpzw8ALsaRkhH) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Florida](https://open.spotify.com/album/61ChRb4sarnZsE0G4QC8gL) | 3:36 | 2024-06-27 | 2024-12-05 |
@@ -69,7 +70,7 @@
 | [I Ever Dreamed Of](https://open.spotify.com/track/7dU1vsjkrmPsfjm5eWyVml) | [Mikado Koko](https://open.spotify.com/artist/0xBoJ1DUOrxxboiavjI6Dx) | [Floating High](https://open.spotify.com/album/656XisQHcyzLwkwug6fS51) | 2:07 | 2024-09-26 | 2024-12-05 |
 | [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 | 2024-08-30 | 2024-09-06 |
 | [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 | 2024-07-19 |  |
-| [iki](https://open.spotify.com/track/5Oo3gErzLysjVSb2rNOwgo) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Lux](https://open.spotify.com/album/3G2sTBcS9qUSI21k3TDQim) | 4:27 | 2025-01-16 |  |
+| [iki](https://open.spotify.com/track/5Oo3gErzLysjVSb2rNOwgo) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Lux](https://open.spotify.com/album/3G2sTBcS9qUSI21k3TDQim) | 4:27 | 2025-01-16 | 2025-02-14 |
 | [Imagination and Creation](https://open.spotify.com/track/4W8OK7sBpV2VIUUsQmh45L) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Eunoia](https://open.spotify.com/album/0ENNpHzXuTcJ2rOHQuEzTx) | 3:47 | 2024-10-10 | 2024-11-08 |
 | [In Motion](https://open.spotify.com/track/66Lw5v5MQQtV4Fy7GIQR63) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [In Motion](https://open.spotify.com/album/4Y6DGBMiczxvUtPpG9UEj6) | 5:14 | 2025-01-16 |  |
 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/54o61nZtHnVCnPLtI8B0Cf) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 | 2024-10-10 | 2024-12-05 |

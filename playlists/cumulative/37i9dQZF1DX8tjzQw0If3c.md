@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Amir Hasan
+> Listen to the future\. Cover: rhyu
 
-111 songs - 6 hr 5 min
+115 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,8 @@
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 |  |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-12-05 |
 | [Feel The Same](https://open.spotify.com/track/2e6RKDGy1H8eZXqAkMxZA2) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/7pIB5u9qoSnakys0SgUQho) | 2:52 | 2024-12-04 |  |
+| [Find My Way](https://open.spotify.com/track/5HXyUHV7K2OmRoYQ0sVFa7) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:44 | 2025-02-13 |  |
+| [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-13 |  |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2024-06-27 | 2024-12-05 |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 | 2024-12-05 |
 | [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 | 2024-12-05 |
@@ -54,6 +56,7 @@
 | [GOAT](https://open.spotify.com/track/75pwLp6ykAwnLJbIajnwUL) | [Calista Liaw](https://open.spotify.com/artist/5pHNhL7wLSKVAkZzu2VSfI), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [GOAT](https://open.spotify.com/album/4kOEOvS3GI3by0V2f04NNw) | 4:14 | 2024-11-28 | 2024-12-05 |
 | [GONE](https://open.spotify.com/track/5GD4Ua3avWtbj8g78j1kys) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [C.H.Q.Y](https://open.spotify.com/artist/6MpU9MJtZ8NWFO4Z0oCWY9) | [GONE](https://open.spotify.com/album/3dd6kX7BEgS4Fjm6G9cwJM) | 2:30 | 2024-06-27 | 2024-12-05 |
 | [Good With That](https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Good With That](https://open.spotify.com/album/5QPaLW7l4vqGjz6eVAU0un) | 1:55 | 2024-10-03 | 2024-12-05 |
+| [Goodbye](https://open.spotify.com/track/7EDYtrcCKtJMMKxktBGdPW) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:21 | 2025-02-13 |  |
 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 | 2024-12-05 |
 | [half of my heart](https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 3:38 | 2024-12-04 |  |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 | 2024-12-05 |
@@ -80,6 +83,7 @@
 | [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-06-27 | 2024-12-05 |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2024-06-27 | 2024-12-05 |
 | [My Life](https://open.spotify.com/track/4nkTlqKgdjIO7ZeNCJpbX3) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Life](https://open.spotify.com/album/42vSl0T71w4NCExWs1Pvyf) | 3:18 | 2024-10-24 | 2024-12-05 |
+| [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-13 |  |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2024-06-27 |  |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 |  |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 |  |

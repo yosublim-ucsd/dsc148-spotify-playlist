@@ -4,12 +4,12 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Sharon Van Atten & The Attachment Theory
 
-218 songs - 13 hr 55 min
+219 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
-| [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 |  |
+| [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
 | [A Good Time Pushed](https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [A Good Time Pushed](https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2) | 3:27 | 2024-11-15 | 2024-12-10 |
 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 | 2024-06-14 | 2024-07-14 |
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-15 |  |
@@ -71,6 +71,7 @@
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-06-14 |  |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-14 | 2024-10-07 |
 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-06-14 | 2024-08-15 |
+| [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-13 |  |
 | [Extraordinary Wings](https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Extraordinary Wings](https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX) | 5:06 | 2025-01-31 |  |
 | [Fanzine Made Of Flesh](https://open.spotify.com/track/46nJ1hdWZQwdf2S8V8J9oP) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Fanzine Made Of Flesh](https://open.spotify.com/album/3zUw4o9L638CUXVjUfXfDf) | 4:34 | 2025-01-31 | 2025-02-13 |
 | [Far Out](https://open.spotify.com/track/4My8C3ATCIRDAj0aIf75KC) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Far Out](https://open.spotify.com/album/0ywPmzfGXuZFHoOnlzHNVJ) | 2:47 | 2024-07-18 | 2024-08-15 |

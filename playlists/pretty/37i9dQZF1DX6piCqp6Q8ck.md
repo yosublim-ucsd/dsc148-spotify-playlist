@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,756 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,738 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 39 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
 | 40 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Christmas Time Is Here](https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U) | 2:24 |
 | 41 | [Christmas Will Really Be Christmas](https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish \(Deluxe\)](https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA) | 3:56 |
-| 42 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
-| 43 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
-| 44 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
-| 45 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
+| 42 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
+| 43 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
+| 44 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
+| 45 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
 | 46 | [What a Night!](https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 3:23 |
 | 47 | [Here We Come A\-Caroling](https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Here We Come A\-Caroling](https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t) | 1:08 |
 | 48 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |

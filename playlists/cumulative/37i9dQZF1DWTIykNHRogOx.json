@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Terrenoire",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Styleto",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188716,
       "name": "Dans mon \u00eele",
       "url": "https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ"
@@ -1884,6 +1884,24 @@
       "duration_ms": 202186,
       "name": "PEUR DE RIEN",
       "url": "https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2"
+    },
+    {
+      "album": {
+        "name": "Plastique",
+        "url": "https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187459,
+      "name": "Plastique",
+      "url": "https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S"
     },
     {
       "album": {

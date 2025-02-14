@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Léa Sen
+> Discover your new favourite artists from UK&IE\. Cover: Luvcat
 
-296 songs - 15 hr 55 min
+297 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 | 2022-02-18 |  |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-02-18 |  |
 | [Loud](https://open.spotify.com/track/3eTH67em8ZO5qzbv3w0w1L) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/1cRWqwiwrA2cVSXbyysn94) | 4:00 | 2024-01-19 | 2024-04-19 |
+| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-14 |  |
 | [Love Me \(feat\. Eldé\)](https://open.spotify.com/track/5vyRcWC2wMZKtXo4vQwotg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Eldé](https://open.spotify.com/artist/75PJwM8YidQKbJyGQwPQIA) | [Love Me](https://open.spotify.com/album/2OT9MytCtXGf4r91rsabT5) | 3:47 | 2023-09-07 |  |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-05-30 |  |
 | [lvl 1 \- HOME ALONE](https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 1 \- HOME ALONE](https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN) | 3:30 | 2025-02-07 |  |

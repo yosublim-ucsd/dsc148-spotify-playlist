@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Lu City x SKUNK x X-Man",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 99918,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/2JdlmlEuN0Y7otGmcR4xxP"
@@ -3023,6 +3023,32 @@
     },
     {
       "album": {
+        "name": "D\u00e9ranger",
+        "url": "https://open.spotify.com/album/1Q7tGjAI2iaIFtGW9HvZbB"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        },
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154886,
+      "name": "D\u00e9ranger",
+      "url": "https://open.spotify.com/track/3wvQ2D30p0OhAng2iZcMy9"
+    },
+    {
+      "album": {
         "name": "Ek c tou",
         "url": "https://open.spotify.com/album/5lT2p0esBtqL6rtKnsg6uC"
       },
@@ -3046,6 +3072,24 @@
       "duration_ms": 134918,
       "name": "Ek c tou",
       "url": "https://open.spotify.com/track/6Ufsa246KudOlxKXRM2PgG"
+    },
+    {
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/06ZzrqTvbYZhNQdPDvTaVp"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Elle",
+      "url": "https://open.spotify.com/track/3RHJUXBNxOHdfOG9xYSTt1"
     },
     {
       "album": {
@@ -3920,6 +3964,28 @@
       "duration_ms": 181394,
       "name": "Govern",
       "url": "https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd"
+    },
+    {
+      "album": {
+        "name": "Breakfast Titony",
+        "url": "https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "Titony",
+          "url": "https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117627,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1"
     },
     {
       "album": {
@@ -5262,7 +5328,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150000,
       "name": "La Boue",
       "url": "https://open.spotify.com/track/30UAp6vwkZsKsDSYUZdYXf"
@@ -5390,6 +5456,24 @@
       "duration_ms": 172388,
       "name": "Laisse tomber",
       "url": "https://open.spotify.com/track/1oAGCEm3nBKzCMlUSJq9a5"
+    },
+    {
+      "album": {
+        "name": "Lajol",
+        "url": "https://open.spotify.com/album/7dvPfbZpyEAPlzYQXWbVVp"
+      },
+      "artists": [
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115617,
+      "name": "Lajol",
+      "url": "https://open.spotify.com/track/16ljuzPM0hfUTW8SalghpZ"
     },
     {
       "album": {
@@ -6428,7 +6512,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 153506,
       "name": "Monte \u00e0 bord",
       "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
@@ -7880,7 +7964,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 164764,
       "name": "Puni Police",
       "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"

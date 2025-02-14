@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,515 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,511 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 33 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 |
 | 34 | [Pescao \(Popurri Sambao\): Si Se Quema El Monte / Coje El Pandero / Pescao \(Samba\)](https://open.spotify.com/track/7JIeUzAQeuGoED1235Eje9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:39 |
 | 35 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 |
-| 36 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 |
-| 37 | [Dame la mano paloma](https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:39 |
+| 36 | [Dame la mano paloma](https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:39 |
+| 37 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 |
 | 38 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 |
 | 39 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
 | 40 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 78 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
 | 79 | [Mapeye 2022](https://open.spotify.com/track/2nY6sEywqui9MCg6cCNcWT) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Mapeye 2022](https://open.spotify.com/album/4YuxK37EcMa4Xhp48Ko4HJ) | 4:48 |
 | 80 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
-| 81 | [Me Huele a Ron](https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs) | [Marcos Caminero](https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:38 |
-| 82 | [Alegre Vengo](https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1) | [Jorge Morel](https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:42 |
+| 81 | [Alegre Vengo](https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1) | [Jorge Morel](https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:42 |
+| 82 | [Me Huele a Ron](https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs) | [Marcos Caminero](https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:38 |
 | 83 | [Aguinaldo Navideño](https://open.spotify.com/track/7v1iZfK6g60yDZQZFo4aDG) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Frank Cruz](https://open.spotify.com/artist/43lbq6HwbuHXd1FB8BWzmR) | [Feliz Navidad](https://open.spotify.com/album/76WNnJhSCahBqknf9tT08w) | 4:44 |
 | 84 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 |
 | 85 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |

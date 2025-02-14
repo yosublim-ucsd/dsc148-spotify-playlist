@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
@@ -12096,7 +12096,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 116000,
       "name": "chess",
       "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
@@ -24866,7 +24866,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -29378,6 +29378,28 @@
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif"
+    },
+    {
+      "album": {
+        "name": "Jam #1",
+        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148420,
+      "name": "Jam #01 - Tudo Que Eu Fa\u00e7o",
+      "url": "https://open.spotify.com/track/16uCw1aj8Qbi03TlbGY2si"
     },
     {
       "album": {

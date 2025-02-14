@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 306099,
+  "num_followers": 306198,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2024-03-22 15:15:48",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2024-03-22 15:15:48",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2024-03-22 15:15:48",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
         {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2024-03-22 15:15:48",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
         }
       ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "added_at": "2024-03-22 15:15:48",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "added_at": "2024-03-22 15:15:48",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2024-03-22 15:15:48",
-      "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
     },
     {
       "added_at": "2024-03-22 15:15:48",

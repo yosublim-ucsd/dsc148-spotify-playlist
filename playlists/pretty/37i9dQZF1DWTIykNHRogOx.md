@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Terrenoire
+> Les  meilleures nouveautés de la chanson française\. Photo : Styleto
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,377 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,384 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [alma](https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [protégé.e](https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q) | 4:07 |
-| 2 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 |
-| 3 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 |
-| 4 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 |
+| 1 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 |
+| 2 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 |
+| 3 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 |
+| 4 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 |
 | 5 | [Toi là\-bas](https://open.spotify.com/track/1M1Zd745JBEteL4kWvknkG) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Toi là\-bas](https://open.spotify.com/album/6aJpWeCK0o8oTonGKWpUOb) | 4:09 |
-| 6 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 |
-| 7 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 |
-| 8 | [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 |
-| 9 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 |
-| 10 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 |
-| 11 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 |
-| 12 | [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 |
-| 13 | [Syracuse](https://open.spotify.com/track/4a9SKqxRA9geKc5YoPnAf9) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Syracuse](https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M) | 2:48 |
-| 14 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 |
-| 15 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
-| 16 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 |
-| 17 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 |
-| 18 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |
-| 19 | [Mélancolie](https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Grand piano](https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd) | 3:04 |
-| 20 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |
-| 21 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 |
-| 22 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 |
-| 23 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 |
+| 6 | [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 |
+| 7 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
+| 8 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 |
+| 9 | [alma](https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [protégé.e](https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q) | 4:07 |
+| 10 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 |
+| 11 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 |
+| 12 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 |
+| 13 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 |
+| 14 | [Plastique](https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r) | 3:07 |
+| 15 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 |
+| 16 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 |
+| 17 | [Syracuse](https://open.spotify.com/track/4a9SKqxRA9geKc5YoPnAf9) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Syracuse](https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M) | 2:48 |
+| 18 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 |
+| 19 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |
+| 20 | [Mélancolie](https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Grand piano](https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd) | 3:04 |
+| 21 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |
+| 22 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 |
+| 23 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 |
 | 24 | [Les battements du cœur](https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 3:14 |
 | 25 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 |
 | 26 | [Un homme heureux](https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix Plus](https://open.spotify.com/album/2KV6vuCpm7D0stDWSwxcCr) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 47 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 |
 | 48 | [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 |
 | 49 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 |
-| 50 | [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 |
+| 50 | [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 |
 
-Snapshot ID: `Z6U/DQAAAAD/X/y4YQTAANA845whEvJT`
+Snapshot ID: `Z655iAAAAABCIJbTK+PI1W3/H2IithuB`

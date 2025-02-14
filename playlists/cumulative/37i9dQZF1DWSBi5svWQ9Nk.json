@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 populairste hits van nu. Cover: The Weeknd",
+  "description": "De 50 populairste hits van nu. Cover: Antoon",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -266,6 +266,24 @@
       "duration_ms": 203545,
       "name": "A Moment",
       "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Beetje Van Mij",
+        "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Beetje Van Mij",
+      "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
+    },
+    {
+      "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 100279,
       "name": "chille guy",
       "url": "https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130615,
       "name": "Damage",
       "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -2990,6 +3026,24 @@
       "duration_ms": 90115,
       "name": "GuGu",
       "url": "https://open.spotify.com/track/4EIup0G510mGZl4ZQKzAdl"
+    },
+    {
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
       "album": {
@@ -4900,7 +4954,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -5002,7 +5056,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
@@ -5236,6 +5290,24 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "album": {
@@ -6030,6 +6102,28 @@
       "duration_ms": 121451,
       "name": "Satisfyer",
       "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
+    },
+    {
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "album": {

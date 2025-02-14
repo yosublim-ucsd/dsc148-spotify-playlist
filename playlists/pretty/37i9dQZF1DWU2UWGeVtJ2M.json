@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 163063,
+  "num_followers": 163086,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 162794,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "my future",
         "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 208155,
       "name": "my future",
       "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 162794,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "Viva! La Woman",
         "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 269760,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 316200,
       "name": "Distractions",
       "url": "https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
-      },
-      "artists": [
-        {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1263,22 +1263,6 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
-      },
-      "artists": [
-        {
-          "name": "GRACE.",
-          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 213133,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1367,6 +1351,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "FITS",
-        "url": "https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 138030,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "FITS",
+        "url": "https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 138030,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
     },
     {
       "added_at": "2025-02-03 01:54:55",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-02-03 01:54:55",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2025-02-03 01:54:55",
-      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 174907,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
+    },
+    {
+      "added_at": "2025-02-03 01:54:55",
+      "album": {
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+      },
+      "artists": [
+        {
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

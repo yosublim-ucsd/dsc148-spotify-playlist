@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,092 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,108 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 30 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
 | 31 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
 | 32 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
-| 33 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
-| 34 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
-| 35 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
+| 33 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
+| 34 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
+| 35 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
 | 36 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 37 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 | 38 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 45 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
 | 46 | [Our little island](https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Our little island](https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT) | 3:42 |
 | 47 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
-| 48 | [It's You \(feat\. youś\)](https://open.spotify.com/track/6gVBE95pKlyOjTYig3MEXL) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo), [youś](https://open.spotify.com/artist/590sDujsxkKEILVfkk3X3Q) | [It's You \(feat\. youś\)](https://open.spotify.com/album/5VFbsPMHmiOc3LIQE9mS1d) | 3:18 |
+| 48 | [Back Then \(feat\. soo\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then \(feat\. soo\)](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
 | 49 | [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 |
-| 50 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
+| 50 | [It's You \(feat\. youś\)](https://open.spotify.com/track/6gVBE95pKlyOjTYig3MEXL) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo), [youś](https://open.spotify.com/artist/590sDujsxkKEILVfkk3X3Q) | [It's You \(feat\. youś\)](https://open.spotify.com/album/5VFbsPMHmiOc3LIQE9mS1d) | 3:18 |
 
 Snapshot ID: `Z1FzXwAAAAB69mdVz2SASziP1kSLwoOT`

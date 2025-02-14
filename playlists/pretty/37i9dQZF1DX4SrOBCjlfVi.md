@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Key Glock, GELO & Lil Wayne, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,558 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,649 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 30 | [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/track/5bLNH3NzMXP5lVy9qmZZK8) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/album/7fJSijsul2qXgubuB7wO6N) | 2:47 |
 | 31 | [Go Get Em](https://open.spotify.com/track/2M3HPl5tuWVRJmyR4cxVTZ) | [Cartel Bo](https://open.spotify.com/artist/2gHDPVwwW2YrL4rLGlAj87), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [Go Get Em](https://open.spotify.com/album/1z2Z0vX2iCyzeaAbmDqVFQ) | 2:44 |
 | 32 | [New York To The World \(feat\. Jadakiss\)](https://open.spotify.com/track/2lXRpKZ1igTeCAE0RVRucl) | [Kith](https://open.spotify.com/artist/7Cje7nyrHbuv6F3JzjwwCl), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [New York To The World \(feat\. Jadakiss\)](https://open.spotify.com/album/1c3bM11lD8v1IsAqisXBwd) | 3:23 |
-| 33 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:41 |
+| 33 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:43 |
 | 34 | [Phantom](https://open.spotify.com/track/1WpvTT58LmYB0Ikc9FNlMg) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Phantom](https://open.spotify.com/album/16m7W71xnN8APO6zaLPK1L) | 1:56 |
 | 35 | [On God](https://open.spotify.com/track/7g05iI6vyU8KCUWZGlKbZL) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [On God](https://open.spotify.com/album/6rIE6P3dKtoyGxEskQYbot) | 3:08 |
 | 36 | [Cocky](https://open.spotify.com/track/7L0alUdbfRUBUXpBXlg41j) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Cocky](https://open.spotify.com/album/1qgAK2HFyyL1vbhBCycP02) | 2:00 |

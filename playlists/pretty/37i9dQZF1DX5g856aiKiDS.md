@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,645 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,735 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 31 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
 | 32 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 | 33 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
-| 34 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
-| 35 | [Winter Blossom \(feat\. SAAY\) \(Prod\. by 0channel\)](https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 3:37 |
+| 34 | [Winter Blossom \(feat\. SAAY\) \(Prod\. by 0channel\)](https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 3:37 |
+| 35 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
 | 36 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 37 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 38 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |

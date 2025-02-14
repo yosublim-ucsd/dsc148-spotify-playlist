@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 295120,
       "name": "Because",
       "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
@@ -4006,6 +4006,24 @@
       "duration_ms": 234693,
       "name": "\u6697\u9ed2\u3078\u306e\u524d\u594f\u66f2",
       "url": "https://open.spotify.com/track/3amVvNoNSVbopjXo7HLndF"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269933,
+      "name": "\u685c\u5f69",
+      "url": "https://open.spotify.com/track/5q4M8IiqxKocTLsTudR7au"
     },
     {
       "album": {

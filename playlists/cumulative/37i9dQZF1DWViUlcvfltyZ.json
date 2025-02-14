@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock e punk dall'Italia \ud83c\udfb8 Gazebo Penguins in cover",
+  "description": "Rock e punk dall'Italia \ud83c\udfb8 Lacuna Coil in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190930,
       "name": "Are You Satisfied?",
       "url": "https://open.spotify.com/track/3CwfsFwhxLUU6iTJt9W6i0"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 366306,
       "name": "Be Like A Spider - She Said",
       "url": "https://open.spotify.com/track/5MfsyPzZkcWHKTiPMSw1b5"
@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Calcinculo",
+        "url": "https://open.spotify.com/album/7jL1irNcXI3WGcbsXqcPie"
+      },
+      "artists": [
+        {
+          "name": "reemo",
+          "url": "https://open.spotify.com/artist/6xK3oqbRDvwUNAnwOjBO1p"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218091,
+      "name": "Calcinculo",
+      "url": "https://open.spotify.com/track/0inIKjijzO9bxDH9gEuUQv"
+    },
+    {
+      "album": {
         "name": "Calciobalilla",
         "url": "https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 153070,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw"
@@ -4836,7 +4854,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 168892,
       "name": "Correre",
       "url": "https://open.spotify.com/track/6tTSKlyqG9ZA0BVQmE59Sb"
@@ -7903,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Fossili/Funghi",
+        "url": "https://open.spotify.com/album/7fkygq4meejaBdqGwMWwBY"
+      },
+      "artists": [
+        {
+          "name": "Asino",
+          "url": "https://open.spotify.com/artist/6I8TKeaMNeWsC26JY16qxI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248302,
+      "name": "Fossili/Funghi",
+      "url": "https://open.spotify.com/track/50VaVvzfEShYpyuewc7Eib"
+    },
+    {
+      "album": {
         "name": "RAGAZZAcd",
         "url": "https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15"
       },
@@ -8712,7 +8748,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 117305,
       "name": "gloom",
       "url": "https://open.spotify.com/track/3LDN8d2SzarrAJCm9swqT6"
@@ -9686,6 +9722,24 @@
       "duration_ms": 220750,
       "name": "i wish i was here first",
       "url": "https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe"
+    },
+    {
+      "album": {
+        "name": "I Wish You Were Dead",
+        "url": "https://open.spotify.com/album/2uNibRozoqsBCjT6G3sJlI"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/6op6zm0kRq71pCpZhyEiNu"
     },
     {
       "album": {
@@ -11886,7 +11940,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178653,
       "name": "Laguna Beach",
       "url": "https://open.spotify.com/track/1kKioXBMQSxAzq8T79i3ko"
@@ -12528,7 +12582,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 194046,
       "name": "Lost",
       "url": "https://open.spotify.com/track/65Qh6yJ4ImuWpHO2Gh4O2q"
@@ -12618,7 +12672,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 199312,
       "name": "Luci spente",
       "url": "https://open.spotify.com/track/4J3jZNo5hGHf6ykLNiEKNr"
@@ -14607,6 +14661,24 @@
     },
     {
       "album": {
+        "name": "NIRVANA",
+        "url": "https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY"
+      },
+      "artists": [
+        {
+          "name": "Glazyhaze",
+          "url": "https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW"
+    },
+    {
+      "album": {
         "name": "no joke",
         "url": "https://open.spotify.com/album/6Xh7hory69fuNd3yAdJEn0"
       },
@@ -16449,6 +16521,24 @@
     },
     {
       "album": {
+        "name": "PER QUALCOSA O QUALCUNO",
+        "url": "https://open.spotify.com/album/2p0gWxx57QZD0wf8b7RWOW"
+      },
+      "artists": [
+        {
+          "name": "GIALLORENZO",
+          "url": "https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228580,
+      "name": "PER QUALCOSA O QUALCUNO",
+      "url": "https://open.spotify.com/track/0uSK1uXv9TiTODNfzkypXO"
+    },
+    {
+      "album": {
         "name": "Per sempre con me",
         "url": "https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo"
       },
@@ -16598,7 +16688,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231724,
       "name": "Piano forte",
       "url": "https://open.spotify.com/track/0lj01kuWE5YAlEaN6TmO4a"
@@ -16724,7 +16814,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 116643,
       "name": "Pioggia",
       "url": "https://open.spotify.com/track/7hIlk0CmZ9drnekRgMtbAs"
@@ -19994,7 +20084,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 218186,
       "name": "Son of the Rambling Dawn",
       "url": "https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo"
@@ -20182,7 +20272,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190390,
       "name": "Spettri",
       "url": "https://open.spotify.com/track/0Hw2BJtjUmg7EplpdidKXT"
@@ -21673,6 +21763,28 @@
     },
     {
       "album": {
+        "name": "Ti Amo Coglione",
+        "url": "https://open.spotify.com/album/45XoShcIuaHrbGYgIfYCmo"
+      },
+      "artists": [
+        {
+          "name": "Tommi E.G.O.",
+          "url": "https://open.spotify.com/artist/1Z9yroWgSkX4O0pB5PHBbr"
+        },
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189281,
+      "name": "Ti Amo Coglione",
+      "url": "https://open.spotify.com/track/5AoyZKXUGr3Wcaob4VbvOg"
+    },
+    {
+      "album": {
         "name": "TI DEVI ROVINARE",
         "url": "https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh"
       },
@@ -22488,7 +22600,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 285027,
       "name": "Tutto lascia traccia",
       "url": "https://open.spotify.com/track/2ogSjnQvd656RDhbWDg4La"
@@ -23956,6 +24068,24 @@
       "duration_ms": 227453,
       "name": "White Cage",
       "url": "https://open.spotify.com/track/5BilJJWDFub6jR3T7ubM97"
+    },
+    {
+      "album": {
+        "name": "Flesh & Weapon",
+        "url": "https://open.spotify.com/album/3t2V5dbC3Rf2ygIeHZF1sC"
+      },
+      "artists": [
+        {
+          "name": "Resc\u00fce Cat",
+          "url": "https://open.spotify.com/artist/0Lf5tQI8gcuY67VzicRg6z"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115705,
+      "name": "Who's the killer?",
+      "url": "https://open.spotify.com/track/0FEZlobl5xnEen0H4bsTJx"
     },
     {
       "album": {

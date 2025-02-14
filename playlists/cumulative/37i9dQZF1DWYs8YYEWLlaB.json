@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler. Kapak: Kubilay Kar\u00e7a",
+  "description": "viral, trend ve y\u00fckselenler. Kapak: Aleyna Tilki",
   "name": "trend 2025",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 217324,
       "name": "Ba\u011f\u0131\u015fla",
       "url": "https://open.spotify.com/track/43Kpm3kz8904r3DCvrCx5h"
+    },
+    {
+      "album": {
+        "name": "Bekleyenim",
+        "url": "https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Bekleyenim",
+      "url": "https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR"
     },
     {
       "album": {
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 246494,
       "name": "Merhametsiz",
       "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Yok Bana Bu Cihanda",
+        "url": "https://open.spotify.com/album/26VGDBIPiwDyJxOC9N77Hn"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268765,
+      "name": "Yok Bana Bu Cihanda",
+      "url": "https://open.spotify.com/track/4DhyDAN1yx5WNYQEeWaCSd"
+    },
+    {
+      "album": {
         "name": "Yokmu\u015f Sevenim Senden \u00d6nce",
         "url": "https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ"
       },
@@ -2328,7 +2364,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 90604,
       "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
       "url": "https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi"

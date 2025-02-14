@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Jordan Davis",
+  "description": "The cream of today's Country crop. Cover: Jon Pardi",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185240,
       "name": "A Life Where We Work Out - First Dance Cut",
       "url": "https://open.spotify.com/track/7rM5uYCVn2FplWp2FGoI81"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 219720,
       "name": "Chase You Down",
       "url": "https://open.spotify.com/track/65Q73c4fCMrrGgjap0iYJs"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130369,
       "name": "Chevrolet You Down",
       "url": "https://open.spotify.com/track/1bEF4ojUgK7iI3TZtcXLID"
@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Dressed Down",
+        "url": "https://open.spotify.com/album/4LA74VwF6cJIPhJj4G410l"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Dressed Down",
+      "url": "https://open.spotify.com/track/4p8bd4AU5lykxLs1RbifYp"
+    },
+    {
+      "album": {
         "name": "Drink Along Song",
         "url": "https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy"
       },
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 145059,
       "name": "Forget About It",
       "url": "https://open.spotify.com/track/2LAd01AkxYyB3GBYQdY8Jz"
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186386,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d"
@@ -6904,7 +6922,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 198466,
       "name": "hungover",
       "url": "https://open.spotify.com/track/1p7V6RyEgPPPYRcvJSCpnF"
@@ -8141,6 +8159,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Too",
+        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191928,
+      "name": "Leave Me Too",
+      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
+    },
+    {
+      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
       },
@@ -8896,10 +8932,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
+    {
+      "album": {
+        "name": "Love The Lights Out",
+        "url": "https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Love The Lights Out",
+      "url": "https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD"
     },
     {
       "album": {
@@ -9246,7 +9300,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -9748,6 +9802,28 @@
       "duration_ms": 197466,
       "name": "Never Give Up On A Good Time",
       "url": "https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Change",
+        "url": "https://open.spotify.com/album/5f26dBDWthcFg7KYZGT7Gp"
+      },
+      "artists": [
+        {
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240085,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/2QbzLN321hLY1evbkuHoMa"
     },
     {
       "album": {
@@ -12080,6 +12156,24 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "album": {
+        "name": "She Hates Me",
+        "url": "https://open.spotify.com/album/08SPNNSczUGCea325dQcEY"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170715,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM"
     },
     {
       "album": {
@@ -16029,6 +16123,24 @@
     },
     {
       "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/0kSjjQeVeJRmfZzochjKIO"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n"
+    },
+    {
+      "album": {
         "name": "Wish You Would",
         "url": "https://open.spotify.com/album/4OfR09T3NTuBIQDflZrvzP"
       },
@@ -16434,6 +16546,24 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "YOU TURN",
+        "url": "https://open.spotify.com/album/6MoQazFHtQP7BNod5GT7oq"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "YOU TURN",
+      "url": "https://open.spotify.com/track/2nIX3efXDJxpJLd5aHxfyP"
     },
     {
       "album": {

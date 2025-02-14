@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-958 songs - 2 day 2 hr 28 min
+959 songs - 2 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Dynamite \- EDM Remix](https://open.spotify.com/track/1HZ5LJMCzClg2pdomCnEPw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Extended\)](https://open.spotify.com/album/2UX7xCHxzTLKuEom7VdwMJ) | 3:18 | 2020-11-03\* | 2020-11-18 |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-02-26 | 2024-07-19 |
 | [Easier \(feat\. LOWES\) \- Radio Edit](https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Easier \(feat\. LOWES\) \[Radio Edit\]](https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui) | 3:34 | 2020-11-03\* | 2021-03-06 |
-| [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 |  |
+| [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 | 2025-02-14 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-03 | 2023-05-30 |
 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 | 2022-07-08 | 2022-08-27 |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2020-11-03\* | 2021-05-07 |
@@ -455,6 +455,7 @@
 | [Lamprey](https://open.spotify.com/track/6QFVS1JJnxoRSxfJQbPJqu) | [REINIER](https://open.spotify.com/artist/4acncdScRKPPQk3tf9h2IK) | [EP](https://open.spotify.com/album/7eRZyz1LKROt2KMj0rN6FT) | 5:04 | 2021-05-08 | 2021-05-15 |
 | [Lasers](https://open.spotify.com/track/2hYV1TeTjv0tbJfTt0dk5O) | [Matixx](https://open.spotify.com/artist/0kEtR5UfyCeMCQQ07RltB5) | [Lasers / Picture](https://open.spotify.com/album/2thD0NcB27RgdUdWhCsuFq) | 4:22 | 2022-06-24 | 2022-08-05 |
 | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/track/62xA7Zhj8CQSecypWIfpZx) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/album/2MYhUTVM7SeBuQX5uNjOam) | 2:32 | 2021-05-03 | 2021-07-24 |
+| [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 | 2025-02-13 |  |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2020-11-03\* | 2022-04-23 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2021-10-26 | 2022-05-07 |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2021-07-31 | 2021-11-05 |

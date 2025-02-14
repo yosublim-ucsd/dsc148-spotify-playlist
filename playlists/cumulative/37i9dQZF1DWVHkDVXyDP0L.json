@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Ball Park Music",
+  "description": "New and local indie noise. Cover: There's A Tuesday",
   "name": "Local Noise",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 223372,
       "name": "2 in the AM PM",
       "url": "https://open.spotify.com/track/6TfQadvDh7q12sNlfGVeCK"
@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Bitter Honey",
+        "url": "https://open.spotify.com/album/2nbSa4OxJQVySHY6bLQU3w"
+      },
+      "artists": [
+        {
+          "name": "The eight five two",
+          "url": "https://open.spotify.com/artist/76ThSHKlcLCsS7XEj08V5z"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Bitter Honey",
+      "url": "https://open.spotify.com/track/7y4TGPdWrfn6xAtsghiJQb"
+    },
+    {
+      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/5w8bTiMgsEUfvzHC1aqi25"
       },
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Chasing Hearts",
+        "url": "https://open.spotify.com/album/75UrUW5BvcPAQDnpItdDuC"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Chasing Hearts",
+      "url": "https://open.spotify.com/track/1l0PzbLmNpSy6dgULjPtWp"
+    },
+    {
+      "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/2k3KwbsVIBw8j6v02HptXJ"
       },
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 218771,
       "name": "Cloud Away",
       "url": "https://open.spotify.com/track/5bRkVOnFXYm4ouHkoHCMxO"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 252772,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/5KQctzMCx1xS0WJjjaCHc0"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 161967,
       "name": "Counting Hours",
       "url": "https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT"
@@ -1504,7 +1540,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 214119,
       "name": "de facto",
       "url": "https://open.spotify.com/track/2uYInarDGrbZ2oarZwHsmx"
@@ -1659,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Don't Care",
+        "url": "https://open.spotify.com/album/4EEUZ1QYyaF2pEx9wFb43V"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Death Squad",
+          "url": "https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA"
+        },
+        {
+          "name": "Emmy Mack",
+          "url": "https://open.spotify.com/artist/1SSw312Ww6IHELkKnbHFaP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/6dBNZ7CpX9VzVvB9hXoP6S"
+    },
+    {
+      "album": {
         "name": "Don't Feel Right",
         "url": "https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk"
       },
@@ -1760,7 +1818,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 199218,
       "name": "Don't Wanna Talk About Love",
       "url": "https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8"
@@ -1778,7 +1836,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
@@ -2405,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "From The Very Start",
+        "url": "https://open.spotify.com/album/29qXJNPwygqiT4bTz18KeI"
+      },
+      "artists": [
+        {
+          "name": "Bootleg Rascal",
+          "url": "https://open.spotify.com/artist/2cScEQkwCAObAfeFX4CYr4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "From The Very Start",
+      "url": "https://open.spotify.com/track/4Ohq4McYAAmWFriu0avfYL"
+    },
+    {
+      "album": {
         "name": "Shitty Thrills",
         "url": "https://open.spotify.com/album/7C35QNTsIDM12RhWG5Vo4y"
       },
@@ -2892,7 +2968,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220781,
       "name": "High Voltage Anxiety",
       "url": "https://open.spotify.com/track/6AQwb0d5wgyNQEwIpsjd4y"
@@ -3040,6 +3116,24 @@
       "duration_ms": 177709,
       "name": "HOPELESS",
       "url": "https://open.spotify.com/track/1kvrh0fvOZUZMbjJs3d1Sc"
+    },
+    {
+      "album": {
+        "name": "Hot Bath",
+        "url": "https://open.spotify.com/album/2Jz2yRjOFD4ytBytwkFe2l"
+      },
+      "artists": [
+        {
+          "name": "Jade Imagine",
+          "url": "https://open.spotify.com/artist/2GZIkd7QPKtg5c3alf8rYt"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166199,
+      "name": "Hot Bath",
+      "url": "https://open.spotify.com/track/58llZXYXgCoZy0XjVfvSgw"
     },
     {
       "album": {
@@ -3526,7 +3620,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 243000,
       "name": "Keep Falling",
       "url": "https://open.spotify.com/track/6zSutfSvyxSKezddCTisfr"
@@ -3628,6 +3722,24 @@
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+    },
+    {
+      "album": {
+        "name": "Left Of The Dealer",
+        "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254946,
+      "name": "Left Of The Dealer",
+      "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
     },
     {
       "album": {
@@ -3804,7 +3916,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 221420,
       "name": "Losers",
       "url": "https://open.spotify.com/track/4PQedJRYOJzawA0haqr2s9"
@@ -3995,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153026,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo"
+    },
+    {
+      "album": {
         "name": "Marlborough's Gold",
         "url": "https://open.spotify.com/album/0v31kn9oQZ0ptSmom9jLkR"
       },
@@ -4096,7 +4226,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 300905,
       "name": "Midas",
       "url": "https://open.spotify.com/track/5zNHSTHM4r7Kic1ZuIM2iC"
@@ -4114,7 +4244,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 255929,
       "name": "Midnight Money",
       "url": "https://open.spotify.com/track/0tTwFgrMVwJSd7HXJR8FK2"
@@ -4648,6 +4778,24 @@
       "duration_ms": 199272,
       "name": "On Show",
       "url": "https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7"
+    },
+    {
+      "album": {
+        "name": "On The Edge / On The Loose",
+        "url": "https://open.spotify.com/album/6WSOZ7iPXuEUCo8p03X70R"
+      },
+      "artists": [
+        {
+          "name": "Split System",
+          "url": "https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "On The Edge",
+      "url": "https://open.spotify.com/track/6dvHm9Axza63TTC4u91IQo"
     },
     {
       "album": {
@@ -5340,6 +5488,42 @@
       "duration_ms": 161841,
       "name": "Really Means Forever",
       "url": "https://open.spotify.com/track/6Ir1utSTc2FZ5HDlq5ENcs"
+    },
+    {
+      "album": {
+        "name": "Here Now, Gone There",
+        "url": "https://open.spotify.com/album/4CfGMav9xx8WgeaARQH4e6"
+      },
+      "artists": [
+        {
+          "name": "Wet Season",
+          "url": "https://open.spotify.com/artist/4zvwNu4C9XRRQJmsIBIKVl"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472503,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/09NfL64sOWQx7EM0HUe8Cj"
+    },
+    {
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149294,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/7egbENInwPWegyktIf4rVh"
     },
     {
       "album": {
@@ -6240,7 +6424,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182956,
       "name": "Streets",
       "url": "https://open.spotify.com/track/7ldmAMbqzeyvZ28YPV3X63"
@@ -6647,6 +6831,42 @@
     },
     {
       "album": {
+        "name": "ATMOSPHERICS",
+        "url": "https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
+    },
+    {
+      "album": {
+        "name": "The Fathers Of Iron Flesh",
+        "url": "https://open.spotify.com/album/2HERLP8DmrItzzHZM0BpEX"
+      },
+      "artists": [
+        {
+          "name": "Battlesnake",
+          "url": "https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205508,
+      "name": "The Fathers Of Iron Flesh",
+      "url": "https://open.spotify.com/track/1HVwFd9DN9W9GtjIjuL2qz"
+    },
+    {
+      "album": {
         "name": "The Lawn",
         "url": "https://open.spotify.com/album/3TVJFOPaptPsYnEIY51vXY"
       },
@@ -6914,6 +7134,24 @@
       "duration_ms": 188625,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5gbxUQZ5S747MlZusDhNSF"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Live, I Don't Wanna Die.",
+        "url": "https://open.spotify.com/album/6e7CdaMIx1hpRfu5jLfGNy"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Til I'm Dead",
+      "url": "https://open.spotify.com/track/5A1Rwjmz8yIDMeMaxtd8GN"
     },
     {
       "album": {

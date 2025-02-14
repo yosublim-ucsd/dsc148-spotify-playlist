@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "SLF in cover della playlist con il top dello street rap italiano \u26d3\ufe0f",
+  "description": "N\u00e9za in cover della playlist con il top dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 149999,
       "name": "COLPA MIA",
       "url": "https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG"
@@ -5794,6 +5794,28 @@
       "duration_ms": 152000,
       "name": "Fortuna (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0"
+    },
+    {
+      "album": {
+        "name": "Four Seasons (feat. MamboLosco)",
+        "url": "https://open.spotify.com/album/5h09Xy6i2psEpuIJITOLDu"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161322,
+      "name": "Four Seasons (feat. MamboLosco)",
+      "url": "https://open.spotify.com/track/5SX5PgcqN7KD24HS3hJqOo"
     },
     {
       "album": {

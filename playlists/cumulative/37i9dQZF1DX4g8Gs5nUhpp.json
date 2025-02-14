@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng D\u0169ng",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Dangrangto",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 175090,
       "name": "Cu\u1ed1i Tu\u1ea7n (1825)",
       "url": "https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 24661,
       "name": "Ho\u00e0ng D\u0169ng ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/4NKzRUP5bhejItrFbM26p8"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 262191,
       "name": "M\u01a1",
       "url": "https://open.spotify.com/track/2a5hng9yXtbjtTVVm9UviC"
@@ -6029,6 +6029,40 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 14",
+        "url": "https://open.spotify.com/album/0rizZdy1UrQb5svlZIqplS"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Ph\u00e1p Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
+        },
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "T\u00ccNH \u0110\u1ea6U QU\u00c1 CH\u00c9N (feat. Quang H\u00f9ng MasterD, Negav, Ph\u00e1p Ki\u1ec1u & Erik)",
+      "url": "https://open.spotify.com/track/3Nn9QjxOEj1pleW9xTG6cq"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
         "url": "https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci"
       },
@@ -6740,6 +6774,28 @@
       "duration_ms": 227076,
       "name": "Y\u00eau N\u1eafm",
       "url": "https://open.spotify.com/track/5f4u0kPnU21qNe6fXgAUiV"
+    },
+    {
+      "album": {
+        "name": "\u00c1nh M\u1eaft Bi\u1ebft C\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/1saojFqMcYhXsYkpUZEOI3"
+      },
+      "artists": [
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "\u00c1nh M\u1eaft Bi\u1ebft C\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/5JoQSuMrHdu7BcgIY9hDcX"
     },
     {
       "album": {

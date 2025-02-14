@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-133 songs - 7 hr 6 min
+134 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [beau\-papa \(acoustique\)](https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [beau\-papa \(acoustique\)](https://open.spotify.com/album/15csZHfKvpIwsR4UDH24Ox) | 3:21 | 2022-12-21 | 2023-09-01 |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-03-21 |  |
 | [Believe \(Shooting Stars\) \- Acoustic](https://open.spotify.com/track/3MCflPb8UHYgtB29aGgw5c) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\) \[Acoustic\]](https://open.spotify.com/album/0UrPf8a6vtXK9ENrXOPBmV) | 2:20 | 2025-01-03 |  |
-| [Bitter Sweet Love \- Acoustic](https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Acoustic\)](https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf) | 2:43 | 2024-02-15 |  |
+| [Bitter Sweet Love \- Acoustic](https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Acoustic\)](https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf) | 2:43 | 2024-02-15 | 2025-02-14 |
 | [Black Friday \(Mahogany Session\)](https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday EP](https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n) | 3:44 | 2024-01-11 |  |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-12-21 | 2024-03-22 |
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
@@ -131,6 +131,7 @@
 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 2](https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV) | 2:56 | 2023-04-27 |  |
 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 2:56 | 2023-09-26 | 2024-04-19 |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Acoustic Version\]](https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea) | 2:18 | 2023-06-02 |  |
+| [Told You So \- Acoustic Version](https://open.spotify.com/track/1TCDKv958rQjjORQaEPsLE) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So \(Acoustic Version\)](https://open.spotify.com/album/3ROJjwTulQSpaUtgXgpKAu) | 3:19 | 2025-02-13 |  |
 | [Too Sweet](https://open.spotify.com/track/5oCyK3vuoQWzczWNwabnL9) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Too Sweet](https://open.spotify.com/album/7gK9u2KYK8wU6q1o4Mmbiz) | 3:18 | 2024-10-10 |  |
 | [Training Season \- Acoustic Version](https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season \(Acoustic Version\)](https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy) | 3:56 | 2024-03-22 |  |
 | [Trying \- Live Version](https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Trying \(Live Version\)](https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ) | 2:06 | 2023-12-22 | 2024-04-13 |

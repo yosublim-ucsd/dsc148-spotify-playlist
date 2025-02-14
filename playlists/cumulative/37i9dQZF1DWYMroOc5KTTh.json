@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "album": {
         "name": "All I Need (DJ-Kicks)",
         "url": "https://open.spotify.com/album/538fzgi7SpX9LWVFwR0bIw"
       },
@@ -2781,6 +2803,28 @@
     },
     {
       "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "album": {
         "name": "Eastern Lights",
         "url": "https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z"
       },
@@ -4365,6 +4409,28 @@
     },
     {
       "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/07IMjVMFGHCueLR3vLrj3v"
       },
@@ -5270,7 +5336,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212926,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ"
@@ -6840,7 +6906,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185806,
       "name": "Most Perfect People (Are Mostly Not Perfect)",
       "url": "https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS"
@@ -8602,7 +8668,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
@@ -8624,6 +8690,24 @@
       "duration_ms": 239677,
       "name": "Second Story Sunlight",
       "url": "https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7"
+    },
+    {
+      "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo"
     },
     {
       "album": {
@@ -10456,7 +10540,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 206637,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5lBKGuWoDoNXd0r4sICyK2"

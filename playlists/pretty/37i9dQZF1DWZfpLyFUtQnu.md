@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,643 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,678 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 67 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 68 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
 | 69 | [Lettre à France](https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Lettre à France](https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1) | 4:09 |
-| 70 | [Le grand secret \(feat\. Melissa Auf der Maur\) \- Les pianos voix](https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 4:54 |
-| 71 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
+| 70 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
+| 71 | [Le grand secret \(feat\. Melissa Auf der Maur\) \- Les pianos voix](https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 4:54 |
 | 72 | [Paris\-Seychelles \- Piano\-Voix](https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Piano SØLO](https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0) | 3:45 |
 | 73 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 74 | [À toutes les filles](https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq), [Félix Gray](https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h) | [Best of](https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq) | 4:14 |

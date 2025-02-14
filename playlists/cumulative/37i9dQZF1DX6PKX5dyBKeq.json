@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Strandz, Giggs",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AJ Tracey, Jorja Smith",
   "name": "Rap UK",
   "tracks": [
     {
@@ -9074,7 +9074,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 142500,
       "name": "Crash (Freestyle)",
       "url": "https://open.spotify.com/track/4mHUpUh5VJvXE7pvdunYK7"
@@ -9352,6 +9352,28 @@
       "duration_ms": 331960,
       "name": "Crud (feat. Giggs)",
       "url": "https://open.spotify.com/track/4ztSuhQnS4j1vFjYRg4Wsc"
+    },
+    {
+      "album": {
+        "name": "Crush (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198082,
+      "name": "Crush (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
     },
     {
       "album": {
@@ -14746,7 +14768,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178723,
       "name": "FWG",
       "url": "https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq"
@@ -14968,7 +14990,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 180880,
       "name": "Gang Ties (feat. Headie One)",
       "url": "https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6"
@@ -24116,7 +24138,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -29823,6 +29845,24 @@
     },
     {
       "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/0L7In9fq89vg4d2zgmlw1T"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "PRIVATE",
+      "url": "https://open.spotify.com/track/3uP3KM5JOHHbuKobHdrfc3"
+    },
+    {
+      "album": {
         "name": "Private Snap",
         "url": "https://open.spotify.com/album/1cGcu9GEGY7NIvrmoPk0dw"
       },
@@ -30406,7 +30446,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 163935,
       "name": "Rap Game",
       "url": "https://open.spotify.com/track/7MtWFi9UcmQQw4cFw1DEWt"
@@ -31098,6 +31138,24 @@
       "duration_ms": 182535,
       "name": "Rich Porter",
       "url": "https://open.spotify.com/track/3oior4LrbCiJCYdaUKhhxS"
+    },
+    {
+      "album": {
+        "name": "U2OPIA",
+        "url": "https://open.spotify.com/album/0t7d0JPnLZURcsgLMNub8h"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167974,
+      "name": "Ricky O",
+      "url": "https://open.spotify.com/track/6CQudGojPyFpt162AOAFCL"
     },
     {
       "album": {
@@ -39119,6 +39177,28 @@
     },
     {
       "album": {
+        "name": "Valentine's Type Beat",
+        "url": "https://open.spotify.com/album/0q7y4vzIgpcs4OCYgAO7iU"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        },
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Valentine's Type Beat",
+      "url": "https://open.spotify.com/track/0OlvM8bkqZF92sONe21Jgx"
+    },
+    {
+      "album": {
         "name": "Variation",
         "url": "https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM"
       },
@@ -40302,6 +40382,24 @@
       "duration_ms": 202594,
       "name": "What If?",
       "url": "https://open.spotify.com/track/2mdszIpAeBCmV0EkufJPrs"
+    },
+    {
+      "album": {
+        "name": "What Would You Do",
+        "url": "https://open.spotify.com/album/6WWWIKrVpsukF5I3GcG1uL"
+      },
+      "artists": [
+        {
+          "name": "PS Hitsquad",
+          "url": "https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191392,
+      "name": "What Would You Do",
+      "url": "https://open.spotify.com/track/3vSgVhz7cIV3nVOqF7o4bo"
     },
     {
       "album": {

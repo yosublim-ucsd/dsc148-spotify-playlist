@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,685 likes - 252 songs - 13 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,698 likes - 252 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 110 | [Hold Your Breath](https://open.spotify.com/track/5TjIKrYdohr8zhuAfMTJQe) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [Alibis](https://open.spotify.com/album/6zg96nG3IkxuaWccsm9QhD) | 3:04 |
 | 111 | [All the Dark Places](https://open.spotify.com/track/5avlhf99p9Jai2wMR4rIj0) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [The World Is Waiting](https://open.spotify.com/album/4Kxer3tBL7kQDiftPEO3Wv) | 4:22 |
 | 112 | [Down the Rabbit Hole](https://open.spotify.com/track/2UxoWLVSw46ddVml1BXmiY) | [Kendra Dantes](https://open.spotify.com/artist/3C7JJ90PAHRxdcPwRFcgg6), [Mystic Femmes](https://open.spotify.com/artist/4gzg9aB2AOsWu5UbR0VnFn) | [Down the Rabbit Hole](https://open.spotify.com/album/4pQBz7m59p4antqQoP8IRE) | 2:08 |
-| 113 | [Last Goodbye](https://open.spotify.com/track/09P4P7813Fhu8ESkBWAsXs) | [Angel Baribeau](https://open.spotify.com/artist/0FPslk0bbQhxrwwzf9hOq4) | [For Those I Love\(d\)](https://open.spotify.com/album/5mDbhZk5UIRVZiSALezzB7) | 3:40 |
+| 113 | [Last Goodbye](https://open.spotify.com/track/09P4P7813Fhu8ESkBWAsXs) | [Angel Baribeau](https://open.spotify.com/artist/0FPslk0bbQhxrwwzf9hOq4), [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi) | [For Those I Love\(d\)](https://open.spotify.com/album/5mDbhZk5UIRVZiSALezzB7) | 3:40 |
 | 114 | [Ride of the Valkyries \(Epic Trailer Version\)](https://open.spotify.com/track/0p7UMUiZwcXt67z7VnTowS) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J) | [Revivals](https://open.spotify.com/album/2rvirCzv2crkdk3ix71vGB) | 3:07 |
 | 115 | [You've Got the Love](https://open.spotify.com/track/5RprkafNSbbnj1npwLKBuo) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [You've Got The Love](https://open.spotify.com/album/4GxF4FO5HcCxOmTXdGUREH) | 2:36 |
 | 116 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |

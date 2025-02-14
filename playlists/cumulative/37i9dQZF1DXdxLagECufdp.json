@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 239306,
       "name": "Gopher",
       "url": "https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD"
@@ -1704,6 +1704,24 @@
       "duration_ms": 367739,
       "name": "Lady Plastica",
       "url": "https://open.spotify.com/track/0cUTpXY9vvJUCDepHd2qbr"
+    },
+    {
+      "album": {
+        "name": "Infame Golpazo En Keroxen",
+        "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322249,
+      "name": "Lambada de Oceania, Africa y America (eran un solo continente)",
+      "url": "https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh"
     },
     {
       "album": {

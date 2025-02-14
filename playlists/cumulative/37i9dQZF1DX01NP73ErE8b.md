@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Elisa in cover
+> I brani italiani che abbiamo on repeat! 🔁 Rose Villain in cover
 
 197 songs - 10 hr 19 min
 

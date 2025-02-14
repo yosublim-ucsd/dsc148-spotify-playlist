@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 295013,
+  "num_followers": 295108,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Una L\u00e1grima No Basta",
         "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 246453,
       "name": "S\u00e9 Que Te Amo",
       "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Sex Symbol",
         "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 267333,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -1039,38 +1039,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
-        "name": "Enamorado De Un Fantasma",
-        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Enamorado De Un Fantasma",
-      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Vanidosa",
         "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
@@ -1083,6 +1051,22 @@
       "duration_ms": 254440,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
+        "name": "Enamorado De Un Fantasma",
+        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Enamorado De Un Fantasma",
+      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
         "name": "Vivencias",
         "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 236533,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Con El Coraz\u00f3n En La Mano",
-      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
-    },
-    {
-      "added_at": "2024-11-06 23:15:54",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 187000,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+    },
+    {
+      "added_at": "2024-11-06 23:15:54",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Con El Coraz\u00f3n En La Mano",
+      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l"
+      "duration_ms": 183266,
+      "name": "El primer tonto",
+      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
     },
     {
       "added_at": "2024-11-06 23:15:54",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-11-06 23:15:54",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
       "artists": [
         {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 183266,
-      "name": "El primer tonto",
-      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
+      "duration_ms": 171013,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l"
     },
     {
       "added_at": "2024-11-06 23:15:54",

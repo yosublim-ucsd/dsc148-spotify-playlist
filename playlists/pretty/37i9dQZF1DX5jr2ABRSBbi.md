@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Sara Rikas
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,763 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 36 | [TO JE MOJE HOLKA](https://open.spotify.com/track/79wWh4zRV8ZdyJZILxDho5) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [TO JE MOJE HOLKA](https://open.spotify.com/album/4V74kQIME2zLedpYmVT2t0) | 3:05 |
 | 37 | [flowers on my eyes](https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [flowers on my eyes](https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt) | 2:28 |
 | 38 | [Safír](https://open.spotify.com/track/4tkapxGz4owJ8rxaNqIvRm) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Safír](https://open.spotify.com/album/01tIN3zqnvkEGl4tdn0cfL) | 1:56 |
-| 39 | [prvotriedna dráma](https://open.spotify.com/track/3V4qnjY8k0bWxwEemj21MG) | [Call Dominika](https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [prvotriedna dráma](https://open.spotify.com/album/5srozwi4e9VS5gpb0E7CP6) | 2:43 |
+| 39 | [prvotriedna dráma](https://open.spotify.com/track/3V4qnjY8k0bWxwEemj21MG) | [Call Dominika](https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [prvotriedna dráma](https://open.spotify.com/album/5srozwi4e9VS5gpb0E7CP6) | 2:43 |
 | 40 | [Rande](https://open.spotify.com/track/5QpohjX9IC4Mbxpdbv0WYZ) | [Emma Drobna](https://open.spotify.com/artist/08vJe8xHzqcXV9xRuvcxEh), [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl) | [Rande](https://open.spotify.com/album/6VjLmjOg3UwbYX4d7n8TBw) | 2:51 |
 | 41 | [Moravo](https://open.spotify.com/track/2FGYOoEH3Xb4fYKynsEzWP) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6), [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl) | [Moravo](https://open.spotify.com/album/1irb82GmiKhbOJAWBCKy5i) | 2:32 |
 | 42 | [Ta třetí](https://open.spotify.com/track/4heqA9uJGPBQsfpCMHaVue) | [Kateřina Marie Tichá](https://open.spotify.com/artist/0WGRcXFn2jyD7Jq6wIHv6O), [Bandjeez](https://open.spotify.com/artist/4h6oUuYebAvVFnivWb92jt) | [Plamen](https://open.spotify.com/album/5UVpyYtfiltAtklCG18lto) | 2:48 |

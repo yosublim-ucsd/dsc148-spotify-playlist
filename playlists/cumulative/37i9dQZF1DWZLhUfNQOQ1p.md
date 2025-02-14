@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-413 songs - 1 day 3 hr 49 min
+414 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [I Go \- Edit](https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 3:44 | 2023-11-24 | 2024-04-19 |
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |
 | [I Love Video](https://open.spotify.com/track/7yKGeGDjtxmfp4jlMvPUyE) | [New Paradise](https://open.spotify.com/artist/7ybbaTETR9aq05M6ud64ru) | [I Love Video](https://open.spotify.com/album/4vFB185QRgDTR4R6vY6Xms) | 4:01 | 2023-05-14 | 2023-05-30 |
+| [I Love You So](https://open.spotify.com/track/0KccdiO0wxpMJZ4HCUtxZj) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [I Love You So](https://open.spotify.com/album/5ppJ5NeRaob9D7sMe8MmZh) | 3:46 | 2025-02-14 |  |
 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 | 2021-08-05 | 2023-03-07 |
 | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 | 2023-06-09 | 2024-05-09 |
 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 | 2024-05-19 | 2024-06-03 |
@@ -358,7 +359,7 @@
 | [That's the Way \(I Like It\)](https://open.spotify.com/track/7s3FSodLpnKMzeMj17G5d0) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [The TK Years](https://open.spotify.com/album/770HywB2djZP5QEel6as2l) | 5:06 | 2024-05-19 | 2024-06-03 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-08-11 |  |
 | [The Blaze](https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [The Blaze](https://open.spotify.com/album/0PIVIlqxF8ktvD54vVL4T4) | 3:31 | 2021-08-05 | 2022-07-27 |
-| [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Chloe Paige](https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq) | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV) | 3:54 | 2024-07-01 |  |
+| [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Chloe Paige](https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq) | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV) | 3:54 | 2024-07-01 | 2025-02-14 |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2023-05-30 |  |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2021-08-05 | 2023-05-31 |
 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 | 2021-08-05 | 2023-05-31 |

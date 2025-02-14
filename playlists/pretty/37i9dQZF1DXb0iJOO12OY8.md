@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🪩🪩🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,293 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,288 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 19 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 |
 | 20 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
 | 21 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
-| 22 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 23 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 |
+| 22 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 |
+| 23 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
 | 24 | [Sees Igjen](https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Sees Igjen](https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s) | 2:43 |
 | 25 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 |
 | 26 | [Låt Mig Va](https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Låt Mig Va](https://open.spotify.com/album/678gU1iWVNcgTstct030O3) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 49 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
 | 50 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 |
 
-Snapshot ID: `Z6U/FwAAAABoX0OW4gZ9C1T2srjS8g0y`
+Snapshot ID: `Z655hQAAAAD/DRxXvE+h/qWIqrEAWEmT`

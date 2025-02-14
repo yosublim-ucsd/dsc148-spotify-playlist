@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt?si=r\_g1xn5CQQqWlLHPTMc72Q">  حكيم </a>
 
-284 songs - 20 hr 38 min
+285 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Ka3by 3aly](https://open.spotify.com/track/5tTt5pPpFdOpD5Gt7NoeXq) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ka3by 3aly](https://open.spotify.com/album/7CYpwnb7rCR0f7qFug771Y) | 3:25 | 2023-06-15 | 2024-04-12 |
 | [Kan Men Nesak](https://open.spotify.com/track/4SHJ4l3zvzk6dVq4KumFuI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Mahmoud Ellithy's Songs](https://open.spotify.com/album/4pCg7FV1hI503OwG7YSMyK) | 4:57 | 2021-12-16 | 2022-07-28 |
 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 | 2021-12-16 |  |
+| [Khat Ahmer](https://open.spotify.com/track/0yKWnmxtLzjBDMnCRaMbFg) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Khat Ahmer](https://open.spotify.com/album/593tL5YfuCdOECk5Z6fuus) | 4:16 | 2025-02-14 |  |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-16 |  |
 | [Kolak Agebny](https://open.spotify.com/track/1mBQMkL8NOQ0akkTr8kqba) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Kolak Agebny](https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm) | 6:24 | 2021-12-16 | 2022-12-21 |
 | [Kollo Shmal](https://open.spotify.com/track/0Y1xET6NicWkYTnrKtFv4v) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Wagih Elaspany](https://open.spotify.com/artist/0AJIecs3dW9ALRevRVAPfs) | [Kollo Shmal](https://open.spotify.com/album/72OIxMzGUrFbsxzhC655QW) | 3:51 | 2021-12-16 | 2022-07-27 |
@@ -274,7 +275,7 @@
 | [مبحبش الكراسى](https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [اللى خايف يروح](https://open.spotify.com/album/0fxmcv1YPIu1smUGbjfvhT) | 6:09 | 2021-12-16 | 2024-10-11 |
 | [مدلعة](https://open.spotify.com/track/12JYrfMtRussFNacCUlqRZ) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [مدلعة](https://open.spotify.com/album/0pIkS094WHvil5JytPYMj4) | 3:33 | 2023-07-20 | 2023-08-31 |
 | [مسولي وصبحوا](https://open.spotify.com/track/1R9jVRREumTrJus79J5F5R) | [بوسي](https://open.spotify.com/artist/7a0K56MtFI8OmIuA9H7bl8) | [مسولي وصبحوا](https://open.spotify.com/album/6vXr6k59sVFvyuP23CxJmo) | 2:57 | 2023-06-25 | 2023-06-27 |
-| [موال أبني](https://open.spotify.com/track/5yq1ZsPm7pw4TCusBYd7XA) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال أبني](https://open.spotify.com/album/0xFuTSpYxHqMqd2jooATdv) | 2:30 | 2024-02-23 |  |
+| [موال أبني](https://open.spotify.com/track/5yq1ZsPm7pw4TCusBYd7XA) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال أبني](https://open.spotify.com/album/0xFuTSpYxHqMqd2jooATdv) | 2:30 | 2024-02-23 | 2025-02-14 |
 | [موال اللعب ع الربحانة](https://open.spotify.com/track/0xemm03Jrv9XSaXYXXmQkL) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال اللعب ع الربحانة](https://open.spotify.com/album/28o0k3m9vM68Z9F8gDfEME) | 2:46 | 2023-07-13 | 2023-07-19 |
 | [موجوع يا إبن أدم](https://open.spotify.com/track/0kBOQbO01NPFdC703cJHkO) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [موجوع يا إبن أدم](https://open.spotify.com/album/7fCBKICFGpNCWRcSo5MhgO) | 8:56 | 2023-11-15 | 2024-03-29 |
 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 | 2023-01-03 |  |

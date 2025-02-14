@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mazaka",
-  "num_followers": 148230,
+  "num_followers": 148285,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6x65gAAAAB+rN1zHxF/Bxswsm7Y7TD9",
+  "snapshot_id": "Z64X6AAAAACVhWdAIqCZ7fSPJAh2z4Uc",
   "tracks": [
     {
       "added_at": "2025-02-10 11:48:01",
@@ -159,6 +159,30 @@
       "duration_ms": 220632,
       "name": "Kalisayi Ningi Nela (From \"Ala Chere Sita Raamuni Chentaku\")",
       "url": "https://open.spotify.com/track/5HEpRizEw4O9hJUuiVztnr"
+    },
+    {
+      "added_at": "2025-02-13 16:03:52",
+      "album": {
+        "name": "Nilavadee Nilavadee (From \"Its Ok Guru\")",
+        "url": "https://open.spotify.com/album/1eaC4Tv1lH1xmv1tOckAzW"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Menon",
+          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
+        },
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        },
+        {
+          "name": "Mohith Rahmaniac",
+          "url": "https://open.spotify.com/artist/4cXjsTevQ1rZrqJv6sIp2c"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Nilavadee Nilavadee - From \"Its Ok Guru\"",
+      "url": "https://open.spotify.com/track/3u5J2civxH33ljOlPzWHrT"
     },
     {
       "added_at": "2025-01-31 10:08:27",
@@ -1047,34 +1071,6 @@
       "duration_ms": 241071,
       "name": "Teliyadhe",
       "url": "https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W"
-    },
-    {
-      "added_at": "2023-12-28 06:07:35",
-      "album": {
-        "name": "Gallanthe (From \"Eagle\")",
-        "url": "https://open.spotify.com/album/1k0tFggyuWZwCMW51X6TCP"
-      },
-      "artists": [
-        {
-          "name": "Davzand",
-          "url": "https://open.spotify.com/artist/3SWOUbJG2wbgiEagRRrwS8"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Lynn",
-          "url": "https://open.spotify.com/artist/4A9bPmU7aVNk37wwNmMmtu"
-        }
-      ],
-      "duration_ms": 217381,
-      "name": "Gallanthe (From \"Eagle\")",
-      "url": "https://open.spotify.com/track/7vfbmFFmduAa4f76UxmuVx"
     },
     {
       "added_at": "2024-02-09 12:02:40",

@@ -1,13 +1,65 @@
 {
   "description": "Death is just the beginning. Listen to the music from School Spirits, new season now streaming on Paramount+. ",
-  "num_followers": 9034,
+  "num_followers": 9158,
   "original_name": "School Spirits Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6RsGgAAAABhlpOk+0jlDnKQ2ch6K5Qk",
+  "snapshot_id": "Z62mjQAAAADo9tRBH4XEeoWcV+rvF3m1",
   "tracks": [
+    {
+      "added_at": "2025-02-13 08:00:13",
+      "album": {
+        "name": "Hello Heartbreak",
+        "url": "https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV"
+      },
+      "artists": [
+        {
+          "name": "Al Hazan",
+          "url": "https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j"
+        },
+        {
+          "name": "Sylvia Terry",
+          "url": "https://open.spotify.com/artist/2UKiR14OjC3o0aTOBcAQFC"
+        }
+      ],
+      "duration_ms": 150009,
+      "name": "Hello Heartbreak",
+      "url": "https://open.spotify.com/track/3AuOLgPgdwBzhc7ZMTtNqX"
+    },
+    {
+      "added_at": "2025-02-13 08:00:13",
+      "album": {
+        "name": "Forever and More",
+        "url": "https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Forever and More",
+      "url": "https://open.spotify.com/track/1xhkbc481N3PiE28jj4pmN"
+    },
+    {
+      "added_at": "2025-02-13 08:00:13",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/5gKdBfG9oX5P3bojQW4S8S"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/49n5v4l1sLEVjvvjdYgoTJ"
+    },
     {
       "added_at": "2025-02-06 08:00:26",
       "album": {

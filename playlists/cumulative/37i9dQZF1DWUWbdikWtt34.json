@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Wandra Restusiyan",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -3472,6 +3472,24 @@
       "duration_ms": 250639,
       "name": "Sinar Pelangi",
       "url": "https://open.spotify.com/track/668dgOwLrtua1DLaITJsYb"
+    },
+    {
+      "album": {
+        "name": "Sing Tego",
+        "url": "https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267670,
+      "name": "Sing Tego",
+      "url": "https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,473 likes - 120 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,578 likes - 120 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 30 | [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 |
 | 31 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 |
 | 32 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
-| 33 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 |
-| 34 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
+| 33 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
+| 34 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 |
 | 35 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
 | 36 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
 | 37 | [The Beauty of Suffering](https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:37 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 70 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
 | 71 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
 | 72 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
-| 73 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
-| 74 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
-| 75 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
+| 73 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
+| 74 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
+| 75 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
 | 76 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 |
 | 77 | [Fuck the Rules](https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 1:19 |
 | 78 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 106 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
 | 107 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
 | 108 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
-| 109 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
-| 110 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
+| 109 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
+| 110 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
 | 111 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 |
 | 112 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 113 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |

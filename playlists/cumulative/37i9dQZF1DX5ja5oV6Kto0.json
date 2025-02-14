@@ -1101,6 +1101,28 @@
     },
     {
       "album": {
+        "name": "Attente Instable (feat. ALL MY COUSINS)",
+        "url": "https://open.spotify.com/album/7mTHaWSQ8B449zo5ORANUW"
+      },
+      "artists": [
+        {
+          "name": "Mangabey",
+          "url": "https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD"
+        },
+        {
+          "name": "ALL MY COUSINS",
+          "url": "https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339564,
+      "name": "Attente Instable (feat. ALL MY COUSINS)",
+      "url": "https://open.spotify.com/track/7fLBVRu5GFS1QcodNGvPGW"
+    },
+    {
+      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186857,
       "name": "CURIOUS CAESAR",
       "url": "https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M"
@@ -4759,6 +4781,32 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/60OPQRWInY5VulEy78o3rk"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "Gafacci",
+          "url": "https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T"
+    },
+    {
+      "album": {
         "name": "Opus 1",
         "url": "https://open.spotify.com/album/5vcJmN5GCsyIsJ5dlRBO5a"
       },
@@ -5276,7 +5324,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 214588,
       "name": "For You",
       "url": "https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7"
@@ -6371,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Horniwell",
+        "url": "https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Horniwell",
+      "url": "https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h"
+    },
+    {
+      "album": {
         "name": "A Riverays Two-Pack",
         "url": "https://open.spotify.com/album/5efFYlnHceJBoYW0g67qxH"
       },
@@ -7112,6 +7178,36 @@
       "duration_ms": 168018,
       "name": "INTERMISSION",
       "url": "https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ"
+    },
+    {
+      "album": {
+        "name": "iron sight (feat. Iver Rivers)",
+        "url": "https://open.spotify.com/album/6JA4FCXa1w3ouNcEyiun8B"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "iron sight (feat. Iver Rivers)",
+      "url": "https://open.spotify.com/track/324Buozu5QYGGRkzqNbdc9"
     },
     {
       "album": {
@@ -8176,6 +8272,24 @@
       "duration_ms": 140067,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113188,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4"
     },
     {
       "album": {
@@ -10296,7 +10410,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 133608,
       "name": "NYKES",
       "url": "https://open.spotify.com/track/6M9YoFbBe7xDKOSWByjHrh"
@@ -11162,7 +11276,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 132134,
       "name": "Pick a Date (J33J3)",
       "url": "https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd"
@@ -11434,7 +11548,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155368,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK"

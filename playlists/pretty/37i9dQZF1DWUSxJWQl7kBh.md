@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Motivación, fe y esperanza para quienes tienen ganas de salir adelante\. Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,970 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,205 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

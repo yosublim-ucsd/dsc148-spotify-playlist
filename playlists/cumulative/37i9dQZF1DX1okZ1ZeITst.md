@@ -4,7 +4,7 @@
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.
 
-158 songs - 8 hr 5 min
+159 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 | 2024-01-08 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2024-10-10 |  |
 | [Wouldn't Change a Thing](https://open.spotify.com/track/6YsdIyHvzRIqecxpdtoiLp) | [Saylor Bell](https://open.spotify.com/artist/5PixoCQS6eKSwUEBPN413C), [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY), [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Joe Serafini](https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 7\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/5O2Cn8alyU7Bm0ZblEJmve) | 2:52 | 2024-01-08 |  |
+| [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 | 2025-02-14 |  |
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2024-01-08 |  |
 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:44 | 2025-01-10 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 | 2024-01-08 |  |

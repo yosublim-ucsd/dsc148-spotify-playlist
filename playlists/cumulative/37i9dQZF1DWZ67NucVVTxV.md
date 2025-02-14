@@ -4,7 +4,7 @@
 
 > Money on my Mind\. Mind on my money.
 
-651 songs - 1 day 7 hr 17 min
+653 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [OOSHATIDE](https://open.spotify.com/track/7oPLuA6UwAK03WyehFQwxc) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OOSHATIDE](https://open.spotify.com/album/5TTZ4igqHmDM6CORsB3b4e) | 2:54 | 2023-09-09 | 2023-09-22 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 | 2023-08-04 |
 | [original](https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [original](https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh) | 2:52 | 2025-01-31 |  |
+| [Orin Halle](https://open.spotify.com/track/4aBZUK1sPmF8fNwvTyN6HI) | [Olabode VG](https://open.spotify.com/artist/6b85CUMqOFPXEr8Ng5w5cD) | [Orin Halle](https://open.spotify.com/album/1ctI5zAETxRzwgjN851fYd) | 2:51 | 2025-02-14 |  |
 | [Oro Aje 2](https://open.spotify.com/track/7EOmj8A1Hfg26dUVE5isPc) | [Oritse Femi](https://open.spotify.com/artist/01ukVEa5Q8UkHjqgiFZsIW), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Oro Aje 2](https://open.spotify.com/album/5Z6lUHzNnX21K3t2ZSz00k) | 3:48 | 2022-08-12 | 2022-09-10 |
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-16 |  |
 | [Oshaprapra](https://open.spotify.com/track/3bXRzbErrzDdcMCWX3139p) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:09 | 2024-06-21 |  |
@@ -654,6 +655,7 @@
 | [Yaya Toure](https://open.spotify.com/track/5FuI6UM6CTxzaN0P0wbZ0i) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:39 | 2023-11-17 | 2023-12-08 |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-05-05 |
 | [YENTE](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [YENTE](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 | 2025-01-17 | 2025-01-22 |
+| [Yo My Gee](https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Yo My Gee](https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3) | 2:34 | 2025-02-14 |  |
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-08-18 |
 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 | 2023-03-24 | 2024-04-05 |
 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-13 | 2024-09-28 |

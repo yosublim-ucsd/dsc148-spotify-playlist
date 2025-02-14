@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 |  |
+| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 | 2025-02-14 |
 | [A3zam Ayam](https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q) | [Akram Adel](https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia) | [A3zam Ayam](https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V) | 2:03 | 2024-03-12 | 2024-04-21 |
 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 | 2024-03-12 |  |
 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 | 2024-03-12 |  |
@@ -26,7 +26,7 @@
 | [Hal We Hal](https://open.spotify.com/track/2CcB6H5atqWTY56s2TALWK) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 3:52 | 2025-01-28 | 2025-02-07 |
 | [Hato Al Foanis](https://open.spotify.com/track/1rKTvYQgVkbhncmUC0AkA3) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Hato Al Foanis](https://open.spotify.com/album/2yW5HJqLQQJtV7Q8p8MGte) | 5:44 | 2024-03-12 |  |
 | [Helal Ramadan](https://open.spotify.com/track/28cqWwnDSwU33ABsQfRECV) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Ella Rasoul Allah](https://open.spotify.com/album/1U4woXAO88TTZKflbtfCtP) | 2:28 | 2024-03-12 |  |
-| [Lak Shoe Ya Ramadan](https://open.spotify.com/track/41dQhPE2feBfpOI6wOzymF) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [Ramadan Kareem \(Islamic Chants\)](https://open.spotify.com/album/1daQg1TlGm0AMTSc4GC17c) | 1:15 | 2024-03-12 | 2025-02-13 |
+| [Lak Shoe Ya Ramadan](https://open.spotify.com/track/41dQhPE2feBfpOI6wOzymF) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [Ramadan Kareem \(Islamic Chants\)](https://open.spotify.com/album/1daQg1TlGm0AMTSc4GC17c) | 1:15 | 2024-03-12 |  |
 | [Loyalty](https://open.spotify.com/track/4osxbPfS8JPsD0AyXfx6hM) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 2](https://open.spotify.com/album/0DciSunEMGaYZn8rxY1o84) | 3:36 | 2024-03-12 |  |
 | [Madfaa Ramdan](https://open.spotify.com/track/20LYtI1r0wElZ99pepNMHy) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Madfaa Ramdan](https://open.spotify.com/album/48lCWTSNxi1v4Pz6Z0kDE3) | 1:40 | 2025-01-28 |  |
 | [Marhab Ramadan](https://open.spotify.com/track/4xsEFXIGJN0dB5KWkkXKBP) | [Mahmoud Helal](https://open.spotify.com/artist/1tYUfln3Asufbuh3dCrIDE) | [Marhab Ramadan](https://open.spotify.com/album/347O47ySXVIo6F60UHxmkO) | 3:25 | 2024-03-12 |  |

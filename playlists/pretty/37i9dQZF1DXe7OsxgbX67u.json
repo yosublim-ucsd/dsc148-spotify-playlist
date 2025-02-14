@@ -1,13 +1,29 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 58125,
+  "num_followers": 58682,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6UYkgAAAADSW/rIHDCSANx5PGb8M3dN",
+  "snapshot_id": "Z62mjgAAAACfb8jpX84VZwbh9QaWvZaT",
   "tracks": [
+    {
+      "added_at": "2025-02-13 08:00:13",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
+    },
     {
       "added_at": "2025-02-06 08:00:26",
       "album": {

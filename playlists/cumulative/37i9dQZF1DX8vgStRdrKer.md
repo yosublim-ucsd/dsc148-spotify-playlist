@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5?si=YqWDvSv9SaOShpozF\-Ss8w>Ealle</a>
 
-256 songs - 20 hr 38 min
+257 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2024-11-09 |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 | 2025-02-05 |
 | [Higher](https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Higher](https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc) | 2:38 | 2024-06-14 | 2024-07-21 |
-| [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 |  |
+| [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 | 2025-02-14 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-07-16 |
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
@@ -170,6 +170,7 @@
 | [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 | 2024-07-20 |
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-09-15 | 2024-03-06 |
 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 | 2024-01-26 | 2024-03-22 |
+| [Not Over II](https://open.spotify.com/track/0HkPEVlVOWZCMRUGwoHPQe) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Not Over II](https://open.spotify.com/album/4lO7pgCaq2zYNgXNwS4Scz) | 2:47 | 2025-02-14 |  |
 | [Nothing But The Blood \- Live](https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Nothing But The Blood \(Live\)](https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n) | 7:25 | 2024-07-12 | 2024-08-01 |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
 | [Ocean](https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM) | [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Ocean](https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi) | 2:45 | 2024-01-12 | 2024-03-18 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543907,
+  "num_followers": 543903,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "I Want To Disappear",
-        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 130664,
-      "name": "Watch You Go",
-      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -579,8 +579,8 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+        "name": "I Want To Disappear",
+        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+      "duration_ms": 130664,
+      "name": "Watch You Go",
+      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "INTERNATIONALLY UNKNOWN",
+        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "duration_ms": 134941,
+      "name": "I WANNA SKATE",
+      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 205373,
       "name": "Double Cross",
       "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "INTERNATIONALLY UNKNOWN",
-        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
-      },
-      "artists": [
-        {
-          "name": "RAT BOY",
-          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
-        }
-      ],
-      "duration_ms": 134941,
-      "name": "I WANNA SKATE",
-      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187655,
       "name": "Cop Outs and Cover Ups",
       "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "In Spite of Me",
         "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 177280,
       "name": "Self Defeated",
       "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
     }
   ],
   "unique_name": "Punk Rock Workout",

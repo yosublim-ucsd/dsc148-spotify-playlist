@@ -2,16 +2,16 @@
 
 ### [RADAR: Podcasters 2025](https://open.spotify.com/playlist/37i9dQZF1DX7ioqEUKqxAm)
 
-> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: ラジオ知らねえ単語）
+> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: AfterParty）
 
-32 songs - 1 day 0 hr 17 min
+33 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ \#12 タイミングのいい人はモテる](https://open.spotify.com/episode/13NSmHSH1y1yRkcE05Gbkm) | [今ファミレスにいるんだけど隣の席の女子が話してる内容がジワジワきてるんだが共有してもいいですか？](https://open.spotify.com/show/6CJea2W5dcK9xLsjSDrUAi) | [今ファミレスにいるんだけど隣の席の女子が話してる内容がジワジワきてるんだが共有してもいいですか？](https://open.spotify.com/album/6CJea2W5dcK9xLsjSDrUAi) | 17:09 | 2022-06-28 | 2025-01-10 |
 | [\#1 タイトルについて話しませんこと？](https://open.spotify.com/episode/2VO2QW4It5i6eV6mrX27YJ) | [今ファミレスにいるんだけど隣の席の女子が話してる内容がジワジワきてるんだが共有してもいいですか？](https://open.spotify.com/show/6CJea2W5dcK9xLsjSDrUAi) | [今ファミレスにいるんだけど隣の席の女子が話してる内容がジワジワきてるんだが共有してもいいですか？](https://open.spotify.com/album/6CJea2W5dcK9xLsjSDrUAi) | 19:46 | 2022-06-28 | 2025-01-10 |
 | [\#113　立食パーティで生きのびる方法](https://open.spotify.com/episode/2qvO2KGJDfh3dvDGWEzI5k) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 25:03 | 2025-01-14 |  |
-| [\#13 Y2Kに還元できない“2000年代リバイバル”の本質](https://open.spotify.com/episode/7MPTPsOJ7igBknUbQ7rXxN) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 50:54 | 2025-01-09 |  |
+| [\#13 Y2Kに還元できない“2000年代リバイバル”の本質](https://open.spotify.com/episode/7MPTPsOJ7igBknUbQ7rXxN) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 50:54 | 2025-01-09 | 2025-02-14 |
 | [\#1　一億総メンヘラ社会　不登校とTHE FIRST SLAM DUNKの話](https://open.spotify.com/episode/7vnFfAjrH9p6Baibffz27H) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 27:02 | 2025-01-09 |  |
 | [\#22 ハン・ガンのノーベル賞受賞から考える韓国の文化輸出力](https://open.spotify.com/episode/0Zr8EKs4bcxB6sie1HX8Wz) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 39:03 | 2025-01-09 |  |
 | [\#31 AfterPartyのこれから](https://open.spotify.com/episode/1eeBYf5VKzzZObvaQ8ZWfd) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 28:11 | 2025-01-14 |  |
@@ -29,6 +29,7 @@
 | [【Boiler Room Tokyo出演】nasthug日本のDJの立ち位置問題](https://open.spotify.com/episode/2Kzo027SvH2HrxHoTSKQiY) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 1:07:22 | 2025-01-09 |  |
 | [【手がかりは名前と写真のみ】40年前生き別れたアフリカ人の父親を探す旅にでたハーフお笑い芸人ぶらっくさむらい武内剛](https://open.spotify.com/episode/1hNzmeLRsrKTYrXRMZFkkT) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 1:22:35 | 2025-01-09 |  |
 | [【海外で最も有名な日本人】YouTuber TAKASHiifromjapan 外国人から見た日本とは](https://open.spotify.com/episode/0FxB13Vt4cfB3HbMUhr8do) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 1:18:25 | 2025-01-14 |  |
+| [ファッション雑誌の起源とこれから](https://open.spotify.com/episode/66Q7unExVmt3MBDLE9PkbP) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 1:01:06 | 2025-02-13 |  |
 | [プロYouTuberは大変だ！](https://open.spotify.com/episode/4VvlAPPHAe3RDJmXUCzBaW) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/show/24JOT4LUuffRJKqjrVBkim) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/album/24JOT4LUuffRJKqjrVBkim) | 1:32:48 | 2022-06-29 | 2025-01-10 |
 | [大五郎強盗殺人事件。1999年発生。時代劇「子連れ狼」の大五郎役をやっていた元俳優による強盗殺人事件。](https://open.spotify.com/episode/2vFygLXg8AU98HlHOOwbkk) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 9:51 | 2022-06-28 | 2025-01-10 |
 | [安倍元総理銃撃事件。現在までわかっていることと、現場に行って感じたことをお話しています。](https://open.spotify.com/episode/4A3JXe6lOpXYQRB4wwpaAG) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 22:53 | 2022-07-12 | 2025-01-10 |

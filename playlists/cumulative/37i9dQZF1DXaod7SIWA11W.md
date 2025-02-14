@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Terrian
 
-493 songs - 1 day 5 hr 35 min
+494 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 | 2023-07-13 | 2024-08-10 |
 | [My Banner](https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [My Banner](https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w) | 3:20 | 2023-12-15 | 2024-02-03 |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-07-13 | 2024-08-10 |
+| [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-01-31 |  |
 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 | 2022-02-18 | 2022-06-01 |
 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 | 2023-11-02 | 2025-01-11 |
 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 | 2023-07-13 | 2024-07-06 |

@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-423 songs - 22 hr 15 min
+424 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [J\-O\-B](https://open.spotify.com/track/4Y04Y4j9y3urznHQOzMuxk) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [J\-O\-B](https://open.spotify.com/album/2QsCvTev6EAZVuxYA5nfi5) | 2:40 | 2023-08-21 | 2023-08-29 |
 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 | 2023-03-20 | 2023-03-28 |
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
+| [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 | 2025-02-10 |  |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-19 | 2024-02-26 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 | 2024-04-19 |
 | [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 | 2023-06-26 | 2024-04-19 |
@@ -378,7 +379,7 @@
 | [The Beautiful Victorious](https://open.spotify.com/track/0pnyP6O4khd5szq7H4Q2KU) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Beautiful Victorious](https://open.spotify.com/album/0sGGLKhuU52wVqA5oCVp0P) | 3:34 | 2023-01-16 | 2023-01-24 |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-04-24 | 2023-06-03 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-08 | 2022-08-16 |
-| [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2025-01-06 |  |
+| [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2025-01-06 | 2025-02-14 |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-25 | 2022-08-30 |
 | [The In Between](https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/1ICOOpiX4vubSzKvxYzTIp) | 3:13 | 2023-07-17 | 2023-07-25 |
 | [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-13 | 2024-05-20 |

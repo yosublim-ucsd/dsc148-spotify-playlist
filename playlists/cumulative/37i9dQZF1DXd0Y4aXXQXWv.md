@@ -4,7 +4,7 @@
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-121 songs - 7 hr 43 min
+122 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,11 +81,12 @@
 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 | 2023-04-04 |  |
 | [La lettre](https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:17 | 2024-03-05 |  |
 | [La lettre](https://open.spotify.com/track/3GRSNZGISh570blCys6RZb) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Chansons d'amour](https://open.spotify.com/album/1WXVKrBH07tLN8SfRKQVgN) | 3:17 | 2023-04-04 | 2024-03-06 |
+| [La même](https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO) | 3:19 | 2024-10-21 |  |
 | [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 | 2023-04-04 | 2024-03-06 |
 | [La terre est ronde](https://open.spotify.com/track/3IM7zXywZ6sRTtkRjRLxJ8) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le chant des sirènes](https://open.spotify.com/album/5GfsaNstrK8rszTX5XYtXU) | 3:39 | 2023-04-04 | 2025-01-31 |
 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 | 2023-04-04 |  |
 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 | 2023-04-04 | 2024-04-19 |
-| [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 | 2023-04-04 |  |
+| [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 | 2023-04-04 | 2025-02-14 |
 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ca ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 | 2023-04-04 | 2024-03-06 |
 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 | 2023-04-04 | 2024-03-06 |
 | [Le sud](https://open.spotify.com/track/4sWGG5BEy2zYE81rFoHMBo) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/7EXl1EDhQ8z50gJpYfC9jB) | 4:35 | 2023-12-18 | 2024-01-29 |

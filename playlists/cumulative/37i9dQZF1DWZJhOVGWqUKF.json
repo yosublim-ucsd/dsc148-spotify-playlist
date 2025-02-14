@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Shoreline",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: SICK PUPPIES",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 174560,
       "name": "big change",
       "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
@@ -1084,6 +1084,24 @@
       "duration_ms": 176981,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/38Me27A7XJCxgXlpbz2I1D"
+      },
+      "artists": [
+        {
+          "name": "True North",
+          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/491c4JXuPsqo6UQ3RVEATt"
     },
     {
       "album": {
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150000,
       "name": "Claws",
       "url": "https://open.spotify.com/track/5axlcOCLztWsn3ecHGRvWT"
@@ -2387,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "FRIENDS LIKE YOU",
+        "url": "https://open.spotify.com/album/78O3ZT5SZz5NI91sfzr4Wv"
+      },
+      "artists": [
+        {
+          "name": "SICK PUPPIES",
+          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192699,
+      "name": "FRIENDS LIKE YOU",
+      "url": "https://open.spotify.com/track/6zFXGZbRHKk5AXOaqViPvD"
+    },
+    {
+      "album": {
         "name": "FRONTROW",
         "url": "https://open.spotify.com/album/4sRpNarWu6ekrbq3caCbXF"
       },
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210960,
       "name": "FRONTROW",
       "url": "https://open.spotify.com/track/4LnuYEIU1fGiDmkWlhmI1q"
@@ -2510,6 +2546,32 @@
       "duration_ms": 400842,
       "name": "God Gets You Back",
       "url": "https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K"
+    },
+    {
+      "album": {
+        "name": "Gods Of Rock N Roll",
+        "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
+      },
+      "artists": [
+        {
+          "name": "Billy Morrison",
+          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316160,
+      "name": "Gods Of Rock N Roll",
+      "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
     },
     {
       "album": {
@@ -2775,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Heathen",
+        "url": "https://open.spotify.com/album/3FoSgaXrhCv2qNQX9iuOJh"
+      },
+      "artists": [
+        {
+          "name": "Odd Palace",
+          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
+        },
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310352,
+      "name": "Heathen",
+      "url": "https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq"
+    },
+    {
+      "album": {
         "name": "Heavy Is the Crown",
         "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
@@ -3018,7 +3102,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 120558,
       "name": "hug me",
       "url": "https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1"
@@ -4247,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Never Again (Parasite)",
+        "url": "https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Never Again (Parasite)",
+      "url": "https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG"
+    },
+    {
+      "album": {
         "name": "Next Semester",
         "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
       },
@@ -4548,7 +4650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 208054,
       "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
@@ -5574,7 +5676,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 225125,
       "name": "Someone Who Can",
       "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
@@ -5904,7 +6006,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178373,
       "name": "Take the Power",
       "url": "https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier"
@@ -6073,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "ATMOSPHERICS",
+        "url": "https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
+    },
+    {
+      "album": {
         "name": "the garden",
         "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
       },
@@ -6106,7 +6226,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 177960,
       "name": "The Look",
       "url": "https://open.spotify.com/track/5BI0VuWtrzyMQzT9JGj5nF"
@@ -6406,7 +6526,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 278000,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4cLll40w6xr3W4djwEZR2T"
@@ -6756,7 +6876,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"

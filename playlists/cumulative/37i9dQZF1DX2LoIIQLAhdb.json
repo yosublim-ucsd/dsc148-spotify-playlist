@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Sonny Rave x Green Montana",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Monsieur Nov x Lisandro Cuxi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 116192,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/1h8oSqs9EA6U4C86WCEpbg"
@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Focus 2",
+        "url": "https://open.spotify.com/album/4CElgf4krVyvycXY7bRMBL"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DLC",
+      "url": "https://open.spotify.com/track/3EdDMsjMYRWVJ6g0KqprB6"
+    },
+    {
+      "album": {
         "name": "Double Jeu",
         "url": "https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2"
       },
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/2RY6ofeU0uvx7nDkbSpFYF"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176231,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5zBxY9ncDY6Knx2yJA1kaT"
+    },
+    {
+      "album": {
         "name": "Goumin (Acoustique)",
         "url": "https://open.spotify.com/album/5KIdJ7aYvYk0TsxOdBQLcl"
       },
@@ -3478,6 +3514,24 @@
       "duration_ms": 234473,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/3bkUTdeapOIXEELbndezGt"
+    },
+    {
+      "album": {
+        "name": "JORJA",
+        "url": "https://open.spotify.com/album/2KpuLXOk3hhICdr5imWqlh"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "JORJA",
+      "url": "https://open.spotify.com/track/5fvFc65Jscqs3dquwgrndI"
     },
     {
       "album": {
@@ -5376,7 +5430,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160142,
       "name": "Paqueta",
       "url": "https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ"
@@ -5825,6 +5879,28 @@
     },
     {
       "album": {
+        "name": "Poup\u00e9e",
+        "url": "https://open.spotify.com/album/1uvgY1AQ9RyKKJphkvRvIh"
+      },
+      "artists": [
+        {
+          "name": "Kpoint",
+          "url": "https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127062,
+      "name": "Poup\u00e9e",
+      "url": "https://open.spotify.com/track/3p4Vk8jAcSLgA6LauVYbTW"
+    },
+    {
+      "album": {
         "name": "Pour nous",
         "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
       },
@@ -5938,7 +6014,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151428,
       "name": "Prie Pour Moi",
       "url": "https://open.spotify.com/track/24crm1CmCOg633efjOSduY"
@@ -6050,7 +6126,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 248544,
       "name": "P\u014dse\u00efd\u00f8n",
       "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
@@ -6339,6 +6415,28 @@
     },
     {
       "album": {
+        "name": "CUXI BOY",
+        "url": "https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Reviens (feat. Monsieur Nov)",
+      "url": "https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR"
+    },
+    {
+      "album": {
         "name": "Reviens jamais",
         "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
       },
@@ -6571,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "Sans limites",
+        "url": "https://open.spotify.com/album/3d1hq0WwzpXW2GdWIAZqxu"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215581,
+      "name": "Sans limites",
+      "url": "https://open.spotify.com/track/2gkshQ8u25t77sNqlPrOuj"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y"
       },
@@ -6756,7 +6872,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 163560,
       "name": "Shake",
       "url": "https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf"
@@ -7738,7 +7854,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 127843,
       "name": "Vitamine",
       "url": "https://open.spotify.com/track/1p6U4CG4deYuJq9RdVgVm7"

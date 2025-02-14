@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,462 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,482 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 84 | [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 |
 | 85 | [Knknighgh 3](https://open.spotify.com/track/34sjpLJnGPzcCV3QyMlaC2) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Dre Hocevar](https://open.spotify.com/artist/0hC3NhaOJFQbfIMOcciGna), [Brandon Lopez](https://open.spotify.com/artist/6doW8xA7H2Utrsofmg2jNe), [Chris Pitsiokos](https://open.spotify.com/artist/5QHolFgux963cIORgueJxs) | [Knknighgh \(Minimal Poetry for Aram Saroyan\)](https://open.spotify.com/album/2XXg6AelSK0HtagamH1qJM) | 16:19 |
 | 86 | [Everything I Love](https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 4:33 |
-| 87 | [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [peterevans](https://open.spotify.com/artist/1BReGRlKJwzay9hego3nTo) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 |
+| 87 | [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [Peter Evans](https://open.spotify.com/artist/1yw6zotIvbwaj0dar0TlGP) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 |
 | 88 | [Fuchsia Swing Song](https://open.spotify.com/track/1MrNi6XiF5JB3rucU0sDsO) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Fuchsia Swing Song](https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W) | 6:03 |
 | 89 | [Talvez Certamente](https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O) | [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Celio Barros](https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX), [André Mehmari](https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu) | [Agora Aqui](https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y) | 3:32 |
 | 90 | [Chapter VIII](https://open.spotify.com/track/7pQb6gNEWKQTppuWczIDyk) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Chad Fowler](https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj) | [Chapter VIII](https://open.spotify.com/album/6SwxV9Scrfz8AohAZBkMkm) | 7:35 |

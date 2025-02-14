@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-135 songs - 7 hr 37 min
+136 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Debochada](https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:08 | 2023-10-13 | 2023-11-10 |
 | [Debochada](https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 3:08 | 2023-11-03 | 2024-03-09 |
 | [Deixa](https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33) | [Nathi](https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9) | [Deixa](https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI) | 3:24 | 2024-05-24 |  |
+| [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 | 2025-02-14 |  |
 | [DESLIGA O TELEFONE](https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [DEJAVU PRIMAVERA](https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs) | 2:51 | 2023-12-08 | 2024-09-13 |
 | [Dias Bons \(Alright\)](https://open.spotify.com/track/4TKJmXGlHLg1gBAoeYDMth) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 4:11 | 2023-09-15 | 2023-10-30 |
 | [Doce](https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [Doce](https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs) | 3:16 | 2023-09-15 | 2023-11-11 |
@@ -109,7 +110,7 @@
 | [Quebrados](https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p), [MANSUR](https://open.spotify.com/artist/3YNBgvlJB70alobYMUDmmO) | [Escuro Brilhante, Último Dia no Orfanato Tia Guga](https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob) | 3:53 | 2023-12-15 | 2024-03-23 |
 | [Quem diria](https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 2:50 | 2024-05-24 |  |
 | [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 | 2023-10-16 |
-| [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 |  |
+| [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-02-14 |
 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 | 2023-09-15 | 2024-03-30 |
 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 | 2023-11-10 |  |
 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 | 2023-09-15 | 2024-12-07 |

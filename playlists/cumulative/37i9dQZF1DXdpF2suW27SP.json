@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Mizzy Miles entra na zona. ",
+  "description": "For\u00e7a Suprema entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1855,6 +1855,32 @@
     },
     {
       "album": {
+        "name": "Baseado Em Factos Reais",
+        "url": "https://open.spotify.com/album/7Hehgk6FoDSfIo4MolAvZN"
+      },
+      "artists": [
+        {
+          "name": "For\u00e7a Suprema",
+          "url": "https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3"
+        },
+        {
+          "name": "Paulo Flores",
+          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
+        },
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291100,
+      "name": "Bicho Do Mato",
+      "url": "https://open.spotify.com/track/2f1rPbjAIViBd6UQte0PmR"
+    },
+    {
+      "album": {
         "name": "Big Drip",
         "url": "https://open.spotify.com/album/5feT5kvQsu3IU4VzTMyNuN"
       },
@@ -2524,7 +2550,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 131506,
       "name": "Cartaz",
       "url": "https://open.spotify.com/track/0st4BsVfJJPUJOfHPJ6WX8"
@@ -5458,7 +5484,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 170400,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3p5b0fr7ynsuGeE8EJCJk9"
@@ -6164,7 +6190,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 164706,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
@@ -9627,6 +9653,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o D\u00e1 Pa Parar",
+        "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "N\u00e3o D\u00e1 Pa Parar",
+      "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
+    },
+    {
+      "album": {
         "name": "N\u00e3o h\u00e1 imposs\u00edveis",
         "url": "https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI"
       },
@@ -11366,6 +11414,24 @@
       "duration_ms": 176326,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/2HWv8qbMqtymyVqC7zpj4e"
+    },
+    {
+      "album": {
+        "name": "Qualquer",
+        "url": "https://open.spotify.com/album/0YG704KxRvVl6x9m03g8K0"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206490,
+      "name": "Qualquer",
+      "url": "https://open.spotify.com/track/61WHVh0mvtjpMEfuRoUWoE"
     },
     {
       "album": {

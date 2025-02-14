@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,093 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,218 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 26 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
 | 27 | [Definite](https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Definite](https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV) | 2:45 |
 | 28 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 |
-| 29 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
-| 30 | [Ideal](https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Ideal](https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw) | 2:54 |
+| 29 | [Ideal](https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Ideal](https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw) | 2:54 |
+| 30 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
 | 31 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 |
-| 32 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 |
-| 33 | [Lost Moments](https://open.spotify.com/track/6u0xIhfniOuucdEjttcEcC) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Lost Moments](https://open.spotify.com/album/1ygXCa7MfbWY4nJ4c7x6W1) | 2:24 |
+| 32 | [Lost Moments](https://open.spotify.com/track/6u0xIhfniOuucdEjttcEcC) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Lost Moments](https://open.spotify.com/album/1ygXCa7MfbWY4nJ4c7x6W1) | 2:24 |
+| 33 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 |
 | 34 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
 | 35 | [Ulayaw](https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Ulayaw](https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd) | 3:08 |
 | 36 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 39 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
 | 40 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
 | 41 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 |
-| 42 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 |
-| 43 | [hidden in the heather](https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [hidden in the heather](https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ) | 2:15 |
+| 42 | [hidden in the heather](https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [hidden in the heather](https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ) | 2:15 |
+| 43 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 |
 | 44 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
 | 45 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
 | 46 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 55 | [Drifting Together](https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA) | [Jeremy Siegel](https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE), [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Drifting Together](https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu) | 3:13 |
 | 56 | [Prevision](https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Prevision](https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ) | 2:26 |
 | 57 | [Sketches](https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Sketches](https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN) | 2:52 |
-| 58 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 |
+| 58 | [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 |
 | 59 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 |
-| 60 | [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 |
+| 60 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 |
 | 61 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 62 | [Mellow stars](https://open.spotify.com/track/2NNODc7JCLSSdAs4oRpR9b) | [Logan Beaulieu](https://open.spotify.com/artist/2h8ecT4mZyg8QslOPlkGrv) | [Mellow stars](https://open.spotify.com/album/2QZYkWO4SRAM9yfWweZqt8) | 2:40 |
 | 63 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
@@ -96,16 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 86 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 |
 | 87 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 |
 | 88 | [Another World](https://open.spotify.com/track/7zhZAOFf6aErGJTMvIXvfW) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Another World](https://open.spotify.com/album/3NechcpDZ40RPHAwh5MUdb) | 2:51 |
-| 89 | [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 |
-| 90 | [Moment Beyond Time](https://open.spotify.com/track/7HuJuKCIqFkELXzSWlqaXw) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Moment Beyond Time](https://open.spotify.com/album/6ygD85IX4tNe6vjqk3U5Kw) | 2:57 |
-| 91 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 |
-| 92 | [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 |
-| 93 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 89 | [Moment Beyond Time](https://open.spotify.com/track/7HuJuKCIqFkELXzSWlqaXw) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Moment Beyond Time](https://open.spotify.com/album/6ygD85IX4tNe6vjqk3U5Kw) | 2:57 |
+| 90 | [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 |
+| 91 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 92 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 |
+| 93 | [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 |
 | 94 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
 | 95 | [Aragorn](https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Tenebris](https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza) | 3:53 |
 | 96 | [Armonía Serena](https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Armonía Serena](https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD) | 2:38 |
-| 97 | [ethereal tides](https://open.spotify.com/track/2tJonjSMnRd4Y1UKCRGik2) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [ethereal tides](https://open.spotify.com/album/1sJYkODfpAonEcpsADQ9pC) | 2:48 |
-| 98 | [Hope And Glory](https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:24 |
+| 97 | [Hope And Glory](https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:24 |
+| 98 | [ethereal tides](https://open.spotify.com/track/2tJonjSMnRd4Y1UKCRGik2) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [ethereal tides](https://open.spotify.com/album/1sJYkODfpAonEcpsADQ9pC) | 2:48 |
 | 99 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 |
 | 100 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 |
 

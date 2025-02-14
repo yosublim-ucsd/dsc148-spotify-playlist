@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 520088,
+  "num_followers": 520113,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
-        }
-      ],
-      "duration_ms": 477496,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 321420,
       "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
       "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "El Arte Del Bolero",
+        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 477496,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Yesun",
         "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 251445,
       "name": "Kachucha",
       "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Havana Nocturne (Latin Jazz Vocal)",
+        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
+      },
+      "artists": [
+        {
+          "name": "Aym\u00e9e Nuviola",
+          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+        },
+        {
+          "name": "Kemuel Roig",
+          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1175,38 +1195,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
       "artists": [
         {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Havana Nocturne (Latin Jazz Vocal)",
-        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
-      },
-      "artists": [
-        {
-          "name": "Aym\u00e9e Nuviola",
-          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
-        },
-        {
-          "name": "Kemuel Roig",
-          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
       "artists": [
         {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
         }
       ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1271,22 +1271,6 @@
       "duration_ms": 432026,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "The Spanish Heart Band",
+          "url": "https://open.spotify.com/artist/4h3ydh5Bvy2DKRGLE078oq"
+        }
+      ],
+      "duration_ms": 480026,
+      "name": "Armando\u2019s Rhumba",
+      "url": "https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Asi de Simple",
         "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
       },
@@ -1375,22 +1395,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "The Spanish Heart Band",
-          "url": "https://open.spotify.com/artist/4h3ydh5Bvy2DKRGLE078oq"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 480026,
-      "name": "Armando\u2019s Rhumba",
-      "url": "https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq"
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1431,22 +1447,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I'll Call You Later",
-      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 344606,
       "name": "Guarajazz",
       "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I'll Call You Later",
+      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Standards",
-        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 243944,
       "name": "Sombras Del Pasado",
       "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Carib",
+        "url": "https://open.spotify.com/album/3AVGFHZfppICGSb74721jY"
+      },
+      "artists": [
+        {
+          "name": "David S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/753L7PG3yQoWm59XUZ7ruK"
+        }
+      ],
+      "duration_ms": 429373,
+      "name": "Madriga",
+      "url": "https://open.spotify.com/track/4NnJDou9s1CLFmWWYfV3Xn"
     }
   ],
   "unique_name": "Latin Jazz",

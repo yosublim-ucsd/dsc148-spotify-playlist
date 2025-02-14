@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d2\u05f3\u05d9\u05e8\u05e4\u05d5\u05ea ",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc :  \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
@@ -986,6 +986,28 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
+    },
+    {
+      "album": {
+        "name": "Sunflowers",
+        "url": "https://open.spotify.com/album/0BouAkjyz1EW1szwF5yyhB"
+      },
+      "artists": [
+        {
+          "name": "flatmate sessions",
+          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
+        },
+        {
+          "name": "LNDE",
+          "url": "https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234735,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/7Ky2cG8KrGDAANz8gso58t"
     },
     {
       "album": {
@@ -1892,7 +1914,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130502,
       "name": "\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
       "url": "https://open.spotify.com/track/0P5Pr6fLEhBnzeeBiY1eb6"
@@ -2092,6 +2114,24 @@
       "duration_ms": 229362,
       "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05de\u05de\u05d4 - YEMAMA",
+        "url": "https://open.spotify.com/album/6XcWnV58XTEZwFiq3fu4f0"
+      },
+      "artists": [
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190931,
+      "name": "\u05d9\u05de\u05de\u05d4 - YEMAMA",
+      "url": "https://open.spotify.com/track/4r2QnctUkYIHhLLVEmC7RP"
     },
     {
       "album": {
@@ -2439,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
+        "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
+      },
+      "artists": [
+        {
+          "name": "Shuli Rand",
+          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259724,
+      "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
+      "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
         "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
       },
@@ -2508,6 +2566,28 @@
       "duration_ms": 195000,
       "name": "\u05dc\u05d9\u05df",
       "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196262,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
     },
     {
       "album": {
@@ -2602,7 +2682,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 197866,
       "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
@@ -3092,7 +3172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188987,
       "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
       "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"

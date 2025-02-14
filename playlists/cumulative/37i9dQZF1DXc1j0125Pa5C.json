@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "At\u00e9 Encontrar / O Amor \u00c9 Fato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mkWNYlJlpbqC3pOPIHfS6"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Bruno Diegues",
+          "url": "https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225489,
+      "name": "At\u00e9 Encontrar / O Amor \u00c9 Fato - Ao Vivo",
+      "url": "https://open.spotify.com/track/2y5yBVe5IpyO1l3MP46WQi"
+    },
+    {
+      "album": {
         "name": "After do Benza (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG"
       },
@@ -788,6 +810,28 @@
       "duration_ms": 243129,
       "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "album": {
+        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298623,
+      "name": "Cora\u00e7\u00e3o Radiante / Feito a Luz do Alvorecer / Preciso Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fXg9ip7LDwRwtxIk0FbBT"
     },
     {
       "album": {
@@ -2138,7 +2182,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 228700,
       "name": "Meu Querubim / Tu Mandas No Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0kbVhn5b7EDxuzmRXnlfoJ"
@@ -2440,7 +2484,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 296539,
       "name": "Onze e Pouquinho / Pouco A Pouco / O Choro \u00c9 Livre - Ao Vivo",
       "url": "https://open.spotify.com/track/24clrHldsEYvZcBfAYYJUP"

@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Partijtje (Deluxe)",
+        "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185547,
+      "name": "Disco Dip",
+      "url": "https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr"
+    },
+    {
+      "album": {
         "name": "Partijtje",
         "url": "https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 176041,
       "name": "Dwars",
       "url": "https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 245515,
       "name": "Masker van Glas (feat. Spinvis)",
       "url": "https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182544,
       "name": "Misschien (Kwijt)",
       "url": "https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg"

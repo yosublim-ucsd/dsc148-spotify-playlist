@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,950 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,983 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 45 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
 | 46 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
 | 47 | [La Despedida](https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [La Despedida](https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ) | 3:08 |
-| 48 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
-| 49 | [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 |
+| 48 | [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 |
+| 49 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
 | 50 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 
 Snapshot ID: `ZmtfUgAAAAAeuMe1zC5GY5S2Dlef6dPu`

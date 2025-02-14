@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
@@ -4990,6 +4990,24 @@
       "duration_ms": 259347,
       "name": "Estocolmo",
       "url": "https://open.spotify.com/track/5EUlrxwn6nFqPDMhUOQbfA"
+    },
+    {
+      "album": {
+        "name": "Fado",
+        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
+      },
+      "artists": [
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268018,
+      "name": "Fado",
+      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
     },
     {
       "album": {
@@ -6681,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "La recena",
+        "url": "https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "La recena",
+      "url": "https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq"
+    },
+    {
+      "album": {
         "name": "La Serrana",
         "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
       },
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 228548,
       "name": "La vida pasa",
       "url": "https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq"
@@ -7301,6 +7337,28 @@
     },
     {
       "album": {
+        "name": "Lo que siento \u263c",
+        "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        },
+        {
+          "name": "Neomak",
+          "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180101,
+      "name": "Lo que siento \u263c",
+      "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
+    },
+    {
+      "album": {
         "name": "El Rayo Verde",
         "url": "https://open.spotify.com/album/7jGxfqzYoIphB7b4A7jXxl"
       },
@@ -7530,6 +7588,24 @@
       "duration_ms": 202610,
       "name": "Luces",
       "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+    },
+    {
+      "album": {
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "album": {
@@ -8018,6 +8094,24 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "album": {
+        "name": "Me perdono",
+        "url": "https://open.spotify.com/album/76xnfCcQC7AFqb6g4EJ9mG"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189985,
+      "name": "Me perdono",
+      "url": "https://open.spotify.com/track/0rfEoMKnZFWWgm1kAt9jc8"
     },
     {
       "album": {
@@ -8737,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Nana de las estrellas",
+        "url": "https://open.spotify.com/album/4GCO8Gs2AYLeZuq70vTudv"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Nana de las estrellas",
+      "url": "https://open.spotify.com/track/4jf7KRHoothl9ZxvFRrkR5"
+    },
+    {
+      "album": {
         "name": "Cors\u00e9",
         "url": "https://open.spotify.com/album/7oVk2hpD8pmrrwKOkRgDQk"
       },
@@ -8814,7 +8926,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186789,
       "name": "Naranjas Al Mar",
       "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
@@ -9206,7 +9318,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
@@ -9684,7 +9796,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
@@ -9702,7 +9814,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196670,
       "name": "Pan de muertos",
       "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
@@ -10014,7 +10126,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
@@ -11186,7 +11298,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 236005,
       "name": "Reguero de luz",
       "url": "https://open.spotify.com/track/1i5RXmJqW5rlZpDE2kErs1"
@@ -11804,7 +11916,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 253813,
       "name": "Semillas (con Perota Chingo)",
       "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
@@ -12856,7 +12968,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210400,
       "name": "Tercero A",
       "url": "https://open.spotify.com/track/6vnucslFa2I4sltfiA48tW"
@@ -12896,6 +13008,28 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "album": {
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+        },
+        {
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
     },
     {
       "album": {
@@ -14650,7 +14784,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 225826,
       "name": "\u00a1Desaparece!",
       "url": "https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1"

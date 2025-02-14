@@ -1,6 +1,6 @@
 {
   "description": "Our editors\u2019 picks for this year's best-kept pop secrets. Cover: Chloe Qisha",
-  "num_followers": 31042,
+  "num_followers": 31081,
   "original_name": "2024 pop songs you may have missed  ",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "good luck, goodbye (over nostalgic edition)",
-        "url": "https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0"
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
       },
       "artists": [
         {
-          "name": "Kenzie Cait",
-          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 217241,
-      "name": "someday, someone",
-      "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+        "name": "good luck, goodbye (over nostalgic edition)",
+        "url": "https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
         }
       ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+      "duration_ms": 217241,
+      "name": "someday, someone",
+      "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Adrian",
-        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Adrian",
-      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Tailored by Design",
         "url": "https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 211413,
       "name": "Tailored by Design",
       "url": "https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Adrian",
+        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Adrian",
+      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
     }
   ],
   "unique_name": "2024 pop songs you may have missed  ",

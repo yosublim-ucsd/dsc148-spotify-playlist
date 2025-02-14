@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-212 songs - 9 hr 26 min
+213 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Leonina](https://open.spotify.com/track/5ESbZaAPbjHCwWUM4iiHQu) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Leonina](https://open.spotify.com/album/4u2kqsIlaDICKs1SpSoa5Y) | 3:30 | 2022-07-29 | 2022-08-13 |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [Linda](https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Linda](https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh) | 2:07 | 2023-08-18 |  |
-| [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
+| [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 | 2025-02-14 |
 | [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 | 2024-06-28 | 2024-09-13 |
 | [Madonna](https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe) | [Madonna](https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4) | 2:07 | 2023-06-30 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 | 2024-05-18 |
@@ -158,6 +158,7 @@
 | [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 | 2023-06-27 |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 |  |
 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 | 2022-03-18 |  |
+| [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 | 2025-02-14 |  |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-12-01 |  |
 | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd) | 2:27 | 2024-11-22 |  |
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2022-03-18 |  |

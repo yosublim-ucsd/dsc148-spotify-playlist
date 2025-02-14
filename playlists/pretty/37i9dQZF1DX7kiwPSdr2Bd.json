@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Fabiana Sinfr\u00f4nio, Elaine Martins",
-  "num_followers": 339936,
+  "num_followers": 339971,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Deus Preparou Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 280160,
+      "name": "Deus Preparou Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 338625,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "Deus Preparou Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 280160,
-      "name": "Deus Preparou Tudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "N\u00e3o Paraliso",
+        "url": "https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Reis",
+          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "N\u00e3o Paraliso",
+      "url": "https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "Eu Mais Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 419665,
       "name": "Eu Mais Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "N\u00e3o Paraliso",
-        "url": "https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Reis",
-          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "N\u00e3o Paraliso",
-      "url": "https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb"
     },
     {
       "added_at": "2025-01-31 03:01:20",

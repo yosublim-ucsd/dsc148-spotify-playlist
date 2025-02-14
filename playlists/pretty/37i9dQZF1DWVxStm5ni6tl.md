@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Baby Nova, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Kai Banks, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,101 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,127 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [All In Your Hands](https://open.spotify.com/track/2776L3lOGQOzvKKOo7fcs6) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [Hallelujah Showers](https://open.spotify.com/album/2fgiLkEUVrlsF21jE5t4Ju) | 3:50 |
 | 50 | [Erase Me](https://open.spotify.com/track/5Pi5pZGMujhEWWtQm1JojY) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Erase Me](https://open.spotify.com/album/27yCmiVsRdtsaPPlD2rFyR) | 3:00 |
 
-Snapshot ID: `Z6zTuAAAAABjpYYVq1fjkIieVfHLDZ6H`
+Snapshot ID: `Z64uiAAAAACMt26c08vykP1/sh6iaPH/`

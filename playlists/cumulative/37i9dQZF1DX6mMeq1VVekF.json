@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Jay Prince",
+  "description": "No tags, no labels - just free form. Cover: Kelela",
   "name": "Free Form",
   "tracks": [
     {
@@ -676,6 +676,24 @@
       "duration_ms": 109411,
       "name": "ALL THE GIRLS",
       "url": "https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT"
+    },
+    {
+      "album": {
+        "name": "In The Blue Light",
+        "url": "https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339560,
+      "name": "All the Way Down (unplugged)",
+      "url": "https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc"
     },
     {
       "album": {
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 138600,
       "name": "GeorgianFlip.",
       "url": "https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar"

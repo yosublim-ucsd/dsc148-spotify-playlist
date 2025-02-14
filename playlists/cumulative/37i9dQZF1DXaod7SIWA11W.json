@@ -6009,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
+    },
+    {
+      "album": {
         "name": "My Portion",
         "url": "https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C"
       },

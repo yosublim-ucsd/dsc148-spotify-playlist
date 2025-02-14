@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-212 songs - 18 hr 46 min
+214 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 | 2023-11-03 |
 | [Mpango](https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mpango](https://open.spotify.com/album/0UyldaytlWsu1JfRaS10B2) | 4:50 | 2024-04-19 | 2024-09-06 |
 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 | 2023-10-20 |  |
+| [Mshukuru Mungu Tu](https://open.spotify.com/track/0gs4w9EFOQw2cJR36QPfN8) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Mshukuru Mungu Tu](https://open.spotify.com/album/2r9C2PqJ7ZP5lFgzrE4YqI) | 6:58 | 2025-02-14 |  |
 | [Mtawala](https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2) | 4:54 | 2022-06-24 |  |
 | [Mtawala](https://open.spotify.com/track/6mTzTzJsOWZr4Bcq7tMyzS) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/7iHK1lv1MRBlkFR1BBsYai) | 4:54 | 2022-06-24 | 2024-04-19 |
 | [Mungu Mkuu](https://open.spotify.com/track/5DUQaHEFbmfTl1DJvzzaN5) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/0aYwMvoRxWOj7XHqjuBlTi) | 5:04 | 2024-04-19 |  |
@@ -206,6 +207,7 @@
 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 | 2022-06-24 | 2023-06-16 |
 | [Waiting on You](https://open.spotify.com/track/5RjpRcqQheQlV6X0t1lq6T) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Waiting on You](https://open.spotify.com/album/141PfZ1HufWI7JluBmnmwi) | 4:33 | 2024-08-16 |  |
 | [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 | 2023-03-11 |
+| [Wananiuliza \(feat\. Guardian Angel\)](https://open.spotify.com/track/1JwgVYRQiQ7PMH4nZDum26) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Wananiuliza \(feat\. Guardian Angel\)](https://open.spotify.com/album/6TLLsicNv9MX1enci8QuXu) | 3:34 | 2025-02-14 |  |
 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 | 2022-06-24 | 2023-05-26 |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-21 |  |
 | [Wastahili](https://open.spotify.com/track/1TsBf8uY2P1LR4Ld6F17aq) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Njoki Munyi](https://open.spotify.com/artist/6d1foF760EmQXdLaS3JMbN), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wastahili](https://open.spotify.com/album/3kos8YakkfSc9sEtDj7sWE) | 14:37 | 2025-01-24 |  |

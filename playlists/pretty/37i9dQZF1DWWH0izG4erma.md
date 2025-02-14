@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Cory Marks
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,925 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,967 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 65 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 |
 | 66 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
 | 67 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 |
-| 68 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
-| 69 | [Brother \(feat\. Cody Jinks\)](https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Brother \(feat\. Cody Jinks\)](https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu) | 3:20 |
+| 68 | [Brother \(feat\. Cody Jinks\)](https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Brother \(feat\. Cody Jinks\)](https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu) | 3:20 |
+| 69 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 | 70 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
 | 71 | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb) | 3:35 |
 | 72 | [Had It For A While](https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Had It For A While](https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e) | 2:31 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-940 songs - 1 day 23 hr 55 min
+941 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Deep Down](https://open.spotify.com/track/61k2wuStVOfO1qzFaHW2HL) | [KeinKlang](https://open.spotify.com/artist/60T6JUeMdx8kOBWg3zTxy8) | [Deep Down](https://open.spotify.com/album/4AL45M0AQbhnlJToC0K1ZV) | 2:59 | 2024-11-01 | 2024-11-16 |
 | [Deep Inside Of Me](https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Deep Inside Of Me](https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA) | 3:07 | 2023-09-15 | 2023-12-23 |
 | [Delete Time](https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Delete Time](https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB) | 3:38 | 2024-01-26 | 2025-01-09 |
+| [Delirious \(English Version\)](https://open.spotify.com/track/4kT2agM7TzRKKJ0rPTSEtF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM) | [Delirious \(English Version\)](https://open.spotify.com/album/6SHiHFevIKQ0BSPlEaeMPW) | 2:56 | 2025-02-13 |  |
 | [Delirious \(French Version\)](https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Delirious \(French Version\)](https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2) | 2:56 | 2025-01-31 |  |
 | [Devil's Music](https://open.spotify.com/track/4MWVKlkh04WFrHPywkDLxl) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [Devil's Music](https://open.spotify.com/album/4S0x97NZrRAZ8PyATGIITT) | 2:23 | 2024-03-08 | 2024-04-13 |
 | [Dig It Up](https://open.spotify.com/track/4zGAYCNnjVQSrnAHPTJxUT) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Dig It Up](https://open.spotify.com/album/08LHrJvwQOr8OPISQ3tm02) | 2:39 | 2024-05-13 | 2024-09-26 |

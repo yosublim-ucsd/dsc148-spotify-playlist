@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > He is coming\. Cover: Nosferatu
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,640 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,808 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 49 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 |
 | 50 | [Don't Cling To Life](https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t) | 2:26 |
 | 51 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
-| 52 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
-| 53 | [Deer Stop](https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:06 |
+| 52 | [Deer Stop](https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:06 |
+| 53 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 54 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 |
 | 55 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 56 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "0.0000%",
+        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155740,
+      "name": "0.0000%",
+      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "album": {
         "name": "078",
         "url": "https://open.spotify.com/album/0m6JV0QGs0Qs5yturvKDYr"
       },
@@ -20334,7 +20352,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220416,
       "name": "Parallel Love",
       "url": "https://open.spotify.com/track/54weGZIMHQFJCdTAh1L37k"
@@ -24070,6 +24088,24 @@
       "duration_ms": 217000,
       "name": "Skeleton Wedding",
       "url": "https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN"
+    },
+    {
+      "album": {
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266741,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C"
     },
     {
       "album": {
@@ -53538,7 +53574,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227792,
       "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
       "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"

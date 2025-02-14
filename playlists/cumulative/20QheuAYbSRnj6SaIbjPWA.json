@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "album": {
         "name": "hugo",
         "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
       },
@@ -1563,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316226,
+      "name": "Sunshine on Leith",
+      "url": "https://open.spotify.com/track/3Vu6IeuO4sZMt8RAO4du7s"
+    },
+    {
+      "album": {
         "name": "\u00c1g\u00e6tis byrjun",
         "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC"
       },
@@ -1686,6 +1722,24 @@
       "duration_ms": 218601,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/1EstYSjIaL8l203EfVvY9T"
+    },
+    {
+      "album": {
+        "name": "Colour It In",
+        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "Toothpaste Kisses",
+      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Jay Prince
+> No tags, no labels \- just free form\. Cover: Kelela
 
-457 songs - 23 hr 29 min
+458 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 | 2022-06-24 | 2024-09-30 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-15 | 2024-10-04 |
 | [ALL THE GIRLS](https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ), [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1) | [ALL THE GIRLS](https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa) | 1:49 | 2024-10-21 |  |
+| [All the Way Down \(unplugged\)](https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [In The Blue Light](https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu) | 5:39 | 2025-02-14 |  |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-07-17 | 2024-10-04 |
 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 | 2022-07-17 | 2024-10-04 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2022-06-24 | 2024-10-04 |
@@ -160,7 +161,7 @@
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-07-17 | 2024-10-04 |
 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-11-24 | 2025-01-18 |
 | [G.O.Y.D.](https://open.spotify.com/track/4jueyRHAHwDovQi3Nlce8v) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [G.O.Y.D.](https://open.spotify.com/album/5Hg1kryXTelIkPktBhRnQE) | 3:19 | 2022-06-24 | 2022-07-29 |
-| [GeorgianFlip.](https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [Comma, Fullstop.](https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY) | 2:18 | 2024-10-10 |  |
+| [GeorgianFlip.](https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [Comma, Fullstop.](https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY) | 2:18 | 2024-10-10 | 2025-02-14 |
 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-23 | 2024-04-26 |
 | [Get Me](https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Get Me](https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F) | 2:47 | 2024-10-25 |  |
 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 | 2023-05-15 | 2023-06-17 |

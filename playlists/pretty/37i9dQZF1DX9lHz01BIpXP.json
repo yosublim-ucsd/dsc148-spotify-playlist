@@ -907,30 +907,6 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "COLOURED",
-        "url": "https://open.spotify.com/album/50Oy4Nsl3UgYxIxCrEsjsq"
-      },
-      "artists": [
-        {
-          "name": "Th3 \u00a5MC",
-          "url": "https://open.spotify.com/artist/0EO1bLRrBAFcqXGkpfCsMo"
-        },
-        {
-          "name": "CKCM",
-          "url": "https://open.spotify.com/artist/5r40n19qQMN8sJmWwlQ2Jk"
-        },
-        {
-          "name": "REEZYRT7",
-          "url": "https://open.spotify.com/artist/3cYBqbPOy2NYeHWfzPGAgl"
-        }
-      ],
-      "duration_ms": 202175,
-      "name": "COLOURED",
-      "url": "https://open.spotify.com/track/6oRpIy7mSmAGpDGwEKligC"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
         "name": "Violence (Afrikaans Drill)",
         "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 192296,
       "name": "Sundphazamisa",
       "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "COLOURED",
+        "url": "https://open.spotify.com/album/50Oy4Nsl3UgYxIxCrEsjsq"
+      },
+      "artists": [
+        {
+          "name": "Th3 \u00a5MC",
+          "url": "https://open.spotify.com/artist/0EO1bLRrBAFcqXGkpfCsMo"
+        },
+        {
+          "name": "CKCM",
+          "url": "https://open.spotify.com/artist/5r40n19qQMN8sJmWwlQ2Jk"
+        },
+        {
+          "name": "REEZYRT7",
+          "url": "https://open.spotify.com/artist/3cYBqbPOy2NYeHWfzPGAgl"
+        }
+      ],
+      "duration_ms": 202175,
+      "name": "COLOURED",
+      "url": "https://open.spotify.com/track/6oRpIy7mSmAGpDGwEKligC"
     },
     {
       "added_at": "2025-02-06 22:00:26",

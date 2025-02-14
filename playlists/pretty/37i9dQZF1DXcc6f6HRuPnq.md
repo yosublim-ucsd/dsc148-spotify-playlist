@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,366 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,443 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 20 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
 | 21 | [Lord I Just Can't Keep from Crying](https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx) | [Bror Gunnar Jansson](https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q) | [For Blind Willie](https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB) | 6:01 |
 | 22 | [Help Me Through The Day](https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 4:28 |
-| 23 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager & The Black Tornado](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
-| 24 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
+| 23 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
+| 24 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager & The Black Tornado](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
 | 25 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
 | 26 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 27 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 38 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 39 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 40 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
-| 41 | [Driftin' Blues \- Live](https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Driftin' Blues \(Live\)](https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh) | 4:12 |
-| 42 | [Lights Are On, But Nobody's Home](https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Siftin' Thru Ashes](https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3) | 6:36 |
+| 41 | [Lights Are On, But Nobody's Home](https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Siftin' Thru Ashes](https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3) | 6:36 |
+| 42 | [Driftin' Blues \- Live](https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Driftin' Blues \(Live\)](https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh) | 4:12 |
 | 43 | [The Dream \- Remastered](https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:31 |
 | 44 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
 | 45 | [Sweet Slumber](https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb), [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [The Blues Is Now](https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o) | 3:49 |
 | 46 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
 | 47 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
 | 48 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
-| 49 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
+| 49 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
 | 50 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
-| 51 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
+| 51 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
 | 52 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
 | 53 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 54 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Sweet Little Angel](https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/1JQtDephsJMr9tWdtYgv2y) | 5:30 |
 | 80 | [Same Old Blues Again](https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/1JYSyzv0oKu42PeEtQLKOE) | 6:13 |
 
-Snapshot ID: `ZlYkGQAAAAA/YHZPxpdEAXXT1ZxkvPfH`
+Snapshot ID: `Z65mcgAAAACZYrrhx5sgGY+Ly5Gam6hd`

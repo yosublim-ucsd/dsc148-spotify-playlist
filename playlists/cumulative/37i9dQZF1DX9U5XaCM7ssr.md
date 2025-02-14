@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-192 songs - 13 hr 19 min
+193 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bukan Manusia](https://open.spotify.com/track/1S7esa61kNKHJkCE9WXrzx) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Bukan Manusia](https://open.spotify.com/album/7kOe0Yje0NJbxAXMO1P1Lr) | 4:15 | 2023-06-23 | 2023-06-27 |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-01-31 | 2024-02-21 |
 | [Cinta Dalam Hidupku](https://open.spotify.com/track/52BT4xBNjnJFrHi9p5PsQn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [A New Chapter](https://open.spotify.com/album/0xA0QM3piWiMF22mqRVT6U) | 3:48 | 2024-02-20 | 2024-03-06 |
-| [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-11-28 |  |
+| [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-11-28 | 2025-02-14 |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-30 | 2023-07-27 |
 | [Cinta Tak Pada Waktunya](https://open.spotify.com/track/3QqZEiJytmm7Av6FRoknRQ) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 4:09 | 2023-07-13 | 2023-08-31 |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-31 |  |
@@ -103,6 +103,7 @@
 | [Menjadi Dia](https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:49 | 2022-11-28 | 2023-07-14 |
 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 | 2023-02-03 |  |
 | [Menjelang Pagi](https://open.spotify.com/track/5jpyoanoKZtRsC52toDCcM) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Menjelang Pagi](https://open.spotify.com/album/6LLGiLuOnXvvNfkewQBlHE) | 4:15 | 2023-06-23 | 2023-06-27 |
+| [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 | 2025-02-13 |  |
 | [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2023-08-30 | 2023-12-05 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-04-20 | 2024-09-10 |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-11-28 |  |

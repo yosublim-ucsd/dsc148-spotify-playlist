@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5927,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Balorda nostalgia",
+        "url": "https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197708,
+      "name": "Balorda nostalgia",
+      "url": "https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm"
+    },
+    {
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -6238,6 +6256,24 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "BATTITO",
+        "url": "https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194468,
+      "name": "BATTITO",
+      "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
     },
     {
       "album": {
@@ -6966,7 +7002,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -12743,6 +12779,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/33Fn5GCd1FuV43TNfZgro4"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "DAMME 'NA MANO",
+      "url": "https://open.spotify.com/track/3hjG2x6wWyJ84ue7GESTVR"
+    },
+    {
+      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -13426,7 +13480,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -17098,7 +17152,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -25721,6 +25775,24 @@
     },
     {
       "album": {
+        "name": "Incoscienti Giovani",
+        "url": "https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204811,
+      "name": "Incoscienti Giovani",
+      "url": "https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -28507,6 +28579,24 @@
     },
     {
       "album": {
+        "name": "LA CURA PER ME",
+        "url": "https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215821,
+      "name": "LA CURA PER ME",
+      "url": "https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -29650,6 +29740,24 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
       "url": "https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX"
+    },
+    {
+      "album": {
+        "name": "Lentamente",
+        "url": "https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206002,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5"
     },
     {
       "album": {
@@ -31608,6 +31716,28 @@
     {
       "album": {
         "name": "The Gifted",
+        "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "LoveHate Thing (feat. Sam Dew)",
+      "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
+    },
+    {
+      "album": {
+        "name": "The Gifted",
         "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
       },
       "artists": [
@@ -31622,7 +31752,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -40830,7 +40960,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -48434,7 +48564,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
@@ -55482,7 +55612,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"

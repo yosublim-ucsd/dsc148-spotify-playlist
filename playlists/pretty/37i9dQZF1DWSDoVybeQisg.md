@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,486 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,623 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 26 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
 | 27 | [No Quarter \- Remaster](https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Mothership \(Remastered\)](https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh) | 7:02 |
 | 28 | [The Four Horsemen](https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b) | [Aphrodite's Child](https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8) | [6 6 6](https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv) | 5:53 |
-| 29 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
-| 30 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:53 |
+| 29 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:53 |
+| 30 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
 | 31 | [Comin' Back to Me](https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 5:15 |
 | 32 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
 | 33 | [Who Do You Love \- Pt\. 1](https://open.spotify.com/track/14hykKy6TC9y6chiptCtje) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Happy Trails](https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r) | 3:32 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 41 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
 | 42 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
 | 43 | [Terrapin](https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt) | [Syd Barrett](https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R) | [The Madcap Laughs](https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r) | 5:02 |
-| 44 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
-| 45 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
+| 44 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
+| 45 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
 | 46 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
 | 47 | [Bass Strings](https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 5:03 |
 | 48 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |

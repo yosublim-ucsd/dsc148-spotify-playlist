@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,607 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,607 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 19 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
 | 20 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 |
 | 21 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
-| 22 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
-| 23 | [Piazzojazz](https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ), [Federico Lechner](https://open.spotify.com/artist/5tEyp8bbcmlvlJHfGqzKui), [Hernan hock](https://open.spotify.com/artist/218kMSXSeUCGA6qnhj4BTV), [Antonio Miguel](https://open.spotify.com/artist/12WYaGwaAQfZF0hyTJgDDm), [Andrés Litwin](https://open.spotify.com/artist/2By1V9ksNozsu4QKLCQRve) | [Obstinado](https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2) | 4:48 |
+| 22 | [Piazzojazz](https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ), [Federico Lechner](https://open.spotify.com/artist/5tEyp8bbcmlvlJHfGqzKui), [Hernan hock](https://open.spotify.com/artist/218kMSXSeUCGA6qnhj4BTV), [Antonio Miguel](https://open.spotify.com/artist/12WYaGwaAQfZF0hyTJgDDm), [Andrés Litwin](https://open.spotify.com/artist/2By1V9ksNozsu4QKLCQRve) | [Obstinado](https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2) | 4:48 |
+| 23 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
 | 24 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
 | 25 | [Naufragio \(TANGO\)](https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:51 |
 | 26 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 66 | [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 |
 | 67 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
 | 68 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 |
-| 69 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
-| 70 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
+| 69 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
+| 70 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
 
 Snapshot ID: `Zyj3VgAAAADwmZZQ70MrJz2qJJfphYkH`

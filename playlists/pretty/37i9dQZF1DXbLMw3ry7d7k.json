@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos m\u00e1s recientes aqu\u00ed. \ud83d\udcf8: KAROL G",
-  "num_followers": 610745,
+  "num_followers": 611003,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -151,26 +151,6 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "Q U E V A S H A C E R H O Y ?",
-      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
         "name": "Ese Vato No Te Queda",
         "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 198607,
       "name": "Ese Vato No Te Queda",
       "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -623,38 +623,6 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
-        "name": "EL CL\u00faB",
-        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
-        "name": "Hecha Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
         "name": "No Ponga Excusas",
         "url": "https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 267194,
-      "name": "MONACO",
-      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Hey Lil Mama",
+      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
         "name": "HOLA PERDIDA REMIX",
         "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Hey Lil Mama",
-      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -1519,30 +1519,6 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
     },
     {
       "added_at": "2025-02-11 15:57:59",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-02-11 15:57:59",
       "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2025-02-11 15:57:59",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2025-02-11 15:57:59",
+      "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": "2025-02-11 15:57:59",

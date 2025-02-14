@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Eleni Foureira",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Eleni Foureira, Christos Mastoras",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 235980,
       "name": "1000 Fores",
       "url": "https://open.spotify.com/track/4hfWVjAIbUZ1rlivt5zY5j"
+    },
+    {
+      "album": {
+        "name": "14/02",
+        "url": "https://open.spotify.com/album/2lHIdw2ByqII7cLHw1kBiH"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181128,
+      "name": "14/02",
+      "url": "https://open.spotify.com/track/1qQ6AroqA7ArCcLfq5Lmvn"
     },
     {
       "album": {
@@ -312,7 +330,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 229214,
       "name": "Anarotiemai",
       "url": "https://open.spotify.com/track/1GwcjAkB8zSlVk3WFLReNc"
@@ -418,6 +436,24 @@
       "duration_ms": 185600,
       "name": "Astamatiti Kardia",
       "url": "https://open.spotify.com/track/7mBj9L5DvwU6o2UiGOANDM"
+    },
+    {
+      "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175385,
+      "name": "Asteromata",
+      "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
     },
     {
       "album": {
@@ -2048,7 +2084,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210796,
       "name": "S' Agapisa Apo Tin Proti Stigmi",
       "url": "https://open.spotify.com/track/5lww7Vxi4xqmRbI57gfyI6"
@@ -2114,6 +2150,24 @@
       "duration_ms": 155586,
       "name": "Siga To Prama",
       "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2ymczzSSd10YyCyBd0RrC5"
+      },
+      "artists": [
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172078,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/12NC6AUBdYdyAaKpTaToa8"
     },
     {
       "album": {
@@ -2304,7 +2358,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169468,
       "name": "To Velos",
       "url": "https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ"
@@ -2396,7 +2450,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186067,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/5FmklgNdNQUKAxXsM2p3Fz"
@@ -2436,6 +2490,24 @@
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
+    },
+    {
+      "album": {
+        "name": "V\u00e1le",
+        "url": "https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "V\u00e1le",
+      "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
     },
     {
       "album": {

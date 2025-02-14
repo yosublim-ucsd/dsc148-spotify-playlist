@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: sosocamo, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,885 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,023 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 35 | [88 \(Slowed\)](https://open.spotify.com/track/6F3wfmGhOAHToWMoLYPsa6) | [JVVMN](https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje) | [88 \(Slowed\)](https://open.spotify.com/album/2GwS3bNz3gOQYypuiirunR) | 1:12 |
 | 36 | [¿qué somos hoy?](https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Lagunas Brillantes de la Memoria](https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu) | 1:43 |
 | 37 | [Relicario](https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB) | [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Relicario](https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf) | 3:04 |
-| 38 | [Have It Your Way](https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Have It Your Way](https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur) | 3:43 |
+| 38 | [Have It Your Way](https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Have It Your Way](https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur) | 3:42 |
 | 39 | [Thank The Lord](https://open.spotify.com/track/4GEs3yie8TRXU1MvR73M3V) | [Ron Moala](https://open.spotify.com/artist/45ovGeOBtTWRc06DsBdnds), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV), [Toki.Mo](https://open.spotify.com/artist/7JZKXKXoqGRV04hZuMGXyF) | [Thank The Lord](https://open.spotify.com/album/0cMLla8wAfc7JGcic8E0u0) | 4:12 |
 | 40 | [my love](https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [a few thoughts](https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo) | 3:49 |
 | 41 | [top G](https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [top G](https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5) | 2:15 |

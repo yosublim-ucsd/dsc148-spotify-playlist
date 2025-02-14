@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA, PiXXiE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2142,6 +2142,24 @@
       "duration_ms": 210270,
       "name": "Oh! Oh!",
       "url": "https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA"
+    },
+    {
+      "album": {
+        "name": "ooh!",
+        "url": "https://open.spotify.com/album/5TfeZgfSsgNn3Dcb5lrlkn"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "ooh!",
+      "url": "https://open.spotify.com/track/2KCVEAvDSdC8boJJIw0a8H"
     },
     {
       "album": {
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234661,
       "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32",
       "url": "https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182699,
       "name": "\u0e14\u0e36\u0e01\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27 (Night Ride)",
       "url": "https://open.spotify.com/track/75Bo8CwyOB44OwaXw14w1a"
@@ -6674,6 +6692,24 @@
       "duration_ms": 187247,
       "name": "\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e08\u0e36\u0e07\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08 Ost.The boy next world series",
       "url": "https://open.spotify.com/track/2uii6kEYhPCw9GSSnmrjXI"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e04\u0e48\u0e2d\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Last Request)",
+        "url": "https://open.spotify.com/album/0qUTOrRpXLVKgcW1uCYR1o"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e04\u0e48\u0e2d\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Last Request)",
+      "url": "https://open.spotify.com/track/3ZNaxOJXP8QttNVqlWZFRM"
     },
     {
       "album": {
@@ -9284,7 +9320,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227171,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (Over)",
       "url": "https://open.spotify.com/track/50kRcZqaEbUPjTRIg2kkNr"
@@ -9414,6 +9450,28 @@
       "duration_ms": 215294,
       "name": "\u0e2d\u0e34\u0e08\u0e09\u0e32",
       "url": "https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e34\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e15 (Into You) [feat. PiXXiE]",
+        "url": "https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "\u0e2d\u0e34\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e15 (Into You) [feat. PiXXiE]",
+      "url": "https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto"
     },
     {
       "album": {

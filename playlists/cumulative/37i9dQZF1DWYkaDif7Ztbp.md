@@ -2,9 +2,9 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  Rema
+> The tracks heating up the continent right now!  Cover:  Asake
 
-472 songs - 1 day 4 hr 4 min
+473 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 | 2023-11-17 |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-06-16 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-22 | 2023-09-22 |
-| [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-07-31 |  |
+| [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-07-31 | 2025-02-14 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2022-06-24 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2022-07-08 |
 | [N'y pense plus](https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [N'y pense plus](https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS) | 3:32 | 2022-09-29 | 2023-03-18 |
@@ -460,6 +460,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-27 | 2024-04-05 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-06-28 | 2024-10-18 |
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-27 | 2023-04-21 |
+| [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-02-14 |  |
 | [Wishes](https://open.spotify.com/track/1JatNOHjkqO8omLaTCNTSU) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Wishes](https://open.spotify.com/album/2tn4QmMrOxEg4KAAELPCzz) | 4:36 | 2021-11-12 | 2022-02-18 |
 | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/album/4bhZZ9oHQ6wb8Lpke7nQql) | 6:21 | 2024-11-29 |  |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-03-31 | 2022-08-26 |

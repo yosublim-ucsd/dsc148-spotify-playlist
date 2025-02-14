@@ -1,6 +1,6 @@
 {
   "description": "Hot noise for hot weather.",
-  "num_followers": 32908,
+  "num_followers": 32905,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-31 17:33:57",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2024-05-31 17:33:57",
-      "album": {
         "name": "W.L. (Deluxe)",
         "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-05-31 17:33:57",
       "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 164546,
-      "name": "Shhhh! Golf is On",
-      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2024-05-31 17:33:57",
@@ -615,6 +599,22 @@
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+    },
+    {
+      "added_at": "2024-05-31 17:33:57",
+      "album": {
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Shhhh! Golf is On",
+      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
     },
     {
       "added_at": "2024-07-25 01:22:31",

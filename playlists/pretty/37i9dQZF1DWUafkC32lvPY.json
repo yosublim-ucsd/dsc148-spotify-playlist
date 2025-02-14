@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 24516,
+  "num_followers": 24560,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Cavaquinho",
+        "url": "https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        },
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 138795,
+      "name": "Cavaquinho",
+      "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 138461,
       "name": "Confete e serpentina",
       "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Cavaquinho",
-        "url": "https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS"
-      },
-      "artists": [
-        {
-          "name": "Oaty.",
-          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
-        },
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 138795,
-      "name": "Cavaquinho",
-      "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Aubade",
-        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
-      },
-      "artists": [
-        {
-          "name": "Bastido",
-          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
-        }
-      ],
-      "duration_ms": 171870,
-      "name": "Aubade",
-      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Aubade",
+        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "duration_ms": 171870,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Bolero coqueto",
-        "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Diego Galindo",
-          "url": "https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 135163,
-      "name": "Bolero coqueto",
-      "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Bolero coqueto",
+        "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Diego Galindo",
+          "url": "https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 135163,
+      "name": "Bolero coqueto",
+      "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Cempasuchil",
+      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 136000,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Cempasuchil",
-      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "La Belleza de lo Cotidiano",
         "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ciudad de Papel",
         "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Viendo el mundial con pap\u00e1",
-        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Viendo el mundial con pap\u00e1",
-      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1023,38 +1003,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+        "name": "Viendo el mundial con pap\u00e1",
+        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
       "artists": [
         {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         },
         {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+      "duration_ms": 129854,
+      "name": "Viendo el mundial con pap\u00e1",
+      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1079,6 +1043,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "LA FALDA (LoFi)",
         "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 171844,
       "name": "LA FALDA - LoFi",
       "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 144333,
       "name": "Monstera",
       "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
-      },
-      "artists": [
-        {
-          "name": "Sam Cross",
-          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
-        },
-        {
-          "name": "Kebyn Moon",
-          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
-        }
-      ],
-      "duration_ms": 115714,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Mi\u00e9rcoles Azul",
         "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
+      },
+      "artists": [
+        {
+          "name": "Sam Cross",
+          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
+        },
+        {
+          "name": "Kebyn Moon",
+          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
+        }
+      ],
+      "duration_ms": 115714,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Alc\u00e1zar",
         "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 98653,
       "name": "Alc\u00e1zar",
       "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Aesthetic Beach",
         "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 126857,
       "name": "Orange Waves",
       "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
-        }
-      ],
-      "duration_ms": 108564,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        }
+      ],
+      "duration_ms": 108564,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "100% Barztep",
         "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
-        {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Beautiful Lights",
         "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 148860,
       "name": "Diamond Sparkle",
       "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Pla",
+          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
     },
     {
       "added_at": "2024-10-04 04:00:00",

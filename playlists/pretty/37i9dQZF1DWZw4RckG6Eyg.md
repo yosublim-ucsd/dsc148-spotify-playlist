@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,878 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,915 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 27 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 28 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
 | 29 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |
-| 30 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
-| 31 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
+| 30 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
+| 31 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
 | 32 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 |
 | 33 | [No Problems](https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 3:44 |
 | 34 | [SUPERSTAR](https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd) | 1:57 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 41 | [Forever and Ever and Ever and Ever](https://open.spotify.com/track/74RK4QDxJXDUqkAH2ts9bf) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Ensatina](https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez) | 3:29 |
 | 42 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
 | 43 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
-| 44 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
-| 45 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
+| 44 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
+| 45 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
 | 46 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 47 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 48 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
-| 49 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 48 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 49 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
 | 50 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 51 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
 | 52 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 66 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |
 | 67 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 68 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
-| 69 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
-| 70 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
+| 69 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
+| 70 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
 | 71 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
 | 72 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
 | 73 | [Train Full of Gasoline](https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 |
 | 74 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
-| 75 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |
+| 75 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
 
 Snapshot ID: `Z1uEoQAAAADpO6zDHyIfVFZOclKeqBC+`

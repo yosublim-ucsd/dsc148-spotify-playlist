@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,891 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,899 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 43 | [Relativity of Time \(Feat\. J.UNA, Meego\)](https://open.spotify.com/track/7bfUtySREIyXPoKuSRYxvY) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Research Daily 1](https://open.spotify.com/album/7u0x542RAwuZZcROvpSjKT) | 3:48 |
 | 44 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 | 45 | [bother 2021 \(feat\. gamma\)](https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:50 |
-| 46 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
-| 47 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
+| 46 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
+| 47 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
 | 48 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
 | 49 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
 | 50 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |

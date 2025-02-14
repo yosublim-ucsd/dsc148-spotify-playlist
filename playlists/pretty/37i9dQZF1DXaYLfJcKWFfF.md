@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Sena Dagadu
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,248 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,260 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 |
-| 2 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 |
-| 3 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 |
-| 4 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
-| 5 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 |
-| 6 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 |
-| 7 | [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 |
-| 8 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 |
-| 9 | [Alive](https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ) | [Thousand Voice](https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz) | [Alive](https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe) | 3:36 |
-| 10 | [dEMOn](https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [dEMOn](https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP) | 4:36 |
-| 11 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
+| 1 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 |
+| 2 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 |
+| 3 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
+| 4 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 |
+| 5 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 |
+| 6 | [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 |
+| 7 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 |
+| 8 | [Alive](https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ) | [Thousand Voice](https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz) | [Alive](https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe) | 3:36 |
+| 9 | [dEMOn](https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [dEMOn](https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP) | 4:36 |
+| 10 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
+| 11 | [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 |
 | 12 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 |
 | 13 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
 | 14 | [Good Problem](https://open.spotify.com/track/4vvTr4HtaAIMyPAZzruWeB) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Good Problem](https://open.spotify.com/album/4SofMhHpBJ5vX9QoH6WuiL) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 |
 | 50 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 |
 
-Snapshot ID: `Z5uapgAAAABo4TWy4zyGdAsSNVf9fkVf`
+Snapshot ID: `Z66HyAAAAADZp4ghWYpwIiuhfsKFMrX/`

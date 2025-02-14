@@ -1,18 +1,18 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: SIMONA.",
-  "num_followers": 19596,
+  "num_followers": 19597,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6MhkgAAAABC7buGEkXa83n4w6fEASEG",
+  "snapshot_id": "Z627mgAAAADHk7TVWL8yib7a318M8Chs",
   "tracks": [
     {
-      "added_at": "2025-02-05 08:30:10",
+      "added_at": "2025-02-13 09:29:38",
       "album": {
-        "name": "COCON",
-        "url": "https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu"
+        "name": "SIGILOSA",
+        "url": "https://open.spotify.com/album/6zXJFPl0JGbSgK5jozmIQy"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 119964,
-      "name": "COCON",
-      "url": "https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa"
+      "duration_ms": 148554,
+      "name": "SIGILOSA",
+      "url": "https://open.spotify.com/track/3kLC4iR5WQ1rpZ3rk0B0DS"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
+        "name": "COCON",
+        "url": "https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 119964,
+      "name": "COCON",
+      "url": "https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
         "name": "Lip Combo",
         "url": "https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT"
       },
@@ -151,26 +167,6 @@
       "duration_ms": 171428,
       "name": "Lip Combo",
       "url": "https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "EL NENE, VOL. 1",
-        "url": "https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 139940,
-      "name": "PRIVADO",
-      "url": "https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -315,18 +311,22 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
+        "name": "EL NENE, VOL. 1",
+        "url": "https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 144000,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
+      "duration_ms": 139940,
+      "name": "PRIVADO",
+      "url": "https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -347,6 +347,22 @@
       "duration_ms": 205482,
       "name": "Demasiado Co\u00f1o",
       "url": "https://open.spotify.com/track/0iOZZGCSbzjnHzpvS3ppS8"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "TANTO POR HACER",
-        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 192942,
-      "name": "Y Yo Que Pensaba",
-      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
         "name": "Soy Lesbiana",
         "url": "https://open.spotify.com/album/2EdFxhEmZtBAqbhl4CBIbR"
       },
@@ -431,38 +431,6 @@
       "duration_ms": 96000,
       "name": "Soy Lesbiana",
       "url": "https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
-      },
-      "artists": [
-        {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "HETERO",
-        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "HETERO",
-      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -483,18 +451,50 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "SEASON I",
-        "url": "https://open.spotify.com/album/561lG9BweytmTlZwizsJx3"
+        "name": "HETERO",
+        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
       },
       "artists": [
         {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
         }
       ],
-      "duration_ms": 182284,
-      "name": "No Siento Nada",
-      "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
+      "duration_ms": 158750,
+      "name": "HETERO",
+      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "TANTO POR HACER",
+        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 192942,
+      "name": "Y Yo Que Pensaba",
+      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "Manual de Romer\u00eda",
-        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
+        "name": "SEASON I",
+        "url": "https://open.spotify.com/album/561lG9BweytmTlZwizsJx3"
       },
       "artists": [
         {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
         }
       ],
-      "duration_ms": 201316,
-      "name": "ALL\u00c1 ARRIBITA",
-      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
+      "duration_ms": 182284,
+      "name": "No Siento Nada",
+      "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+        "name": "Manual de Romer\u00eda",
+        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
         }
       ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+      "duration_ms": 201316,
+      "name": "ALL\u00c1 ARRIBITA",
+      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -599,6 +599,22 @@
       "duration_ms": 126521,
       "name": "MARIKONA",
       "url": "https://open.spotify.com/track/1Xe8qsL1U0EGZj1f7IZpCx"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -671,22 +687,6 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
         "name": "Chicos malos",
         "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
         "name": "CamGirl >.< !!!",
         "url": "https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "Aitana O'Ca\u00f1a",
-        "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
-      },
-      "artists": [
-        {
-          "name": "Turista Sueca",
-          "url": "https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7"
-        }
-      ],
-      "duration_ms": 172378,
-      "name": "Aitana O'Ca\u00f1a",
-      "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
         "name": "Bossa triste",
         "url": "https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 210709,
       "name": "Bossa triste",
       "url": "https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "Aitana O'Ca\u00f1a",
+        "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
+      },
+      "artists": [
+        {
+          "name": "Turista Sueca",
+          "url": "https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7"
+        }
+      ],
+      "duration_ms": 172378,
+      "name": "Aitana O'Ca\u00f1a",
+      "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "So Cute",
-        "url": "https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz"
-      },
-      "artists": [
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "So Cute",
-      "url": "https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
         "name": "En el cielo",
         "url": "https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
+        "name": "So Cute",
+        "url": "https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "So Cute",
+      "url": "https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
         "name": "De Resaca",
         "url": "https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 158837,
       "name": "De Resaca",
       "url": "https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "Mar Menor",
-        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Mar Menor",
-      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

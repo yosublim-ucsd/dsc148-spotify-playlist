@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,580 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,599 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 9 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 10 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
 | 11 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
-| 12 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
-| 13 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 12 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 13 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
 | 14 | [I'm Real \(feat\. Ja Rule\) \- Murder Remix](https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 4:22 |
 | 15 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
 | 16 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 35 | [Read Your Mind](https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Private Room](https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL) | 4:23 |
 | 36 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
 | 37 | [Get Right](https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH) | 3:45 |
-| 38 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
-| 39 | [Anywhere](https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 4:04 |
+| 38 | [Anywhere](https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 4:04 |
+| 39 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
 | 40 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 41 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
 | 42 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
 | 43 | [Touch Me Tease Me](https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Case](https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID) | 3:47 |
 | 44 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw) | 3:07 |
 | 45 | [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 |
-| 46 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 |
+| 46 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
 | 47 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
-| 48 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
+| 48 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 |
 | 49 | [If You](https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:37 |
 | 50 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Anitta",
+  "description": "Tous les hits latino du moment sont ici. Photo : Bad Bunny",
   "name": "Caliente",
   "tracks": [
     {
@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/7hp1Q0RrnHgSU9G5sMFxGp"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293478,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s"
+    },
+    {
+      "album": {
         "name": "Bailando en la Lluvia",
         "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
       },
@@ -454,7 +476,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 195470,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -2756,6 +2778,28 @@
       "duration_ms": 172755,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/2ajOfRsIVgVO4pmjeCPIzp"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que T\u00fa",
+        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197081,
+      "name": "M\u00e1s Que T\u00fa",
+      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
     },
     {
       "album": {
@@ -4048,6 +4092,28 @@
       "duration_ms": 171760,
       "name": "T\u00e1 OK (Remix)",
       "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
+    },
+    {
+      "album": {
+        "name": "T\u00da ME CALIENTAS",
+        "url": "https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "T\u00da ME CALIENTAS",
+      "url": "https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ"
     },
     {
       "album": {

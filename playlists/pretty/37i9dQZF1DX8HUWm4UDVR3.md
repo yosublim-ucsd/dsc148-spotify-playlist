@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Vendredi sur Mer
+> La pop française annonce la couleur\. Photo : Ben Mazué et Yoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,004 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,012 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tout résonne](https://open.spotify.com/track/0e2S7tFleO0LG9LH7lYBIj) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Tout résonne](https://open.spotify.com/album/5e7JA7wM9SjobiSjDB4F3p) | 3:06 |
-| 2 | [Rupture](https://open.spotify.com/track/7lX7bbGLfip0moApAvyt3i) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Rupture](https://open.spotify.com/album/7GP6Fd4Y3JKh9zZ5UJ1g6Q) | 3:15 |
-| 3 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 1 | [Rupture](https://open.spotify.com/track/7lX7bbGLfip0moApAvyt3i) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Rupture](https://open.spotify.com/album/7GP6Fd4Y3JKh9zZ5UJ1g6Q) | 3:15 |
+| 2 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 3 | [Tout résonne](https://open.spotify.com/track/0e2S7tFleO0LG9LH7lYBIj) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Tout résonne](https://open.spotify.com/album/5e7JA7wM9SjobiSjDB4F3p) | 3:06 |
 | 4 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 5 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 |
 | 6 | [Princesse chaos](https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Princesse chaos](https://open.spotify.com/album/5kL7S9rRSDnTMl8UJA8PvK) | 3:25 |
 | 7 | [Je me demande \(feat\. Louane\)](https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Je me demande \(feat\. Louane\)](https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ) | 3:15 |
 | 8 | [ILS ME RIENT TOUS AU NEZ](https://open.spotify.com/track/2oe4ERf40Mx8PWH9gtEfP0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:27 |
 | 9 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
-| 10 | [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 |
-| 11 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
-| 12 | [scorpion ascendant scorpion \(상승궁 전갈자리\)](https://open.spotify.com/track/12oCxUOAgMIlP4AmlEAjHt) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/1Zc5T41oAD6MoVilGvadRf) | 2:11 |
+| 10 | [T'es Qui Toi ?](https://open.spotify.com/track/4FDeIZxfukhsHK3Lwo41nu) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [T'es Qui Toi ?](https://open.spotify.com/album/1U5rwv5Uy7P56CDYXlhonO) | 2:44 |
+| 11 | [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 |
+| 12 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
 | 13 | [Drôle d'idée](https://open.spotify.com/track/3fc3NM4ZFgvCD3bjQGcWqS) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Drôle d'idée](https://open.spotify.com/album/5tTMOaZmphVhYnabLfMFl5) | 3:03 |
-| 14 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 |
-| 15 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
-| 16 | [Bande passante](https://open.spotify.com/track/4oqowA0HSpDJL1IKYAJWBs) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bande passante](https://open.spotify.com/album/1HviYb0hyJOsRwE9bcacLv) | 2:49 |
-| 17 | [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 |
-| 18 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 |
-| 19 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 |
+| 14 | [scorpion ascendant scorpion \(상승궁 전갈자리\)](https://open.spotify.com/track/12oCxUOAgMIlP4AmlEAjHt) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/1Zc5T41oAD6MoVilGvadRf) | 2:11 |
+| 15 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 |
+| 16 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
+| 17 | [Bande passante](https://open.spotify.com/track/4oqowA0HSpDJL1IKYAJWBs) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bande passante](https://open.spotify.com/album/1HviYb0hyJOsRwE9bcacLv) | 2:49 |
+| 18 | [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 |
+| 19 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 |
 | 20 | [Prénom gravé](https://open.spotify.com/track/00xRqfsMVvcp0HyePAgPsk) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [After Parti](https://open.spotify.com/album/2U6bGUFTgdMdMelxWhSW8n) | 3:50 |
 | 21 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 |
 | 22 | [L'Espagne](https://open.spotify.com/track/2r9anDHPIbOsolKitY9NBV) | [George Ka](https://open.spotify.com/artist/4pIlSs2li5kl1x89fYslAO) | [L'Espagne](https://open.spotify.com/album/2OJQ2Ll1tOYg64DtulS8nb) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [JSR](https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [JSR](https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4) | 2:03 |
 | 50 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 |
 
-Snapshot ID: `Z6U/DgAAAAA+ac/ALxD4yDsai4xUhhRi`
+Snapshot ID: `Z655iQAAAAAanAhFJm2W4TSkpjgNoOEM`

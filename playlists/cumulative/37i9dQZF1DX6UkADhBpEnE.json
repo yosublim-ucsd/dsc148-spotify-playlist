@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "0.0000%",
+        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155740,
+      "name": "0.0000%",
+      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -1363,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153918,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
+    },
+    {
+      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K"
       },
@@ -1878,6 +1914,24 @@
       "duration_ms": 180091,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
     },
     {
       "album": {
@@ -3839,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC"
+    },
+    {
+      "album": {
         "name": "GBP (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
       },
@@ -4862,7 +4934,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
@@ -5196,7 +5268,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
@@ -6274,7 +6346,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 153207,
       "name": "Last Song (feat. Faouzia)",
       "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
@@ -7898,7 +7970,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152964,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/0PfUhlKBLCvQwT2zkN8oK3"
@@ -12482,7 +12554,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
@@ -14112,6 +14184,24 @@
       "duration_ms": 288200,
       "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30e9\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169728,
+      "name": "\u30e9\u30b9\u30c8\u30e9\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR"
     },
     {
       "album": {

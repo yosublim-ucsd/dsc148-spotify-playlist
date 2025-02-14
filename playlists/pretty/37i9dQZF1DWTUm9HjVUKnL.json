@@ -1,12 +1,12 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 221550,
+  "num_followers": 221561,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6o2hQAAAAC1/VHoJVNTs6yfpxcfy9DX",
+  "snapshot_id": "Z64nagAAAAB9Rmn1rQBrcoa5/g3sIwF7",
   "tracks": [
     {
       "added_at": "2025-02-05 14:04:22",
@@ -71,6 +71,22 @@
       "duration_ms": 218508,
       "name": "Nothing Breaks Like a Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
     },
     {
       "added_at": "2024-11-14 14:26:31",
@@ -319,6 +335,22 @@
       "duration_ms": 155846,
       "name": "Run Rudolph Run - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2024-10-02 23:46:54",
@@ -609,6 +641,42 @@
       "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Fantasi \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5iTMZDsFx6oB07qzN7di2N"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Fantasi \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3jGkygcJraGPQ47TOH0wMw"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Sunnanvind \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE"
+      },
+      "artists": [
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 169061,
+      "name": "Sunnanvind \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD"
+    },
+    {
       "added_at": "2024-07-03 19:03:24",
       "album": {
         "name": "Rendezvous",
@@ -697,6 +765,22 @@
       "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Den ljusnande framtid",
+        "url": "https://open.spotify.com/album/5OYltiqwV4irFT89HsXp7I"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Den ljusnande framtid",
+      "url": "https://open.spotify.com/track/7mPGqCuSYfv7apGURfkwcT"
+    },
+    {
       "added_at": "2024-05-31 18:47:14",
       "album": {
         "name": "Ravyn Lenae - Spotify Singles",
@@ -727,6 +811,22 @@
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-05-16 17:07:32",
@@ -777,6 +877,22 @@
       "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Call Your Girlfriend - Spotify Singles",
+        "url": "https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Call Your Girlfriend - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP"
+    },
+    {
       "added_at": "2024-05-08 14:27:17",
       "album": {
         "name": "Brinca - Spotify Singles",
@@ -799,6 +915,22 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Utan dina andetag - Spotify Singles",
+        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Utan dina andetag - Spotify Singles",
+      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
     },
     {
       "added_at": "2024-04-24 15:21:39",
@@ -1133,6 +1265,38 @@
       "url": "https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Move (Ensam) - Spotify Singles",
+        "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 147723,
+      "name": "Move (Ensam) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+    },
+    {
       "added_at": "2023-12-06 05:00:00",
       "album": {
         "name": "Astronaut - Spotify Singles",
@@ -1461,6 +1625,58 @@
       "url": "https://open.spotify.com/track/2l6lCBL8egSBfL4ih4KtKk"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Valborg - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 153830,
+      "name": "Valborg - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Fri till slut - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 288155,
+      "name": "Fri till slut - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+    },
+    {
       "added_at": "2023-10-18 18:23:37",
       "album": {
         "name": "Spotify Singles",
@@ -1689,6 +1905,50 @@
       "url": "https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Ignorant / Good Time",
+        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Landon Cube",
+          "url": "https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD"
+        }
+      ],
+      "duration_ms": 236708,
+      "name": "Ignorant (feat. Puri, Landon Cube) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Ignorant / Good Time",
+        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 180848,
+      "name": "Good Time (feat. Puri) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -1819,6 +2079,30 @@
       "duration_ms": 137691,
       "name": "Shchedrivka - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Ride With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Fu3go",
+          "url": "https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        }
+      ],
+      "duration_ms": 119868,
+      "name": "Ride With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -2097,6 +2381,38 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Looking For Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 265921,
+      "name": "Say What You Will - Spotify Singles",
+      "url": "https://open.spotify.com/track/16mmwaa47zAmT0HGwktHT4"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -2307,6 +2623,74 @@
       "duration_ms": 234799,
       "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Genom eld (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Genom eld - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Put Me First - Spotify Singles",
+        "url": "https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 145186,
+      "name": "Put Me First - Spotify Singles",
+      "url": "https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -2637,6 +3021,62 @@
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Satsa \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 177630,
+      "name": "Satsa \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Replay \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        },
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Replay \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "Kvar - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Kvar - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -2741,6 +3181,22 @@
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/3pcUoFcxYue6mWBKPFr3c0"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 234603,
+      "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/5TFJLlEljmmlxS3s58oQN8"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -2835,6 +3291,22 @@
       "duration_ms": 157661,
       "name": "sideways - Spotify Singles",
       "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
+    },
+    {
+      "added_at": "2025-02-13 16:43:57",
+      "album": {
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -3145,6 +3617,26 @@
       "url": "https://open.spotify.com/track/5pk8bmS1pBY19ylTy6w6mO"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
+        "url": "https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        },
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
+      "url": "https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Movimento - Spotify Singles",
@@ -3421,6 +3913,26 @@
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "leilo brenner (Spotify Studio It's Hits Recording)",
+        "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 143197,
+      "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
+      "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Tappat - Spotify Singles",
@@ -3673,6 +4185,42 @@
       "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "WOMAN - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/1wdql8IkaenvftUwPcg4eb"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "WOMAN - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/2mIRMIg4LpCWuN77vu3UnX"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Internet (Spotify Studio 100 Recording)",
+        "url": "https://open.spotify.com/album/6wkVGnxBjeFEqu1nfi3HDl"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Internet (Spotify Studio 100 Recording)",
+      "url": "https://open.spotify.com/track/1YjLdKzp7uCPJgbN9cUGco"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -3797,6 +4345,26 @@
       "url": "https://open.spotify.com/track/3oafbB3oIvGF8IxgDOfYJV"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl"
+      },
+      "artists": [
+        {
+          "name": "Robin Nazari",
+          "url": "https://open.spotify.com/artist/4aK9sNftDZEcieWnzCk2Ed"
+        },
+        {
+          "name": "RAHIMIC",
+          "url": "https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM"
+        }
+      ],
+      "duration_ms": 201481,
+      "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -3895,6 +4463,22 @@
       "duration_ms": 177717,
       "name": "Kiwi - Spotify Singles",
       "url": "https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
+        "url": "https://open.spotify.com/album/5rdfKaVdj9wKhRkPq0iBVE"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
+      "url": "https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -5133,6 +5717,22 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Happy New Year - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 184828,
+      "name": "Happy New Year - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -5197,6 +5797,62 @@
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Didn\u2019t Know Shit - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        },
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        }
+      ],
+      "duration_ms": 213820,
+      "name": "Didn\u2019t Know Shit - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Flyg Fula Fluga Flyg - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Flyg Fula Fluga Flyg",
+      "url": "https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Little Things (Spotify Studio Oyster Recording)",
+        "url": "https://open.spotify.com/album/58X5fsJT2bWfB6KpQJhGzI"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Little Things - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/6AyfS4IEX0XrPOgJdb1kAM"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -5227,6 +5883,26 @@
       "duration_ms": 208558,
       "name": "LA DESPEDIDA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "En sekund (Spotify Studio It's Hits Recording)",
+        "url": "https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 219514,
+      "name": "En sekund",
+      "url": "https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -5291,6 +5967,26 @@
       "duration_ms": 249736,
       "name": "Hope She'll Be Happier - Spotify Singles",
       "url": "https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Going Lit - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        },
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Going Lit - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -6073,6 +6769,22 @@
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Mitt hj\u00e4rta bl\u00f6der - Spotify Studio It\u2019s Hits Recording",
+        "url": "https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 177829,
+      "name": "Mitt hj\u00e4rta bl\u00f6der - Spotify Studio It\u2019s Hits Recording",
+      "url": "https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -6143,6 +6855,54 @@
       "duration_ms": 241193,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Satan i gatan - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Satan i gatan - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/6FQWsSZIbvt53KmJ9goFGK"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Jag kommer - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/1R366ZOoz4gnCUTdFMbW1Z"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 186522,
+      "name": "Jag kommer - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/7mo7CfYuvDyhP4C63SJKnV"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Sn\u00e4lla bli min - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Sn\u00e4lla bli min - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -6243,6 +7003,42 @@
       "duration_ms": 211626,
       "name": "My Future",
       "url": "https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Carefree (Spotify Studio Oyster Recording)",
+        "url": "https://open.spotify.com/album/0BJEn3fu5A8BYV7VQeod0R"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 215162,
+      "name": "Carefree - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/6hVWQIhhwl9JDgVIjTIgRw"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "VHS (Spotify Studio It\u2019s Hits Recording)",
+        "url": "https://open.spotify.com/album/57ifGbI6SAuyB781G0fGlN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/16RNbyvO5wwvp1LSt0MZea"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -6353,6 +7149,66 @@
       "url": "https://open.spotify.com/track/0K0E8Pd9Vg8gd8PaMJ7BnF"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "With You (Spotify Studio Oyster Recording)",
+        "url": "https://open.spotify.com/album/3x0z2ulttbauvykzAS786F"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "With You - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/1gob2nlpbo0RwsjMMKlrKy"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Guitar - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Guitar - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
+        "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
+        },
+        {
+          "name": "GABIFUEGO",
+          "url": "https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "fuego (feat. GABIFUEGO) - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -6403,6 +7259,42 @@
       "duration_ms": 141123,
       "name": "Keep Hope - Spotify Singles",
       "url": "https://open.spotify.com/track/7fachAuYAPo6hjNTBYNjAG"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Give You More - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/5L1NqHlGzJPQaLc5XnJs5I"
+      },
+      "artists": [
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Give You More - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/1vgFfEbqFXa6K4H4WGYR0J"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "OuOu (Spotify Studio 100 Recording)",
+        "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 153419,
+      "name": "OuOu - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -6467,6 +7359,58 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "En Stund (Spotify Studio 100 Recording)",
+        "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "En Stund - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Love Like This Before - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH"
+      },
+      "artists": [
+        {
+          "name": "Lil Halima",
+          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
+        },
+        {
+          "name": "NAHOM",
+          "url": "https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Love Like This Before - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "We Don\u00b4t Talk Anyway - Spotify Studio It\u00b4s Hits Recording",
+        "url": "https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "We Don't Talk Anyway - Spotify Studio It\u00b4s Hits Recording",
+      "url": "https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -6845,6 +7789,26 @@
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Komma \u00f6ver dig (Spotify Studio It's Hits Recording)",
+        "url": "https://open.spotify.com/album/5hgN3SUTwOFBmM0zKRyC1H"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "duration_ms": 175565,
+      "name": "Komma \u00f6ver dig - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/0llOYwxUVtCD5lBJMrj7ox"
+    },
+    {
       "added_at": "2025-02-07 20:39:39",
       "album": {
         "name": "Mucho Peor - Spotify Singles",
@@ -6921,6 +7885,58 @@
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Shelley - Spotify Studio It's Hits Recording (feat. Simon Ljungman)",
+        "url": "https://open.spotify.com/album/24iQXGfk58P1f5EMOnE83r"
+      },
+      "artists": [
+        {
+          "name": "GAMMAL",
+          "url": "https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5"
+        },
+        {
+          "name": "Simon Ljungman",
+          "url": "https://open.spotify.com/artist/6xHcaF74pS4vWsMUJ8J58c"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Shelley - Spotify Studio It's Hits Recording (feat. Simon Ljungman)",
+      "url": "https://open.spotify.com/track/603Kxiz7PagWpTA4AwWQwf"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Ghost Town - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/6BsFTqro25MBsYW60rRkJn"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        }
+      ],
+      "duration_ms": 221647,
+      "name": "Ghost Town - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/1u2PjlxxOf3lqW15aVjU1L"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 172717,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -6987,6 +8003,22 @@
       "duration_ms": 235264,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Say It - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 173175,
+      "name": "Say It - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -7125,6 +8157,38 @@
       "url": "https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr"
     },
     {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Studio It's Hits",
+        "url": "https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 143368,
+      "name": "TG4M - Spotify Studios Recording",
+      "url": "https://open.spotify.com/track/4A8UGOAh2OYM6hn6tTI95H"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Studio It's Hits",
+        "url": "https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 143368,
+      "name": "TG4M - Spotify Studios Recording - Instrumental",
+      "url": "https://open.spotify.com/track/4782T1rEuSDMNIE4he0aQO"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Creep (mint Singles)",
@@ -7143,6 +8207,38 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4mRL58Ldyv4srHkMjtU23V"
+      },
+      "artists": [
+        {
+          "name": "Pyhimys",
+          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Parempi yksin - Recorded At Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/6C8yvrWVybDnGYZa5yHBHm"
+    },
+    {
+      "added_at": "2025-02-13 17:00:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4mRL58Ldyv4srHkMjtU23V"
+      },
+      "artists": [
+        {
+          "name": "Pyhimys",
+          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+        }
+      ],
+      "duration_ms": 202616,
+      "name": "Paranoid 4:20 - Recorded At Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/6mu6BMuMi2f6mMRQv8WkzM"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -7509,6 +8605,66 @@
       "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
     },
     {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4AVA86lcgunlh9RrmoW0bP"
+      },
+      "artists": [
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        },
+        {
+          "name": "Ayda",
+          "url": "https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b"
+        },
+        {
+          "name": "Gee Dixon",
+          "url": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Habibi (Ya Nour El Ein) - Recorded at Spotify Studios Stockholm (feat. Ayda, Gee Dixon & Masse)",
+      "url": "https://open.spotify.com/track/5G3HClgDw2gUy1n690Seq5"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4AVA86lcgunlh9RrmoW0bP"
+      },
+      "artists": [
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        }
+      ],
+      "duration_ms": 189576,
+      "name": "Chagga (Lounge Version) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2nLWGWZXUa7AxGmrqrM8Xy"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Studio 100",
+        "url": "https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "Branschen - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -7581,6 +8737,122 @@
       "url": "https://open.spotify.com/track/08UIshEdTPA9OoWj1tkFkI"
     },
     {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vOd9uvnF59hjDljXL7rN0"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 195543,
+      "name": "Beautiful - Recorded at Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/2ohwUux8jiCDTzjdYoK3HQ"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vOd9uvnF59hjDljXL7rN0"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 167505,
+      "name": "Basuner Og Engle - Recorded at Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/6Zw6Z6bHE4tt2GuN8eFak6"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6UQqab1wxytFZ5xhfxqYOH"
+      },
+      "artists": [
+        {
+          "name": "Stiftelsen",
+          "url": "https://open.spotify.com/artist/00PLVqZ4oaOmbI4lacLUBO"
+        },
+        {
+          "name": "Dea Norberg",
+          "url": "https://open.spotify.com/artist/1s2NADRmVmkEjLZlE6vHvE"
+        }
+      ],
+      "duration_ms": 184650,
+      "name": "H\u00e5ll om mej! - Recorded At Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/7aok8NqouDCFp2GKem5B6e"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6UQqab1wxytFZ5xhfxqYOH"
+      },
+      "artists": [
+        {
+          "name": "Stiftelsen",
+          "url": "https://open.spotify.com/artist/00PLVqZ4oaOmbI4lacLUBO"
+        }
+      ],
+      "duration_ms": 229190,
+      "name": "Ditt andra jag - Recorded At Spotify Studios, Stockholm",
+      "url": "https://open.spotify.com/track/0revL1XgDPrOcrMPJMGgX8"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Studio 100",
+        "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
+      },
+      "artists": [
+        {
+          "name": "Aden x Asme",
+          "url": "https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Hammarkullen - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Studio 100",
+        "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
+      },
+      "artists": [
+        {
+          "name": "Aden x Asme",
+          "url": "https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Hammarkullen - Recorded At Spotify Studios Stockholm - Instrumental",
+      "url": "https://open.spotify.com/track/0ItaFmeMHPjTWeYzKSgXE3"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -7643,6 +8915,46 @@
       "duration_ms": 231629,
       "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2NbZirpvq1Tx4fQKRW7Cnq"
+      },
+      "artists": [
+        {
+          "name": "ZK",
+          "url": "https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En"
+        },
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        }
+      ],
+      "duration_ms": 180690,
+      "name": "Glemmer Aldrig - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/67tWLR0njrawEfLv49JAY0"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2NbZirpvq1Tx4fQKRW7Cnq"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        },
+        {
+          "name": "ZK",
+          "url": "https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En"
+        }
+      ],
+      "duration_ms": 159503,
+      "name": "Normalt - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/22GEKk6KKUzPzzjkajBcP0"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -7713,6 +9025,158 @@
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
+        "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "ISON",
+          "url": "https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5"
+        },
+        {
+          "name": "Fille Danza",
+          "url": "https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        },
+        {
+          "name": "Saliboy",
+          "url": "https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "SHRN",
+          "url": "https://open.spotify.com/artist/1s08lsfz12cC55p6MB5XMf"
+        },
+        {
+          "name": "Macky",
+          "url": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+        },
+        {
+          "name": "Aleks",
+          "url": "https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs"
+        },
+        {
+          "name": "Blen",
+          "url": "https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7"
+        },
+        {
+          "name": "Ismael",
+          "url": "https://open.spotify.com/artist/4kyXgKmaqyXCLW5e0sxqMj"
+        },
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        },
+        {
+          "name": "Mack Beats",
+          "url": "https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "L\u00e4gg ner ditt vapen Remix - Recorded at Spotify Studios Stockholm (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
+      "url": "https://open.spotify.com/track/08AjLNql6tuf1avIzHdKns"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
+        "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "ISON",
+          "url": "https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5"
+        },
+        {
+          "name": "Fille Danza",
+          "url": "https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        },
+        {
+          "name": "Saliboy",
+          "url": "https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "SHRN",
+          "url": "https://open.spotify.com/artist/1s08lsfz12cC55p6MB5XMf"
+        },
+        {
+          "name": "Macky",
+          "url": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+        },
+        {
+          "name": "Aleks",
+          "url": "https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs"
+        },
+        {
+          "name": "Blen",
+          "url": "https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7"
+        },
+        {
+          "name": "Ismael",
+          "url": "https://open.spotify.com/artist/4kyXgKmaqyXCLW5e0sxqMj"
+        },
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        },
+        {
+          "name": "Mack Beats",
+          "url": "https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "L\u00e4gg ner ditt vapen Remix - Recorded at Spotify Studios Stockholm (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats) - Instrumental",
+      "url": "https://open.spotify.com/track/0GuUt8zHjWvNdYs4g4zxYF"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -7751,6 +9215,38 @@
       "duration_ms": 222520,
       "name": "I Against I - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4VgtRoEKV5At6Ye31ZSzsW"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ABEJ35W5S5GyhC7HfMP85"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 149044,
+      "name": "Om inte du vill ha mig - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/1psUI73ZduPyuOBhn1Op9K"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ABEJ35W5S5GyhC7HfMP85"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 225762,
+      "name": "Sunnanvind - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7Ls30Nd9Yp2kZWKieign9d"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -7881,6 +9377,38 @@
       "url": "https://open.spotify.com/track/2TPghTZ8xcT9EYlA0rUxBy"
     },
     {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 187819,
+      "name": "Auf Wiedersehen - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/1lr9eOO2uWRbac20iZNwxb"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 221069,
+      "name": "Ledaren - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/3DZELcEJ8Aa4qiWhNSAseb"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -7943,6 +9471,38 @@
       "duration_ms": 262642,
       "name": "Take Me Home, Country Road - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "50 Souls and a Discobowl - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4HL64eE6Tg7DOHRLZ1Wgd3"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 275195,
+      "name": "Ready / Problems - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5vo56PaLPIECnaM1u7xQvg"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -9681,6 +11241,38 @@
       "url": "https://open.spotify.com/track/51Tb0DkANWOoURN81p4ugm"
     },
     {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4lwzXL6TSlTcMUNkdfFUyr"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 189237,
+      "name": "Ben k\u00f6tt & k\u00e4nsler - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4WfDqKekwWYd5sz0iQcA6x"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4lwzXL6TSlTcMUNkdfFUyr"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 245741,
+      "name": "Genesarets sj\u00f6 - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/67HngDDAFoe2pQ82nPi1Vz"
+    },
+    {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
@@ -10107,6 +11699,38 @@
       "duration_ms": 281960,
       "name": "Cornflake Girl - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "K\u00e4r i din k\u00e4rlek - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5an6BWQDhw4FnjZhdyOFuL"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Ingen som jag - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/1B74XlQ7AIxiqZhW6yonuq"
     },
     {
       "added_at": "2023-10-02 17:57:02",
@@ -10907,6 +12531,38 @@
       "duration_ms": 254915,
       "name": "Hon dansar vidare i livet PT. 2 - Recorded At Spotify Studios, Stockholm",
       "url": "https://open.spotify.com/track/2bPFaTfpdC2hNiFiRLbwtD"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6v4XRIWhji6vi6nqLpBUad"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 213124,
+      "name": "Future - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5SfioyzzpZdpVDr9YrZEvL"
+    },
+    {
+      "added_at": "2025-02-13 17:10:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6v4XRIWhji6vi6nqLpBUad"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 243871,
+      "name": "Self Control - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/6KlATE5nsxHMGnwLjUeMgQ"
     },
     {
       "added_at": "2023-10-02 17:57:02",

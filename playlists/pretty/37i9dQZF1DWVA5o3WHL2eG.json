@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Thala",
-  "num_followers": 37630,
+  "num_followers": 37628,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "Lumen",
-        "url": "https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp"
-      },
-      "artists": [
-        {
-          "name": "Haiyti",
-          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
-        }
-      ],
-      "duration_ms": 143886,
-      "name": "Lumen",
-      "url": "https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
         "name": "Whatever Happens",
         "url": "https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 194000,
       "name": "Whatever Happens",
       "url": "https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "Lumen",
+        "url": "https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp"
+      },
+      "artists": [
+        {
+          "name": "Haiyti",
+          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
+        }
+      ],
+      "duration_ms": 143886,
+      "name": "Lumen",
+      "url": "https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "state of mind",
-        "url": "https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI"
-      },
-      "artists": [
-        {
-          "name": "Caterina Lee",
-          "url": "https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw"
-        }
-      ],
-      "duration_ms": 187975,
-      "name": "state of mind",
-      "url": "https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
         "name": "Mondlicht",
         "url": "https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183182,
       "name": "Mondlicht",
       "url": "https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "state of mind",
+        "url": "https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI"
+      },
+      "artists": [
+        {
+          "name": "Caterina Lee",
+          "url": "https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw"
+        }
+      ],
+      "duration_ms": 187975,
+      "name": "state of mind",
+      "url": "https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC"
     },
     {
       "added_at": "2025-02-04 23:00:39",

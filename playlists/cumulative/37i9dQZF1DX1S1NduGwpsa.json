@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jeff Goldblum\n\n",
+  "description": "The best jazz new releases. Cover: Lila-May\n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -823,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Music for Roads",
+        "url": "https://open.spotify.com/album/3LkNzhTvYjDCiDe1ikhAn6"
+      },
+      "artists": [
+        {
+          "name": "Tuomo & Markus",
+          "url": "https://open.spotify.com/artist/5Ab1JRVcEcWR0VqwID9IO5"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341459,
+      "name": "Appalachian Landscape",
+      "url": "https://open.spotify.com/track/64XhMVvHIOMM6QQljekrv8"
+    },
+    {
+      "album": {
         "name": "L'Odyss\u00e9e de Paul Lay",
         "url": "https://open.spotify.com/album/06LYAgvG8QiGoUAcMUbP62"
       },
@@ -834,7 +860,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 245138,
       "name": "Argos l'Agile",
       "url": "https://open.spotify.com/track/6YA1CAxpNkhujkByiCQFyf"
@@ -3430,7 +3456,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 229920,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/2OiXDa9qGgRqGW0BeDsvO4"
@@ -6486,6 +6512,24 @@
       "duration_ms": 195849,
       "name": "Jazz Hands (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL"
+    },
+    {
+      "album": {
+        "name": "Jeux de chats au jardin",
+        "url": "https://open.spotify.com/album/1dJGDHwcSarb6FAzI4gPSm"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "Jeux de chats au jardin",
+      "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
     },
     {
       "album": {
@@ -10652,7 +10696,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234680,
       "name": "Sea",
       "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
@@ -11404,6 +11448,24 @@
       "duration_ms": 340000,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
+    },
+    {
+      "album": {
+        "name": "Stories #2",
+        "url": "https://open.spotify.com/album/2BbyKf7DN6kQDFbsmVZ9Zk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Leleu",
+          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233293,
+      "name": "Stories #2",
+      "url": "https://open.spotify.com/track/6fZr24BqGaDmu6zexgE6N4"
     },
     {
       "album": {

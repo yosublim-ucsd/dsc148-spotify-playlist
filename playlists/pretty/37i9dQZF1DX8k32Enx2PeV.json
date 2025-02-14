@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 12410,
+  "num_followers": 12412,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 167215,
-      "name": "Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 167215,
+      "name": "Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Pasatiempo",
-        "url": "https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39"
-      },
-      "artists": [
-        {
-          "name": "Tim Mara",
-          "url": "https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR"
-        }
-      ],
-      "duration_ms": 202344,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39"
+      },
+      "artists": [
+        {
+          "name": "Tim Mara",
+          "url": "https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR"
+        }
+      ],
+      "duration_ms": 202344,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV"
     },
     {
       "added_at": "2024-08-09 04:23:31",

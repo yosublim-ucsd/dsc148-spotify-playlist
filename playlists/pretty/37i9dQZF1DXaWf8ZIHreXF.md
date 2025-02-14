@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,537 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,578 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 61 | [Born To Be Yours](https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae) | 3:13 |
 | 62 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
 | 63 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
-| 64 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
-| 65 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/412luShbmlgqqgYFStIB1s) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Wish You Were Mine](https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU) | 2:57 |
+| 64 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/412luShbmlgqqgYFStIB1s) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Wish You Were Mine](https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU) | 2:57 |
+| 65 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 66 | [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ocean Drive](https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv) | 3:26 |
 | 67 | [Electricity](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Electricity](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 |
 | 68 | [Desire \- Gryffin Remix](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Desire \(Gryffin Remix\)](https://open.spotify.com/album/2EaUj2cxVeL2DhATcN9xcL) | 4:28 |

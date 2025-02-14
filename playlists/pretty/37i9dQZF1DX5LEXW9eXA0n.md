@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Joon Il Jeong\(정준일\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,750 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,734 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 19 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
 | 20 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
 | 21 | [Be My Shelter, Hold Me Close](https://open.spotify.com/track/13TYjE0MVF38mPzkveRDxm) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Motel California OST Part.1](https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6) | 3:47 |
-| 22 | [Starlight](https://open.spotify.com/track/4jF30l1l7QsJA9AEuQgayG) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Starlight](https://open.spotify.com/album/1V6tpkhkFaFo6C3xrbRVL8) | 5:26 |
+| 22 | [Starlight \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/track/4jF30l1l7QsJA9AEuQgayG) | [Youngjae](https://open.spotify.com/artist/5b51dg40KfbVvr60Urn1O6) | [Starlight \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/album/1V6tpkhkFaFo6C3xrbRVL8) | 5:26 |
 | 23 | [Hoper](https://open.spotify.com/track/5a22n2txGRFEcefZIts7lR) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Hoper](https://open.spotify.com/album/456MmnToDPE7H31dvCHgtw) | 3:29 |
 | 24 | [I'll take you in my arms](https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Desperate Mrs\. Seonju OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M) | 3:40 |
 | 25 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [Song Hye Kyo](https://open.spotify.com/artist/6Wu6mMHlRXU6Y5mBeccwUY) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 |

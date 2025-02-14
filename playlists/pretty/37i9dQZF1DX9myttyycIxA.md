@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,457 likes - 107 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,474 likes - 107 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

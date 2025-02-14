@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,722 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,725 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 35 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 |
 | 36 | [I Believe](https://open.spotify.com/track/0XyS7ARIsq2klBj13ovRku) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4oYqY36ZQDueqm535USQ2C) | 5:02 |
 | 37 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
-| 38 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 |
-| 39 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 38 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 39 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 |
 | 40 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 |
 | 41 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
-| 42 | [Who You Say I Am \- Studio Version](https://open.spotify.com/track/2KngtvMAc2wmPipizcEnce) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Who You Say I Am \(Studio Version\)](https://open.spotify.com/album/0BiYW4uWeQkrIquIZ4py1K) | 3:18 |
-| 43 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
-| 44 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
+| 42 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
+| 43 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
+| 44 | [Who You Say I Am \- Studio Version](https://open.spotify.com/track/2KngtvMAc2wmPipizcEnce) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Who You Say I Am \(Studio Version\)](https://open.spotify.com/album/0BiYW4uWeQkrIquIZ4py1K) | 3:18 |
 | 45 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
 | 46 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 |
 | 47 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |

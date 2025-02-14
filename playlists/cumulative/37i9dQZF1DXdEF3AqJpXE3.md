@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: The Weeknd
+> The best tracks from the world of music\. Cover: DIOR 大穎
 
 378 songs - 20 hr 24 min
 

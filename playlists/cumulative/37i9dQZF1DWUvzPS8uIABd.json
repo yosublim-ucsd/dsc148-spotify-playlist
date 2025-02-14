@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa JVG.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Erika Vikman.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 183106,
       "name": "Askel kerrallaan (feat. HUGO)",
       "url": "https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178339,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb"
+    },
+    {
+      "album": {
         "name": "Dice",
         "url": "https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk"
       },
@@ -918,6 +936,24 @@
       "duration_ms": 181805,
       "name": "Ei kauniimpaa - Vain el\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/47JIfPEVeCbgJB6Gmw35qr"
+    },
+    {
+      "album": {
+        "name": "Ei kenenk\u00e4\u00e4n maa",
+        "url": "https://open.spotify.com/album/4ZdRFk9YIMNcxfG6MqNBsP"
+      },
+      "artists": [
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196539,
+      "name": "Ei kenenk\u00e4\u00e4n maa",
+      "url": "https://open.spotify.com/track/6PANiQUSF5adKoACZMBX59"
     },
     {
       "album": {
@@ -1699,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Huppu p\u00e4\u00e4s",
+        "url": "https://open.spotify.com/album/4YPgClUSTizw9HFBLAlbzu"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197987,
+      "name": "Huppu p\u00e4\u00e4s",
+      "url": "https://open.spotify.com/track/0HB5nPu3zdtVTvtsrgLc27"
+    },
+    {
+      "album": {
         "name": "El\u00e4m\u00e4nmittainen sori sori",
         "url": "https://open.spotify.com/album/3QDVZsz7dny6mzY6b3ULHq"
       },
@@ -1994,6 +2048,24 @@
       "duration_ms": 234093,
       "name": "Ikuinen elokuu",
       "url": "https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY"
+    },
+    {
+      "album": {
+        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
+        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154443,
+      "name": "Ik\u00e4v\u00e4 mua",
+      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
       "album": {
@@ -2895,6 +2967,28 @@
     },
     {
       "album": {
+        "name": "Kirje",
+        "url": "https://open.spotify.com/album/28kqNQaSnqsBqz0YmZ85iB"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        },
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Kirje",
+      "url": "https://open.spotify.com/track/6yZNNh6RDG6dvGS9Wae18b"
+    },
+    {
+      "album": {
         "name": "KOHTALO",
         "url": "https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A"
       },
@@ -3102,6 +3196,24 @@
       "duration_ms": 211687,
       "name": "Kukapa ei",
       "url": "https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau"
+    },
+    {
+      "album": {
+        "name": "Kun rauhoitun",
+        "url": "https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt"
+      },
+      "artists": [
+        {
+          "name": "Irina",
+          "url": "https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271592,
+      "name": "Kun rauhoitun",
+      "url": "https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT"
     },
     {
       "album": {
@@ -3338,6 +3450,24 @@
       "duration_ms": 195627,
       "name": "Laula se ulos (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/4JS8uLJcLlUW7OR819OFbu"
+    },
+    {
+      "album": {
+        "name": "Laulumme",
+        "url": "https://open.spotify.com/album/1RZmPwJdlBFNoE4qOIbeZW"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Music Group",
+          "url": "https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "Laulumme",
+      "url": "https://open.spotify.com/track/7FI30NKEjSkRAA0HS8So9t"
     },
     {
       "album": {
@@ -3849,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "Me ollaan nuoriso pt.2 (feat. MD$)",
+        "url": "https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        },
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182382,
+      "name": "Me ollaan nuoriso pt.2 (feat. MD$)",
+      "url": "https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV"
+    },
+    {
+      "album": {
         "name": "Me ollaan siskot",
         "url": "https://open.spotify.com/album/74gp6EnHAcwSQX6PW0l50u"
       },
@@ -4339,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "Musta hevonen",
+        "url": "https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162050,
+      "name": "Musta hevonen",
+      "url": "https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY"
+    },
+    {
+      "album": {
         "name": "Mustangi II",
         "url": "https://open.spotify.com/album/16zFci2pCEsVfQdqH5D0Ch"
       },
@@ -4560,7 +4730,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 187406,
       "name": "Noitanainen",
       "url": "https://open.spotify.com/track/778YD2Oojx8S17w0r9GqMY"
@@ -4621,6 +4791,28 @@
     },
     {
       "album": {
+        "name": "Nuori & kuolematon",
+        "url": "https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Nuori & kuolematon",
+      "url": "https://open.spotify.com/track/2atByJ9SAhyxRncHVEcJqs"
+    },
+    {
+      "album": {
         "name": "Nuori & Tyhm\u00e4",
         "url": "https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r"
       },
@@ -4676,7 +4868,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 165773,
       "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
       "url": "https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR"
@@ -5000,7 +5192,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 183777,
       "name": "Paletti (feat. Sexmane)",
       "url": "https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX"
@@ -5412,7 +5604,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 207796,
       "name": "P\u00e4iv\u00e4 joka meid\u00e4t pilaa",
       "url": "https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C"
@@ -6654,6 +6846,24 @@
       "duration_ms": 131423,
       "name": "Syysunelma (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/4lUCfF0NQiKYmw3kQnSwzB"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 et ole yksin",
+        "url": "https://open.spotify.com/album/5nowBOIX8BSqkqAEzR6PIJ"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "S\u00e4 et ole yksin",
+      "url": "https://open.spotify.com/track/5eI0ESdNu0U2eiHdCQ9imT"
     },
     {
       "album": {
@@ -7998,7 +8208,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 121224,
       "name": "Willy Wonka Freestyle",
       "url": "https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC"

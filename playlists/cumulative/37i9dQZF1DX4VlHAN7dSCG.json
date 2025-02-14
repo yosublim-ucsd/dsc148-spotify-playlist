@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Boom\uff01\u602a\u7269\u661f\u4eba",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 238897,
       "name": "A Simple Song",
       "url": "https://open.spotify.com/track/4fyWhlyUb1LKfMXiQd7vqV"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 290473,
       "name": "\u4e00\u8d77\u770b\u9ec3\u660f (Teleportation chinese ver.) [OT\uff1a\u30c6\u30ec\u30dd\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3 Teleportation]",
       "url": "https://open.spotify.com/track/2WbJ2gT6rI0pLxjhZ87qnG"
@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "\u5168\u4e16\u754c\u90fd\u8ddf\u6211\u4f5c\u5c0d",
+        "url": "https://open.spotify.com/album/2z6SPX4Y2e2HL5rfktOGdI"
+      },
+      "artists": [
+        {
+          "name": "GOTA",
+          "url": "https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "\u5168\u4e16\u754c\u90fd\u8ddf\u6211\u4f5c\u5c0d",
+      "url": "https://open.spotify.com/track/1gWGEzkIzk0RElZxGQprPC"
+    },
+    {
+      "album": {
         "name": "\u5169\u500b\u4e00\u500b\u4eba",
         "url": "https://open.spotify.com/album/7n6kwKQ7c0A74RcxhFvJMH"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 320000,
       "name": "\u5169\u8f29\u5b50\u7684\u6642\u9593",
       "url": "https://open.spotify.com/track/0QgvnrRlzw86S87W7EnXoS"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 332672,
       "name": "\u5931\u53bb\u505a\u5922\u80fd\u529b\u7684\u4eba\u5011 (feat.\u77e5\u66f4) [\u5f71\u96c6\u300a\u6b7b\u4e86\u4e00\u500b\u5a1b\u6a02\u5973\u8a18\u8005\u4e4b\u5f8c\u300b\u4e3b\u984c\u66f2]",
       "url": "https://open.spotify.com/track/5EGr2kweIRQ85ZTqjwJJDt"
@@ -4030,6 +4048,24 @@
       "duration_ms": 238165,
       "name": "\u611b\u60c5\u90a3\u9846\u661f",
       "url": "https://open.spotify.com/track/4z0SyVy1dNUfgwwHQyTgNW"
+    },
+    {
+      "album": {
+        "name": "\u611b\u7684\u591a\u91cd\u5b87\u5b99",
+        "url": "https://open.spotify.com/album/4aFmyXthHuHDdFP7cVngql"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Bac",
+          "url": "https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230783,
+      "name": "\u611b\u7684\u591a\u91cd\u5b87\u5b99 (\u5f71\u96c6\u300a\u7ae5\u8a71\u6545\u4e8b\u4e0b\u96c6\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/7GFrDoCFRFab0YFLYosseU"
     },
     {
       "album": {
@@ -5028,7 +5064,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 198867,
       "name": "\u672a\u6fdf",
       "url": "https://open.spotify.com/track/4czAdMTQSVvWADk8V0RChL"
@@ -5068,6 +5104,24 @@
       "duration_ms": 202702,
       "name": "\u6975\u6a02\u4e16\u754c",
       "url": "https://open.spotify.com/track/5FshdcJMvxXnxT1Ja3lgXJ"
+    },
+    {
+      "album": {
+        "name": "\u53c1\u91cd\u697c",
+        "url": "https://open.spotify.com/album/2hBfgiLMLCHDb6F5r5pMVq"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u4ee3\u5c11\u5e74\u5718",
+          "url": "https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207145,
+      "name": "\u6a13\u5916\u6a13",
+      "url": "https://open.spotify.com/track/2ioj1OmEaoG9ANyPYiL0zT"
     },
     {
       "album": {
@@ -5158,6 +5212,24 @@
       "duration_ms": 241655,
       "name": "\u6c38\u665d\u98db\u8239 InSonnia (2024\u91d1\u724c\u53f0\u7063\u5564\u9152\u5e74\u5ea6\u5ee3\u544a\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1Bp5W3DSjBaOoic2gOEzBc"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u8981\u628a\u5c0f\u72d7\u9001\u5230\u592a\u7a7a\u91cc",
+        "url": "https://open.spotify.com/album/5CQjkENqrUIkIz9n5EjEU8"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u7247\u9001\u5230\u5e97\u91cc\u90a3\u5929",
+          "url": "https://open.spotify.com/artist/3raktoH5luAkdPYrc64VTi"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297955,
+      "name": "\u6c38\u8fdc\u4e0d\u4f1a\u518d\u53bb\u7684\u90a3\u4e00\u4e2a\u5730\u65b9",
+      "url": "https://open.spotify.com/track/6ljjGzjawAqVpT7eGA06bB"
     },
     {
       "album": {
@@ -5726,7 +5798,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 170722,
       "name": "\u767d\u9e3d\u4e4c\u9e26\u76f8\u7231\u7684\u620f\u7801 - \u82f1\u6587\u7248",
       "url": "https://open.spotify.com/track/2XLtkAFy5zjnPVaSLHBq0k"
@@ -5885,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "\u7b2c\u4e8c\u661f\u7cfb",
+        "url": "https://open.spotify.com/album/5qyeAkTGLclOx6BW507gnG"
+      },
+      "artists": [
+        {
+          "name": "EVENFALL",
+          "url": "https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279210,
+      "name": "\u7b2c\u4e8c\u661f\u7cfb",
+      "url": "https://open.spotify.com/track/6bRgx2NQviRyK7ltDaNoo1"
+    },
+    {
+      "album": {
         "name": "\u554a\u4f60\u662f\u6709\u4ec0\u9ebc\u554f\u984c ?",
         "url": "https://open.spotify.com/album/7q9SKcpEdO3ziJaoPiQyPF"
       },
@@ -5972,6 +6062,32 @@
       "duration_ms": 509250,
       "name": "\u7d05\u7fbd\u6bdb",
       "url": "https://open.spotify.com/track/2Cjef5qcpmMWmMKY14t7GN"
+    },
+    {
+      "album": {
+        "name": "\u7d72\u8def",
+        "url": "https://open.spotify.com/album/6P95QJVbgsF6PFabugeXIY"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5b50\u8a08\u5283 Shadow Project",
+          "url": "https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL"
+        },
+        {
+          "name": "Ye!!ow",
+          "url": "https://open.spotify.com/artist/5gWfIE7aVgxHRSipGHXDRw"
+        },
+        {
+          "name": "Ginjin",
+          "url": "https://open.spotify.com/artist/4RFxxqDxfZLkxQlcqFIjeZ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "\u7d72\u8def",
+      "url": "https://open.spotify.com/track/5OLERNfZOzj0UFICFYKlBW"
     },
     {
       "album": {
@@ -6741,6 +6857,24 @@
     },
     {
       "album": {
+        "name": "\u9577\u5cf6\u51b0\u8336",
+        "url": "https://open.spotify.com/album/1VYpCIsPKSpRAG5gTrEx2z"
+      },
+      "artists": [
+        {
+          "name": "\u5410\u53f8\u8c93 Tosuto Neko",
+          "url": "https://open.spotify.com/artist/4ueWbxowZhDNbEPxxPP0yJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296085,
+      "name": "\u9577\u5cf6\u51b0\u8336",
+      "url": "https://open.spotify.com/track/6cJqNcITSb0HxWXKvQdZQF"
+    },
+    {
+      "album": {
         "name": "\u958b\u653e\u95dc\u4fc2",
         "url": "https://open.spotify.com/album/1DXNLwhfT3al1toPPQ0bdF"
       },
@@ -6828,6 +6962,24 @@
       "duration_ms": 272343,
       "name": "\u96e8\u5f8c\u7684\u54f2\u5b78\u5bb6",
       "url": "https://open.spotify.com/track/6tLVmAUJILV52QSQHMw9PS"
+    },
+    {
+      "album": {
+        "name": "\u9700\u8981\u4f60\u966a",
+        "url": "https://open.spotify.com/album/4vysaDNfsKNqfQPd9P5J5g"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "\u9700\u8981\u4f60\u966a",
+      "url": "https://open.spotify.com/track/5AJZjLcTPz6aogfKK8H5nh"
     },
     {
       "album": {

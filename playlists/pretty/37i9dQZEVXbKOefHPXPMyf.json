@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
-  "num_followers": 17721,
+  "num_followers": 17723,
   "original_name": "Viral 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0AMSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0FdyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
         "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Como Hiciste?",
         "url": "https://open.spotify.com/album/4sMxBjThbvmU6vf41OBsKi"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3bCg1eekF9gxJIeYmfPMWP"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6hhPKXYczOspHXHXsuWgSX"
@@ -65,43 +65,23 @@
       "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 115007,
-      "name": "Querida Yo",
-      "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -121,71 +101,43 @@
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Lil Naay Pa Tripea",
-        "url": "https://open.spotify.com/album/24y5GSGg8u1t9o7TCyUsZZ"
-      },
-      "artists": [
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
         {
-          "name": "Lillmusic.in",
-          "url": "https://open.spotify.com/artist/3UdYS3dXLszm1tb2IlvHtk"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 133770,
-      "name": "Lil Naay Pa Tripea",
-      "url": "https://open.spotify.com/track/20VrNT97LUbZ5Hor3J4UhU"
+      "duration_ms": 115007,
+      "name": "Querida Yo",
+      "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Mi Refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
@@ -205,7 +157,75 @@
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Lil Naay Pa Tripea",
+        "url": "https://open.spotify.com/album/24y5GSGg8u1t9o7TCyUsZZ"
+      },
+      "artists": [
+        {
+          "name": "Lillmusic.in",
+          "url": "https://open.spotify.com/artist/3UdYS3dXLszm1tb2IlvHtk"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Lil Naay Pa Tripea",
+      "url": "https://open.spotify.com/track/20VrNT97LUbZ5Hor3J4UhU"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Parte & Choke (with Ryan Castro) [Remix]",
         "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep"
@@ -269,59 +289,7 @@
       "url": "https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -341,7 +309,55 @@
       "url": "https://open.spotify.com/track/5L7Cj7HFf7YcCb9GU1ySDt"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 142053,
+      "name": "chess - slowed",
+      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -357,7 +373,27 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 146857,
+      "name": "el ingeniero",
+      "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -389,63 +425,23 @@
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 146857,
-      "name": "el ingeniero",
-      "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Childlike Things",
-      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "chess",
-        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
-      },
-      "artists": [
-        {
-          "name": "joyful",
-          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
-        }
-      ],
-      "duration_ms": 142053,
-      "name": "chess - slowed",
-      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -469,39 +465,7 @@
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 200193,
-      "name": "Que Suerte Tenerte",
-      "url": "https://open.spotify.com/track/5Vn2XpqzUOozKNmBmAgysw"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Coraz\u00f3n Part\u00edo",
         "url": "https://open.spotify.com/album/5zFpjiEauzmd0quSZxEXpy"
@@ -521,7 +485,59 @@
       "url": "https://open.spotify.com/track/2LPDdnXn13fw5JmIemG4VE"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 200193,
+      "name": "Que Suerte Tenerte",
+      "url": "https://open.spotify.com/track/5Vn2XpqzUOozKNmBmAgysw"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Childlike Things",
+      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "VITAMINA",
         "url": "https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP"
@@ -537,43 +553,23 @@
       "url": "https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Cobro",
+        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
+      "duration_ms": 164880,
+      "name": "Cobro",
+      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -593,115 +589,47 @@
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Cobro",
-        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Cobro",
-      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Hermanas de leche",
-        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 165318,
-      "name": "Hermanas de leche",
-      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/087NOouwPDgwXYJzr2T575"
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
       },
       "artists": [
         {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 102214,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/1uZDY0h2g19vtNhzybQNn4"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Hoy no me siento bien",
-        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 153709,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Alter Ego (with JT)",
-        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Alter Ego (with JT)",
-      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
@@ -721,95 +649,63 @@
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 134097,
-      "name": "CATFISH",
-      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "DONDE TE ESCONDES?",
-        "url": "https://open.spotify.com/album/1vrAnAX1vy8ALSS9l25aGE"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        }
-      ],
-      "duration_ms": 134870,
-      "name": "DONDE TE ESCONDES?",
-      "url": "https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Canta Vallenato Homenaje a los Compositores, Vol. 3",
-        "url": "https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw"
-      },
-      "artists": [
-        {
-          "name": "Rafa Perez",
-          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Juank Padilla",
-          "url": "https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4"
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 362154,
-      "name": "Si No Me Falla el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Coqueta (Remix)",
-        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
       "artists": [
         {
-          "name": "Heredero",
-          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         },
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 226461,
-      "name": "Coqueta - Remix",
-      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Lagunas Brillantes de la Memoria",
-        "url": "https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu"
-      },
-      "artists": [
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "\u00bfqu\u00e9 somos hoy?",
-      "url": "https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Santo Por Siempre",
         "url": "https://open.spotify.com/album/5Gn2KsmUI9dosjPVlJhXzk"
@@ -833,23 +729,7 @@
       "url": "https://open.spotify.com/track/0NDtAA7P5m8iaNcVeeErk5"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
-      "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
-    },
-    {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg"
@@ -873,7 +753,95 @@
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Coqueta (Remix)",
+        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "Coqueta - Remix",
+      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "DONDE TE ESCONDES?",
+        "url": "https://open.spotify.com/album/1vrAnAX1vy8ALSS9l25aGE"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "duration_ms": 134870,
+      "name": "DONDE TE ESCONDES?",
+      "url": "https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Hoy no me siento bien",
+        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153709,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Todo va bien",
+        "url": "https://open.spotify.com/album/4yvvPqWxPpEZiINneVK0cc"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Todo va bien",
+      "url": "https://open.spotify.com/track/4gVWsZLkYqZxrDumM2Ma3I"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134097,
+      "name": "CATFISH",
+      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -893,56 +861,96 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "Todo va bien",
-        "url": "https://open.spotify.com/album/4yvvPqWxPpEZiINneVK0cc"
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
       },
       "artists": [
         {
-          "name": "Mati G\u00f3mez",
-          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 160776,
-      "name": "Todo va bien",
-      "url": "https://open.spotify.com/track/4gVWsZLkYqZxrDumM2Ma3I"
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+      "duration_ms": 278276,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
-      "added_at": "2025-02-12 14:56:07",
+      "added_at": "2025-02-13 15:47:09",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/087NOouwPDgwXYJzr2T575"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
         }
       ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 102214,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/1uZDY0h2g19vtNhzybQNn4"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Canta Vallenato Homenaje a los Compositores, Vol. 3",
+        "url": "https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw"
+      },
+      "artists": [
+        {
+          "name": "Rafa Perez",
+          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
+        },
+        {
+          "name": "Juank Padilla",
+          "url": "https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4"
+        }
+      ],
+      "duration_ms": 362154,
+      "name": "Si No Me Falla el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
+    },
+    {
+      "added_at": "2025-02-13 15:47:09",
+      "album": {
+        "name": "Lagunas Brillantes de la Memoria",
+        "url": "https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 103220,
+      "name": "\u00bfqu\u00e9 somos hoy?",
+      "url": "https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

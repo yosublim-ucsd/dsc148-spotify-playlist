@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,203 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,473 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 26 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 27 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
 | 28 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
-| 29 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
-| 30 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
+| 29 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
+| 30 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
 | 31 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
 | 32 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 33 | [Runaway Train](https://open.spotify.com/track/7eslw47vXY57xEdehPU8RO) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Letters from a Black Widow](https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14) | 4:15 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 42 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 43 | [Let The Tears Roll Down](https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 5:43 |
 | 44 | [She Just Wants To Dance](https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Bitter Sweet Blues](https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY) | 4:52 |
-| 45 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
-| 46 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 45 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 46 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
 | 47 | [You Hurt Me](https://open.spotify.com/track/4a1J0H20gJsVq1BFOTuoaD) | [Lindsay Beaver](https://open.spotify.com/artist/0335mjeyPINgxiLdjrkpqJ) | [Tough As Love](https://open.spotify.com/album/0a00SdLsbIRcPV2FdVCd0Z) | 3:43 |
 | 48 | [Stay with Me](https://open.spotify.com/track/3ZFwoOTjcVzVOcFM08NsjG) | [Laurie Morvan](https://open.spotify.com/artist/2ONUJ0UH3CbpcWMzIFiveG) | [Gravity](https://open.spotify.com/album/398jxHU1B54yCJGOq4Iiyb) | 4:29 |
 | 49 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 69 | [The Ice Queen](https://open.spotify.com/track/0NyrDrdwyeRbbS85RdrPFL) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/1F9qbN6uJpal8fRBFfOwKh) | 6:23 |
 | 70 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 |
 
-Snapshot ID: `ZruU3QAAAADQ0snkbf37RfUwY/fPh2iv`
+Snapshot ID: `Z65nJQAAAAD58AW3V1RcA68KOYbXW861`

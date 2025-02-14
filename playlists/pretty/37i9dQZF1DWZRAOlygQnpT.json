@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 98257,
+  "num_followers": 98277,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Las Cerezas (Le Celiege)",
-      "url": "https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "La Onda Juvenil 25 Aniversario",
         "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137213,
       "name": "Vida",
       "url": "https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Las Cerezas (Le Celiege)",
+      "url": "https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -779,6 +779,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Magia Blanca (Devil Woman)",
+      "url": "https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Se Habla Espa\u00f1ol",
         "url": "https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 186733,
       "name": "Rock De La C\u00e1rcel",
       "url": "https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Magia Blanca (Devil Woman)",
-      "url": "https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -900,13 +900,13 @@
       },
       "artists": [
         {
-          "name": "Los Johnny Jets",
-          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
         }
       ],
-      "duration_ms": 157946,
-      "name": "La Minifalda de Reynalda",
-      "url": "https://open.spotify.com/track/1qGkNxU5sGO4D3g6dX3Hvj"
+      "duration_ms": 185013,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -932,13 +932,13 @@
       },
       "artists": [
         {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+          "name": "Los Johnny Jets",
+          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc"
+      "duration_ms": 157946,
+      "name": "La Minifalda de Reynalda",
+      "url": "https://open.spotify.com/track/1qGkNxU5sGO4D3g6dX3Hvj"
     },
     {
       "added_at": "2020-04-17 21:51:59",

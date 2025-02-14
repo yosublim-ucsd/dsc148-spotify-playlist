@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 101947,
+  "num_followers": 102023,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 289240,
       "name": "The Agony And The Ecstasy",
       "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
       "artists": [
         {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -835,6 +819,22 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Don't Let No One Get You Down",
+      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -943,38 +959,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Don't Let No One Get You Down",
-      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1007,6 +991,22 @@
       "duration_ms": 159080,
       "name": "Cowboys to Girls",
       "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 197826,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "I Want A Love I Can See",
-      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "I Want A Love I Can See",
+      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Somebody Please (Stereo Mix 2019)",
         "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 231825,
       "name": "Somebody Please (Stereo Mix 2019)",
       "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2024-08-14 08:31:40",

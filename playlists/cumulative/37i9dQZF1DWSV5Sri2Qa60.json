@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Maruja",
+  "description": "Where your new favourite bands are discovered. Cover: PUNCHBAG",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/12ZKL2ZNMtNyqwGBDSLony"
+      },
+      "artists": [
+        {
+          "name": "Queen Cult",
+          "url": "https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/3wf1Y5esLh48E0QOwaPp8j"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs"
       },
@@ -851,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm"
+    },
+    {
+      "album": {
         "name": "Getting Good",
         "url": "https://open.spotify.com/album/6vdXlGyH1FuAbrkIeQ75iH"
       },
@@ -884,6 +920,24 @@
       "duration_ms": 261278,
       "name": "Glue",
       "url": "https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo"
+      },
+      "artists": [
+        {
+          "name": "Cloth",
+          "url": "https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222790,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
     },
     {
       "album": {
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 252000,
       "name": "If We Fall",
       "url": "https://open.spotify.com/track/6iqOb2PgaAZCZJBHEqcJfv"
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 340962,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/544xcMdny7JqmMbkVxHoiX"
@@ -1640,7 +1694,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 224223,
       "name": "Paith Own",
       "url": "https://open.spotify.com/track/59BSXqdDDiNnt79NuG5mIM"
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227451,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2mawheCRpyRa0fSg5EgFde"
@@ -2018,7 +2072,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 209877,
       "name": "Surface Level Kicks",
       "url": "https://open.spotify.com/track/44O78qLokFH4q8EnqKdiS9"
@@ -2126,7 +2180,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220528,
       "name": "Teething",
       "url": "https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf"
@@ -2180,7 +2234,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 247535,
       "name": "The Lowrider (Just About Meant To Be)",
       "url": "https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu"
@@ -2252,7 +2306,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 199330,
       "name": "The Times",
       "url": "https://open.spotify.com/track/6HLwtE0bB2kRfpeVlXmDVa"
@@ -2490,6 +2544,24 @@
       "duration_ms": 229000,
       "name": "what a waste of time",
       "url": "https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj"
+    },
+    {
+      "album": {
+        "name": "whisky",
+        "url": "https://open.spotify.com/album/5GDenBH8gcUqvSB36i4Bpj"
+      },
+      "artists": [
+        {
+          "name": "DBA!",
+          "url": "https://open.spotify.com/artist/63sv2157LiQM4j3aTSkayw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110680,
+      "name": "whisky",
+      "url": "https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh"
     },
     {
       "album": {

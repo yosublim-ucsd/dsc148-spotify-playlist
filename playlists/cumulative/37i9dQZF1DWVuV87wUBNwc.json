@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Helena au sommet de la premi\u00e8re playlist de France.",
+  "description": "Lola Young au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 141653,
       "name": "Femme Like U - Tribute 2024 Remix by W.A.N.O",
       "url": "https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd"
@@ -3194,6 +3194,28 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
+        "name": "Les singles d'Ebony et Marine",
+        "url": "https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        },
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199376,
+      "name": "Ma faute (version 2025)",
+      "url": "https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh"
     },
     {
       "album": {

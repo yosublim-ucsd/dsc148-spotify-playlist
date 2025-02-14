@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : ELOI",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Liv del Estal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 171000,
       "name": "500 Vices",
       "url": "https://open.spotify.com/track/6kbSkAiySurZ6RwcauNVnF"
+    },
+    {
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/1dwZRTtMqOnrSJ2ytzKcyB"
+      },
+      "artists": [
+        {
+          "name": "Neniu",
+          "url": "https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/0kZ3M4DN0ml4ZH1AvpVzAl"
     },
     {
       "album": {
@@ -568,7 +586,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182255,
       "name": "Bouche \u00e0 bouche",
       "url": "https://open.spotify.com/track/25aWXkGaXxloRWrdrjb1g0"
@@ -1047,6 +1065,28 @@
     },
     {
       "album": {
+        "name": "Cram\u00e9",
+        "url": "https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        },
+        {
+          "name": "Chahu",
+          "url": "https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Cram\u00e9",
+      "url": "https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK"
+    },
+    {
+      "album": {
         "name": "Dannazione",
         "url": "https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq"
       },
@@ -1130,7 +1170,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 286874,
       "name": "DEEP HOLES",
       "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
@@ -1184,7 +1224,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 193981,
       "name": "Docteur",
       "url": "https://open.spotify.com/track/5K39u8ZMvdLM0ca37Cig8S"
@@ -1350,7 +1390,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 128479,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
@@ -1934,7 +1974,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Je t'emm\u00e8nerai",
       "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
@@ -2446,6 +2486,24 @@
       "duration_ms": 267106,
       "name": "Love Is Over",
       "url": "https://open.spotify.com/track/46luU5vXFosW3zOR13taED"
+    },
+    {
+      "album": {
+        "name": "PETITE",
+        "url": "https://open.spotify.com/album/7JHvaqoKxRc3jFlXGD6be0"
+      },
+      "artists": [
+        {
+          "name": "PETITE",
+          "url": "https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198413,
+      "name": "Love Sixties",
+      "url": "https://open.spotify.com/track/18YUpvNqYdKV9pYynF7WiP"
     },
     {
       "album": {
@@ -4000,6 +4058,24 @@
       "duration_ms": 181400,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA"
+    },
+    {
+      "album": {
+        "name": "t qu'un gros FDC",
+        "url": "https://open.spotify.com/album/64pVg1o7OOdIgwX1a9Ilzt"
+      },
+      "artists": [
+        {
+          "name": "Citron Sucr\u00e9",
+          "url": "https://open.spotify.com/artist/4jdwrt4GxKV6buiNuwHSDp"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317994,
+      "name": "t qu'un gros FDC",
+      "url": "https://open.spotify.com/track/4URpzCq5Q2e3yjZtWC81RI"
     },
     {
       "album": {

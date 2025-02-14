@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Aabidi",
+        "url": "https://open.spotify.com/album/7s4LoCPOHaqSAIBzMCPQ2F"
+      },
+      "artists": [
+        {
+          "name": "Teledalase",
+          "url": "https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Aabidi",
+      "url": "https://open.spotify.com/track/5wpdQnxFPhhSCSO5FyL6NL"
+    },
+    {
+      "album": {
         "name": "Addict",
         "url": "https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I"
       },
@@ -511,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Electrical",
+        "url": "https://open.spotify.com/album/0ZSWzf5M5jT6iZFgho9NUE"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Electrical",
+      "url": "https://open.spotify.com/track/41xwYI5IDrYZ2YqXhaO6yL"
+    },
+    {
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv"
       },
@@ -672,6 +712,54 @@
       "duration_ms": 147000,
       "name": "Fast",
       "url": "https://open.spotify.com/track/6UCvdFpOt1vQwKaOvl0LCq"
+    },
+    {
+      "album": {
+        "name": "Four Rounds",
+        "url": "https://open.spotify.com/album/3dm1skw86X03fWunBlOnYM"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Swadu",
+          "url": "https://open.spotify.com/artist/0sT2f64cwU0t11bxv2Sy1y"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Four Rounds",
+      "url": "https://open.spotify.com/track/1OTzF1P0GumLThWaXrMKrK"
+    },
+    {
+      "album": {
+        "name": "Get It (Oou Wee)",
+        "url": "https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7"
+      },
+      "artists": [
+        {
+          "name": "Nunu Eluma",
+          "url": "https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid"
+        },
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Get It (Oou Wee)",
+      "url": "https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS"
     },
     {
       "album": {
@@ -886,6 +974,24 @@
       "duration_ms": 202363,
       "name": "HOME",
       "url": "https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej"
+    },
+    {
+      "album": {
+        "name": "Horniwell",
+        "url": "https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Horniwell",
+      "url": "https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h"
     },
     {
       "album": {
@@ -1802,6 +1908,28 @@
       "duration_ms": 175235,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1"
+    },
+    {
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171097,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl"
     },
     {
       "album": {

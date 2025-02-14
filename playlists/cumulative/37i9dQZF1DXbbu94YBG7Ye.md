@@ -4,7 +4,7 @@
 
 > Si la rompe está acá\. Foto: Bad Bunny.
 
-508 songs - 1 day 2 hr 14 min
+510 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A POR TODO](https://open.spotify.com/track/5w8dx6u3KGawHWZAJoqyKM) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:46 | 2022-11-17 | 2023-03-03 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-17 | 2023-01-06 |
 | [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:26 | 2024-12-06 |  |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-13 |  |
 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-19 | 2023-06-23 |
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-05-02 | 2024-05-24 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-03-23 | 2023-12-15 |
@@ -311,6 +312,7 @@
 | [Normal](https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:51 | 2023-03-16 | 2023-07-28 |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-02 | 2023-01-27 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-12-31 | 2022-03-18 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-13 |  |
 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 | 2024-10-13 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-03 | 2022-05-13 |
 | [Nublado](https://open.spotify.com/track/6UiEAP8iHNnEu7B7gAEJUy) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 3:00 | 2022-06-30 | 2022-07-29 |

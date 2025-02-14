@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141867,
+  "num_followers": 141875,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "After Five EP",
         "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 469905,
       "name": "Day Dreams of Beaches",
       "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Suzuka",
-        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "Suzuka",
-      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Suzuka",
+        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 236919,
+      "name": "Suzuka",
+      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Medium",
+        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 238201,
+      "name": "Medium",
+      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 241777,
       "name": "Don't Touch Me Baby",
       "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Medium",
-        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
-      },
-      "artists": [
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 238201,
-      "name": "Medium",
-      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Feel It (Claptone Remix)",
-        "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Feel It - Claptone Remix",
-      "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Feel It (Claptone Remix)",
+        "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Feel It - Claptone Remix",
+      "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Alone Again (feat. PEPTALK)",
         "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 195522,
       "name": "Alone Again (feat. PEPTALK)",
       "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Tied to You",
+        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Tied to You",
+      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Tied to You",
-        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Tied to You",
-      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Foam (Sam Alfred Remix)",
         "url": "https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1"
       },
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Frauds (Mall Grab Remix)",
-        "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
-      },
-      "artists": [
-        {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Frauds (Mall Grab Remix)",
-      "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 266977,
       "name": "Move On",
       "url": "https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Frauds (Mall Grab Remix)",
+        "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Frauds (Mall Grab Remix)",
+      "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Beggin' You",
-        "url": "https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Beggin' You",
-      "url": "https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
       },
@@ -1683,18 +1663,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+        "name": "Beggin' You",
+        "url": "https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
         }
       ],
-      "duration_ms": 177422,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
+      "duration_ms": 215172,
+      "name": "Beggin' You",
+      "url": "https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Regrowth",
-        "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
       },
       "artists": [
         {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 225048,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8"
+      "duration_ms": 177422,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1751,6 +1735,22 @@
       "duration_ms": 226023,
       "name": "The Future (feat. Antony, Cleopatra)",
       "url": "https://open.spotify.com/track/0k5ruVHsxFD5ftK2Tpp8Ap"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Regrowth",
+        "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
+      },
+      "artists": [
+        {
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+        }
+      ],
+      "duration_ms": 225048,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "girl EDM",
+        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Ice u out",
+      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn"
       },
@@ -1803,22 +1823,6 @@
       "duration_ms": 162857,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Don't Stop (Keep on Keepin on)",
-        "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
-      },
-      "artists": [
-        {
-          "name": "Lemonade Baby",
-          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Don't Stop (Keep on Keepin on)",
-      "url": "https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1843,22 +1847,18 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "girl EDM",
-        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
+        "name": "Don't Stop (Keep on Keepin on)",
+        "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Kota Banks",
-          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Ice u out",
-      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
+      "duration_ms": 190512,
+      "name": "Don't Stop (Keep on Keepin on)",
+      "url": "https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Don't Fret!",
+        "url": "https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Don't Fret!",
+      "url": "https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Touch (feat. Rromarin)",
         "url": "https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Love Type",
-        "url": "https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C"
-      },
-      "artists": [
-        {
-          "name": "POOLCLVB",
-          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
-        }
-      ],
-      "duration_ms": 215605,
-      "name": "Love Type",
-      "url": "https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7"
     }
   ],
   "unique_name": "Sunday Sessions",

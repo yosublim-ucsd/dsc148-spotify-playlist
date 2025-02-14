@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=sGOdPAGLR2azfTGUc7pHWg\">DJ Maphorisa</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85?si=F1gpVQl4SRiFUPSbr0kdAA\">ShaunMusiq</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -24587,6 +24587,32 @@
     },
     {
       "album": {
+        "name": "TOKOLLO",
+        "url": "https://open.spotify.com/album/4n8rLUNgwk1kG6Bya5Y51q"
+      },
+      "artists": [
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "Tshepo Keyz",
+          "url": "https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641681,
+      "name": "Phinde (feat. Thatohatsi & Tshepo Keyz)",
+      "url": "https://open.spotify.com/track/2k783VxXtFGqW05faan13j"
+    },
+    {
+      "album": {
         "name": "PHOLAS",
         "url": "https://open.spotify.com/album/1Aogwis2J4XzjqdBp444c3"
       },
@@ -36332,7 +36358,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 428543,
       "name": "Xola",
       "url": "https://open.spotify.com/track/1KpHX3zexEHvYTw0dSyfgF"

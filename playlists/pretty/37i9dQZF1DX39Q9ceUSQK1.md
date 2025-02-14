@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Sharon Van Etten and the Attachment Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,731 likes - 63 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,729 likes - 63 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

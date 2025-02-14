@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: The Weeknd
+> The best tracks from the world of music\. Cover: Ara Johari
 
 250 songs - 14 hr 10 min
 
@@ -39,7 +39,7 @@
 | [Be Someone](https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Be Someone](https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW) | 3:45 | 2024-10-09 | 2024-11-21 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-14 | 2024-09-05 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-01-22 |  |
-| [Beban](https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Beban](https://open.spotify.com/album/3pY3HRRPu6QPtYpsImd0CI) | 2:56 | 2024-10-16 |  |
+| [Beban](https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Beban](https://open.spotify.com/album/3pY3HRRPu6QPtYpsImd0CI) | 2:56 | 2024-10-16 | 2025-02-14 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-04 | 2024-12-05 |
 | [BEKU](https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [BEKU](https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg) | 3:26 | 2025-01-31 |  |
 | [Belum Mulai](https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Belum Mulai](https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc) | 3:34 | 2024-07-03 | 2024-08-15 |

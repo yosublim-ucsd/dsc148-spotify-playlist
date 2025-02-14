@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Peggy Zina",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katy Garbi",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 189738,
       "name": "An Ikseres",
       "url": "https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW"
+    },
+    {
+      "album": {
+        "name": "An Me Agapas Deiks' To",
+        "url": "https://open.spotify.com/album/3VTtb3b5nGLNcFlZZtfm9W"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182526,
+      "name": "An Me Agapas Deiks' To",
+      "url": "https://open.spotify.com/track/60smzoXUyrEJnNahFxE4Ox"
     },
     {
       "album": {
@@ -957,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Kataramena Feggaria (Live)",
+        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Kataramena Feggaria - Live",
+      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
+    },
+    {
+      "album": {
         "name": "Kathestos",
         "url": "https://open.spotify.com/album/2O6Hd21LRn99WJmuiVzXiV"
       },
@@ -1098,6 +1134,28 @@
       "duration_ms": 208355,
       "name": "maZW Akoma (Ola Mou Ta Thelo)",
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "album": {
+        "name": "Me 'Geia Sou",
+        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222397,
+      "name": "Me 'Geia Sou",
+      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
       "album": {
@@ -1485,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Paradisos",
+        "url": "https://open.spotify.com/album/7fa2zF6qAwQwtyBqUdVZ7Z"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Christoforou",
+          "url": "https://open.spotify.com/artist/3JvrdmyJFLyf1KdOuyY39H"
+        },
+        {
+          "name": "Kostas Karafotis",
+          "url": "https://open.spotify.com/artist/4Opkz5FwG4ENtwM7o09KNu"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173712,
+      "name": "Paradisos",
+      "url": "https://open.spotify.com/track/3wgl8IUxVmJCBaOwYLY8QP"
+    },
+    {
+      "album": {
         "name": "Parallili Agapi",
         "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
       },
@@ -1604,7 +1684,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -1698,7 +1778,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 206000,
       "name": "San Imastan Paidia",
       "url": "https://open.spotify.com/track/3fIYhLBLRyy4UixEVkscHA"
@@ -2092,7 +2172,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 225450,
       "name": "Ti Perimeneis Apo 'Mena",
       "url": "https://open.spotify.com/track/7hwhamjgTSPsVqSv7WmJvz"
@@ -2248,7 +2328,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169468,
       "name": "To Velos",
       "url": "https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ"

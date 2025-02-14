@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/0qZqHPQr5x7svWAMLMaqVH"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225473,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK"
+    },
+    {
+      "album": {
         "name": "23-Spring",
         "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
       },
@@ -7226,7 +7244,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 291111,
       "name": "\u30d1\u30a4\u30d1\u30a4\u4eee\u9762\u3067\u3069\u3046\u304b\u3057\u3089\u3093\uff1f",
       "url": "https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls"

@@ -2623,6 +2623,28 @@
     },
     {
       "album": {
+        "name": "Iruppen",
+        "url": "https://open.spotify.com/album/2PguHoayiMNOx3mzll6zrf"
+      },
+      "artists": [
+        {
+          "name": "Vathshan",
+          "url": "https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz"
+        },
+        {
+          "name": "Jerone B",
+          "url": "https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243098,
+      "name": "Iruppen",
+      "url": "https://open.spotify.com/track/6zYC2cUgamLYbi7LbjKg74"
+    },
+    {
+      "album": {
         "name": "ITHIHASAM",
         "url": "https://open.spotify.com/album/7u1VQppoBE94YpVlgrWVVp"
       },
@@ -3658,7 +3680,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 277826,
       "name": "Kannaattiye",
       "url": "https://open.spotify.com/track/4avs3tmaqjboKR4QiEF02Y"

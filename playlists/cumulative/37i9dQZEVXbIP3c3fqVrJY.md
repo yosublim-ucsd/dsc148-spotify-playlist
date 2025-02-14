@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,777 songs - 3 day 19 hr 18 min
+1,779 songs - 3 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-03 | 2024-05-12 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-12 | 2024-05-23 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-03-13 | 2024-04-19 |
-| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-01-04 |  |
+| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-01-04 | 2025-02-14 |
 | [Everyday](https://open.spotify.com/track/5TB7FL9eaJ4fIN3oqJK8rp) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 3:22 | 2022-10-01 | 2022-10-15 |
 | [Everyday](https://open.spotify.com/track/57rGR4QPXxueoWNXBTXrfc) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Everyday](https://open.spotify.com/album/4eJyAJXtF0pafBj719s1Gn) | 3:22 | 2022-09-14 | 2022-10-02 |
 | [Evil](https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-13 | 2024-07-15 |
@@ -858,6 +858,7 @@
 | [Luna](https://open.spotify.com/track/6k2FK8tZ9R4ZWiaGfI6mrh) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 2:31 | 2021-06-09 | 2021-06-18 |
 | [Luna](https://open.spotify.com/track/2MLspbafcpa876kiGpk8Ga) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:49 | 2023-02-04 | 2023-03-23 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-07-20 |
+| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2025-02-13 |  |
 | [LV BELT](https://open.spotify.com/track/2oqfCPQku4JHV8O3hO0yJr) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 2:24 | 2022-06-21 | 2022-06-25 |
 | [LVCRIMOSA](https://open.spotify.com/track/3eVM5u5uqLWBORoRfHclo4) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 2:48 | 2022-06-21 | 2022-07-03 |
 | [Láska & Bolest](https://open.spotify.com/track/0RuoJ6uDFyPreixaFI2n93) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Láska & Bolest](https://open.spotify.com/album/3aIRMHKasSiZZ0dywkwCpx) | 3:31 | 2022-10-18 | 2022-11-19 |
@@ -1122,6 +1123,7 @@
 | [ONLY G'Z](https://open.spotify.com/track/4x7peu8R6VGEJSzkYNlypW) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 2:27 | 2024-10-19 | 2024-11-10 |
 | [Only the Sekta](https://open.spotify.com/track/6LJ49x9kzJYg7zveCdCWFV) | [Labello](https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt), [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [Holy Labello](https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq) | 2:40 | 2024-04-03 | 2024-04-05 |
 | [Optimista](https://open.spotify.com/track/3XbM3IsEPJqc3GjBwnKyIJ) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Optimista](https://open.spotify.com/album/1WYnC2l7zE6lbLX9gtbAOd) | 2:32 | 2022-09-17 | 2022-10-02 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-13 |  |
 | [Origo tdy](https://open.spotify.com/track/2cjqci9DCTJ8HD0QOjRAOj) | [Labello](https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt), [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N) | [Holy Labello](https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq) | 2:45 | 2024-04-03 | 2024-04-05 |
 | [Ostrava](https://open.spotify.com/track/3clWAaeLuAPUbKP8gb7y4Y) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [713 až na věky](https://open.spotify.com/album/6b0ybttCiOB604OrG3QyyA) | 3:35 | 2024-11-02 | 2024-11-10 |
 | [Ostrava](https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Ostrava](https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5) | 3:35 | 2024-09-07 | 2024-10-14 |
@@ -1260,7 +1262,7 @@
 | [Reklama na Rap](https://open.spotify.com/track/2KUTDIXO3sxrR5FJw6AndI) | [Kontrafakt](https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT) | [KF ako Rolls](https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB) | 2:51 | 2021-12-18 | 2021-12-24 |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-08-07 | 2023-08-11 |
 | [Renaissance](https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 1:38 | 2024-07-13 | 2024-07-15 |
-| [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 | 2024-09-14 |  |
+| [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 | 2024-09-14 | 2025-02-14 |
 | [Rewind](https://open.spotify.com/track/3wU3JGqZ55IoAtBCjC3PKf) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [CITY PARK](https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk) | 3:13 | 2022-10-14 | 2022-10-23 |
 | [Reťaze](https://open.spotify.com/track/1qHZrVjQrXxpb0lTdOmM7K) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 3:08 | 2023-04-01 | 2023-04-03 |
 | [Režim nerušit](https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Kures Drill](https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6) | 3:06 | 2023-08-19 | 2025-01-04 |

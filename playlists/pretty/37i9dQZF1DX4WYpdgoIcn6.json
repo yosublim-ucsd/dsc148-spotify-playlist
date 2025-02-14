@@ -1,6 +1,6 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 9013076,
+  "num_followers": 9019125,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -171,22 +175,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -395,18 +391,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Come Through (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Come Through (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Come Through (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Come Through (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -2255,18 +2255,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
     }
   ],
   "unique_name": "Chill Hits",

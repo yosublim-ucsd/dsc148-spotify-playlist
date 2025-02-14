@@ -36,7 +36,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 199906,
       "name": "1 True Love",
       "url": "https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi"
@@ -307,6 +307,32 @@
     },
     {
       "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54"
+      },
+      "artists": [
+        {
+          "name": "Mary Costa",
+          "url": "https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo"
+        },
+        {
+          "name": "Bill Shirley",
+          "url": "https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl"
+        },
+        {
+          "name": "Chorus - Sleeping Beauty",
+          "url": "https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "An Unusual Prince / Once Upon A Dream - From \"Sleeping Beauty\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5WKxcFnCO244tMnVElhFuk"
+    },
+    {
+      "album": {
         "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
       },
@@ -531,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Pearl Bailey",
+          "url": "https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135346,
+      "name": "Best of Friends - From \"The Fox & The Hound\" / Soundtrack",
+      "url": "https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK"
+    },
+    {
+      "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
       },
@@ -660,6 +704,24 @@
       "duration_ms": 177880,
       "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/1CQWhOlFQFn3je1Q05SDAm"
+    },
+    {
+      "album": {
+        "name": "Pete's Dragon",
+        "url": "https://open.spotify.com/album/04X3K8C6QNxPM3BE3u2iV1"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Candle On the Water - From \"Pete's Dragon\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/74UZSX03wVCDrZoQQ0d2ZV"
     },
     {
       "album": {
@@ -811,6 +873,46 @@
     },
     {
       "album": {
+        "name": "The Cheetah Girls: One World",
+        "url": "https://open.spotify.com/album/6H9FjLFzCgX485reYmS3c3"
+      },
+      "artists": [
+        {
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Feels Like Love - Soundtrack",
+      "url": "https://open.spotify.com/track/7Fm2ZvBSGBO6RGjQ93SU2b"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Maia Wilson",
+          "url": "https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU"
+        },
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14"
+    },
+    {
+      "album": {
         "name": "Lady and the Tramp",
         "url": "https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk"
       },
@@ -943,6 +1045,42 @@
     },
     {
       "album": {
+        "name": "Hannah Montana 3",
+        "url": "https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "He Could Be the One",
+      "url": "https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU"
+    },
+    {
+      "album": {
+        "name": "Mulan II",
+        "url": "https://open.spotify.com/album/0WBry5D50ZVd0nhQMb3FAh"
+      },
+      "artists": [
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Here Beside Me - From \"Mulan II\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7tND1rRdqqLkLkUSa3RrIW"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
       },
@@ -958,6 +1096,40 @@
       "duration_ms": 217537,
       "name": "How Does A Moment Last Forever",
       "url": "https://open.spotify.com/track/0CJvw1j88DGbvDhqmjJgc8"
+    },
+    {
+      "album": {
+        "name": "High School Musical",
+        "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
+      },
+      "artists": [
+        {
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
+        },
+        {
+          "name": "Ryan",
+          "url": "https://open.spotify.com/artist/4Ee4pZJB0SAQwfKqb31mem"
+        },
+        {
+          "name": "Sharpay Evans",
+          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171320,
+      "name": "I Can't Take My Eyes Off of You",
+      "url": "https://open.spotify.com/track/4kgKRtDeHmYryhIPOqZws3"
     },
     {
       "album": {
@@ -1134,6 +1306,28 @@
       "duration_ms": 186693,
       "name": "I'm Wishing / One Song",
       "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
+    },
+    {
+      "album": {
+        "name": "Disney/Pixar Greatest",
+        "url": "https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "If I Didn't Have You - From \"Monsters, Inc.\"",
+      "url": "https://open.spotify.com/track/1p71gtNQ7bolivNnzmNGAu"
     },
     {
       "album": {
@@ -1462,7 +1656,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/7lAoovVf67mECK18oOpJbc"
@@ -1532,6 +1726,28 @@
       "duration_ms": 123200,
       "name": "Main Title (Bella Notte)/The Wag of a Dog's Tail - From \"Lady and the Tramp\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3GQVrowpcnIFN2yStc1DGl"
+    },
+    {
+      "album": {
+        "name": "Bambi II",
+        "url": "https://open.spotify.com/album/0hzhxHQu41ZtBDUy8MiYAm"
+      },
+      "artists": [
+        {
+          "name": "Donald Novis",
+          "url": "https://open.spotify.com/artist/5LHO9r02sohoceAPhXPnBp"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Main Title (Love Is a Song) - From \"Bambi\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/1APYWEcwkClntyenlrEvPJ"
     },
     {
       "album": {
@@ -2051,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95981,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1uAl1ygEbZfWvHMW90t0dW"
+    },
+    {
+      "album": {
         "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
       },
@@ -2066,6 +2304,24 @@
       "duration_ms": 260493,
       "name": "Someday - From \"The Hunchback of Notre Dame\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0LY1DGU1xAWJOFHTMLYBMS"
+    },
+    {
+      "album": {
+        "name": "The Rescuers Down Under (Bonus Version)",
+        "url": "https://open.spotify.com/album/4EiZGGBrF039lXyAayLHYF"
+      },
+      "artists": [
+        {
+          "name": "Shelby Flint",
+          "url": "https://open.spotify.com/artist/55APUUV6bCtJVEF1O2jKNT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Someone's Waiting for You - From \"The Rescuers\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/20GJ94KHYugkULE81t7t4e"
     },
     {
       "album": {
@@ -2427,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "Mulan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
+      },
+      "artists": [
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "True To Your Heart",
+      "url": "https://open.spotify.com/track/2MkfKcX0Q3xquEjcKqRyDK"
+    },
+    {
+      "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
       },
@@ -2480,6 +2758,42 @@
       "duration_ms": 197946,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3zIqOgooI83sDqwSfo0aOH"
+    },
+    {
+      "album": {
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "We Belong Together - From \"Toy Story 3\"/Soundtrack",
+      "url": "https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr"
+    },
+    {
+      "album": {
+        "name": "Wreck-It Ralph",
+        "url": "https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "When Can I See You Again? - From \"Wreck-It Ralph\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS"
     },
     {
       "album": {
@@ -2621,6 +2935,50 @@
     },
     {
       "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "You Are the Music in Me",
+      "url": "https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp"
+    },
+    {
+      "album": {
+        "name": "You Get Me (From \"Talking Friends\")",
+        "url": "https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs"
+      },
+      "artists": [
+        {
+          "name": "Tom and Angela",
+          "url": "https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "You Get Me - From \"Talking Friends\"",
+      "url": "https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO"
+    },
+    {
+      "album": {
         "name": "Tarzan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
       },
@@ -2698,7 +3056,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 252560,
       "name": "You've Got A Friend In Me - From \"Toy Story\"",
       "url": "https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt"

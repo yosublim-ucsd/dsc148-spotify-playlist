@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 154 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 154 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 28 | [How to Love \(feat\. Sofia Reyes\)](https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X) | 3:39 |
 | 29 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 30 | [Don't Kill My High](https://open.spotify.com/track/09yhMTRqQ1I1dniu3PoIQi) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:00 |
-| 31 | [Sun In Our Eyes](https://open.spotify.com/track/58FDNEheGy0rsZskL7dyMm) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:37 |
-| 32 | [Sharp Edges](https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:58 |
+| 31 | [Sharp Edges](https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:58 |
+| 32 | [Sun In Our Eyes](https://open.spotify.com/track/58FDNEheGy0rsZskL7dyMm) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:37 |
 | 33 | [Unholy](https://open.spotify.com/track/7kzQRB3b9gp2kdjI0dLv8M) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:10 |
 | 34 | [Never Be Me](https://open.spotify.com/track/1M7qLcfozANPcMKfgMEHOt) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:35 |
 | 35 | [Walk Alone \(feat\. Tom Walker\)](https://open.spotify.com/track/6V2WzYhXCnCH2SfdVlMMXR) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 3:25 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 91 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |
 | 92 | [last piece](https://open.spotify.com/track/2Z8SpRWDcWCrRBBoX6z80Z) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 93 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
-| 94 | [Uncover You](https://open.spotify.com/track/22NvOEYcQRH4h4fN7d5E5B) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Uncover You](https://open.spotify.com/album/5CbDDmoCg8d8iRFWJa6AVH) | 3:53 |
-| 95 | [Time of Day \(with mgk\)](https://open.spotify.com/track/7F3suGXGa7XtKdqsG8N6RC) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:11 |
+| 94 | [Time of Day \(with mgk\)](https://open.spotify.com/track/7F3suGXGa7XtKdqsG8N6RC) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:11 |
+| 95 | [Uncover You](https://open.spotify.com/track/22NvOEYcQRH4h4fN7d5E5B) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Uncover You](https://open.spotify.com/album/5CbDDmoCg8d8iRFWJa6AVH) | 3:53 |
 | 96 | [Nowhere \(feat\. Rita Ora & KYLE\)](https://open.spotify.com/track/0zZE4gBv25outVrHKJgiry) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:46 |
 | 97 | [Not Ashamed](https://open.spotify.com/track/4YXaPCTIZiK1jk2QfW9zTX) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 4:00 |
 | 98 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 153 | [Ring The Alarm](https://open.spotify.com/track/0pr03cUOFsjZW26YSPBYG6) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Ring The Alarm](https://open.spotify.com/album/6wLqWInrnKYTH4nbnP0tSX) | 2:38 |
 | 154 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbpbSAAAAAAXxdLYMs5ulg543xfz3KO1`
+Snapshot ID: `Abpg8gAAAABZrF9lnVJnFPu64l1Fni0p`

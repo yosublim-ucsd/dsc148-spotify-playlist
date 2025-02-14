@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: BREIMEN
 
-2,019 songs - 5 day 6 hr 47 min
+2,021 songs - 5 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,6 +972,7 @@
 | [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 | 2023-02-01 |
 | [VANILLA SKY](https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [VANILLA SKY](https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd) | 2:47 | 2023-07-20 | 2024-01-10 |
 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 | 2024-02-13 | 2024-04-19 |
+| [Vermillion](https://open.spotify.com/track/1Q2dGkVlUJE0xkEXOKpnb3) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Vermillion](https://open.spotify.com/album/1CF73F9aHSHGO47ZYqypVu) | 3:33 | 2025-02-13 |  |
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-18 | 2023-09-08 |
 | [Vidro](https://open.spotify.com/track/1rLeLI1uKaZtNvNEO5B2Mw) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Vidro](https://open.spotify.com/album/07YbMPIGaNkBD2QlJCXM5s) | 3:10 | 2024-07-02 | 2024-10-09 |
 | [VINCENT](https://open.spotify.com/track/7zyTpB0EFIg3NaiZ6R3wCP) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [VINCENT](https://open.spotify.com/album/5qNPq5K17a0DcQbezrU2ci) | 3:16 | 2024-09-17 | 2024-12-25 |
@@ -1028,7 +1029,7 @@
 | [yes\. I\. do](https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [yes\. I\. do](https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40) | 4:48 | 2023-02-16 | 2023-04-04 |
 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 | 2024-10-08 | 2024-11-13 |
 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 | 2023-06-28 |
-| [YOU GOTTA RUN](https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [YOU GOTTA RUN](https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas) | 4:19 | 2024-10-22 |  |
+| [YOU GOTTA RUN](https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [YOU GOTTA RUN](https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas) | 4:19 | 2024-10-22 | 2025-02-14 |
 | [you n me](https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [you n me](https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw) | 4:28 | 2023-05-25 | 2023-07-12 |
 | [You Need Me, I Need You](https://open.spotify.com/track/3g7dgnms0me57hQw1oN2W2) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [You Need Me, I Need You](https://open.spotify.com/album/2EkMdAL0HTyUcBqMHbgf3N) | 3:23 | 2023-07-27 | 2023-09-13 |
 | [Young life](https://open.spotify.com/track/3jtQRxL5Uu4qSNhJY5WCzx) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Young life / brighter brighter](https://open.spotify.com/album/1zIN6VFlLxHjYRzaBmenqb) | 3:11 | 2024-01-30 | 2024-02-21 |
@@ -1039,7 +1040,7 @@
 | [Yuuhi Sasaru Heya](https://open.spotify.com/track/2nK5yfiQ8SuorCXJeJLAMX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Yuuhi Sasaru Heya](https://open.spotify.com/album/5w6CXsVtKirb9AaXarMNtw) | 3:13 | 2024-02-13 | 2024-02-28 |
 | [Zakkou pt.2](https://open.spotify.com/track/4OgVsCeGytlrOThG3srn0M) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kanashī dekigoto \-The overkill\-](https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG) | 3:36 | 2023-11-07 | 2023-12-13 |
 | [Zan“讚”](https://open.spotify.com/track/7v0mO9hTJzhWMrYcMnZt03) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ), [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [Zan“讚”](https://open.spotify.com/album/0LDIKGg05W5vXotyHy6iiy) | 3:13 | 2024-12-24 | 2025-01-17 |
-| [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 |  |
+| [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 | 2025-02-14 |
 | [Zensekai no kasu Domoe Kanpai](https://open.spotify.com/track/5kp5UA4nCokjxkneqnUYQ8) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Zensekai no kasu Domoe Kanpai / Natsu No Band Renshu](https://open.spotify.com/album/1Htd3ldV6ts57pI78PHLrT) | 3:07 | 2024-11-19 | 2024-12-18 |
 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 | 2023-09-28 | 2023-10-11 |
 | [Zeshou Fanfare](https://open.spotify.com/track/3bseqoatDj2jFpuuce3Xgw) | [Dramatic Alaska](https://open.spotify.com/artist/3bWD87dw5iBrQPXFThIRDf) | [Zeshou Fanfare](https://open.spotify.com/album/3heMXEIxWJc984HTUhuQCq) | 3:21 | 2025-01-28 | 2025-02-05 |
@@ -1090,6 +1091,7 @@
 | [ここいちばんの恋](https://open.spotify.com/track/1yzzXOgg9wowxAO9BHYIFd) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ここいちばんの恋](https://open.spotify.com/album/5KKwbzCsLuaImEEijykKAw) | 4:08 | 2023-02-28 | 2023-03-15 |
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 | 2023-06-30 |
 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 | 2023-03-14 | 2023-03-25 |
+| [この世界に二人だけ](https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [この世界に二人だけ](https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI) | 3:40 | 2025-02-13 |  |
 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 | 2024-01-23 | 2024-04-17 |
 | [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-28 | 2024-02-29 |
 | [さくら色](https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたしのノクターン](https://open.spotify.com/album/21f4jp3g8EpGOxtboyQ62R) | 3:52 | 2023-01-24 | 2023-01-26 |

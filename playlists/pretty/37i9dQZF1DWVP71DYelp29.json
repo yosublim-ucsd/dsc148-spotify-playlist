@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 735464,
+  "num_followers": 735470,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
       "added_at": "2023-06-22 04:00:00",
       "album": {
         "name": "Time After Time (Spotify Singles)",
@@ -495,6 +479,22 @@
       "duration_ms": 219648,
       "name": "Time After Time - Spotify Singles",
       "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -532,22 +532,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
@@ -559,6 +543,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 248895,
-      "name": "Believe - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1335,6 +1319,22 @@
       "duration_ms": 268840,
       "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Believe - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1404,22 +1404,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
       },
       "artists": [
@@ -1431,6 +1415,22 @@
       "duration_ms": 163398,
       "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1561,20 +1561,20 @@
       "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
+      "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
+        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
       },
       "artists": [
         {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 206499,
-      "name": "I Want It That Way - Spotify Singles",
-      "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
+      "duration_ms": 163386,
+      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1593,20 +1593,20 @@
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
+      "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
+        "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         }
       ],
-      "duration_ms": 163386,
-      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
+      "duration_ms": 206499,
+      "name": "I Want It That Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
     },
     {
       "added_at": "2023-01-11 19:54:48",

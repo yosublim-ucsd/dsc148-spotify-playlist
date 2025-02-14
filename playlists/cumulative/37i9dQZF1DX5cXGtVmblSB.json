@@ -383,6 +383,42 @@
     },
     {
       "album": {
+        "name": "A Reverie Unspoken",
+        "url": "https://open.spotify.com/album/71ZDU0srAkDFkICsc49ICY"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148310,
+      "name": "A Reverie Unspoken",
+      "url": "https://open.spotify.com/track/5CSS8fcT0vLlb5MLmS7jyp"
+    },
+    {
+      "album": {
+        "name": "Aether Window",
+        "url": "https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma"
+      },
+      "artists": [
+        {
+          "name": "Quiet Robot",
+          "url": "https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Aether Window",
+      "url": "https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6"
+    },
+    {
+      "album": {
         "name": "Alchemy of Peace 528 Hz",
         "url": "https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9"
       },
@@ -398,6 +434,24 @@
       "duration_ms": 190500,
       "name": "Alchemy of Peace 528 Hz",
       "url": "https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI"
+    },
+    {
+      "album": {
+        "name": "Along the Way",
+        "url": "https://open.spotify.com/album/0xauq0fJIvU1zLt4V9c4bD"
+      },
+      "artists": [
+        {
+          "name": "Koma",
+          "url": "https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167605,
+      "name": "Along the Way",
+      "url": "https://open.spotify.com/track/6vNFvvF0dg4LVW6LeUmcbN"
     },
     {
       "album": {
@@ -1029,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Distant Starfield",
+        "url": "https://open.spotify.com/album/3QgmUfIuQ8z9Gn6EdCzk7d"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151375,
+      "name": "Distant Starfield",
+      "url": "https://open.spotify.com/track/1cnp7FGDQoF6i5zr3Ptogt"
+    },
+    {
+      "album": {
         "name": "julia",
         "url": "https://open.spotify.com/album/4T2QXtDjvQx1LhWsiyVFVr"
       },
@@ -1595,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Horizon Echoes",
+        "url": "https://open.spotify.com/album/5uUZXj5WBAb9xoS8Nj0rdR"
+      },
+      "artists": [
+        {
+          "name": "neon cosmo",
+          "url": "https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184648,
+      "name": "Horizon Echoes",
+      "url": "https://open.spotify.com/track/6mVR4skJMDCu3bnvQdwPEK"
+    },
+    {
+      "album": {
         "name": "Hortus",
         "url": "https://open.spotify.com/album/3tmZNMYzhmydv7EmuByHoK"
       },
@@ -1847,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Lente Et Firmiter",
+        "url": "https://open.spotify.com/album/5BctDrwRlbHF2Y3vpc50Nt"
+      },
+      "artists": [
+        {
+          "name": "Eiriane",
+          "url": "https://open.spotify.com/artist/4k9PK8yl00PAnmOm21cmTz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182229,
+      "name": "Lente Et Firmiter",
+      "url": "https://open.spotify.com/track/3o1mtnzLw07Ok6QMnwuf5E"
+    },
+    {
+      "album": {
         "name": "Liquid Echoes",
         "url": "https://open.spotify.com/album/3HrjGEhSweHhyjTHSRzrBD"
       },
@@ -2002,7 +2110,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151058,
       "name": "Mind Oasis 432Hz",
       "url": "https://open.spotify.com/track/3JMQCr6GrFQJbYZ7bAhEsL"
@@ -2096,6 +2204,24 @@
       "duration_ms": 190781,
       "name": "My Heaven",
       "url": "https://open.spotify.com/track/30FDNA6W5jUWltHByCvwrA"
+    },
+    {
+      "album": {
+        "name": "mystic mosaic",
+        "url": "https://open.spotify.com/album/26WXnpv6ZupiwnCmp7H030"
+      },
+      "artists": [
+        {
+          "name": "Siljann",
+          "url": "https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196711,
+      "name": "mystic mosaic",
+      "url": "https://open.spotify.com/track/1Lyjisqxa5w7YKEIta5eQj"
     },
     {
       "album": {
@@ -2225,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6xLcEAqQ0l0SxrUB6ZT7Rx"
+      },
+      "artists": [
+        {
+          "name": "Celestros",
+          "url": "https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6WIEEPyVKDWA2w5tkQ3gmq"
+    },
+    {
+      "album": {
         "name": "Northern Drifts",
         "url": "https://open.spotify.com/album/6E3qavb0GObRrA4Gza3iip"
       },
@@ -2240,6 +2384,24 @@
       "duration_ms": 186352,
       "name": "Northern Drifts",
       "url": "https://open.spotify.com/track/3CSr2eXclVz84rZs8nrwvL"
+    },
+    {
+      "album": {
+        "name": "Ocean Sunset",
+        "url": "https://open.spotify.com/album/3YBiUNwHglj8187XGg1xSr"
+      },
+      "artists": [
+        {
+          "name": "Louis Cid & Vivian Id",
+          "url": "https://open.spotify.com/artist/5XWHjtiZUlt948l3OSkjXw"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Ocean Sunset",
+      "url": "https://open.spotify.com/track/4PSZpDT6kYsLJZ9mdfc25A"
     },
     {
       "album": {
@@ -2495,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/2U19uunCKFVUeqDclfeZAb"
+      },
+      "artists": [
+        {
+          "name": "Arlo Leclerc",
+          "url": "https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167122,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/1iRJz2iWf8HAlWbQ9BV4Fo"
+    },
+    {
+      "album": {
         "name": "Music for Cats Album Two",
         "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
       },
@@ -2701,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Safely",
+        "url": "https://open.spotify.com/album/4cCJFKKcOP5f7fa1jzeZLZ"
+      },
+      "artists": [
+        {
+          "name": "Awake or Asleep",
+          "url": "https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215113,
+      "name": "Safely",
+      "url": "https://open.spotify.com/track/4f5wnhK4dLrW2XuYZBOkQD"
+    },
+    {
+      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS"
       },
@@ -2716,6 +2914,24 @@
       "duration_ms": 194166,
       "name": "Sana",
       "url": "https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe"
+    },
+    {
+      "album": {
+        "name": "Saturn Rings",
+        "url": "https://open.spotify.com/album/3xppxNDuELbKTsvgAq9iPM"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "Saturn Rings",
+      "url": "https://open.spotify.com/track/6y4DczLvM82LptINmQgfTD"
     },
     {
       "album": {
@@ -2752,6 +2968,24 @@
       "duration_ms": 1070480,
       "name": "Scooter Bere's Aria",
       "url": "https://open.spotify.com/track/1HGXgoIBnDnf6izseOBiiI"
+    },
+    {
+      "album": {
+        "name": "Selenite",
+        "url": "https://open.spotify.com/album/0HGLpa9WQQMHb4DgsjuNkb"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176825,
+      "name": "Selenite",
+      "url": "https://open.spotify.com/track/2F75VUaZ39SNpcmKoKrtPI"
     },
     {
       "album": {
@@ -3117,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Tears by the River",
+        "url": "https://open.spotify.com/album/1ZyIHFJiIiLOBMRwRAqaNF"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Tears by the River",
+      "url": "https://open.spotify.com/track/6eICHGb5GTaKUhmWEI7Ftr"
+    },
+    {
+      "album": {
         "name": "The Heritage",
         "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
       },
@@ -3320,6 +3572,24 @@
       "duration_ms": 201500,
       "name": "Welfare",
       "url": "https://open.spotify.com/track/5Bli3DZHL98wqcdVICgpuA"
+    },
+    {
+      "album": {
+        "name": "Where Silence Blooms",
+        "url": "https://open.spotify.com/album/5IOUPPxB5zUFqCEWV6r0wT"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Where Silence Blooms",
+      "url": "https://open.spotify.com/track/1DMfaj2Hd76uZpNy0P5AbC"
     },
     {
       "album": {

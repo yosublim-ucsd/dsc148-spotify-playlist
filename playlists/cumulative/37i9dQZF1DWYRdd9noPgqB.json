@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Activists",
+        "url": "https://open.spotify.com/album/3cUkFqJjXV8QL4Hm0118EM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149803,
+      "name": "Activists",
+      "url": "https://open.spotify.com/track/26uO1N4vHv0rDMhTvYZXGQ"
+    },
+    {
+      "album": {
         "name": "Alive!",
         "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 163253,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/2dpkNnCGyXZEDCekYxr4aJ"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 116976,
       "name": "Calling Your Name",
       "url": "https://open.spotify.com/track/2Ga4ATsihCKFz3ge6UGeBl"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 154295,
       "name": "Deadbeat Blues (feat. BEL)",
       "url": "https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW"
@@ -1613,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
+    },
+    {
+      "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
         "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 166586,
       "name": "Hard (feat. Hanni El Khatib)",
       "url": "https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr"
@@ -3127,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Divinations",
+        "url": "https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a"
+    },
+    {
+      "album": {
         "name": "Massilia (feat. Adrien Gallo)",
         "url": "https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM"
       },
@@ -3787,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Not In Surrender",
+        "url": "https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199420,
+      "name": "Not In Surrender",
+      "url": "https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq"
+    },
+    {
+      "album": {
         "name": "Not Ur Man",
         "url": "https://open.spotify.com/album/3hDUcZVrCfjssfSGeTbrEi"
       },
@@ -3950,10 +4022,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 161076,
       "name": "On the Move - feat. Cannons",
       "url": "https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY"
+    },
+    {
+      "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
     },
     {
       "album": {
@@ -4098,7 +4188,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 247666,
       "name": "Panther City",
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
@@ -4506,6 +4596,24 @@
       "duration_ms": 214840,
       "name": "Sad Enough",
       "url": "https://open.spotify.com/track/4tq7k6MACc2UyQLAeYOHpc"
+    },
+    {
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "album": {
@@ -5312,7 +5420,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -5570,7 +5678,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -5838,7 +5946,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 267354,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh"
@@ -5980,6 +6088,24 @@
       "duration_ms": 244186,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
+    },
+    {
+      "album": {
+        "name": "Feathers And Stone",
+        "url": "https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH"
     },
     {
       "album": {

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Las Ilusas De Mi Marido](https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [A Las Ilusas De Mi Marido](https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2) | 3:41 | 2024-06-07 | 2025-02-04 |
+| [A Las Ilusas De Mi Marido](https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [A Las Ilusas De Mi Marido](https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2) | 3:41 | 2024-06-07 |  |
 | [A Mover la Colita](https://open.spotify.com/track/6Nd2hWcRdRuhyNBv7wzCgd) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Wilfrido Vargas y Sus Consentidas](https://open.spotify.com/album/7Cy3uYBDhdrsIimK2AGLiV) | 3:44 | 2022-01-20 | 2022-07-29 |
 | [A Pedir Su Mano](https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:55 | 2022-01-20 | 2022-12-01 |
 | [A Pedir Su Mano](https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:55 | 2022-09-09 | 2024-04-19 |
@@ -93,7 +93,7 @@
 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 | 2022-09-09 | 2023-03-11 |
 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 | 2023-02-10 |  |
 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 | 2022-01-20 |  |
-| [Fiesta](https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO) | [Yosi Fuentes](https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2) | [Fiesta](https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V) | 2:44 | 2023-09-08 |  |
+| [Fiesta](https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO) | [Yosi Fuentes](https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2) | [Fiesta](https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V) | 2:44 | 2023-09-08 | 2025-02-14 |
 | [Fria](https://open.spotify.com/track/771dnvm0mbn5oyo9Zn631K) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:35 | 2022-01-20 | 2022-07-13 |
 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 | 2022-01-20 | 2023-11-27 |
 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 | 2023-09-01 | 2024-06-08 |

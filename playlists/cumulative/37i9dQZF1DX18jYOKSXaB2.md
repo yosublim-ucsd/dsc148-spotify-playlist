@@ -4,14 +4,14 @@
 
 > Best served with party jollof
 
-166 songs - 8 hr 27 min
+167 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14:02](https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [14:02](https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a) | 3:12 | 2024-02-09 | 2024-03-29 |
 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2024-10-18 |  |
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2022-02-11 | 2022-09-02 |
-| [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 |  |
+| [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 | 2025-02-14 |
 | [Adiepena](https://open.spotify.com/track/4wIhfF7Vfuku8za0g1sZge) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sugar](https://open.spotify.com/album/4kVDoG1DZEIyLsULmAosQX) | 3:15 | 2022-02-11 | 2023-03-25 |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2024-02-03 |
 | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/track/3LX3pPK1cQYDPNyxY4DM2M) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/album/5FhkyiAok4WxNKalz0saPJ) | 4:10 | 2022-02-11 | 2023-03-25 |
@@ -82,6 +82,7 @@
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 |  |
 | [Julie](https://open.spotify.com/track/58f9RS1Wkaapezwhu5Cu3L) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [UY Scuti](https://open.spotify.com/album/2nDH1AOBaaugSngw9Yiwyw) | 1:57 | 2022-02-11 | 2024-07-27 |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-08 |  |
+| [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 | 2025-02-14 |  |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-05-31 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-13 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-14 |  |

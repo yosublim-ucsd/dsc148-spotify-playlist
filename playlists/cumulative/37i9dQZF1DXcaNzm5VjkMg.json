@@ -2187,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "Judika Mencari Cinta",
+        "url": "https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Duma",
+          "url": "https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Sampai Akhir (feat. DuMa)",
+      "url": "https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN"
+    },
+    {
+      "album": {
         "name": "Winning 11",
         "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
       },

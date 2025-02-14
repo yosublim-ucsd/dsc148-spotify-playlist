@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Central Cee",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Aitch",
   "name": "A1",
   "tracks": [
     {
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "A Guy Called?",
+        "url": "https://open.spotify.com/album/4vofNXHWQG98auHmbZ4KSG"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149577,
+      "name": "A Guy Called?",
+      "url": "https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz"
+    },
+    {
+      "album": {
         "name": "A Hoochie Tale",
         "url": "https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 180785,
       "name": "af1 2.0",
       "url": "https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET"
+    },
+    {
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4IqXyCH75mW4dMDbHufqDX"
     },
     {
       "album": {
@@ -4131,6 +4167,28 @@
     },
     {
       "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+    },
+    {
+      "album": {
         "name": "We Only Talk About Real Shit When We're Fucked Up",
         "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
       },
@@ -6783,6 +6841,28 @@
     },
     {
       "album": {
+        "name": "PHONE CALL",
+        "url": "https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189281,
+      "name": "PHONE CALL",
+      "url": "https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg"
+    },
+    {
+      "album": {
         "name": "Pink Dreads",
         "url": "https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A"
       },
@@ -7032,6 +7112,24 @@
       "duration_ms": 202000,
       "name": "Proper",
       "url": "https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv"
+    },
+    {
+      "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169496,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
     },
     {
       "album": {

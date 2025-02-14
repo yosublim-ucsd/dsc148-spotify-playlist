@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,000 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,276 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 8 | [CYCLONE](https://open.spotify.com/track/2IIV3cHzaUiDiNuAnShMMw) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [CYCLONE](https://open.spotify.com/album/62NhEmWeClHj7lnGMleAQH) | 2:19 |
 | 9 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 |
 | 10 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
-| 11 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
-| 12 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 11 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 12 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
 | 13 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 14 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 15 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 45 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
 | 46 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
 | 47 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
-| 48 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
-| 49 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 |
+| 48 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 |
+| 49 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
 | 50 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
 | 51 | [When You Sleep](https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [When You Sleep](https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc) | 4:04 |
 | 52 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 71 | [Castles & Moats](https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [Where Are The Traitors?](https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q) | 2:09 |
 | 72 | [Heart Attack](https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Heart Attack](https://open.spotify.com/album/45zTQIoXr2QXHDM9DFgs9L) | 1:38 |
 | 73 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
-| 74 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
-| 75 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 74 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 75 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 
 Snapshot ID: `ZutCTgAAAABOeTrooGP19SiT3Aon+8eJ`

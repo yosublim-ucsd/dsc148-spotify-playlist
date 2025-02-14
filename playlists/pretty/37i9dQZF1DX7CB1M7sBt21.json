@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 19290,
+  "num_followers": 19315,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "EveryTime I Cry",
+        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 177855,
+      "name": "EveryTime I Cry",
+      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Tillf\u00e4lligheter / Hungry Hearts (Mashup)",
         "url": "https://open.spotify.com/album/2dJWXi5jTW9MFHJ17ruXFc"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 194933,
       "name": "Tillf\u00e4lligheter / Hungry Hearts - Mashup",
       "url": "https://open.spotify.com/track/2BCskl15k3IkQmj2YTYk2b"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "EveryTime I Cry",
-        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 177855,
-      "name": "EveryTime I Cry",
-      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Feels Right (I Love It)",
-        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 147189,
-      "name": "Feels Right (I Love It)",
-      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 155409,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Feels Right (I Love It)",
+        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "duration_ms": 147189,
+      "name": "Feels Right (I Love It)",
+      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Biochemical",
-        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+        "name": "Talk That Talk (Explicit)",
+        "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Biochemical",
-      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

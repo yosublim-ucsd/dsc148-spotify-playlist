@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Propose",
+        "url": "https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262920,
+      "name": "Propose",
+      "url": "https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ"
+    },
+    {
+      "album": {
         "name": "Songs Made of Wood",
         "url": "https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx"
       },

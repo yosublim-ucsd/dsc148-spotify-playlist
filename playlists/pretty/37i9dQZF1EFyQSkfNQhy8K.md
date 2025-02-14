@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,619 likes - 185 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,618 likes - 185 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 11 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 | 12 | [Por el Resto de Tu Vida](https://open.spotify.com/track/6A2EhqaK5ajpDLBkvnNYmB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:17 |
 | 13 | [POR EL CONTRARIO \(with Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 |
-| 14 | [Bar](https://open.spotify.com/track/7cfJzUd54EOFRCw08o0KHp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:40 |
-| 15 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
+| 14 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
+| 15 | [Bar](https://open.spotify.com/track/7cfJzUd54EOFRCw08o0KHp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:40 |
 | 16 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 17 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 18 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 51 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
 | 52 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 | 53 | [The one \(Pero no como yo\)](https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:56 |
-| 54 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
-| 55 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
+| 54 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
+| 55 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
 | 56 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 |
 | 57 | [Te Amo y Punto](https://open.spotify.com/track/08kdZnRxBJCvGvpSUs5we4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:45 |
 | 58 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/3Xaiksu578RaSvmvq893dg) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:49 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 184 | [Neruda](https://open.spotify.com/track/1OMonvPrtr2Y50MJje52A0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Dimelo, Mike](https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY) | 2:29 |
 | 185 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbpbSAAAAAAfie7+vxZ2v0HkdL4McSXy`
+Snapshot ID: `Abpg8gAAAABjPq1xf2+bJqPtfP45MvPG`

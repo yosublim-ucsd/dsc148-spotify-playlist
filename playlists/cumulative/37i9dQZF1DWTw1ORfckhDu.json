@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Jore & Zpoppa.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Fabe.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Boiler Freestyle (feat. Gracias)",
+        "url": "https://open.spotify.com/album/2tvU94Wo6QacOLdxBQ92J5"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "Gracias",
+          "url": "https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225399,
+      "name": "Boiler Freestyle (feat. Gracias)",
+      "url": "https://open.spotify.com/track/7diGQAGwMauiSHooM2qt0y"
+    },
+    {
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1uiLIZigsnwlf5LU2oHaYw"
       },
@@ -1854,6 +1876,24 @@
       "duration_ms": 129600,
       "name": "Demoni",
       "url": "https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178339,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb"
     },
     {
       "album": {
@@ -2360,7 +2400,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 202343,
       "name": "Eino Leino Bars (feat. Jami Faltin)",
       "url": "https://open.spotify.com/track/5PkEmdlZA4wcLIH0Nv5VVa"
@@ -3867,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Huppu p\u00e4\u00e4s",
+        "url": "https://open.spotify.com/album/4YPgClUSTizw9HFBLAlbzu"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197987,
+      "name": "Huppu p\u00e4\u00e4s",
+      "url": "https://open.spotify.com/track/0HB5nPu3zdtVTvtsrgLc27"
+    },
+    {
+      "album": {
         "name": "Huudimaratoonari",
         "url": "https://open.spotify.com/album/0oCQ6mw8JQETUkE0B9sv2g"
       },
@@ -4346,6 +4404,24 @@
       "duration_ms": 165720,
       "name": "Ik\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/580aMdgc9FoWW7nNlLR1Jm"
+    },
+    {
+      "album": {
+        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
+        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154443,
+      "name": "Ik\u00e4v\u00e4 mua",
+      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
       "album": {
@@ -7100,7 +7176,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 201110,
       "name": "Lifestyle Freestyle (feat. Kube)",
       "url": "https://open.spotify.com/track/7Ke33LNLFnGr7WT5LJzhvl"
@@ -8068,6 +8144,28 @@
       "duration_ms": 187750,
       "name": "Maybe We Could Be Friends",
       "url": "https://open.spotify.com/track/6izGVTyhBLQ2nInn0cc1vz"
+    },
+    {
+      "album": {
+        "name": "Me ollaan nuoriso pt.2 (feat. MD$)",
+        "url": "https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        },
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182382,
+      "name": "Me ollaan nuoriso pt.2 (feat. MD$)",
+      "url": "https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV"
     },
     {
       "album": {
@@ -9072,6 +9170,24 @@
       "duration_ms": 162600,
       "name": "Mussukka - Hugo Soniver Remix",
       "url": "https://open.spotify.com/track/3OEkXzTX8CzrqSKV8QzVCH"
+    },
+    {
+      "album": {
+        "name": "Musta hevonen",
+        "url": "https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162050,
+      "name": "Musta hevonen",
+      "url": "https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY"
     },
     {
       "album": {
@@ -11062,7 +11178,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 207796,
       "name": "P\u00e4iv\u00e4 joka meid\u00e4t pilaa",
       "url": "https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C"
@@ -11712,7 +11828,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 194769,
       "name": "Roty Freestyle (feat. R\u00f6ge)",
       "url": "https://open.spotify.com/track/4CtssUHv3khApoiXeHKEmg"
@@ -13454,7 +13570,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 154728,
       "name": "T-paita (feat. Bizi)",
       "url": "https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG"
@@ -13508,7 +13624,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 176788,
       "name": "Taikuri",
       "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
@@ -14072,6 +14188,28 @@
       "duration_ms": 139469,
       "name": "Toistoi",
       "url": "https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f"
+    },
+    {
+      "album": {
+        "name": "Toivomuskaivo (feat. Timo Pieni Huijaus)",
+        "url": "https://open.spotify.com/album/2h3WlAxuFfA4iig1sdMEDx"
+      },
+      "artists": [
+        {
+          "name": "Uniikki",
+          "url": "https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX"
+        },
+        {
+          "name": "Timo Pieni Huijaus",
+          "url": "https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174900,
+      "name": "Toivomuskaivo (feat. Timo Pieni Huijaus)",
+      "url": "https://open.spotify.com/track/6cAez5rngZi8qLEnXryODo"
     },
     {
       "album": {
@@ -15838,7 +15976,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 121224,
       "name": "Willy Wonka Freestyle",
       "url": "https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC"

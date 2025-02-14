@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,050 likes - 168 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,058 likes - 168 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 57 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 58 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 | 59 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
-| 60 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
-| 61 | [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 |
+| 60 | [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 |
+| 61 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
 | 62 | [Need To Know](https://open.spotify.com/track/5VBKZ21vgMcUt9D25Qmh2M) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4) | 2:47 |
 | 63 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
-| 64 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
-| 65 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 |
+| 64 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 |
+| 65 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
 | 66 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
 | 67 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 68 | [Thought of You](https://open.spotify.com/track/2ySKl9oGwZMZzXJraNiNgl) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:43 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 107 | [My Favorite Drug](https://open.spotify.com/track/4CH3LNUhH2v5lUpAk4SDoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 5:01 |
 | 108 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
 | 109 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 |
-| 110 | [Sex & cigarettes](https://open.spotify.com/track/4bJM6SNVyvzgcJR0f5QtYo) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:05 |
-| 111 | [In Between](https://open.spotify.com/track/34DIs8VG5CBKkOVSppTV6a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 1:57 |
+| 110 | [In Between](https://open.spotify.com/track/34DIs8VG5CBKkOVSppTV6a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 1:57 |
+| 111 | [Sex & cigarettes](https://open.spotify.com/track/4bJM6SNVyvzgcJR0f5QtYo) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:05 |
 | 112 | [Without Me](https://open.spotify.com/track/2mP9Uzm5ZlZZlhzHPGdwsO) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Without Me](https://open.spotify.com/album/7z6R3gcDlPrczUIi5Rqp8b) | 2:38 |
 | 113 | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ) | 2:28 |
 | 114 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 167 | [choices](https://open.spotify.com/track/1ew8ziYcyv8627lgOtppuf) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 | 168 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 
-Snapshot ID: `AbpbIAAAAAClyKPEj4Ddfn+tebiX1sKk`
+Snapshot ID: `Abpg3gAAAACaOhbzKPQR7rPZXLHlwF4q`

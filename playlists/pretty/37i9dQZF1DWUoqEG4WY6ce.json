@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1129907,
+  "num_followers": 1129939,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-02-07 05:00:31",
       "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2025-02-07 05:00:31",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2025-02-07 05:00:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-02-07 05:00:31",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 175120,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa"
+    },
+    {
+      "added_at": "2025-02-07 05:00:31",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2025-02-07 05:00:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-02-07 05:00:31",
       "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:31",
+      "album": {
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
     },
     {
       "added_at": "2025-02-07 05:00:31",

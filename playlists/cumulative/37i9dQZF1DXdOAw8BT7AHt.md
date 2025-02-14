@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-443 songs - 22 hr 7 min
+444 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Reset My Password](https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB) | 2:50 | 2022-12-02 | 2023-03-04 |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-23 | 2024-06-01 |
 | [Retribution](https://open.spotify.com/track/7qX3k85u2l17yeR50aStqK) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Retribution](https://open.spotify.com/album/1qeQQef1rkt0LwWygwwsha) | 1:53 | 2024-05-31 | 2024-06-28 |
+| [Return To Sender](https://open.spotify.com/track/6aBs71SfLXICPjgmgHhHVF) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [The Great Heights Band](https://open.spotify.com/artist/4b4JHDZTZRl069AsKeuHqU), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09) | [Return To Sender](https://open.spotify.com/album/4Nxd91jeNukvBxNAIzFFrB) | 2:51 | 2025-02-07 |  |
 | [Rob the Supermarket](https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Rob the Supermarket](https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h) | 2:14 | 2022-12-02 | 2023-02-26 |
 | [Rob the Supermarket](https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:14 | 2023-06-08 | 2023-11-18 |
 | [Roll With It](https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Roll With It](https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W) | 3:35 | 2024-02-16 | 2024-06-17 |
@@ -397,7 +398,7 @@
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-05-31 |  |
 | [The Heart](https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [The Heart](https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi) | 2:35 | 2024-02-16 | 2024-04-26 |
 | [The Last Drag](https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 6:10 | 2024-05-31 | 2024-10-11 |
-| [The Recipe](https://open.spotify.com/track/3NASP9IkcrulrSZl8otyFd) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [The Recipe](https://open.spotify.com/album/1CbdsILSyFJWcCBGFKlcM7) | 2:44 | 2025-02-07 |  |
+| [The Recipe](https://open.spotify.com/track/3NASP9IkcrulrSZl8otyFd) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [The Recipe](https://open.spotify.com/album/1CbdsILSyFJWcCBGFKlcM7) | 2:44 | 2025-02-07 | 2025-02-14 |
 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 | 2024-10-10 | 2025-02-08 |
 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2023-01-18 | 2023-02-10 |
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q) | 3:21 | 2024-03-15 | 2024-06-01 |

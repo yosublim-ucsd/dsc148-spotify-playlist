@@ -4,7 +4,7 @@
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 47 min
+59 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Feeling Good](https://open.spotify.com/track/7rc6L3UtM0uvwfpsl07GBL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Feeling Good](https://open.spotify.com/album/5fM4du8mdVKzG1hZDAfazY) | 3:50 | 2024-12-29 |  |
 | [For A Better Day](https://open.spotify.com/track/7kbTZWt7DnzIzbkyzFE1PW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:26 | 2024-12-29 |  |
 | [Forever Yours \- Avicii Tribute](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Avicii Tribute\)](https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y) | 3:13 | 2024-12-29 |  |
+| [Forever Yours \- Tim’s 2016 Ibiza Version](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Tim’s 2016 Ibiza Version\)](https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371) | 3:28 | 2025-02-13 |  |
 | [Friend Of Mine \(feat\. Vargas & Lagola\)](https://open.spotify.com/track/79UX8fkSsowWI1HOd8VoYt) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 2:39 | 2024-12-29 |  |
 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 | 2024-12-29 |  |
 | [Heart Upon My Sleeve \(feat\. Imagine Dragons\)](https://open.spotify.com/track/6kXNnS7JJz0nAv4XEwEmQJ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:14 | 2024-12-29 |  |

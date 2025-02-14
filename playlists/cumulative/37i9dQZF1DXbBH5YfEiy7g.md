@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=Ci19k6ImSzukckEeetcsEw">Mmuso Worship</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=Oq1y9ZUpQhqRqQIJoc4jcg">Benjamin Dube</a>
 
-103 songs - 10 hr 53 min
+104 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2024-10-04 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2024-10-04 |  |
 | [Umkhuleko We Bandla](https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umkhuleko We Bandla](https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum) | 8:27 | 2025-01-03 |  |
+| [Ungu Alpha \- Unplugged](https://open.spotify.com/track/5rhK4JkS8TY6SEstiyI5xM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ungu Alpha \(Unplugged\)](https://open.spotify.com/album/5YbQ15DmPOyUOd0j3LU1Bw) | 5:52 | 2025-02-14 |  |
 | [Ungu'Nkulunkulu](https://open.spotify.com/track/4KmJ0XOfPZbohBoenWNlHI) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [The Glory](https://open.spotify.com/album/1xf9GVdtliSyLjj6AdMqeh) | 8:43 | 2024-10-25 |  |
 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 | 2024-10-04 |  |
 | [Uthando Lwakhe \(Medley 8\) \- Jehovah Wase Mandulo](https://open.spotify.com/track/3nZzeBYFUzraylvt8RERKq) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakhe \(Medley 8\) \[Jehovah Wase Mandulo\]](https://open.spotify.com/album/3gvnYd70HXpkj8MrvF4Q8k) | 5:11 | 2024-11-22 |  |

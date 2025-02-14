@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107238,
+  "num_followers": 107247,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+      "duration_ms": 152405,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -715,22 +719,38 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Enamorada",
-        "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 152405,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 187514,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -775,26 +795,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 187514,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "\u00c9ramos lo m\u00e1s",
         "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "(re)definiciones",
-        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "otr(a v)ez",
-      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "(re)definiciones",
+        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "otr(a v)ez",
+      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 163885,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Perdoname amor",
         "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1XPf26pSAJpcvxYr3pOgfz"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Voy a Seguir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6b76aAcQltcNWyJD9LODpc"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 177083,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1XPf26pSAJpcvxYr3pOgfz"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Voy a Seguir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6b76aAcQltcNWyJD9LODpc"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1639,22 +1655,6 @@
       "duration_ms": 204273,
       "name": "C\u00f3mo y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-10-24 20:31:41",

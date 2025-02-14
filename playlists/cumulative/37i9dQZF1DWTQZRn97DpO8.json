@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Candice",
   "name": "le miel",
   "tracks": [
     {
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Combien Je T'aime",
+        "url": "https://open.spotify.com/album/5Oa9jtTLifl6lDoGGJImeD"
+      },
+      "artists": [
+        {
+          "name": "Mee Shel",
+          "url": "https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210665,
+      "name": "Combien Je T'aime",
+      "url": "https://open.spotify.com/track/2TmBU7XCZ9Gl5CfY0TIhvw"
+    },
+    {
+      "album": {
         "name": "Comme je l'aime",
         "url": "https://open.spotify.com/album/6Qf7uI07LuuL0Cur2l09b6"
       },
@@ -1417,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Fils de (Sans Valentin)",
+        "url": "https://open.spotify.com/album/5YpWbeDdxKkXBXfroGETc4"
+      },
+      "artists": [
+        {
+          "name": "Mallaury",
+          "url": "https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101226,
+      "name": "Fils de (Sans Valentin)",
+      "url": "https://open.spotify.com/track/3iIW06aZGly2F0ViQigqEt"
+    },
+    {
+      "album": {
         "name": "Finalement",
         "url": "https://open.spotify.com/album/7I6ZSYK1TeDw7jOJBDAlBo"
       },
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196129,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/1NzsLLC52w06Dln3UoXME2"
@@ -1570,6 +1606,24 @@
       "duration_ms": 162733,
       "name": "Good Or Bad",
       "url": "https://open.spotify.com/track/6f1tGjfNsHofPU7aZQdeXc"
+    },
+    {
+      "album": {
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/4h3ASPzP6DJtpch96ynntD"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218530,
+      "name": "GRANDE",
+      "url": "https://open.spotify.com/track/2ThOIE9dH4wM4rHk4FRWp0"
     },
     {
       "album": {
@@ -2064,7 +2118,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 213106,
       "name": "J'ai besoin",
       "url": "https://open.spotify.com/track/3wTpzExItAtgXSMop0iXTO"
@@ -2176,7 +2230,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 238021,
       "name": "Je te d\u00e9teste",
       "url": "https://open.spotify.com/track/0g1U9MuUMDt0v4wKKXR2u5"
@@ -2417,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Premier p\u00e9tale",
+        "url": "https://open.spotify.com/album/135Blnc2l4f5iIPVOf9RHe"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Laissez-moi",
+      "url": "https://open.spotify.com/track/23OElriSAhtF7Y2L4qw2yb"
+    },
+    {
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t"
       },
@@ -2530,7 +2602,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 213818,
       "name": "Les Ailes",
       "url": "https://open.spotify.com/track/4CCoM9Mo5Mj5nF0mZFAseP"
@@ -3134,7 +3206,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 158241,
       "name": "My Luv",
       "url": "https://open.spotify.com/track/1BR0nKf4sv0l2SqhugpIUJ"
@@ -3210,6 +3282,24 @@
       "duration_ms": 187683,
       "name": "NLSM",
       "url": "https://open.spotify.com/track/1rjs9YCSrSSQoAmKNtnC0y"
+    },
+    {
+      "album": {
+        "name": "Les Ailes",
+        "url": "https://open.spotify.com/album/2tPBpoymoXMNmxmdKW2kyh"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Nos plus beaux sourires",
+      "url": "https://open.spotify.com/track/0J2nBxXaNo3bpNqLyLm3DL"
     },
     {
       "album": {
@@ -3520,7 +3610,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152801,
       "name": "PETIT CON",
       "url": "https://open.spotify.com/track/2d6yuMENcUtp7eJtj98TCK"
@@ -3574,7 +3664,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 214083,
       "name": "Pill\u00e9 mais pas d\u00e9truit",
       "url": "https://open.spotify.com/track/1OUmNgT3puIVi0W1oR7tdY"
@@ -3752,6 +3842,42 @@
       "duration_ms": 194656,
       "name": "PRETTY BABY",
       "url": "https://open.spotify.com/track/1X9w07ZCQU1WZFOnOiD07s"
+    },
+    {
+      "album": {
+        "name": "CUXI BOY",
+        "url": "https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153760,
+      "name": "Priorit\u00e9",
+      "url": "https://open.spotify.com/track/30rmEZR20unk6hPJoyKPnb"
+    },
+    {
+      "album": {
+        "name": "VOLUPT\u00c6",
+        "url": "https://open.spotify.com/album/2iZvDKGDEY3NhCUFzzRRpX"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "PROMETS-MOI",
+      "url": "https://open.spotify.com/track/5xXNzCZUdvFCAF8Fihlk8S"
     },
     {
       "album": {
@@ -4204,10 +4330,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 217634,
       "name": "SANS RAISON",
       "url": "https://open.spotify.com/track/4DdCTLacDOTvE3Aw0I8STp"
+    },
+    {
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/2KQU36I9cq47lKy0Ceyqri"
+      },
+      "artists": [
+        {
+          "name": "Keziah",
+          "url": "https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157674,
+      "name": "Sans Rep\u00e8res",
+      "url": "https://open.spotify.com/track/1TnNbPCL6Z1qkSI7FZRY0M"
     },
     {
       "album": {
@@ -4334,7 +4478,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160558,
       "name": "Si seulement",
       "url": "https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD"
@@ -4578,6 +4722,24 @@
       "duration_ms": 226000,
       "name": "Sweet & Sour",
       "url": "https://open.spotify.com/track/5T7CniQD3QkuW4dYYnXgWN"
+    },
+    {
+      "album": {
+        "name": "Chick & Dips 4",
+        "url": "https://open.spotify.com/album/5aGu92N8hnz773lierwn0T"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sweet Chili (2\u00e8me service)",
+      "url": "https://open.spotify.com/track/73clO0iIYPGQhA5zDfRzTn"
     },
     {
       "album": {

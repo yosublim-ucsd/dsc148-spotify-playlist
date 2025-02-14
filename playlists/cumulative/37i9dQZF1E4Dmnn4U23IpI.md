@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Ollie Wride, Gunship, The Bad Dreamers and more
+> With Ollie Wride, The Bad Dreamers, Siamese Youth and more
 
 1,554 songs - 4 day 11 hr 15 min
 

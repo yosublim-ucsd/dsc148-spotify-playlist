@@ -4,7 +4,7 @@
 
 > a7san ma kayn f rap maghribi
 
-366 songs - 19 hr 26 min
+367 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-05-10 | 2024-05-18 |
 | [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 | 2023-12-07 | 2024-02-23 |
 | [La Bandera](https://open.spotify.com/track/1qXF28As0TDqYhmerGNqQR) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Promise](https://open.spotify.com/album/0g1YqG7Hn9RmZ96Q3GGOpq) | 3:29 | 2022-11-14 | 2023-01-01 |
+| [LA HAINE](https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [LA HAINE](https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp) | 3:18 | 2025-02-13 |  |
 | [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-18 | 2025-02-13 |
 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 | 2022-11-14 | 2023-08-06 |
 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 | 2024-10-17 | 2025-02-13 |

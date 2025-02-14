@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\.  Cover: HUSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,493 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,440 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [都會愛情三角習題](https://open.spotify.com/track/6Ml6EPpTCamR1wPv82v97Q) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [娛樂自己](https://open.spotify.com/album/3zETXUX92S2GQ5HINXOcAi) | 3:36 |
+| 1 | [當我們談論愛情](https://open.spotify.com/track/2JOb24g7gKkE70LYhXv8pf) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [當我們談論愛情](https://open.spotify.com/album/6vCdo47Pl0VqYAKI4hTn0H) | 3:51 |
 | 2 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 3 | [wiggy](https://open.spotify.com/track/1jwXn7H1UDANmEvw6bfDr6) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:24 |
 | 4 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 |
 | 5 | [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 |
 | 6 | [The Old You](https://open.spotify.com/track/2JBHUMR8tuB0SB6Y6YAiuJ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Inner Me](https://open.spotify.com/album/3WqFzj4MIMv4mZXc1kXiNw) | 5:02 |
-| 7 | [I'm Just a Frog](https://open.spotify.com/track/1o8Si20IJ0HFvZ5IfTfjKY) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [I'm Just a Frog](https://open.spotify.com/album/5IAl9iZQTtfZKZZFUyexb5) | 2:55 |
-| 8 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
-| 9 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 3:52 |
-| 10 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
-| 11 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
-| 12 | [Like Snow](https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Like Snow](https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6) | 2:51 |
-| 13 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
-| 14 | [Gwara Gwara](https://open.spotify.com/track/4B1hTIN5dDAj2Q7mwAKu6s) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:18 |
-| 15 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 |
-| 16 | [Dream Girl](https://open.spotify.com/track/7aU1C9a1aPhuQbiytcVQ9y) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Dream Girl](https://open.spotify.com/album/11N7EkuO5d8KvhQqJ6CrTJ) | 2:52 |
-| 17 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 |
-| 18 | [I'm Ready](https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [I'm Ready](https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn) | 2:34 |
-| 19 | [Alien Cowboy](https://open.spotify.com/track/56nZzIw3sUhEgXfQlAeYAh) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Alien Cowboy](https://open.spotify.com/album/37ZKOlHdhP8r4LyHRqXka3) | 2:50 |
-| 20 | [The Puppetmaster](https://open.spotify.com/track/1oZ6sVprX1VrcApLE17UgC) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [The Puppetmaster](https://open.spotify.com/album/4dNVSIfPWabPGxI7Q6laBL) | 2:29 |
-| 21 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
-| 22 | [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 |
-| 23 | [COCON](https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [COCON](https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu) | 1:59 |
-| 24 | [what if nobody kisses me?](https://open.spotify.com/track/2zftPZ07N0ryFVbIxqZUNY) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what if nobody kisses me?](https://open.spotify.com/album/0xtwYwqIV2LJ7U5lUBWDVb) | 2:54 |
+| 7 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
+| 8 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 3:52 |
+| 9 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
+| 10 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
+| 11 | [Like Snow](https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Like Snow](https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6) | 2:51 |
+| 12 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
+| 13 | [Gwara Gwara](https://open.spotify.com/track/4B1hTIN5dDAj2Q7mwAKu6s) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:18 |
+| 14 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 |
+| 15 | [Dream Girl](https://open.spotify.com/track/7aU1C9a1aPhuQbiytcVQ9y) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Dream Girl](https://open.spotify.com/album/11N7EkuO5d8KvhQqJ6CrTJ) | 2:52 |
+| 16 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 |
+| 17 | [I'm Ready](https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [I'm Ready](https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn) | 2:34 |
+| 18 | [Alien Cowboy](https://open.spotify.com/track/56nZzIw3sUhEgXfQlAeYAh) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Alien Cowboy](https://open.spotify.com/album/37ZKOlHdhP8r4LyHRqXka3) | 2:50 |
+| 19 | [The Puppetmaster](https://open.spotify.com/track/1oZ6sVprX1VrcApLE17UgC) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [The Puppetmaster](https://open.spotify.com/album/4dNVSIfPWabPGxI7Q6laBL) | 2:29 |
+| 20 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
+| 21 | [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 |
+| 22 | [COCON](https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [COCON](https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu) | 1:59 |
+| 23 | [what if nobody kisses me?](https://open.spotify.com/track/2zftPZ07N0ryFVbIxqZUNY) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what if nobody kisses me?](https://open.spotify.com/album/0xtwYwqIV2LJ7U5lUBWDVb) | 2:54 |
+| 24 | [Fleeting Friend](https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Fleeting Friend](https://open.spotify.com/album/0FGrnwHdF1XuHKuer1lbih) | 3:11 |
 | 25 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 |
 | 26 | [Runway](https://open.spotify.com/track/2DQPfTQ1WAlEEh3OOpo3xF) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 2:29 |
 | 27 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [false gold](https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 2:54 |
 | 50 | [zły](https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [zły](https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ) | 3:20 |
 
-Snapshot ID: `Z6ronQAAAAAOpRBfW4Savcd1IoxwPPXg`
+Snapshot ID: `Z66sZQAAAADWmUvc3caUbtgv/QXzq2Fe`

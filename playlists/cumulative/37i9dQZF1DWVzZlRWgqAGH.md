@@ -4,7 +4,7 @@
 
 > Music for your soul\. Cover: Melanie Fiona
 
-1,463 songs - 3 day 13 hr 54 min
+1,464 songs - 3 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2023-12-23 |
 | [Fly Girl](https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Fly Girl](https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke) | 3:12 | 2023-08-18 | 2023-11-25 |
 | [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 | 2025-01-03 |  |
-| [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-13 |  |
+| [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-13 | 2025-02-14 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 | 2020-06-29 |
 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-20 |
 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-05-26 | 2023-09-16 |
@@ -1230,6 +1230,7 @@
 | [Subject Seven](https://open.spotify.com/track/0bc9mvAiQ5wRXMBtcolUMr) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Howard McNair](https://open.spotify.com/artist/5tMxzUPhycURNR5GYZHl7y) | [Bernie Says](https://open.spotify.com/album/3uzNzb1atgfho2sVeOezWe) | 2:29 | 2019-10-15 | 2019-11-08 |
 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 | 2024-10-25 |  |
 | [Submerge \- Single Version](https://open.spotify.com/track/3mSYvWiHbYxPqhZbRvXGdV) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/0RvovDZcFIQI1e3D2fkwaZ) | 3:39 | 2024-07-05 | 2024-07-19 |
+| [Suede](https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 3:37 | 2025-02-13 |  |
 | [Sugar](https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [A Kid From Toronto](https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku) | 3:12 | 2024-08-16 |  |
 | [SULA \(Hardcover\)](https://open.spotify.com/track/43xBou0k59JFbi3qa8JpIm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/2C6MSMmLTSaRjs7d9PwrS9) | 3:00 | 2020-09-18 | 2022-04-20 |
 | [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 | 2024-10-25 |  |

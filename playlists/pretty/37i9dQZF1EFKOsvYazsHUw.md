@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 57 | [Body 2 Body](https://open.spotify.com/track/41LZqyZDQB9lhLLxZPmWko) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Royal Blues](https://open.spotify.com/album/6WXYxY8j90eFTorBfVRfCs) | 3:17 |
 | 58 | [Eyes On You](https://open.spotify.com/track/0T3lAx5TMBRO9CkYDO1A2L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:53 |
 | 59 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 |
-| 60 | [silverlight](https://open.spotify.com/track/7mnpmmtKKHxoZBV7HSqJOa) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:38 |
-| 61 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
+| 60 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
+| 61 | [silverlight](https://open.spotify.com/track/7mnpmmtKKHxoZBV7HSqJOa) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:38 |
 | 62 | [Healer](https://open.spotify.com/track/0NzNTTdkSvXw9aIrXcXAmk) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 3:40 |
 | 63 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 64 | [No Strings](https://open.spotify.com/track/3tPvpGO4yTqpDuJIKnPRYv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 99 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AbpbNAAAAABLt35UYXKYO6kcQo7VORr/`
+Snapshot ID: `Abpg8gAAAACNdGhGi6sGmlEy6bH+6sNw`

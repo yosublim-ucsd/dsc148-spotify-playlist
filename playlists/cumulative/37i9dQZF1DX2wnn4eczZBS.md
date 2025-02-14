@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sef
 
-153 songs - 8 hr 5 min
+154 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [Deze Stilte](https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Deze Stilte](https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV) | 2:29 | 2024-09-13 | 2025-01-11 |
 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 | 2025-02-07 |  |
 | [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 | 2025-01-17 |
+| [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 | 2025-02-13 |  |
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 |  |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 | 2024-10-24 |  |
 | [Dus Ik Ga](https://open.spotify.com/track/6GbtsakP9ZMR6w7ok2cTUT) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Dus Ik Ga](https://open.spotify.com/album/55Q2gr5Rhu9ucEFiONmPgP) | 3:19 | 2024-07-19 | 2025-01-11 |
-| [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 | 2025-02-10 |
+| [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 |  |
 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 | 2025-01-10 | 2025-02-04 |
 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 | 2024-06-26 | 2024-08-30 |
 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 | 2025-01-16 |  |
@@ -91,7 +92,7 @@
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 | 2025-01-11 |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-26 | 2024-09-14 |
-| [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG) | [Blue Flamingo](https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8) | 4:05 | 2024-08-29 |  |
+| [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG) | [Blue Flamingo](https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8) | 4:05 | 2024-08-29 | 2025-02-14 |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-07-05 | 2024-10-25 |
 | [Meisje](https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Meisje](https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7) | 2:19 | 2025-01-10 | 2025-01-14 |
 | [Meneer de Tijd](https://open.spotify.com/track/0TccteiGTooJVCSwuD0t6x) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Meneer de Tijd](https://open.spotify.com/album/4xmBBbbst60Q106LfQvKMS) | 2:21 | 2024-06-26 | 2024-07-06 |
@@ -99,7 +100,7 @@
 | [Mezelf niet meer](https://open.spotify.com/track/3qgS9HI3Ezcbf3SbIhxCBY) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT), [Louis Beton](https://open.spotify.com/artist/6nV8WGgQdzHZHzWhg20vAP) | [Mezelf niet meer](https://open.spotify.com/album/2HW4uhjwhY39zp0rtpLSJK) | 2:50 | 2024-10-09 | 2025-01-11 |
 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-07 |  |
 | [Mijn Naam is Niemand](https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Mijn Naam Is Niemand](https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw) | 3:22 | 2024-06-26 | 2024-10-25 |
-| [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 |  |
+| [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 | 2025-02-14 |
 | [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
 | [Naar de Stad](https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Naar de Stad](https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O) | 2:59 | 2025-02-03 |  |

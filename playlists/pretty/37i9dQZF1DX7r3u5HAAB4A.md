@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:1OFOShsIbhy1l5x73yuVyB">Shenseea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,119 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,382 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

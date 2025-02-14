@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 439621,
+  "num_followers": 439640,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Flora y Fauna",
-        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
-      },
-      "artists": [
-        {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Amor Frutero",
-      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 260147,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Flora y Fauna",
+        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
+      },
+      "artists": [
+        {
+          "name": "Camila Luna",
+          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Amor Frutero",
+      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Bienvenido a mi habitaci\u00f3n",
         "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
       },
@@ -807,42 +827,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 240562,
       "name": "Tiene Sabor",
       "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Morena m\u00eda",
-        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 188543,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Latin Jazz, Vol. 3",
         "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 185786,
       "name": "Linda Guajira",
       "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Morena m\u00eda",
+        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 188543,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Pelear",
         "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 252397,
       "name": "Pelear",
       "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
-      },
-      "artists": [
-        {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+      },
+      "artists": [
+        {
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 223649,
       "name": "Together",
       "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2024-10-25 04:00:00",

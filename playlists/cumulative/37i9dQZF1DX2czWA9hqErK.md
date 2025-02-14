@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-778 songs - 1 day 19 hr 23 min
+779 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Keep Me \- Acoustic](https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Keep Me \(Acoustic\)](https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM) | 2:43 | 2021-12-16 | 2023-09-15 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-20 |  |
 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 | 2023-10-24 | 2024-01-27 |
+| [Know How It Hurts](https://open.spotify.com/track/120sSK66JfcBPb9mqPmd6G) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Know How It Hurts](https://open.spotify.com/album/6q5b2ooIGg1oPlxD969M9l) | 3:42 | 2024-12-20 |  |
 | [Know Me Again \(with Cate\)](https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Know Me Again \(with Cate\)](https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0) | 4:15 | 2021-12-16 | 2022-01-11 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-28 | 2023-10-14 |
 | [Lady Kisses](https://open.spotify.com/track/48WdmKl5yJSHRyiYJ6lm3g) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Lady Kisses](https://open.spotify.com/album/1IkLdBiaZQ1wLa40y2fNrw) | 2:48 | 2022-03-29 | 2022-04-21 |
@@ -768,7 +769,7 @@
 | [Worry](https://open.spotify.com/track/5162TbRdE10dMwToCsKa7J) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Worry](https://open.spotify.com/album/59kXMOrbDR0CbXg1bdCLhL) | 2:41 | 2022-04-04 | 2022-07-29 |
 | [Worst Ways](https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Worst Ways](https://open.spotify.com/album/415C1JkrCi5cNjMboEW9jG) | 3:21 | 2022-01-11 | 2022-07-29 |
 | [Would If I Could](https://open.spotify.com/track/2vwc2P19e6Uk9wJy78y8Q1) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Would If I Could](https://open.spotify.com/album/1ktl9CvdEyIRRlINu6rn0r) | 2:34 | 2021-12-16 | 2022-07-26 |
-| [Wreck](https://open.spotify.com/track/5bpIkRGZXnayOaWEszMSK1) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Wreck](https://open.spotify.com/album/30sDoUge1EZ2O8jG3hdkli) | 2:39 | 2024-12-20 |  |
+| [Wreck](https://open.spotify.com/track/5bpIkRGZXnayOaWEszMSK1) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Wreck](https://open.spotify.com/album/30sDoUge1EZ2O8jG3hdkli) | 2:39 | 2024-12-20 | 2025-02-14 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2021-12-16 | 2023-01-21 |
 | [Yellow Bridge](https://open.spotify.com/track/2e2X8P1nYF6rk4QVgRTfKJ) | [Naomi Kimpenu](https://open.spotify.com/artist/3k86tPTadNVbaxe89rFo1C) | [Prelude EP](https://open.spotify.com/album/6UdfVbjksPZ1KQ03WJc4AG) | 3:00 | 2022-03-25 | 2022-03-27 |
 | [You](https://open.spotify.com/track/5FgiHNFQZTX1rZIrmYhrPq) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [I Heard A Whisper EP](https://open.spotify.com/album/4NTGktvxiRn29YeWicBXCa) | 3:13 | 2021-12-16 | 2022-03-08 |

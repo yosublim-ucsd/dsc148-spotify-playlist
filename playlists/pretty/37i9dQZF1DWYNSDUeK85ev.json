@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 684189,
+  "num_followers": 684226,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
-        "name": "La Morocha",
-        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 134144,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 256519,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
+        "name": "La Morocha",
+        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1055,22 +1035,22 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1087,6 +1067,26 @@
       "duration_ms": 428438,
       "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
       "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
         "name": "SE DICE DE MI",
         "url": "https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI"
       },
@@ -1595,22 +1615,18 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1631,22 +1647,6 @@
       "duration_ms": 206400,
       "name": "TURRA",
       "url": "https://open.spotify.com/track/4w3R0drhPCc7zeO2OtBV8r"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 167843,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
         "name": "El Amante (feat. Ozuna & Bad Bunny) [Remix]",
         "url": "https://open.spotify.com/album/55uno9tUFr9N5Gq5Rnzfwd"
       },
@@ -1943,6 +1927,22 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
         "name": "Ahi Ahi",
         "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
       },
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2024-12-20 03:00:02",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2024-12-20 03:00:02",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX"
+    },
+    {
+      "added_at": "2024-12-20 03:00:02",
+      "album": {
         "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
         "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 158086,
       "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
       "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
-    },
-    {
-      "added_at": "2024-12-20 03:00:02",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX"
     },
     {
       "added_at": "2024-12-20 03:00:02",

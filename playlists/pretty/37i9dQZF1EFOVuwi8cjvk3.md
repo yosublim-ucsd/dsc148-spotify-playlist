@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 240 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 240 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 205 | [What About Heaven](https://open.spotify.com/track/2zGlgpb31HU1JLfDNcZpNZ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 3:38 |
 | 206 | [A Bigger Picture Called Free](https://open.spotify.com/track/4dBWeFLWPmY9WHGMl6yN31) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black America Again](https://open.spotify.com/album/2DTbGcv40CSMW0P4yAQQBa) | 4:38 |
 | 207 | [Wrong Speed](https://open.spotify.com/track/6OAikgb0nzBidSI9WMiKui) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Insecure: Music from the HBO Original Series, Season 3](https://open.spotify.com/album/3AaaX5cJpQPUzL2UznWu7q) | 3:30 |
-| 208 | [Still Got Time](https://open.spotify.com/track/4QHvhSmShQNeYAyXcnRwiM) | [The Nashville Sessions](https://open.spotify.com/artist/5jJHSUQLyn8rPzxw2ImfQl), [Ben Schuller](https://open.spotify.com/artist/7n4cyL40CdreXwIw00c8RX) | [Cover Sessions](https://open.spotify.com/album/4jPt6rDZLTyi4oCtED2c8g) | 3:28 |
-| 209 | [FLY](https://open.spotify.com/track/09HMFVE1vkb9OfnhzJr5UU) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 3:05 |
+| 208 | [FLY](https://open.spotify.com/track/09HMFVE1vkb9OfnhzJr5UU) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 3:05 |
+| 209 | [Still Got Time](https://open.spotify.com/track/4QHvhSmShQNeYAyXcnRwiM) | [The Nashville Sessions](https://open.spotify.com/artist/5jJHSUQLyn8rPzxw2ImfQl), [Ben Schuller](https://open.spotify.com/artist/7n4cyL40CdreXwIw00c8RX) | [Cover Sessions](https://open.spotify.com/album/4jPt6rDZLTyi4oCtED2c8g) | 3:28 |
 | 210 | [Maison](https://open.spotify.com/track/5Fp1CtbZMoCKyIyojRRjC8) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Up For Days](https://open.spotify.com/album/7MH5ah4TuR5b7ENaloxEtr) | 3:18 |
 | 211 | [Insecure](https://open.spotify.com/track/3UouMKGTjxjVeeS1ouYIqn) | [Demo Taped](https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9) | [Insecure](https://open.spotify.com/album/6swMxu6t2jfnl0kjOUbY1z) | 2:44 |
 | 212 | [Prince of Doom](https://open.spotify.com/track/1b0jFOUGxQLBfMZhzPHquh) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:43 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 239 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 | 240 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 |
 
-Snapshot ID: `AbpbNAAAAAAyQW4yeLxITJ0czIzyw+l6`
+Snapshot ID: `Abpg8gAAAAClEhfAfyTAK0uf0MWmbUfR`

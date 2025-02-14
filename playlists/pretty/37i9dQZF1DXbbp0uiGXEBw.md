@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Mỹ Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,634 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,633 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 3:10 |
+| 1 | [letting go](https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [letting go](https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8) | 3:35 |
 | 2 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 |
 | 3 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
 | 4 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Little Love \(But No Limit\)](https://open.spotify.com/track/7mA9oPfWSMXKOdPZqyow55) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Little Love \(But No Limit\)](https://open.spotify.com/album/2RZi0rxTOLwq3RZriuhq4W) | 3:58 |
 | 50 | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 |
 
-Snapshot ID: `Z6JHqwAAAADEPaqPpXSRA3b83uOdBMv3`
+Snapshot ID: `Z64lJgAAAAA2Q5gvMBvHiKxMu64LZlCH`

@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 371993,
+  "num_followers": 372029,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+        "name": "Gaiola \u00c9 o Troco",
+        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
+      "duration_ms": 187245,
+      "name": "Gaiola \u00c9 o Troco",
+      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -143,22 +147,18 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Gaiola \u00c9 o Troco",
-        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
       },
       "artists": [
         {
-          "name": "MC Du Black",
-          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
         }
       ],
-      "duration_ms": 187245,
-      "name": "Gaiola \u00c9 o Troco",
-      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
+      "duration_ms": 210386,
+      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "De Primeira",
         "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 186698,
       "name": "Por Supuesto",
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "De Bra\u00e7os Abertos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 181512,
       "name": "Vingan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jhama",
+          "url": "https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Essa mina \u00e9 louca (Participa\u00e7\u00e3o especial de Jhama)",
+      "url": "https://open.spotify.com/track/5Bn6W4bwH7Bw5nMvn8V4xF"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 154026,
       "name": "Na Ponta Ela Fica",
       "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jhama",
-          "url": "https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Essa mina \u00e9 louca (Participa\u00e7\u00e3o especial de Jhama)",
-      "url": "https://open.spotify.com/track/5Bn6W4bwH7Bw5nMvn8V4xF"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Assim Voc\u00ea Mata O Papai",
-        "url": "https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Assim Voc\u00ea Mata O Papai",
-      "url": "https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "A danada sou eu",
         "url": "https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 174056,
       "name": "Cheguei",
       "url": "https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Assim Voc\u00ea Mata O Papai",
+        "url": "https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Assim Voc\u00ea Mata O Papai",
+      "url": "https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B"
     },
     {
       "added_at": "2022-03-24 13:07:25",

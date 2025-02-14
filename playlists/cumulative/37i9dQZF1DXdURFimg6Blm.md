@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-564 songs - 1 day 3 hr 46 min
+565 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2022-01-07 | 2022-05-07 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 | 2024-02-14 |
 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-08-04 | 2024-02-17 |
+| [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 | 2025-02-07 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-29 | 2024-03-16 |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-28 | 2025-01-30 |
 | [Mistakes](https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0) | 2:33 | 2022-01-28 | 2022-07-29 |
@@ -514,7 +515,7 @@
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-01-07 | 2022-04-23 |
 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 | 2023-06-30 | 2023-11-11 |
 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 | 2022-04-22 | 2023-03-07 |
-| [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-11-08 |  |
+| [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-11-08 | 2025-02-14 |
 | [Time Will Tell](https://open.spotify.com/track/3xMDSbzOh0XHsPH6bQl5BN) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Time Will Tell](https://open.spotify.com/album/691L2rRpdtjV6fKyxeVvtH) | 2:28 | 2022-01-07 | 2022-07-29 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-05-05 | 2024-11-09 |
 | [To L.A.](https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [To L.A.](https://open.spotify.com/album/5qe33W1sgjxZB5zRU5eiPK) | 3:26 | 2022-01-28 | 2022-02-04 |

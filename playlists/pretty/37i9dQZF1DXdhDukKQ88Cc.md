@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > ny ep rammer som en 💫 <a href="spotify:album:5vbJhFQh6zShDRuWIlaFbg">Supanova</a> 💫   <br/> <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">@Kesi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,012 likes - 57 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,999 likes - 57 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flad Af Grin \(feat\. Noah Carter & Benny Jamz\)](https://open.spotify.com/track/6xm5NjUzitBPdgtUUXR6P6) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Supernova](https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg) | 2:16 |
 | 2 | [SIKKE EN TYPE](https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SIKKE EN TYPE](https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1) | 2:19 |
-| 3 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 |
+| 3 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:07 |
 | 4 | [Robocop](https://open.spotify.com/track/6TT6zYIiI0nSzXMuI801zP) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Robocop](https://open.spotify.com/album/0kT4pDLex7Z2vGzjmFMxWC) | 3:03 |
-| 5 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:07 |
-| 6 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 |
-| 7 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 |
-| 8 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 |
+| 5 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 |
+| 6 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 |
+| 7 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 |
+| 8 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 |
 | 9 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
 | 10 | [ANTISOCIAL](https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [ANTISOCIAL](https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv) | 2:35 |
 | 11 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 56 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 |
 | 57 | [Energien](https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Energien](https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV) | 2:45 |
 
-Snapshot ID: `Z6U/HAAAAACDfQ7KaWYGhip7pekTsbLQ`
+Snapshot ID: `Z65g4gAAAADGIsm0ENUCFEb7YvmxpQrZ`

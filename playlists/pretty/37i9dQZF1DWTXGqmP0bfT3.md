@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,111 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,310 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 84 | [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 |
 | 85 | [A Man with a Plan](https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [A Man with a Plan](https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP) | 2:59 |
 | 86 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
-| 87 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 |
-| 88 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
+| 87 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
+| 88 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 |
 | 89 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
 | 90 | [Iron](https://open.spotify.com/track/3iSgRJUrMKHLglnrQrQ6kO) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:41 |
 | 91 | [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 |
@@ -110,12 +110,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 100 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
 | 101 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 102 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 |
-| 103 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
-| 104 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
+| 103 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
+| 104 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
 | 105 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 |
 | 106 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
-| 107 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
-| 108 | [Locust](https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 7:36 |
+| 107 | [Locust](https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 7:36 |
+| 108 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
 | 109 | [Beyond the Pale](https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY) | 4:13 |
 | 110 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 | 111 | [The End](https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP) | 3:58 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-782 songs - 1 day 11 hr 18 min
+783 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
-| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 |  |
+| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2025-02-14 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
 | [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2024-08-24 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
@@ -402,6 +402,7 @@
 | [Manzanita](https://open.spotify.com/track/6MclGTlLUfEZ4cxCUuLS4t) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt) | [Manzanita](https://open.spotify.com/album/27d2oVqyvCb4lpC3NwOcNZ) | 2:32 | 2021-12-23 | 2022-07-25 |
 | [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 | 2024-07-26 | 2024-12-09 |
 | [Mark Calaway](https://open.spotify.com/track/0kU9nVxyWSvOQGo51p1PFX) | [Tatwoine](https://open.spotify.com/artist/4b6MXJUkXdvgcfxDYJVEjo) | [hoodies](https://open.spotify.com/album/5upkRVgXztEBJuH7uGGChP) | 2:12 | 2021-12-23 | 2022-07-25 |
+| [Mascot Name](https://open.spotify.com/track/1LpUKoPTald4QIks9HQAhV) | [ILYOCS](https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU) | [Mascot Name](https://open.spotify.com/album/5rkHuXt9iJoEqyFBCRAPBo) | 2:59 | 2025-02-09 |  |
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [Mellow Air](https://open.spotify.com/track/6TeII7M0IgFhgq7rDTbrOR) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/17NgmIpZr9p4sOEWqdUMoz) | 1:55 | 2023-08-17 | 2023-09-29 |

@@ -1,13 +1,69 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Feb 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Feb 19:02 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAPbNgdVnVuM0gWlih+r+4vDgSSqR6a",
+  "snapshot_id": "AAAPcGXmGet1DJ2GdBkWMwDTsHtylwZj",
   "tracks": [
+    {
+      "added_at": "2025-02-13 14:01:51",
+      "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
+    },
+    {
+      "added_at": "2025-02-13 19:02:04",
+      "album": {
+        "name": "2 Rich",
+        "url": "https://open.spotify.com/album/2bHcnR3ccRuVxjd6EQHUBP"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 124062,
+      "name": "2 Rich",
+      "url": "https://open.spotify.com/track/17pVnCsKY27lq2TZWsN8cu"
+    },
+    {
+      "added_at": "2025-02-13 19:02:04",
+      "album": {
+        "name": "Back in the Game",
+        "url": "https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Back in the Game",
+      "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
+    },
     {
       "added_at": "2025-02-12 23:03:53",
       "album": {
@@ -39,6 +95,38 @@
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
+    },
+    {
+      "added_at": "2025-02-13 14:01:51",
+      "album": {
+        "name": "MILLE VOTE ANCORA",
+        "url": "https://open.spotify.com/album/2p5SxGXydxUaria6k51asC"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 192712,
+      "name": "MILLE VOTE ANCORA",
+      "url": "https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ"
+    },
+    {
+      "added_at": "2025-02-13 19:02:04",
+      "album": {
+        "name": "il ritmo delle cose.",
+        "url": "https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "il ritmo delle cose.",
+      "url": "https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy"
     },
     {
       "added_at": "2025-02-12 19:02:02",
@@ -105,6 +193,22 @@
       "url": "https://open.spotify.com/track/3W1xZMEfi44Wxts9HMBJJS"
     },
     {
+      "added_at": "2025-02-13 14:01:51",
+      "album": {
+        "name": "Non ti dimentico",
+        "url": "https://open.spotify.com/album/4IdeFrUIGxop5CiMCpxRpq"
+      },
+      "artists": [
+        {
+          "name": "Mod\u00e0",
+          "url": "https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Non ti dimentico",
+      "url": "https://open.spotify.com/track/3xZW8lrovQJj6xszgLSg1S"
+    },
+    {
       "added_at": "2025-02-12 19:02:02",
       "album": {
         "name": "Fango in Paradiso",
@@ -151,6 +255,22 @@
       "duration_ms": 190611,
       "name": "Se t'innamori muori",
       "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
+    },
+    {
+      "added_at": "2025-02-13 14:01:51",
+      "album": {
+        "name": "TU CON CHI FAI L'AMORE",
+        "url": "https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "TU CON CHI FAI L'AMORE",
+      "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
     },
     {
       "added_at": "2025-02-12 23:03:53",
@@ -265,6 +385,22 @@
       "url": "https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc"
     },
     {
+      "added_at": "2025-02-13 19:02:04",
+      "album": {
+        "name": "Tra le mani un cuore",
+        "url": "https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 195201,
+      "name": "Tra le mani un cuore",
+      "url": "https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y"
+    },
+    {
       "added_at": "2025-02-12 19:02:02",
       "album": {
         "name": "FEBBRE",
@@ -359,6 +495,22 @@
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"
+    },
+    {
+      "added_at": "2025-02-13 19:02:04",
+      "album": {
+        "name": "ANEMA E CORE",
+        "url": "https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi"
+      },
+      "artists": [
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "ANEMA E CORE",
+      "url": "https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T"
     },
     {
       "added_at": "2025-02-12 04:01:46",
@@ -671,162 +823,6 @@
       "duration_ms": 220444,
       "name": "Weight Of Desire",
       "url": "https://open.spotify.com/track/1frM1ZmtPdJRgFNnRnwCyR"
-    },
-    {
-      "added_at": "2025-02-08 19:01:54",
-      "album": {
-        "name": "Armani Section",
-        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 180731,
-      "name": "Armani Section",
-      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
-    },
-    {
-      "added_at": "2025-02-07 14:02:02",
-      "album": {
-        "name": "Death Shall Have No Dominion",
-        "url": "https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 288602,
-      "name": "Death Shall Have No Dominion",
-      "url": "https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC"
-    },
-    {
-      "added_at": "2025-02-09 19:01:50",
-      "album": {
-        "name": "POGO",
-        "url": "https://open.spotify.com/album/1Ravfb4ce8FyrvEKVi4PHd"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 173784,
-      "name": "POGO",
-      "url": "https://open.spotify.com/track/1wiNWp8qVn2ZGZIi5SafqM"
-    },
-    {
-      "added_at": "2025-02-07 19:02:02",
-      "album": {
-        "name": "It's Cool",
-        "url": "https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq"
-      },
-      "artists": [
-        {
-          "name": "Fimiguerrero",
-          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
-        },
-        {
-          "name": "TeeboFG",
-          "url": "https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI"
-        },
-        {
-          "name": "F1LTHY",
-          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
-        }
-      ],
-      "duration_ms": 129002,
-      "name": "It's Cool",
-      "url": "https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y"
-    },
-    {
-      "added_at": "2025-02-08 19:01:54",
-      "album": {
-        "name": "Frunk",
-        "url": "https://open.spotify.com/album/24s0MyiXpmKLa3v9IMTwaL"
-      },
-      "artists": [
-        {
-          "name": "Joeyy",
-          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-        }
-      ],
-      "duration_ms": 92150,
-      "name": "Frunk",
-      "url": "https://open.spotify.com/track/6i9S6ehN5CvmUfJKtiK47m"
-    },
-    {
-      "added_at": "2025-02-12 14:01:56",
-      "album": {
-        "name": "Bed of Lies",
-        "url": "https://open.spotify.com/album/4AyOQC6AMF6er13nsi3Zb4"
-      },
-      "artists": [
-        {
-          "name": "Alice Chater",
-          "url": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Bed of Lies",
-      "url": "https://open.spotify.com/track/3glCRKuy0fdQGqXbUj0tdp"
-    },
-    {
-      "added_at": "2025-02-07 09:02:12",
-      "album": {
-        "name": "Aon",
-        "url": "https://open.spotify.com/album/6WaqLy4NZfIdPYFmvLa3B2"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 430960,
-      "name": "Aon",
-      "url": "https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE"
-    },
-    {
-      "added_at": "2025-02-11 04:01:50",
-      "album": {
-        "name": "WANNA SEE WHAT A KNOCK DOES",
-        "url": "https://open.spotify.com/album/2xIexMDppS0y3UGrcHyYTm"
-      },
-      "artists": [
-        {
-          "name": "BBY GOYARD",
-          "url": "https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs"
-        }
-      ],
-      "duration_ms": 116820,
-      "name": "WANNA SEE WHAT A KNOCK DOES",
-      "url": "https://open.spotify.com/track/54oWOEdGmHJRc5TUMCciz3"
-    },
-    {
-      "added_at": "2025-02-06 19:02:00",
-      "album": {
-        "name": "Kiss The Sky",
-        "url": "https://open.spotify.com/album/5PNz8K8v5kaTUgZaLOvFO8"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 202087,
-      "name": "Kiss The Sky",
-      "url": "https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG"
     }
   ],
   "unique_name": "New Singles Now",

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Sinomine
+> ✨giovane✨pop✨z✨ Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,347 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,338 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
-| 2 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
-| 3 | [PIANGI](https://open.spotify.com/track/1w7ahwV1JYOsbTEyGlLn0y) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PIANGI](https://open.spotify.com/album/63Ah2ya6p54gOZqPda9ZO6) | 2:52 |
-| 4 | [TUTTO L’ODIO](https://open.spotify.com/track/510kRcg1GpYJUYaHlDG8yi) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TUTTO L’ODIO](https://open.spotify.com/album/0l885K2W8kJ1fDXIBpxE8I) | 2:32 |
-| 5 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 |
-| 6 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 |
+| 1 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 |
+| 2 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
+| 3 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
+| 4 | [PIANGI](https://open.spotify.com/track/1w7ahwV1JYOsbTEyGlLn0y) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PIANGI](https://open.spotify.com/album/63Ah2ya6p54gOZqPda9ZO6) | 2:52 |
+| 5 | [TUTTO L’ODIO](https://open.spotify.com/track/510kRcg1GpYJUYaHlDG8yi) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TUTTO L’ODIO](https://open.spotify.com/album/0l885K2W8kJ1fDXIBpxE8I) | 2:32 |
+| 6 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 |
 | 7 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
 | 8 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
 | 9 | [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 84 | [SORRIDI](https://open.spotify.com/track/2BJaqUsL1o6iTQ9hdE47Gt) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [SORRIDI](https://open.spotify.com/album/4Kp4ZIviktMIGIOK2eyfs8) | 2:38 |
 | 85 | [GOOD VIBES](https://open.spotify.com/track/0M8pMoPhKVVR8H2spqn6WR) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [GOOD VIBES](https://open.spotify.com/album/2PQxEamcHfVno3b9XqDTZ9) | 2:17 |
 
-Snapshot ID: `Z6vr4QAAAAD5vzeAhRWsYXOhS2WqTuix`
+Snapshot ID: `Z655rgAAAADAJGtSAJIddR3/L07uWKHw`

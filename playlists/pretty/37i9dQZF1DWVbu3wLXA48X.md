@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Panda Bear
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,058 likes - 84 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,089 likes - 84 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 83 | [Better Off](https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Better Off](https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96) | 2:52 |
 | 84 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 |
 
-Snapshot ID: `Z6UACAAAAACdPwylXmwk9dGh+UOvnDf8`
+Snapshot ID: `Z6UACAAAAABBttCMpiXz7375YiO3TAZi`

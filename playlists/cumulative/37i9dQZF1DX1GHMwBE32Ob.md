@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Ayo Maff
 
-329 songs - 15 hr 11 min
+330 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2025-01-21 |
 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 | 2023-05-11 | 2023-09-29 |
 | [Trench Anthem](https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Freshout Jimma, Vol\. 1](https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT) | 2:43 | 2024-11-22 | 2024-11-29 |
+| [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 |  |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-05-31 | 2025-01-25 |
 | [Turkey Nla](https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Turkey Nla](https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd) | 3:00 | 2022-11-04 | 2023-04-15 |
 | [Under The Canopy](https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Under The Canopy](https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t) | 2:51 | 2024-05-24 | 2024-06-29 |

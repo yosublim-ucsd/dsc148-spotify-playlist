@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125467,
+  "num_followers": 125466,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATq7aQ1Dx0h33AaVYkfPNoLZJECsNe",
+  "snapshot_id": "AAATrd2WrcU/GXqBiD7koTFUmpZsnexc",
   "tracks": [
+    {
+      "added_at": "2025-02-13 14:53:34",
+      "album": {
+        "name": "Where My Heart Is / Time Is On Our Side",
+        "url": "https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Where My Heart Is",
+      "url": "https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE"
+    },
     {
       "added_at": "2025-02-12 16:16:28",
       "album": {
@@ -1199,46 +1215,6 @@
       "duration_ms": 226666,
       "name": "Endless In Between",
       "url": "https://open.spotify.com/track/63nPbxic2qf5nA4yicN4pg"
-    },
-    {
-      "added_at": "2024-11-06 14:36:36",
-      "album": {
-        "name": "if you wanna",
-        "url": "https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE"
-      },
-      "artists": [
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        },
-        {
-          "name": "Skyelle",
-          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "if you wanna",
-      "url": "https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy"
-    },
-    {
-      "added_at": "2024-11-05 15:35:52",
-      "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/0nP5bOmiy9MUhv8Gl6Vmqa"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Tether",
-      "url": "https://open.spotify.com/track/4DMLxt7joaC4OzbBKCC8I0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

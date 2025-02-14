@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Teni",
+  "description": "The hottest Afropop records on the planet.  Cover: ODUMODUBLVCK",
   "name": "Afropop",
   "tracks": [
     {
@@ -476,6 +476,24 @@
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "album": {
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212666,
       "name": "back n forth",
       "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
@@ -2823,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Four Letter Word",
+        "url": "https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185334,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/2KgzIprRCaUMG28E9k9yFo"
+    },
+    {
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -4278,6 +4314,24 @@
       "duration_ms": 153386,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/6F4nVv0ZJl7yEi9N5ZVMFK"
+    },
+    {
+      "album": {
+        "name": "Furaha",
+        "url": "https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "Furaha",
+      "url": "https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx"
     },
     {
       "album": {
@@ -6932,7 +6986,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
@@ -7739,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Moyo",
+        "url": "https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Moyo",
+      "url": "https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq"
+    },
+    {
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -8070,7 +8142,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 295254,
       "name": "Nesa Nesa (feat. Diamond Platnumz & Khalil Harrison)",
       "url": "https://open.spotify.com/track/0fqPeFGTvhx2GDjZWvW7Jv"
@@ -11878,7 +11950,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 194181,
       "name": "Till I Die (feat. Spyro)",
       "url": "https://open.spotify.com/track/36N2UjBiYmVHg4LQ4fJaNL"

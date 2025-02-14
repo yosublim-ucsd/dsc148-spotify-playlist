@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-438 songs - 22 hr 25 min
+439 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,11 +95,12 @@
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-13 |  |
 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
-| [Collide](https://open.spotify.com/track/0AybRyGs6InawBTxnQUEeM) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Collide](https://open.spotify.com/album/3iFlBrrDy3cfZq4kwl0tZS) | 3:28 | 2025-01-21 |  |
+| [Collide](https://open.spotify.com/track/0AybRyGs6InawBTxnQUEeM) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Collide](https://open.spotify.com/album/3iFlBrrDy3cfZq4kwl0tZS) | 3:28 | 2025-01-21 | 2025-02-14 |
 | [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2022-02-01 | 2024-09-07 |
 | [Compassion](https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Compassion](https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E) | 2:24 | 2023-10-13 | 2024-10-30 |
 | [Continuum](https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Continuum](https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu) | 2:45 | 2022-01-12 | 2023-03-15 |
 | [Cool Air](https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl) | [Lily Augustadt](https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6) | [Cool Air](https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA) | 3:06 | 2022-01-12 | 2023-07-29 |
+| [Cosmic Clouds](https://open.spotify.com/track/0UZwHCbLDEjyqFQBQ5QLw0) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Cosmic Clouds](https://open.spotify.com/album/6Pnvwb1hRk3waTWBDDbGXy) | 2:26 | 2025-01-21 |  |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-02-07 | 2025-01-18 |
 | [Crystalline](https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR) | [Sweet Daylight](https://open.spotify.com/artist/4E4Gm63yUEsOZeL5iU4aH6) | [Crystalline](https://open.spotify.com/album/4izNnu9jPwIVw1ppeAKJuI) | 3:44 | 2022-01-12 | 2023-03-15 |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-02-01 | 2024-09-07 |

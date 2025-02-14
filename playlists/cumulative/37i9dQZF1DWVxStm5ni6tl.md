@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Baby Nova, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Kai Banks, Artwork: Isu Kim.
 
 2,000 songs - 4 day 7 hr 31 min
 

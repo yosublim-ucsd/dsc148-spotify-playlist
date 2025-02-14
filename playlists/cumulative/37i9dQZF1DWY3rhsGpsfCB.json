@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
       },
@@ -864,7 +882,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
@@ -3247,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "Electrical",
+        "url": "https://open.spotify.com/album/0ZSWzf5M5jT6iZFgho9NUE"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Electrical",
+      "url": "https://open.spotify.com/track/41xwYI5IDrYZ2YqXhaO6yL"
+    },
+    {
+      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -3624,7 +3664,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 247580,
       "name": "FAR FETCHED (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g"
@@ -6570,7 +6610,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -12247,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
+    },
+    {
+      "album": {
         "name": "Take Your Time (feat. 6LACK)",
         "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
       },
@@ -13024,7 +13082,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 205032,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m"
@@ -14154,6 +14212,28 @@
       "duration_ms": 154800,
       "name": "WORK",
       "url": "https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN"
+    },
+    {
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "album": {

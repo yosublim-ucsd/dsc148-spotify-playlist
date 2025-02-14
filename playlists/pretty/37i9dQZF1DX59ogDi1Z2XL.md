@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,776 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,814 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 18 | [PETER PARKER](https://open.spotify.com/track/68t3OspWseknli5rSmH3TG) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [PETER PARKER](https://open.spotify.com/album/0DT1s4PXCUXFrZcJohwBSA) | 2:21 |
 | 19 | [HOTEL LOBBY](https://open.spotify.com/track/228Fq47OvFGZO4Heo5IJyC) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [HOTEL LOBBY / ELEVATOR FREESTYLE](https://open.spotify.com/album/3LrXfjHCEsyZY7Piai0sDX) | 3:41 |
 | 20 | [Gone 2024](https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Gone 2024](https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB) | 4:10 |
-| 21 | [Go Crazy](https://open.spotify.com/track/47HFATJeP2t6PH3ixzreEf) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Go Crazy](https://open.spotify.com/album/4oViOZmwRnFiAVHzJhgSMC) | 2:58 |
+| 21 | [Go Crazy](https://open.spotify.com/track/47HFATJeP2t6PH3ixzreEf) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Fredro Starr](https://open.spotify.com/artist/5OsWN8awq2bN7q5upCCgWf) | [Go Crazy](https://open.spotify.com/album/4oViOZmwRnFiAVHzJhgSMC) | 2:58 |
 | 22 | [Too Easy](https://open.spotify.com/track/0NL9Bfuishm9oqCrzyvLCM) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Too Easy](https://open.spotify.com/album/2ppvVNqEa4we1ZD0kWM4ju) | 2:13 |
 | 23 | [GREY SKIES](https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [IN LOVING MEMORY+](https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy) | 2:38 |
 | 24 | [Attention \- Remix](https://open.spotify.com/track/2Bb80g54wxViSz3vKF0WZW) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [Juda Load It Up](https://open.spotify.com/artist/1hR3tOvsNWEr7jgfp8SfVz) | [Attention \(Remix\)](https://open.spotify.com/album/2ZziHRsyXW9UInt5rMg2y5) | 2:37 |

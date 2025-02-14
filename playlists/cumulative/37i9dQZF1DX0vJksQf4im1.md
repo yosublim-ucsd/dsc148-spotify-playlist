@@ -2,9 +2,9 @@
 
 ### [Big In Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX0vJksQf4im1)
 
-> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: LISA, Doja Cat, RAYE
+> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Sabrina Carpenter
 
-189 songs - 10 hr 11 min
+191 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-21 | 2024-09-13 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 |  |
 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-01-31 |  |
+| [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 |  |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 |  |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-12-19 |  |
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 |  |
@@ -168,6 +169,7 @@
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-07 |  |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-25 |  |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-11 |  |
+| [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-22 |  |
 | [Texas](https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Texas](https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ) | 3:08 | 2024-09-05 |  |

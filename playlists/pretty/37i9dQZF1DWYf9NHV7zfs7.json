@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Connie Isla",
-  "num_followers": 57866,
+  "num_followers": 57880,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-02-07 01:27:16",
       "album": {
-        "name": "Despacio Que Hay Prisa",
-        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
         }
       ],
-      "duration_ms": 302597,
-      "name": "Despacio Que Hay Prisa",
-      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
     },
     {
       "added_at": "2025-02-07 01:27:16",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-02-07 01:27:16",
       "album": {
-        "name": "en la cara",
-        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+        "name": "Despacio Que Hay Prisa",
+        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 157746,
-      "name": "en la cara",
-      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+      "duration_ms": 302597,
+      "name": "Despacio Que Hay Prisa",
+      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
     },
     {
       "added_at": "2025-02-07 01:27:16",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-02-07 01:27:16",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Amor Loco",
-      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
-    },
-    {
-      "added_at": "2025-02-07 01:27:16",
-      "album": {
         "name": "Las Leyes de La Vida",
         "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
+    },
+    {
+      "added_at": "2025-02-07 01:27:16",
+      "album": {
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Amor Loco",
+      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2025-02-07 01:27:16",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-07 01:27:16",
       "album": {
-        "name": "aeropuerto",
-        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "aeropuerto",
-      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
-    },
-    {
-      "added_at": "2025-02-07 01:27:16",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 189355,
       "name": "Mecha",
       "url": "https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl"
+    },
+    {
+      "added_at": "2025-02-07 01:27:16",
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "added_at": "2025-02-07 01:27:16",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-02-07 01:27:16",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+        "name": "Lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
       },
       "artists": [
         {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
+      "duration_ms": 206586,
+      "name": "Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr"
     }
   ],
   "unique_name": "Esto es Pop",

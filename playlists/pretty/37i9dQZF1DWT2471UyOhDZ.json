@@ -1,28 +1,28 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Sharon Van Atten & The Attachment Theory",
-  "num_followers": 92582,
+  "num_followers": 92716,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6ZErwAAAAC8MqxhUj8QjA9eaSYysGaE",
+  "snapshot_id": "Z65oDAAAAAC5/Q3fWXEUG3bz9723FFje",
   "tracks": [
     {
-      "added_at": "2025-02-07 17:36:47",
+      "added_at": "2025-02-13 21:45:48",
       "album": {
-        "name": "Liquid Gold 25",
-        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
       },
       "artists": [
         {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 267969,
-      "name": "Liquid Gold 25",
-      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 145093,
       "name": "Orlando in Love",
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "The Night Before",
-        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 154612,
-      "name": "The Night Before",
-      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Changes All The Time",
         "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 169610,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "More than Life",
         "url": "https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 169610,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -843,22 +859,6 @@
       "duration_ms": 215380,
       "name": "Brushstrokes of Reunion",
       "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "this is my california",
         "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 298000,
       "name": "this is my california",
       "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+        "name": "Liquid Gold 25",
+        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
       },
       "artists": [
         {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
         }
       ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+      "duration_ms": 267969,
+      "name": "Liquid Gold 25",
+      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1119,6 +1119,22 @@
       "duration_ms": 247971,
       "name": "Cro-Magnon Man",
       "url": "https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1383,8 +1399,8 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Extraordinary Wings",
-        "url": "https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX"
+        "name": "Glutton For Punishment",
+        "url": "https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT"
       },
       "artists": [
         {
@@ -1392,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
         }
       ],
-      "duration_ms": 306286,
-      "name": "Extraordinary Wings",
-      "url": "https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7"
+      "duration_ms": 190576,
+      "name": "Mad Catch",
+      "url": "https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1495,6 +1511,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Extraordinary Wings",
+        "url": "https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "duration_ms": 306286,
+      "name": "Extraordinary Wings",
+      "url": "https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Glutton For Punishment",
-        "url": "https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 190576,
-      "name": "Mad Catch",
-      "url": "https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1543,6 +1559,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 189531,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -1555,22 +1587,6 @@
       "duration_ms": 210693,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1591,34 +1607,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
       "artists": [
         {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 189531,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "QWERTY II",
-        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "2 2 BOOTLEG",
-      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2025-02-07 17:36:47",

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 31662,
+  "num_followers": 31671,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-07 10:15:01",
       "album": {
-        "name": "Red White & Blue",
-        "url": "https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj"
-      },
-      "artists": [
-        {
-          "name": "The Martial",
-          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
-        }
-      ],
-      "duration_ms": 167697,
-      "name": "Red White & Blue",
-      "url": "https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v"
-    },
-    {
-      "added_at": "2025-02-07 10:15:01",
-      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
+    },
+    {
+      "added_at": "2025-02-07 10:15:01",
+      "album": {
+        "name": "Red White & Blue",
+        "url": "https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj"
+      },
+      "artists": [
+        {
+          "name": "The Martial",
+          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
+        }
+      ],
+      "duration_ms": 167697,
+      "name": "Red White & Blue",
+      "url": "https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v"
     },
     {
       "added_at": "2025-02-07 10:15:01",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-02-07 10:15:01",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "365",
-      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2025-02-07 10:15:01",
-      "album": {
         "name": "Ride Again",
         "url": "https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 186469,
       "name": "Sam",
       "url": "https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe"
+    },
+    {
+      "added_at": "2025-02-07 10:15:01",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "365",
+      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
     },
     {
       "added_at": "2025-02-07 10:15:01",

@@ -475,26 +475,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 206142,
       "name": "Pegando Carona",
       "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
         "name": "Astro Rei",
         "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 177000,
       "name": "Astro Rei",
       "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
-      },
-      "artists": [
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "S\u00d3 AS BRABA",
-          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Qualquer Maneira",
         "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
       },
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
       },
       "artists": [
         {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA",
+          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
         }
       ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
+      "duration_ms": 105600,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1171,6 +1155,22 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "De Peito Aberto",
+        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
     },
     {
       "added_at": "2025-01-31 03:01:21",

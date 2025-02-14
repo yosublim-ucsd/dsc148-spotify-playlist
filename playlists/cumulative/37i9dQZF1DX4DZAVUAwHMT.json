@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Chloe Slater",
+  "description": "The UK's biggest rock playlist. Cover: The Amazons",
   "name": "The Rock List",
   "tracks": [
     {
@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "All The Love Is Gone",
+        "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182650,
+      "name": "All The Love Is Gone",
+      "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
+    },
+    {
+      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
@@ -1282,6 +1300,24 @@
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
+    },
+    {
+      "album": {
+        "name": "B.A.B.E.",
+        "url": "https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153209,
+      "name": "B.A.B.E.",
+      "url": "https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z"
     },
     {
       "album": {
@@ -4542,7 +4578,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 221394,
       "name": "Fig Tree",
       "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
@@ -6979,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "To live in a different way",
+        "url": "https://open.spotify.com/album/2y8QlFM8O9zhONQsQpFgsv"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258820,
+      "name": "It hurts to know you're there",
+      "url": "https://open.spotify.com/track/1iSeKEW34ICPBPl1sID1JD"
+    },
+    {
+      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
@@ -8199,6 +8253,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Dog From Hell",
+        "url": "https://open.spotify.com/album/7jIlFtb4PfDeaKyemVrebR"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Love Is A Dog From Hell",
+      "url": "https://open.spotify.com/track/2Gm7Eile2bJfph4q5CmEFn"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -8236,6 +8308,24 @@
       "duration_ms": 204843,
       "name": "Love Me When You're Angry",
       "url": "https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe"
+    },
+    {
+      "album": {
+        "name": "Love Trap",
+        "url": "https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Love Trap",
+      "url": "https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN"
     },
     {
       "album": {
@@ -9562,7 +9652,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 181027,
       "name": "Not Hell, Not Heaven",
       "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
@@ -10614,7 +10704,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 265188,
       "name": "Pitch Black",
       "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
@@ -11120,6 +11210,24 @@
       "duration_ms": 185238,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/2IehkByzIu1b7iaq21L4Qo"
+    },
+    {
+      "album": {
+        "name": "Be Lucky",
+        "url": "https://open.spotify.com/album/6BSoos2q0ZXPpA5NLRUb3m"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244260,
+      "name": "Rave Now Die Later",
+      "url": "https://open.spotify.com/track/6qWTgDeuDxOt4CtrvueEbd"
     },
     {
       "album": {
@@ -12442,7 +12550,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 195401,
       "name": "SORRY I'M LATE",
       "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
@@ -12998,7 +13106,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227787,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu"
@@ -13142,7 +13250,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 225280,
       "name": "T&A",
       "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
@@ -13182,6 +13290,24 @@
       "duration_ms": 211578,
       "name": "Take A Ride (Lights, Camera, Action)",
       "url": "https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0"
+    },
+    {
+      "album": {
+        "name": "A Million Knives",
+        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232041,
+      "name": "Take It From The Top",
+      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
     },
     {
       "album": {
@@ -14851,6 +14977,24 @@
     },
     {
       "album": {
+        "name": "way of the exploding dickhead / unpopular parts of a pig",
+        "url": "https://open.spotify.com/album/4LAsvG39DQSSIYMGl26pZF"
+      },
+      "artists": [
+        {
+          "name": "Mclusky",
+          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "way of the exploding dickhead",
+      "url": "https://open.spotify.com/track/2uj3wowGsEy0edsc9jIFod"
+    },
+    {
+      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI"
       },
@@ -15306,6 +15450,24 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "album": {
+        "name": "WOOZE",
+        "url": "https://open.spotify.com/album/3TS4UOYfxQjkhVrxPsPKHe"
+      },
+      "artists": [
+        {
+          "name": "WOOZE",
+          "url": "https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249946,
+      "name": "Will You Marry Me",
+      "url": "https://open.spotify.com/track/4rFkzKag2uHEYQ4FFUABM9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 280482,
+  "num_followers": 280629,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 265173,
       "name": "Beast Of Burden - Remastered 1994",
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -383,6 +367,22 @@
       "duration_ms": 251253,
       "name": "The Logical Song - Remastered 2010",
       "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 208893,
       "name": "Brick House",
       "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2024-03-22 15:16:12",

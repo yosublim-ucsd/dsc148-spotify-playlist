@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,536 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,537 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:41 |
+| 1 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:43 |
 | 2 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
 | 3 | [Again](https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:42 |
 | 4 | [WHAT WE DOIN!?](https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:40 |

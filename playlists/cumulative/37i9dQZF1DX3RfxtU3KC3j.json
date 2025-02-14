@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Redd",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Bonomo",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 249650,
       "name": "A\u015fka Do\u011fru",
       "url": "https://open.spotify.com/track/3aDPJCzIYqnfslT1QDy90q"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 195893,
       "name": "Beteri Yok Uslanmaktan - St\u00fcdyodan, Canl\u0131",
       "url": "https://open.spotify.com/track/2LbTg0TTPdoSNeEzkqhcIj"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 158400,
       "name": "Bir F\u0131s\u0131lt\u0131",
       "url": "https://open.spotify.com/track/4s44Ju8PGjXFe7Zmy0sUvW"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 251820,
       "name": "Can\u0131n\u0131 Cancey",
       "url": "https://open.spotify.com/track/04qN6e8ccgRMic8Fptly1y"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155744,
       "name": "Duman",
       "url": "https://open.spotify.com/track/4XJMC47Ykz8mZL30aiYbMT"
@@ -1164,6 +1164,24 @@
       "duration_ms": 217602,
       "name": "D\u00fc\u015fer O",
       "url": "https://open.spotify.com/track/1Unema2bjnNqsn9jBAHQO4"
+    },
+    {
+      "album": {
+        "name": "Eda",
+        "url": "https://open.spotify.com/album/6hKCmuzzpf0AkkkxO0bPXZ"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Eda",
+      "url": "https://open.spotify.com/track/7jAycfFn2EDt9JtytuAT6U"
     },
     {
       "album": {
@@ -1993,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "\u0130nci Tanesi",
+        "url": "https://open.spotify.com/album/5B3RB52CnkIpnS4rrfcD4C"
+      },
+      "artists": [
+        {
+          "name": "\u015eekersiz",
+          "url": "https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193495,
+      "name": "\u0130nci Tanesi",
+      "url": "https://open.spotify.com/track/24Xrjpc9VQ2YZeiev7P2Wb"
+    },
+    {
+      "album": {
         "name": "\u0130nziva",
         "url": "https://open.spotify.com/album/19yKkXLvEJ64VaPkCJ92Of"
       },
@@ -2188,6 +2224,24 @@
       "duration_ms": 289543,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/7jDAYmGmLI2QcP1srfdxT5"
+    },
+    {
+      "album": {
+        "name": "Kanad\u0131m A\u015fktan",
+        "url": "https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa"
+      },
+      "artists": [
+        {
+          "name": "Can Bonomo",
+          "url": "https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187523,
+      "name": "Kanad\u0131m A\u015fktan",
+      "url": "https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw"
     },
     {
       "album": {
@@ -2448,6 +2502,24 @@
       "duration_ms": 152666,
       "name": "K\u00fcst\u00fcm Bu \u015eehre",
       "url": "https://open.spotify.com/track/7zhNK5ceWIIbeJWUBuVy5b"
+    },
+    {
+      "album": {
+        "name": "K\u0131rlang\u0131\u00e7lar",
+        "url": "https://open.spotify.com/album/2Lg3sLUbFvN241rtsaAanx"
+      },
+      "artists": [
+        {
+          "name": "ENGIN",
+          "url": "https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272508,
+      "name": "K\u0131rlang\u0131\u00e7lar",
+      "url": "https://open.spotify.com/track/3H3k1XBns0Wh9MRvQcht7u"
     },
     {
       "album": {
@@ -3202,7 +3274,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 140360,
       "name": "S\u00f6yle Sevgilim",
       "url": "https://open.spotify.com/track/7lxjvsAVcdSyMiPkxfVxcu"
@@ -3268,6 +3340,28 @@
       "duration_ms": 169700,
       "name": "tak\u0131nt\u0131",
       "url": "https://open.spotify.com/track/2wWPDdPeAI35eTzTwICe4G"
+    },
+    {
+      "album": {
+        "name": "Tekrardan",
+        "url": "https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        },
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182166,
+      "name": "Tekrardan",
+      "url": "https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn"
     },
     {
       "album": {
@@ -3832,6 +3926,24 @@
       "duration_ms": 215900,
       "name": "Ya\u015fayamam Bu Benle",
       "url": "https://open.spotify.com/track/2OC7TDRpQDfWgo9IEBG807"
+    },
+    {
+      "album": {
+        "name": "YBG",
+        "url": "https://open.spotify.com/album/5liW1kIqdQEiIvaE6SzhvC"
+      },
+      "artists": [
+        {
+          "name": "You May Kiss The Bride",
+          "url": "https://open.spotify.com/artist/2j935hNGbojPT0ye7Uaazj"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "YBG",
+      "url": "https://open.spotify.com/track/0yzknXQCyC7HQ1VYbYcg21"
     },
     {
       "album": {

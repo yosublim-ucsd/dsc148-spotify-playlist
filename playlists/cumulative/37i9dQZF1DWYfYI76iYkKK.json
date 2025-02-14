@@ -1855,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "\u4e8c\u6708",
+        "url": "https://open.spotify.com/album/0ha0cPchB3f1OYPSxSzh0t"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u4ec1\u8207",
+          "url": "https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213970,
+      "name": "\u4e8c\u6708",
+      "url": "https://open.spotify.com/track/6EZqk0qQTxcdGlkEsBhxso"
+    },
+    {
+      "album": {
         "name": "\u4e94\u6708\u7684\u4eba (\u96fb\u5f71\u300a\u4e94\u6708\u96ea\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/32byNQEsbPgwK0fArLHoXF"
       },
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
@@ -5392,6 +5410,24 @@
       "duration_ms": 201176,
       "name": "\u62e5\u62b1 - \u7535\u89c6\u5267\u300a1234567\u6211\u7684\u670b\u53cb\u5728\u8fd9\u91cc S2\u300b\u4e3b\u9898\u66f21",
       "url": "https://open.spotify.com/track/2IAfD3300FjnRVMetOcgTK"
+    },
+    {
+      "album": {
+        "name": "\u63ee\u970d",
+        "url": "https://open.spotify.com/album/5MMpATpXPGhrD3v7UIWbQX"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/4Ng91ATIEnKSkt86WLh6wo"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97624,
+      "name": "\u63ee\u970d",
+      "url": "https://open.spotify.com/track/6a8IgyzjIATevz68Vhcu9B"
     },
     {
       "album": {
@@ -6196,7 +6232,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 305013,
       "name": "\u6c89\u9ed8",
       "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"

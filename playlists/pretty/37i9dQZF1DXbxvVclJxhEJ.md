@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,297 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,280 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 58 | [Any Woman's Blues](https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [Milestones of Legends \- Female Blues, Vol\. 1](https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ) | 3:28 |
 | 59 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
 | 60 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
-| 61 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
-| 62 | [Crazy Blues](https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Female Crazy Blues \(Classic Mood Experience\)](https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL) | 3:24 |
+| 61 | [Crazy Blues](https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Female Crazy Blues \(Classic Mood Experience\)](https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL) | 3:24 |
+| 62 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
 | 63 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
 | 64 | [Evil Mama Blues](https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee) | [Ada Brown](https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI) | [Territory Singers Vol\. 1 \(1922\-1928\)](https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae) | 3:04 |
 | 65 | [My Castle's Rocking](https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [Downhearted Blues](https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Sloppy Drunk Blues](https://open.spotify.com/track/5P4TyBLXXUYH1IUML2Ml5D) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/468gPPcEUsiaFqQgTDidDb) | 3:15 |
 | 75 | [Tight in Chicago](https://open.spotify.com/track/6DWUtJP0r4w45dMLFzfNou) | [Mozelle Alderson](https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/468gPPcEUsiaFqQgTDidDb) | 2:59 |
 
-Snapshot ID: `ZlygOAAAAACY4ykLo3YmtxplzJK1G2fm`
+Snapshot ID: `Z65nJQAAAACRChQgQ8h5BlgLA7ZXfVqG`

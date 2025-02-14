@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-1,298 songs - 2 day 23 hr 10 min
+1,299 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,7 +1057,7 @@
 | [Sigue Creyendo](https://open.spotify.com/track/0XasSlxLw6wpbWAkAt9Igp) | [Jackie](https://open.spotify.com/artist/0NwCuanJrwIQFX1TYgwv1J) | [Dj David's Reggeton Intocable](https://open.spotify.com/album/0lHjkqv0o04dzKhHaFrI8o) | 2:37 | 2023-11-08 | 2023-11-30 |
 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 | 2025-02-05 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 | 2025-02-05 |  |
-| [Sin Llorar](https://open.spotify.com/track/2SDXa6StUCnkkAf73WLQTW) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:42 | 2024-12-04 |  |
+| [Sin Llorar](https://open.spotify.com/track/2SDXa6StUCnkkAf73WLQTW) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:42 | 2024-12-04 | 2025-02-14 |
 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 | 2025-02-05 |  |
 | [Sin Mi Te Ibas a Morir](https://open.spotify.com/track/2j9pfY33sGoNmug37B2fHq) | [Monny Cardona](https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu) | [Sin Mi Te Ibas a Morir](https://open.spotify.com/album/7qjejYtndy2a9A2OeLJW3e) | 2:22 | 2024-09-17 | 2024-10-03 |
 | [Sin ti me va mejor](https://open.spotify.com/track/14iMnb6WRQ6Ua508Sdxe03) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Sin ti me va mejor](https://open.spotify.com/album/0xo7rMsFvV9Opp9MFyH6gN) | 3:32 | 2023-02-01 | 2023-03-02 |
@@ -1205,6 +1205,7 @@
 | [Tú y Yo](https://open.spotify.com/track/2HmEZ9gN1iuotrO1x3LAAU) | [Laura Guevara](https://open.spotify.com/artist/45hNgINTIzIiz2axx5EiBL) | [Tú y Yo](https://open.spotify.com/album/18XSJVJeyFNAYOFiUDmcsr) | 4:48 | 2023-04-05 | 2023-05-04 |
 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 | 2024-05-01 | 2025-02-06 |
 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 | 2023-06-07 | 2023-07-06 |
+| [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 | 2025-02-13 |  |
 | [Un día es un día](https://open.spotify.com/track/62bvM6Glmk6Ek6Gf34GWwn) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Soñé](https://open.spotify.com/album/3aGmHJLrFubhnEBeaASZoy) | 3:59 | 2023-02-01 | 2023-03-02 |
 | [Un día nos vamos a morir](https://open.spotify.com/track/6mL6h0E5bxPdWcfe91fI8y) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 4:02 | 2024-12-04 | 2025-02-06 |
 | [Un Lugar en el Cielo \(Sesión Acústica\) \[En Vivo\]](https://open.spotify.com/track/4heBkzIrmPP9rMPvB2sDzg) | [Ana Victoria](https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5) | [Un Lugar en el Cielo \(Sesión Acústica\) \[En Vivo\]](https://open.spotify.com/album/77eSWaw1I2yvVHoe68JYrN) | 3:53 | 2024-06-05 | 2024-07-04 |

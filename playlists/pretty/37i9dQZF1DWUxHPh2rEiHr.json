@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Ela Taubert & Joe Jonas ",
-  "num_followers": 498707,
+  "num_followers": 498718,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -427,26 +427,6 @@
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -543,6 +523,26 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1063,62 +1063,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Hass Hass",
-        "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Greg Kurstin",
-          "url": "https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG"
-        }
-      ],
-      "duration_ms": 153016,
-      "name": "Hass Hass",
-      "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "WE PRAY",
-        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY - Single Version",
-      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
       },
@@ -1155,6 +1099,62 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "WE PRAY - Single Version",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Hass Hass",
+        "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Greg Kurstin",
+          "url": "https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG"
+        }
+      ],
+      "duration_ms": 153016,
+      "name": "Hass Hass",
+      "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
         "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "Look Who's Laughing Now",
         "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 174660,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2025-01-31 09:27:20",

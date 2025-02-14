@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-143 songs - 9 hr 43 min
+144 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 | 2024-04-19 |
 | [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 |  |
 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 | 2024-12-06 |  |
-| [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 | 2024-06-12 |  |
+| [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 | 2024-06-12 | 2025-02-14 |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy) | [Eliseo Guevara](https://open.spotify.com/artist/2elfE5Hl1JQzfrtGNolVEI) | [Le Canto a Mi Pueblo](https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47) | 3:28 | 2023-03-03 | 2024-04-19 |
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 |  |
 | [Carretera 3](https://open.spotify.com/track/49l8hG7YAsqY74acHoge2J) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Carretera 3](https://open.spotify.com/album/5ZE9DGRkkY9zFclTXoQW7k) | 5:03 | 2024-10-14 |  |
@@ -44,6 +44,7 @@
 | [De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie \(Fiestas Patrias 2021\)](https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie \(Fiestas Patrias 2021\)](https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj) | 12:32 | 2023-10-05 | 2025-02-08 |
 | [Deja de Llorar](https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2) | [Los Bohemios de Chile](https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS) | 4:12 | 2023-03-03 |  |
 | [Del Campo a la Ciudad](https://open.spotify.com/track/6mjCELq0QXKs0UV8BM4f52) | [Los Tukas del Sur](https://open.spotify.com/artist/3fum98bRuzJluGoYRqInHE) | [Del Campo a la Ciudad](https://open.spotify.com/album/7At6x4F85wqZB22sTzO0E4) | 2:44 | 2023-10-05 | 2024-03-04 |
+| [Después de Ti](https://open.spotify.com/track/3KZ9E2VdnR7QpMIywm8Hv0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Después de Ti](https://open.spotify.com/album/2tWeqrleq2g7t4A4XZGVjn) | 4:39 | 2025-02-13 |  |
 | [Dime Quién Es](https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 5:37 | 2023-03-03 |  |
 | [Dos Monedas](https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [De Padre Desconocido](https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW) | 4:42 | 2023-10-05 |  |
 | [El Aguacero](https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:35 | 2023-03-03 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Dorothy Norwood, Donald Lawrence and more
+> With Sunday Service Choir, Jordan G\. Welch, Dorothy Norwood and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 238 likes - 50 songs - 3 hr 44 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [23rd Psalm \- Feat\. Michelle Jordan](https://open.spotify.com/track/2k2lsjEr1pP43ItYoD2Ut4) | [The Choral Project](https://open.spotify.com/artist/15AEwrr7TarHAiNygSPREx) | [Tell The World](https://open.spotify.com/album/1AI5galpcorZL8k4915GlQ) | 4:15 |
 | 50 | [Never Left Me Alone](https://open.spotify.com/track/6Ow2S3oWDyPvAkgvvnwoA1) | [JoJo Martin](https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU) | [Temporary Tears](https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh) | 4:09 |
 
-Snapshot ID: `Z61f/wAAAACE+CiuYXxiT/fG9AXsjGND`
+Snapshot ID: `Z664sQAAAACAQevl/3hw1G9etL4psdcv`

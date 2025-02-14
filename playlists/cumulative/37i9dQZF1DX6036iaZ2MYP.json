@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  THEODORT",
+  "description": "Tracks popping off in the Afro scene. Cover:  Asake",
   "name": "Afro Station",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 192000,
       "name": "4Life",
       "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151500,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/4MsuVqL6eRXGy3FIK639t4"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186333,
       "name": "Amar Pela Metade (Aimer \u00c0 Moiti\u00e9)",
       "url": "https://open.spotify.com/track/56NoXkahPdeKwnGzq2VTGe"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 200000,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb"
@@ -1150,6 +1150,32 @@
       "duration_ms": 138130,
       "name": "Back",
       "url": "https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd"
+    },
+    {
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/4SnDJQ9OFqI2L9cFkxqhL3"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/53YuOf7HDvRZvHEenrQR8V"
     },
     {
       "album": {
@@ -1354,7 +1380,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 119512,
       "name": "Bara",
       "url": "https://open.spotify.com/track/5rJ0db9ehcLPtn3ZklDBIL"
@@ -1376,7 +1402,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 149846,
       "name": "Baroud",
       "url": "https://open.spotify.com/track/5ScCoHKZFv9RGkJVO374uE"
@@ -1936,6 +1962,24 @@
       "duration_ms": 167586,
       "name": "B\u00e9ni",
       "url": "https://open.spotify.com/track/2i9IdyElr7AWcSRoiecIKv"
+    },
+    {
+      "album": {
+        "name": "C'est confirm\u00e9",
+        "url": "https://open.spotify.com/album/3yCfRW2KJ7o55NNbIkbFVz"
+      },
+      "artists": [
+        {
+          "name": "Goulam",
+          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "C'est confirm\u00e9",
+      "url": "https://open.spotify.com/track/24i7GLlRxXdnyFoYKIPodd"
     },
     {
       "album": {
@@ -4192,7 +4236,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 181333,
       "name": "Fall In Love (feat. Odeal)",
       "url": "https://open.spotify.com/track/5JV1b92v3C6Css76envcRx"
@@ -6082,6 +6126,24 @@
       "duration_ms": 203577,
       "name": "Jamais (feat. Lossa)",
       "url": "https://open.spotify.com/track/2V4ttOwCG3RHKSjHMIP9ST"
+    },
+    {
+      "album": {
+        "name": "Jay Jay",
+        "url": "https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Jay Jay",
+      "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
     },
     {
       "album": {
@@ -8037,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "Miss you so bad",
+        "url": "https://open.spotify.com/album/3RbkHn00TMJJQnVv6E4tke"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173414,
+      "name": "Miss you so bad",
+      "url": "https://open.spotify.com/track/1izbW1PoiWTLhQJf79H8f7"
+    },
+    {
+      "album": {
         "name": "Moi \u00e7a va",
         "url": "https://open.spotify.com/album/1h8KnKgDfE2jkD0ChejCHN"
       },
@@ -8572,7 +8652,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 163198,
       "name": "M\u00e9dusa",
       "url": "https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR"
@@ -8684,7 +8764,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 165944,
       "name": "Ndangti",
       "url": "https://open.spotify.com/track/5YWc6bVM1fT3Y2T32l0sq5"
@@ -9073,6 +9153,28 @@
     },
     {
       "album": {
+        "name": "CUXI BOY",
+        "url": "https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "O.L.Y (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
+      "url": "https://open.spotify.com/track/6yvpFPkgyDMOmOxT4Fikoz"
+    },
+    {
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
@@ -9096,6 +9198,24 @@
       "duration_ms": 178048,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
+    },
+    {
+      "album": {
+        "name": "Obimo",
+        "url": "https://open.spotify.com/album/029jK5j2qqcKKn4vMTm5o9"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Obimo",
+      "url": "https://open.spotify.com/track/0YfgKt9WlVCXPEx0HGvrds"
     },
     {
       "album": {
@@ -9397,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "A2 & Only U",
+        "url": "https://open.spotify.com/album/0hOkExE7NxT1wmlRhco5OP"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/69dbq3SQ9bHDK0qxD2mWUz"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg"
       },
@@ -9460,6 +9598,28 @@
       "duration_ms": 155480,
       "name": "Oppos\u00e9s",
       "url": "https://open.spotify.com/track/10cXtrKUCAqtqKYWJOLR7b"
+    },
+    {
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o"
     },
     {
       "album": {
@@ -9732,6 +9892,24 @@
       "duration_ms": 197000,
       "name": "Pas science",
       "url": "https://open.spotify.com/track/3mFVhqa64mBXD8OFPcLxZ0"
+    },
+    {
+      "album": {
+        "name": "Pas sommeil",
+        "url": "https://open.spotify.com/album/2uzMG6tbqFvF4dbTCkqdMq"
+      },
+      "artists": [
+        {
+          "name": "Sonik",
+          "url": "https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155435,
+      "name": "Pas sommeil",
+      "url": "https://open.spotify.com/track/39Zgz37I1hgEQ9pZ6itNJh"
     },
     {
       "album": {
@@ -10279,6 +10457,24 @@
     },
     {
       "album": {
+        "name": "Pxy Drip",
+        "url": "https://open.spotify.com/album/3xIa0k3KbEemfPcrF30nOd"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Pxy Drip",
+      "url": "https://open.spotify.com/track/6slrSrrOXJGgUcDFjmNP3T"
+    },
+    {
+      "album": {
         "name": "P\u00e9pite",
         "url": "https://open.spotify.com/album/3KA2u86x2wiNO6fBbWUCjL"
       },
@@ -10290,7 +10486,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 166856,
       "name": "P\u00e9pite",
       "url": "https://open.spotify.com/track/0vt4zw087QOjjHPiklpQQI"
@@ -11727,6 +11923,24 @@
     },
     {
       "album": {
+        "name": "T'es \u00e0 moi",
+        "url": "https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "T'es \u00e0 moi",
+      "url": "https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do"
+    },
+    {
+      "album": {
         "name": "Take Ova",
         "url": "https://open.spotify.com/album/1kAZ6bI1GTGG55kuho3HDD"
       },
@@ -11756,7 +11970,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 147000,
       "name": "TANA",
       "url": "https://open.spotify.com/track/6RDrc4UiQJil91rjirZ0ka"
@@ -11808,7 +12022,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169397,
       "name": "Tchoutchou (feat. Naza)",
       "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
@@ -12161,6 +12375,24 @@
     },
     {
       "album": {
+        "name": "Berlin / West Africa",
+        "url": "https://open.spotify.com/album/40HePWv3ywBDDGslOFyVXE"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148273,
+      "name": "Too Soon",
+      "url": "https://open.spotify.com/track/6IAPVBbwl09PPHLWMJ9vuk"
+    },
+    {
+      "album": {
         "name": "toronto",
         "url": "https://open.spotify.com/album/4RpYsToxRtQKwrdblJ9M5z"
       },
@@ -12190,7 +12422,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 168421,
       "name": "TOUJOURS DEDANS",
       "url": "https://open.spotify.com/track/13SqtCMyxtwpEHHTxkOXWX"
@@ -12948,6 +13180,24 @@
       "duration_ms": 178064,
       "name": "Whine",
       "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+    },
+    {
+      "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "album": {

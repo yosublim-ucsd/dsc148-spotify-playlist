@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-165 songs - 10 hr 37 min
+166 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 | 2023-01-07 | 2024-04-19 |
 | [Gitanas Mojadas](https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C) | [Polka Madre](https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8) | [Casa Dónde](https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Go](https://open.spotify.com/track/3ClMIPI0OAW6SgPAPG0lDB) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Steal the Light](https://open.spotify.com/album/7Blq3llvFZhKNAZvj6XwWg) | 3:25 | 2023-07-07 | 2024-05-27 |
-| [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 |  |
+| [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 | 2025-02-14 |
 | [Gypsie Doodle \- Live](https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c) | [Analogik](https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh) | [Klunserbeats Live](https://open.spotify.com/album/4OfxTH08O6sUb7Dk3ucFGs) | 3:29 | 2023-01-07 | 2023-10-05 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |
 | [Hasta el Amanecer \(feat\. Gina Bustamante\)](https://open.spotify.com/track/733JqA2OMB1g4rmCMlqfXn) | [Los Kamer](https://open.spotify.com/artist/6Zsa6YJUpv57fOESdkQQ8M), [Gina Bustamante](https://open.spotify.com/artist/7bDkjZt8lmtgqoxAIDjsFJ) | [Los Kamer](https://open.spotify.com/album/2sQBMrJchTauZdl0228rBm) | 4:55 | 2021-09-10 | 2022-07-27 |
@@ -97,6 +97,7 @@
 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 | 2021-09-10 | 2024-04-19 |
 | [La Violencia](https://open.spotify.com/track/3HE5z7Dkgz37zqnKku6tzA) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [15 Años](https://open.spotify.com/album/0ew7dSmKa2VCOHsDWM1USw) | 3:10 | 2021-09-10 | 2022-07-28 |
 | [Lady Plastica](https://open.spotify.com/track/0cUTpXY9vvJUCDepHd2qbr) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Lady Plastica](https://open.spotify.com/album/6vcOuVRBx4QoukxObzcV0V) | 6:07 | 2021-09-10 | 2022-07-29 |
+| [Lambada de Oceania, Africa y America \(eran un solo continente\)](https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 5:22 | 2023-07-07 |  |
 | [Les Yeux Sans Visage](https://open.spotify.com/track/1oOu83qNvu4XMs1HoTRzGb) | [Combustible Edison](https://open.spotify.com/artist/6EBbqeUWMq6mWL0CQklRwh) | [Schizophonic](https://open.spotify.com/album/7LjksQuufOcdsM8hf3Qemv) | 4:25 | 2021-09-10 | 2022-07-28 |
 | [Life Is a Miracle](https://open.spotify.com/track/3tvUrjwAY841KOU3dIeNXo) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Corps Diplomatique](https://open.spotify.com/album/0SwBDErYO4DCn8dxFr1WKM) | 3:57 | 2023-07-07 |  |
 | [Loca](https://open.spotify.com/track/4pZq4AKfIhFbdLgIqd4XNZ) | [Circo Vulkano](https://open.spotify.com/artist/5BBQWOFoqAG5Zua2Ssr4fK) | [El Reto](https://open.spotify.com/album/0YExV1Kd98qFZFvpvsF7PA) | 3:15 | 2021-09-10 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring camoufly",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Sammy Virji",
   "name": "creamy",
   "tracks": [
     {
@@ -4338,7 +4338,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 184714,
       "name": "Don't Waste My Time",
       "url": "https://open.spotify.com/track/2XZhirtcTYcMw2ouJPzMpw"
@@ -8231,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "I Guess We\u2019re Not The Same",
+        "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211575,
+      "name": "I Guess We're Not The Same",
+      "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "album": {
         "name": "i have an idea ?<\u201d",
         "url": "https://open.spotify.com/album/7wTl9tVaOic4pPAo7sCqeS"
       },
@@ -10456,7 +10474,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185524,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
@@ -18948,6 +18966,28 @@
       "duration_ms": 226285,
       "name": "Weightless Feeling",
       "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
+    },
+    {
+      "album": {
+        "name": "Wet Peak Stars",
+        "url": "https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199828,
+      "name": "Wet Peak Stars",
+      "url": "https://open.spotify.com/track/5bZyJlELRUQatrt9SoJP8u"
     },
     {
       "album": {

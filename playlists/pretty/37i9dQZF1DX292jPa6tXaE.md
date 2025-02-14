@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Chinna
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,889 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,897 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 10 | [Lowkey Lover](https://open.spotify.com/track/2vRuQppvqmbJUAgwKeqQIK) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Lowkey Lover](https://open.spotify.com/album/0chtCbqOVG9jc8mbAsdxj3) | 2:20 |
 | 11 | [Supne](https://open.spotify.com/track/3uaqcb3JPKibNVqGZNrIjm) | [Gauhar Dhillon](https://open.spotify.com/artist/3J8Tmx61km0CjoCAnOeGs9), [Gavin Beats](https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS) | [Supne](https://open.spotify.com/album/0GwoWjhFUC9LxnsyBxT9AH) | 2:29 |
 | 12 | [Jigra](https://open.spotify.com/track/2lL4FPQNJflbOb3guNRxeM) | [Garry Benipal](https://open.spotify.com/artist/63GwUmkbQDiSH6rIFFAzsF), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Sheron](https://open.spotify.com/artist/4cuUcVGazv96ev19Z4E0Kp), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Jigra](https://open.spotify.com/album/5gl38CkVK4c0zwbgTeuz8R) | 2:48 |
-| 13 | [Ashke](https://open.spotify.com/track/6sZNbVsgOrrxCditmjYkLs) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE), [Rajinder](https://open.spotify.com/artist/2NPoEtFahR2NmuqXcof2Cb), [Cheetah](https://open.spotify.com/artist/0UssK1rMiTP251lIwkpHwr) | [Ashke](https://open.spotify.com/album/2BA8BtiB5YQu7gAIKQB57M) | 2:36 |
+| 13 | [Ashke](https://open.spotify.com/track/6sZNbVsgOrrxCditmjYkLs) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE), [Rajinder](https://open.spotify.com/artist/7A8xuFVbN47k35VwxnGwkT), [Cheetah](https://open.spotify.com/artist/0UssK1rMiTP251lIwkpHwr) | [Ashke](https://open.spotify.com/album/2BA8BtiB5YQu7gAIKQB57M) | 2:36 |
 | 14 | [Aura](https://open.spotify.com/track/1hEEWmxCLs95iz2d7Mwao6) | [Athak](https://open.spotify.com/artist/3L3pMnyEPTcg0f4LIBqoV1), [Sidd Music](https://open.spotify.com/artist/3X9aS70kCjNtdKKrCaDBxQ) | [Aura](https://open.spotify.com/album/0DB4EGToQT3rFED02q4TSi) | 2:14 |
 | 15 | [100 Pencilan](https://open.spotify.com/track/1VQInCPfrJCaspHle2N0ti) | [Sukkh Swara](https://open.spotify.com/artist/2lOzOND0Jx1uBhPyzg02gM), [Raja X Here](https://open.spotify.com/artist/1xvWNxZiKms7szwpNTVEAy) | [100 Pencilan](https://open.spotify.com/album/0xTH9hFBbb3PPlUMDiltUc) | 2:26 |
 | 16 | [Pitfalls](https://open.spotify.com/track/7MRRGXH4E3vRGnj2crCDcZ) | [Arry Krown](https://open.spotify.com/artist/4clfOKTzZ9CAvRieykRtSD) | [Pitfalls](https://open.spotify.com/album/09eyIbtWq69Xj9s8ScO15G) | 2:42 |

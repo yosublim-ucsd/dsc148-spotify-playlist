@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Amira Elfeky ",
+  "description": "The best in new rock. Cover: Hands Like Houses",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
@@ -1134,6 +1134,24 @@
       "duration_ms": 185608,
       "name": "Enough for you",
       "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
+    },
+    {
+      "album": {
+        "name": "Everyone Will See It",
+        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204620,
+      "name": "Everyone Will See It",
+      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
     },
     {
       "album": {
@@ -2083,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Left Of The Dealer",
+        "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254946,
+      "name": "Left Of The Dealer",
+      "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
+    },
+    {
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 241579,
       "name": "Lonely is the Muse",
       "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
@@ -3082,10 +3118,28 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 316137,
       "name": "Phantom Island",
       "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
+    },
+    {
+      "album": {
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
       "album": {
@@ -3848,6 +3902,24 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "ATMOSPHERICS",
+        "url": "https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
     },
     {
       "album": {

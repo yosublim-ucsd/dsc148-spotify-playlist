@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: J18",
-  "num_followers": 59492,
+  "num_followers": 59498,
   "original_name": "folk & verano",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 161000,
       "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
       "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "Cuando Empec\u00e9 a Quererte",
-        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
-      },
-      "artists": [
-        {
-          "name": "Gamuza",
-          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Cuando Empec\u00e9 a Quererte",
-      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
+        "name": "Cuando Empec\u00e9 a Quererte",
+        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
+      },
+      "artists": [
+        {
+          "name": "Gamuza",
+          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Cuando Empec\u00e9 a Quererte",
+      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
         "name": "Para\u00edso Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 206777,
       "name": "M\u00fasica de Computadora",
       "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -671,18 +651,22 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "el gil",
-        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
       "artists": [
         {
-          "name": "Camar\u00fa",
-          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 272500,
-      "name": "el gil",
-      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -703,6 +687,22 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
+        "name": "el gil",
+        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
+      },
+      "artists": [
+        {
+          "name": "Camar\u00fa",
+          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "el gil",
+      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "Caminito",
-        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
-      },
-      "artists": [
-        {
-          "name": "Coco Green",
-          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
-        },
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Caminito",
-      "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
+        "name": "Caminito",
+        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
+      },
+      "artists": [
+        {
+          "name": "Coco Green",
+          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
     },
     {
       "added_at": "2025-01-10 03:00:25",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-01-10 03:00:25",
       "album": {
-        "name": "Final Feliz",
-        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
-      },
-      "artists": [
-        {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
-    },
-    {
-      "added_at": "2025-01-10 03:00:25",
-      "album": {
         "name": "Sed de Ternura Vol.1 (Duo Set)",
         "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
+    },
+    {
+      "added_at": "2025-01-10 03:00:25",
+      "album": {
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
     },
     {
       "added_at": "2025-01-10 03:00:25",

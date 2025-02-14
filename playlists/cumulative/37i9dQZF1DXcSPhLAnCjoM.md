@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ma faute" de Marine est le Grand Hit de la semaine.
+> "Adieu, nous deux" de Pierre Garnier est le Grand Hit de la semaine.
 
-223 songs - 11 hr 26 min
+224 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Les visages et les odeurs](https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Les visages et les odeurs](https://open.spotify.com/album/5Jm4aY0hAgdP67HoSUSZwc) | 3:00 | 2023-12-07 | 2024-03-22 |
 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 | 2023-10-05 | 2024-06-07 |
 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 | 2024-06-06 | 2024-09-27 |
+| [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-02-13 |  |
 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 | 2024-06-20 | 2024-08-23 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-28 | 2024-05-24 |
 | [L’Étoile](https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:09 | 2024-05-16 | 2024-06-14 |
@@ -200,7 +201,7 @@
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-11-07 | 2025-01-31 |
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-11-09 | 2023-12-09 |
 | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa) | 3:00 | 2024-10-10 | 2024-12-20 |
-| [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-09-05 |  |
+| [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-09-05 | 2025-02-14 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 | 2024-01-12 |
 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 | 2025-02-06 |  |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2025-01-09 |  |

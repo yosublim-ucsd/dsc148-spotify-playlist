@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 235 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 235 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 165 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 166 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
 | 167 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 |
-| 168 | [Shake](https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:23 |
-| 169 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
+| 168 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
+| 169 | [Shake](https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:23 |
 | 170 | [For Life](https://open.spotify.com/track/5S1x9p5NtD9lbEs76eSwog) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
 | 171 | [fine](https://open.spotify.com/track/0XLmGgWdu0bA9hmBFMhh6b) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:03 |
 | 172 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 178 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
 | 179 | [<shine>](https://open.spotify.com/track/5CwjYBkkOkhxGIrA6KrTpS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:33 |
 | 180 | [Big Boots](https://open.spotify.com/track/6ERvPEKRAcQ8LOic62sE7z) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:39 |
-| 181 | [We Coexist](https://open.spotify.com/track/43cu92QAsRZj5XXQ3vnJIB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [The Smash Brothers \(Original Soundtrack\)](https://open.spotify.com/album/3aEMoEiAaC78BsaEVe6skZ) | 2:02 |
-| 182 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
+| 181 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
+| 182 | [We Coexist](https://open.spotify.com/track/43cu92QAsRZj5XXQ3vnJIB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [The Smash Brothers \(Original Soundtrack\)](https://open.spotify.com/album/3aEMoEiAaC78BsaEVe6skZ) | 2:02 |
 | 183 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
 | 184 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 |
 | 185 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 205 | [Don't Wonder Why](https://open.spotify.com/track/3evBwYwL2CXNZQTrmVcu46) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Don't Wonder Why](https://open.spotify.com/album/70mvdgnAIzoEi0Ix2a9psB) | 2:56 |
 | 206 | [Needless to Say](https://open.spotify.com/track/2zinC0U05Y3M50OKAEnoXZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:12 |
 | 207 | [Jenny](https://open.spotify.com/track/3U0cXbHSxCG6M6RboTsIk1) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:38 |
-| 208 | [Busy With It](https://open.spotify.com/track/7kigNPNPm9KfwHfGt3LNNR) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:56 |
-| 209 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
+| 208 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
+| 209 | [Busy With It](https://open.spotify.com/track/7kigNPNPm9KfwHfGt3LNNR) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:56 |
 | 210 | [Beachwood House](https://open.spotify.com/track/58YlAaGyATujqf7DYJW9XR) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [From the Rafters](https://open.spotify.com/album/0lAFM1Ylrf6KLSEWJO3vb3) | 3:20 |
 | 211 | [IRL](https://open.spotify.com/track/11JxdFkpuXNmxfVzNfX9Vb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:00 |
 | 212 | [White Husk](https://open.spotify.com/track/1pyNU4cwvLphePd6htmGvP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:03 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 234 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
 | 235 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbpbKgAAAABug3oAqtwX4u3/XXlgg8Rx`
+Snapshot ID: `AbpgwAAAAABRDDHpb1ibQL7KjLz5l0ZY`

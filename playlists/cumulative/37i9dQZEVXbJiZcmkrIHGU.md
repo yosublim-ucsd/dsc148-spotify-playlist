@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,136 songs - 6 day 9 hr 15 min
+3,137 songs - 6 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH) | 2:11 | 2023-07-15 | 2023-08-27 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-01 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-04 | 2022-08-07 |
-| [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-01-07 | 2025-02-09 |
+| [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-01-07 |  |
 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2025-01-20 | 2025-01-22 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2023-04-01 | 2023-06-11 |
 | [Breaking your heart](https://open.spotify.com/track/6fsbuVwtZHq8bCfUOfmkNL) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Gartenstadt](https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU) | 2:50 | 2023-06-10 | 2024-01-03 |
@@ -1264,6 +1264,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-11-05 | 2023-01-22 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-06 | 2022-11-06 |
+| [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2025-02-13 |  |
 | [Hundert Jahre Eiszeit](https://open.spotify.com/track/2aS1Hr5Yirja8gYge1wmTZ) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn), [Pano](https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa) | [Hundert Jahre Eiszeit](https://open.spotify.com/album/03ONbOfdYundtRiHOmaGgj) | 2:35 | 2023-06-10 | 2023-06-12 |
 | [HUNDERTZEHN](https://open.spotify.com/track/5K1uMa3a5R9JWW2n4IfTYa) | [Kolja Goldstein](https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HUNDERTZEHN](https://open.spotify.com/album/2vhvZlBiLMZIqG5kAKCX8e) | 2:29 | 2024-04-06 | 2024-04-08 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-17 |
@@ -1426,7 +1427,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Presenting Bobby Helms](https://open.spotify.com/album/6rxEZkfRTatrDUm4MCyJqm) | 2:13 | 2024-11-28 | 2024-11-30 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-11-28 | 2024-12-29 |
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2023-12-27 |
-| [JLO](https://open.spotify.com/track/4wfRzIMj4H0mhJsKtcL7ec) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [JLO](https://open.spotify.com/album/6ktCpNGwAMLr6KLLrQ8aDI) | 2:42 | 2025-02-08 |  |
+| [JLO](https://open.spotify.com/track/4wfRzIMj4H0mhJsKtcL7ec) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [JLO](https://open.spotify.com/album/6ktCpNGwAMLr6KLLrQ8aDI) | 2:42 | 2025-02-08 | 2025-02-14 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
 | [Juana auf Snapchat](https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [GOVA](https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v) | 3:00 | 2025-01-25 | 2025-02-07 |
 | [Juicy](https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Juicy](https://open.spotify.com/album/4nM6Os9s6gzVzsp4dLiSmn) | 2:45 | 2023-03-29 | 2023-04-30 |
@@ -1544,7 +1545,7 @@
 | [LA DEUTSCHE VITA](https://open.spotify.com/track/3cT5yuMebRLJ4dQDICENsa) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [LA DEUTSCHE VITA](https://open.spotify.com/album/3jqXYlgMHOvFl2FAmkwkMk) | 4:29 | 2023-07-08 | 2023-07-10 |
 | [La Familia 2](https://open.spotify.com/track/7tcVPeCr1IhCMdPybh2Cb4) | [Sun Diego](https://open.spotify.com/artist/3TqfPVt0HX8GCzNOOjDcum), [SpongeBOZZ](https://open.spotify.com/artist/4lAjitjrUJgjJgEVj2CwFc) | [La Familia 2](https://open.spotify.com/album/6Xbmu2IvZ7osmBpzhOL0vn) | 3:25 | 2022-02-05 | 2022-02-07 |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2024-12-28 | 2025-02-12 |
-| [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2024-12-29 |  |
+| [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2024-12-29 | 2025-02-14 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
 | [LAK](https://open.spotify.com/track/3RSjjjs5bBLg9pqrtnacvC) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LAK](https://open.spotify.com/album/2m6NW0PTGQaRQg0F0SgzQc) | 2:35 | 2024-11-16 | 2024-12-02 |
 | [Lamborghini Doors](https://open.spotify.com/track/3RcMZdAgZmG645LyMKFH3I) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Kapitel II Vodka \(2sad2disco\)](https://open.spotify.com/album/0xZ31gjfEOwODa5Ynndbly) | 2:52 | 2021-10-03 | 2021-10-08 |

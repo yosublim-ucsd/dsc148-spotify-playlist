@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,219 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,286 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 |
 | 100 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 |
 
-Snapshot ID: `Z6WTZAAAAADmjc5fyf+8PCARfH27c8gn`
+Snapshot ID: `Z65m9QAAAAAkgM2ixECszv51XF4DloSZ`

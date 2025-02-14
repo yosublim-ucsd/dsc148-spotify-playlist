@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: MONONOKE
 
-422 songs - 1 day 3 hr 8 min
+423 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 | 2024-07-02 | 2024-09-13 |
 | [Sign](https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sign](https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc) | 4:20 | 2024-09-17 | 2024-12-25 |
 | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e) | 4:35 | 2024-07-02 | 2024-09-07 |
+| [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 | 2025-02-13 |  |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2024-07-02 | 2024-12-25 |
 | [Something like Hope](https://open.spotify.com/track/2xXxhNbNkeOUH2rQhzmqCB) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Shoe Shine](https://open.spotify.com/album/7tPVkZr79zSooDsjgYEy5r) | 5:47 | 2024-09-17 | 2024-09-25 |
 | [SONAR](https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa) | 3:17 | 2025-02-11 |  |
@@ -177,7 +178,7 @@
 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 | 2024-07-02 | 2024-12-25 |
 | [Walk Together](https://open.spotify.com/track/1r7W0nmv7YsM67QI3RHEvC) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Walk Together](https://open.spotify.com/album/6jBuZ5VX6xrI9yRwbgW0GX) | 3:19 | 2024-07-02 | 2024-08-22 |
 | [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 | 2024-11-19 |  |
-| [We don't need heroes](https://open.spotify.com/track/66PLaLborZo2mvNIs546T5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [We don't need heroes](https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1) | 3:10 | 2025-01-28 |  |
+| [We don't need heroes](https://open.spotify.com/track/66PLaLborZo2mvNIs546T5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [We don't need heroes](https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1) | 3:10 | 2025-01-28 | 2025-02-14 |
 | [Wind](https://open.spotify.com/track/3FcGv9fUNiNu7LuzXnQvCn) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [wind e.p.](https://open.spotify.com/album/1MtCi1jcGMGrQsEvq1xEro) | 2:59 | 2024-11-13 | 2024-11-20 |
 | [wind, flower, noise, and street](https://open.spotify.com/track/52s4jyBjDYQXgkDQvHAsAY) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [wind, flower, noise, and street](https://open.spotify.com/album/5UWoz1NRite9yXtPVECuIw) | 4:12 | 2025-02-04 |  |
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2024-07-02 | 2024-07-31 |

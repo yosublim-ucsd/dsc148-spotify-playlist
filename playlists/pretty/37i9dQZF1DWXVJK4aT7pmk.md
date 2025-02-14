@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,777 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,225 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

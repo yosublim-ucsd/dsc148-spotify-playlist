@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "15 Minutes",
+      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
+    },
+    {
+      "album": {
         "name": "2 Die 4",
         "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 218653,
       "name": "DOES GOD CRY?",
       "url": "https://open.spotify.com/track/265SjBtYq3TRNMZRnKQni3"
@@ -7624,6 +7642,24 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "High Fashion",
+        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
     },
     {
       "album": {
@@ -15121,6 +15157,28 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -17736,7 +17794,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 132000,
       "name": "Touching Toes",
       "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
@@ -18176,6 +18234,24 @@
       "duration_ms": 179062,
       "name": "Used To You",
       "url": "https://open.spotify.com/track/1kxVlFq33yFjFoxBwqIQUl"
+    },
+    {
+      "album": {
+        "name": "valentine",
+        "url": "https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "valentine",
+      "url": "https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2"
     },
     {
       "album": {
@@ -18982,7 +19058,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 195440,
       "name": "Why Can't You",
       "url": "https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr"

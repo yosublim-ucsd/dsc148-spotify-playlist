@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,503 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,530 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 23 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 24 | [Greener \(with Mitchell Tenpenny\)](https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Greener \(with Mitchell Tenpenny\)](https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f) | 2:55 |
 | 25 | [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 |
-| 26 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
-| 27 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
+| 26 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
+| 27 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
 | 28 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
 | 29 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 30 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 36 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 |
 | 37 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 |
 | 38 | [every little thing](https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [every little thing](https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU) | 3:07 |
-| 39 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
-| 40 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
+| 39 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
+| 40 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 41 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 42 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 |
 | 43 | [Those Were The Days](https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155) | [Those Were The Days](https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U) | 2:23 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 68 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
 | 69 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 |
 | 70 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 |
-| 71 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
-| 72 | [She’s The Girl](https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [She’s The Girl](https://open.spotify.com/album/5k8kR5lHvG5bbxUYT9cIwW) | 2:54 |
+| 71 | [She’s The Girl](https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [She’s The Girl](https://open.spotify.com/album/5k8kR5lHvG5bbxUYT9cIwW) | 2:54 |
+| 72 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 73 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 |
 | 74 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
 | 75 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 76 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 77 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
-| 78 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
+| 77 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
+| 78 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 79 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
 | 80 | [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 |
 

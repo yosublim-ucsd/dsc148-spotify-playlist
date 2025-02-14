@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Seong-Jin Cho(\uc870\uc131\uc9c4)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4557,
+  "num_followers": 4555,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
         }
       ],
-      "duration_ms": 136200,
-      "name": "12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
-      "url": "https://open.spotify.com/track/27Tl9HCe5JKqqKVD9Mko3l"
+      "duration_ms": 212853,
+      "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor \"Lament\"",
+      "url": "https://open.spotify.com/track/0iiKUd0auI7AuEMUbLtWFL"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
-        },
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
         "name": "Beethoven, Isang Yun, Barber (Live)",
         "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 178920,
       "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
       "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
+      },
+      "artists": [
+        {
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+        },
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -871,6 +871,66 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        },
+        {
+          "name": "Cho Yoonseung",
+          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
+        "name": "Make A Wish (Birthday Song) [Orchestra Version]",
+        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Make A Wish (Birthday Song) - Orchestra Version",
+      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -899,66 +959,6 @@
       "duration_ms": 246986,
       "name": "While You Live",
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        },
-        {
-          "name": "Cho Yoonseung",
-          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
-      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
-        "name": "Make A Wish (Birthday Song) [Orchestra Version]",
-        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
-      },
-      "artists": [
-        {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
-        }
-      ],
-      "duration_ms": 273346,
-      "name": "Make A Wish (Birthday Song) - Orchestra Version",
-      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
-        }
-      ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
+      "duration_ms": 283880,
+      "name": "Il Mare Calmo Della Sera",
+      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Il Mare Calmo Della Sera",
-      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 216333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+      "duration_ms": 323600,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1571,18 +1571,30 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+        "name": "Barber, Bruch",
+        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Blooming",
-      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
+      "duration_ms": 448413,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1619,30 +1631,18 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Barber, Bruch",
-        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
       "artists": [
         {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vasily Petrenko",
-          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 448413,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
-      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
+      "duration_ms": 184000,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 323600,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
+        "name": "Love Confession",
+        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Confession",
+      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
         "name": "Deep Sleep Deep",
         "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
       },
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Love Confession",
-        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
-      },
-      "artists": [
-        {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Confession",
-      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
@@ -1815,6 +1815,22 @@
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "added_at": "2025-01-17 05:56:49",
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Blossom of Flower",
+      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1835,22 +1851,6 @@
       "duration_ms": 628546,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
-    },
-    {
-      "added_at": "2025-01-17 05:56:49",
-      "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "The Red String",
-      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1947,18 +1947,26 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+        "name": "White Night",
+        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
       },
       "artists": [
         {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+          "name": "Nikolai Myaskovsky",
+          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
+        },
+        {
+          "name": "Yoosin Park",
+          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
         }
       ],
-      "duration_ms": 249240,
-      "name": "Blossom of Flower",
-      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
+      "duration_ms": 451346,
+      "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
+      "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
     },
     {
       "added_at": "2025-01-17 05:56:49",
@@ -1983,26 +1991,18 @@
     {
       "added_at": "2025-01-17 05:56:49",
       "album": {
-        "name": "White Night",
-        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
       "artists": [
         {
-          "name": "Nikolai Myaskovsky",
-          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
-        },
-        {
-          "name": "Yoosin Park",
-          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
         }
       ],
-      "duration_ms": 451346,
-      "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
-      "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
     },
     {
       "added_at": "2025-01-17 05:56:49",

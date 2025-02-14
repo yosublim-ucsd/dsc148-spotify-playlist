@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-47 songs - 2 hr 39 min
+50 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,16 @@
 | [Domino](https://open.spotify.com/track/7FIx1bkujbQ4gWjmFq9hXt) | [Collin Selman](https://open.spotify.com/artist/7skgISRCbhB6dbhB26RDHb) | [Domino](https://open.spotify.com/album/4ey6eYCruyw7eOuMPeMXBa) | 3:16 | 2025-01-30 |  |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2025-01-30 |  |
 | [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 | 2025-01-30 |  |
+| [Forever and More](https://open.spotify.com/track/1xhkbc481N3PiE28jj4pmN) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Forever and More](https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng) | 4:22 | 2025-02-13 |  |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2025-01-30 |  |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2025-01-30 |  |
+| [Hello Heartbreak](https://open.spotify.com/track/3AuOLgPgdwBzhc7ZMTtNqX) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j), [Sylvia Terry](https://open.spotify.com/artist/2UKiR14OjC3o0aTOBcAQFC) | [Hello Heartbreak](https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV) | 2:30 | 2025-02-13 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2025-01-30 |  |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-02-06 |  |
 | [I'm Ok](https://open.spotify.com/track/678upPseS5HwQMdgYylO3n) | [The Ton\-Ups](https://open.spotify.com/artist/1N20JxNpMzLujtxxh8OQfY) | [Ton\-Ups](https://open.spotify.com/album/2EdRbMlMlRBR7q4cV3Dpl4) | 2:34 | 2025-01-30 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-30 |  |
 | [Let Em' Roll](https://open.spotify.com/track/29PXH2s2rlagVtzrLYAnjS) | [Jimmy Madden](https://open.spotify.com/artist/1KZbAbdn0kHp0LwplbCnvM), [Dick Taylor](https://open.spotify.com/artist/6CwEdKtDds54qTu43Q1Wk0), [Roger Fleming](https://open.spotify.com/artist/282Slm4aP59CAjKRFVXrWq) | [The Recordings of Bob Scherman: Singles from Skylark, Tampa & Other Labels](https://open.spotify.com/album/0uObn32S4YIMuQ1nVllPQJ) | 2:10 | 2025-01-30 |  |
+| [Let Go](https://open.spotify.com/track/49n5v4l1sLEVjvvjdYgoTJ) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Let Go](https://open.spotify.com/album/5gKdBfG9oX5P3bojQW4S8S) | 2:47 | 2025-02-13 |  |
 | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/track/1oFdXK1L7SIn30Bl8gShXj) | [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/album/3QaOCisCbuYcL1H2H6Ea8B) | 0:55 | 2025-01-30 |  |
 | [Mau Mau](https://open.spotify.com/track/4NjmLZhHe1THI79g0GzNG7) | [The Wailers](https://open.spotify.com/artist/3w1N6MEbGEQNw1MJabSP6M) | [The Fabulous Wailers](https://open.spotify.com/album/2VaZzkK0LOUxRWNNiVkLVy) | 2:40 | 2025-01-30 |  |
 | [Monster](https://open.spotify.com/track/2YshaAyv46ZX5PDKOpX8IH) | [Emmett Finley](https://open.spotify.com/artist/3N4XzQRo7MSxOo9BtIBQ16) | [Emmett Finley](https://open.spotify.com/album/58jfsZz5ZkcIoaacQPrH1A) | 5:22 | 2025-01-30 |  |

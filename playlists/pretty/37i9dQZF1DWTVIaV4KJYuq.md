@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,105 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,203 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 34 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
 | 35 | [Hotel California \(Cover\)](https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:44 |
 | 36 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
-| 37 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
-| 38 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
+| 37 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
+| 38 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
 | 39 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
 | 40 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
 | 41 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 77 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 |
 | 78 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
 | 79 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
-| 80 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
-| 81 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
+| 80 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
+| 81 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
 | 82 | [The Times They Are A\-Changin’ \- Performance Version](https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [The Times They Are A\-Changin’ \(Performance Version\)](https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6) | 3:00 |
 | 83 | [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 |
 | 84 | [Common People](https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh), [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Common People](https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg) | 4:03 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 106 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 |
 | 107 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
 | 108 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
-| 109 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
-| 110 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
+| 109 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
+| 110 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 
 Snapshot ID: `ZxHdQAAAAABJEn0eUE7jamwHO86hVSVA`

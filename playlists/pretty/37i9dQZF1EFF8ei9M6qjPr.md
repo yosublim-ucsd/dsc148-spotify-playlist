@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 159 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 159 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 79 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
 | 80 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
 | 81 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
-| 82 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
-| 83 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 82 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 83 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
 | 84 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
 | 85 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
 | 86 | [TAMALE! \(feat\. Jaleel\)](https://open.spotify.com/track/774BQ6Z8GFi0j6p4MBrBqi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Jaleel](https://open.spotify.com/artist/2iZneDO9KyhxFi9JEzIUo7) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:34 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 102 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
 | 103 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
 | 104 | [Darkside](https://open.spotify.com/track/5eqqCdjErB7woHR39vRo60) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Darkside](https://open.spotify.com/album/4iuKwRcg4fHZJs0dENeM2H) | 2:53 |
-| 105 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
-| 106 | [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 |
+| 105 | [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 |
+| 106 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
 | 107 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
 | 108 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
 | 109 | [Warrior](https://open.spotify.com/track/11j4yNQn5n0lcu7O2lQe5l) | [Evaride](https://open.spotify.com/artist/6kU38KiIBwTXUbMbQqBnKi) | [Warrior](https://open.spotify.com/album/6oTGR6eKOW3YI6ktACcdYd) | 3:29 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 126 | [Castle Walls](https://open.spotify.com/track/65uAnHQuEx07zf4gCG7bke) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Castle Walls](https://open.spotify.com/album/6fAuCPNq6dlI7CYfExniA9) | 2:33 |
 | 127 | [Tomorrow](https://open.spotify.com/track/5tzKLWCUnqi951e5dh8dMy) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Tomorrow](https://open.spotify.com/album/6ohU5Ec3OF69kJQaZIbL4N) | 3:13 |
 | 128 | [Red Lights](https://open.spotify.com/track/6g3egN3RHTN6z7WXjN77tS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:05 |
-| 129 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
-| 130 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
+| 129 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
+| 130 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
 | 131 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
 | 132 | [closer to thirty](https://open.spotify.com/track/5XL8G3q7SK2HLagmg9d2Y2) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [could the grass be greener](https://open.spotify.com/album/6OIa4oByf8NH0vfKTfM9bX) | 2:24 |
 | 133 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 158 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 | 159 | [ALL I NEED](https://open.spotify.com/track/6Qdsd8iXAdcmDvBdAMz3WL) | [Mia Sora](https://open.spotify.com/artist/5KfyVusD5stu0TBkXqAqiw) | [ALL I NEED](https://open.spotify.com/album/2e7iBgtxzE2lymEAjYSnS5) | 3:30 |
 
-Snapshot ID: `AbpbSAAAAAA1xgtcJLIJbdSEtpC1h+9D`
+Snapshot ID: `Abpg3gAAAABYhztJpaDcfGAYC7NbbvGq`

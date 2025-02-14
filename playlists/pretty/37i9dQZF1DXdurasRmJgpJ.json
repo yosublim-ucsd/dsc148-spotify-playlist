@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 324611,
+  "num_followers": 324679,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "\u306d\u3063\u3053",
-        "url": "https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR"
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 239728,
-      "name": "\u306d\u3063\u3053",
-      "url": "https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl"
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -479,34 +479,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "Sailing",
-        "url": "https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh"
+        "name": "\u306d\u3063\u3053",
+        "url": "https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
-        "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
-        "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 286546,
-      "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
-      "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
+      "duration_ms": 239728,
+      "name": "\u306d\u3063\u3053",
+      "url": "https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -527,6 +511,22 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
+        "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
+        "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 286546,
+      "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
+      "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
       },
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "TAIDADA",
-        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 226026,
-      "name": "TAIDADA",
-      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -595,18 +595,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+        "name": "TAIDADA",
+        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+      "duration_ms": 226026,
+      "name": "TAIDADA",
+      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 226557,
-      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "\u6e80\u3061\u3066\u3086\u304f",
         "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 310997,
       "name": "\u6e80\u3061\u3066\u3086\u304f",
       "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 226557,
+      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "\u6669\u9910\u6b4c",
-        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "\u6669\u9910\u6b4c",
-      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "UNDEAD",
         "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 182702,
       "name": "UNDEAD",
       "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -867,26 +867,6 @@
       "duration_ms": 188702,
       "name": "HOWLING",
       "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
-        "name": "Falling (feat. Taka)",
-        "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        },
-        {
-          "name": "Taka",
-          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
-        }
-      ],
-      "duration_ms": 178832,
-      "name": "Falling (feat. Taka)",
-      "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -943,6 +923,26 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "Falling (feat. Taka)",
+        "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+        }
+      ],
+      "duration_ms": 178832,
+      "name": "Falling (feat. Taka)",
+      "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "Episode X",
-        "url": "https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39"
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 202962,
-      "name": "Episode X",
-      "url": "https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9"
+      "duration_ms": 211333,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "Eureka",
-        "url": "https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Eureka",
-      "url": "https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c",
         "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 184893,
       "name": "\u6b8b\u97ff\u6563\u6b4c",
       "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "Episode X",
+        "url": "https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Episode X",
+      "url": "https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "doppelg\u00e4nger",
         "url": "https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 167038,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
+        "name": "Puppets Can't Control You",
+        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "hope",
-        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 200219,
-      "name": "\u604b\u4eba\u3054\u3063\u3053",
-      "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "Feelin\u2019 Go(o)d",
         "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "Puppets Can't Control You",
-        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
+        "name": "hope",
+        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Puppets Can\u2019t Control You",
-      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
+      "duration_ms": 200219,
+      "name": "\u604b\u4eba\u3054\u3063\u3053",
+      "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
     },
     {
       "added_at": "2025-02-07 00:46:33",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-07 00:46:33",
       "album": {
-        "name": "AlwayS",
-        "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
-      },
-      "artists": [
-        {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "AlwayS",
-      "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
-    },
-    {
-      "added_at": "2025-02-07 00:46:33",
-      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2025-02-07 00:46:33",
+      "album": {
+        "name": "AlwayS",
+        "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "AlwayS",
+      "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

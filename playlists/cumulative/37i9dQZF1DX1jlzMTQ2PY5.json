@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 270100,
       "name": "Bloomsbury",
       "url": "https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG"
@@ -610,6 +610,28 @@
       "duration_ms": 243448,
       "name": "Bold Courage",
       "url": "https://open.spotify.com/track/4GI3rZ9kWxD1h38r9cRz5l"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/7aTRgVt1lQHLmiglouFGKD"
+      },
+      "artists": [
+        {
+          "name": "Subsets",
+          "url": "https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb"
+        },
+        {
+          "name": "cluda",
+          "url": "https://open.spotify.com/artist/2DFhBkg0nVtUcB4ARPpuXh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5yrtlFT7alypdHwBCANUEk"
     },
     {
       "album": {
@@ -946,6 +968,32 @@
       "duration_ms": 276000,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rain",
+        "url": "https://open.spotify.com/album/5yJE0Yewj6aXIwPDNdIynI"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184743,
+      "name": "Diamonds in the Rain",
+      "url": "https://open.spotify.com/track/1vm33nK7OwhEZqZR8QH7ZJ"
     },
     {
       "album": {
@@ -2033,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/35zoCym4qMXx7AMpxyKIVF"
+      },
+      "artists": [
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "Lauren Archer",
+          "url": "https://open.spotify.com/artist/60eP63VHzhSTct4JHbq8J5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/01GrjAucVKqnh3xdu3ug0Q"
+    },
+    {
+      "album": {
         "name": "I'll Come Back to You",
         "url": "https://open.spotify.com/album/3VkRY63RXbeThFeLFA8T48"
       },
@@ -2364,7 +2434,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 249975,
       "name": "Love Me, Haunt Me",
       "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
@@ -2721,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "Only Dreamers",
+        "url": "https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz"
+      },
+      "artists": [
+        {
+          "name": "Technimatic",
+          "url": "https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316500,
+      "name": "Only Dreamers",
+      "url": "https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8"
       },
@@ -3013,6 +3105,28 @@
     },
     {
       "album": {
+        "name": "Risk It All (feat. Maverick Sabre)",
+        "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Risk It All (feat. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5sYeaz2cL2foyk1BZHZatN"
       },
@@ -3024,7 +3138,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 165000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5UsC03R78fq3ITabv1CYse"
@@ -3804,7 +3918,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 168275,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB"

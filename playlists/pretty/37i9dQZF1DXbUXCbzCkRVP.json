@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 60882,
+  "num_followers": 60918,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 259846,
-      "name": "Part Time Blues",
-      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 326173,
       "name": "Really",
       "url": "https://open.spotify.com/track/2gkEufrsoGisa7p4rh6K22"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 259846,
+      "name": "Part Time Blues",
+      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 173013,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 276933,
       "name": "Screamin'",
       "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "Room To Move 1969 - 1974",
+        "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
+      },
+      "artists": [
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "Boogie Albert",
+      "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 245933,
       "name": "Thank You Mr. Poobah",
       "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "Room To Move 1969 - 1974",
-        "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
-      },
-      "artists": [
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        }
-      ],
-      "duration_ms": 133533,
-      "name": "Boogie Albert",
-      "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
-      },
-      "artists": [
-        {
-          "name": "Curtis Baker & The Bravehearts",
-          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Spread The Love",
         "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 191520,
       "name": "Blues For Bill",
       "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
+      },
+      "artists": [
+        {
+          "name": "Curtis Baker & The Bravehearts",
+          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
+        }
+      ],
+      "duration_ms": 187582,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Southern Blues Vol.4",
-        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
-      },
-      "artists": [
-        {
-          "name": "Big Bill Broonzy",
-          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Guitar Shuffle",
-      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Saga Blues: Chicago Slide Guitar Masters \"From Tampa Red to Elmore James\"",
         "url": "https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 139386,
       "name": "Hawaiian Boogie",
       "url": "https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Southern Blues Vol.4",
+        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Broonzy",
+          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Guitar Shuffle",
+      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
     },
     {
       "added_at": "2024-05-29 07:23:14",

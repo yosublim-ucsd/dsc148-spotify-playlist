@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Juno, Holy Molly ",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Mario",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 156253,
       "name": "Dudadu",
       "url": "https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 203200,
       "name": "Forever 18",
       "url": "https://open.spotify.com/track/3klHXW9tj8nuQY0LwaiMy4"
@@ -1430,6 +1430,24 @@
       "duration_ms": 184159,
       "name": "Iart\u0103-m\u0103",
       "url": "https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0"
+    },
+    {
+      "album": {
+        "name": "Idem",
+        "url": "https://open.spotify.com/album/3lbfx2amTttahpDOlfPGPg"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190743,
+      "name": "Idem",
+      "url": "https://open.spotify.com/track/63LTZSnj3GdCVg8Am43CPF"
     },
     {
       "album": {
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 166799,
       "name": "L\u00c2NG\u0102 TINE E FAIN",
       "url": "https://open.spotify.com/track/4mNnUpzpOMqBdnew4wbB9x"
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196320,
       "name": "S\u0103 m\u0103 iube\u0219ti",
       "url": "https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4"
@@ -3000,6 +3018,24 @@
       "duration_ms": 141882,
       "name": "S\u0103 m\u0103 las",
       "url": "https://open.spotify.com/track/1tH9L6HTHBgo6zJHY2TS2Q"
+    },
+    {
+      "album": {
+        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
     },
     {
       "album": {
@@ -3399,6 +3435,28 @@
     },
     {
       "album": {
+        "name": "\u00cemi place ploaia",
+        "url": "https://open.spotify.com/album/2rAuIRyMQqYxtFdqprvICV"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        },
+        {
+          "name": "RANDI",
+          "url": "https://open.spotify.com/artist/4X8ZQYIamykCGOZhbRtv2r"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209782,
+      "name": "\u00cemi place ploaia",
+      "url": "https://open.spotify.com/track/3zlJIBfHmFMjvT8TtGf1BW"
+    },
+    {
+      "album": {
         "name": "\u00cenapoi",
         "url": "https://open.spotify.com/album/6YmXmt0LGkF4zedlEdvJEK"
       },
@@ -3454,6 +3512,24 @@
       "duration_ms": 127272,
       "name": "\u00centre noi nu e gata",
       "url": "https://open.spotify.com/track/632eYdJlwLj2FJdTaQ90Gm"
+    },
+    {
+      "album": {
+        "name": "C\u00e2ntece de Inim\u0103, Vol. 2",
+        "url": "https://open.spotify.com/album/04Q1Z1d50KJxrTTpZdkLTI"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157302,
+      "name": "\u0218i dac\u0103 vine iar\u0103\u0219i seara",
+      "url": "https://open.spotify.com/track/1ipeEGgjlF3ZRwdZdNfxZH"
     },
     {
       "album": {

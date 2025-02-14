@@ -2,9 +2,9 @@
 
 ### [GLOW Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4nZ1fSGL8lu414cuxphyhT">Stysio</a>
+> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5AJmpeCmtxFKcNY6bjotWd">Rejsel</a>
 
-304 songs - 16 hr 58 min
+305 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 | 2023-06-01 | 2024-06-11 |
 | [moonlight story](https://open.spotify.com/track/4qwjiLoQ08r4IjuwyAekMI) | [Kuba Kluza](https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa) | [moonlight story](https://open.spotify.com/album/2UGt5ikJVJLkKO3jiBDXyu) | 3:25 | 2024-05-06 |  |
 | [Mosty](https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [IV!II](https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4) | 3:14 | 2024-10-07 |  |
-| [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 | 2025-02-10 |  |
+| [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 | 2025-02-10 | 2025-02-14 |
+| [MVP](https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Born Like That](https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE) | 2:33 | 2025-02-13 |  |
 | [My Wave](https://open.spotify.com/track/162A5Vk27IRAx3UL0M5tHp) | [Max Skiba](https://open.spotify.com/artist/38FJw3FjQ8Ti4gHWbHvWbd) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:48 | 2024-06-10 | 2024-06-14 |
 | [NAJGORSZE RZECZY](https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 4:34 | 2021-06-22 | 2022-06-01 |
 | [nawet nie wiesz](https://open.spotify.com/track/6RFJkpq8vl9rDGhNEWMaoD) | [color blue](https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd) | [nie powód do płaczu](https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE) | 3:19 | 2024-12-04 | 2025-01-14 |
@@ -178,7 +179,7 @@
 | [No Gods \- Eurovision Edit](https://open.spotify.com/track/37kj7pOujjVjSLDGDneboT) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb), [Amba Fatima](https://open.spotify.com/artist/12ivTmFWs3JKtKOGxdSszN), [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [No Gods \(Eurovision Edit\)](https://open.spotify.com/album/5TtLz7NF9qhrJe75U6jye9) | 2:59 | 2025-02-10 |  |
 | [Nowhere to Go](https://open.spotify.com/track/6tjgcuQ0GVd8woWQHDBp5I) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Nowhere to Go](https://open.spotify.com/album/7oXpWQGXkMc2rG9NwiXzZX) | 2:56 | 2024-01-08 | 2025-01-14 |
 | [Obok mnie \- Radio edit](https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Obok mnie \(Radio edit\)](https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO) | 2:42 | 2022-07-22 | 2023-07-11 |
-| [Ocal mnie](https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Ocal mnie](https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW) | 2:29 | 2024-08-20 | 2024-12-05 |
+| [Ocal mnie](https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Ocal mnie](https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW) | 2:29 | 2024-08-20 |  |
 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 | 2023-06-23 |  |
 | [Oddalamy się od siebie](https://open.spotify.com/track/3YqJi5lBb3xg3ctnx1kHnO) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Oddalamy się od siebie](https://open.spotify.com/album/5xtNNb9YV6spu5WlxzqDV0) | 3:28 | 2021-06-22 | 2022-06-01 |
 | [Odyssey](https://open.spotify.com/track/1cXXOOB6nyVcpdimVPhyG4) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:33 | 2024-12-04 | 2025-01-14 |
@@ -186,7 +187,7 @@
 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 | 2022-06-01 | 2024-06-21 |
 | [Once or Twice](https://open.spotify.com/track/4LThfO3v9lOyfgxhDz0Nz0) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Once or Twice](https://open.spotify.com/album/3jw76MTX5cY9nJGWfzmEde) | 3:14 | 2024-02-12 | 2025-01-14 |
 | [Oprawieni Idole](https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Oprawieni Idole](https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN) | 3:59 | 2024-07-08 |  |
-| [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 | 2025-02-11 |
+| [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 |  |
 | [Ostatnia piosenka o tobie](https://open.spotify.com/track/4AKCYZw3cILC41qQmm8LiR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Ostatnia piosenka o tobie](https://open.spotify.com/album/45qbG2EnDCUWNJ3Greaowm) | 4:09 | 2021-06-22 | 2022-06-01 |
 | [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 | 2024-01-08 |  |
 | [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 | 2024-09-09 |  |
@@ -213,7 +214,7 @@
 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 | 2022-06-01 |  |
 | [Poranki są do dupy](https://open.spotify.com/track/6oLxMtabyKBVpeItMBPSND) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Poranki są do dupy](https://open.spotify.com/album/3TecZo5L4k0SYXuHGlqYvD) | 2:35 | 2023-03-10 | 2023-06-24 |
 | [powiedz, że to blef](https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [powiedz, że to blef](https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7) | 2:33 | 2023-03-10 | 2023-06-24 |
-| [Prawda](https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [OKO](https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab) | 3:31 | 2024-03-11 |  |
+| [Prawda](https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [OKO](https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab) | 3:31 | 2024-03-11 | 2025-02-14 |
 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 | 2023-01-24 | 2024-12-05 |
 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 | 2022-06-01 | 2023-01-25 |
 | [Priorytety](https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Priorytety](https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO) | 4:27 | 2024-06-17 |  |
@@ -273,7 +274,7 @@
 | [To nie tak miało pójść](https://open.spotify.com/track/2Oc9oU96I7xsL5xsyB5aJw) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:21 | 2024-12-04 | 2025-01-14 |
 | [TUŻ PRZED PÓŁNOCĄ](https://open.spotify.com/track/3QsWorTM8pMtw6ti7Mb35s) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd), [KRÓL](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 3:54 | 2021-06-22 | 2022-06-01 |
 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 | 2022-06-24 | 2024-07-09 |
-| [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-10 |  |
+| [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-10 | 2025-02-14 |
 | [usa](https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [usa](https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp) | 2:09 | 2024-06-10 |  |
 | [VHS Cassette](https://open.spotify.com/track/5YGyXtmEy5IGFgPts5BEtE) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl) | [VHS Cassette](https://open.spotify.com/album/6yKHf83RrCDa2NgyPcFZiG) | 3:28 | 2021-06-22 | 2022-06-01 |
 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 | 2022-06-01 | 2024-03-12 |

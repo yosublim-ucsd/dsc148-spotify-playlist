@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: BabyChiefDoIt
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122,706 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122,821 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 28 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 |
 | 29 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 |
 | 30 | [The Method](https://open.spotify.com/track/34d0q4ltS3Lx6JAEHHKPRn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [The Method](https://open.spotify.com/album/6mVBWkURIWDKP1wUEjzsM3) | 2:29 |
-| 31 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
+| 31 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Az Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
 | 32 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 33 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 34 | [40 Mo' Reasons](https://open.spotify.com/track/61siK7W8gG1ixD974Ethya) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [40 Mo' Reasons](https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK) | 3:22 |

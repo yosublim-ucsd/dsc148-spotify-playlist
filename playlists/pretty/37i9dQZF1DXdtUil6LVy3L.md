@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,507 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,504 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 24 | [With White Snow](https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [With White Snow](https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz) | 2:49 |
 | 25 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 |
 | 26 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
-| 27 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
-| 28 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
+| 27 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
+| 28 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 | 29 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
 | 30 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 |
 | 31 | [Silent Night](https://open.spotify.com/track/2QRzVMpP0v8RqmHctJ6yCH) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI) | 2:54 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 47 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ) | 3:00 |
 | 48 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
 | 49 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
-| 50 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
-| 51 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
+| 50 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
+| 51 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 52 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 53 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 54 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |

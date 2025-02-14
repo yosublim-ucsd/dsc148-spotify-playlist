@@ -1145,6 +1145,32 @@
     },
     {
       "album": {
+        "name": "Ikk Vaari (From \"Mere Husband Ki Biwi\")",
+        "url": "https://open.spotify.com/album/3ALOWPBYSu4spWGo8nWQh2"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Mudassar Aziz",
+          "url": "https://open.spotify.com/artist/7h2iyGbQUPE8V8tATDSOAM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Ikk Vaari - From \"Mere Husband Ki Biwi\"",
+      "url": "https://open.spotify.com/track/2L2KCobOPHPj0gKU0NFUmL"
+    },
+    {
+      "album": {
         "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
       },
@@ -1734,7 +1760,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 228469,
       "name": "Nagada Nagada",
       "url": "https://open.spotify.com/track/2W6bC4K4e6y42HnYTA5yHO"

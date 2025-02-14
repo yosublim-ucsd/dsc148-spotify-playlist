@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 240640,
       "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
       "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231120,
       "name": "I'll talk to you (The Moon during the Day X Gummy)",
       "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Webtoon <Myst, Might, Mayhem> OST Part. 1 Red Moon",
+        "url": "https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo"
+    },
+    {
+      "album": {
         "name": "Remember my love (Bunny and Guys X Solji)",
         "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
       },
@@ -3246,6 +3264,24 @@
       "duration_ms": 238920,
       "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
       "url": "https://open.spotify.com/track/63moAzI1vHyDIhYmpF3FIy"
+    },
+    {
+      "album": {
+        "name": "To Be Honest (This is a Campus Romance Series X YERIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "To Be Honest",
+      "url": "https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa"
     },
     {
       "album": {

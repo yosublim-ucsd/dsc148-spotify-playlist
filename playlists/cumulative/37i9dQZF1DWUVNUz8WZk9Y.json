@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266741,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C"
+    },
+    {
+      "album": {
         "name": "THE GIFT",
         "url": "https://open.spotify.com/album/423LWA7PU0o0Lke9vTFLxk"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 69736,
       "name": "Vaundy\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/0bIHNKKcBoemVj8iXw14xd"

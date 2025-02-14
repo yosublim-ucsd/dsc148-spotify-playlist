@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,846 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,864 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 17 | [\(Every Time I Hear\) That Mellow Saxophone](https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy) | [Roy Montrell](https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq) | [Mardi Gras Blues](https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak) | 2:27 |
 | 18 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
 | 19 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
-| 20 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
-| 21 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 20 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 21 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
 | 22 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
 | 23 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
 | 24 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |

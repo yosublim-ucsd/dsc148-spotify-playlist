@@ -10650,7 +10650,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -15242,6 +15242,24 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/1tAel8DQVmWxLwXsg6tEhk"
+      },
+      "artists": [
+        {
+          "name": "La Mega Orquesta Del Don Equis",
+          "url": "https://open.spotify.com/artist/5LdwbDYKGeNh0u8nvaYb4t"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/42b0KMmRgqmJz7kgYWfekW"
     },
     {
       "album": {

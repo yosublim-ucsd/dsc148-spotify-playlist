@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-183 songs - 11 hr 2 min
+184 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2022-08-19 |  |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2022-08-19 |  |
 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 | 2024-08-23 |  |
-| [Disritmia / Ex\-Amor](https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Disritmia / Ex\-Amor](https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j) | 4:59 | 2025-02-07 |  |
+| [Disritmia / Ex\-Amor](https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Disritmia / Ex\-Amor](https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j) | 4:59 | 2025-02-07 | 2025-02-14 |
 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 | 2022-10-14 | 2024-04-19 |
 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 | 2022-08-19 | 2022-10-15 |
 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 | 2022-08-19 |  |
 | [dona da minha cabeça](https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [DO MEU QUARTO](https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9) | 2:03 | 2024-12-06 | 2025-01-11 |
+| [Ensacado](https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Ensacado](https://open.spotify.com/album/2KQLD2oGnUJhwKiDep6SIE) | 2:59 | 2025-02-07 |  |
 | [Estrela](https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Estrela](https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI) | 4:06 | 2024-09-27 | 2024-10-05 |
 | [Estrela do Oriente](https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Theodoro](https://open.spotify.com/album/0na2aMw9qRuBhwTanorbNQ) | 2:28 | 2024-03-18 | 2024-03-22 |
 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 | 2022-08-19 | 2024-04-19 |

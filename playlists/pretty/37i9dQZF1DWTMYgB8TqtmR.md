@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,089 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,074 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bullerbyn är död](https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bullerbyn är död](https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq) | 2:37 |
-| 2 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 3 | [Hush Hush](https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Hush Hush](https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN) | 2:53 |
-| 4 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 1 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 2 | [Bullerbyn är död](https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bullerbyn är död](https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq) | 2:37 |
+| 3 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
+| 4 | [Hush Hush](https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Hush Hush](https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN) | 2:53 |
 | 5 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 |
 | 6 | [Skriker mitt namn](https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Skriker mitt namn](https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr) | 3:01 |
 | 7 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 50 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 
-Snapshot ID: `Z6twjAAAAABVipxE9kbAu4XGa95M1aAN`
+Snapshot ID: `Z655gAAAAAB6A2EEA5+1Vy08fZBS7GrU`

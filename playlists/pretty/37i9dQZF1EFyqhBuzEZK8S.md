@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 328 songs - 20 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 328 songs - 20 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,8 +261,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 251 | [Harsh Light](https://open.spotify.com/track/1y0uuh9sBYKvo9nRneVNJs) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 4:50 |
 | 252 | [Bullet](https://open.spotify.com/track/1lmCfK7YeWDkjMozM6IIWx) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 4:08 |
 | 253 | [Born To Bleed](https://open.spotify.com/track/7ngo27B7z2ls2j2SijzR6h) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:15 |
-| 254 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
-| 255 | [Self Respect](https://open.spotify.com/track/2fx9HMH9RpJT5ryBO8Xgbd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 4:14 |
+| 254 | [Self Respect](https://open.spotify.com/track/2fx9HMH9RpJT5ryBO8Xgbd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 4:14 |
+| 255 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
 | 256 | […At The Holiday Party](https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
 | 257 | [Strange Behavior](https://open.spotify.com/track/6beGj0daOi7LDVSRm4bPFW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:05 |
 | 258 | [The Laughing Man](https://open.spotify.com/track/2eOVDsD7xN6EsPpsELY8XE) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:25 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 327 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 328 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AbpbNAAAAAAZZRBIyO66Q3IG7yNR8Tjj`
+Snapshot ID: `Abpg8gAAAACfuWmXdIbq9fW3rskJyRXO`

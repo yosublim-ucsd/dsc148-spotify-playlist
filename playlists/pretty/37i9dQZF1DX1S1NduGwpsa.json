@@ -1,58 +1,34 @@
 {
-  "description": "The best jazz new releases. Cover: Jeff Goldblum\n\n",
-  "num_followers": 149898,
+  "description": "The best jazz new releases. Cover: Lila-May\n",
+  "num_followers": 149924,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/DQAAAADnKvCiGwvRrvGXlVUL2VyG",
+  "snapshot_id": "Z655hgAAAAAR2inrNWIK8ipB+y/oiiJ1",
   "tracks": [
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "The Best Is Yet To Come",
-        "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
+        "name": "History Repeating",
+        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Scarlett Johansson",
-          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+          "name": "Lila-May",
+          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
         }
       ],
-      "duration_ms": 271840,
-      "name": "The Best Is Yet To Come",
-      "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+      "duration_ms": 178298,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        },
-        {
-          "name": "M\u00e9lanie Ch\u00e9deville",
-          "url": "https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3"
-        }
-      ],
-      "duration_ms": 217668,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Leleuland",
-        "url": "https://open.spotify.com/album/3njEbwpCylkJ2J5PoAWXk6"
+        "name": "Stories #2",
+        "url": "https://open.spotify.com/album/2BbyKf7DN6kQDFbsmVZ9Zk"
       },
       "artists": [
         {
@@ -60,28 +36,52 @@
           "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Leleuland",
-      "url": "https://open.spotify.com/track/0L3fXroETBMivP3rkPFWJ6"
+      "duration_ms": 233293,
+      "name": "Stories #2",
+      "url": "https://open.spotify.com/track/6fZr24BqGaDmu6zexgE6N4"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "Buono Time",
-        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
+        "name": "Nougayork Remixes (feat. Marquis Hill)",
+        "url": "https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Buono Time",
-      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
+      "duration_ms": 264330,
+      "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
+      "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "BelleJazzClub (Vol. 1)",
+        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        }
+      ],
+      "duration_ms": 225109,
+      "name": "Les Enfants",
+      "url": "https://open.spotify.com/track/6i5jnIiTrQreU1WPH0IsJz"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Jeux de chats au jardin",
+        "url": "https://open.spotify.com/album/1dJGDHwcSarb6FAzI4gPSm"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 164451,
+      "name": "Jeux de chats au jardin",
+      "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "TAKE 01",
         "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
@@ -121,27 +137,23 @@
       "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "When The Magic Happens (Derri\u00e8re le soleil)",
-        "url": "https://open.spotify.com/album/68T3YhVXO8gzbVz2gW9gwy"
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
       "artists": [
         {
-          "name": "Adrien Soleiman",
-          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
-        },
-        {
-          "name": "Halo Maud",
-          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 260864,
-      "name": "When The Magic Happens - Derri\u00e8re le soleil",
-      "url": "https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX"
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "EDEN BEACH CLUB (Edition Deluxe)",
         "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
@@ -161,95 +173,31 @@
       "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "Sacred Conversations",
-        "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
+        "name": "Music for Roads",
+        "url": "https://open.spotify.com/album/3LkNzhTvYjDCiDe1ikhAn6"
       },
       "artists": [
         {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
-        }
-      ],
-      "duration_ms": 253320,
-      "name": "Sacred Conversations",
-      "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "PHENOMENAL WOMEN",
-        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
-      },
-      "artists": [
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "You Love Her",
-      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Apollo Solar Drive",
-        "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
-      },
-      "artists": [
-        {
-          "name": "Setenta",
-          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+          "name": "Tuomo & Markus",
+          "url": "https://open.spotify.com/artist/5Ab1JRVcEcWR0VqwID9IO5"
         },
         {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Apollo Solar Drive",
-      "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Into My World",
-        "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Into My World",
-      "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
         },
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
         }
       ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+      "duration_ms": 341459,
+      "name": "Appalachian Landscape",
+      "url": "https://open.spotify.com/track/64XhMVvHIOMM6QQljekrv8"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
@@ -273,23 +221,131 @@
       "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
-        "name": "Dark Moon",
-        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+        "name": "Sacred Conversations",
+        "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
         }
       ],
-      "duration_ms": 225440,
-      "name": "Kiss Me Quick",
-      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
+      "duration_ms": 253320,
+      "name": "Sacred Conversations",
+      "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "PHENOMENAL WOMEN",
+        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "You Love Her",
+      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        },
+        {
+          "name": "M\u00e9lanie Ch\u00e9deville",
+          "url": "https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3"
+        }
+      ],
+      "duration_ms": 217668,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Buono Time",
+        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Buono Time",
+      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Into My World",
+        "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Into My World",
+      "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Monkey System",
         "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
@@ -309,7 +365,79 @@
       "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Leleuland",
+        "url": "https://open.spotify.com/album/3njEbwpCylkJ2J5PoAWXk6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Leleu",
+          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Leleuland",
+      "url": "https://open.spotify.com/track/0L3fXroETBMivP3rkPFWJ6"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Apollo Solar Drive",
+        "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
+      },
+      "artists": [
+        {
+          "name": "Setenta",
+          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+        },
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Apollo Solar Drive",
+      "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "When The Magic Happens (Derri\u00e8re le soleil)",
+        "url": "https://open.spotify.com/album/68T3YhVXO8gzbVz2gW9gwy"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        },
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 260864,
+      "name": "When The Magic Happens - Derri\u00e8re le soleil",
+      "url": "https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Suppose It Is Butter",
+        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
+      },
+      "artists": [
+        {
+          "name": "Julien Da\u00efan",
+          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
+        }
+      ],
+      "duration_ms": 388973,
+      "name": "Lunar Glow in the Lagoon",
+      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "MD Blues",
         "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
@@ -337,63 +465,7 @@
       "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Nougayork Remixes (feat. Marquis Hill)",
-        "url": "https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
-        },
-        {
-          "name": "Philippe Saisse",
-          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
-        },
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        }
-      ],
-      "duration_ms": 264330,
-      "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
-      "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "History Repeating",
-        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
-      },
-      "artists": [
-        {
-          "name": "Lila-May",
-          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
-        }
-      ],
-      "duration_ms": 178298,
-      "name": "History Repeating",
-      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
@@ -409,7 +481,23 @@
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
+      "album": {
+        "name": "Dark Moon",
+        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Kiss Me Quick",
+      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
+    },
+    {
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Stairway to the Stars",
         "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
@@ -425,23 +513,7 @@
       "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "BelleJazzClub (Vol. 1)",
-        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
-      },
-      "artists": [
-        {
-          "name": "Adrien Soleiman",
-          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
-        }
-      ],
-      "duration_ms": 225109,
-      "name": "Les Enfants",
-      "url": "https://open.spotify.com/track/6i5jnIiTrQreU1WPH0IsJz"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
         "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
@@ -465,7 +537,7 @@
       "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Bahia Sketches",
         "url": "https://open.spotify.com/album/4Wgkz13aBCDcwm97nZnX7m"
@@ -485,23 +557,7 @@
       "url": "https://open.spotify.com/track/43KtJ5VNWKjF0t3a9iDFc4"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Suppose It Is Butter",
-        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
-      },
-      "artists": [
-        {
-          "name": "Julien Da\u00efan",
-          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
-        }
-      ],
-      "duration_ms": 388973,
-      "name": "Lunar Glow in the Lagoon",
-      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/3FgAH2Ankwjn2nLR6V4pLM"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/34UzZAPMMKvGcztewCXhl9"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Together Tomorrow",
         "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
@@ -541,7 +597,7 @@
       "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Old Devil Moon",
         "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
@@ -557,7 +613,7 @@
       "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
@@ -577,7 +633,7 @@
       "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
         "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Ellington (Live)",
         "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Survoler La Lune",
         "url": "https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Throw it Away",
         "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Cantilene",
         "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
@@ -669,7 +725,7 @@
       "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "We Have All The Time In The World (Cam Blackwood & Swindle Version)",
         "url": "https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp"
@@ -693,7 +749,7 @@
       "url": "https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "This Can\u2019t Be Love",
         "url": "https://open.spotify.com/album/4xgokFaDIEPv71Wq8D36u7"
@@ -709,7 +765,7 @@
       "url": "https://open.spotify.com/track/31PxuAfVsbmjLX91uSqg8B"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Take a Swing at the Moon",
         "url": "https://open.spotify.com/album/392qm56rxCG07cPz6ckeuu"
@@ -741,7 +797,7 @@
       "url": "https://open.spotify.com/track/2PSF8wNtas91APVz6ZrksM"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2RSTkYMSBXeHi5v7kTO0Qp"
@@ -773,7 +829,7 @@
       "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Cry Me a River",
         "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
@@ -789,7 +845,7 @@
       "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Shapes and Sounds",
         "url": "https://open.spotify.com/album/1LYqHyLto8emK3bgu78fif"
@@ -813,7 +869,7 @@
       "url": "https://open.spotify.com/track/42PDeav8OU2VeArOyYqlN1"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/6RGwaZntDOG1Gpbgj3sDng"
@@ -849,7 +905,7 @@
       "url": "https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Little Big III",
         "url": "https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1"
@@ -865,7 +921,7 @@
       "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Poinciana",
         "url": "https://open.spotify.com/album/0mVukMdlHOTcgM2kGse25o"
@@ -897,7 +953,7 @@
       "url": "https://open.spotify.com/track/1iWYa5WRA7JNng13cWiMhP"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "Surprise !",
         "url": "https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT"
@@ -921,7 +977,7 @@
       "url": "https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt"
     },
     {
-      "added_at": "2025-02-06 23:00:29",
+      "added_at": "2025-02-13 23:00:22",
       "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
@@ -939,54 +995,6 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "L'Odyss\u00e9e de Paul Lay",
-        "url": "https://open.spotify.com/album/06LYAgvG8QiGoUAcMUbP62"
-      },
-      "artists": [
-        {
-          "name": "Paul Lay",
-          "url": "https://open.spotify.com/artist/6hIQVG8TxY0XpPqtRa6NHR"
-        }
-      ],
-      "duration_ms": 245138,
-      "name": "Argos l'Agile",
-      "url": "https://open.spotify.com/track/6YA1CAxpNkhujkByiCQFyf"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Black Seeds",
-        "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Sanz",
-          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
-        }
-      ],
-      "duration_ms": 234680,
-      "name": "Sea",
-      "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
-    },
-    {
-      "added_at": "2025-02-06 23:00:29",
-      "album": {
-        "name": "Let It Unfold",
-        "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/2OiXDa9qGgRqGW0BeDsvO4"
     }
   ],
   "unique_name": "Jazz Club",

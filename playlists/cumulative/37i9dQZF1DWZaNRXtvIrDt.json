@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 359469,
       "name": "Another (Cut Copy high on e-bow mix)",
       "url": "https://open.spotify.com/track/6pYlK9M4GxAgFrXUesGoAM"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6i9Y0A1R8vqsmo3aET7ARf"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 236434,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 215328,
       "name": "bunnyhop",
       "url": "https://open.spotify.com/track/2gGZjYQzGmen0tI6By1MpP"
@@ -2886,6 +2886,24 @@
       "duration_ms": 272108,
       "name": "Burn It",
       "url": "https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx"
+    },
+    {
+      "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/5DR2QPx2Kyg0VJD3iweeJu"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264984,
+      "name": "Burn It - RONA. Ware Rework",
+      "url": "https://open.spotify.com/track/3neOJy2yv6175WoUgK1clY"
     },
     {
       "album": {
@@ -3024,6 +3042,24 @@
       "duration_ms": 239639,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
+    },
+    {
+      "album": {
+        "name": "Can't Stand To Lose",
+        "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292620,
+      "name": "Can't Stand To Lose",
+      "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
     },
     {
       "album": {
@@ -3784,6 +3820,28 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "False Persona",
+          "url": "https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269267,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY"
     },
     {
       "album": {
@@ -6415,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "fused (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/2KHNxTmgqFo6Fn5Jvfib7R"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "fused (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/07F3akBPO1FjKJMwDXKf8r"
+    },
+    {
+      "album": {
         "name": "FWU (Remixes)",
         "url": "https://open.spotify.com/album/7hHkw8xeYoh6w5XDblCGKF"
       },
@@ -8781,6 +8857,24 @@
     },
     {
       "album": {
+        "name": "Lampak",
+        "url": "https://open.spotify.com/album/3nGXkRKR0tKbvrbkIRGkCG"
+      },
+      "artists": [
+        {
+          "name": "Concussion",
+          "url": "https://open.spotify.com/artist/4vPHMjZo6Abx78Qz7n1hbv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319825,
+      "name": "Lampak",
+      "url": "https://open.spotify.com/track/6rFKkjwOS7hTSQv57bSgo2"
+    },
+    {
+      "album": {
         "name": "Lava Shake",
         "url": "https://open.spotify.com/album/0svKzPjGpnoZwtcrMuf8US"
       },
@@ -9406,7 +9500,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231666,
       "name": "Loose Fit - Greg Wilson and Ch\u00e9 Wilson Edit",
       "url": "https://open.spotify.com/track/6jHiLfCxNEZqM6BE95gL4p"
@@ -11455,6 +11549,28 @@
     },
     {
       "album": {
+        "name": "Come Round",
+        "url": "https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W"
+      },
+      "artists": [
+        {
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        },
+        {
+          "name": "Yikes",
+          "url": "https://open.spotify.com/artist/18IoM4TIRE1Eaqi0SjlF4w"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363729,
+      "name": "Ouss Ouss",
+      "url": "https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X"
+    },
+    {
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/7x1guxTUVOmP8zpDBktlZg"
       },
@@ -11670,7 +11786,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 315953,
       "name": "Passing Through Fyah",
       "url": "https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn"
@@ -11700,6 +11816,24 @@
       "duration_ms": 313004,
       "name": "Passive Massive",
       "url": "https://open.spotify.com/track/41RPOiLfwmjy5WCATqFRrq"
+    },
+    {
+      "album": {
+        "name": "Perpetual Booty Grooves Vol.1",
+        "url": "https://open.spotify.com/album/5knCj7TFqzAWO0LmCRWo1w"
+      },
+      "artists": [
+        {
+          "name": "Eric Cloutier",
+          "url": "https://open.spotify.com/artist/3f4eo0hX1eJqaxAAuAEMAt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355754,
+      "name": "PBG001",
+      "url": "https://open.spotify.com/track/6icdVp8XIwRXjjqwPXCic9"
     },
     {
       "album": {
@@ -11972,7 +12106,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 218666,
       "name": "Plot Twist - Edit",
       "url": "https://open.spotify.com/track/0I48OElZW89XwA45tYtoYf"
@@ -12410,7 +12544,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 376346,
       "name": "Raving Lunatic",
       "url": "https://open.spotify.com/track/6BKdI34pLES1vjKmX9qpww"
@@ -12553,6 +12687,24 @@
     },
     {
       "album": {
+        "name": "Basics EP",
+        "url": "https://open.spotify.com/album/0mfYPL3HTAIRYZAqjB1eLw"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374468,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/6r1wW4fk2KowTkSgKZH7Vv"
+    },
+    {
+      "album": {
         "name": "Reflector",
         "url": "https://open.spotify.com/album/7gO5NLvy6yH1twMkKZc3rd"
       },
@@ -12568,7 +12720,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 280568,
       "name": "Reflector",
       "url": "https://open.spotify.com/track/4SAQxw91FoFZiRujoYcuRU"
@@ -14418,7 +14570,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 206865,
       "name": "Sthlm In My <3",
       "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
@@ -14466,6 +14618,28 @@
       "duration_ms": 219152,
       "name": "Still Riding",
       "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ"
     },
     {
       "album": {
@@ -14942,7 +15116,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 298292,
       "name": "Sunset With You",
       "url": "https://open.spotify.com/track/17E8GBhE2zPF38TNts7GxL"
@@ -15234,7 +15408,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 203493,
       "name": "Techno Shinkansen",
       "url": "https://open.spotify.com/track/3CpTPBDnJckCkLM2gJusZf"
@@ -15848,7 +16022,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
@@ -15870,6 +16044,24 @@
       "duration_ms": 234857,
       "name": "this time i don't think i can",
       "url": "https://open.spotify.com/track/2PTAzTzFwsxqMcL7T0UB40"
+    },
+    {
+      "album": {
+        "name": "Mo' Future EP",
+        "url": "https://open.spotify.com/album/395dCid21MpXl3M8THO7QN"
+      },
+      "artists": [
+        {
+          "name": "Gunjack",
+          "url": "https://open.spotify.com/artist/2MvSxzsKTTExXrAzTvMuvB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287062,
+      "name": "Thorax",
+      "url": "https://open.spotify.com/track/27JUYrJMe7YqxCrZwoO9Ou"
     },
     {
       "album": {
@@ -16026,7 +16218,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 126092,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/5JYHe2Pd0l3Q16riFPIdUK"
@@ -16533,6 +16725,24 @@
     },
     {
       "album": {
+        "name": "Envenomations",
+        "url": "https://open.spotify.com/album/7vQdUsb2tWTEW2ljI94YC2"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/09CEhdsMmOdtetLfiqxFlh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315380,
+      "name": "Voc-1 Robot",
+      "url": "https://open.spotify.com/track/2jmJ3KL8rK0Rg5wRTi4yv1"
+    },
+    {
+      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -16712,6 +16922,24 @@
       "duration_ms": 261176,
       "name": "Walking",
       "url": "https://open.spotify.com/track/6MRrw5wOvERWJCPUmI2oRg"
+    },
+    {
+      "album": {
+        "name": "Big Beat Manifesto Vol. X",
+        "url": "https://open.spotify.com/album/6ZMs76GAstuzZ74WIto8SU"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457424,
+      "name": "Wand",
+      "url": "https://open.spotify.com/track/5a8qyaQht4O3n6Ou6oGBjC"
     },
     {
       "album": {
@@ -16935,6 +17163,28 @@
     },
     {
       "album": {
+        "name": "Wet Peak Stars",
+        "url": "https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199828,
+      "name": "Wet Peak Stars",
+      "url": "https://open.spotify.com/track/5bZyJlELRUQatrt9SoJP8u"
+    },
+    {
+      "album": {
         "name": "What Else Is There? (True Electric)",
         "url": "https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98"
       },
@@ -17066,6 +17316,24 @@
       "duration_ms": 280110,
       "name": "Whispering",
       "url": "https://open.spotify.com/track/6HdgO8F81kPNjhk9O5ic1F"
+    },
+    {
+      "album": {
+        "name": "Wicked Rhythm EP",
+        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+      },
+      "artists": [
+        {
+          "name": "seKTa",
+          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Wicked Sound",
+      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     },
     {
       "album": {

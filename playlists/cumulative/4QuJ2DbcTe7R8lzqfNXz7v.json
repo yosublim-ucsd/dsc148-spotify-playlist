@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Blame It on Me",
+      "url": "https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -822,7 +840,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
@@ -1527,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
@@ -2289,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219535,
+      "name": "Lay Me Down (feat. John Legend)",
+      "url": "https://open.spotify.com/track/2T3XExryIariqO0fIfXOdw"
+    },
+    {
+      "album": {
         "name": "Camp",
         "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
       },
@@ -2866,7 +2924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 318680,
       "name": "Man in the Mirror - 2012 Remaster",
       "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
@@ -3134,7 +3192,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 202586,
       "name": "Never Seen Anything \"Quite Like You\"",
       "url": "https://open.spotify.com/track/71qNRlNDnPahvATE7Zl4Nw"
@@ -3170,7 +3228,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 253813,
       "name": "No One",
       "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
@@ -3246,7 +3304,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
@@ -4726,7 +4784,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 242320,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0j3IS8wsqAnABrgEETEyQ9"

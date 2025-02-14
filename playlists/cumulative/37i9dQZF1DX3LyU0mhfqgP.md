@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\.  Cover: HUSH
 
-1,419 songs - 3 day 5 hr 2 min
+1,421 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 | 2022-09-09 | 2023-01-25 |
 | [Fishy Pumpi](https://open.spotify.com/track/0JEPqOezFzZuFJdpHyYw9C) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Fishy Pumpi](https://open.spotify.com/album/1hgAKLv0gMTvI0qwmXS9Ro) | 2:19 | 2024-08-13 | 2024-11-13 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-01-21 | 2022-05-17 |
+| [Fleeting Friend](https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Fleeting Friend](https://open.spotify.com/album/0FGrnwHdF1XuHKuer1lbih) | 3:11 | 2025-02-11 |  |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-04-25 | 2023-05-17 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-24 | 2023-04-01 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-11-29 | 2024-01-11 |
@@ -617,7 +618,7 @@
 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 | 2023-08-08 | 2023-09-13 |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-05-06 | 2024-07-10 |
 | [i'm gonna make it](https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [i'm gonna make it](https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG) | 3:17 | 2023-06-09 | 2023-07-12 |
-| [I'm Just a Frog](https://open.spotify.com/track/1o8Si20IJ0HFvZ5IfTfjKY) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [I'm Just a Frog](https://open.spotify.com/album/5IAl9iZQTtfZKZZFUyexb5) | 2:55 | 2025-02-11 |  |
+| [I'm Just a Frog](https://open.spotify.com/track/1o8Si20IJ0HFvZ5IfTfjKY) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [I'm Just a Frog](https://open.spotify.com/album/5IAl9iZQTtfZKZZFUyexb5) | 2:55 | 2025-02-11 | 2025-02-14 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-27 | 2023-02-07 |
 | [I'm Ready](https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [I'm Ready](https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn) | 2:34 | 2025-02-11 |  |
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [My Soft Machine \(Deluxe\)](https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt) | 3:07 | 2024-01-10 | 2024-03-13 |
@@ -1425,7 +1426,8 @@
 | [完美的我們 \- 你的婚姻不是你的婚姻 主題曲](https://open.spotify.com/track/5y28HwYCu1Ag5nKUFAg5fY) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [完美的我們 \(你的婚姻不是你的婚姻 主題曲\)](https://open.spotify.com/album/7pSb0TTx8QU9RFbtK4qOBH) | 3:35 | 2023-01-24 | 2023-03-08 |
 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 | 2024-04-09 | 2024-06-06 |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-04-13 | 2023-05-10 |
+| [當我們談論愛情](https://open.spotify.com/track/2JOb24g7gKkE70LYhXv8pf) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [當我們談論愛情](https://open.spotify.com/album/6vCdo47Pl0VqYAKI4hTn0H) | 3:51 | 2025-02-14 |  |
 | [網望茫](https://open.spotify.com/track/4EAKgbtfB66prdGMNydd7h) | [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [禁](https://open.spotify.com/album/6iyaLRsHpAYpggjIRzwIKR) | 3:31 | 2023-03-07 | 2023-04-01 |
-| [都會愛情三角習題](https://open.spotify.com/track/6Ml6EPpTCamR1wPv82v97Q) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [娛樂自己](https://open.spotify.com/album/3zETXUX92S2GQ5HINXOcAi) | 3:36 | 2025-02-11 |  |
+| [都會愛情三角習題](https://open.spotify.com/track/6Ml6EPpTCamR1wPv82v97Q) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [娛樂自己](https://open.spotify.com/album/3zETXUX92S2GQ5HINXOcAi) | 3:36 | 2025-02-11 | 2025-02-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

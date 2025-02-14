@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,734 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,761 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 21 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 22 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 23 | [Te Venero](https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:07 |
-| 24 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
-| 25 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
+| 24 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
+| 25 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 26 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 |
 | 27 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
 | 28 | [Se Me Ocurre](https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 45 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 46 | [Milagro y Desastre](https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/24QEcWNmuCzYB7dcb1nUzl) | 4:05 |
 | 47 | [No Hay Problema](https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 6:12 |
-| 48 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 |
-| 49 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
+| 48 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
+| 49 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 |
 | 50 | [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 |
 | 51 | [Quisiera Ser](https://open.spotify.com/track/27nl6O3qjh71mWChlBXO85) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Rompecabezas](https://open.spotify.com/album/3KNvp3z1tf0eL7xZ5NzAQD) | 3:57 |
 | 52 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |

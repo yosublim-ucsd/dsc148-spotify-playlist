@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,910 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,066 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 |
 | 100 | [what never lived](https://open.spotify.com/track/5smSt2cCnzsyeWcSjIMQq3) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [what never lived](https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0) | 3:32 |
 
-Snapshot ID: `Z6WTdwAAAAA6U5NDogbdLaQQinlJj41b`
+Snapshot ID: `Z6WTdwAAAAAE1pl7YXNEb12U9oMTnpCl`

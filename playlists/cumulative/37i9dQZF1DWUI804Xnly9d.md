@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-486 songs - 1 day 3 hr 13 min
+487 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Jharokhe Se](https://open.spotify.com/track/57MfzNA2MA3Yez6tfSecJy) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Jharokhe Se](https://open.spotify.com/album/5yn1s3VtxX4GXWZ6yLbyEc) | 3:51 | 2023-11-24 | 2023-12-09 |
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-02 |  |
-| [Juda nehi hu](https://open.spotify.com/track/7J24bbx5NFY0mSQb0POBg6) | [Himpol Kalita](https://open.spotify.com/artist/5dTQOtRKiAdus7MuKqE83b) | [Juda nehi hu](https://open.spotify.com/album/1dNlr4Afpv1rwqOoDGg1I7) | 2:29 | 2024-09-03 |  |
+| [Juda nehi hu](https://open.spotify.com/track/7J24bbx5NFY0mSQb0POBg6) | [Himpol Kalita](https://open.spotify.com/artist/5dTQOtRKiAdus7MuKqE83b) | [Juda nehi hu](https://open.spotify.com/album/1dNlr4Afpv1rwqOoDGg1I7) | 2:29 | 2024-09-03 | 2025-02-14 |
 | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/track/2jeqpd4ASuRT4Ou5BxYekz) | [Nikhil Kotibhaskar](https://open.spotify.com/artist/7egL4IzmCXgj9AGCfnVBHx) | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/album/4Ey1RYnacQgSF1DKNGqREu) | 2:36 | 2024-04-15 | 2024-04-30 |
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
 | [Kabhi Kabhi](https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w) | 3:18 | 2024-04-19 | 2024-05-28 |
@@ -205,6 +205,7 @@
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-03-14 | 2024-08-09 |
 | [Kaheen Dur](https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Kaheen Dur](https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD) | 3:20 | 2023-07-12 | 2023-09-16 |
 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 | 2024-03-11 | 2024-05-07 |
+| [Kaise Bataun](https://open.spotify.com/track/7kZPzHdYiNLacsoCBxSpI3) | [Sur](https://open.spotify.com/artist/6L5KkoxG4x8q5kGTMER0U5) | [Kaise Bataun](https://open.spotify.com/album/2N8oJuriRWv8yM4nNIAclm) | 3:10 | 2025-02-13 |  |
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-17 | 2023-11-11 |
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 | 2023-08-04 |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 | 2024-01-19 |

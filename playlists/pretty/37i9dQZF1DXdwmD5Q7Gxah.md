@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Dora Jar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,833 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,786 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

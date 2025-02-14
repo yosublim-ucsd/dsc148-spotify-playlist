@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 233271,
+  "num_followers": 233418,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "Primera Fila Sasha Benny Erik",
-        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
-      },
-      "artists": [
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Cada Beso - Primera Fila",
-      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 316080,
       "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
       "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
+        "name": "Primera Fila Sasha Benny Erik",
+        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
+      },
+      "artists": [
+        {
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Cada Beso - Primera Fila",
+      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
     },
     {
       "added_at": "2024-08-01 22:06:14",

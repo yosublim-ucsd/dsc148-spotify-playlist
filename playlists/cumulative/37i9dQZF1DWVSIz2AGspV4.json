@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 188847,
       "name": "Al Aalam - \u0627\u0644\u0639\u0627\u0644\u0645",
       "url": "https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 203280,
       "name": "Andak Elm",
       "url": "https://open.spotify.com/track/0niMxD9Me0S7Y3fxVKcFj4"
@@ -3738,7 +3738,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 179520,
       "name": "Mn Alakher",
       "url": "https://open.spotify.com/track/0iz6oJXP4bApFD0nx6PvZ6"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 162939,
       "name": "Shkolateh",
       "url": "https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 236103,
       "name": "Tayer",
       "url": "https://open.spotify.com/track/7MMA03eVKCA6CN6vEtwhYE"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 268121,
       "name": "\u062d\u0628\u064a\u0628 \u0627\u0644\u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/6lIDkcFjQS0BHCHtWQLOcb"
@@ -5541,6 +5541,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u064a\u062f \u0627\u0644\u062d\u0628",
+        "url": "https://open.spotify.com/album/2EyfpDN9Ru1oNml8jNSYpJ"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "\u0639\u064a\u062f \u0627\u0644\u062d\u0628",
+      "url": "https://open.spotify.com/track/2HrkQ9pLjKwqzwxd8bnBzn"
+    },
+    {
+      "album": {
         "name": "\u0643\u0644\u0634\u064a \u062a\u0642\u062f\u0631",
         "url": "https://open.spotify.com/album/3vgFjKSdY2E5Q8KKiNJCuf"
       },
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 205482,
       "name": "\u0646\u0627\u0631\u064a",
       "url": "https://open.spotify.com/track/2rKrBAXd7STYoXjmy11n7F"

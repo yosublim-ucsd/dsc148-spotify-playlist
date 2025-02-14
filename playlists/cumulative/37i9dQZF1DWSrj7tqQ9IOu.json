@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Bolivard",
+  "description": "The best French indie tracks right now. Cover : Oracle Sisters",
   "name": "Made in France",
   "tracks": [
     {
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185389,
       "name": "Denim",
       "url": "https://open.spotify.com/track/36LHLhjTdDJcwYUT1tnZ7H"
@@ -6065,6 +6065,24 @@
     },
     {
       "album": {
+        "name": "Divinations",
+        "url": "https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a"
+    },
+    {
+      "album": {
         "name": "Masque d'or",
         "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
       },
@@ -6232,6 +6250,24 @@
       "duration_ms": 205653,
       "name": "Memories (with Olivia Merilahti)",
       "url": "https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O"
+    },
+    {
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee"
+      },
+      "artists": [
+        {
+          "name": "Deluxe",
+          "url": "https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218130,
+      "name": "MICHAEL",
+      "url": "https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0"
     },
     {
       "album": {
@@ -10020,7 +10056,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 213000,
       "name": "Toute seule",
       "url": "https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3"

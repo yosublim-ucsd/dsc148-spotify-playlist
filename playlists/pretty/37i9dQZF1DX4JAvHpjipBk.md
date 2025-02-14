@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from LISA, Doja Cat, RAYE, Lady Gaga, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,287,922 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,288,184 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 | 100 | [oxy](https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [oxy](https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ) | 2:42 |
 
-Snapshot ID: `Z6WTfwAAAACID4wbbQN5JXH6MigE9fHH`
+Snapshot ID: `Z6WTfwAAAABbVhjS4At6JESdTa/K/Wq+`

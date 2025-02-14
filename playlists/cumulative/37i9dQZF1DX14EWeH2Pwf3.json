@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "RRARI DAL TACCO e Kid Yugi in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Tony Effe in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1024,6 +1024,32 @@
       "duration_ms": 200592,
       "name": "Al\u00e9 (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
+    },
+    {
+      "album": {
+        "name": "MARTIRE",
+        "url": "https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Amore Criminel (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/6WXq91US4VUR2upNlPR0Pz"
     },
     {
       "album": {
@@ -2760,7 +2786,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160000,
       "name": "Bugie",
       "url": "https://open.spotify.com/track/4tiF2RFuMz8jpLxnslfkCo"
@@ -10163,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "No iPhone",
+        "url": "https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "No iPhone",
+      "url": "https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG"
+    },
+    {
+      "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL"
       },
@@ -12274,7 +12318,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 197181,
       "name": "POWER SLAP",
       "url": "https://open.spotify.com/track/0wHW7nZlqZqbxnmTotTLGp"
@@ -12308,6 +12352,28 @@
       "duration_ms": 195320,
       "name": "PRAISE THE LORD \u2625 (con Gu\u00e8, Noyz Narcos, Tony Boy)",
       "url": "https://open.spotify.com/track/53AWZCqbx6kIPsVgSNYn92"
+    },
+    {
+      "album": {
+        "name": "PRETTY GANGSTA (feat. Margola)",
+        "url": "https://open.spotify.com/album/3SA6PlYp1fUGKLvQ2RoyLy"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Margola",
+          "url": "https://open.spotify.com/artist/6QQPDf4b6PnpNuxwRKbHgi"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182152,
+      "name": "PRETTY GANGSTA (feat. Margola)",
+      "url": "https://open.spotify.com/track/52s27LiMmNj9QePTeK0vt2"
     },
     {
       "album": {
@@ -15386,7 +15452,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 161666,
       "name": "VERDE BOTTEGA (Pray For Me)",
       "url": "https://open.spotify.com/track/5DiBxH21Xv3MxYq6ntGfJd"

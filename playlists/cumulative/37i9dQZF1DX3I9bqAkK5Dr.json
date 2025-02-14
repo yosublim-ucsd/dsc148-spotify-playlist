@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Hello Madam Sridevi",
+        "url": "https://open.spotify.com/album/1zwSc8LpI4KuBuww9trZKF"
+      },
+      "artists": [
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276934,
+      "name": "Hello Madam Sridevi",
+      "url": "https://open.spotify.com/track/0mkjF6AQ6QZomWsfb4fjIT"
+    },
+    {
+      "album": {
         "name": "hello master!",
         "url": "https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx"
       },
@@ -2354,6 +2372,24 @@
       "duration_ms": 190800,
       "name": "Kalle Kalle",
       "url": "https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K"
+    },
+    {
+      "album": {
+        "name": "Kannamma",
+        "url": "https://open.spotify.com/album/7LG1TvZYp9aYEYHB6QgPrd"
+      },
+      "artists": [
+        {
+          "name": "Pranav Chaganty",
+          "url": "https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Kannamma",
+      "url": "https://open.spotify.com/track/0OpuQnJLRdsLoOO99DkXhV"
     },
     {
       "album": {
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 262857,
       "name": "Mounam",
       "url": "https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H"
@@ -5768,7 +5804,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 158222,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/29fHhYed8SpAL9T10i8r3h"

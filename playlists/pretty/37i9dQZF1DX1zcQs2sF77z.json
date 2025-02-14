@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 252064,
+  "num_followers": 252174,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-06-05 13:48:56",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "added_at": "2024-06-05 13:48:56",
+      "album": {
         "name": "We No Speak\u00a0Americano",
         "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2024-06-05 13:48:56",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2024-06-05 13:48:56",

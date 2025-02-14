@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 241903,
+  "num_followers": 241952,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
-    },
-    {
-      "added_at": "2025-02-07 23:39:22",
-      "album": {
         "name": "Rosa Morena EP",
         "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182453,
       "name": "Flor De Lis",
       "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
+    },
+    {
+      "added_at": "2025-02-07 23:39:22",
+      "album": {
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
+      },
+      "artists": [
+        {
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2025-02-07 23:39:22",
-      "album": {
         "name": "Afro Choro",
         "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 298014,
       "name": "Afro Choro",
       "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+    },
+    {
+      "added_at": "2025-02-07 23:39:22",
+      "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
-    },
-    {
-      "added_at": "2025-02-07 23:39:22",
-      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+    },
+    {
+      "added_at": "2025-02-07 23:39:22",
+      "album": {
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "All or Nothing at All",
-        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
       "artists": [
         {
-          "name": "Billy Sides Trio",
-          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 375108,
-      "name": "All or Nothing at All",
-      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
+      "duration_ms": 172506,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+        "name": "All or Nothing at All",
+        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Billy Sides Trio",
+          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
         }
       ],
-      "duration_ms": 172506,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
+      "duration_ms": 375108,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "Autoral",
-        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
       },
       "artists": [
         {
-          "name": "Hamleto Stamato",
-          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
         }
       ],
-      "duration_ms": 240458,
-      "name": "Cris",
-      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+        "name": "Autoral",
+        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
       "artists": [
         {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+          "name": "Hamleto Stamato",
+          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
         }
       ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
+      "duration_ms": 240458,
+      "name": "Cris",
+      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
     },
     {
       "added_at": "2025-02-07 23:39:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-02-07 23:39:22",
       "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2025-02-07 23:39:22",
-      "album": {
         "name": "M\u00fasicas para Travessia",
         "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 124088,
       "name": "Na Casa do Jornalista",
       "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
+    },
+    {
+      "added_at": "2025-02-07 23:39:22",
+      "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2025-02-07 23:39:22",

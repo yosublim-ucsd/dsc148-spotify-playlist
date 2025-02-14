@@ -816,10 +816,36 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "album": {
+        "name": "Gods Of Rock N Roll",
+        "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
+      },
+      "artists": [
+        {
+          "name": "Billy Morrison",
+          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316160,
+      "name": "Gods Of Rock N Roll",
+      "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
     },
     {
       "album": {

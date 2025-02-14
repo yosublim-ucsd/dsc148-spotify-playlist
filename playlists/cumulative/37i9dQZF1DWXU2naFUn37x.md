@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> SLF in cover della playlist con il top dello street rap italiano ⛓️
+> Néza in cover della playlist con il top dello street rap italiano ⛓️
 
-727 songs - 1 day 9 hr 22 min
+728 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Codeina e Hash](https://open.spotify.com/track/3hwYVAeQFkswkDM6lnpEBX) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:13 | 2022-10-13 | 2022-11-10 |
 | [Codeine \(feat\. ANNA\)](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 | 2024-12-05 |  |
 | [Coki \(con Tony Effe, Noyz Narcos, Ketama126 & Guè\)](https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:53 | 2022-09-15 | 2022-10-07 |
-| [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 |  |
+| [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 | 2025-02-14 |
 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 | 2024-11-07 | 2025-02-07 |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-11 | 2022-07-22 |
 | [Come me](https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Come me](https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC) | 2:43 | 2023-10-05 | 2023-10-27 |
@@ -264,6 +264,7 @@
 | [First Day Out](https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [First Day Out](https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG) | 2:51 | 2024-05-21 | 2024-09-06 |
 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 | 2023-10-13 |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-22 | 2024-06-14 |
+| [Four Seasons \(feat\. MamboLosco\)](https://open.spotify.com/track/5SX5PgcqN7KD24HS3hJqOo) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Four Seasons \(feat\. MamboLosco\)](https://open.spotify.com/album/5h09Xy6i2psEpuIJITOLDu) | 2:41 | 2025-02-13 |  |
 | [Frate](https://open.spotify.com/track/55BbuGqOvwaJd9tw16aVSc) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:43 | 2024-01-11 | 2024-01-19 |
 | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/3viRyhRcXI4Jc1KX1Y9o8w) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w) | 3:43 | 2022-07-27 | 2022-08-01 |
 | [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:57 | 2023-10-20 | 2024-04-26 |

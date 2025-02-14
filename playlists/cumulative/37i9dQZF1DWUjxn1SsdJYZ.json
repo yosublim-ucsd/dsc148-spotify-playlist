@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Chillinit",
+  "description": "The best new AUS & NZ Rap. Cover: B Wise",
   "name": "Local Hype",
   "tracks": [
     {
@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 146354,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/7wEEe15aeOHQcCZ0yybphn"
@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 120827,
       "name": "FRANCE",
       "url": "https://open.spotify.com/track/4rqOmzys0vD2To6XSz2I22"
@@ -13867,6 +13867,42 @@
     },
     {
       "album": {
+        "name": "osiris",
+        "url": "https://open.spotify.com/album/36x88J3uwOWOcwwFfSEKSR"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139380,
+      "name": "osiris",
+      "url": "https://open.spotify.com/track/2pO2stWzOokgwrVgXF1MCn"
+    },
+    {
+      "album": {
+        "name": "OtherKidz",
+        "url": "https://open.spotify.com/album/6eyCQ5mvmOuCeHbY5K5BgY"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "OtherKidz",
+      "url": "https://open.spotify.com/track/6pzEvBP59bC41EaACE4tK5"
+    },
+    {
+      "album": {
         "name": "OTM",
         "url": "https://open.spotify.com/album/03aTKqN89oElymRP8SWdoL"
       },
@@ -14336,6 +14372,28 @@
       "duration_ms": 160000,
       "name": "Pen To Paint",
       "url": "https://open.spotify.com/track/2puxNG3HvkrK8LfyNQts3o"
+    },
+    {
+      "album": {
+        "name": "PHONE CALL",
+        "url": "https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189281,
+      "name": "PHONE CALL",
+      "url": "https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg"
     },
     {
       "album": {
@@ -15200,6 +15258,24 @@
       "duration_ms": 213930,
       "name": "R U Dumb",
       "url": "https://open.spotify.com/track/7f9jxR913VDeAo5H1Shyon"
+    },
+    {
+      "album": {
+        "name": "Rain Coat",
+        "url": "https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rain Coat",
+      "url": "https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ"
     },
     {
       "album": {
@@ -18715,6 +18791,24 @@
     },
     {
       "album": {
+        "name": "THREE65",
+        "url": "https://open.spotify.com/album/43nJ3B8pcxHkQcOI8Ocq1R"
+      },
+      "artists": [
+        {
+          "name": "B Wise",
+          "url": "https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "THREE65",
+      "url": "https://open.spotify.com/track/5RbkBuNZtqYbD1aCWHZaJD"
+    },
+    {
+      "album": {
         "name": "Thrills",
         "url": "https://open.spotify.com/album/7qlSL47CwosI69FHbB16Xy"
       },
@@ -19040,7 +19134,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 135500,
       "name": "Too Busy",
       "url": "https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO"
@@ -19959,6 +20053,28 @@
     },
     {
       "album": {
+        "name": "UP FREESTYLE (w/ Odetari)",
+        "url": "https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119964,
+      "name": "UP FREESTYLE (w/ Odetari)",
+      "url": "https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB"
+    },
+    {
+      "album": {
         "name": "Up The Score",
         "url": "https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi"
       },
@@ -20244,7 +20360,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152446,
       "name": "VVS",
       "url": "https://open.spotify.com/track/4s9RoBsJQ2fUPchpgsFcBY"
@@ -20288,6 +20404,24 @@
       "duration_ms": 182893,
       "name": "Walk The Line",
       "url": "https://open.spotify.com/track/4rcvNSDihDNNj7OKr6ZoFU"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/4EHNmAO9nkPrp9DuNhvWOe"
+      },
+      "artists": [
+        {
+          "name": "JayJayMf",
+          "url": "https://open.spotify.com/artist/0pbtTh06KIFFCGdsb6KbAL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137875,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/25sOiDkhbbE5MyEGfVIvJn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: BOYNEXTDOOR
 
-479 songs - 1 day 3 hr 28 min
+480 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Fuckin' Good](https://open.spotify.com/track/5pe3jeI0WtpNWC1ZweCipP) | [Super SHIMADA Brothers](https://open.spotify.com/artist/2jqtZgeWtsc0tRdXK3x7yT), [OTUY PARK](https://open.spotify.com/artist/4hlSejvq1rjc5ac5Ds02kl) | [Over There That](https://open.spotify.com/album/1WJ9FbcbVCiKrA7XAjTFtJ) | 3:27 | 2023-02-09 | 2023-04-21 |
 | [Full moon](https://open.spotify.com/track/3xxLNIhdGefFM4Xj3Cj5AP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 1:21 | 2023-01-26 | 2023-02-24 |
 | [Funkytown](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Mouth To Mouth](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) | 7:50 | 2023-05-25 | 2023-06-30 |
+| [Funny](https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Funny](https://open.spotify.com/album/0qZqHPQr5x7svWAMLMaqVH) | 3:45 | 2025-02-13 |  |
 | [furimawaru](https://open.spotify.com/track/6JIHUvmMEOba1Accdp4n0g) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 1:56 | 2024-04-01 | 2024-04-19 |
 | [fuyu ga sugitara](https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [fuyu ga sugitara](https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5) | 2:17 | 2023-12-14 | 2024-03-08 |
 | [F・L・Y](https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [オプティカル・サンライズ／スペクトラム２](https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U) | 3:30 | 2025-02-03 |  |
@@ -379,7 +380,7 @@
 | [ハピチョコ](https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ハピチョコ](https://open.spotify.com/album/6YuRTXMTLyw27w13yU9UPy) | 4:01 | 2023-02-09 | 2023-03-31 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-01-26 | 2023-02-02 |
 | [バービーギャル!!](https://open.spotify.com/track/74DQoWIJNeRqo42fj4JjNr) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [PIEC3 POPPO](https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X) | [バービーギャル!!](https://open.spotify.com/album/7gvsEKyLF7ekWeK0bmW5Wk) | 2:02 | 2024-09-19 | 2024-12-06 |
-| [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 | 2024-10-10 |  |
+| [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 | 2024-10-10 | 2025-02-14 |
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-01-26 | 2023-02-10 |
 | [ビートDEトーヒ](https://open.spotify.com/track/5D4XpDNbB5WTFLQ8VA442k) | [ハマいく](https://open.spotify.com/artist/0yAwTq1vSQQ8fpvLr5wdoF) | [ビートDEトーヒ](https://open.spotify.com/album/2AFM1KkgOLDZFibeUoxq7G) | 2:18 | 2023-01-26 | 2023-10-06 |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-03-23 | 2023-04-28 |

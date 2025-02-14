@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 167194,
+  "num_followers": 167204,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "dejarse querer",
-        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "dejarse querer",
-      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "IRENE ALEJANDRA",
         "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "dejarse querer",
+        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
+        "name": "Lo dejo",
+        "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Lo dejo",
+      "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -967,38 +983,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Lo dejo",
-        "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Lo dejo",
-      "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Feeling Low",
         "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 221538,
       "name": "Feeling Low",
       "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2025-02-07 19:10:26",

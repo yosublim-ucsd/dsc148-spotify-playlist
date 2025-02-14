@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 213222,
       "name": "Detalhes",
       "url": "https://open.spotify.com/track/5dkytCgrODAV4HzGy0Sl94"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -5507,6 +5507,36 @@
     },
     {
       "album": {
+        "name": "FL\u00d3RIDA",
+        "url": "https://open.spotify.com/album/5aNw9CVtCWy8lUeg6UQOwh"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154601,
+      "name": "FL\u00d3RIDA",
+      "url": "https://open.spotify.com/track/3MFuFDIoNKLCZHvnzFlrNM"
+    },
+    {
+      "album": {
         "name": "Foda Que Ela \u00c9 Linda",
         "url": "https://open.spotify.com/album/2GI9HmLvO1YkC15IIrVXCW"
       },
@@ -6274,7 +6304,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
@@ -7940,6 +7970,28 @@
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "album": {
+        "name": "meninobom",
+        "url": "https://open.spotify.com/album/1Gb0GHUVLVAMaa5MYboLUb"
+      },
+      "artists": [
+        {
+          "name": "Dan Pitta",
+          "url": "https://open.spotify.com/artist/0TIS2T16GDMndeOIcSZYn9"
+        },
+        {
+          "name": "Luizinhx",
+          "url": "https://open.spotify.com/artist/3NFpYsSoEpAOeDFOy8kgVU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "meninobom",
+      "url": "https://open.spotify.com/track/5Ak77uL8WCNRz8z1oZgq0y"
     },
     {
       "album": {
@@ -11188,6 +11240,36 @@
       "duration_ms": 342857,
       "name": "Prazo De Validade",
       "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
+    },
+    {
+      "album": {
+        "name": "OREIA",
+        "url": "https://open.spotify.com/album/20zFwulGKsCd1Mx4Ts0VzL"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Malaca",
+          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
+        },
+        {
+          "name": "CIDO",
+          "url": "https://open.spotify.com/artist/5fwNfJ7qI8reJFxpL3TaPL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "Pra\u00e7a do Papa",
+      "url": "https://open.spotify.com/track/43qg6d0mkr1nRTPklOSJFq"
     },
     {
       "album": {

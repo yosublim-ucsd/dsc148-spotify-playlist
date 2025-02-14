@@ -1508,6 +1508,36 @@
     {
       "album": {
         "name": "Cheirinho Bom",
+        "url": "https://open.spotify.com/album/1bgff0IaAQkqgoXDg1TXec"
+      },
+      "artists": [
+        {
+          "name": "DJ CZ",
+          "url": "https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr"
+        },
+        {
+          "name": "DJ CARAI",
+          "url": "https://open.spotify.com/artist/7FxWEdixCM3QpHCdVpqBZP"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Cheirinho Bom",
+      "url": "https://open.spotify.com/track/0K3tVVzv3DbRcgxXkRsT1k"
+    },
+    {
+      "album": {
+        "name": "Cheirinho Bom",
         "url": "https://open.spotify.com/album/5aMj1GP1bsxvClEHCF58Mg"
       },
       "artists": [
@@ -1522,7 +1552,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 136615,
       "name": "Cheirinho Bom",
       "url": "https://open.spotify.com/track/7kTlSSAWuYcBtw4Hzd2XFL"

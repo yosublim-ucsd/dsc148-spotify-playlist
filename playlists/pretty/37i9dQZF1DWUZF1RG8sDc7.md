@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,516 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,579 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 37 | [La Gemela](https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [Enamorandote](https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h) | 4:14 |
 | 38 | [Chillar A Otra Parte](https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx), [Manuel Julian Martinez](https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z) | [Echao Pa Lante](https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG) | 4:11 |
 | 39 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
-| 40 | [Jaime Molina](https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 3](https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU) | 4:08 |
-| 41 | [Muere una Flor](https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 3:36 |
+| 40 | [Muere una Flor](https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 3:36 |
+| 41 | [Jaime Molina](https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 3](https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU) | 4:08 |
 | 42 | [Paro de Mi Corazon](https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD) | [Rudigo Vallenato](https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q) | [40 Vallenatos Poderosos](https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ) | 4:54 |
 | 43 | [Tierra Mala](https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:48 |
 | 44 | [No Te Vayas](https://open.spotify.com/track/2FkdSU3LwrQwtyrKxYQHQN) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:06 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 57 | [Vivo por Ti](https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Son los Gigantes](https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu) | 4:39 |
 | 58 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
 | 59 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 60 | [Novios Cruzados](https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Uniendo Corazones](https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X) | 4:19 |
+| 60 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 
 Snapshot ID: `ZgTL0AAAAADNo3/zOubNWtG7VkuAAqq8`

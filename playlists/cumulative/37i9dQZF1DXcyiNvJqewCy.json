@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 194296,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU"
@@ -3723,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Lying in the Sun",
+        "url": "https://open.spotify.com/album/3w5XCQLXn9CWdXKqTzp1JT"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192151,
+      "name": "Lying in the Sun",
+      "url": "https://open.spotify.com/track/205bRwxiJ3Rj4P7XBU5vPA"
+    },
+    {
+      "album": {
         "name": "Madeleine",
         "url": "https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf"
       },
@@ -6131,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
+    },
+    {
+      "album": {
         "name": "Truly Madly Deeply (triple j Like A Version)",
         "url": "https://open.spotify.com/album/210M7h0UZUPheZoySmA26a"
       },
@@ -6518,6 +6554,24 @@
       "duration_ms": 220400,
       "name": "You Make Me Feel Like Dancing",
       "url": "https://open.spotify.com/track/2wnx10JlIHANnWlvcMqpZE"
+    },
+    {
+      "album": {
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
       "album": {

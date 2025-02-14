@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB?si=q2nncdZ4RESat01b\_WK04w">Laudo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,176 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,179 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Staan by Jou](https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Staan by Jou](https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z) | 3:07 |
 | 2 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 3 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
-| 4 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 4 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 5 | [Crystal Body](https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Crystal Body](https://open.spotify.com/album/4buETyZvDwjVzVZlZdxKQt) | 4:30 |
-| 6 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 6 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
 | 7 | [Wonder](https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Eindbestemming](https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7) | 2:45 |
 | 8 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 9 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 38 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 39 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 40 | [Even If](https://open.spotify.com/track/3hafu7svrimt7vpensLKie) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Even If](https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62) | 2:18 |
-| 41 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
-| 42 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
+| 41 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
+| 42 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 43 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 44 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 45 | [I Won't Come to Your Opening](https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [I Won't Come to Your Opening](https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE) | 2:30 |

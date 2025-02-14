@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1986165,
+  "num_followers": 1986196,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-02-11 16:56:27",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2025-02-11 16:56:27",
+      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 201600,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2025-02-11 16:56:27",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2025-02-11 16:56:27",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-02-11 16:56:27",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
-    },
-    {
-      "added_at": "2025-02-11 16:56:27",
-      "album": {
         "name": "Cohete",
         "url": "https://open.spotify.com/album/34L6DaZIUkzQvZwDd5Cx9a"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/2P58XhyNkacK1LHSCk5O2t"
+    },
+    {
+      "added_at": "2025-02-11 16:56:27",
+      "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2025-02-11 16:56:27",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-02-11 16:56:27",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
-    },
-    {
-      "added_at": "2025-02-11 16:56:27",
-      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 195600,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
+    },
+    {
+      "added_at": "2025-02-11 16:56:27",
+      "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2025-02-11 16:56:27",

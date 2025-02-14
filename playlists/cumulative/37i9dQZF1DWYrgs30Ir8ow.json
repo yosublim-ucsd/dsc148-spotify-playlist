@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Lady Gaga",
+  "description": "Altijd frisse hits! Cover: Doechii",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150620,
       "name": "Beetje Van Mij",
       "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
@@ -2728,6 +2728,24 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -10461,6 +10479,32 @@
     },
     {
       "album": {
+        "name": "Mr. Lie To Me",
+        "url": "https://open.spotify.com/album/5IgB9qnMCiMiCNq1I9bPBA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        },
+        {
+          "name": "EYLR",
+          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Mr. Lie To Me",
+      "url": "https://open.spotify.com/track/0dzXmgGeT8SvjTNYZLzU9A"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -11470,7 +11514,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -13060,7 +13104,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
@@ -14297,6 +14341,28 @@
     },
     {
       "album": {
+        "name": "Suicide",
+        "url": "https://open.spotify.com/album/18eestQZaiJuxLkYXrTki0"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195082,
+      "name": "Suicide",
+      "url": "https://open.spotify.com/track/3AH0K2BgrvIaZDFp29k002"
+    },
+    {
+      "album": {
         "name": "Sukkel",
         "url": "https://open.spotify.com/album/6ygyoxl3Nhp6X1LrR5gQRf"
       },
@@ -14458,6 +14524,24 @@
       "duration_ms": 152615,
       "name": "Tafel Voor 2",
       "url": "https://open.spotify.com/track/0bAy8gfIx54HKQIsIiRju8"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "album": {
@@ -15685,6 +15769,24 @@
     },
     {
       "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
+    },
+    {
+      "album": {
         "name": "Tyar\u2019 En Waka",
         "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
       },
@@ -16308,6 +16410,28 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "album": {

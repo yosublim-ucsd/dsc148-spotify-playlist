@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,639 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,661 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 8 | [Paisa Kamao](https://open.spotify.com/track/0Pikra5lV5WH1zMLgKxI8x) | [Rahul U](https://open.spotify.com/artist/5BrVcsZNGTh62EBgi8vFrA) | [Paisa Kamao](https://open.spotify.com/album/2ib0qfaOt4MGHiibTYf2cz) | 2:13 |
 | 9 | [Caution](https://open.spotify.com/track/2OjJ2vXhRcRJwu2eX0dq4a) | [MC Headshot](https://open.spotify.com/artist/6GB1ip1cMehKYjKYnQLpSS), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Big Bunny](https://open.spotify.com/artist/7CIoEIGgcfBJNQaa2t5HxG) | [Caution](https://open.spotify.com/album/2UagESKHaxbkonclGTMydy) | 3:52 |
 | 10 | [Kya Total ?](https://open.spotify.com/track/0OcuQDCk6kiiDKToCAQyJo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kya Total ?](https://open.spotify.com/album/1DaTKK0BBsmC5r6X9f7ztP) | 2:14 |
-| 11 | [Out of Reach](https://open.spotify.com/track/7jb9c1AbE7050NiGjW5k1W) | [Suyash Parasher](https://open.spotify.com/artist/7mL47j0V6LmUeERZjNQOth) | [Out of Reach](https://open.spotify.com/album/7dR9Sur1iLTQt3T6LzCMBn) | 3:19 |
+| 11 | [Out of Reach](https://open.spotify.com/track/7jb9c1AbE7050NiGjW5k1W) | [Suyash Parasher](https://open.spotify.com/artist/7mL47j0V6LmUeERZjNQOth), [Premium](https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3) | [Out of Reach](https://open.spotify.com/album/7dR9Sur1iLTQt3T6LzCMBn) | 3:19 |
 | 12 | [Mujhe ye bhi chahiye MYBC](https://open.spotify.com/track/56ydDaYLrTDhEwh9uPOqVn) | [Vardhaman](https://open.spotify.com/artist/6ht2LUnTK0nKcz3O2g9UYv) | [Mujhe ye bhi chahiye MYBC](https://open.spotify.com/album/0W8vqpLKB8dmgfhjXwOvqk) | 3:26 |
 | 13 | [W](https://open.spotify.com/track/61OlGHibIlVmuvfmL21Nvg) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8), [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM) | [W](https://open.spotify.com/album/7D1PiXHIkGsMJjMnRhnNpY) | 3:20 |
 | 14 | [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 |

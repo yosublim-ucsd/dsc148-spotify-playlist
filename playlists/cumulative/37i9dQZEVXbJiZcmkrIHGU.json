@@ -9944,7 +9944,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -25977,6 +25977,24 @@
     },
     {
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "album": {
         "name": "Hundert Jahre Eiszeit",
         "url": "https://open.spotify.com/album/03ONbOfdYundtRiHOmaGgj"
       },
@@ -29320,7 +29338,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 162958,
       "name": "JLO",
       "url": "https://open.spotify.com/track/4wfRzIMj4H0mhJsKtcL7ec"
@@ -31800,7 +31818,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"

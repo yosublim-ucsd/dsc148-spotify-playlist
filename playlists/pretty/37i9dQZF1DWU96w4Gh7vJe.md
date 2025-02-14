@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,782 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,808 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 37 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 38 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 |
 | 39 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
-| 40 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 |
+| 40 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
 | 41 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
-| 42 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
+| 42 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 |
 | 43 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
 | 44 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
 | 45 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 |

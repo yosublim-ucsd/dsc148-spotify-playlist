@@ -2779,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "Forbidden Voices",
+        "url": "https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5"
+      },
+      "artists": [
+        {
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200166,
+      "name": "Forbidden Voices",
+      "url": "https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH"
+    },
+    {
+      "album": {
         "name": "Forever 2 (Crush Mix) [Malugi Remix]",
         "url": "https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU"
       },
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152470,
       "name": "Kotodama",
       "url": "https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY"

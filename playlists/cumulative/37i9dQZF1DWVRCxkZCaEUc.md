@@ -4,7 +4,7 @@
 
 > windows down, elbows out & bass UP ⬆️ rap + r&b anthems for your commute.
 
-336 songs - 20 hr 22 min
+337 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2025-02-13 |  |
 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 | 2025-02-13 |  |
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2021-09-04 | 2022-06-23 |
-| [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2025-02-13 |  |
+| [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2025-02-13 | 2025-02-14 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2021-09-04 | 2022-05-09 |
 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 | 2021-09-04 | 2022-04-21 |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2021-09-04 | 2022-06-23 |
@@ -263,6 +263,7 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-04-04 | 2022-06-23 |
 | [Soundtrack 2 My Life](https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:55 | 2021-09-04 | 2022-04-18 |
 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 | 2022-06-22 | 2025-02-13 |
+| [SPINNIN \(Segway Remix\)](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 | 2025-02-13 |  |
 | [Spins](https://open.spotify.com/track/3611av7ekGmtDo12haIGzG) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Spins](https://open.spotify.com/album/0MLvYnNSsZclPBEuuE6M9M) | 3:33 | 2021-09-04 | 2022-06-23 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-02-13 |  |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2025-02-13 |  |

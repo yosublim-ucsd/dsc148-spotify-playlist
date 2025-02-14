@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,630 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [twotwentytwo](https://open.spotify.com/track/2zzSawnYOXqBlBUjnM3Qw8) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [twotwentytwo](https://open.spotify.com/album/0uXHkdz38QdvSb5NalVzUX) | 4:01 |
 | 16 | [Ich fühl alles](https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich fühl alles](https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA) | 2:37 |
 | 17 | [Feel it](https://open.spotify.com/track/15V6a172Lx1oPZdBHoRjvx) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/2GOXho7n1Z66yYaz1VyoD5) | 3:22 |
-| 18 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
-| 19 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
+| 18 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
+| 19 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
 | 20 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
 | 21 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
 | 22 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Happy](https://open.spotify.com/track/1Vk4R84EyrzKzZtDFGh6oo) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Happy](https://open.spotify.com/album/7FElDXkoXCWG1sjQVOe8tB) | 3:12 |
 | 44 | [Ugly Talk](https://open.spotify.com/track/08ZFbn6Z6p8C4jLwBYKdHR) | [jeanie](https://open.spotify.com/artist/07hMLICYoIKGhV4xeTBApP) | [Ugly Talk](https://open.spotify.com/album/6mgH4SNsl5wo4AdJyIAaZQ) | 2:51 |
 | 45 | [Schmetterlinge](https://open.spotify.com/track/1JRtXd8WREehanndaJOuEM) | [Clara Lou](https://open.spotify.com/artist/7aC89IptWSdgo4pP1Vih7P) | [Schmetterlinge](https://open.spotify.com/album/5MsGpt9iCXIZQ5pffbwm7T) | 2:10 |
-| 46 | [state of mind](https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC) | [Caterina Lee](https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw) | [state of mind](https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI) | 3:07 |
-| 47 | [Mondlicht](https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Mondlicht](https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv) | 3:03 |
+| 46 | [Mondlicht](https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Mondlicht](https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv) | 3:03 |
+| 47 | [state of mind](https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC) | [Caterina Lee](https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw) | [state of mind](https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI) | 3:07 |
 | 48 | [Pretty Garden](https://open.spotify.com/track/2bQn0Gy1EJpfKle1kq1h1n) | [Emma Elisabeth](https://open.spotify.com/artist/2VUB65X1Ejr1VWUKRUyCoq) | [Pretty Garden](https://open.spotify.com/album/70pjrDbm2asI2dPLiFBkP0) | 3:34 |
 | 49 | [Warten](https://open.spotify.com/track/3Jv39bT5Hrmky8GhqZ2rJW) | [YUILA](https://open.spotify.com/artist/3BvAlKnT4q1WKf3UqhLJP3) | [Warten](https://open.spotify.com/album/6Bgxinb5nr5IshryaHlvFj) | 3:57 |
 | 50 | [Power](https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Power](https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD) | 4:24 |

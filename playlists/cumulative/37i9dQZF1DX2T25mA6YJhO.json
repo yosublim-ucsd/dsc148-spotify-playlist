@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1a Polaca, Dani Fern\u00e1ndez.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 164906,
       "name": "ahora es diferente",
       "url": "https://open.spotify.com/track/5kzRmChVusM1Vu3fRc0yW4"
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "baila este cabreo",
+        "url": "https://open.spotify.com/album/63B0lyrJlDKCoqq9A4Ro3W"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162437,
+      "name": "baila este cabreo",
+      "url": "https://open.spotify.com/track/7Bjsax28IfVL2dbBbA6yXP"
+    },
+    {
+      "album": {
         "name": "Calle Liberaci\u00f3n",
         "url": "https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 197111,
       "name": "BOCARRIBA",
       "url": "https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ"
@@ -804,7 +822,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212314,
       "name": "cerca de ti",
       "url": "https://open.spotify.com/track/5g18hQJ4TYSUDFkV3mZSrh"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155592,
       "name": "Entre las nubes",
       "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
@@ -2731,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Marisol",
+        "url": "https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251983,
+      "name": "Marisol",
+      "url": "https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ"
+    },
+    {
+      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
@@ -3111,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Murakami",
+        "url": "https://open.spotify.com/album/1UkCBbIJH8qR7huS9367qr"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn F\u00e9nix",
+          "url": "https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156371,
+      "name": "Murakami",
+      "url": "https://open.spotify.com/track/39gCPFKyoopu1YUdxJVdOU"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
@@ -3147,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "m\u00fasica infinita",
+        "url": "https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz"
+      },
+      "artists": [
+        {
+          "name": "La Plata",
+          "url": "https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176650,
+      "name": "m\u00fasica infinita",
+      "url": "https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI"
+    },
+    {
+      "album": {
         "name": "Nacho Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD"
       },
@@ -3180,6 +3252,24 @@
       "duration_ms": 166000,
       "name": "Nadie Se Muere De Amor",
       "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/6Jm9mp28EyfixR9ZvxCmY7"
+      },
+      "artists": [
+        {
+          "name": "Tatuaje",
+          "url": "https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211730,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/1UqcUWFQdHsdkOuBLStzem"
     },
     {
       "album": {
@@ -3454,7 +3544,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 171613,
       "name": "Ontes fun moi malo",
       "url": "https://open.spotify.com/track/278iDmdb1oMjGyuTW2N6fS"
@@ -4541,6 +4631,28 @@
     },
     {
       "album": {
+        "name": "Ti m\u00e1is eu",
+        "url": "https://open.spotify.com/album/193Aj0RWSaScutfDEL9zAq"
+      },
+      "artists": [
+        {
+          "name": "Grande Amore",
+          "url": "https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ"
+        },
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91106,
+      "name": "Ti m\u00e1is eu",
+      "url": "https://open.spotify.com/track/7Fzi4YxYUFwOkgkQQfl4U0"
+    },
+    {
+      "album": {
         "name": "Todo Ir\u00e1 Bien",
         "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
       },
@@ -5256,7 +5368,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 193754,
       "name": "\u00a1Que te pares!",
       "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"

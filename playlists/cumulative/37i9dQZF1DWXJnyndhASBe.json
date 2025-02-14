@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki, Sobel",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 148965,
       "name": "1000 kobiet",
       "url": "https://open.spotify.com/track/1jMD392hwarcPnl0aWsA0H"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 149126,
       "name": "911",
       "url": "https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m"
@@ -1874,6 +1874,32 @@
       "duration_ms": 168000,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/2HTro5phSfDcaKoKTx188G"
+    },
+    {
+      "album": {
+        "name": "KSZTA\u0141T MI\u0141O\u015aCI MIXTAPE",
+        "url": "https://open.spotify.com/album/7356EDAJHXyExx6eCaRYKw"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "CHARAKTER ZWYCI\u0118ZCY",
+      "url": "https://open.spotify.com/track/1gwe2HRCnXr6cjsD2VBCVG"
     },
     {
       "album": {
@@ -3535,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "Ezzz",
+        "url": "https://open.spotify.com/album/01Eg2wlhFOHcwLQSIPv5sE"
+      },
+      "artists": [
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Ezzz",
+      "url": "https://open.spotify.com/track/38YbKuU3BlJJWo6VhHAOYG"
+    },
+    {
+      "album": {
         "name": "FAKE LOVER KILLA",
         "url": "https://open.spotify.com/album/6dD62MN5GqtjAiArMWQB6P"
       },
@@ -3814,7 +3862,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 140388,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/5uMqtyQuLYqH5bUPLf00vO"
@@ -5370,7 +5418,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 169371,
       "name": "Kawa\u0142ek nieba",
       "url": "https://open.spotify.com/track/6oCMGHf3T6X8S4JlG0vC5L"
@@ -6838,6 +6886,28 @@
       "duration_ms": 143264,
       "name": "Mati",
       "url": "https://open.spotify.com/track/0MjXxNBit7WY6YpwtCc5lH"
+    },
+    {
+      "album": {
+        "name": "Maybae",
+        "url": "https://open.spotify.com/album/6O8g5OKYDk7n92UaZz7409"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Maybae",
+      "url": "https://open.spotify.com/track/050LHkY5wTTFcZtdXwHixq"
     },
     {
       "album": {
@@ -8418,6 +8488,40 @@
       "duration_ms": 136513,
       "name": "NIEBIESKI DOM",
       "url": "https://open.spotify.com/track/5qpT6hrWLhn8Vtsb12XUih"
+    },
+    {
+      "album": {
+        "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
+        "url": "https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk"
+      },
+      "artists": [
+        {
+          "name": "GOMBAO 33",
+          "url": "https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wygu\u015b",
+          "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
+        },
+        {
+          "name": "Tadeo",
+          "url": "https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb"
+        },
+        {
+          "name": "Szczepan",
+          "url": "https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
+      "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
     },
     {
       "album": {
@@ -10691,6 +10795,28 @@
     },
     {
       "album": {
+        "name": "sam na \u015bwiecie",
+        "url": "https://open.spotify.com/album/16WkrHyUv3U8QvZaFaA0AL"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189554,
+      "name": "sam na \u015bwiecie",
+      "url": "https://open.spotify.com/track/1qrKOwtEG7Zf74pD95vty3"
+    },
+    {
+      "album": {
         "name": "spok\u00f3j.",
         "url": "https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg"
       },
@@ -11072,7 +11198,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 132000,
       "name": "SOBOTA WIECZ\u00d3R",
       "url": "https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB"

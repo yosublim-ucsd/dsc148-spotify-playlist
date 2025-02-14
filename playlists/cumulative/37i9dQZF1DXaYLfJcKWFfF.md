@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Sena Dagadu
 
-223 songs - 13 hr 23 min
+224 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-13 | 2023-11-10 |
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 | 2024-02-23 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
-| [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 |  |
+| [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 | 2025-02-14 |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-09-29 |
 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-02 | 2023-07-29 |
 | [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 | 2023-12-15 |  |
@@ -125,6 +125,7 @@
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-11-23 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 | 2024-02-16 |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
+| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-14 |  |
 | [Ndavuka](https://open.spotify.com/track/5eIvMbO3C9f86NeQCJ1Lbc) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Moving Away](https://open.spotify.com/album/0n3DZvKeyztyrzVHE7Dem9) | 3:16 | 2023-09-09 | 2023-09-15 |
 | [NDIWE](https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Trina South](https://open.spotify.com/artist/5vCuU06trZlFxE0JK0C1Am) | [NDIWE](https://open.spotify.com/album/4pcyFiJmHvc7cU18toF49w) | 4:35 | 2023-08-17 | 2023-10-20 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 | 2023-09-29 |

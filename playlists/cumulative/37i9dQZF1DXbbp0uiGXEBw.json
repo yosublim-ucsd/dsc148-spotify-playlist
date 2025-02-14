@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "letting go",
+        "url": "https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8"
+      },
+      "artists": [
+        {
+          "name": "My Anh",
+          "url": "https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215731,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ"
+    },
+    {
+      "album": {
         "name": "CONG",
         "url": "https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV"
       },
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190426,
       "name": "M\u1ed7i Khi Anh Nh\u00ecn Em",
       "url": "https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO"

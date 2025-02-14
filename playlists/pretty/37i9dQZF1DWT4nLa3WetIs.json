@@ -1,6 +1,6 @@
 {
   "description": "Timeless sounds of modern Afrobeats. Cover: Wande Coal ",
-  "num_followers": 208724,
+  "num_followers": 208796,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
     },
     {
       "added_at": "2025-01-09 10:07:52",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
-        "name": "Legend Or No Legend",
-        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 209970,
-      "name": "Ebelebe (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 224003,
       "name": "Billions",
       "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
     },
     {
       "added_at": "2025-01-09 10:07:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
-        "name": "So Mi So",
-        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 245182,
-      "name": "So Mi So",
-      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
         "name": "Least Expected",
         "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 242893,
       "name": "Pana",
       "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
+        "name": "So Mi So",
+        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 245182,
+      "name": "So Mi So",
+      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
       "added_at": "2025-01-09 10:07:52",
@@ -963,42 +963,6 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        }
-      ],
-      "duration_ms": 246124,
-      "name": "Million Pound Girl (Badder Than Bad)",
-      "url": "https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 209968,
-      "name": "Different Size (feat. Victony)",
-      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -1039,6 +1003,42 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "duration_ms": 246124,
+      "name": "Million Pound Girl (Badder Than Bad)",
+      "url": "https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     },
     {
       "added_at": "2025-01-09 10:07:52",
@@ -1127,6 +1127,54 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
+        "name": "Won Da Mo",
+        "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Won Da Mo",
+      "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -1179,6 +1227,22 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
         "name": "wo wo (remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -1199,70 +1263,6 @@
       "duration_ms": 225450,
       "name": "wo wo - remix",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
-        "name": "Won Da Mo",
-        "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
-      },
-      "artists": [
-        {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Won Da Mo",
-      "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2025-01-09 10:07:52",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-01-09 10:07:52",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 284773,
-      "name": "On Top Your Matter",
-      "url": "https://open.spotify.com/track/5dmzKrF5dzyjsLh85JFUZT"
-    },
-    {
-      "added_at": "2025-01-09 10:07:52",
-      "album": {
         "name": "Legacy (Ahamefuna)",
         "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 221080,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
+    },
+    {
+      "added_at": "2025-01-09 10:07:52",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 284773,
+      "name": "On Top Your Matter",
+      "url": "https://open.spotify.com/track/5dmzKrF5dzyjsLh85JFUZT"
     },
     {
       "added_at": "2025-01-09 10:07:52",

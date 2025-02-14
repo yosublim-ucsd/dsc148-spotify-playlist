@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,268 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,269 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,31 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 22 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
 | 23 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
 | 24 | [Berlin](https://open.spotify.com/track/3xe0as9iSolwPSaZdNhka8) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Berlin](https://open.spotify.com/album/0D0FZUmTHNSvsVJ89ZlvZL) | 3:22 |
-| 25 | [little red, little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little red, little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
-| 26 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
+| 25 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
+| 26 | [little red, little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little red, little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
 | 27 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 |
 | 28 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
 | 29 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
-| 30 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
+| 30 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 31 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
-| 32 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
-| 33 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 34 | [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 |
-| 35 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
+| 32 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
+| 33 | [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 |
+| 34 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
+| 35 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 36 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 |
 | 37 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 |
 | 38 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 |
-| 39 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 |
-| 40 | [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 |
+| 39 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 |
+| 40 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 |
 | 41 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 |
-| 42 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 |
-| 43 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 |
-| 44 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 |
-| 45 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
+| 42 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 |
+| 43 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 |
+| 44 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
+| 45 | [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 |
 | 46 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
 | 47 | [Ceiling Stars](https://open.spotify.com/track/1oYhmvMDaObdrBG3USn3Mw) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:22 |
 | 48 | [Halloween](https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Halloween](https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK) | 2:40 |
 | 49 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
-| 50 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 |
+| 50 | [My Old Friend John](https://open.spotify.com/track/4WicE9BeiHpqRjivqzNf2J) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [My Old Friend John](https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU) | 5:20 |
 
-Snapshot ID: `Z6tSxwAAAACba8dq3MgIM35kCE2HeLWy`
+Snapshot ID: `Z655iAAAAAAbGzMHEMYg6BZzKLvo57Zx`

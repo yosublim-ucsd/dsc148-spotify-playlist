@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "sweet and fresh emerging indie pop, featuring Esme Emerson \ud83c\udf51",
+  "description": "sweet and fresh emerging indie pop, featuring Luvcat \ud83c\udf51",
   "name": "peach",
   "tracks": [
     {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
+    },
+    {
+      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -344,6 +362,24 @@
       "duration_ms": 180316,
       "name": "Blind",
       "url": "https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215258,
+      "name": "body to you",
+      "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
     },
     {
       "album": {
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 147146,
       "name": "Found The 1",
       "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 207271,
       "name": "Home",
       "url": "https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3"
@@ -1695,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
       },
@@ -1998,7 +2052,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
@@ -2535,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
+    },
+    {
+      "album": {
         "name": "The End of the Contender",
         "url": "https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n"
       },
@@ -2834,7 +2906,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 239172,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/2VpS7nNjtgrsrJRPEiOWjE"

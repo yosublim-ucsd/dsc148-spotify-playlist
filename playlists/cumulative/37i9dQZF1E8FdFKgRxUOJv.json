@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Jack Johnson, Ray LaMontagne and more",
+  "description": "With John Mayer, Ray LaMontagne, James Morrison and more",
   "name": "Carry Me Away Radio",
   "tracks": [
     {
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Always Been the End of the World",
       "url": "https://open.spotify.com/track/0usp7mJCNcjfkI0GlVaV6J"
@@ -1536,6 +1536,24 @@
     {
       "album": {
         "name": "Both Ways",
+        "url": "https://open.spotify.com/album/7N2zsLq0Nd5FQQEEZYzoq2"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251324,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/4aG6rfex37SDyRwBEi9hqM"
+    },
+    {
+      "album": {
+        "name": "Both Ways",
         "url": "https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L"
       },
       "artists": [
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 227292,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 617057,
       "name": "Coloratura",
       "url": "https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms"
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
@@ -4496,7 +4514,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 211373,
       "name": "Colour Me",
       "url": "https://open.spotify.com/track/6MfsJgg1gTRxLbmh0ZZYi4"
@@ -5192,7 +5210,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 167280,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/4Kwhm5VU4huxmQtBqd1AXo"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 199026,
       "name": "Dancing in the Street",
       "url": "https://open.spotify.com/track/7F4V3C2dBlFJGhSAY0uPdH"
@@ -8038,7 +8056,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -9516,7 +9534,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 250173,
       "name": "Hang On, Hang On",
       "url": "https://open.spotify.com/track/1UWPBDNFyWsQ9s5nSf7p1i"
@@ -10092,7 +10110,7 @@
       ],
       "date_added": "2020-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 251161,
       "name": "High Hope",
       "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
@@ -10756,7 +10774,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 280546,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/0CF1X2oxbHWyFNPG2CPeNX"
@@ -12610,7 +12628,7 @@
       ],
       "date_added": "2020-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
@@ -14046,7 +14064,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186826,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
@@ -15774,7 +15792,7 @@
       ],
       "date_added": "2019-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 224813,
       "name": "Mai Tais (feat. Skylar Grey)",
       "url": "https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt"
@@ -17868,7 +17886,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 146946,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/3E3zYgQul8EaJioNvD2tv9"
@@ -18941,6 +18959,24 @@
     },
     {
       "album": {
+        "name": "Hard Settle, Ain't Troubled",
+        "url": "https://open.spotify.com/album/5skD4KvE9DW8TRLKhh2Ibm"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "Portland, Maine",
+      "url": "https://open.spotify.com/track/2o3DsyDE0NJfsMGOj4ARBq"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/5wNY6pqg6hnG1J6sG6j67U"
       },
@@ -19688,7 +19724,7 @@
       ],
       "date_added": "2020-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 270975,
       "name": "Ruined",
       "url": "https://open.spotify.com/track/6HJoraqoXpGj5Lr68FCZxX"
@@ -20872,7 +20908,7 @@
       ],
       "date_added": "2020-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 243333,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2"
@@ -21362,7 +21398,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
@@ -21564,7 +21600,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 223847,
       "name": "Stand and Deliver",
       "url": "https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG"
@@ -21892,7 +21928,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 214653,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
@@ -22000,7 +22036,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
@@ -22512,7 +22548,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 196451,
       "name": "Supply & Demand",
       "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
@@ -23354,7 +23390,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
@@ -23862,7 +23898,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 212268,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/7jxOrO47WDOhJDNny1uRHk"
@@ -23970,7 +24006,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 199306,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/1hdSvBsFEw1I5ZOLOoxf3Y"
@@ -24410,7 +24446,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 204386,
       "name": "Time To Move (feat. John Mayer)",
       "url": "https://open.spotify.com/track/5MNrNji198JkIQK2GBbUcQ"
@@ -24684,7 +24720,7 @@
       ],
       "date_added": "2020-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 256040,
       "name": "Too Late For Lullabies",
       "url": "https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq"
@@ -25412,7 +25448,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
@@ -25952,7 +25988,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 361013,
       "name": "We'll Make It Through",
       "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
@@ -26288,7 +26324,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
@@ -26656,7 +26692,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
@@ -27450,7 +27486,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
@@ -27720,7 +27756,7 @@
       ],
       "date_added": "2019-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

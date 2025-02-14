@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a unique mix of rock, punk, alt & indie\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,951 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,977 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 46 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 |
 | 47 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 48 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
-| 49 | [Stimulation](https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Super Mega Ultra](https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ) | 3:04 |
-| 50 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 49 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 50 | [Stimulation](https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Super Mega Ultra](https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ) | 3:04 |
 | 51 | [Hey Kekulé](https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Strange Burden](https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T) | 3:33 |
 | 52 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |
 | 53 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
 | 54 | [STAY DOWN, LAZARUS](https://open.spotify.com/track/1aka3X2G2jnop9tzY5dhHI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [STAY DOWN, LAZARUS](https://open.spotify.com/album/4wDhf6O8dFSD4wu1l06BHO) | 3:24 |
 | 55 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
 | 56 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
-| 57 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
-| 58 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
+| 57 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
+| 58 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 59 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 60 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
 | 61 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
@@ -88,12 +88,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 78 | [Hourglass](https://open.spotify.com/track/4xz812KZKSW4AewiBoYWWP) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Hourglass](https://open.spotify.com/album/6YN3jTgx4d03QBgLgeSBPu) | 4:02 |
 | 79 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 80 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
-| 81 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
-| 82 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 81 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 82 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
 | 83 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
-| 84 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 |
-| 85 | [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 |
-| 86 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
+| 84 | [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 |
+| 85 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
+| 86 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 |
 | 87 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
 | 88 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
 | 89 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |

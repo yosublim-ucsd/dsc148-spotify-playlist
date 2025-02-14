@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LITTLE JOHN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Whal & Dolph",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220779,
       "name": "La La La",
       "url": "https://open.spotify.com/track/52gvlDnre9craz9dKGObp8"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 197657,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV"
@@ -1930,6 +1930,28 @@
       "duration_ms": 193069,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk"
+    },
+    {
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/4As6SLkweWhpNGIA66b891"
     },
     {
       "album": {
@@ -2971,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33",
+        "url": "https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219081,
+      "name": "\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33",
+      "url": "https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32",
         "url": "https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4"
       },
@@ -3156,7 +3196,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196551,
       "name": "\u0e14\u0e39\u0e21\u0e35\u0e44\u0e23 (DO ME RIGHT)",
       "url": "https://open.spotify.com/track/0WCpX9pvNy081MsecZY0Nk"
@@ -3174,7 +3214,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 194000,
       "name": "\u0e15\u0e01\u0e01\u0e30\u0e43\u0e08\u0e17\u0e33\u0e44\u0e14\u0e49\u0e25\u0e07 (Oops.)",
       "url": "https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v"
@@ -3414,6 +3454,24 @@
       "duration_ms": 285843,
       "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e"
     },
     {
       "album": {
@@ -4084,6 +4142,24 @@
       "duration_ms": 259721,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+    },
+    {
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/5nHgD8Z8x0LvgYrZ9fRtan"
+      },
+      "artists": [
+        {
+          "name": "HANGMAN",
+          "url": "https://open.spotify.com/artist/41jwAewzkXzGnmQotCXQ4u"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e2b\u0e31\u0e27\u0e17\u0e34\u0e48\u0e21\u0e1a\u0e48\u0e2d",
+      "url": "https://open.spotify.com/track/59yaUIntVy5CFzMjEtueu5"
     },
     {
       "album": {
@@ -4771,6 +4847,28 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e34\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e15 (Into You) [feat. PiXXiE]",
+        "url": "https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "\u0e2d\u0e34\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e15 (Into You) [feat. PiXXiE]",
+      "url": "https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
         "url": "https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN"
       },
@@ -4876,7 +4974,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 191460,
       "name": "\u0e40\u0e08\u0e2d\u0e22\u0e31\u0e07? (Still?)",
       "url": "https://open.spotify.com/track/7sCrT0SpZzqZ6FyNFiHPzi"

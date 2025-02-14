@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,433 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,652 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 30 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
 | 31 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
 | 32 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
-| 33 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 |
-| 34 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
+| 33 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
+| 34 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 |
 | 35 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
 | 36 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
 | 37 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 39 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
 | 40 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 41 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
-| 42 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
-| 43 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
+| 42 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
+| 43 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
 | 44 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
 | 45 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 46 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |

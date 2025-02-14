@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -486,6 +504,24 @@
       "duration_ms": 172592,
       "name": "Bull Breed",
       "url": "https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz"
+    },
+    {
+      "album": {
+        "name": "Calling Out Your Name",
+        "url": "https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Calling Out Your Name",
+      "url": "https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5"
     },
     {
       "album": {
@@ -792,6 +828,24 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "album": {
+        "name": "Electric Green Lambo",
+        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155179,
+      "name": "Electric Green Lambo",
+      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
     },
     {
       "album": {
@@ -1274,7 +1328,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 139500,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY"
@@ -1515,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Left Of The Dealer",
+        "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254946,
+      "name": "Left Of The Dealer",
+      "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
+    },
+    {
+      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
@@ -1580,7 +1652,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 238973,
       "name": "Little Secrets",
       "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
@@ -1804,7 +1876,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
@@ -2108,7 +2180,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 116202,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"

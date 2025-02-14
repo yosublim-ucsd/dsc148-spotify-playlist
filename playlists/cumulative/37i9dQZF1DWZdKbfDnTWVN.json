@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ\"> Boutross</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL?si=cc-7LYV2QPufs2_yZ8bT4A\"> KayCyy</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -246,6 +246,24 @@
       "duration_ms": 250000,
       "name": "Aih Maria",
       "url": "https://open.spotify.com/track/0iVU7CCX8PbJcE6JnmAFWo"
+    },
+    {
+      "album": {
+        "name": "ALL IN VEIN",
+        "url": "https://open.spotify.com/album/7D7zpHtUfmqecSWPes3B1D"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187088,
+      "name": "ALL IN VEIN",
+      "url": "https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm"
     },
     {
       "album": {
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 134265,
       "name": "I know",
       "url": "https://open.spotify.com/track/6p7FuImwcfRX5FcrSPpU73"
@@ -3519,6 +3537,28 @@
     },
     {
       "album": {
+        "name": "Navigate",
+        "url": "https://open.spotify.com/album/54OayHIssRRoWcgUCoocNj"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "Ajay [Buruklyn Boyz]",
+          "url": "https://open.spotify.com/artist/1wv9gyGuWt7zm0a3tNxWdC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211061,
+      "name": "Navigate",
+      "url": "https://open.spotify.com/track/4DIP9hzCiOu0GzvabVPAwM"
+    },
+    {
+      "album": {
         "name": "Mbuzi",
         "url": "https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j"
       },
@@ -3710,7 +3750,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234115,
       "name": "NO NEW MEMBERS - REMIX",
       "url": "https://open.spotify.com/track/0m4Paf3YlG2nsFM8WgOYhv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,797 likes - 77 songs - 3 hr 31 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,799 likes - 77 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 3 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
 | 4 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 5 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
-| 6 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:41 |
+| 6 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:43 |
 | 7 | [Dumb](https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:14 |
 | 8 | [Crash Dummy](https://open.spotify.com/track/2CIBj8sa8gdqKWNvfVqp1o) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE \(Something Happen\)](https://open.spotify.com/album/7AjqeviBfyH4re7CWXuvtE) | 2:47 |
 | 9 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 |

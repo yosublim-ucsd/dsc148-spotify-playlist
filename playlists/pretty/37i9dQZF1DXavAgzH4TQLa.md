@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,905 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,896 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 40 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 41 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 42 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
-| 43 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
-| 44 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
+| 43 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
+| 44 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 45 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 46 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
 | 47 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 74 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
 | 75 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
 | 76 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
-| 77 | [Como Olvidarme](https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Como Olvidarme](https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf) | 3:37 |
+| 77 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
 | 78 | [Si Hay Alguien en Tu Vida](https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:38 |
-| 79 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
+| 79 | [Como Olvidarme](https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Como Olvidarme](https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf) | 3:37 |
 | 80 | [Ya No Caigo Más](https://open.spotify.com/track/7dTz3Y350lyH2LT20MxrkV) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Ya No Caigo Más](https://open.spotify.com/album/1izsLMD0QzeIDzrIyKUUkT) | 4:12 |
 
 Snapshot ID: `Z5eihgAAAADYs+ClJqZPoxAJxKeO+ChP`

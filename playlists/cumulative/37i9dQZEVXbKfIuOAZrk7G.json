@@ -1056,8 +1056,8 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
-      "duration_ms": 278277,
+      "date_removed": null,
+      "duration_ms": 278276,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
@@ -5184,6 +5184,32 @@
       "duration_ms": 102342,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/499OiYFGkuTO74jb9tKv8Z"
     },
     {
       "album": {
@@ -11298,7 +11324,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150773,
       "name": "Childlike Things",
       "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
@@ -23378,6 +23404,24 @@
       "duration_ms": 234421,
       "name": "Grippy",
       "url": "https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G"
+    },
+    {
+      "album": {
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228064,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH"
     },
     {
       "album": {
@@ -56392,6 +56436,24 @@
     {
       "album": {
         "name": "strangers",
+        "url": "https://open.spotify.com/album/38wsliaFxTgZRA1TiyGTT1"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135192,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/36i15kanCjDkh8qn2CJWEW"
+    },
+    {
+      "album": {
+        "name": "strangers",
         "url": "https://open.spotify.com/album/2AEjE0bmkcqNAeC5N7hgfD"
       },
       "artists": [
@@ -56406,7 +56468,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 135192,
       "name": "strangers",
       "url": "https://open.spotify.com/track/2QdcmNlQdW8iA4JEg29cgx"
@@ -57622,7 +57684,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -67540,7 +67602,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
@@ -67558,7 +67620,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151984,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4Tf49OI6J2TK1LkdfqgUJt"
@@ -69714,7 +69776,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 90607,
       "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
       "url": "https://open.spotify.com/track/0YAGCZjsDqw6yud2PTMuvu"

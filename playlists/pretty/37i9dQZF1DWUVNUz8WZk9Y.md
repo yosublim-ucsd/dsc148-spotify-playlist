@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,734 likes - 37 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,758 likes - 37 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaundyからのボイスコメント](https://open.spotify.com/track/0bIHNKKcBoemVj8iXw14xd) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Vaundyからのボイスコメント \- 映画ドラえもん “のび太の地球交響楽”](https://open.spotify.com/album/7Lq5oPjkHTpdXchAqtGFXR) | 1:09 |
+| 1 | [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 |
 | 2 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 3 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 |
 | 4 | [Universe](https://open.spotify.com/track/6KLaKHxwJE3CZECVJLH4cN) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Universe](https://open.spotify.com/album/6mzpMk6MO18WhDLXfS3va6) | 4:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 36 | [時の旅人](https://open.spotify.com/track/5ttmfswQyE5tZadNGjJk2T) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/2Ks5h8LcTOGitndh3KTbzv) | 4:00 |
 | 37 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 |
 
-Snapshot ID: `Z6SIdwAAAAC36EvlUpTc2rYWM4FGGJ0J`
+Snapshot ID: `Z64JAgAAAACM4WJ2Fnv/YBV/+vh8gg5g`

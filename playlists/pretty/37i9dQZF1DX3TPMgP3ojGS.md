@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,150 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,349 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 25 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 |
 | 26 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
 | 27 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
-| 28 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 |
-| 29 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
+| 28 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
+| 29 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 |
 | 30 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 |
 | 31 | [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 |
 | 32 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 46 | [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 |
 | 47 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
 | 48 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 |
-| 49 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
-| 50 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
+| 49 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
+| 50 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
 | 51 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
 | 52 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 |
 | 53 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 68 | [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 |
 | 69 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
 | 70 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
-| 71 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
-| 72 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
-| 73 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
+| 71 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
+| 72 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
+| 73 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
 | 74 | [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 |
 | 75 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 76 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
@@ -92,13 +92,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 82 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 |
 | 83 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
 | 84 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 85 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 |
-| 86 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
+| 85 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
+| 86 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 |
 | 87 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
 | 88 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 |
 | 89 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 |
-| 90 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
-| 91 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
+| 90 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
+| 91 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 | 92 | [If You Should Go](https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [If You Should Go](https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP) | 2:07 |
 | 93 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 94 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |

@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-511 songs - 1 day 4 hr 59 min
+512 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Dueles](https://open.spotify.com/track/3j4K4BR0vC1nUq2WgukHJv) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Dueles](https://open.spotify.com/album/02FXUJdRn38OuHguwpSAkM) | 3:20 | 2022-01-21 | 2022-07-17 |
 | [Dueles](https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Dueles](https://open.spotify.com/album/4L1MCvgaAeK5Ot0bRjCj4P) | 4:24 | 2022-01-21 | 2022-06-29 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-07 |  |
+| [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 | 2025-02-13 |  |
 | [El amor de mi vida](https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [El amor de mi vida](https://open.spotify.com/album/37TWuqqDxiDoIQyjHxBz7a) | 3:29 | 2024-10-25 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [El Amor de Mi Vida](https://open.spotify.com/album/58gUcwnLfDnm24H7jXBliQ) | 4:03 | 2022-01-21 | 2022-07-06 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/3nMYIuXBMRMrZjxp7eLOgA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Ulises Piñeyro](https://open.spotify.com/artist/401588jVafLLnM1utmR0Gb) | [El Amor De Mi Vida](https://open.spotify.com/album/6ReApD38Z1LZXKJESAYflU) | 3:06 | 2024-11-15 |  |
@@ -236,7 +237,7 @@
 | [Llamala](https://open.spotify.com/track/3GziopS69lAXBnCD2qJkeb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Llamala](https://open.spotify.com/album/7m2kxXM0SycHuj5dIP5aRY) | 3:05 | 2024-09-27 | 2024-10-05 |
 | [Lloraras mas de diez veces](https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \- Ahora juega en primera](https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM) | 3:29 | 2022-01-14 | 2025-01-02 |
 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 |  |
-| [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2022-04-01 |  |
+| [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2022-04-01 | 2025-02-14 |
 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 | 2022-02-25 | 2024-05-10 |
 | [Lo Sabía](https://open.spotify.com/track/7fNgtXTzCpUOcxwTVes1Z4) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Lo Sabía](https://open.spotify.com/album/6pacvUiT5v0mVgMkIfBQgA) | 3:52 | 2024-11-01 |  |
 | [Loco](https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Loco](https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK) | 2:25 | 2023-10-20 |  |

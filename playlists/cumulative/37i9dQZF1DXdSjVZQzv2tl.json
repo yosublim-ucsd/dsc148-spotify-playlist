@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto\n\n\n",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Hugo & Guilherme, Wesley Safad\u00e3o\n\n\n",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155488,
       "name": "Chorosa - Ao Vivo",
       "url": "https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh"
@@ -4029,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo em Bras\u00edlia (Vol.2)",
+        "url": "https://open.spotify.com/album/0kVr8PFSSxtjM4AxdY0WFV"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154925,
+      "name": "Opa Cad\u00ea Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3R8dmcSyROSR73XsdeSd7g"
+    },
+    {
+      "album": {
         "name": "Pactos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS"
       },
@@ -4358,6 +4376,24 @@
       "duration_ms": 137957,
       "name": "Problem\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7"
+    },
+    {
+      "album": {
+        "name": "Proibido Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165888,
+      "name": "Proibido Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
     },
     {
       "album": {
@@ -4884,7 +4920,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"

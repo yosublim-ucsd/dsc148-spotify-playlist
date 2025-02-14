@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8870,7 +8870,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 142053,
       "name": "chess - slowed",
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
@@ -15306,6 +15306,28 @@
       "duration_ms": 190154,
       "name": "En Blindadas",
       "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
+    },
+    {
+      "album": {
+        "name": "En El Pr\u00f3ximo Big Bang",
+        "url": "https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Ori\u00f3n",
+          "url": "https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "En El Pr\u00f3ximo Big Bang",
+      "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
     },
     {
       "album": {
@@ -29930,6 +29952,24 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "album": {
+        "name": "Mi Orgullo",
+        "url": "https://open.spotify.com/album/2S5sTlzCyEmOF8Pd15tVta"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rush",
+          "url": "https://open.spotify.com/artist/5w0ElGXChVRIePkOgIs7O4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183954,
+      "name": "Mi Orgullo",
+      "url": "https://open.spotify.com/track/5HWickg10vbWoyPgmkyKKq"
     },
     {
       "album": {

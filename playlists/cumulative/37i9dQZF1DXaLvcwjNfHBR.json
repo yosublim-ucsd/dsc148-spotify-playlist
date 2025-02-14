@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Tobiahs",
+  "description": "Your new favourite songs! Cover: Dom Dolla",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -2368,6 +2368,24 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -8864,7 +8882,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -10931,6 +10949,24 @@
     },
     {
       "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6"
+    },
+    {
+      "album": {
         "name": "Rtr",
         "url": "https://open.spotify.com/album/2WjsVMTw6Bk7hF7IpS9k83"
       },
@@ -11048,7 +11084,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
@@ -11962,7 +11998,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -12482,7 +12518,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
@@ -13404,7 +13440,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 212133,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
@@ -13426,7 +13462,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -14652,7 +14688,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"

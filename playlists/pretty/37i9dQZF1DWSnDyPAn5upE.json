@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 71744,
+  "num_followers": 71827,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "Miranda Rain",
+          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
+        }
+      ],
+      "duration_ms": 110608,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "Enchanted Isle",
         "url": "https://open.spotify.com/album/6oXgXpm6UC0kveOf8A8qrL"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 274506,
       "name": "Pyramid Song (Arr. Lawson)",
       "url": "https://open.spotify.com/track/4s0wuHeoQUqseTxG10cukT"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        },
-        {
-          "name": "Miranda Rain",
-          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
-        }
-      ],
-      "duration_ms": 110608,
-      "name": "hold me",
-      "url": "https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Northwest & Southeast",
         "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 406000,
       "name": "Thursday Night, Friday Morning",
       "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Anomi",
         "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "Saturna",
+        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
+      },
+      "artists": [
+        {
+          "name": "Nordic Hymn",
+          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Saturna",
+      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 239000,
       "name": "A Model Of Reality - Aonian Remix",
       "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "Saturna",
-        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
-      },
-      "artists": [
-        {
-          "name": "Nordic Hymn",
-          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Saturna",
-      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Bright Girl",
-      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 156000,
       "name": "Shimmer in the Sky - Yoko Komatsu Rework",
       "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Bright Girl",
+      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1163,22 +1163,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "ahead",
-        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "ahead",
-      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1231,22 +1215,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Pray for Us",
-        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+        "name": "ahead",
+        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
       },
       "artists": [
         {
-          "name": "Kisel\u0451k",
-          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
-        },
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
         }
       ],
-      "duration_ms": 292605,
-      "name": "Pray for Us",
-      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+      "duration_ms": 124500,
+      "name": "ahead",
+      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1263,6 +1243,26 @@
       "duration_ms": 473075,
       "name": "Illogical Lullaby",
       "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+      },
+      "artists": [
+        {
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
       },
       "artists": [
         {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 650794,
       "name": "Sospiro",
       "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "Hush Now Baby",
         "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 101142,
       "name": "Hush Now Baby",
       "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2025-01-30 10:41:43",

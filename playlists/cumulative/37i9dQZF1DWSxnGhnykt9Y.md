@@ -4,18 +4,19 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Qing Madi
 
-93 songs - 4 hr 33 min
+95 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-11-29 |  |
 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-11-29 |  |
+| [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-14 |  |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-11-29 | 2025-01-31 |
 | [Away](https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Something In A Name, Vol.1](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 2:51 | 2024-11-29 |  |
 | [Bad Company](https://open.spotify.com/track/5sVlhCWCwy6hVL9xyCx743) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Bad Company](https://open.spotify.com/album/1jSyrNNZhhH0ETSZzJACWf) | 3:05 | 2025-01-17 | 2025-01-22 |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-11-29 |  |
 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 | 2024-11-29 |  |
-| [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 |  |
+| [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 | 2025-02-14 |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-11-29 |  |
 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 | 2024-11-29 |  |
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-11-29 |  |
@@ -23,7 +24,7 @@
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 |  |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-11-29 |  |
 | [Complicated](https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Dutty Love](https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy) | 2:36 | 2024-11-29 |  |
-| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-11-29 |  |
+| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-11-29 | 2025-02-14 |
 | [Dang Girlfriend](https://open.spotify.com/track/3KIfPrupoQfUDcxC1VVI86) | [Rojenka](https://open.spotify.com/artist/1kGs99ec8kAIL7Li8oSTLW) | [Dang Girlfriend](https://open.spotify.com/album/5WLO8WawfZ91ZuiHbf6gEI) | 3:27 | 2024-11-29 | 2024-12-07 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-11-29 |  |
 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 | 2024-11-29 |  |
@@ -73,6 +74,7 @@
 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 | 2025-01-17 |  |
 | [On God](https://open.spotify.com/track/6386NbJ2i8CAf5iaTJgwV5) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [On God](https://open.spotify.com/album/2yDADWBzguJS46NDxVrhK7) | 2:47 | 2024-11-29 |  |
 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 | 2024-11-29 |  |
+| [Pas de toi Sans Moi](https://open.spotify.com/track/7J6l1EHxPGOBKm1gJ6vrzi) | [Sandrine Nnanga](https://open.spotify.com/artist/41d6INqm6tGuJx3SYD0j3x), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ) | [Pas de toi Sans Moi](https://open.spotify.com/album/4eSnWoLdbFaBXQk3XkBKcA) | 3:48 | 2025-02-14 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2024-11-29 |  |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-11-29 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-29 |  |

@@ -1,13 +1,49 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6708,
+  "num_followers": 6706,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACtPt+YZtIt3WIxkxKm1T5Hz0RGNjAU",
+  "snapshot_id": "AACtQEm8xUHr9njf7nTtdTMyjH4UXrtE",
   "tracks": [
+    {
+      "added_at": "2025-02-13 08:57:12",
+      "album": {
+        "name": "Mis \u00eddolos est\u00e1n en mi casa",
+        "url": "https://open.spotify.com/album/4XRa2V0Quhj4qJ1J4HZywO"
+      },
+      "artists": [
+        {
+          "name": "marquitos",
+          "url": "https://open.spotify.com/artist/6BsVKwQgIZHaojxpNmOlRU"
+        }
+      ],
+      "duration_ms": 219874,
+      "name": "Mis \u00eddolos est\u00e1n en mi casa",
+      "url": "https://open.spotify.com/track/6RIBmb2ULjexyrf9iAWXTU"
+    },
+    {
+      "added_at": "2025-02-13 09:09:07",
+      "album": {
+        "name": "Mon Cheri Go Home",
+        "url": "https://open.spotify.com/album/6yUTviwyp8FZoHJ2abAz4G"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        },
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        }
+      ],
+      "duration_ms": 171459,
+      "name": "Mon Cheri Go Home",
+      "url": "https://open.spotify.com/track/0340Kvl35SM3t1Hg0ReBj4"
+    },
     {
       "added_at": "2025-02-03 08:52:02",
       "album": {

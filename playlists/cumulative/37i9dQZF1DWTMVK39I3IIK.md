@@ -2,14 +2,15 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  SOL & Emil Kruse
+> de skarpeste knive i dansk musik  📸  Gunge
 
-152 songs - 8 hr 2 min
+153 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Dag Er Vi 1 Minde](https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [1 Dag Er Vi 1 Minde](https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y) | 3:30 | 2024-07-04 | 2024-07-29 |
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
+| [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 | 2025-02-13 |  |
 | [Ambulance](https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Ambulance](https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4) | 3:03 | 2024-09-12 | 2024-10-29 |
 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 | 2025-02-12 |
 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 | 2024-09-12 |
@@ -154,7 +155,7 @@
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 | 2024-11-29 |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
-| [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
+| [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 | 2025-02-14 |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 |  |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 |  |

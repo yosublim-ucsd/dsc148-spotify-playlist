@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,008 songs - 1 day 15 hr 3 min
+1,009 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2022-11-11 | 2025-01-08 |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 | 2024-07-13 |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-04-15 | 2022-07-08 |
+| [Catnip](https://open.spotify.com/track/2Nk8JO0n5Juw1ibgXcnHcY) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Catnip](https://open.spotify.com/album/7hhoLPGJppGrXyAK2h3bES) | 2:21 | 2025-02-07 |  |
 | [catwalk](https://open.spotify.com/track/1DOEEHMXg2exzfzs2lRts2) | [Burguess' Beatz](https://open.spotify.com/artist/1i1hunPBHEd4w8PVILQjwD) | [catwalk](https://open.spotify.com/album/1v0jGGutvINFPeAdz3LYdJ) | 2:31 | 2023-12-08 |  |
 | [Cavern](https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr) | [Lil Joke](https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ) | [Cavern](https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1) | 1:57 | 2022-04-22 | 2023-10-13 |
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2022-09-30 | 2023-10-20 |
@@ -553,7 +554,7 @@
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Nature Walk](https://open.spotify.com/track/7LDwD2SbhQ7GXUek1tIjO5) | [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Nature Walk](https://open.spotify.com/album/5CzV7Mh1NKDreM1LChVEgr) | 1:54 | 2022-06-24 | 2022-08-19 |
 | [Need Some Space](https://open.spotify.com/track/0TBWvdscZJCLXyOUGbun4p) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Need Some Space](https://open.spotify.com/album/1O8Wsw4w0GQPrU8cDSZHig) | 3:00 | 2024-01-19 |  |
-| [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 | 2025-02-10 |
+| [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 |  |
 | [neon glow](https://open.spotify.com/track/4R3zRuU2z2QkZP8lim6fMe) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [neon glow](https://open.spotify.com/album/1vkxeA90QkysyBu9kAdS0f) | 2:41 | 2024-09-27 | 2025-01-15 |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-15 | 2022-07-29 |
@@ -647,7 +648,7 @@
 | [Plants for free](https://open.spotify.com/track/3wHLlr7Mt7FalYpX2EpogI) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Plants for free](https://open.spotify.com/album/1dJSgO3ATHe6yDQkXa4bWP) | 2:31 | 2023-04-28 |  |
 | [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-07-19 | 2024-12-06 |
 | [Pleasant Trip](https://open.spotify.com/track/4Noemyd2YfXLAXLUItJ7Fh) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Pleasant Trip](https://open.spotify.com/album/2slqsS4evjnu3OydgPOKja) | 2:19 | 2022-11-25 |  |
-| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 |  |
+| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 | 2025-02-14 |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2022-04-15 |  |
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2022-04-15 | 2023-07-20 |
 | [Poolside](https://open.spotify.com/track/6CY364GXE5gEMnQch6KGF4) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Poolside](https://open.spotify.com/album/7IERaPp1czfhKdTywV3OT2) | 2:22 | 2022-08-05 | 2022-10-14 |
@@ -853,7 +854,7 @@
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2024-10-10 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
-| [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 |  |
+| [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 | 2025-02-14 |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [sweatshop](https://open.spotify.com/track/4fIrnMVgzowokBFTp8LFqR) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [sweatshop](https://open.spotify.com/album/3Oo6Wh0ynjJHbRXk3FV1g7) | 2:22 | 2024-10-16 | 2024-12-07 |

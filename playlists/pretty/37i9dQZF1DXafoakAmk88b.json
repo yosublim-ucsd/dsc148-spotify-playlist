@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: FKA twigs ",
-  "num_followers": 54910,
+  "num_followers": 54935,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "You're Bleeding Everywhere",
+      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
         "name": "As Soon As You Can",
         "url": "https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 160320,
       "name": "feel like home",
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "You're Bleeding Everywhere",
-      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
     },
     {
       "added_at": "2025-02-10 23:39:34",

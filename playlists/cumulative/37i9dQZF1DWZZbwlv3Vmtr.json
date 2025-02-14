@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Catnip",
+        "url": "https://open.spotify.com/album/7hhoLPGJppGrXyAK2h3bES"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jo",
+          "url": "https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141937,
+      "name": "Catnip",
+      "url": "https://open.spotify.com/track/2Nk8JO0n5Juw1ibgXcnHcY"
+    },
+    {
+      "album": {
         "name": "catwalk",
         "url": "https://open.spotify.com/album/1v0jGGutvINFPeAdz3LYdJ"
       },
@@ -10378,7 +10396,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 104433,
       "name": "neomatter",
       "url": "https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ"
@@ -12126,7 +12144,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 123870,
       "name": "please",
       "url": "https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc"
@@ -16010,7 +16028,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 128248,
       "name": "Surfing Cats",
       "url": "https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2"

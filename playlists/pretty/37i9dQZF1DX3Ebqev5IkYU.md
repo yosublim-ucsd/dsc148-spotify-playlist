@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,918 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960,869 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 87 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 |
 | 88 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
 | 89 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 |
-| 90 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 |
+| 90 | [Heart Skips a Beat \(feat\. Rizzle Kicks\)](https://open.spotify.com/track/1f8UCzB3RqIgNkW7QIiIeP) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 |
 
 Snapshot ID: `Z6Ys6wAAAAB7US9FOrSZ/CPLC2dHWckX`

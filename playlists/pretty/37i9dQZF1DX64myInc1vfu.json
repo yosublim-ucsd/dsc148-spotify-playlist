@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 93858,
+  "num_followers": 93902,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-01-24 05:00:46",
       "album": {
+        "name": "Del Cielo Te Cuido",
+        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Del Cielo Te Cuido",
+      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+    },
+    {
+      "added_at": "2025-01-24 05:00:46",
+      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -515,26 +531,6 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
-      "added_at": "2025-01-24 05:00:46",
-      "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2025-01-24 05:00:46",
@@ -555,18 +551,22 @@
     {
       "added_at": "2025-01-24 05:00:46",
       "album": {
-        "name": "Del Cielo Te Cuido",
-        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
       "artists": [
         {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 208453,
-      "name": "Del Cielo Te Cuido",
-      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2025-01-24 05:00:46",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-01-24 05:00:46",
       "album": {
-        "name": "Parceiros, Vol. 3",
-        "url": "https://open.spotify.com/album/0iOAjduxkyRrCrU1n4G8Km"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 219526,
-      "name": "Tiempo De Re\u00edr",
-      "url": "https://open.spotify.com/track/7tnj2t2hFnDvxDteGuO9TV"
-    },
-    {
-      "added_at": "2025-01-24 05:00:46",
-      "album": {
         "name": "Viejitos",
         "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 171145,
       "name": "Ojos de Serpiente",
       "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
+    },
+    {
+      "added_at": "2025-01-24 05:00:46",
+      "album": {
+        "name": "Parceiros, Vol. 3",
+        "url": "https://open.spotify.com/album/0iOAjduxkyRrCrU1n4G8Km"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 219526,
+      "name": "Tiempo De Re\u00edr",
+      "url": "https://open.spotify.com/track/7tnj2t2hFnDvxDteGuO9TV"
     },
     {
       "added_at": "2025-01-24 05:00:46",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-01-24 05:00:46",
       "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+        "name": "Bajo el Mismo Cielo",
+        "url": "https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK"
       },
       "artists": [
         {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
         }
       ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
+      "duration_ms": 207981,
+      "name": "La Flor de la Canela",
+      "url": "https://open.spotify.com/track/1vspchhWBQ8zOagLElf3O6"
     },
     {
       "added_at": "2025-01-24 05:00:46",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-01-24 05:00:46",
       "album": {
-        "name": "Bajo el Mismo Cielo",
-        "url": "https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK"
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
       },
       "artists": [
         {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
         }
       ],
-      "duration_ms": 207981,
-      "name": "La Flor de la Canela",
-      "url": "https://open.spotify.com/track/1vspchhWBQ8zOagLElf3O6"
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2025-01-24 05:00:46",

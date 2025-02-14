@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 132418,
       "name": "bipolar",
       "url": "https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "Himmelskib",
       "url": "https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 368970,
       "name": "In Time You Will",
       "url": "https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 177971,
       "name": "Info Pandemie",
       "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152279,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 354306,
       "name": "Love And The Framed Insects",
       "url": "https://open.spotify.com/track/3uK1I2fCTIvVyRnkcJRuYf"
@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "album": {
         "name": "Subaerial",
         "url": "https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM"
       },
@@ -3232,6 +3250,28 @@
       "duration_ms": 227427,
       "name": "Of Becoming and Dying",
       "url": "https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02"
+    },
+    {
+      "album": {
+        "name": "Old Age",
+        "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
+      },
+      "artists": [
+        {
+          "name": "AMIANGELIKA",
+          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
+        },
+        {
+          "name": "1100",
+          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236444,
+      "name": "Old Age",
+      "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
     },
     {
       "album": {
@@ -3286,6 +3326,24 @@
       "duration_ms": 342013,
       "name": "Once",
       "url": "https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w"
+    },
+    {
+      "album": {
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "album": {
@@ -5122,7 +5180,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/5uFH2z81nnknaxof1PwWyq"

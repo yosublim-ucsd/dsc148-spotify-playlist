@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the highlights from the world of indie! Cover: Jelly Crystal & Nicole Saboun\u00e9",
+  "description": "All the highlights from the world of indie! Cover: Bon Iver ",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 196343,
       "name": "2DK",
       "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "album": {
+        "name": "300",
+        "url": "https://open.spotify.com/album/5pFCApdQBDUHpC6YrduUER"
+      },
+      "artists": [
+        {
+          "name": "Kakkmaddafakka",
+          "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214526,
+      "name": "300",
+      "url": "https://open.spotify.com/track/1gyPST4OVQWS62tpsm36fa"
     },
     {
       "album": {
@@ -454,7 +472,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 692000,
       "name": "Amber Waves",
       "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 236691,
       "name": "as I left the room",
       "url": "https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h"
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
+    },
+    {
+      "album": {
         "name": "Best If You Go",
         "url": "https://open.spotify.com/album/6ElgbarFg1wpEiuL4XHLbV"
       },
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 91500,
       "name": "carousel",
       "url": "https://open.spotify.com/track/7y0NTuyelHDAzWogEKpcMr"
@@ -1546,6 +1582,28 @@
       "duration_ms": 182824,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
+    },
+    {
+      "album": {
+        "name": "choking on my words",
+        "url": "https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        },
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "choking on my words",
+      "url": "https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC"
     },
     {
       "album": {
@@ -1708,7 +1766,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185039,
       "name": "Come",
       "url": "https://open.spotify.com/track/2YEDUnhMEKXfywhPyzhJTH"
@@ -2229,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "album": {
         "name": "Don't Get Me Started",
         "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
       },
@@ -2562,6 +2638,24 @@
       "duration_ms": 177512,
       "name": "Evergreen (feat. Caamp)",
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+    },
+    {
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "album": {
@@ -3353,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "I Love You / Greyhound Station",
+        "url": "https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169740,
+      "name": "Greyhound Station",
+      "url": "https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
@@ -3874,6 +3986,24 @@
       "duration_ms": 166144,
       "name": "I Broke Me First",
       "url": "https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W"
+    },
+    {
+      "album": {
+        "name": "I ett annat liv",
+        "url": "https://open.spotify.com/album/11thYhWXkLlkNusbNV6l3D"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "I ett annat liv",
+      "url": "https://open.spotify.com/track/2QpUiWyI9wKOzMMA6d384M"
     },
     {
       "album": {
@@ -5132,7 +5262,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 187639,
       "name": "Like You Did Before",
       "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
@@ -5680,7 +5810,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 195600,
       "name": "Minns det som ig\u00e5r",
       "url": "https://open.spotify.com/track/2vpLChsaL4r2pnNLZ9zibN"
@@ -6174,7 +6304,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 210928,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9"
@@ -6282,7 +6412,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 202200,
       "name": "Oh Maria",
       "url": "https://open.spotify.com/track/1czSjU9RXIMxc7qyRRp5ey"
@@ -6444,7 +6574,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 167000,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
@@ -6462,7 +6592,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 139080,
       "name": "ooo",
       "url": "https://open.spotify.com/track/5ZMvVmNZepJxqf2Cui2aeu"
@@ -6664,7 +6794,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220885,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
@@ -7008,10 +7138,28 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 208093,
       "name": "Red",
       "url": "https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP"
+    },
+    {
+      "album": {
+        "name": "Remember My Name",
+        "url": "https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Remember My Name",
+      "url": "https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06"
     },
     {
       "album": {
@@ -7228,7 +7376,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
@@ -7347,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "album": {
         "name": "Automatic (Preview)",
         "url": "https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p"
       },
@@ -7358,7 +7524,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 174322,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB"
@@ -7398,7 +7564,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234875,
       "name": "San Miguel",
       "url": "https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp"
@@ -7622,6 +7788,24 @@
       "duration_ms": 198820,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1ixAebbj2b4OV2I1sjA07O"
+    },
+    {
+      "album": {
+        "name": "Dreamstruck",
+        "url": "https://open.spotify.com/album/1Xn66YQ6IeTmmja7p7Dufv"
+      },
+      "artists": [
+        {
+          "name": "Dreamstruck",
+          "url": "https://open.spotify.com/artist/4rPP18s3CGFp8Cej2xWGRY"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196392,
+      "name": "Shattered Dreams",
+      "url": "https://open.spotify.com/track/7e4YWfcN9hwnA6qPSJMUQN"
     },
     {
       "album": {
@@ -7986,7 +8170,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 186550,
       "name": "Something",
       "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
@@ -8026,7 +8210,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 225560,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/19rYVPqu1o8vgMhbNefJbm"
@@ -8249,6 +8433,32 @@
     },
     {
       "album": {
+        "name": "Stream of Consciousness",
+        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162401,
+      "name": "Stream of Consciousness",
+      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
+    },
+    {
+      "album": {
         "name": "Strong (Acoustic)",
         "url": "https://open.spotify.com/album/4ew9Njuvj7nh3mSrEpnezQ"
       },
@@ -8332,7 +8542,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 242974,
       "name": "Supermarket Fridays",
       "url": "https://open.spotify.com/track/01f2MOPf7mAIJBocrM7nKo"
@@ -8800,6 +9010,28 @@
       "duration_ms": 212750,
       "name": "The world of yesterday",
       "url": "https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9"
+    },
+    {
+      "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
     },
     {
       "album": {
@@ -9446,7 +9678,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 375750,
       "name": "What Else Is There? (True Electric)",
       "url": "https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1"
@@ -9464,7 +9696,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 150473,
       "name": "what if... (dancing alone)",
       "url": "https://open.spotify.com/track/0fvzQnvFvbtmsVETDn9NeC"
@@ -9500,7 +9732,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 251294,
       "name": "Where'd It Go Wrong?",
       "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
@@ -9908,7 +10140,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 187666,
       "name": "Your New Favorite Song",
       "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"

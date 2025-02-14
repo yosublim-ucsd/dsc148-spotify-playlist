@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,051 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,086 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 26 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
 | 27 | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 |
 | 28 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
-| 29 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 |
-| 30 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 29 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 30 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 |
 | 31 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 32 | [The Apocalypse](https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm) | [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [The Apocalypse](https://open.spotify.com/album/0isNxwaR0jiaJwNMrGRUiZ) | 2:52 |
 | 33 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
 | 46 | [365](https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [365](https://open.spotify.com/album/0xV7AAaEIHVrLSo8ptGWg1) | 2:20 |
 | 47 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
-| 48 | [Sleepless](https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Sleepless](https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn) | 3:27 |
-| 49 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 |
-| 50 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 |
+| 48 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 |
+| 49 | [Weltschmerz](https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Weltschmerz](https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd) | 3:05 |
+| 50 | [Sleepless](https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Sleepless](https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn) | 3:27 |
 
 Snapshot ID: `Z6ms4wAAAAAROhODMQBW3u9c8Ysqh9Sh`

@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 40 | [Change](https://open.spotify.com/track/4tm4ucTjb7eJ85iz9tZjnt) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 |
 | 41 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 42 | [Black Rose](https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
-| 43 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
-| 44 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
+| 43 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
+| 44 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
 | 45 | [Paid In Full](https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ) | [DJ Bubba](https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Paid In Full](https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG) | 2:51 |
 | 46 | [Landslide](https://open.spotify.com/track/4ACXc7diLQP7kQcoTgh0d1) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:34 |
 | 47 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 51 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 52 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `AbpbNAAAAAB70Pk+rvGbXcmRXU+0CcTO`
+Snapshot ID: `Abpg8gAAAABltVQaOfCJD+gdFEkK83pp`

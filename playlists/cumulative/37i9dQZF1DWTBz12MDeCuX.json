@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Wale",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Eli Preiss, makko",
   "name": "me right now",
   "tracks": [
     {
@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "als_ich_klein_war",
+        "url": "https://open.spotify.com/album/56oRnV0nQhQtE3YbMSFAeQ"
+      },
+      "artists": [
+        {
+          "name": "yungfijay",
+          "url": "https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "als_ich_klein_war",
+      "url": "https://open.spotify.com/track/1sjq1UhvSUzSKJypsGEAGn"
+    },
+    {
+      "album": {
         "name": "Altbau",
         "url": "https://open.spotify.com/album/4HdYzDW3vQcql2irYcqADY"
       },
@@ -3824,7 +3842,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 126790,
       "name": "aufwachen blaumachen",
       "url": "https://open.spotify.com/track/1fMrxJPijDGzJCzQuDOtEN"
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
@@ -7662,6 +7680,24 @@
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+    },
+    {
+      "album": {
+        "name": "FOTZE",
+        "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126749,
+      "name": "B\u00d6SER JUNGE",
+      "url": "https://open.spotify.com/track/5lDFdYwhyarra7XImI4SN8"
     },
     {
       "album": {
@@ -11166,6 +11202,24 @@
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/4G0Qrxqm15QTeC2jMcOpAf"
+    },
+    {
+      "album": {
+        "name": "doppelpunktstern :*",
+        "url": "https://open.spotify.com/album/15SfGdTlnE251TxmIyDvvf"
+      },
+      "artists": [
+        {
+          "name": "Niclov",
+          "url": "https://open.spotify.com/artist/79DrPht1MJw7KRXHINJDMd"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147668,
+      "name": "doppelpunktstern :*",
+      "url": "https://open.spotify.com/track/4csFV9Pb0wXr0GtFlmumOT"
     },
     {
       "album": {
@@ -15148,7 +15202,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 133850,
       "name": "French Nails",
       "url": "https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ"
@@ -21116,7 +21170,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 144093,
       "name": "Ich Such",
       "url": "https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k"
@@ -21436,6 +21490,28 @@
       "duration_ms": 113868,
       "name": "Ily ^-^",
       "url": "https://open.spotify.com/track/4jylhvKfe4flgEyt2oQjbQ"
+    },
+    {
+      "album": {
+        "name": "Im Doing Fine",
+        "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        },
+        {
+          "name": "Promoting Sounds",
+          "url": "https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99844,
+      "name": "Im Doing Fine",
+      "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
     },
     {
       "album": {
@@ -24943,6 +25019,24 @@
     },
     {
       "album": {
+        "name": "Letzte Chance",
+        "url": "https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160136,
+      "name": "Letzte Chance",
+      "url": "https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY"
+    },
+    {
+      "album": {
         "name": "Letztendlich",
         "url": "https://open.spotify.com/album/4ndqsfxyeN7NMXyvkBpHTh"
       },
@@ -26560,7 +26654,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 140583,
       "name": "LV",
       "url": "https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL"
@@ -34552,7 +34646,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 208125,
       "name": "prettiest ex",
       "url": "https://open.spotify.com/track/6GUg6ifQySbpcAXb8D1HN2"
@@ -36306,6 +36400,28 @@
       "duration_ms": 159106,
       "name": "Sailor Moon",
       "url": "https://open.spotify.com/track/1n6wX18QCB6Lv6EgnorRkz"
+    },
+    {
+      "album": {
+        "name": "Sailor Moon",
+        "url": "https://open.spotify.com/album/05jJOSuO1HxpdNXuHlY2IB"
+      },
+      "artists": [
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213315,
+      "name": "Sailor Moon",
+      "url": "https://open.spotify.com/track/6STLf3333T98Buf6L9Sqtr"
     },
     {
       "album": {
@@ -43982,7 +44098,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 184285,
       "name": "Und ich lauf",
       "url": "https://open.spotify.com/track/02580fheyYmwita65q7p4f"
@@ -44218,7 +44334,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 126542,
       "name": "UNISEXKLO",
       "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
@@ -47913,6 +48029,24 @@
     },
     {
       "album": {
+        "name": "WIE KANN MAN SO SEIN?!",
+        "url": "https://open.spotify.com/album/2lvuOgcO5DKp3GsRwVuauq"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "WIE KANN MAN SO SEIN?!",
+      "url": "https://open.spotify.com/track/23wa6ozUycqiDwrwAXAAvy"
+    },
+    {
+      "album": {
         "name": "Wie l\u00e4sst man los?",
         "url": "https://open.spotify.com/album/6qA2Iw00tU9pziYUSMq7NE"
       },
@@ -48900,6 +49034,32 @@
       "duration_ms": 216466,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
+    },
+    {
+      "album": {
+        "name": "Ypsilon (LMMR Remix)",
+        "url": "https://open.spotify.com/album/3ecZh7nuK8SVeeEpxU2G6X"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        },
+        {
+          "name": "LMMR",
+          "url": "https://open.spotify.com/artist/7u7QXrFgKj2G6Sgu2naqlA"
+        },
+        {
+          "name": "Moritz Limmer",
+          "url": "https://open.spotify.com/artist/2lZHH9MxYc9CRnjgzxfnGS"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144672,
+      "name": "Ypsilon - LMMR Remix",
+      "url": "https://open.spotify.com/track/0Kx6rOYyacTbjQcKiBV0hR"
     },
     {
       "album": {

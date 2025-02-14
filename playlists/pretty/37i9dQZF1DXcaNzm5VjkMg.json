@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu cinta untuk tambatan hati.",
-  "num_followers": 215906,
+  "num_followers": 215942,
   "original_name": "Bicara Cinta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WpAgAAAAB0Khsn5yzbhdg+l+HViG29",
+  "snapshot_id": "Z610RQAAAACHJRBsMRpOsqGCZYBcozT/",
   "tracks": [
     {
       "added_at": "2025-02-07 06:32:34",
@@ -39,6 +39,26 @@
       "duration_ms": 211301,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL"
+    },
+    {
+      "added_at": "2025-02-13 04:25:41",
+      "album": {
+        "name": "Judika Mencari Cinta",
+        "url": "https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Duma",
+          "url": "https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Sampai Akhir (feat. DuMa)",
+      "url": "https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN"
     },
     {
       "added_at": "2025-02-07 06:32:34",

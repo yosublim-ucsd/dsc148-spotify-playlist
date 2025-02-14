@@ -23889,6 +23889,28 @@
     },
     {
       "album": {
+        "name": "Me 'Geia Sou",
+        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222397,
+      "name": "Me 'Geia Sou",
+      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
+    },
+    {
+      "album": {
         "name": "ME N U",
         "url": "https://open.spotify.com/album/2TXNynYdn4d6XXeYlGPQbZ"
       },
@@ -33616,7 +33638,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 238518,
       "name": "Se Periptosi Pou",
       "url": "https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4"

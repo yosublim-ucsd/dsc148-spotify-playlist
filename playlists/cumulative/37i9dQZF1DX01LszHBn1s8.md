@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> 🫶✨ this is what falling in ❤️ feels like  ✨ 🫶
+> 🕯🪽🪦🥀🕊️💔 Duo Keyshauna Renee Lingo 💔🕊️🥀🪦🪽🕯
 
-1,581 songs - 3 day 11 hr 21 min
+1,582 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Left Outside Alone](https://open.spotify.com/track/3xl7PsO7Hzuig6To9FgDm6) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Anastacia](https://open.spotify.com/album/032ovDTHUzM5tWZeFqPPEA) | 4:17 | 2022-05-19 | 2025-01-08 |
 | [Lemonade](https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lemonade](https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH) | 2:26 | 2024-01-23 | 2025-01-08 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-21 | 2025-01-08 |
+| [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 | 2025-02-13 |  |
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2022-05-19 | 2022-10-29 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2022-05-19 | 2022-10-29 |
 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 | 2022-05-19 | 2025-01-08 |

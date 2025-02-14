@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1960918,
+  "num_followers": 1960869,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-02-07 15:55:23",
       "album": {
-        "name": "Heather On The Hill",
-        "url": "https://open.spotify.com/album/2beYnTms954gTl7cYEupjN"
+        "name": "In Case You Didn't Know",
+        "url": "https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve"
       },
       "artists": [
         {
-          "name": "Nathan Evans",
-          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        },
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
         }
       ],
-      "duration_ms": 139857,
-      "name": "Heather On The Hill",
-      "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
+      "duration_ms": 202266,
+      "name": "Heart Skips a Beat (feat. Rizzle Kicks)",
+      "url": "https://open.spotify.com/track/1f8UCzB3RqIgNkW7QIiIeP"
     }
   ],
   "unique_name": "Stimmungsmacher",

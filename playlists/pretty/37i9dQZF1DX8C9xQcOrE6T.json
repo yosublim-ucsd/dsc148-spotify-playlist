@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2. ",
-  "num_followers": 5501240,
+  "num_followers": 5501688,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6qwuQAAAACVBT6P9wB1Hnx7TrUDniSM",
+  "snapshot_id": "Z66UIAAAAABIX9N010k7s3+uJTKcS3dE",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -65,6 +65,26 @@
       "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
     },
     {
+      "added_at": "2024-02-06 01:14:11",
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
+    },
+    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -119,6 +139,26 @@
       "duration_ms": 210320,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 177322,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -863,26 +903,6 @@
       "duration_ms": 236066,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
-    },
-    {
-      "added_at": "2024-02-06 01:14:11",
-      "album": {
-        "name": "Descendants (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1931,26 +1951,6 @@
       "duration_ms": 170186,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
     },
     {
       "added_at": "2024-01-08 22:56:36",

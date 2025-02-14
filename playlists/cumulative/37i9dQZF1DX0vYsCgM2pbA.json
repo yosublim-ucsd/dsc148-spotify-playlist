@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Don't Fret!",
+        "url": "https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Don't Fret!",
+      "url": "https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"
+    },
+    {
+      "album": {
         "name": "don't give up on me",
         "url": "https://open.spotify.com/album/7JzEyrvfRWletnCLkJPCRP"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 215605,
       "name": "Love Type",
       "url": "https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7"

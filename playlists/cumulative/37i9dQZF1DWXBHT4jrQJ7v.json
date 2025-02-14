@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "Last Night of the Proms",
+        "url": "https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Philip Ellis",
+          "url": "https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Elgar: Variations on an Original Theme, Op. 36 \"Enigma\": Variation IX. Adagio \"Nimrod\"",
+      "url": "https://open.spotify.com/track/5t9UkwkrumEmOpnz3SRdbm"
+    },
+    {
+      "album": {
         "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
         "url": "https://open.spotify.com/album/49fD8z3scrgWpCnfkGtbSI"
       },
@@ -958,32 +984,6 @@
       "duration_ms": 741373,
       "name": "M\u00e1 vlast: The Moldau (Vlatava), No. 2",
       "url": "https://open.spotify.com/track/6UbjJgc9gHcEhnfrKszGxX"
-    },
-    {
-      "album": {
-        "name": "Last Night of the Proms",
-        "url": "https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Philip Ellis",
-          "url": "https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S"
-        }
-      ],
-      "date_added": "2024-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226173,
-      "name": "Nimrod From Enigma Variations",
-      "url": "https://open.spotify.com/track/5t9UkwkrumEmOpnz3SRdbm"
     },
     {
       "album": {
@@ -1662,7 +1662,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141786,
-      "name": "Swan Lake, Op. 20 - Mariinsky Version / Act 1: Scene 2: Sc\u00e8ne. Moderato",
+      "name": "Swan Lake, Op. 20 (Mariinsky Version), Act I: No. 10, Scene. Moderato",
       "url": "https://open.spotify.com/track/3xeBDYH7zxSo0aMmncex44"
     },
     {

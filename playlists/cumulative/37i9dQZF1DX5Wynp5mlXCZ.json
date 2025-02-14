@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Damiano David",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MONATIK",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -332,6 +332,24 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -1062,6 +1080,24 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "album": {
+        "name": "HONOR",
+        "url": "https://open.spotify.com/album/7JR1xXby6zbgbWSyvvzzSs"
+      },
+      "artists": [
+        {
+          "name": "KHAYAT",
+          "url": "https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "HONOR",
+      "url": "https://open.spotify.com/track/0vDwPeU7DtJYmBr38o7Cn6"
     },
     {
       "album": {
@@ -2130,7 +2166,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 179294,
       "name": "STAY TRUE",
       "url": "https://open.spotify.com/track/0RQsktqByk2reRyVNmlTQB"
@@ -2862,7 +2898,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 170835,
       "name": "\u0411\u0456\u043b\u0456 \u043d\u043e\u0447\u0456",
       "url": "https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs"
@@ -3731,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0443\u0440\u0430\u043a\u0430\u043c\u0456 (\u0414\u043e \u0444\u0456\u043b\u044c\u043c\u0443 \u00ab\u041f\u0435\u0441\u0438\u043a\u0438\u00bb)",
+        "url": "https://open.spotify.com/album/0MG4csXfGCUIuBi82SLy58"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137045,
+      "name": "\u041c\u0443\u0440\u0430\u043a\u0430\u043c\u0456 - \u0414\u043e \u0444\u0456\u043b\u044c\u043c\u0443 \u00ab\u041f\u0435\u0441\u0438\u043a\u0438\u00bb",
+      "url": "https://open.spotify.com/track/6QPyoHmJcI0Ynt7Ql1CDZ2"
+    },
+    {
+      "album": {
         "name": "\u041c\u0443\u0448\u043b\u0456",
         "url": "https://open.spotify.com/album/3PvqKzs0AmRYYST6OzvSbx"
       },
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151541,
       "name": "\u041d\u0430\u043a\u043e\u0457\u043b\u0438",
       "url": "https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM"
@@ -3982,6 +4036,24 @@
       "duration_ms": 160800,
       "name": "\u043d\u0435 \u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/3L7V3plVALWOfp4eHzUo2V"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435\u0432\u0436\u0435",
+        "url": "https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u041d\u0435\u0432\u0436\u0435",
+      "url": "https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw"
     },
     {
       "album": {
@@ -4347,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0430\u043a \u0432\u043c\u0456\u0454\u0448 \u043b\u0438\u0448 \u0442\u0438",
+        "url": "https://open.spotify.com/album/7j8JBNLwVyMHOR6gQq0gFv"
+      },
+      "artists": [
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "\u0422\u0430\u043a \u0432\u043c\u0456\u0454\u0448 \u043b\u0438\u0448 \u0442\u0438",
+      "url": "https://open.spotify.com/track/5tjmv2VDs8oMbKxjlleTFi"
+    },
+    {
+      "album": {
         "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
         "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
@@ -4496,7 +4586,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 146737,
       "name": "\u0422\u0438\u0445\u0438\u0439 \u0434\u043e\u0449",
       "url": "https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ"
@@ -4826,7 +4916,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 144083,
       "name": "\u0428\u043e \u0442\u0438 \u0442\u0430\u043c?",
       "url": "https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO"

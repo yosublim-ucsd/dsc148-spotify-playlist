@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-150 songs - 10 hr 9 min
+151 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Rest of My Life](https://open.spotify.com/track/299xFG2FLCNNM6JVBTB2s7) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/1C0qOGb1Yo9r57b150NAXT) | 4:26 | 2023-02-03 | 2024-04-19 |
 | [Rest of My Life](https://open.spotify.com/track/7lGmjoVSl4aLVXwRMx45Ym) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/4JVZIYazqIivp9laAekQGI) | 4:26 | 2024-03-05 | 2024-09-28 |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2023-02-03 |  |
+| [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 | 2025-02-13 |  |
 | [Sampai Akhir Waktu](https://open.spotify.com/track/6LF44wAs3h0K67RitTAfr5) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 3:35 | 2024-07-24 |  |
 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 | 2023-02-03 |  |
 | [Sampai Kita Menua Bersama](https://open.spotify.com/track/0fFyhrV4pyOT4U9MfLwUoo) | [Kesya](https://open.spotify.com/artist/2a14N7fdgzTgPjXBIEctny) | [Sampai Kita Menua Bersama](https://open.spotify.com/album/7fXuF9sBouQmIFwy5rd33P) | 4:38 | 2023-06-22 |  |

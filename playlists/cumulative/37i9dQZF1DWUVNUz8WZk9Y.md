@@ -4,7 +4,7 @@
 
 > Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-51 songs - 3 hr 33 min
+52 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [NiziUからのスペシャルメッセージ](https://open.spotify.com/track/2GpuQuoQmV9H8J42uryw5p) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [映画ドラえもん \-Doraemon The Movie\-](https://open.spotify.com/album/65UDhmnZulrhm1mFSXSsgA) | 0:20 | 2023-02-28 | 2023-03-03 |
 | [NiziUからのスペシャルメッセージ](https://open.spotify.com/track/5mURJqVQq04CMTXbD6W7ap) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [映画ドラえもん \-Doraemon The Movie\-](https://open.spotify.com/album/0hDweJfMt8lKaiISWaUYJ0) | 0:35 | 2023-03-03 | 2023-06-01 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-03 |  |
+| [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 | 2025-02-13 |  |
 | [THE GIFT](https://open.spotify.com/track/5qTwnr6WbWeeUDS9dcl5g6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [THE GIFT](https://open.spotify.com/album/423LWA7PU0o0Lke9vTFLxk) | 5:03 | 2023-02-28 |  |
 | [Universe](https://open.spotify.com/track/2uCN45we6vuQJIOqzuLO5k) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:45 | 2023-02-28 | 2024-04-19 |
 | [Universe](https://open.spotify.com/track/6KLaKHxwJE3CZECVJLH4cN) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Universe](https://open.spotify.com/album/6mzpMk6MO18WhDLXfS3va6) | 4:46 | 2024-02-07 |  |
-| [Vaundyからのボイスコメント](https://open.spotify.com/track/0bIHNKKcBoemVj8iXw14xd) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Vaundyからのボイスコメント \- 映画ドラえもん “のび太の地球交響楽”](https://open.spotify.com/album/7Lq5oPjkHTpdXchAqtGFXR) | 1:09 | 2024-02-07 |  |
+| [Vaundyからのボイスコメント](https://open.spotify.com/track/0bIHNKKcBoemVj8iXw14xd) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Vaundyからのボイスコメント \- 映画ドラえもん “のび太の地球交響楽”](https://open.spotify.com/album/7Lq5oPjkHTpdXchAqtGFXR) | 1:09 | 2024-02-07 | 2025-02-14 |
 | [YUME日和](https://open.spotify.com/track/78tE9IdvgaY0GA99p4qXy8) | [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [Delicious!〜The Best of Hitomi Shimatani〜](https://open.spotify.com/album/6jNMaxEg9Da0jUmv8jwmv6) | 4:03 | 2023-02-28 |  |
 | [かけがえのない詩](https://open.spotify.com/track/4PpHDUHL6HYPIahZDCX2Q7) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [TheBest Selection of ASIA](https://open.spotify.com/album/4Ebv1ivlrjcYyUsG1Qt2d2) | 5:09 | 2023-02-28 |  |
 | [ここにいないあなたへ](https://open.spotify.com/track/05WK69SKZPDC1RSgt7Ogm0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ドラえもん](https://open.spotify.com/album/1LdrgeXgpJkelkirMtgFxq) | 4:56 | 2024-02-07 |  |

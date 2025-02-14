@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Magdalena Bay and more
+> With Pastel Ghost, Sky Ferreira, Eartheater and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,889 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,903 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 |
 | 50 | [Vanished](https://open.spotify.com/track/3gGMsx3jxYKfhXq8LMj1tz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT) | 4:02 |
 
-Snapshot ID: `Z61ZKgAAAACC3h/q7qOF7ogy+L8S2vJe`
+Snapshot ID: `Z66zjwAAAAC6BuKKCV8FDjjGcyE+T8tT`

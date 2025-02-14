@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Talha Anjum
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,326 likes - 53 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,360 likes - 53 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

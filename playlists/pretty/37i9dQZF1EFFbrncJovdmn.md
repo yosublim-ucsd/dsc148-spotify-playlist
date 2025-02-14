@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 26 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,22 +16,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 6 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 |
 | 7 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 |
 | 8 | [Walk Away](https://open.spotify.com/track/45hRLI6ljnV3rYOYWMyoIt) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Walk Away](https://open.spotify.com/album/3aDkMVk9kfsNPGnj5DKIn0) | 3:12 |
-| 9 | [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 |
-| 10 | [The Ocean](https://open.spotify.com/track/0El6tOnSI2n9KmMHOVpZYx) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [The Ocean](https://open.spotify.com/album/6sNiaWL3xqfSHk678l6v4w) | 2:42 |
-| 11 | [Breakfast at Tiffany's](https://open.spotify.com/track/0XNQXKMhsHrb8o9X3JpvcQ) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Breakfast at Tiffany's](https://open.spotify.com/album/53idUGP3DERYKpO12we4Xz) | 4:09 |
-| 12 | [Nowhere Town](https://open.spotify.com/track/7ichJTFzVYIc44JvrC0IhN) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Nowhere Town](https://open.spotify.com/album/7K6CM5XQqEgvPVm3aobaUD) | 3:54 |
-| 13 | [Get Out of My Head](https://open.spotify.com/track/4BdiVuDbRKCr9kDTvqbvKq) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:48 |
-| 14 | [Downstairs](https://open.spotify.com/track/7jfqMfPvPqdGnuH4w9YgOt) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 2:45 |
-| 15 | [Gypsy Blood](https://open.spotify.com/track/1ji4zMbPcKHbUpg3oovZwS) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:31 |
-| 16 | [Disaster](https://open.spotify.com/track/6v5PdrF9NdxTohcNtq8ZRo) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:47 |
-| 17 | [I Fell In Love with My Friend](https://open.spotify.com/track/4MNstPMTKBtoOsJTwJg1wB) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:32 |
-| 18 | [Blue Lagoon](https://open.spotify.com/track/6AOkEeKQ841xkb63UkAAdj) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:33 |
-| 19 | [Berlin](https://open.spotify.com/track/68V7rBWfj2iID6Z1FjMIhG) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:07 |
-| 20 | [Kate](https://open.spotify.com/track/0qakvMVzgd8tleQLvBhJOl) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:37 |
-| 21 | [Closer](https://open.spotify.com/track/6LHc0V2Gb698GIPYy5qR3h) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:44 |
-| 22 | [Time Is Now](https://open.spotify.com/track/3Qvo8jqssKxu0f5EyP3IJF) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR), [Fem Fel](https://open.spotify.com/artist/61NJMGxlvjOHmWCuJn13sc) | [Project Z](https://open.spotify.com/album/477j0umdJe3x4fgst9dp17) | 3:28 |
-| 23 | [Last Cigarette](https://open.spotify.com/track/1N8dCEzqaRqrEC6NryhE5R) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:31 |
-| 24 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
-| 25 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
+| 9 | [La La](https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [La La](https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn) | 2:48 |
+| 10 | [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 |
+| 11 | [The Ocean](https://open.spotify.com/track/0El6tOnSI2n9KmMHOVpZYx) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [The Ocean](https://open.spotify.com/album/6sNiaWL3xqfSHk678l6v4w) | 2:42 |
+| 12 | [Breakfast at Tiffany's](https://open.spotify.com/track/0XNQXKMhsHrb8o9X3JpvcQ) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Breakfast at Tiffany's](https://open.spotify.com/album/53idUGP3DERYKpO12we4Xz) | 4:09 |
+| 13 | [Nowhere Town](https://open.spotify.com/track/7ichJTFzVYIc44JvrC0IhN) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Nowhere Town](https://open.spotify.com/album/7K6CM5XQqEgvPVm3aobaUD) | 3:54 |
+| 14 | [Get Out of My Head](https://open.spotify.com/track/4BdiVuDbRKCr9kDTvqbvKq) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:48 |
+| 15 | [Downstairs](https://open.spotify.com/track/7jfqMfPvPqdGnuH4w9YgOt) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 2:45 |
+| 16 | [Gypsy Blood](https://open.spotify.com/track/1ji4zMbPcKHbUpg3oovZwS) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:31 |
+| 17 | [Disaster](https://open.spotify.com/track/6v5PdrF9NdxTohcNtq8ZRo) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:47 |
+| 18 | [I Fell In Love with My Friend](https://open.spotify.com/track/4MNstPMTKBtoOsJTwJg1wB) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:32 |
+| 19 | [Blue Lagoon](https://open.spotify.com/track/6AOkEeKQ841xkb63UkAAdj) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:33 |
+| 20 | [Berlin](https://open.spotify.com/track/68V7rBWfj2iID6Z1FjMIhG) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:07 |
+| 21 | [Kate](https://open.spotify.com/track/0qakvMVzgd8tleQLvBhJOl) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:37 |
+| 22 | [Closer](https://open.spotify.com/track/6LHc0V2Gb698GIPYy5qR3h) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:44 |
+| 23 | [Time Is Now](https://open.spotify.com/track/3Qvo8jqssKxu0f5EyP3IJF) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR), [Fem Fel](https://open.spotify.com/artist/61NJMGxlvjOHmWCuJn13sc) | [Project Z](https://open.spotify.com/album/477j0umdJe3x4fgst9dp17) | 3:28 |
+| 24 | [Last Cigarette](https://open.spotify.com/track/1N8dCEzqaRqrEC6NryhE5R) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:31 |
+| 25 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
+| 26 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
 
-Snapshot ID: `AbpbIAAAAABG+oKZme8Ad62bemDaOcMf`
+Snapshot ID: `Abpg8gAAAABERVTSfoDmYMKBDDq5CK1F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,064 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,061 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 38 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
 | 39 | [Far Away Christmas Blues](https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH) | [ジョニー・オーティス](https://open.spotify.com/artist/54WGSF3PnOne3EVNVsPmlW), [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 3:21 |
 | 40 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
-| 41 | [Mr\. Santa's Boogie](https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ) | [The Marshall Brothers](https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:36 |
-| 42 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 41 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 42 | [Mr\. Santa's Boogie](https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ) | [The Marshall Brothers](https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:36 |
 | 43 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 44 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 45 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |

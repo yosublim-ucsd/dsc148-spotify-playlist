@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-446 songs - 1 day 4 hr 22 min
+447 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L) | [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [First Blue Sky](https://open.spotify.com/album/6bSCOFhuRmg0idv0QM5J1k) | 5:09 | 2024-12-28 | 2025-01-07 |
 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 | 2023-07-07 | 2023-07-18 |
 | [Flying](https://open.spotify.com/track/3az4vAsJLnsNlvj786xsIR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [Flying](https://open.spotify.com/album/0tRIZKUU63SRnbqp9Iu9ZL) | 2:19 | 2023-06-15 | 2023-06-23 |
+| [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 | 2025-02-06 |  |
 | [Forever 2 \(Crush Mix\) \- Malugi Remix](https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Forever 2 \(Crush Mix\) \[Malugi Remix\]](https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU) | 2:57 | 2024-12-28 | 2025-01-07 |
 | [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-25 | 2024-12-10 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/4bvr5h511GhD4S0rntkMcd) | [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [FORTUNE COOKIE](https://open.spotify.com/album/6PwP8KFzCBNeOcznuloC13) | 1:45 | 2024-03-29 | 2024-04-06 |
@@ -219,7 +220,7 @@
 | [Kisses \(feat\. bbyclose\) \- Malugi Remix](https://open.spotify.com/track/18jcuenWg8hfYdZee2lQfc) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Kisses \(feat\. bbyclose\) \[Malugi Remix\]](https://open.spotify.com/album/0ahPH3o9zxwGdxwEjDgxz5) | 2:30 | 2024-12-28 | 2025-01-07 |
 | [Knees Break](https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Knees Break](https://open.spotify.com/album/77FcRYFTPoemKvDGLZ4s0Q) | 2:28 | 2024-12-28 | 2025-01-07 |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
-| [Kotodama](https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Kotodama](https://open.spotify.com/album/7HQ1z0pLpScNOy5dVto4T9) | 2:32 | 2024-11-14 |  |
+| [Kotodama](https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Kotodama](https://open.spotify.com/album/7HQ1z0pLpScNOy5dVto4T9) | 2:32 | 2024-11-14 | 2025-02-14 |
 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 | 2024-05-29 | 2025-01-07 |
 | [La Batteria \- X\-COAST Remix](https://open.spotify.com/track/6HClx0gNRN4CD4EzMKf7o9) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [La Batteria \(X\-COAST Remix\)](https://open.spotify.com/album/04unlS9H1Oxe5zFJrcHHgX) | 4:02 | 2024-08-12 | 2024-12-10 |
 | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3) | 3:39 | 2023-11-09 | 2023-11-17 |

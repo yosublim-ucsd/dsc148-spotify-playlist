@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-64 songs - 3 hr 24 min
+66 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 | 2024-02-16 |  |
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2024-02-16 |  |
 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 | 2024-10-04 |
-| [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 | 2024-02-16 |  |
+| [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 | 2024-02-16 | 2025-02-14 |
 | [Fold \(Acoustic\)](https://open.spotify.com/track/6486yIkkiV42CXf9BiEtoM) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:36 | 2024-02-16 |  |
+| [Forgiveness \- Acoustic](https://open.spotify.com/track/3YjtREDtfGmGMIhKqLhXR0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness \(Acoustic\)](https://open.spotify.com/album/6cZfUOF3wtwV9gymqCCgAf) | 2:40 | 2025-02-13 |  |
 | [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 | 2024-07-19 |
 | [GoodSin \- Acoustic](https://open.spotify.com/track/6hKRozJksKQrLTOu5Fo6wX) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [GoodSin \(Acoustic\)](https://open.spotify.com/album/3m61tjwaJsthMob8WkrrZY) | 2:19 | 2024-02-16 |  |
 | [I Wish \(feat\. Libianca\) \- Acoustic](https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\) \[Acoustic\]](https://open.spotify.com/album/3b8hJAjZ4RJpyqFf3F8ls5) | 3:44 | 2024-02-16 |  |
@@ -41,7 +42,7 @@
 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 | 2024-02-16 |  |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-10-03 |  |
-| [Love Is \- Acoustic](https://open.spotify.com/track/5H44dACZA7X6AqxCLDiFKp) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is \(Acoustic\)](https://open.spotify.com/album/7CdYtLsWb7bpgF2MCAb3yx) | 2:58 | 2024-12-06 |  |
+| [Love Is \- Acoustic](https://open.spotify.com/track/5H44dACZA7X6AqxCLDiFKp) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is \(Acoustic\)](https://open.spotify.com/album/7CdYtLsWb7bpgF2MCAb3yx) | 2:58 | 2024-12-06 | 2025-02-14 |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 | 2024-02-16 |  |
 | [LOVE OR LAMBA \- Acoustic](https://open.spotify.com/track/0aNCTwjWBTmfwToKQOtFIW) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA \(Acoustic\)](https://open.spotify.com/album/2JEVnINzsISkaeOS050tUv) | 3:17 | 2024-11-07 |  |
 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 | 2024-02-16 |  |
@@ -65,6 +66,7 @@
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/4dI7ki0nTidETF4FMik1r4) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:18 | 2024-02-16 |  |
 | [Time \(Acoustic Version\)](https://open.spotify.com/track/5D2vpzfDrxF2GXcnp0DQDL) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Time \(Acoustic Version\)](https://open.spotify.com/album/7CqpmpIw35kBWl2yU50txC) | 2:56 | 2024-02-16 |  |
+| [Trust God \- Acoustic version](https://open.spotify.com/track/4Q37dvZ94Nnyl6e1U6sZnC) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Trust God \(Acoustic version\)](https://open.spotify.com/album/5oabmBur9RWByrPvPAhybE) | 2:07 | 2025-02-13 |  |
 | [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 | 2024-11-08 |
 | [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 | 2024-11-07 | 2024-11-22 |
 | [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 | 2024-06-07 |

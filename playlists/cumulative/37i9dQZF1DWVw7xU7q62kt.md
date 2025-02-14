@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-396 songs - 19 hr 1 min
+397 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2023-08-22 | 2024-04-19 |
 | [Niigata](https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Niigata](https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71) | 2:38 | 2025-01-10 |  |
 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 | 2023-08-22 |  |
+| [No Regrets](https://open.spotify.com/track/21kmhxRVUAyJmSN8znuakd) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [No Regrets](https://open.spotify.com/album/2DybjjB4GdCvTmKUwe5ZBB) | 2:00 | 2025-02-07 |  |
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 | 2024-04-19 |
 | [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 | 2024-03-20 | 2024-08-24 |
 | [Not Water But Rest](https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA) | [Shake Stew](https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6), [Precious Nnebedum](https://open.spotify.com/artist/5O5UtvOnsPfsyzUDLc7tml) | [Lila](https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf) | 5:56 | 2023-10-13 | 2025-01-12 |
@@ -380,7 +381,7 @@
 | [Verano](https://open.spotify.com/track/1i5dxe63PNyL7Ofvy6GtLR) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Verano](https://open.spotify.com/album/0emU3hp1Cq68y6T7Wrh8Cq) | 2:19 | 2024-10-04 |  |
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Verdant](https://open.spotify.com/track/2HWjYlDWKuAF9KWxwLPXBB) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Verdant](https://open.spotify.com/album/1m86OJ9K6rQD4rpJM9aoXx) | 2:30 | 2024-11-29 |  |
-| [very very](https://open.spotify.com/track/3M1j7InVSmDZhAGmD1zn25) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [very very](https://open.spotify.com/album/566w8sluqYgeSH6jwEDxDC) | 2:40 | 2024-11-22 |  |
+| [very very](https://open.spotify.com/track/3M1j7InVSmDZhAGmD1zn25) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [very very](https://open.spotify.com/album/566w8sluqYgeSH6jwEDxDC) | 2:40 | 2024-11-22 | 2025-02-14 |
 | [Viaggio](https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Viaggio](https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2) | 2:19 | 2024-09-06 |  |
 | [Vibra](https://open.spotify.com/track/7n2sf4iKVww9HOEc7UJjCQ) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Vibra](https://open.spotify.com/album/5P0bAHsX56p24XjjqWf3Yi) | 2:14 | 2024-09-20 |  |
 | [Views](https://open.spotify.com/track/1Nd9zUYiVdp82bmnLkLr0o) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Horizons Pt\. 2](https://open.spotify.com/album/5B4L57Jkz9p9iv3Lp6XzbC) | 2:30 | 2025-02-07 |  |

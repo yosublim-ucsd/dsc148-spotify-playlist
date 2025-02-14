@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Benzema",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Boondocks Gang",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -3009,6 +3009,40 @@
     },
     {
       "album": {
+        "name": "Hit poa 2.0 (Remix)",
+        "url": "https://open.spotify.com/album/52YugG4MkXNfenbqVwKIO0"
+      },
+      "artists": [
+        {
+          "name": "Kappy",
+          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
+        },
+        {
+          "name": "Wadaglizke",
+          "url": "https://open.spotify.com/artist/4VQ8TYlIsQ4dGfwpATNW8c"
+        },
+        {
+          "name": "HOOD BOYZ",
+          "url": "https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR"
+        },
+        {
+          "name": "Kantel",
+          "url": "https://open.spotify.com/artist/17Xpk4qEaRYguK9Evv0xSk"
+        },
+        {
+          "name": "Fame Stano",
+          "url": "https://open.spotify.com/artist/3RLhtys6X8Q3eFWqxd3jQ4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112257,
+      "name": "Hit poa 2.0 - Remix",
+      "url": "https://open.spotify.com/track/5lkkoxKlL1muWF8VpHMN4C"
+    },
+    {
+      "album": {
         "name": "HIVI NA HIVO",
         "url": "https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh"
       },
@@ -5111,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "Milayas",
+        "url": "https://open.spotify.com/album/6epBCcjvyybspz3k6f6bZN"
+      },
+      "artists": [
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Milayas",
+      "url": "https://open.spotify.com/track/6jeyEAhYujoaUsK4w0dGXM"
+    },
+    {
+      "album": {
         "name": "Sababisha",
         "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
       },
@@ -5126,7 +5178,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 184427,
       "name": "Miondoko",
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
@@ -6016,7 +6068,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 180000,
       "name": "Ndiwike",
       "url": "https://open.spotify.com/track/2jnFTsVnjyfYM8khLyZSxA"
@@ -6474,7 +6526,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178666,
       "name": "One Minute Man",
       "url": "https://open.spotify.com/track/6mJvJwZyU1sfvWgh2KDccF"
@@ -8800,6 +8852,32 @@
       "duration_ms": 184147,
       "name": "Tumerudiana",
       "url": "https://open.spotify.com/track/54XeFjxAWsp6RiKB52uVHF"
+    },
+    {
+      "album": {
+        "name": "Tumia Kichwa",
+        "url": "https://open.spotify.com/album/7miyTXPcc7MWLRRGYaA9JV"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163890,
+      "name": "Tumia Kichwa",
+      "url": "https://open.spotify.com/track/00HWRumuMCgTOkHOZfpDl9"
     },
     {
       "album": {

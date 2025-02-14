@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,627 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,633 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 34 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
 | 35 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
 | 36 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
-| 37 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
-| 38 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 37 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 38 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
 | 39 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
 | 40 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
 | 41 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |

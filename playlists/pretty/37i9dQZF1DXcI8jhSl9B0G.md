@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,875 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,874 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 25 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
 | 26 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 27 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
-| 28 | [Home](https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [In Between](https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU) | 3:58 |
-| 29 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 |
+| 28 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 |
+| 29 | [Home](https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [In Between](https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU) | 3:58 |
 | 30 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
 | 31 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 32 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 38 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
 | 39 | [Furniture](https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:14 |
 | 40 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
-| 41 | [Where'd You Go](https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Where'd You Go](https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq) | 3:39 |
-| 42 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
+| 41 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
+| 42 | [Where'd You Go](https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Where'd You Go](https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq) | 3:39 |
 | 43 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 44 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
 | 45 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 |
 | 55 | [Lonely \(feat\. Gena Rose Bruce\)](https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Gena Rose Bruce](https://open.spotify.com/artist/1SrmRPI6a5cIabFYZZiorA) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 3:42 |
 | 56 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
-| 57 | [Laundromat](https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Hit or Miss](https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6) | 3:55 |
-| 58 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
+| 57 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
+| 58 | [Laundromat](https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Hit or Miss](https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6) | 3:55 |
 | 59 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
 | 60 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
 

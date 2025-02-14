@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Vidaamuyarchi",
+  "description": "New Music from Kollywood.\nCover : Retro",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -14813,6 +14813,28 @@
     },
     {
       "album": {
+        "name": "Kannadi Poove (From \"Retro\")",
+        "url": "https://open.spotify.com/album/5xddO8rRiNu2h6n79ZZNGz"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261049,
+      "name": "Kannadi Poove (From \"Retro\")",
+      "url": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz"
+    },
+    {
+      "album": {
         "name": "Mission (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6vWF3oMRm5cglDC6fbbC4m"
       },
@@ -17146,7 +17168,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 241176,
       "name": "Lavender Neramae (From \"Kadhalikka Neramillai\")",
       "url": "https://open.spotify.com/track/7xbT2apFiTQ53sM9tU35D5"

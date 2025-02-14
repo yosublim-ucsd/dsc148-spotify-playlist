@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  SOL & Emil Kruse",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Gunge",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "album": {
+        "name": "4. sal",
+        "url": "https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159543,
+      "name": "4. sal",
+      "url": "https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3"
     },
     {
       "album": {
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 149761,
       "name": "Vores Forhandling",
       "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"

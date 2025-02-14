@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-233 songs - 13 hr 19 min
+235 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,14 +88,14 @@
 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2024-05-20 | 2024-10-04 |
 | [Ghost](https://open.spotify.com/track/5kHdsgUGfFEQRgxSHybWss) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Ghost](https://open.spotify.com/album/02ZquFod2IdjAxRJRIk3Sv) | 2:49 | 2024-05-20 | 2024-08-16 |
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-05-20 |  |
-| [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 |  |
+| [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 | 2025-02-14 |
 | [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-05-20 | 2024-11-22 |
 | [Gravitate \- Single Edit](https://open.spotify.com/track/7FvSf3Cx6faUnuZc5BKxIn) | [Sweet Mix Kids](https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7), [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Gravitate](https://open.spotify.com/album/3UclHmm7VRyhZW8QHNOpJS) | 3:07 | 2024-05-20 | 2024-11-08 |
 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 | 2024-08-15 |  |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-08-15 |  |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-05-20 | 2024-11-08 |
 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 | 2024-08-22 |  |
-| [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 | 2024-05-20 |  |
+| [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 | 2024-05-20 | 2025-02-14 |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 | 2024-05-20 |  |
 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 | 2024-05-20 | 2024-11-08 |
 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 | 2024-05-20 | 2025-01-28 |
@@ -137,6 +137,8 @@
 | [Love No Other](https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [The Message](https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX) | 3:15 | 2024-09-26 | 2024-11-08 |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-08-15 | 2024-11-08 |
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 |  |
+| [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:33 | 2025-02-13 |  |
+| [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 | 2025-02-13 |  |
 | [Mazda Familia](https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS) | [Mazda Familia](https://open.spotify.com/album/6AE3UHZ98oYeENhRlZAtc7) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Meant To Be](https://open.spotify.com/track/1izQO0ka7mNCJ93kW1pL66) | [Zed](https://open.spotify.com/artist/4LkIslEZ5nN9DpibfQKOyt) | [Meant To Be](https://open.spotify.com/album/0Y7zp5nVOHZ06J4KNPGE3W) | 3:24 | 2024-05-20 | 2024-11-08 |
 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 | 2024-05-20 |  |

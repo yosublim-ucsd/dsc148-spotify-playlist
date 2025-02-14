@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 173014,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
@@ -706,6 +706,24 @@
       "duration_ms": 148023,
       "name": "Den Ntia",
       "url": "https://open.spotify.com/track/5BY8AEIgzfBrz8kF5617Et"
+    },
+    {
+      "album": {
+        "name": "DiH",
+        "url": "https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175911,
+      "name": "DiH",
+      "url": "https://open.spotify.com/track/0jqTpSEBeasDrkNykprjwY"
     },
     {
       "album": {
@@ -1521,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/1p1yzpeeJ274jyFxIhv879"
+      },
+      "artists": [
+        {
+          "name": "Sahene",
+          "url": "https://open.spotify.com/artist/7KAeQIss0qfW6zEqcKA0EG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148427,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/1UzIJ1vDEBF26WAmqQmlwa"
+    },
+    {
+      "album": {
         "name": "Love Hard",
         "url": "https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv"
       },
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 152516,
       "name": "Love Hard",
       "url": "https://open.spotify.com/track/0FdcLCbPJPvJRKpvCzkTvz"
@@ -1558,7 +1594,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160026,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN"
@@ -1659,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Meretwen Wo (River of Love)",
+        "url": "https://open.spotify.com/album/3YoKSCgX1gNJT8SdBrHMkx"
+      },
+      "artists": [
+        {
+          "name": "Josh Blakk",
+          "url": "https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l"
+        },
+        {
+          "name": "The Souly Bird",
+          "url": "https://open.spotify.com/artist/74wCSmFTu9ySg4TB4n80ld"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Meretwen Wo (River of Love)",
+      "url": "https://open.spotify.com/track/2uBzzfIMEZw8sBTJJQICeu"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/1XWVMGy4OxaBCSNLyX6mYs"
       },
@@ -1688,7 +1746,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 183913,
       "name": "Mo Ko B3",
       "url": "https://open.spotify.com/track/3RnB63aGFq0jhOKMJ5RzvT"
@@ -3312,6 +3370,24 @@
       "duration_ms": 185888,
       "name": "YSL",
       "url": "https://open.spotify.com/track/3DklWVkyKx5gRW1d3Khq6R"
+    },
+    {
+      "album": {
+        "name": "Y\u025bn Ware",
+        "url": "https://open.spotify.com/album/6gqhJQWZ5DaqVBoP9JDLAb"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137604,
+      "name": "Y\u025bn Ware",
+      "url": "https://open.spotify.com/track/0DiP6aKnShQjIvO908LMvs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9"

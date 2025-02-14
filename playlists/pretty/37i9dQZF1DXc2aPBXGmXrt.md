@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,178,552 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,178,990 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

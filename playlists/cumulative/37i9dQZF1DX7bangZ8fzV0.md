@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=ZwUOTt6yRISlZJUG0obIew">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=oAE\-sEhZSaiMWvRUbhKyLA">Tamlyn Wessels</a>
 
 264 songs - 14 hr 38 min
 

@@ -4,7 +4,7 @@
 
 > Den bedste rock playliste i Danmark⚡️
 
-119 songs - 8 hr 14 min
+120 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2024-09-06 |  |
 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2024-09-06 |  |
 | [Ghost Of You](https://open.spotify.com/track/6P2X0uImEa9aAi8ctKEXJt) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Ghost Of You](https://open.spotify.com/album/5nC80WNJfpebVwlZZ5cuRf) | 3:53 | 2025-01-31 |  |
-| [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2024-09-06 |  |
+| [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2024-09-06 | 2025-02-14 |
+| [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 |  |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2024-09-06 | 2025-02-04 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-06 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2024-09-06 |  |

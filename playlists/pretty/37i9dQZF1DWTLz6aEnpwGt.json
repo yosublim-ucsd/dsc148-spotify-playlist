@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 59748,
+  "num_followers": 59777,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Keyboard Partita No. 6 in E Minor, BWV 830: IV. Air",
+      "url": "https://open.spotify.com/track/4sMgt6EgtezGq9yndgBsXj"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 84973,
       "name": "French Suite No. 2 in C Minor, BWV 813a: IV. Air",
       "url": "https://open.spotify.com/track/3f04bt5DhYMwBiMREv9fhl"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
-        "url": "https://open.spotify.com/album/5rfRnkUxuzYCdviqmwpHe7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Keyboard Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
-      "url": "https://open.spotify.com/track/1QQN0hx3q4YExqmzrRVJ52"
     }
   ],
   "unique_name": "Bach Piano",

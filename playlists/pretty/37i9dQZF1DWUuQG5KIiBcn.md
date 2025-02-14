@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,018 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,286 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 49 | [La Patrulla 05](https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:51 |
 | 50 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
 | 51 | [Roman Iriarte](https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:34 |
-| 52 | [Cien Por Uno](https://open.spotify.com/track/3YFDt8RyMWJIdom6WNAwu4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 3:44 |
-| 53 | [El Corrido](https://open.spotify.com/track/4GS8J5N1MAprTeeW8FX8p4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 2:27 |
+| 52 | [El Corrido](https://open.spotify.com/track/4GS8J5N1MAprTeeW8FX8p4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 2:27 |
+| 53 | [Cien Por Uno](https://open.spotify.com/track/3YFDt8RyMWJIdom6WNAwu4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 3:44 |
 | 54 | [El Campesino Y El Sol](https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv) | [La Dinastia de Tuzantla, Mich.](https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf) | [El Campesino y el Sol](https://open.spotify.com/album/1zz9palZav43PsEJGeIijB) | 3:54 |
 | 55 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
 | 56 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 63 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 | 64 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 65 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
-| 66 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
-| 67 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
+| 66 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
+| 67 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
 | 68 | [Mi Ranchito](https://open.spotify.com/track/2wA3Ztl0h9o1SoyzDJqoio) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Exitos En Vivo Vol\. 1](https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B) | 2:34 |
 | 69 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
 | 70 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 72 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |
 | 73 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 74 | [El Panamá West](https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/01jUgz4sKHuQlIEI8kzBDv) | 2:31 |
-| 75 | [Anastasio Pacheco](https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 3:28 |
+| 75 | [La Banda Del Carro Rojo](https://open.spotify.com/track/7yTXEoI8CBAgekFhtjjYo5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Banda Del Carro Rojo](https://open.spotify.com/album/6iRmqdwRnlbGcWxkh7sRyt) | 3:06 |
 
 Snapshot ID: `Z5j4zwAAAAAE7X8Csvhwn1q6j43kRDmV`

@@ -43976,7 +43976,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 108000,
       "name": "for you",
       "url": "https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV"
@@ -62494,6 +62494,24 @@
       "duration_ms": 206671,
       "name": "Jusqu'ici tout va bien",
       "url": "https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928"
+    },
+    {
+      "album": {
+        "name": "Just A Dream",
+        "url": "https://open.spotify.com/album/6dRH8YS4PbjkwLBolkwclJ"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/6s5ssmbLHAoL0h5VmQCFDQ"
     },
     {
       "album": {

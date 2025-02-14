@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=xE4hEq1yThGBlaOtdzfpGQ">Cassper Nyovest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,766 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,808 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

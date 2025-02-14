@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover: Sultaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,031 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,055 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [Top G](https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Top G](https://open.spotify.com/album/4cgtmGUyBfMNKLGJkPpK9J) | 3:04 |
 | 5 | [G Life](https://open.spotify.com/track/47bmBZ86Qurp4wyaz7wggA) | [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V), [Kaler Habib](https://open.spotify.com/artist/4w2iMOdJcGrSw6nlXj8byO) | [G Life](https://open.spotify.com/album/7xTbogiwre3aaqLoNqAkz1) | 2:30 |
 | 6 | [Addiction](https://open.spotify.com/track/6TYZu7oyO4cVHaYP9QJyAt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Addiction](https://open.spotify.com/album/6IAcOAoiDp8x5qUdr0YyqU) | 2:07 |
-| 7 | [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 |
+| 7 | [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo), [Nayaab](https://open.spotify.com/artist/7D0cCYQcYBVEOnBvyy164p) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 |
 | 8 | [Mandem](https://open.spotify.com/track/50Lze6WoYp3VEjtc5HqvLL) | [Nik D Gill](https://open.spotify.com/artist/0QTPgLFzPPvYIkbtk97jAq), [H7 Sandhu](https://open.spotify.com/artist/3jMK7vle34IO8HGKYD3itF) | [Mandem](https://open.spotify.com/album/1cvH20zkjWzxaO5auKL3mz) | 2:51 |
 | 9 | [My Time](https://open.spotify.com/track/5CJlKyqMUr5Tog1DJ1k8Dx) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Never Rush](https://open.spotify.com/album/4Zz2Rg5oNUqHdMQydyhZtA) | 2:18 |
 | 10 | [Laal Suha Rang](https://open.spotify.com/track/7rWw4eguIc5TZGCfKZ1rFn) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Laal Suha Rang](https://open.spotify.com/album/4222Ueib10aOn12baqR1as) | 2:06 |

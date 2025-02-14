@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,803 songs - 4 day 16 hr 15 min
+1,805 songs - 4 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 | 2023-10-05 | 2023-10-12 |
 | [Naiteiinda](https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:40 | 2023-10-10 | 2023-12-27 |
 | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Anime ver.\)](https://open.spotify.com/track/3b8YkPNHw7R7TGDTMpawTU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Anime ver.\)](https://open.spotify.com/album/54zfFV5w8eETYMws3n3rjA) | 1:01 | 2024-12-10 | 2025-01-15 |
+| [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Full Length\)](https://open.spotify.com/track/5Agpy9NpA42diOdIoSoJsJ) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Full Length\)](https://open.spotify.com/album/4yBOzKyjU6biCO8hc3DwfJ) | 2:15 | 2025-02-13 |  |
 | [NAME](https://open.spotify.com/track/0hC6oGwPVaP3dTqyDf9h4G) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [The Girl I Like Forgot Her Glasses Opening Theme "NAME"](https://open.spotify.com/album/04Cozcb8KxpFD3kxVjj5sT) | 3:29 | 2023-08-01 | 2023-10-06 |
 | [NAME](https://open.spotify.com/track/3FVoVvl5qCGGwW1grb1rG4) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [TVアニメ『好きな子がめがねを忘れた』オープニング主題歌「NAME」](https://open.spotify.com/album/1XJFg9e04qjHWliZWusqDD) | 3:29 | 2023-08-01 | 2023-08-03 |
 | [NAME \(TV Size ver.\)](https://open.spotify.com/track/3va1rkFz1ARYv4TffRBDfo) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [NAME "TV Size ver."](https://open.spotify.com/album/3q9yB2HwObUmITSbTmdMV6) | 1:29 | 2023-07-11 | 2023-08-02 |
@@ -740,7 +741,7 @@
 | [Rivals!](https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn) | [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:18 | 2023-08-22 | 2023-09-27 |
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2023-01-17 | 2023-04-19 |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-03 | 2023-10-11 |
-| [Rock 'n' Roll !!](https://open.spotify.com/track/0XvZCQLaZvv6QWw56TUwFW) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [TREASURE!](https://open.spotify.com/album/2ejsgAjuBf0hC7PdM4l20x) | 3:35 | 2025-01-28 |  |
+| [Rock 'n' Roll !!](https://open.spotify.com/track/0XvZCQLaZvv6QWw56TUwFW) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [TREASURE!](https://open.spotify.com/album/2ejsgAjuBf0hC7PdM4l20x) | 3:35 | 2025-01-28 | 2025-02-14 |
 | [ROCKETEEERS feat\. MICRO](https://open.spotify.com/track/0mfnrU3jD0G7fvCFWlgpsa) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [Micro](https://open.spotify.com/artist/5YgjUcPpadiQTJvck01mE5) | [Before Anyone Else](https://open.spotify.com/album/5SjQDg7O32K7sWnnmQhU0S) | 3:00 | 2024-06-25 | 2024-07-06 |
 | [Rolling Stone](https://open.spotify.com/track/1mQWgJxQZOO1ifq4QJ3x4s) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [Rolling Stone](https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY) | 3:24 | 2025-01-09 |  |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
@@ -806,6 +807,7 @@
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-10-05 | 2024-01-10 |
 | [Sing a song together](https://open.spotify.com/track/48dYjU4FDQR3cwhkNLnbbQ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/06tPZDeUAOmGTUoGRf71xv) | 3:40 | 2023-12-12 | 2024-01-10 |
 | [Sing a song together](https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/4Qyz64zxLoI84Qq0vi6ONH) | 3:42 | 2023-08-22 | 2023-12-14 |
+| [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 | 2025-02-13 |  |
 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 | 2023-01-11 |
 | [SKILLAWAKE](https://open.spotify.com/track/3swjriEVvwV8zmxSVOL7Og) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/0lpqgrRPoKrl9J337uxjtA) | 3:51 | 2024-10-08 | 2025-01-08 |
 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 | 2023-10-03 | 2023-11-01 |
@@ -1484,7 +1486,7 @@
 | [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 | 2023-01-12 | 2023-01-14 |
 | [名もない花](https://open.spotify.com/track/2mdrMOnGvyo6fHkm0yBUKw) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [名もない花](https://open.spotify.com/album/2NAwAdKun3ljVSEAtpPBD9) | 3:59 | 2023-01-19 | 2023-04-12 |
 | [君だったから](https://open.spotify.com/track/1vSxweCMkArMEraHCaXz50) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [君だったから](https://open.spotify.com/album/4i2NZmRDdr9V046aAAFutI) | 4:33 | 2024-04-16 | 2024-06-05 |
-| [君としか恋しない](https://open.spotify.com/track/6I0Qnz8OcGAKGakHVkAdYJ) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [Reflection](https://open.spotify.com/album/2al7vtwQqmqLuH8K0mdCdW) | 3:48 | 2025-02-04 |  |
+| [君としか恋しない](https://open.spotify.com/track/6I0Qnz8OcGAKGakHVkAdYJ) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [Reflection](https://open.spotify.com/album/2al7vtwQqmqLuH8K0mdCdW) | 3:48 | 2025-02-04 | 2025-02-14 |
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-05-31 | 2022-07-08 |
 | [君の背中](https://open.spotify.com/track/4zBX67XTOyX6AqctfQ4neW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [君の背中](https://open.spotify.com/album/6jMXKfu9eULGycR7UGbCno) | 3:36 | 2024-10-11 | 2025-01-05 |
 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-08 | 2023-01-13 |

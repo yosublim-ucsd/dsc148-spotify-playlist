@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,096 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,101 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 57 | [Landline](https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:40 |
 | 58 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 |
 | 59 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
-| 60 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 |
-| 61 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 60 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 61 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 |
 | 62 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
 | 63 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
 | 64 | [Same Old Story](https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:20 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 71 | [Emergency](https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 2:49 |
 | 72 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
 | 73 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
-| 74 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
-| 75 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 |
+| 74 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 |
+| 75 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 76 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 | 77 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
 | 78 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 82 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
 | 83 | [skeletons](https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:58 |
 | 84 | [Deadcrush](https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:51 |
-| 85 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
-| 86 | [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 |
-| 87 | [Totally](https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:56 |
+| 85 | [Totally](https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:56 |
+| 86 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
+| 87 | [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 |
 | 88 | [Postpone](https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:05 |
 | 89 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
 | 90 | [She Don't Dance](https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [She Don't Dance](https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: When the Stars Gossip\(별들에게 물어봐\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,013 songs - 2 day 13 hr 25 min
+1,014 songs - 2 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [By Your Side](https://open.spotify.com/track/7nycbeEEeLvF1CcUKC3NaV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Romance in the House \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3gBfJhcaevqcsmz2zsGG07) | 2:59 | 2024-09-02 | 2025-01-22 |
 | [By Your Side](https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Poong, the Joseon Psychiatrist OST Part.1](https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI) | 3:52 | 2022-08-12 | 2022-12-20 |
 | [Bye Bye](https://open.spotify.com/track/1uj92PjmEBcyTb4bXtHpQC) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Our Blues, Pt\. 9 \(Original Television Soundtrack\)](https://open.spotify.com/album/3soPFtAjCtDtljX7hfjJCR) | 4:02 | 2022-06-09 | 2022-08-13 |
-| [Caged](https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 | 2024-09-23 |  |
+| [Caged](https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 | 2024-09-23 | 2025-02-14 |
 | [Caged](https://open.spotify.com/track/5sFWA8jpgJHYkOx0M0VmVi) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\)](https://open.spotify.com/album/26FBrEbHMaM2ZVcCdiyaFv) | 3:45 | 2024-10-10 |  |
 | [Calling for Spring](https://open.spotify.com/track/2kL5OJKk7rQUnVaOAuQH1u) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 | 2023-08-16 | 2024-02-11 |
 | [Can we fly like a bird](https://open.spotify.com/track/71XeSNV3ReLzTLZSZBdi3h) | [KIM SO YEON](https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7) | [Kill Heel, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3PGpqVjYS0St1arZetKeKM) | 4:13 | 2022-04-21 | 2022-06-29 |
@@ -483,6 +483,7 @@
 | [Letter to You \(O.WHEN X The Daechi Scandal\)](https://open.spotify.com/track/0FdOW5Lslh4GoTiwmZ63h9) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Letter to You \(O.WHEN X The Daechi Scandal\)](https://open.spotify.com/album/5vFa9ZzkLnDcKIDhTsCXb3) | 4:31 | 2024-08-02 | 2025-01-22 |
 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 | 2022-12-26 | 2023-03-28 |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-13 | 2023-06-03 |
+| [Light](https://open.spotify.com/track/185yDVDRtEisFFsTS5wpXf) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP) | [Sorry Not Sorry OST Part 6](https://open.spotify.com/album/6FnjyKlSfUbXFa5K90B1Qn) | 3:57 | 2025-02-14 |  |
 | [Light of my life](https://open.spotify.com/track/3V78ROASF7LSqggLVrfVQ9) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Light of my life \(Original Television Soundtrack From "Phantom School"\)](https://open.spotify.com/album/1PeDiHElNmOVRAvs26XZQM) | 3:08 | 2023-11-02 | 2024-05-10 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2023-01-04 |
 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 | 2023-08-16 | 2024-02-11 |

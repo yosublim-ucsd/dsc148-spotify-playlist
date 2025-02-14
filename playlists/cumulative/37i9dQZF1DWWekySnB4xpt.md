@@ -2,9 +2,9 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana & Akapellah
+> Representando la cultura con orgullo\. Representing with pride! Cover: Alleh & Yorghaki
 
-168 songs - 10 hr 5 min
+170 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 | 2022-07-01 | 2023-01-21 |
 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 | 2022-09-30 | 2024-04-19 |
 | [EL FAVORITO DE MAMI](https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:35 | 2024-11-01 |  |
+| [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-02-13 |  |
 | [El Peor](https://open.spotify.com/track/6ClrUcM3YpKlJhihx94Oel) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [El Peor](https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT) | 3:12 | 2021-12-17 | 2024-06-15 |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2021-12-17 | 2022-05-20 |
 | [El Vestido Rojo](https://open.spotify.com/track/1v6q6j9tCZYrg4slscHO8t) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/7sb67M38RH5TgKbVRI4aAF) | 3:55 | 2023-03-03 | 2023-04-20 |
@@ -78,10 +79,10 @@
 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 | 2022-09-30 | 2024-06-29 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-04-22 | 2022-10-01 |
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-12-17 | 2024-08-01 |
-| [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 | 2024-07-31 |  |
+| [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 | 2024-07-31 | 2025-02-14 |
 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-22 |  |
 | [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 | 2021-12-17 | 2024-10-24 |
-| [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 |  |
+| [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 | 2025-02-14 |
 | [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [La Vaca Mariposa \(El Becerrito\)](https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Albita](https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv) | 3:59 | 2021-12-17 | 2024-11-02 |
 | [Las Caraqueñas](https://open.spotify.com/track/0B5pOLlr0OLEVdE0PBG8pF) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Guaco Es Guaco](https://open.spotify.com/album/4irR3HfqLTMhKNsr42R06c) | 3:53 | 2021-12-17 |  |
@@ -98,6 +99,7 @@
 | [Mañanero](https://open.spotify.com/track/1SFuGtlKe8i9O3xYIb6Td5) | [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [Mañanero](https://open.spotify.com/album/56eLHtkTIz6QgN6C18hZ8j) | 3:00 | 2021-12-17 | 2023-02-10 |
 | [ME CONFUNDÍ](https://open.spotify.com/track/1zJu4BcvtYqrmAgurFe5hE) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [ME CONFUNDÍ](https://open.spotify.com/album/74dGoM9MUgfpW3YIWnvL4G) | 2:36 | 2023-02-10 | 2024-06-15 |
 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-06-14 |  |
+| [Me Pasa \(Piscis\)](https://open.spotify.com/track/2vXg6TC7mpRe28inMM7JVk) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 3:21 | 2025-02-13 |  |
 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 | 2021-12-17 |  |
 | [Me Tengo Que Ir](https://open.spotify.com/track/2EVrtZE6ssvmLQ4qDjsnc9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Greatest Hits, Vol\. 1](https://open.spotify.com/album/7zgfmSxRb3C8oMFQe7y2ux) | 4:43 | 2021-12-17 | 2022-07-02 |
 | [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 | 2021-12-17 |  |

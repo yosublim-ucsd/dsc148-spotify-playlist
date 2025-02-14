@@ -3485,6 +3485,28 @@
     },
     {
       "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "album": {
         "name": "All the Things I Hate About You",
         "url": "https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non"
       },
@@ -3612,7 +3634,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
@@ -28616,7 +28638,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 90707,
       "name": "I Might Brake, But I Won't",
       "url": "https://open.spotify.com/track/5adCyndvgVO1gnzC32vA4C"
@@ -57220,6 +57242,24 @@
     {
       "album": {
         "name": "strangers",
+        "url": "https://open.spotify.com/album/38wsliaFxTgZRA1TiyGTT1"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135192,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/36i15kanCjDkh8qn2CJWEW"
+    },
+    {
+      "album": {
+        "name": "strangers",
         "url": "https://open.spotify.com/album/2AEjE0bmkcqNAeC5N7hgfD"
       },
       "artists": [
@@ -57234,7 +57274,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 135192,
       "name": "strangers",
       "url": "https://open.spotify.com/track/2QdcmNlQdW8iA4JEg29cgx"
@@ -62344,7 +62384,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
@@ -68456,7 +68496,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
@@ -68474,7 +68514,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 151984,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4Tf49OI6J2TK1LkdfqgUJt"

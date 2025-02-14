@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 157016,
       "name": "Answer The Phone",
       "url": "https://open.spotify.com/track/0jY4DlyVmwz0ql7UqYk5n4"
@@ -1923,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161029,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd"
+    },
+    {
+      "album": {
         "name": "CRESCENDO",
         "url": "https://open.spotify.com/album/1LPhoR8nlHZ5EuDhwd7go0"
       },
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 145161,
       "name": "F#CK THE DJ",
       "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
@@ -4412,7 +4434,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 160985,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/12DLTLX0XRcxbCFHfM8t9U"
@@ -4901,6 +4923,28 @@
     },
     {
       "album": {
+        "name": "Insane (Hardwell Remix)",
+        "url": "https://open.spotify.com/album/5dIC95OG5SGS5rCtltilvH"
+      },
+      "artists": [
+        {
+          "name": "Dark Monks",
+          "url": "https://open.spotify.com/artist/1jGhQG0DIu1ZSLDmxJ7IxY"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225777,
+      "name": "Insane - Hardwell Remix",
+      "url": "https://open.spotify.com/track/4rb905KHtVP0c2eXZhKPZB"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3cNKaccRDkhRatReoslOI0"
       },
@@ -5155,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Kick That Bass",
+        "url": "https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116141,
+      "name": "Kick That Bass",
+      "url": "https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7"
+    },
+    {
+      "album": {
         "name": "New Rave",
         "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
@@ -5262,7 +5324,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 155836,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
@@ -7568,6 +7630,28 @@
       "duration_ms": 158400,
       "name": "Party With The Cops (feat. Haley Maze)",
       "url": "https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4borehU4gsZHyICSy2KRZk"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        },
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178805,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0oe7liDDmY8ghlS3H4E5OO"
     },
     {
       "album": {

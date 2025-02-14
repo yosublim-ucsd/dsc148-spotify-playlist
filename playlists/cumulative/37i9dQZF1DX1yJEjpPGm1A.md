@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-52 songs - 3 hr 25 min
+53 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [My Romance](https://open.spotify.com/track/5Rys2WgRdbvQNdeezDvUql) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Hometown Cha\-Cha\-Cha, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7lLdUzOlYRwdmsaYw0kpiv) | 2:53 | 2024-12-19 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2024-12-19 |  |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 |  |
+| [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 | 2025-02-14 |  |
 | [Relieved](https://open.spotify.com/track/5u3r3vueI0mUATK5nsaTgw) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Songs Made of Wood](https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx) | 3:32 | 2024-12-19 |  |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2024-12-19 |  |
 | [Stay Here](https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Stay Here](https://open.spotify.com/album/0cWt79wH1zZl7Qc5doi7sx) | 3:54 | 2024-12-19 |  |

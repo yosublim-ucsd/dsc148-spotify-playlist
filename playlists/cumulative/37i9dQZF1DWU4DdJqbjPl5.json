@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Sweet R&B straight out of Africa. Cover:  Qing Madi",
+  "description": "Sweet R&B straight out of Africa. Cover:  Ayra Starr ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 208290,
       "name": "ALL OF ME",
       "url": "https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv"
+    },
+    {
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "album": {
@@ -1941,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Electrical",
+        "url": "https://open.spotify.com/album/0ZSWzf5M5jT6iZFgho9NUE"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Electrical",
+      "url": "https://open.spotify.com/track/41xwYI5IDrYZ2YqXhaO6yL"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -2060,7 +2100,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 158264,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq"
@@ -5432,7 +5472,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185639,
       "name": "Not An Angel",
       "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
@@ -7285,6 +7325,24 @@
     },
     {
       "album": {
+        "name": "T'es \u00e0 moi",
+        "url": "https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "T'es \u00e0 moi",
+      "url": "https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do"
+    },
+    {
+      "album": {
         "name": "LOVE LETTERS",
         "url": "https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3"
       },
@@ -7800,7 +7858,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 227380,
       "name": "Umusa",
       "url": "https://open.spotify.com/track/1rS6j6K3cxY4PEXLleEUia"
@@ -8608,7 +8666,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 176692,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"

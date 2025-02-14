@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,641 likes - 121 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,647 likes - 121 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 19 | [Get U What U Want](https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ) | [GLINTSAL](https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Glints](https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta) | [Get U What U Want](https://open.spotify.com/album/5Q4bvgj8YnMhC6IzD96ZxT) | 3:29 |
 | 20 | [BIOTM](https://open.spotify.com/track/1wTqJ6Xumts0Sv8O3MxW9Q) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [BIOTM](https://open.spotify.com/album/588vMmUGoktPqhe64li9hu) | 2:36 |
 | 21 | [Rosy Cheeks](https://open.spotify.com/track/0q1B1FNIIX1IKTzGoBUwTY) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Rosy Cheeks](https://open.spotify.com/album/4ylLZ7Y7b4RVISVAhjEFAv) | 3:10 |
-| 22 | [Jealous Of The Sun](https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Jealous Of The Sun \(feat\. AYLØ & Thierry Ganz\)](https://open.spotify.com/album/72bGxLGUh1RVANjKcFVcMQ) | 3:11 |
+| 22 | [Jealous Of The Sun](https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Jealous Of The Sun](https://open.spotify.com/album/72bGxLGUh1RVANjKcFVcMQ) | 3:11 |
 | 23 | [Love In HiFi](https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99) | [KDRC](https://open.spotify.com/artist/7znZBeCEOB0GsbZzA0oPTR), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Love In HiFi](https://open.spotify.com/album/3kARVuGckQBp1norYyrlvi) | 3:01 |
 | 24 | [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 |
 | 25 | [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 |

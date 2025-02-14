@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,466 likes - 256 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468 likes - 256 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 43 | [thanK you aIMee](https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:23 |
 | 44 | [Cassandra](https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:00 |
 | 45 | [About Today \- 2021 Remaster](https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 4:10 |
-| 46 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
-| 47 | [Blowing Smoke](https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:52 |
+| 46 | [Blowing Smoke](https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:52 |
+| 47 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 48 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 49 | [Bloodbuzz Ohio](https://open.spotify.com/track/5idVbYWHOBsFktyGq9KhkL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 4:35 |
 | 50 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 151 | [Gratitude](https://open.spotify.com/track/69vydy2jTCzzMNGgCVf2Pv) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 5:56 |
 | 152 | [Hairpin Turns](https://open.spotify.com/track/30SPSWQRfDagq4lJ2KoaR0) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:27 |
 | 153 | [When Will I Be Alright](https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:55 |
-| 154 | [So Far Around the Bend](https://open.spotify.com/track/2GPJRy7UIfZexAvOSoWUuX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Knotty Pine / So Far Around the Bend](https://open.spotify.com/album/5wFshCjP24neaGoa9XQv4T) | 3:42 |
-| 155 | [Laugh Track \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:24 |
+| 154 | [Laugh Track \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:24 |
+| 155 | [So Far Around the Bend](https://open.spotify.com/track/2GPJRy7UIfZexAvOSoWUuX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Knotty Pine / So Far Around the Bend](https://open.spotify.com/album/5wFshCjP24neaGoa9XQv4T) | 3:42 |
 | 156 | [You Were a Kindness](https://open.spotify.com/track/4KOWSd4xb8HzQBelJ4gsEL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:25 |
 | 157 | [The Bend](https://open.spotify.com/track/63pCUZDXRI4Tu6zhj8O4e2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [The Bend](https://open.spotify.com/album/6seylik7yeqVmowFt5nCF6) | 3:27 |
 | 158 | [Head > Heels](https://open.spotify.com/track/0ehxgCWdhKRdnRn9MmrUbu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:13 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 255 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 256 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AbpbSAAAAABTq+TY47zNktmvJAcj9Tob`
+Snapshot ID: `Abpg3gAAAABKl0euewR+q6NWYw+/ePR3`

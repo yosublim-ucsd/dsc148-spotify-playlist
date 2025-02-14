@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. BUNNY ⛓️
+> welcome to our universe ft\. BEX ⛓️
 
-1,060 songs - 2 day 3 hr 33 min
+1,063 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 | 2023-07-07 |
 | [crush](https://open.spotify.com/track/6kLhilDX44nCibecCJldjP) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [crush](https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4) | 2:28 | 2024-05-28 | 2024-06-07 |
+| [crybaby](https://open.spotify.com/track/6apiNOik1DtKC818JzbRHD) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [crybaby](https://open.spotify.com/album/6WGgWdLAAfnODOpA9gYwt7) | 2:18 | 2025-02-14 |  |
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-05-16 | 2024-09-27 |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |
 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 | 2025-01-10 |  |
@@ -409,6 +410,7 @@
 | [Grindhouse](https://open.spotify.com/track/3EN9EFQHqDSLoNXAOkJzlJ) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [MG Ultra](https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL) | 4:03 | 2024-10-17 |  |
 | [GROWING INTO IT](https://open.spotify.com/track/6VWQYZW75FuIWG5UZ58B3G) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [GROWING INTO IT](https://open.spotify.com/album/3D7hmJmOmHh1Tp1UUO9K7U) | 3:20 | 2023-04-06 | 2023-05-13 |
 | [GROWING PAINS](https://open.spotify.com/track/13ypXSpDVzm88oAnSLKH9j) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [The Spiritual Meat Grinder](https://open.spotify.com/album/5dImWa7fCFYKxgDmlNZXTl) | 2:20 | 2023-08-24 | 2023-11-11 |
+| [Guilty Pleasure](https://open.spotify.com/track/4DA0AIZhKlHJOhMm2QzdXY) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Guilty Pleasure](https://open.spotify.com/album/0JmGiLmed97r1k0F1SCtAa) | 3:04 | 2025-02-14 |  |
 | [GUNSLINGER](https://open.spotify.com/track/5FeS825T9XlsvmGwxzL3Dn) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [GUNSLINGER](https://open.spotify.com/album/1q5qNIrsrJEpOBzuCjoGOI) | 3:06 | 2023-05-18 | 2023-06-09 |
 | [half a world away](https://open.spotify.com/track/4cAKsZI8HIHo75TT9JjVzt) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [half a world away](https://open.spotify.com/album/5W3bN2Mg56HZsSaBuyMdjv) | 2:41 | 2025-01-10 |  |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0JtetOWih1cDUCmuoGr9lj) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:30 | 2024-10-29 | 2024-11-05 |
@@ -847,6 +849,7 @@
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-08-04 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-29 | 2022-10-11 |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-10-06 | 2022-11-11 |
+| [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 | 2025-02-14 |  |
 | [Silent](https://open.spotify.com/track/1b2zA5ryrida0khSGtp0ZY) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Silent](https://open.spotify.com/album/692IggWHYFp0eyJBWmTW3d) | 2:28 | 2022-09-01 | 2022-09-30 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-04-01 |
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-27 | 2022-02-04 |

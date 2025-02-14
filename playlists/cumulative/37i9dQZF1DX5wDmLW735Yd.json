@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Benny Page, Mad Sam",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 188275,
       "name": "A Little More - Friendly Foe Remix",
       "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
@@ -2087,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/7zE3gINy7jUWwSgdmocm8H"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162327,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/1enFNqBlmIdB0Zsp2bKm00"
+    },
+    {
+      "album": {
         "name": "Bourgeois Imagery",
         "url": "https://open.spotify.com/album/70GSlKAL210mALUsFzTvcc"
       },
@@ -2672,6 +2694,32 @@
       "duration_ms": 198620,
       "name": "Castles",
       "url": "https://open.spotify.com/track/2ZDaVy3arKuP2SMALRcUr7"
+    },
+    {
+      "album": {
+        "name": "Castles In The Sky",
+        "url": "https://open.spotify.com/album/1DPaEexteBEjBmUk8zVCuK"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "IVD",
+          "url": "https://open.spotify.com/artist/0br6sutLp9kgaxziqx45oZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Castles In The Sky",
+      "url": "https://open.spotify.com/track/2aUFuFkH7YirC6ER6yGit6"
     },
     {
       "album": {
@@ -3636,6 +3684,28 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
+    },
+    {
+      "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/2qU64xyrto5ARW4Y9aSlJk"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158706,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/2CMZuUTbQ6chojKU64Z04Z"
     },
     {
       "album": {
@@ -5630,7 +5700,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 248275,
       "name": "Follow The Sound",
       "url": "https://open.spotify.com/track/3P9HlbXJ86ZfJzz99O9lfO"
@@ -6219,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Glitter & Gold",
+        "url": "https://open.spotify.com/album/2Z4toCw6DZdH6DbyMhQ42G"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/4nRrtH4kzCq4VLflArxBfU"
+    },
+    {
+      "album": {
         "name": "Glorify",
         "url": "https://open.spotify.com/album/7nyDlb7gZkTF24hxigYm5X"
       },
@@ -6396,7 +6484,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 138191,
       "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
       "url": "https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31"
@@ -9860,7 +9948,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 207000,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/7wkpF9WoMdMR8XZPpu3lTK"
@@ -10068,7 +10156,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 157681,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
@@ -10494,7 +10582,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 204757,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
@@ -11476,6 +11564,24 @@
       "duration_ms": 171034,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/0ftvcxmgmafkBWUxvPpRDb"
+    },
+    {
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/7k3sNMolk8FdsouA5QPc8A"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/2kzps6tQOA7j2XCWKMwUej"
     },
     {
       "album": {
@@ -14958,6 +15064,28 @@
       "duration_ms": 274883,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/1XcAQppv3kmTwJwwXgHDvA"
+    },
+    {
+      "album": {
+        "name": "Step Into The Rave (feat. shadxwgirl)",
+        "url": "https://open.spotify.com/album/4ubmhjBFf0VaYpbTIrl64b"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "shadxwgirl",
+          "url": "https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Step Into The Rave (feat. shadxwgirl)",
+      "url": "https://open.spotify.com/track/02N9lZqNGAXimcros1zSwm"
     },
     {
       "album": {

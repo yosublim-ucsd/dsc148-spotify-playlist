@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Hendra Kumbara",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -762,6 +762,28 @@
       "duration_ms": 247999,
       "name": "Blenjani Janji",
       "url": "https://open.spotify.com/track/1qBommWBVcrPr0HeHnvHCM"
+    },
+    {
+      "album": {
+        "name": "Blong",
+        "url": "https://open.spotify.com/album/57Mm0XSA9nZPzbWpqjJT16"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364800,
+      "name": "Blong",
+      "url": "https://open.spotify.com/track/104yDSU2OaFlguR4VSQHNk"
     },
     {
       "album": {
@@ -1546,6 +1568,24 @@
       "duration_ms": 242000,
       "name": "Durung Ikhlas",
       "url": "https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx"
+    },
+    {
+      "album": {
+        "name": "Eling Elingo",
+        "url": "https://open.spotify.com/album/11iUJEyeQO2RqJOn1HqG5y"
+      },
+      "artists": [
+        {
+          "name": "Trio Macan",
+          "url": "https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "Eling Elingo",
+      "url": "https://open.spotify.com/track/1CreCAX2ZY1pA1TN4KDvVC"
     },
     {
       "album": {
@@ -7445,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "Sing Tego",
+        "url": "https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267670,
+      "name": "Sing Tego",
+      "url": "https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL"
+    },
+    {
+      "album": {
         "name": "Sinyal Tresna (From Collabonation)",
         "url": "https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ"
       },
@@ -8250,6 +8308,24 @@
       "duration_ms": 372480,
       "name": "Tutupono",
       "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"
+    },
+    {
+      "album": {
+        "name": "Ubur - Ubur Ikan Lele",
+        "url": "https://open.spotify.com/album/3BDt47hf31UCLwAoCdDIoQ"
+      },
+      "artists": [
+        {
+          "name": "Mala Agatha",
+          "url": "https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323491,
+      "name": "Ubur - Ubur Ikan Lele",
+      "url": "https://open.spotify.com/track/1Hyds32OOuXj1viFTSDokZ"
     },
     {
       "album": {

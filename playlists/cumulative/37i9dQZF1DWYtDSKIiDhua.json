@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: SZA",
   "name": "mood. ",
   "tracks": [
     {
@@ -1226,6 +1226,36 @@
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "album": {
+        "name": "Baby (Let Me Go)",
+        "url": "https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Latinka",
+          "url": "https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2"
+        },
+        {
+          "name": "Nael Larumunde",
+          "url": "https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT"
+        },
+        {
+          "name": "Niel Larumunde",
+          "url": "https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248101,
+      "name": "Baby (Let Me Go)",
+      "url": "https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha"
     },
     {
       "album": {
@@ -2743,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157414,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
+    },
+    {
+      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -3692,7 +3740,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -4484,7 +4532,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 240086,
       "name": "Don't Commit",
       "url": "https://open.spotify.com/track/47xdPUQWastNWKpXDjQcY8"
@@ -4854,7 +4902,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 118856,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/0hPM0UAjizJeqSubZSM4fW"
@@ -5778,7 +5826,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 178625,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/3dXvB3N52i9dT1K3Smr4fc"
@@ -6928,7 +6976,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 185939,
       "name": "GOLIATH",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
@@ -7288,6 +7336,24 @@
       "duration_ms": 195893,
       "name": "Guess I Should've Known",
       "url": "https://open.spotify.com/track/0vg9rIjo2WXxCOAqQhIfvO"
+    },
+    {
+      "album": {
+        "name": "Guess So",
+        "url": "https://open.spotify.com/album/28InhKTxfiyNUKP3dDIlDE"
+      },
+      "artists": [
+        {
+          "name": "Rhea Asmara",
+          "url": "https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Guess So",
+      "url": "https://open.spotify.com/track/19WpUSR2e3FXVOnO6kDSzf"
     },
     {
       "album": {
@@ -8370,10 +8436,28 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 211636,
       "name": "I Felt That Insecure",
       "url": "https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM"
+    },
+    {
+      "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX"
+      },
+      "artists": [
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180234,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ"
     },
     {
       "album": {
@@ -9439,6 +9523,24 @@
     },
     {
       "album": {
+        "name": "It's Okay To Not Be Okay",
+        "url": "https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209063,
+      "name": "It's Okay To Not Be Okay",
+      "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
+    },
+    {
+      "album": {
         "name": "It's Still You",
         "url": "https://open.spotify.com/album/0QjArYn8hJmQ4N4n2FG2YQ"
       },
@@ -10146,7 +10248,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 172000,
       "name": "liar",
       "url": "https://open.spotify.com/track/2HwisMPh7eeGWSgBJLe8no"
@@ -12044,7 +12146,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 224309,
       "name": "munchies",
       "url": "https://open.spotify.com/track/2igMlLhuhOTVWXag1MD9lm"
@@ -12168,6 +12270,24 @@
       "duration_ms": 207466,
       "name": "My Soles Worn Out",
       "url": "https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ"
+    },
+    {
+      "album": {
+        "name": "HAVEN",
+        "url": "https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR"
     },
     {
       "album": {
@@ -12778,6 +12898,24 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "Nobody Like U (Interlude)",
+        "url": "https://open.spotify.com/album/6fvMH4jsCJo9dDy2hzJcxB"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Nobody Like U (Interlude)",
+      "url": "https://open.spotify.com/track/6UNeYace48ikp6kLlTIiOf"
     },
     {
       "album": {
@@ -15984,7 +16122,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 205365,
       "name": "Sippin' Sake",
       "url": "https://open.spotify.com/track/7eqMEFjs74SplRyDEAKcRs"
@@ -16126,6 +16264,24 @@
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+    },
+    {
+      "album": {
+        "name": "Slow Grind",
+        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Slow Grind",
+      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
     },
     {
       "album": {
@@ -17499,6 +17655,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
+    },
+    {
+      "album": {
         "name": "Take you to the moon",
         "url": "https://open.spotify.com/album/57HpGI0su9ICrlB9KPqPFC"
       },
@@ -18549,6 +18723,28 @@
     },
     {
       "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/4As6SLkweWhpNGIA66b891"
+    },
+    {
+      "album": {
         "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?",
         "url": "https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI"
       },
@@ -19568,7 +19764,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 238303,
       "name": "VITAMIN U",
       "url": "https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ"

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278276,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -255,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/4fArsSLEFZiG8ObSDtqHGu"
+      },
+      "artists": [
+        {
+          "name": "Birgir",
+          "url": "https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Bedtime Stories",
+      "url": "https://open.spotify.com/track/2kH66TOm3wCMB6tfYHdTMU"
+    },
+    {
+      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
       },
@@ -324,7 +364,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 190840,
       "name": "Blackberry Mule",
       "url": "https://open.spotify.com/track/2YCgIaLnfcM3ehKqvEsCN9"
@@ -376,6 +416,24 @@
       "duration_ms": 103860,
       "name": "BOSSED UP",
       "url": "https://open.spotify.com/track/2phujKdfkzsl9mpT1iGuB0"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -442,7 +500,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 180409,
       "name": "CAVE (with Tove Lo)",
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
@@ -478,7 +536,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -536,7 +594,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -612,7 +670,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 138430,
       "name": "Elli Egils",
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
@@ -820,6 +878,28 @@
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO"
+    },
+    {
+      "album": {
+        "name": "Gleyma",
+        "url": "https://open.spotify.com/album/6HdFEqxXGGVpZsVE5cKmF7"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        },
+        {
+          "name": "Valdimar Gu\u00f0mundsson",
+          "url": "https://open.spotify.com/artist/28FtvCIh12VQL6ggWDS1ps"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246366,
+      "name": "Gleyma",
+      "url": "https://open.spotify.com/track/0XCsvpGH9u2ZpmijyjYW5F"
     },
     {
       "album": {
@@ -1645,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "R\u00d3A",
+        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "R\u00d3A",
+      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
       },
@@ -1866,7 +1964,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -1954,6 +2052,24 @@
       "duration_ms": 186040,
       "name": "S\u00f3linni",
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "album": {

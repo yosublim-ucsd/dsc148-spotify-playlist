@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : David Guetta & Ava Max",
+  "description": "Le meilleur des hits ! Photo : Helena",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -1856,6 +1856,24 @@
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
     },
     {
       "album": {
@@ -2965,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "RECOMMENCE-MOI",
+        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272413,
+      "name": "La Diff\u00e9rence",
+      "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
+    },
+    {
+      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
       },
@@ -3379,6 +3415,32 @@
     },
     {
       "album": {
+        "name": "Lola (feat. Nicola Sirkis)",
+        "url": "https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        },
+        {
+          "name": "Nicola Sirkis",
+          "url": "https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Lola (feat. Nicola Sirkis)",
+      "url": "https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -3462,7 +3524,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 129570,
       "name": "Love Is Harder",
       "url": "https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie"
@@ -4418,7 +4480,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 196334,
       "name": "Recommence-moi",
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
@@ -4538,6 +4600,24 @@
       "duration_ms": 190840,
       "name": "R\u00e9sister (What about Peace?)",
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -5338,7 +5418,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 153266,
       "name": "Ton regard",
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"

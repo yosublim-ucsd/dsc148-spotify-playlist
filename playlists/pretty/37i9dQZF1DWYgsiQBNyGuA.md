@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,989 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,025 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 17 | [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 |
 | 18 | [Best of Me](https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Back To Love \(Deluxe Version\)](https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4) | 3:46 |
 | 19 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
-| 20 | [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 |
-| 21 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
+| 20 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
+| 21 | [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 |
 | 22 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
 | 23 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/78fJOZkbhtIdFvIvvO8Mu0) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7) | 2:57 |
 | 24 | [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 44 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 |
 | 45 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
 | 46 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
-| 47 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
-| 48 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
+| 47 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
+| 48 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 49 | [All I Ever Wonder](https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:29 |
 | 50 | [Ain't Easy](https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Ain't Easy](https://open.spotify.com/album/1TD7QHy48RPhLcBTfjNwth) | 4:28 |
 | 51 | [Love Goes](https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Love Goes](https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ) | 2:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 65 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 | 66 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 |
 | 67 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
-| 68 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |
-| 69 | [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 |
+| 68 | [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 |
+| 69 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |
 | 70 | [Rescue](https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 4:59 |
 | 71 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
 | 72 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |

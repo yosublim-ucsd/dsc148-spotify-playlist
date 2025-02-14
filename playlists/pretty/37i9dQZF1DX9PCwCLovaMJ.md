@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 69 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
 | 70 | [Daylight](https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daylight](https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1) | 2:07 |
 | 71 | [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 |
-| 72 | [MESSY](https://open.spotify.com/track/7heAzsWByeir4YAtakFiul) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 2:57 |
-| 73 | [North Sea Siren \(p.78\)](https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [North Sea Siren \(p.78\)](https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3) | 2:15 |
+| 72 | [North Sea Siren \(p.78\)](https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [North Sea Siren \(p.78\)](https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3) | 2:15 |
+| 73 | [MESSY](https://open.spotify.com/track/7heAzsWByeir4YAtakFiul) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 2:57 |
 | 74 | [20 BPM](https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [20 BPM](https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w) | 3:03 |
 | 75 | [Something Strange](https://open.spotify.com/track/18lBjomcRXjwf7ATIyA7Bh) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi), [Free Camille](https://open.spotify.com/artist/22gFHGOHeu0XJXKZpgxOt3) | [Something Strange](https://open.spotify.com/album/2nNVrwuBjXpifNe6weG12w) | 4:01 |
 

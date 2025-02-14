@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Mahalia, Lila Ik\u00e9",
+  "description": "The best voices in R&B. Cover: kwn, Kehlani",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh)",
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
@@ -5024,7 +5024,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-14",
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
@@ -6312,6 +6312,24 @@
       "duration_ms": 226379,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr"
+    },
+    {
+      "album": {
+        "name": "Slow Grind",
+        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Slow Grind",
+      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
     },
     {
       "album": {
@@ -7924,6 +7942,28 @@
       "duration_ms": 160894,
       "name": "Woman Now - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3YpoYC2zVGfL01IfWJXOAr"
+    },
+    {
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "album": {

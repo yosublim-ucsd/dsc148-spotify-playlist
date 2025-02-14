@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Kike Pavón, Marcos Witt, y Factor de Cambio
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,054 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,186 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

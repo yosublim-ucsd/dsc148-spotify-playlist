@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Heykel
+> Les plus belles plumes rap français du moment\. Photo : Mairo
 
-130 songs - 7 hr 15 min
+132 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Avec des mots](https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Avec des mots](https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu) | 3:12 | 2024-06-27 | 2024-11-29 |
 | [BIZON](https://open.spotify.com/track/6RXI00qwaWjm35oBsVNRx2) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [BIZON](https://open.spotify.com/album/4Iqqdec5r2TZNVf1WTfxX7) | 3:10 | 2025-01-09 |  |
 | [BLACKPRADA](https://open.spotify.com/track/2OrmpaYO5Kmbbv6GbXzJZk) | [RORO LA MEUTE](https://open.spotify.com/artist/1cmMENrCxOfXMpiM43FRqG) | [NIO FAR](https://open.spotify.com/album/3LlQedbphCeyL68VsOlb4G) | 2:55 | 2025-01-23 |  |
-| [BLE$$$](https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v) | [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [LA BOHEME](https://open.spotify.com/album/6iPE5EhqCDwC9ShJusaKmI) | 2:49 | 2025-01-09 |  |
+| [BLE$$$](https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v) | [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [LA BOHEME](https://open.spotify.com/album/6iPE5EhqCDwC9ShJusaKmI) | 2:49 | 2025-01-09 | 2025-02-14 |
 | [blouseblanche](https://open.spotify.com/track/1RkmXt2d0kIu3hLAjUHmW8) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp) | [blouseblanche](https://open.spotify.com/album/0O9QzquMbh5G63KQwwd8rC) | 3:39 | 2025-01-16 |  |
 | [BÂTEAU DANS LE CIEL](https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [LE HORLA](https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4) | 3:13 | 2024-06-27 | 2024-07-19 |
 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-06-27 | 2024-10-25 |
@@ -40,8 +40,9 @@
 | [Croisades Puissance2frappe](https://open.spotify.com/track/5T5NkRAUTc2YS5l2mRwRrk) | [Dibson](https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk) | [Croisades Puissance2frappe](https://open.spotify.com/album/4qmbyhKttYaIpJB5rm0IR1) | 3:02 | 2024-10-17 | 2024-11-22 |
 | [DANS LA DURÉE](https://open.spotify.com/track/5sBeSpODd2x8ZZHJRnxJFf) | [.H.K](https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX) | [DANS LA DURÉE](https://open.spotify.com/album/4ZVJot0pHwBjvK0iMBWjQC) | 2:43 | 2024-10-17 | 2024-11-08 |
 | [Dans la tête](https://open.spotify.com/track/5OIxIJ1zXhylgKLJRKczgW) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:29 | 2024-12-05 |  |
-| [Dernier shift](https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7), [CRC](https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6) | [Dernier shift](https://open.spotify.com/album/2EJo4LgEoJJn0pSIfcjqVH) | 2:50 | 2025-01-09 |  |
+| [Dernier shift](https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7), [CRC](https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6) | [Dernier shift](https://open.spotify.com/album/2EJo4LgEoJJn0pSIfcjqVH) | 2:50 | 2025-01-09 | 2025-02-14 |
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-09 |  |
+| [dope](https://open.spotify.com/track/1Ig6wDFx745YiTgbgOyRCj) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [Hopital](https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn) | [dope](https://open.spotify.com/album/4Z0sok37Oqr4Os7jLVfXKM) | 3:48 | 2025-02-13 |  |
 | [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/track/3Fyre3w6f19hjycGVng2RK) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/album/6sQA6PpwUBRmmdfNlH8vYD) | 2:42 | 2025-02-06 |  |
 | [Dyonysos](https://open.spotify.com/track/5B9gm49biFFkSkNfxfrx2y) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Dyonysos](https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2) | 3:05 | 2024-12-12 |  |
 | [Défilé de mots](https://open.spotify.com/track/69p51DcIenizcU1d5WExxE) | [Mokless](https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL), [Scred Connexion](https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86) | [Défilé de mots](https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1) | 3:19 | 2024-12-12 | 2025-01-31 |
@@ -70,6 +71,7 @@
 | [L'4MOUR](https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [LA HAINE](https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT) | 5:32 | 2024-10-10 |  |
 | [L'Amour](https://open.spotify.com/track/64CEYM2rKpmeNYNKHg3bfC) | [SKRIZ](https://open.spotify.com/artist/59OVD8Vap8QSm5daZ0uw0d), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [SOIZETTE](https://open.spotify.com/album/2fG6WJKoJrQmjE6Suojppw) | 2:02 | 2024-09-19 | 2024-11-22 |
 | [L'empreinte de ma plume](https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Particule élémentaire](https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb) | 3:30 | 2024-06-27 | 2024-11-29 |
+| [L'hiver](https://open.spotify.com/track/4MwXuOyte7BBkhPGMDpCvB) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [L'hiver](https://open.spotify.com/album/0BQRHLTXTWHpjma9jZqc1M) | 2:35 | 2025-02-13 |  |
 | [L'homme qui frappe à la porte II](https://open.spotify.com/track/3jTh2xYdKDrYsONmgLcbf6) | [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6) | [L'homme qui frappe à la porte II](https://open.spotify.com/album/5s9Dt655kOqg5q9CIErGtn) | 3:34 | 2024-09-12 | 2024-11-22 |
 | [La bohème.](https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [La bohème.](https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J) | 1:53 | 2024-09-26 |  |
 | [LA CHUTE](https://open.spotify.com/track/7tV20ulK6Ms7pmo5OegLdi) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [LA CHUTE](https://open.spotify.com/album/2fdig9S3CKRYHkYJ25THdD) | 2:56 | 2024-11-14 | 2024-12-20 |
