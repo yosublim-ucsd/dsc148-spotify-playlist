@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Velours Velours
+> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,221 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,220 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prière quotidienne](https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:23 |
-| 2 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 |
-| 3 | [Léa](https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Léa // Tableaux de craie](https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb) | 3:18 |
-| 4 | [Hearts Working Overtime](https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Hearts Working Overtime](https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm) | 3:00 |
-| 5 | [Her World](https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Her World](https://open.spotify.com/album/3fusfgcor6dCV3gBB1Wf53) | 2:25 |
-| 6 | [Agneau](https://open.spotify.com/track/7Eh2AGrjQbOD4Lln006DmR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Agneau](https://open.spotify.com/album/6YV4xkNfAOm2H0ueFBdiyU) | 2:30 |
+| 1 | [Agneau](https://open.spotify.com/track/7Eh2AGrjQbOD4Lln006DmR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Agneau](https://open.spotify.com/album/6YV4xkNfAOm2H0ueFBdiyU) | 2:30 |
+| 2 | [Prière quotidienne](https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:23 |
+| 3 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 |
+| 4 | [Léa](https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Léa // Tableaux de craie](https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb) | 3:18 |
+| 5 | [Hearts Working Overtime](https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Hearts Working Overtime](https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm) | 3:00 |
+| 6 | [Her World](https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Her World](https://open.spotify.com/album/3fusfgcor6dCV3gBB1Wf53) | 2:25 |
 | 7 | [Zoé sur la montagne](https://open.spotify.com/track/19jBx6s9LIxzRdccmlDUjD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Zoé sur la montagne / Deuxième vie](https://open.spotify.com/album/4lVU7Rdk1wgzVutEbM3Vpx) | 2:53 |
 | 8 | [La montagne](https://open.spotify.com/track/06EJqWXMilZGmSrHApSs4e) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Du soleil dans l’oeil](https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe) | 3:26 |
 | 9 | [The Knife In Me](https://open.spotify.com/track/58hTRQMC67zlvZV1bb49Me) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [The Knife In Me](https://open.spotify.com/album/1qJwOLRyiuHWBichKictX9) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 |
 | 100 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 |
 
-Snapshot ID: `Z6WTeAAAAACOJeuZpgp+xetcE0ZPlpOV`
+Snapshot ID: `Z69iKQAAAADLjG07nHQMPUxGYuDGpNOx`

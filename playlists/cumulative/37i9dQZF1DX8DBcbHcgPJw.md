@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Peipper y Roze Oficial
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Ian Lucas y Flor Alvarez
 
-616 songs - 1 day 6 hr 36 min
+617 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 | 2021-12-23 | 2024-08-13 |
 | [Te Olvidare en Silencio](https://open.spotify.com/track/0Pr4sf4XaiGo1Fvoe7mLmm) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Te Olvidare en Silencio](https://open.spotify.com/album/6oeVv8NbgkgGvALDrjoYsq) | 2:12 | 2024-05-03 | 2024-10-19 |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-23 | 2022-11-25 |
+| [Te Regalo Amores](https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Te Regalo Amores](https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv) | 3:02 | 2025-02-14 |  |
 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 | 2022-01-03 | 2022-07-28 |
 | [Te Sigo](https://open.spotify.com/track/5JMt2HjEuEsokttuS9U7on) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Te Sigo](https://open.spotify.com/album/3bCxNP94hZF0xNaRrLWNfc) | 2:48 | 2022-11-25 | 2022-12-16 |
 | [Te Va Doler](https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Va Doler](https://open.spotify.com/album/6zk0BDtDk9J2R7aiWJK1O4) | 2:18 | 2022-01-14 | 2022-07-24 |
@@ -588,7 +589,7 @@
 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 | 2024-01-12 |  |
 | [Veneno Para Olvidar / Agua Sucia](https://open.spotify.com/track/3wVbeNdqGlnQuqF24Q15Z4) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Veneno Para Olvidar / Agua Sucia](https://open.spotify.com/album/487MmOI6yOSImM3aq8mOcb) | 3:23 | 2023-09-29 | 2023-10-14 |
 | [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 | 2022-12-09 | 2023-01-25 |
-| [Verano 2024](https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Pirata](https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh) | [Verano 2024](https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq) | 2:36 | 2023-11-24 |  |
+| [Verano 2024](https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Pirata](https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh) | [Verano 2024](https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq) | 2:36 | 2023-11-24 | 2025-02-15 |
 | [Verano Pasado](https://open.spotify.com/track/7Jin5x96XaXowvaqixYBWw) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [Verano Pasado](https://open.spotify.com/album/3j39q5ziL55KvJn7onGy3c) | 2:13 | 2023-12-29 | 2024-02-29 |
 | [Vete de Mi Lado](https://open.spotify.com/track/5ZbNW11gqrh9s6XsRmGHo9) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk), [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Vete de Mi Lado](https://open.spotify.com/album/2XHal9pFapTUkcBOMuz6Ft) | 2:54 | 2023-06-30 | 2023-07-08 |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2021-12-23 |  |

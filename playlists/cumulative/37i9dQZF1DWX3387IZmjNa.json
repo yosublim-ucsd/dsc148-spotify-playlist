@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Jordan Adetunji & Bryson Tiller",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Dej Loaf & Jacquees",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 156040,
       "name": "16",
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
+    },
+    {
+      "album": {
+        "name": "168 Hours",
+        "url": "https://open.spotify.com/album/2rrVaoxA6fZUcjrl9RWknu"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "168 Hours",
+      "url": "https://open.spotify.com/track/5Pg00tBj3fnfVIGFQPfIkv"
     },
     {
       "album": {
@@ -1140,6 +1158,28 @@
       "duration_ms": 241533,
       "name": "Bachelor",
       "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
+    },
+    {
+      "album": {
+        "name": "Fuck A Friendzone 2",
+        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
     },
     {
       "album": {
@@ -2545,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199602,
+      "name": "CRYING IN CHANEL",
+      "url": "https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM"
+    },
+    {
+      "album": {
         "name": "D.M.B.",
         "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
       },
@@ -3096,6 +3154,28 @@
       "duration_ms": 120034,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
+    },
+    {
+      "album": {
+        "name": "Fuck A Friendzone 2",
+        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209563,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3lTy4ggl7n1NSjuQV3oivf"
     },
     {
       "album": {
@@ -3926,7 +4006,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 216774,
       "name": "Friends To Miami (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/4c0KvrQOCf05c4ED2MWmHC"
@@ -6179,6 +6259,28 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198692,
+      "name": "LASERS",
+      "url": "https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -6300,6 +6402,24 @@
       "duration_ms": 147300,
       "name": "Leave Her Alone",
       "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
+    },
+    {
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/02xoXDa2h6hd2kZdLdQSTF"
     },
     {
       "album": {
@@ -7166,6 +7286,24 @@
       "duration_ms": 196373,
       "name": "Man's World (with James Brown)",
       "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
+    },
+    {
+      "album": {
+        "name": "MARGARET",
+        "url": "https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "MARGARET",
+      "url": "https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq"
     },
     {
       "album": {
@@ -9177,6 +9315,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244931,
+      "name": "RAINING IN HOUSTON",
+      "url": "https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E"
+    },
+    {
+      "album": {
         "name": "Rare Steppa",
         "url": "https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K"
       },
@@ -10723,6 +10879,28 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "SPIDER-MAN SUPERMAN",
+      "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -11476,6 +11654,24 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. No Cap)",
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+    },
+    {
+      "album": {
+        "name": "What Makes Us Human",
+        "url": "https://open.spotify.com/album/7dNo6q5zub68LOMCPa9Vta"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157711,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/2sVa71QDpz844Yv4AWdjZo"
     },
     {
       "album": {
@@ -12876,6 +13072,24 @@
       "duration_ms": 138224,
       "name": "When She Call",
       "url": "https://open.spotify.com/track/4M63fR7SHl43BXsMqYA8EL"
+    },
+    {
+      "album": {
+        "name": "What Makes Us Human",
+        "url": "https://open.spotify.com/album/7dNo6q5zub68LOMCPa9Vta"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210988,
+      "name": "When You @ Me (Fuck That Nigga)",
+      "url": "https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji"
     },
     {
       "album": {

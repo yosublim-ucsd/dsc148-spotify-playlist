@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,847 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,852 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 38 | [Theremin Sonata No\. 1: I\. Moderato](https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz) | [Christopher Tarnow](https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Tarnow: Theremin Sonatas](https://open.spotify.com/album/70enQr7njOjNNd08lKp72H) | 7:42 |
 | 39 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 | 40 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |
-| 41 | [O Mio Babbino Caro](https://open.spotify.com/track/2yIjx5dyMvHv7l4VpxpAcI) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 4:04 |
+| 41 | [Mon Coeur S'ouvre a Ta Voix](https://open.spotify.com/track/5igknsjYOjHAqdVQbnJH1C) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 3:59 |
 | 42 | [Concerto for 2 Violins in D minor, BWV 1043: 2nd movement](https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 8:34 |
 | 43 | [Epilogue \(feat\. Bill Brovold\)](https://open.spotify.com/track/5XNBczbTHqGhgIqCYZJP6d) | [Duet for Theremin and Lap4 Steel](https://open.spotify.com/artist/7IMO8fg82ZsoseH4zNVjBh) | [Collaborations](https://open.spotify.com/album/5Kl5AI6xGjsw9qOupqjYRp) | 2:28 |
 | 44 | [Kontula](https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [Playing Theremin](https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS) | 2:48 |

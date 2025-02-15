@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: corook",
+  "description": "a little indie, a little pop.  Cover: ROLE MODEL",
   "name": "soda",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 169026,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/7ro64nLWTBmKcj2cTNg7dH"
+    },
+    {
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/70Fw2O4fbQT3AvrrOX0W5Z"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/3xgfy6l8SbBEOUtpAmcCQv"
     },
     {
       "album": {
@@ -1796,6 +1814,24 @@
       "duration_ms": 166265,
       "name": "Be Like Her",
       "url": "https://open.spotify.com/track/5rK3OJKGpDz5cy0JT2XYSy"
+    },
+    {
+      "album": {
+        "name": "BE MINE",
+        "url": "https://open.spotify.com/album/5D2Vrd4ZMx5u3R49xOMHnX"
+      },
+      "artists": [
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165572,
+      "name": "BE MINE",
+      "url": "https://open.spotify.com/track/6ZGtpEUJ1Zae5QJIv54dTD"
     },
     {
       "album": {
@@ -9970,7 +10006,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 189186,
       "name": "i shouldn\u2019t call you (w/ Nightly)",
       "url": "https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T"
@@ -11533,6 +11569,24 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236954,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
+    },
+    {
+      "album": {
         "name": "L.U.S.H.",
         "url": "https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E"
       },
@@ -12146,7 +12200,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170840,
       "name": "Little Acts Of Violence",
       "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
@@ -12442,7 +12496,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 158540,
       "name": "Lose My Lines",
       "url": "https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN"
@@ -13152,7 +13206,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 148016,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP"
@@ -13210,6 +13264,24 @@
       "duration_ms": 130931,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694"
+    },
+    {
+      "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150530,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
     },
     {
       "album": {
@@ -16252,7 +16324,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 197671,
       "name": "RICOCHET",
       "url": "https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1"
@@ -16670,6 +16742,24 @@
       "duration_ms": 101053,
       "name": "sailboat",
       "url": "https://open.spotify.com/track/6pVWnjQNBnRBR3mCJb0KoI"
+    },
+    {
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "album": {
@@ -17780,7 +17870,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -20540,6 +20630,24 @@
       "duration_ms": 214235,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4wJtYAMOzz013zi6KjHDeT"
+    },
+    {
+      "album": {
+        "name": "In The Middle Of Somewhere",
+        "url": "https://open.spotify.com/album/5Ir8HNOorKRgfKHffWGhn6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193759,
+      "name": "Too Much Ain't Enough",
+      "url": "https://open.spotify.com/track/0mzW5gng20UwJV67x4vEUo"
     },
     {
       "album": {

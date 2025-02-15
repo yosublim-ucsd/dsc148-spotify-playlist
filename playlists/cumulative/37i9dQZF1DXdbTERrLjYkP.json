@@ -6846,7 +6846,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 187874,
       "name": "If You Were My Girl",
       "url": "https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU"
@@ -13615,6 +13615,24 @@
     },
     {
       "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
+      "album": {
         "name": "We Say Goodbye",
         "url": "https://open.spotify.com/album/7x1odOgxt7VRV2Tj4XQYU2"
       },
@@ -14120,6 +14138,24 @@
       "duration_ms": 174827,
       "name": "without you with me",
       "url": "https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1"
+    },
+    {
+      "album": {
+        "name": "Wonder Bread Winner",
+        "url": "https://open.spotify.com/album/44iFHnZUp09kt83QElJnkK"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161406,
+      "name": "Wonder Bread Winner",
+      "url": "https://open.spotify.com/track/2D8dZJ7dXFawWNUmnca8TO"
     },
     {
       "album": {

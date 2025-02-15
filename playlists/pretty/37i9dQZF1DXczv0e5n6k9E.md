@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  Kidd, Lil Koni
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,619 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,637 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 26 | [ILEGAL](https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ILEGAL](https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF) | 2:48 |
 | 27 | [TOKAREV](https://open.spotify.com/track/103UeBr3kdzZcyUhcb72BU) | [Venom](https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [TOKAREV](https://open.spotify.com/album/7oSt8u5psAFkIlYyyjcCTO) | 3:19 |
 | 28 | [MANSON](https://open.spotify.com/track/3UU13z0oR1eJyxQZhGN18m) | [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn), [Sifis](https://open.spotify.com/artist/66Ax8CVFDxx5YUmAmmENu5) | [MANSON](https://open.spotify.com/album/7xvvdbJMMemW3p8CMnwwl3) | 2:02 |
-| 29 | [Jelly](https://open.spotify.com/track/2bcgX04GvadeZcjljz71U6) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [AR\-AB](https://open.spotify.com/artist/22PN8q6f33B3WpZI7u6CbG), [Asok](https://open.spotify.com/artist/5GLyN514qWTEIIccOyji0A) | [Public Enemy \(Deluxe\)](https://open.spotify.com/album/75hLPqCeHHV6evd9TVU9zS) | 2:20 |
+| 29 | [Jelly](https://open.spotify.com/track/2bcgX04GvadeZcjljz71U6) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Public Enemy \(Deluxe\)](https://open.spotify.com/album/75hLPqCeHHV6evd9TVU9zS) | 2:20 |
 | 30 | [YAKUZA](https://open.spotify.com/track/0ncPhTF1zz7YWtV44K1zY5) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [YAKUZA](https://open.spotify.com/album/5Fg57fKxPGYkTeYL71hgoi) | 2:19 |
 | 31 | [BURJ KHALIFA](https://open.spotify.com/track/2uJbZCgR4slJJvfJgaW10A) | [Retro](https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb), [Longlive](https://open.spotify.com/artist/7mcUh5VoiIjOD7A4koQ4AC) | [BURJ KHALIFA](https://open.spotify.com/album/0Da7RffOgbe8tgxeJcYf8D) | 2:54 |
 | 32 | [Pes Mou Esy](https://open.spotify.com/track/7w7ow5XrszrokxYGODFPAl) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Pes Mou Esy](https://open.spotify.com/album/2TrkovCZtostIhHXnlm5gV) | 3:18 |

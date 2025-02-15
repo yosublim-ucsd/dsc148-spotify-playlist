@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL"
+      },
+      "artists": [
+        {
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7"
+    },
+    {
+      "album": {
         "name": "Pok\u00e9mon",
         "url": "https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw"
       },
@@ -1316,6 +1334,24 @@
       "duration_ms": 174351,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b"
+    },
+    {
+      "album": {
+        "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
+        "url": "https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193704,
+      "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
+      "url": "https://open.spotify.com/track/00nY3yhV4PttPKeoTnb2UG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFEV4d0s2cp9N"

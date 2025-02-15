@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "2025 SMTOWN : THE CULTURE, THE FUTURE",
+        "url": "https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "Git It Up!",
+      "url": "https://open.spotify.com/track/5a6zHGZ1zCdh4v5pMAldr8"
+    },
+    {
+      "album": {
         "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/1NjDOIVKh62Cv9U1XgZIeT"
       },

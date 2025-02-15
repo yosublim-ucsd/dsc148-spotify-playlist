@@ -1,13 +1,29 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Lilly Bedard ",
-  "num_followers": 217481,
+  "num_followers": 217496,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6o9kAAAAAB8PEZFDVTr8SEV2tufI/bS",
+  "snapshot_id": "Z67N5gAAAABl/I8eFE6Qzc4uTkAsvSRt",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:22",
+      "album": {
+        "name": "Wonder Bread Winner",
+        "url": "https://open.spotify.com/album/44iFHnZUp09kt83QElJnkK"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 161406,
+      "name": "Wonder Bread Winner",
+      "url": "https://open.spotify.com/track/2D8dZJ7dXFawWNUmnca8TO"
+    },
     {
       "added_at": "2025-02-07 05:00:28",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 219000,
       "name": "Not Everything Ends",
       "url": "https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R"
-    },
-    {
-      "added_at": "2025-02-07 05:00:28",
-      "album": {
-        "name": "Killed For Sport",
-        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 254954,
-      "name": "Killed For Sport",
-      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
     },
     {
       "added_at": "2025-01-31 05:00:30",
@@ -59,6 +59,22 @@
       "duration_ms": 179028,
       "name": "Speak Too Soon (feat. Hans Williams)",
       "url": "https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA"
+    },
+    {
+      "added_at": "2025-02-14 05:00:22",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
       "added_at": "2025-02-07 05:00:28",
@@ -303,6 +319,22 @@
       "duration_ms": 207546,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd"
+    },
+    {
+      "added_at": "2025-02-07 05:00:28",
+      "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
     },
     {
       "added_at": "2025-01-03 05:00:26",
@@ -1011,22 +1043,6 @@
       "duration_ms": 249843,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "If You Were My Girl",
-        "url": "https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "If You Were My Girl",
-      "url": "https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU"
     },
     {
       "added_at": "2024-08-30 04:00:00",

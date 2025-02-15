@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-397 songs - 19 hr 3 min
+398 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Palm Springs](https://open.spotify.com/track/47dEiRz8rdsmj2U2xz7Uhk) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Palm Springs](https://open.spotify.com/album/6gcC7HoskODlDAgEXfv2lw) | 2:40 | 2025-02-07 |  |
 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 | 2023-10-13 | 2024-08-24 |
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
+| [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 |  |
 | [Perception](https://open.spotify.com/track/6I5ahEl9wBaSiruCxvpWCK) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Perception](https://open.spotify.com/album/5ux9uG1y42yFELCGh7VzvP) | 2:20 | 2025-01-10 | 2025-02-08 |
 | [Picadilly](https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Beto Braga](https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Picadilly](https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb) | 2:27 | 2024-06-04 |  |
 | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-08-22 | 2024-09-10 |
@@ -311,7 +312,7 @@
 | [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 | 2024-11-18 |
-| [Sonder](https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Sonder](https://open.spotify.com/album/6Z6OX5DULjWFKq8lZj76EX) | 2:01 | 2025-01-24 |  |
+| [Sonder](https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Sonder](https://open.spotify.com/album/6Z6OX5DULjWFKq8lZj76EX) | 2:01 | 2025-01-24 | 2025-02-15 |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
 | [Soul Garden](https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Soul Garden](https://open.spotify.com/album/2ojpfqyVlSteol0iPPRbGG) | 2:24 | 2024-12-13 |  |
 | [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |

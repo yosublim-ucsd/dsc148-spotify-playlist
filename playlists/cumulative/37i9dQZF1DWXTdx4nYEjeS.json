@@ -2979,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Campanas en la Noche",
+        "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250241,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
+    },
+    {
+      "album": {
         "name": "De Mi Flor",
         "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
@@ -7138,7 +7160,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
@@ -11538,7 +11560,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
@@ -16135,6 +16157,28 @@
     },
     {
       "album": {
+        "name": "Si Se Trata de Ella",
+        "url": "https://open.spotify.com/album/6VNjDi6Fu1GRSbd47QS1qU"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Si Se Trata de Ella",
+      "url": "https://open.spotify.com/track/4LccsIadxqxJoBQ9X6LNBY"
+    },
+    {
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -17165,6 +17209,24 @@
     },
     {
       "album": {
+        "name": "Te Pido Un Favor",
+        "url": "https://open.spotify.com/album/68VdPuwsgauybOP4bJPv5d"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Te Pido Un Favor",
+      "url": "https://open.spotify.com/track/6fVtdgVN3ML71LEZ10hbWV"
+    },
+    {
+      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/2gwzhCxkiLzZC0aPigMz5Y"
       },
@@ -17796,7 +17858,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"

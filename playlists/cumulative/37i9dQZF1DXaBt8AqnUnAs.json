@@ -131,7 +131,7 @@
         },
         {
           "name": "Benji",
-          "url": "https://open.spotify.com/artist/5sQMSS0qgsFJ8IloqMBlU8"
+          "url": "https://open.spotify.com/artist/5iH6kWaMdb0XmW7B2oksU7"
         }
       ],
       "date_added": "2025-01-31",
@@ -5512,12 +5512,16 @@
       },
       "artists": [
         {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
           "name": "Victor Sabri",
           "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
         },
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         },
         {
           "name": "Ayo Th",
@@ -12710,7 +12714,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172173,
       "name": "Sem Jeito",
       "url": "https://open.spotify.com/track/4PLi9GQh1cBV44xk3JnzhO"
@@ -15142,6 +15146,36 @@
       "duration_ms": 172800,
       "name": "Voltagem",
       "url": "https://open.spotify.com/track/4IErEHl6zYpf71a7gASD4t"
+    },
+    {
+      "album": {
+        "name": "Traumas e V\u00edcios (Deluxe)",
+        "url": "https://open.spotify.com/album/7w2reeKFOSHAsU3CfIxtK2"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "Vou Morrer Com Meu Orgulho",
+      "url": "https://open.spotify.com/track/6eFQVh2yGRs9P1Ux3MW8hT"
     },
     {
       "album": {

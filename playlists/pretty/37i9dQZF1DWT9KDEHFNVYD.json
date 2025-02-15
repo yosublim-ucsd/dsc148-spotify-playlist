@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 14432,
+  "num_followers": 14434,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
-        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 646960,
-      "name": "Pass The Hatchet, I Think I'm Goodkind",
-      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 381868,
       "name": "The Sound of all Things",
       "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
+        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 646960,
+      "name": "Pass The Hatchet, I Think I'm Goodkind",
+      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
       "added_at": "2022-03-04 01:55:34",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Find The Sun",
         "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 707560,
       "name": "Krautrock",
       "url": "https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blood-Drums",
-        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+        "name": "Ship",
+        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Saya",
+          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
         }
       ],
-      "duration_ms": 509853,
-      "name": "Blood-Drums",
-      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+      "duration_ms": 246861,
+      "name": "Ship - EP Version",
+      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ship",
-        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
+        "name": "Blood-Drums",
+        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
       },
       "artists": [
         {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Saya",
-          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 246861,
-      "name": "Ship - EP Version",
-      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
+      "duration_ms": 509853,
+      "name": "Blood-Drums",
+      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
     },
     {
       "added_at": "2021-07-30 14:56:06",

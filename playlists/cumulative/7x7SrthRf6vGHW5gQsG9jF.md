@@ -4,7 +4,7 @@
 
 > mostly rock
 
-823 songs - 2 day 4 hr 41 min
+825 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Kantan Music](https://open.spotify.com/track/3NSfvCW9KEimRYfqaFpcO1) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [Kantan Music](https://open.spotify.com/album/78abDxBU6xwKIlrWhp2dph) | 1:40 | 2025-01-24 |  |
 | [kazegusuri](https://open.spotify.com/track/4Nv7XHcMwMHQbycin1WRsR) | [uutubo](https://open.spotify.com/artist/6Lh7ZQo9QtiwY8nS97sYsE), [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [kazegusuri](https://open.spotify.com/album/1WAGesvtXSxUgapsTpr9in) | 1:17 | 2024-10-08 |  |
 | [killer smile](https://open.spotify.com/track/6E1GdALItGGV64AqPmxJV6) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [a huge mistake](https://open.spotify.com/album/0KHsp2Y0zufrvEQVNh6tsw) | 4:36 | 2024-01-18 |  |
+| [Kimitoodoretara](https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kimitoodoretara](https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3) | 3:31 | 2025-02-14 |  |
 | [Kininaru Ano Ko](https://open.spotify.com/track/5BIl5T1vtqE4tRk6eMpBdk) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [Synchroniciteen](https://open.spotify.com/album/4oYijXtFIv6PmxdRY8dwKC) | 3:02 | 2023-08-04 |  |
 | [Kokoro ni Kumo wo Motsu Shonen](https://open.spotify.com/track/0fPRu3MqUxtqZtfKeZf9Ro) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Iine!](https://open.spotify.com/album/3T6AZAlVW5KbZnmuBxZ4ZP) | 3:49 | 2023-07-21 |  |
 | [Kokoronashi](https://open.spotify.com/track/1FXrYwvWwjmbw8cqFC1OWz) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Contrast](https://open.spotify.com/album/6zRvJSG5JLRAQ2YAmP8R1a) | 4:33 | 2024-10-21 |  |
@@ -752,6 +753,7 @@
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2024-10-21 |  |
 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 | 2024-05-18 |  |
 | [未観測 \- キツネリ Remix](https://open.spotify.com/track/1Tp7vZhwqv6O02Q8ESmH3J) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [キツネリ](https://open.spotify.com/artist/3cs71Y6sIFFPBg8DVRluUj) | [狂想γ](https://open.spotify.com/album/30ckre1FRXiRxTRUZzGVUo) | 3:33 | 2024-10-08 |  |
+| [本当だよ](https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [本当だよ](https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z) | 3:33 | 2025-02-14 |  |
 | [杞憂に終わる](https://open.spotify.com/track/2axjzLzEPS1josrCv6Fvaz) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [杞憂に終わる](https://open.spotify.com/album/3hzwmQWL89F5zgzzG2hnPB) | 3:24 | 2024-05-18 |  |
 | [杪夏](https://open.spotify.com/track/2CtxtHFPv6BlktklptCDYd) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Touch the figure](https://open.spotify.com/album/0ArvB0Nzv365pCu1R8R3q2) | 2:38 | 2024-05-06 |  |
 | [東京](https://open.spotify.com/track/7jXmSHYnTaV5CVr2knYhO3) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 5:05 | 2023-07-28 |  |

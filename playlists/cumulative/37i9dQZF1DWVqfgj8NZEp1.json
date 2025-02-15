@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "All of the Sun",
+        "url": "https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU"
+      },
+      "artists": [
+        {
+          "name": "Ola \u00c5kerman",
+          "url": "https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "All of the Sun",
+      "url": "https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx"
+    },
+    {
+      "album": {
         "name": "Another Standard",
         "url": "https://open.spotify.com/album/4w0NdFbgjJMZBDZIeD1gQy"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,346,926 likes - 220 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,347,112 likes - 220 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 219 | [Clues](https://open.spotify.com/track/5SMh7T6OHAemmIOZQtAAVt) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Clues](https://open.spotify.com/album/1iuVeUdGre6nzcKZ2UBiI0) | 2:48 |
 | 220 | [Pineapple Breeze](https://open.spotify.com/track/3t7rGBmECt4uBZqTSRwZxf) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Pineapple Breeze](https://open.spotify.com/album/3KZtic9CCbmUqJJ6dwzcw9) | 3:19 |
 
-Snapshot ID: `Z6YK4AAAAAAI+zSknpqbmJS1vg01khHY`
+Snapshot ID: `Z6YK4AAAAABVIN2XuCTKTtypD3Kn5h9u`

@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTZAAAAADRllyglgnG9NwT8kG+7oW3",
+  "snapshot_id": "Z67N2wAAAAC9vGd+PcO45QMzOgOGh1G0",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:11",
+      "album": {
+        "name": "Naked In The Jungle",
+        "url": "https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 194467,
+      "name": "Naked In The Jungle",
+      "url": "https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ"
+    },
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 225869,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV"
+    },
+    {
+      "added_at": "2025-02-14 05:00:11",
+      "album": {
+        "name": "Risk Everythang",
+        "url": "https://open.spotify.com/album/1vjYtX0meIbFdnFdcwvouZ"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Risk Everythang",
+      "url": "https://open.spotify.com/track/35BWdWmb60A8Ng3B8QhfkT"
     },
     {
       "added_at": "2025-02-07 05:00:20",
@@ -389,22 +421,6 @@
       "url": "https://open.spotify.com/track/32X3sf3uRuASTVyb3u2E0p"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 176006,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Short Change Hero (Edit)",
@@ -643,26 +659,6 @@
       "duration_ms": 281842,
       "name": "Soul Brother No. 1",
       "url": "https://open.spotify.com/track/6J2WmEc61g4OG4yBfO89kp"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Bills",
-        "url": "https://open.spotify.com/album/061x6qxiNYbx7Zf2KFgnjE"
-      },
-      "artists": [
-        {
-          "name": "Davis Chris",
-          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
-        },
-        {
-          "name": "Mr Foster",
-          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
-        }
-      ],
-      "duration_ms": 131121,
-      "name": "Bills",
-      "url": "https://open.spotify.com/track/60kq7RymMAyz4FoVAxcxtu"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1205,26 +1201,6 @@
       "url": "https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "FLorida Man",
@@ -1515,22 +1491,6 @@
       "duration_ms": 218595,
       "name": "Y.A.T.O (You Ain't The One)",
       "url": "https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Rumpshaker",
-        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
-      },
-      "artists": [
-        {
-          "name": "Crystal Shawanda",
-          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Rumpshaker",
-      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
     },
     {
       "added_at": "2023-01-20 05:01:00",

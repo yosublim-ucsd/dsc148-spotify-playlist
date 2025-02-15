@@ -1,13 +1,45 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 454779,
+  "num_followers": 454811,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6EYNgAAAADq7nXMPfTpBsIqsgqR8HRU",
+  "snapshot_id": "Z67N2gAAAAAx9Rh9fvhHYFcSqHsJTDYj",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:10",
+      "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+    },
+    {
+      "added_at": "2025-02-14 05:00:10",
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/7A5dGcl8aEYVzdAEoJiinN"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "duration_ms": 248453,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/4LQRjtlOnHX2k8Tjs4n3fk"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -71,6 +103,22 @@
       "duration_ms": 228399,
       "name": "Pour Me Out",
       "url": "https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM"
+    },
+    {
+      "added_at": "2025-02-14 05:00:10",
+      "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -581,22 +629,6 @@
       "url": "https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e"
     },
     {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Stealing A Kiss",
-        "url": "https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 295696,
-      "name": "Stealing A Kiss",
-      "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "COWBOY CARTER",
@@ -883,22 +915,6 @@
       "duration_ms": 222800,
       "name": "Think I'm In Love With You",
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Plenty of Time, None to Waste (Acoustic)",
-        "url": "https://open.spotify.com/album/4GTqucW2wjwuv8SUYXvMGt"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 186044,
-      "name": "Plenty of Time, None to Waste - Acoustic",
-      "url": "https://open.spotify.com/track/6Ao8Tw3aT5PxddiWWU7YyK"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2023-10-06 04:00:00",

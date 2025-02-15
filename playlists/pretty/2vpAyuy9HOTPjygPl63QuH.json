@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11969,
+  "num_followers": 11972,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAku4OHYw4hHa5weqEl3jqtP7hjsvQf",
+  "snapshot_id": "AAAkyCbb7UEuXSsFaY4HCUs4ZURzabvA",
   "tracks": [
     {
       "added_at": "2025-01-24 00:02:20",
@@ -29,48 +29,24 @@
       "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
     },
     {
-      "added_at": "2025-01-17 11:38:25",
+      "added_at": "2025-02-14 13:38:08",
       "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
         }
       ],
-      "duration_ms": 179887,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
-    },
-    {
-      "added_at": "2025-02-07 13:10:24",
-      "album": {
-        "name": "Stephanie (HNTR Remix)",
-        "url": "https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        },
-        {
-          "name": "InntRaw",
-          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 145467,
-      "name": "Stephanie - HNTR Remix",
-      "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-02-07 13:10:36",
@@ -113,6 +89,26 @@
       "url": "https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"
     },
     {
+      "added_at": "2025-02-14 13:38:27",
+      "album": {
+        "name": "Disco Tetris (Riordan Remix)",
+        "url": "https://open.spotify.com/album/3uaf3JOTGr8G05F6DMmt3L"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "Disco Tetris - Riordan Remix",
+      "url": "https://open.spotify.com/track/0aWhTCjzK2gqXQNPODbmPi"
+    },
+    {
       "added_at": "2025-01-24 12:22:34",
       "album": {
         "name": "Dance With Me",
@@ -127,6 +123,54 @@
       "duration_ms": 208604,
       "name": "Workout - Original Mix",
       "url": "https://open.spotify.com/track/627qq7XQk2QfLsYhWux1eW"
+    },
+    {
+      "added_at": "2025-02-07 13:10:24",
+      "album": {
+        "name": "Stephanie (HNTR Remix)",
+        "url": "https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 145467,
+      "name": "Stephanie - HNTR Remix",
+      "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
+    },
+    {
+      "added_at": "2025-02-14 13:38:21",
+      "album": {
+        "name": "On Screen Off Screen",
+        "url": "https://open.spotify.com/album/5s0OADZrGLJAQoonu3AxTW"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        },
+        {
+          "name": "Damelo",
+          "url": "https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "On Screen Off Screen",
+      "url": "https://open.spotify.com/track/2aL07P0t7Am0Y7pxNvPrxJ"
     },
     {
       "added_at": "2025-01-24 12:24:09",
@@ -281,6 +325,26 @@
       "url": "https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv"
     },
     {
+      "added_at": "2025-02-14 13:39:10",
+      "album": {
+        "name": "No Phones",
+        "url": "https://open.spotify.com/album/39RwcwK6KmYEXaMlFmeGcR"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "No Phones",
+      "url": "https://open.spotify.com/track/5Ctacqj7cOVHtOcO8ZYZ57"
+    },
+    {
       "added_at": "2025-01-17 11:38:19",
       "album": {
         "name": "Pony",
@@ -395,6 +459,22 @@
       "duration_ms": 226406,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
+    },
+    {
+      "added_at": "2025-02-14 13:38:40",
+      "album": {
+        "name": "Alert",
+        "url": "https://open.spotify.com/album/1KbdZuKZQI4ZaJ0J6jR0xJ"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 180465,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/5c44IvQDGKTvf0nSXSQmvg"
     },
     {
       "added_at": "2025-01-10 21:24:18",

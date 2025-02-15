@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hver gang vi møtes er tilbake med en ny sesong! Hør årets tolkninger her.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,549 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,683 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 | 4 | [Mi beste side](https://open.spotify.com/track/0R0PbOdxhPlCXCpQuvb6uE) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hver Gang Vi Møtes 2025](https://open.spotify.com/album/42v2XAaRLJFLdZVJ7ZVqFF) | 2:43 |
 | 5 | [Amelia](https://open.spotify.com/track/1sG0eTEPInXcVFwT4s5i15) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Amelia](https://open.spotify.com/album/6SC3GZOStWXbZ2eUOpr9F9) | 2:53 |
 | 6 | [Si meg](https://open.spotify.com/track/2vwdl6l3nyXtqZAEFT5Zvx) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Hver Gang Vi Møtes 2025](https://open.spotify.com/album/42v2XAaRLJFLdZVJ7ZVqFF) | 3:06 |
-| 7 | [Null Kjærlighet](https://open.spotify.com/track/2QzYSpruQQXyO7lEf0bVhy) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Null Kjærlighet](https://open.spotify.com/album/2a0kPgdKYR4pFT3aWQaF0B) | 2:12 |
+| 7 | [Null Kjærlighet \(feat\. Ina Wroldsen\)](https://open.spotify.com/track/2QzYSpruQQXyO7lEf0bVhy) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Null Kjærlighet](https://open.spotify.com/album/2a0kPgdKYR4pFT3aWQaF0B) | 2:12 |
 | 8 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 |
 | 9 | [Danser på bordet \(feat\. GABIFUEGO\)](https://open.spotify.com/track/1YF8Pt1PFwpfxdZN93ZU1H) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Danser på bordet](https://open.spotify.com/album/4MCttrnRvMsL5foWoQaJC1) | 2:27 |
 | 10 | [God Morgen](https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [God Morgen](https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation featuring music from Black Country, New Road \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+  "description": "indie tunes with country experimentation featuring music from Dead Gowns \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -1780,6 +1780,24 @@
       "duration_ms": 252360,
       "name": "Fourth Street",
       "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
+    },
+    {
+      "album": {
+        "name": "Frontrunner",
+        "url": "https://open.spotify.com/album/1scoRqZ90t7FTPSh4I7bCC"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172542,
+      "name": "Frontrunner",
+      "url": "https://open.spotify.com/track/7fyPSF1N4qfBVx06dlBOqN"
     },
     {
       "album": {
@@ -3816,6 +3834,24 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+    },
+    {
+      "album": {
+        "name": "It's Summer, I Love You, and I'm Surrounded by Snow",
+        "url": "https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229213,
+      "name": "See People",
+      "url": "https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW"
     },
     {
       "album": {

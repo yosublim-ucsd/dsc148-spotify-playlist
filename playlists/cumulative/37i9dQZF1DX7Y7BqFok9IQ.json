@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Larkin Poe",
+  "description": "The best of modern blues rock. Cover: Samantha Fish",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 225877,
       "name": "6AM",
       "url": "https://open.spotify.com/track/2BfsuErJSI9t2TZb4kUW4h"
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Feeling Lucky",
+        "url": "https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW"
+      },
+      "artists": [
+        {
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352723,
+      "name": "Feeling Lucky",
+      "url": "https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE"
+    },
+    {
+      "album": {
         "name": "Sinner - Songwriter",
         "url": "https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB"
       },
@@ -2175,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "Hell Of A Good Time",
+        "url": "https://open.spotify.com/album/1LoEvdKPBmDoDDKv8ot4G3"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Hell Of A Good Time",
+      "url": "https://open.spotify.com/track/2RqZuqdOJ0FzEQ6Y3a6yJ1"
+    },
+    {
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD"
       },
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 293640,
       "name": "I Gotta Stop Letting You Let Me Down",
       "url": "https://open.spotify.com/track/5gkAlecczArRBlzatrPXBZ"
@@ -4442,7 +4478,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 220342,
       "name": "Riders",
       "url": "https://open.spotify.com/track/6qqUXdg4bduFMCf83hZ1pm"
@@ -5264,6 +5300,24 @@
       "duration_ms": 213066,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
+    },
+    {
+      "album": {
+        "name": "Sweet Southern Sounds",
+        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301430,
+      "name": "Sweet Southern Sounds",
+      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
       "album": {

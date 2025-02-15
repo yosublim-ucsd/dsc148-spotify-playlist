@@ -1,13 +1,33 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso & Yeison Jim\u00e9nez",
-  "num_followers": 236795,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Alan Ram\u00edrez & Yeison Jim\u00e9nez",
+  "num_followers": 236854,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6W4tgAAAAAEYxeQZoNUtWWzrwIAyrUG",
+  "snapshot_id": "Z67W3AAAAADm5NAUt4q16H2UdVp9qq/N",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:38:36",
+      "album": {
+        "name": "Tu cuarto de hora",
+        "url": "https://open.spotify.com/album/6YkNmlGI3AmGBpSJ2a7xJc"
+      },
+      "artists": [
+        {
+          "name": "Alan Ramirez",
+          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 188124,
+      "name": "Tu cuarto de hora",
+      "url": "https://open.spotify.com/track/76FxJmndkNGzmBELUvV106"
+    },
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
@@ -73,6 +93,22 @@
       "url": "https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN"
     },
     {
+      "added_at": "2025-02-14 05:38:36",
+      "album": {
+        "name": "HERIDA",
+        "url": "https://open.spotify.com/album/4NElCskSndEW2UZ6iurIra"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        }
+      ],
+      "duration_ms": 199761,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/6k2jVfXd9EQudNdOFmazSi"
+    },
+    {
       "added_at": "2025-02-07 07:39:34",
       "album": {
         "name": "Quiero Hacerte El Amor",
@@ -111,6 +147,26 @@
       "duration_ms": 177580,
       "name": "Giza",
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
+    {
+      "added_at": "2025-02-14 05:38:36",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/0QsgJCBjrJijhx96xr6nBC"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "B'rek",
+          "url": "https://open.spotify.com/artist/1sXnV1d2mysveOHNr5dXd6"
+        }
+      ],
+      "duration_ms": 152645,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/67seSqcptL305O57Htb8ow"
     },
     {
       "added_at": "2024-12-13 05:52:00",
@@ -315,22 +371,6 @@
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
-        "name": "Preg\u00fantele a mi ex",
-        "url": "https://open.spotify.com/album/08wW249B1Fh2EbhrOkGrF4"
-      },
-      "artists": [
-        {
-          "name": "Ciro Qui\u00f1onez",
-          "url": "https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK"
-        }
-      ],
-      "duration_ms": 161767,
-      "name": "Preg\u00fantele a mi ex",
-      "url": "https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -347,34 +387,6 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
-        "name": "La Santa y La Diabla (Remix) [feat. Jhonny Rivera]",
-        "url": "https://open.spotify.com/album/5PdPQrWoZ7XTikWNuN7Mcu"
-      },
-      "artists": [
-        {
-          "name": "Alexis Escobar",
-          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Jhon Alex Casta\u00f1o",
-          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "La Santa y La Diabla (Remix) [feat. Jhonny Rivera]",
-      "url": "https://open.spotify.com/track/011eF5on3P9zH86Y1MBFTH"
     },
     {
       "added_at": "2024-12-13 05:52:00",
@@ -987,22 +999,6 @@
       "duration_ms": 201693,
       "name": "Ni Tengo Ni Necesito",
       "url": "https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
-        "name": "Ya No Estoy a Tus Pies",
-        "url": "https://open.spotify.com/album/3bbeEKbF2WESFIFL0QcqXu"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "Ya No Estoy a Tus Pies",
-      "url": "https://open.spotify.com/track/2L6mloPTP4Z5FwJpWSnkBQ"
     },
     {
       "added_at": "2024-12-13 05:52:00",

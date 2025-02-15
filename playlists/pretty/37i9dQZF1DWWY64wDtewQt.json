@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9533405,
+  "num_followers": 9536604,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6ZwVwAAAAA7htMRwq6nwMpj2nnVTgkG",
+  "snapshot_id": "Z69algAAAAAJzwwdHcRoejUx6K4+I+v8",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -117,20 +117,24 @@
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
-      "added_at": "2024-04-26 14:45:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
       "artists": [
         {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
         }
       ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2024-03-22 16:01:00",
@@ -147,6 +151,22 @@
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+    },
+    {
+      "added_at": "2024-04-26 14:45:00",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2024-07-12 15:05:31",
@@ -383,26 +403,6 @@
       "duration_ms": 88629,
       "name": "Not My Problem Funk",
       "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2024-10-25 14:00:00",
@@ -705,6 +705,46 @@
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        },
+        {
+          "name": "MC LyC4N",
+          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
+        }
+      ],
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
+    },
+    {
+      "added_at": "2025-01-24 16:35:17",
+      "album": {
+        "name": "Lya Funk",
+        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "TRVNSPORTER",
+          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
+        }
+      ],
+      "duration_ms": 129597,
+      "name": "Lya Funk",
+      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
+    },
+    {
       "added_at": "2022-04-13 07:53:17",
       "album": {
         "name": "RAVE",
@@ -739,6 +779,26 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
+    },
+    {
+      "added_at": "2025-02-14 15:00:38",
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
       "added_at": "2023-07-28 11:47:20",
@@ -791,26 +851,6 @@
       "duration_ms": 114951,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
-    },
-    {
-      "added_at": "2024-12-13 05:45:00",
-      "album": {
-        "name": "MAZKO",
-        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
-      },
-      "artists": [
-        {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
-        },
-        {
-          "name": "MC LyC4N",
-          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
-        }
-      ],
-      "duration_ms": 75692,
-      "name": "MAZKO",
-      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "added_at": "2024-12-13 05:45:00",
@@ -883,26 +923,6 @@
       "duration_ms": 199450,
       "name": "AVANGARD - Slowed",
       "url": "https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu"
-    },
-    {
-      "added_at": "2025-01-24 16:35:17",
-      "album": {
-        "name": "Lya Funk",
-        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "TRVNSPORTER",
-          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
-        }
-      ],
-      "duration_ms": 129597,
-      "name": "Lya Funk",
-      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -989,22 +1009,6 @@
       "url": "https://open.spotify.com/track/02WKo37gebkkQKor2TCuTk"
     },
     {
-      "added_at": "2023-02-10 16:54:18",
-      "album": {
-        "name": "RAPTURE",
-        "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 164577,
-      "name": "RAPTURE",
-      "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
-    },
-    {
       "added_at": "2024-09-06 15:23:15",
       "album": {
         "name": "BRUXO FANTASMA",
@@ -1065,6 +1069,22 @@
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
     },
     {
+      "added_at": "2023-02-10 16:54:18",
+      "album": {
+        "name": "RAPTURE",
+        "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 164577,
+      "name": "RAPTURE",
+      "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
+    },
+    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "FRESH",
@@ -1111,26 +1131,6 @@
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2024-09-06 15:23:15",
-      "album": {
-        "name": "A-What",
-        "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
-      },
-      "artists": [
-        {
-          "name": "RELYCT",
-          "url": "https://open.spotify.com/artist/1yvmxpLuFjOlHiplr01Hon"
-        },
-        {
-          "name": "ARKEA",
-          "url": "https://open.spotify.com/artist/598ZvY8cFQtXgFPBSUm28x"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "A-What",
-      "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
     },
     {
       "added_at": "2024-09-13 17:54:45",
@@ -1293,50 +1293,6 @@
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Vai Me Bota (Slowed)",
-        "url": "https://open.spotify.com/album/6A15Y0KhRvvAMP7mMreIOx"
-      },
-      "artists": [
-        {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        },
-        {
-          "name": "Mc Lysa",
-          "url": "https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7"
-        }
-      ],
-      "duration_ms": 161897,
-      "name": "Vai Me Bota - Ultra Slowed",
-      "url": "https://open.spotify.com/track/2s0aovtEhEzEMeje4Tm1Bh"
-    },
-    {
-      "added_at": "2024-11-22 15:19:47",
-      "album": {
-        "name": "JOGO DE TOLOS",
-        "url": "https://open.spotify.com/album/3ra1kh1AmwAFm1jg9dwONE"
-      },
-      "artists": [
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "luc wall",
-          "url": "https://open.spotify.com/artist/1viY0nAiEbhiEVJTu2eKDi"
-        },
-        {
-          "name": "Lurk",
-          "url": "https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN"
-        }
-      ],
-      "duration_ms": 70400,
-      "name": "JOGO DE TOLOS",
-      "url": "https://open.spotify.com/track/5Vuq8CP31cpEEq5zNJCjUN"
-    },
-    {
       "added_at": "2024-09-20 15:04:16",
       "album": {
         "name": "X-TALI",
@@ -1453,6 +1409,26 @@
       "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "A-What",
+        "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
+      },
+      "artists": [
+        {
+          "name": "RELYCT",
+          "url": "https://open.spotify.com/artist/1yvmxpLuFjOlHiplr01Hon"
+        },
+        {
+          "name": "ARKEA",
+          "url": "https://open.spotify.com/artist/598ZvY8cFQtXgFPBSUm28x"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "A-What",
+      "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
+    },
+    {
       "added_at": "2025-01-07 20:52:35",
       "album": {
         "name": "BLOODY!",
@@ -1495,6 +1471,26 @@
       "duration_ms": 88714,
       "name": "Montagem sombra estelar 1.0",
       "url": "https://open.spotify.com/track/7BRQ9eXqLLkYL8WdIYNRQq"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Vai Me Bota (Slowed)",
+        "url": "https://open.spotify.com/album/6A15Y0KhRvvAMP7mMreIOx"
+      },
+      "artists": [
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        },
+        {
+          "name": "Mc Lysa",
+          "url": "https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7"
+        }
+      ],
+      "duration_ms": 161897,
+      "name": "Vai Me Bota - Ultra Slowed",
+      "url": "https://open.spotify.com/track/2s0aovtEhEzEMeje4Tm1Bh"
     },
     {
       "added_at": "2024-09-06 15:23:15",
@@ -1677,30 +1673,6 @@
       "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
     },
     {
-      "added_at": "2024-11-15 15:00:00",
-      "album": {
-        "name": "MONTAGEM BOTA HIPNOSIS 1.0",
-        "url": "https://open.spotify.com/album/6q0JueIHwfwOyjSe4stHwX"
-      },
-      "artists": [
-        {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
-        },
-        {
-          "name": "Launch13",
-          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
-        },
-        {
-          "name": "Rodricci",
-          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
-        }
-      ],
-      "duration_ms": 88653,
-      "name": "MONTAGEM BOTA HIPNOSIS 1.0",
-      "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
-    },
-    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "BLOODY BRAZIL (Slowed)",
@@ -1783,6 +1755,26 @@
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
+    },
+    {
+      "added_at": "2025-02-14 15:00:38",
+      "album": {
+        "name": "ECOS DO ABISMO",
+        "url": "https://open.spotify.com/album/3pgc55s9tArxCTxSv5GQgO"
+      },
+      "artists": [
+        {
+          "name": "Flame Runner",
+          "url": "https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4"
+        },
+        {
+          "name": "ZIMXN",
+          "url": "https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF"
+        }
+      ],
+      "duration_ms": 126942,
+      "name": "ECOS DO ABISMO - Super Slowed",
+      "url": "https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5"
     },
     {
       "added_at": "2022-06-17 04:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "your favourite playlist's favourite playlist &lt;3. shop this summer's pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Lady Gaga",
+  "description": "your favourite playlist's favourite playlist &lt;3. shop this summer's pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Sabrina Carpenter",
   "name": "New Pop Hits",
   "tracks": [
     {
@@ -984,6 +984,24 @@
       "duration_ms": 182400,
       "name": "bulletproof",
       "url": "https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {

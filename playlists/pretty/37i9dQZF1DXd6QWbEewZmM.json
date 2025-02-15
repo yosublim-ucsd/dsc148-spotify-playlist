@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 289599,
+  "num_followers": 289649,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 205420,
       "name": "\u00bfPor Que Me Enamor\u00e9?",
       "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 166246,
+      "name": "VETE A LA FREGADA",
+      "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -771,22 +787,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 166246,
-      "name": "VETE A LA FREGADA",
-      "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 184561,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Malandro Enamorado",
         "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 216980,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 184561,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2063,18 +2063,26 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/5yd2sHYLoNmwbItKGBoMjl"
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
       "artists": [
         {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         }
       ],
-      "duration_ms": 198605,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/4lYju18PBVedudk8rKKmG7"
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2111,26 +2119,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/5yd2sHYLoNmwbItKGBoMjl"
       },
       "artists": [
         {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
         }
       ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+      "duration_ms": 198605,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/4lYju18PBVedudk8rKKmG7"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "T\u00fa No Vuelves",
-        "url": "https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 203723,
-      "name": "T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Tomando",
         "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 199536,
       "name": "Tomando",
       "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "T\u00fa No Vuelves",
+        "url": "https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 203723,
+      "name": "T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2287,22 +2287,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Corridos 100% Callejeros (Vol. 1)",
-        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 168904,
-      "name": "Beso De Peda",
-      "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
+      "duration_ms": 234000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2323,6 +2319,26 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "Corridos 100% Callejeros (Vol. 1)",
+        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Beso De Peda",
+      "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Mi Gran Error",
         "url": "https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 248708,
       "name": "Mi Gran Error",
       "url": "https://open.spotify.com/track/2JFiSScWPx53pMUYHLdO6j"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2025-02-04 03:46:56",

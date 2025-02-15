@@ -6603,6 +6603,24 @@
     },
     {
       "album": {
+        "name": "OIL MONEY - EP",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
+    },
+    {
+      "album": {
         "name": "Songs From Tulip Drive",
         "url": "https://open.spotify.com/album/6MPHnKTSyVGgclUBl20W7W"
       },

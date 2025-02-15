@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-203 songs - 15 hr 35 min
+205 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,8 @@
 | [When Our Ship Come Sailing In](https://open.spotify.com/track/70dCW0W6BUdHSBGF6YJJkN) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [George](https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA) | [Standards & Gems](https://open.spotify.com/album/4WHbD5O3QqEdJDHKAn8KUh) | 2:59 | 2025-01-09 |  |
 | [Why Do I Love You \- Live At The Royal Rooster, New York, September 4, 1948 / Remastered](https://open.spotify.com/track/5NZ0z31vwGvlYw2Xad67US) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Birth Of The Cool](https://open.spotify.com/album/2mth0Fzczu9JHVzoaAEucl) | 3:41 | 2024-07-24 |  |
 | [Will You Remember Me?](https://open.spotify.com/track/08XnODSnsFbMmXZ5NDGddx) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Matthew Broderick](https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:55 | 2024-07-24 |  |
+| [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 | 2025-02-14 |  |
+| [WISH \- Korean Ver.](https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2025-02-14 |  |
 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 | 2024-07-24 |  |
 | [You'll Still Be There](https://open.spotify.com/track/4lORHJ7SKOAcNjkmpMjED6) | [David Daniels](https://open.spotify.com/artist/6uELdghdD8aUe94aDyyMCK), [Marti Stevens](https://open.spotify.com/artist/0HTYgqS3ggoUKgNXlIYWE4) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 3:14 | 2024-07-24 |  |
 | [You're Mighty Lucky](https://open.spotify.com/track/5LgRsiI2qihuEJvemlWEmT) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:35 | 2024-07-24 |  |

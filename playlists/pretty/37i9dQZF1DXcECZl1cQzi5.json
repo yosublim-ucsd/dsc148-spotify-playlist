@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 46891,
+  "num_followers": 46968,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Majestic (Ocean)",
-        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
-      },
-      "artists": [
-        {
-          "name": "Moonlight River",
-          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Majestic (Ocean)",
-      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Waves of Serenity",
         "url": "https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 141000,
       "name": "Waves of Serenity",
       "url": "https://open.spotify.com/track/04wDZI7XuCjGicazG046t9"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Majestic (Ocean)",
+        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
+      },
+      "artists": [
+        {
+          "name": "Moonlight River",
+          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Majestic (Ocean)",
+      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
-      },
-      "artists": [
-        {
-          "name": "Time Sphere",
-          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
-        }
-      ],
-      "duration_ms": 216804,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Devotions",
         "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 176666,
       "name": "Devotions",
       "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
+      },
+      "artists": [
+        {
+          "name": "Time Sphere",
+          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
+        }
+      ],
+      "duration_ms": 216804,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Skye Nights",
-        "url": "https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 214444,
-      "name": "Skye Nights",
-      "url": "https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Calming Seas",
         "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 161750,
       "name": "Deep Cove",
       "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Skye Nights",
+        "url": "https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 214444,
+      "name": "Skye Nights",
+      "url": "https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "A Little Blue",
-        "url": "https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "A Little Blue",
-      "url": "https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "By the Ocean",
         "url": "https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Endless 432 Hz",
-        "url": "https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM"
-      },
-      "artists": [
-        {
-          "name": "Eoforwine",
-          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
-        }
-      ],
-      "duration_ms": 199595,
-      "name": "Endless 432 Hz",
-      "url": "https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Cove Girl",
         "url": "https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh"
       },
@@ -1023,34 +991,18 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Oceanic Peace",
-        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
+        "name": "Endless 432 Hz",
+        "url": "https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM"
       },
       "artists": [
         {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Oceanic Peace",
-      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
-        "name": "528 Hz Ocean Rest",
-        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
-      },
-      "artists": [
-        {
-          "name": "Particles And Waves",
-          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "528 Hz Ocean Rest",
-      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
+      "duration_ms": 199595,
+      "name": "Endless 432 Hz",
+      "url": "https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1071,18 +1023,50 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Coastal Route",
-        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
+        "name": "A Little Blue",
+        "url": "https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1"
       },
       "artists": [
         {
-          "name": "Voices Of The Ocean",
-          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
         }
       ],
-      "duration_ms": 195913,
-      "name": "Coastal Route",
-      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+      "duration_ms": 157802,
+      "name": "A Little Blue",
+      "url": "https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "528 Hz Ocean Rest",
+        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
+      },
+      "artists": [
+        {
+          "name": "Particles And Waves",
+          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "528 Hz Ocean Rest",
+      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Ocean Air",
+        "url": "https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y"
+      },
+      "artists": [
+        {
+          "name": "Omiophyllus",
+          "url": "https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Ocean Air",
+      "url": "https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Ocean Air",
-        "url": "https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y"
+        "name": "Coastal Route",
+        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
       },
       "artists": [
         {
-          "name": "Omiophyllus",
-          "url": "https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx"
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
         }
       ],
-      "duration_ms": 155813,
-      "name": "Ocean Air",
-      "url": "https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS"
+      "duration_ms": 195913,
+      "name": "Coastal Route",
+      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Crescent Moon",
-        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Crescent Moon",
-      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Ocean Healing",
         "url": "https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 212000,
       "name": "Ocean Healing",
       "url": "https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Oceanic Peace",
+        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Oceanic Peace",
+      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
         "name": "Distant Cave",
         "url": "https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Calming Signals",
-        "url": "https://open.spotify.com/album/0fNGHECPs58cLKljkQBRoK"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 169064,
-      "name": "Calming Signals",
-      "url": "https://open.spotify.com/track/7uE5mRDNA8QwChZPlvx6b2"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Ocean Mindfulness",
         "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
       },
@@ -1383,6 +1367,38 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
+        "name": "Calming Signals",
+        "url": "https://open.spotify.com/album/0fNGHECPs58cLKljkQBRoK"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "duration_ms": 169064,
+      "name": "Calming Signals",
+      "url": "https://open.spotify.com/track/7uE5mRDNA8QwChZPlvx6b2"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Night Waves",
+        "url": "https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV"
+      },
+      "artists": [
+        {
+          "name": "Dreamscaper",
+          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Night Waves",
+      "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
         "name": "Calming Waves",
         "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Night Waves",
-        "url": "https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV"
+        "name": "Marina Paradise",
+        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
       },
       "artists": [
         {
-          "name": "Dreamscaper",
-          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Night Waves",
-      "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
+      "duration_ms": 144000,
+      "name": "Marina Paradise",
+      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1443,22 +1459,6 @@
       "duration_ms": 172211,
       "name": "Morning Waves",
       "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
-        "name": "Marina Paradise",
-        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
-      },
-      "artists": [
-        {
-          "name": "Claddagh Glas",
-          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Marina Paradise",
-      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Coral Charm",
-        "url": "https://open.spotify.com/album/08AJExHa1viMJrtBVWvZOs"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Coral Charm",
-      "url": "https://open.spotify.com/track/6ar5W5FvBDOHZ3kHNykFjT"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
-        "name": "A Lake Almost Still",
-        "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
-      },
-      "artists": [
-        {
-          "name": "Adored Swan",
-          "url": "https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp"
-        }
-      ],
-      "duration_ms": 137020,
-      "name": "A Lake Almost Still",
-      "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m"
       },
@@ -1607,6 +1575,22 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
+        "name": "Coral Charm",
+        "url": "https://open.spotify.com/album/08AJExHa1viMJrtBVWvZOs"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Coral Charm",
+      "url": "https://open.spotify.com/track/6ar5W5FvBDOHZ3kHNykFjT"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
         "name": "Tr\u00e4umend (Sound Bath)",
         "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 137810,
       "name": "Tr\u00e4umend (Sound Bath)",
       "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "A Lake Almost Still",
+        "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
+      },
+      "artists": [
+        {
+          "name": "Adored Swan",
+          "url": "https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp"
+        }
+      ],
+      "duration_ms": 137020,
+      "name": "A Lake Almost Still",
+      "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
     },
     {
       "added_at": "2025-01-15 11:00:01",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-01-15 11:00:01",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ"
-      },
-      "artists": [
-        {
-          "name": "A.Z. Louna",
-          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
-        }
-      ],
-      "duration_ms": 132541,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV"
-    },
-    {
-      "added_at": "2025-01-15 11:00:01",
-      "album": {
         "name": "Zen (Sound Bath)",
         "url": "https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 203346,
       "name": "Zen (Sound Bath)",
       "url": "https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo"
+    },
+    {
+      "added_at": "2025-01-15 11:00:01",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ"
+      },
+      "artists": [
+        {
+          "name": "A.Z. Louna",
+          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
+        }
+      ],
+      "duration_ms": 132541,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV"
     },
     {
       "added_at": "2025-01-15 11:00:01",

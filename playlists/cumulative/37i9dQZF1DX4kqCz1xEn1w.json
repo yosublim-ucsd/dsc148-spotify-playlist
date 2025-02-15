@@ -2829,17 +2829,17 @@
     },
     {
       "album": {
-        "name": "Prayers of the Saints (Live)",
+        "name": "Prayers of the Saints",
         "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
           "name": "Integrity's Hosanna! Music",
           "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
       "date_added": "2021-04-04",

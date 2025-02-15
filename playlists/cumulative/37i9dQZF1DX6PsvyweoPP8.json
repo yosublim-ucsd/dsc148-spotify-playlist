@@ -1323,6 +1323,32 @@
     },
     {
       "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/17D72j66NF8UPuSFIJFM1t"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/5WVfjvA1UNqoD2cy004TEn"
+    },
+    {
+      "album": {
         "name": "Cheia de charme",
         "url": "https://open.spotify.com/album/4qwXqQ0Z9eeNObgkO9fN0N"
       },
@@ -1438,6 +1464,32 @@
       "duration_ms": 172941,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0"
+    },
+    {
+      "album": {
+        "name": "Chuva de Champanhe",
+        "url": "https://open.spotify.com/album/0rpuZW8vTF7mIjxmZ09jDz"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127719,
+      "name": "Chuva de Champanhe",
+      "url": "https://open.spotify.com/track/2i82bZgIpXHJRq91ZlO1u7"
     },
     {
       "album": {
@@ -1802,7 +1854,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 200000,
       "name": "C\u00ea T\u00e1 Bem",
       "url": "https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv"
@@ -2286,6 +2338,40 @@
       "duration_ms": 164871,
       "name": "ESTRESSE",
       "url": "https://open.spotify.com/track/4wWPkfssVcfBxJ7e2rGg6B"
+    },
+    {
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/3Vl2AX1hrDccEnDvxPwuZy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306981,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/3WgDd6LMNNPUMFfC942531"
     },
     {
       "album": {
@@ -4012,7 +4098,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 200547,
       "name": "Modo Avi\u00e3o",
       "url": "https://open.spotify.com/track/3SsWKfFrXaJrjjeAQOx3fh"
@@ -4186,7 +4272,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 199384,
       "name": "Na Onda",
       "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
@@ -4208,7 +4294,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 212250,
       "name": "Na Sua Rota",
       "url": "https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y"
@@ -5202,6 +5288,28 @@
       "duration_ms": 264827,
       "name": "Quem Te Faz",
       "url": "https://open.spotify.com/track/5tg3wMBNJ52KeTwbUOYGIY"
+    },
+    {
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/2e5eqvR4bgZoPEuJzS2w02"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148692,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM"
     },
     {
       "album": {

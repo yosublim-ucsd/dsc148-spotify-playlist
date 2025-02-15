@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Abbraccio",
+        "url": "https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi"
+      },
+      "artists": [
+        {
+          "name": "Al\u00f3n Celestia",
+          "url": "https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Abbraccio",
+      "url": "https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek"
+    },
+    {
+      "album": {
         "name": "Aberaeron",
         "url": "https://open.spotify.com/album/0421N3byRD3RgcdaOvRgtj"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154506,
       "name": "awakening",
       "url": "https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162500,
       "name": "Flucht",
       "url": "https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167829,
       "name": "Lucid Dreaming",
       "url": "https://open.spotify.com/track/3yRA9zyuzQQxQ7nWNqTpAQ"
@@ -3213,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Mirach Dreams",
+        "url": "https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm"
+      },
+      "artists": [
+        {
+          "name": "Endless Space",
+          "url": "https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190972,
+      "name": "Mirach Dreams",
+      "url": "https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP"
+    },
+    {
+      "album": {
         "name": "Miraculous",
         "url": "https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1"
       },
@@ -3260,7 +3296,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171964,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/3OYqmJugZrAI14hfjnZsRN"
@@ -4110,7 +4146,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 195000,
       "name": "Placidus",
       "url": "https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu"
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 188000,
       "name": "Returning",
       "url": "https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB"
@@ -4452,7 +4488,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170689,
       "name": "Room For Thoughs",
       "url": "https://open.spotify.com/track/6b9mpDYINPE5wKQuRKuza1"
@@ -4906,6 +4942,24 @@
       "duration_ms": 178000,
       "name": "Snowdonia",
       "url": "https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer"
+    },
+    {
+      "album": {
+        "name": "Soft Embrace",
+        "url": "https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Alphane",
+          "url": "https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169052,
+      "name": "Soft Embrace",
+      "url": "https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx"
     },
     {
       "album": {
@@ -5802,7 +5856,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 175124,
       "name": "When I am with thee",
       "url": "https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy"

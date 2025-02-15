@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Katjie Vanie Baan EP",
+        "url": "https://open.spotify.com/album/5oFAxSS5YTgVZaclV1g1Jy"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/2tRk2XjIAU98mOQCoGhe2R"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Bang4X",
+      "url": "https://open.spotify.com/track/6KId0kbKQzm8qov8fyrGUD"
+    },
+    {
+      "album": {
         "name": "Benni McCarthy",
         "url": "https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY"
       },
@@ -588,7 +610,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 202175,
       "name": "COLOURED",
       "url": "https://open.spotify.com/track/6oRpIy7mSmAGpDGwEKligC"
@@ -1712,7 +1734,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 309003,
       "name": "Is Dope",
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 198620,
       "name": "Lavis",
       "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
@@ -2259,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "My Jaar",
+        "url": "https://open.spotify.com/album/1XSdw1pFavqC76IQXNovUH"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107676,
+      "name": "My Jaar",
+      "url": "https://open.spotify.com/track/6NMEUIy8OcuHZwMGkk4NPd"
+    },
+    {
+      "album": {
         "name": "My Main Bra Tops",
         "url": "https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT"
       },
@@ -2474,10 +2514,32 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172052,
       "name": "Nomme$",
       "url": "https://open.spotify.com/track/5nygJwihfPEmWEnTkcNnfV"
+    },
+    {
+      "album": {
+        "name": "Nooit Genoeg",
+        "url": "https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF"
+      },
+      "artists": [
+        {
+          "name": "Matt Levai",
+          "url": "https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B"
+        },
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "Nooit Genoeg",
+      "url": "https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS"
     },
     {
       "album": {
@@ -2540,6 +2602,24 @@
       "duration_ms": 196595,
       "name": "OGlizzy",
       "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
+    },
+    {
+      "album": {
+        "name": "OH NO!",
+        "url": "https://open.spotify.com/album/2APvCGmM9RReFTPGrrzwcx"
+      },
+      "artists": [
+        {
+          "name": "Karma 6east",
+          "url": "https://open.spotify.com/artist/12w3eaUjsNFrP0dHVOnSJT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138631,
+      "name": "OH NO!",
+      "url": "https://open.spotify.com/track/4tAZM4vBZGO8rKS1BH4hfA"
     },
     {
       "album": {

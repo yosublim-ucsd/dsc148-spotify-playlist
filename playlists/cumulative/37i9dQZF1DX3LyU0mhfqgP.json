@@ -16215,6 +16215,24 @@
     },
     {
       "album": {
+        "name": "Ng\u00e0y N\u00e0y, Ng\u01b0\u1eddi Con G\u00e1i N\u00e0y",
+        "url": "https://open.spotify.com/album/7J1wfogVQNgDoiZFaOJIij"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255105,
+      "name": "Ng\u00e0y N\u00e0y, Ng\u01b0\u1eddi Con G\u00e1i N\u00e0y",
+      "url": "https://open.spotify.com/track/4ElFTH8hqX7XkzRbCtktfi"
+    },
+    {
+      "album": {
         "name": "Nice Guy",
         "url": "https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp"
       },
@@ -23158,7 +23176,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 302741,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/2JBHUMR8tuB0SB6Y6YAiuJ"

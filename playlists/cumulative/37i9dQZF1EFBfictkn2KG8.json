@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
+    },
+    {
+      "album": {
         "name": "Narcotic",
         "url": "https://open.spotify.com/album/5J3cTpJJ1EgXK8ZCEylSZO"
       },

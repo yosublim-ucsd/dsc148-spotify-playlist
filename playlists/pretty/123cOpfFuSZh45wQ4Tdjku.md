@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 883 likes - 284 songs - 14 hr 28 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 883 likes - 286 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,5 +292,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 282 | [Good Old Green Days](https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
 | 283 | [Good Old Green Days \(Slappy Hours Mix\)](https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
 | 284 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 |
+| 285 | [HYPNOFREAK](https://open.spotify.com/track/6m4rhXyE6DUhva3MazrxCP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HYPNOFREAK](https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4) | 3:53 |
+| 286 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 |
 
-Snapshot ID: `AAABU3CKUdNd6qSHR5W7IgBGEOx6SpRT`
+Snapshot ID: `AAABVebQzwz7+DR+hOlIuWeGJ4wKh3Iu`

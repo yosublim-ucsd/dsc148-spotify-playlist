@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-264 songs - 15 hr 26 min
+265 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Electricity](https://open.spotify.com/track/1416kZiwSgVmlAAj7mVfoa) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Somewhere There's A Light On](https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok) | 2:24 | 2022-01-01 | 2022-04-16 |
 | [Even If It Breaks Your Heart](https://open.spotify.com/track/37tuqFINoyPMpxbOZNOk17) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night](https://open.spotify.com/album/0iwZYxBjSdx9Ve18IMkyAd) | 3:44 | 2022-04-15 |  |
 | [Everybody Else](https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Everybody Else](https://open.spotify.com/album/43SnDuO3vSQWIJLUUZoPkM) | 2:57 | 2022-01-01 | 2024-08-31 |
+| [Everything \(feat\. Gretchen Wilson\)](https://open.spotify.com/track/1ImMonS23xMrNL3Nd6IZs7) | [Ira Dean](https://open.spotify.com/artist/4ZLBTxpNdbhaxMlbs3809C), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Everything \(feat\. Gretchen Wilson\)](https://open.spotify.com/album/1Udre2wbg1dlxT4plxn2Tg) | 3:46 | 2025-02-14 |  |
 | [Fall in Love](https://open.spotify.com/track/6t9MB1nfbCJnJCXKlfqFVv) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [You Are This Town](https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J) | 2:49 | 2022-01-01 |  |
 | [Family Ground](https://open.spotify.com/track/6d3Ue0kwKNcjNQadYK2hGj) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Family Ground](https://open.spotify.com/album/2mWYApb9pT1LspgZakolFg) | 2:53 | 2023-08-18 |  |
 | [Fast Lanes and Country Roads](https://open.spotify.com/track/3oIbaceA2vZveLlF0ReWvd) | [Steve Dean](https://open.spotify.com/artist/5vQuQgWgfh9mvFJDgzWN8c) | [Fast Lanes and Country Roads](https://open.spotify.com/album/25S4B5dPtoWBvZ5HdRryCy) | 4:04 | 2022-01-01 |  |

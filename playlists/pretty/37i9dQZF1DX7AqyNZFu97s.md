@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Asha Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,772 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,805 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 17 | [The Shape of a New Sun](https://open.spotify.com/track/47uq8Ojwp3WFZYx0UNnThi) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [The Shape of a New Sun](https://open.spotify.com/album/3DwOeYWqHLEMCEi67531Od) | 7:29 |
 | 18 | [Slow](https://open.spotify.com/track/6CgzmdlO32qOMIOHgAEBIG) | [1k3](https://open.spotify.com/artist/071ivryUPBugVDzNQQCxyU) | [Slow](https://open.spotify.com/album/3IrxSe2Ljl1nXVqGMivqIz) | 1:49 |
 | 19 | [Life Time To Go](https://open.spotify.com/track/4pSfgQHKYijKsYwTA3CipD) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o) | [Life Time To Go](https://open.spotify.com/album/7qviWFRi2O4hZskrYPIrBo) | 3:50 |
-| 20 | [Nightfall](https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Nightfall](https://open.spotify.com/album/5tMrltjmtfTVhuWn4vx3FG) | 3:38 |
+| 20 | [Nightfall](https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Nightfall EP](https://open.spotify.com/album/5tMrltjmtfTVhuWn4vx3FG) | 3:38 |
 | 21 | [Valentine's Day 1981](https://open.spotify.com/track/0WRdqg9bqcxVh5769V5bK8) | [Niall McCabe](https://open.spotify.com/artist/0rTLBFOKCk6yirTHkvuA6g) | [Valentine's Day 1981](https://open.spotify.com/album/7oKFdvgdDKB4XlfAx8JU3f) | 3:34 |
 | 22 | [Limehouse](https://open.spotify.com/track/3o9Oez2hQyanbHUvbV7Yoa) | [POLO JAFFA](https://open.spotify.com/artist/17elXZK1RlBOcrDJ8HjEhJ) | [Limehouse](https://open.spotify.com/album/5XpvYmlwR3iu1yyzFSMugh) | 3:21 |
 | 23 | [Lips](https://open.spotify.com/track/7DXsEXa2BjONNB6yKhz2Zb) | [Bodhi](https://open.spotify.com/artist/1C545778m57qWQwISWGAHD) | [Lips](https://open.spotify.com/album/4yZq54Y3CK7zA694a107S4) | 4:46 |

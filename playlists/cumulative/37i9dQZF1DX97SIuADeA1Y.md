@@ -4,7 +4,7 @@
 
 > slap house on repeat.
 
-283 songs - 12 hr 15 min
+284 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Coming Home](https://open.spotify.com/track/7JSXDanOpcFoeCtolRUtT6) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Dammak](https://open.spotify.com/artist/4XdPUDuuXYWpE56nmKLUac) | [Coming Home](https://open.spotify.com/album/4fOJVLmUNqkQKD7Wkuxv1p) | 2:31 | 2022-01-17 | 2022-02-11 |
 | [Connections](https://open.spotify.com/track/1PYNtr2ZLCInK7wsXbLFmZ) | [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Siadou](https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd) | [Connections](https://open.spotify.com/album/1sfVvWFY6yHlVi1Xpm1beo) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Cradles](https://open.spotify.com/track/5vvzQCWYPzFX0qKoDLGcGx) | [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Edwince](https://open.spotify.com/artist/48rkpyQm9d7rM4tDC8r2Ff), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Cradles](https://open.spotify.com/album/5aTrScucI9Tkj6K5Yz3sdk) | 2:33 | 2022-03-25 | 2022-04-19 |
+| [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 | 2025-02-14 |  |
 | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 | 2023-03-11 | 2024-11-24 |
 | [Cutting The Cords](https://open.spotify.com/track/2B1zNUo0DEkwHWMTjkfqmY) | [YUNA](https://open.spotify.com/artist/7unfyHphLkqeFODqHAgvr2), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL) | [Cutting The Cords](https://open.spotify.com/album/0U1eJWjeEDGzTYcgAJh5EB) | 2:12 | 2022-04-01 | 2022-04-21 |
 | [Dance Again](https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC) | 2:32 | 2023-09-08 | 2024-04-19 |
@@ -93,7 +94,7 @@
 | [Feel That Way](https://open.spotify.com/track/3TJ7LDaw0PTgd4n6ESvNGu) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Feel That Way](https://open.spotify.com/album/2f3lBubcewLD2qLxovxcXW) | 2:41 | 2022-01-17 | 2022-04-14 |
 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 | 2022-01-17 |  |
 | [Fell Too Deep](https://open.spotify.com/track/0Q9aHB5EJflRS4orlaUxuH) | [Bad Boyfriend](https://open.spotify.com/artist/6i2nBCTVvTRt4YprAm8lkq), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Fell Too Deep](https://open.spotify.com/album/1aMwui6tsovyQcA1nYQja1) | 2:03 | 2022-06-03 | 2022-06-30 |
-| [Find U \(Ready Or Not\)](https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ) | [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Find U \(Ready Or Not\)](https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK) | 2:17 | 2022-01-17 |  |
+| [Find U \(Ready Or Not\)](https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ) | [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Find U \(Ready Or Not\)](https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK) | 2:17 | 2022-01-17 | 2025-02-15 |
 | [Fire To Smoke](https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Fire To Smoke](https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW) | 2:43 | 2022-01-17 | 2025-01-29 |
 | [Flowers](https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL) | [Flowers](https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2) | 2:44 | 2023-04-07 | 2024-04-19 |
 | [Focus](https://open.spotify.com/track/7tQCZRJOVU3nJwAyuxG2g5) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Muffin](https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2) | [Focus](https://open.spotify.com/album/22qVtVIg348QSitY08zKnX) | 3:13 | 2023-08-18 | 2023-09-02 |

@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Everything (feat. Gretchen Wilson)",
+        "url": "https://open.spotify.com/album/1Udre2wbg1dlxT4plxn2Tg"
+      },
+      "artists": [
+        {
+          "name": "Ira Dean",
+          "url": "https://open.spotify.com/artist/4ZLBTxpNdbhaxMlbs3809C"
+        },
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Everything (feat. Gretchen Wilson)",
+      "url": "https://open.spotify.com/track/1ImMonS23xMrNL3Nd6IZs7"
+    },
+    {
+      "album": {
         "name": "You Are This Town",
         "url": "https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J"
       },

@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 170706,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
@@ -336,6 +336,24 @@
       "duration_ms": 201452,
       "name": "Amarelo, azul e branco",
       "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
+    },
+    {
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207530,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
     },
     {
       "album": {
@@ -598,7 +616,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183050,
       "name": "Bem Melhor",
       "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
@@ -638,7 +656,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 235080,
       "name": "Brasil pandeiro",
       "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
@@ -1104,6 +1122,24 @@
       "duration_ms": 123750,
       "name": "dona da minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
+    },
+    {
+      "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "album": {
@@ -1380,7 +1416,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 253732,
       "name": "Gabriela - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6c4TZcp1po2GH7ZJz3Jkf3"
@@ -1580,7 +1616,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 314240,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 187573,
       "name": "Logo agora",
       "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
@@ -1736,7 +1772,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
@@ -2154,6 +2190,24 @@
       "duration_ms": 261642,
       "name": "N\u00e3o \u00c9 um Bolero",
       "url": "https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ"
+    },
+    {
+      "album": {
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "album": {
@@ -2314,7 +2368,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 210889,
       "name": "Ouvi Dizer",
       "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
@@ -2350,7 +2404,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 242054,
       "name": "Palavras No Corpo",
       "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
@@ -2624,7 +2678,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 198377,
       "name": "Promete",
       "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
@@ -3532,7 +3586,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
@@ -3669,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Ax\u00e9 Bab\u00e1",
+        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Le\u00e3o",
+          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Vumbora Amar",
+      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
+    },
+    {
+      "album": {
         "name": "Compact Jazz: Antonio Carlos Jobim",
         "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
       },
@@ -3724,7 +3796,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"

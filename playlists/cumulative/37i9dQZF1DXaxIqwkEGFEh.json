@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: OMB Peezy",
+  "description": "Strictly for the streets. Cover: Nardo Wick",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Army Base",
+        "url": "https://open.spotify.com/album/1sBBHp3bJ6Z7XhFi1kk5K3"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144910,
+      "name": "Army Base",
+      "url": "https://open.spotify.com/track/0C8u8UsWezOG5iQbC5KuvI"
+    },
+    {
+      "album": {
         "name": "Bulletproof Soul",
         "url": "https://open.spotify.com/album/1fudRwKo3F3p7Qito2CaMA"
       },
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 147529,
       "name": "BBLLCDI",
       "url": "https://open.spotify.com/track/6etNPa8krT7Imudk5s9LuM"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154101,
       "name": "Belt",
       "url": "https://open.spotify.com/track/5B83QvvwuC3WWwN5qBbkPv"
@@ -4048,6 +4066,24 @@
       "duration_ms": 236878,
       "name": "Blick Talk (with PGF Nuk)",
       "url": "https://open.spotify.com/track/6zoaB04jczoxsgImwPBiXp"
+    },
+    {
+      "album": {
+        "name": "Blind Side",
+        "url": "https://open.spotify.com/album/7IlZ7dIDkv641uRjWlGXhf"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141995,
+      "name": "Blind Side",
+      "url": "https://open.spotify.com/track/3XDS6KA7YISsHHr4GaNWSn"
     },
     {
       "album": {
@@ -5142,7 +5178,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 212850,
       "name": "CAN WE LIVE?",
       "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
@@ -5240,7 +5276,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 161980,
       "name": "Candlewick",
       "url": "https://open.spotify.com/track/0x5dG3UdrkRfClVWje4OfG"
@@ -5436,7 +5472,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 168037,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/355e9KgMvW8TIWWN2xSVeI"
@@ -10088,7 +10124,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 199741,
       "name": "FREE SMURK OFNG",
       "url": "https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz"
@@ -12634,6 +12670,28 @@
       "duration_ms": 175986,
       "name": "Head Tappin",
       "url": "https://open.spotify.com/track/7iXi9fRfvD18axClaNrjKc"
+    },
+    {
+      "album": {
+        "name": "Head Taps",
+        "url": "https://open.spotify.com/album/3zJpGdQIUNsZUx3I5XLpnR"
+      },
+      "artists": [
+        {
+          "name": "Lil Unky",
+          "url": "https://open.spotify.com/artist/2Qh7p29PSIvbZ7PUbpNY64"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153031,
+      "name": "Head Taps",
+      "url": "https://open.spotify.com/track/20Wrmjpfo3CWld3mOhVzhA"
     },
     {
       "album": {
@@ -15272,7 +15330,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 128772,
       "name": "Joey Story",
       "url": "https://open.spotify.com/track/6Au6dtIhyyFjygDzka2qHV"
@@ -16150,7 +16208,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 186659,
       "name": "L'S & P'S (feat. Real Boston Richey)",
       "url": "https://open.spotify.com/track/16hLyddaNiGbtfgA85k4nH"
@@ -21790,6 +21848,24 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/1NJlYSES0QpFALRxCK4jRW"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138580,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/3aHbwJmyqgJlOJv1pS09R8"
     },
     {
       "album": {
@@ -29862,7 +29938,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182015,
       "name": "Talk (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6A00ULEfNqDLuEuKE6Mrxm"
@@ -30182,6 +30258,24 @@
       "duration_ms": 177637,
       "name": "Tha Kitchen",
       "url": "https://open.spotify.com/track/4lPOPlq3BF6I62qt54WheJ"
+    },
+    {
+      "album": {
+        "name": "That's Not Gangsta",
+        "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "That's Not Gangsta",
+      "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
     },
     {
       "album": {

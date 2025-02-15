@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-424 songs - 21 hr 37 min
+425 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Just One Way To Say\) I Love You](https://open.spotify.com/track/3Gl0RERyWDH6Y9O0LXwlle) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 10](https://open.spotify.com/album/2lyBf4gsQR1Do7XOJvhLBb) | 2:30 | 2024-07-26 |  |
 | [\(Running Around In Circles\) Getting Nowhere](https://open.spotify.com/track/64WfdISCBia99jibVcXyYg) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Blue Skies](https://open.spotify.com/album/1eP8vLIPbvSKy08tT5jTHy) | 2:41 | 2024-07-26 |  |
+| [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 | 2025-02-14 |  |
 | [A Beautiful Day In Brooklyn](https://open.spotify.com/track/4CtLrBGAme9CdbEZj8jCLl) | [Crista Moore](https://open.spotify.com/artist/5WVC8pV900zV5zfyrNNvjG) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:02 | 2024-07-26 |  |
 | [A Blue Serge Suit](https://open.spotify.com/track/06MLGdvGo8ghwmoDPoqZHX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Let's Swing](https://open.spotify.com/album/6pVybUBvdMo8lLYgVnVJFV) | 2:37 | 2024-07-26 |  |
 | [A Couple of Song and Dance Men](https://open.spotify.com/track/0AMtVNgdwgfbbXtFCGXKTV) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete London Sessions](https://open.spotify.com/album/4XUw4vYdv0WK92ukrR2KaV) | 2:57 | 2024-07-26 |  |

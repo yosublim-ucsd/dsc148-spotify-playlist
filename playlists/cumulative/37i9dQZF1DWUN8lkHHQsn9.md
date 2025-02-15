@@ -2,7 +2,7 @@
 
 ### [GLOW Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5AJmpeCmtxFKcNY6bjotWd">Rejsel</a>
+> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4nZ1fSGL8lu414cuxphyhT">Stysio</a>
 
 305 songs - 17 hr 1 min
 
@@ -98,7 +98,7 @@
 | [HERBATA](https://open.spotify.com/track/3QWj1jMClM2pr1zdsIJtqF) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [HERBATA](https://open.spotify.com/album/7aA766Depq4CAHxRnOeaLn) | 2:10 | 2024-06-17 | 2024-07-09 |
 | [Hikikomori](https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Hikikomori](https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO) | 2:47 | 2024-09-09 |  |
 | [Hot and Heavy](https://open.spotify.com/track/4vyoGRV89S2iYtgbKG4RSw) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Hot and Heavy](https://open.spotify.com/album/5bot6sVmTvitGKuYJfNX53) | 2:35 | 2024-04-08 | 2025-02-11 |
-| [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 | 2024-02-12 |  |
+| [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 | 2024-02-12 | 2025-02-15 |
 | [HOTEL PLAZA](https://open.spotify.com/track/3ANmOXEnDDgaW6L6URD7O3) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT) | [HOTEL PLAZA](https://open.spotify.com/album/3PwvN9fNcJPXW87LQt7W7v) | 3:22 | 2024-06-10 | 2024-08-13 |
 | [HOTEL PLAZA](https://open.spotify.com/track/0sRWyRBQyyBpmM4CLNiwsh) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:22 | 2024-12-04 | 2025-01-14 |
 | [Hydra](https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Hydra](https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv) | 4:48 | 2023-09-11 | 2024-03-12 |
@@ -274,7 +274,7 @@
 | [To nie tak miało pójść](https://open.spotify.com/track/2Oc9oU96I7xsL5xsyB5aJw) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:21 | 2024-12-04 | 2025-01-14 |
 | [TUŻ PRZED PÓŁNOCĄ](https://open.spotify.com/track/3QsWorTM8pMtw6ti7Mb35s) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd), [KRÓL](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 3:54 | 2021-06-22 | 2022-06-01 |
 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 | 2022-06-24 | 2024-07-09 |
-| [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-10 | 2025-02-14 |
+| [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-10 |  |
 | [usa](https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [usa](https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp) | 2:09 | 2024-06-10 |  |
 | [VHS Cassette](https://open.spotify.com/track/5YGyXtmEy5IGFgPts5BEtE) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl) | [VHS Cassette](https://open.spotify.com/album/6yKHf83RrCDa2NgyPcFZiG) | 3:28 | 2021-06-22 | 2022-06-01 |
 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 | 2022-06-01 | 2024-03-12 |

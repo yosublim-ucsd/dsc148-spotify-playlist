@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-324 songs - 1 day 5 hr 40 min
+325 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [After All](https://open.spotify.com/track/2r3dQilQpgjPbRomN7GAvD) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH), [Gulli Gudmundsson](https://open.spotify.com/artist/23MQJmhn0On07tkIuc9jDA) | [After All](https://open.spotify.com/album/3FMzxDxBTIi2HsmaTNKhV0) | 5:22 | 2020-10-09 | 2022-02-18 |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2022-06-30 | 2024-04-19 |
 | [After You've Gone](https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [After You've Gone](https://open.spotify.com/album/2dhSC7isUhzg4n9b1X6fnS) | 7:04 | 2020-10-09 | 2024-06-29 |
+| [All of the Sun](https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx) | [Ola Åkerman](https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [All of the Sun](https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU) | 5:01 | 2025-02-14 |  |
 | [All The Way](https://open.spotify.com/track/0cZuS1VcwpKi5BxP4ESDaj) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/4w0NdFbgjJMZBDZIeD1gQy) | 5:35 | 2020-10-09 | 2024-07-13 |
 | [All The Way](https://open.spotify.com/track/5DPXRMFC8Do29CLfSKv7BO) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Summer night jazz](https://open.spotify.com/album/0m0BH1FJ1AOCxatCJk4UZO) | 5:35 | 2022-11-10 | 2022-11-13 |
 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 | 2022-06-30 | 2024-04-19 |

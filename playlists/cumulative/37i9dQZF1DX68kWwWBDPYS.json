@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "ALAS",
+        "url": "https://open.spotify.com/album/3lRiQa8LxXccJ8XZaIOEkY"
+      },
+      "artists": [
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "ALAS",
+      "url": "https://open.spotify.com/track/5ib0nb6cbwc9TpeEkFCTpV"
+    },
+    {
+      "album": {
         "name": "Alegre",
         "url": "https://open.spotify.com/album/1xeMGarE3yEvlzbyXysFJo"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 225573,
       "name": "Atravesar",
       "url": "https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC"
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 168758,
       "name": "CHOCOMIL",
       "url": "https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 210000,
       "name": "El Diablo Se Solt\u00f3",
       "url": "https://open.spotify.com/track/7i2Ep7ZPewDY552jYA13c5"
@@ -1988,6 +2006,24 @@
       "duration_ms": 211034,
       "name": "fatal",
       "url": "https://open.spotify.com/track/4UE8NKlNA2KVbm5R85RQrb"
+    },
+    {
+      "album": {
+        "name": "FLOR marchita",
+        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209473,
+      "name": "FLOR marchita",
+      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
     },
     {
       "album": {
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183750,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/2WDnoDzsGEmoPi7Hyv7QGU"
@@ -2402,7 +2438,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208213,
       "name": "La Humedad",
       "url": "https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb"
@@ -2508,6 +2544,32 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "album": {
+        "name": "Lagrimas derramadas",
+        "url": "https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "HAT",
+          "url": "https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI"
+        },
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200512,
+      "name": "Lagrimas derramadas",
+      "url": "https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr"
     },
     {
       "album": {
@@ -2790,7 +2852,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 273609,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3hbkGcYrz1nlFfPAq0w72i"
@@ -2808,7 +2870,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 184864,
       "name": "Marea",
       "url": "https://open.spotify.com/track/13B3yJz9sYzRLhW2acD4wQ"
@@ -3182,6 +3244,24 @@
       "duration_ms": 165333,
       "name": "Ni\u00f1o Rega\u00f1ado",
       "url": "https://open.spotify.com/track/3NXuOQFjWRQNOxTPz6DeA7"
+    },
+    {
+      "album": {
+        "name": "No es el final",
+        "url": "https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197599,
+      "name": "No es el final",
+      "url": "https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq"
     },
     {
       "album": {
@@ -4273,6 +4353,28 @@
     },
     {
       "album": {
+        "name": "Te encontr\u00e9",
+        "url": "https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Sajiva",
+          "url": "https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160035,
+      "name": "Te encontr\u00e9",
+      "url": "https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4"
+    },
+    {
+      "album": {
         "name": "te escrib\u00ed un CD",
         "url": "https://open.spotify.com/album/5zSUvMtrFTLKqWb55z3SIF"
       },
@@ -4350,6 +4452,24 @@
       "duration_ms": 144116,
       "name": "Te quiero ver",
       "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
+    },
+    {
+      "album": {
+        "name": "te quise tanto",
+        "url": "https://open.spotify.com/album/3ftka4OsjRxJBOC5mS8xh1"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134682,
+      "name": "te quise tanto",
+      "url": "https://open.spotify.com/track/1lumTcx1dzFNIiKXmIsRSw"
     },
     {
       "album": {
@@ -4776,6 +4896,24 @@
       "duration_ms": 224000,
       "name": "vives en mi cabeza",
       "url": "https://open.spotify.com/track/4hcjkvNqmihEbPVlji1PfE"
+    },
+    {
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/21GPdW74i2fZeabL5LES2t"
+      },
+      "artists": [
+        {
+          "name": "Otro For\u00e1neo",
+          "url": "https://open.spotify.com/artist/1mwD8LLdYFDrTDfA12sVBv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232807,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/73DTWMMx9A3ZoMFZKXlGzI"
     },
     {
       "album": {

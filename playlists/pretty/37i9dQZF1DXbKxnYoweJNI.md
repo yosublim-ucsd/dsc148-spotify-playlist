@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: HUSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,394 likes - 121 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,396 likes - 121 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 25 | [Valentine](https://open.spotify.com/track/3fiKQLSo3R0mCqxWuGOD15) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC), [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Valentine](https://open.spotify.com/album/3LhShtVTz3Asj74JnzIqsE) | 2:25 |
 | 26 | [長島冰茶](https://open.spotify.com/track/6cJqNcITSb0HxWXKvQdZQF) | [吐司貓 Tosuto Neko](https://open.spotify.com/artist/4ueWbxowZhDNbEPxxPP0yJ) | [長島冰茶](https://open.spotify.com/album/1VYpCIsPKSpRAG5gTrEx2z) | 4:56 |
 | 27 | [好想告訴你](https://open.spotify.com/track/2Ct4b8YFfzue5mzKiUsL9H) | [王立](https://open.spotify.com/artist/0t7A9sGuGjAFUbC2eAT1Bm), [小古巴斯](https://open.spotify.com/artist/6piqLG0XItMsFf7zX5xxzj) | [好想告訴你](https://open.spotify.com/album/3qQlWZaqCS0zTukjVDH0tV) | 3:34 |
-| 28 | [白色大象](https://open.spotify.com/track/5lb4wRCATkRZN4gPkOTGJm) | [LH](https://open.spotify.com/artist/7cUAKY3fveo6FfA40cT8y5) | [白色大象](https://open.spotify.com/album/6JQZc1FXZpDdnsOckQH3yI) | 3:37 |
+| 28 | [白色大象](https://open.spotify.com/track/5lb4wRCATkRZN4gPkOTGJm) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [白色大象](https://open.spotify.com/album/6JQZc1FXZpDdnsOckQH3yI) | 3:37 |
 | 29 | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
 | 30 | [東非裂谷愛情](https://open.spotify.com/track/6pEzPf53ljCmymd7bgmVLC) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [東非裂谷愛情](https://open.spotify.com/album/026FflCmOBZogV6OK5HbcP) | 3:38 |
 | 31 | [永远不会再去的那一个地方](https://open.spotify.com/track/6ljjGzjawAqVpT7eGA06bB) | [照片送到店里那天](https://open.spotify.com/artist/3raktoH5luAkdPYrc64VTi) | [如果要把小狗送到太空里](https://open.spotify.com/album/5CQjkENqrUIkIz9n5EjEU8) | 4:57 |
 | 32 | [二月](https://open.spotify.com/track/6EZqk0qQTxcdGlkEsBhxso) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [二月](https://open.spotify.com/album/0ha0cPchB3f1OYPSxSzh0t) | 3:33 |
 | 33 | [給20年後的妳](https://open.spotify.com/track/5HFJZVtJgDCxcNVqmaC2hX) | [YABE](https://open.spotify.com/artist/2cgY2IUcXDMAW2ahHpbO8M) | [給20年後的妳](https://open.spotify.com/album/2G0LDWLiuCkPZ1wK90fMoM) | 4:07 |
 | 34 | [Rise Up The Brave \(2024 WTRP 創紀錄奬主題曲\)](https://open.spotify.com/track/3v7Zc3x3a8syQyfGY06Wfs) | [BAYA 小林航](https://open.spotify.com/artist/3dGFpvCz9475wfH587Myyb) | [Rise Up The Brave \(2024 WTRP 創紀錄奬主題曲\)](https://open.spotify.com/album/6xh9DPW2DDi7w8q0jcsNbt) | 2:44 |
-| 35 | [遇見你](https://open.spotify.com/track/2zE1kwXrHnpg2Qnui6kpXN) | [俐蓁](https://open.spotify.com/artist/2yvLgpHq3EBGU8x7fDpQGY) | [遇見你](https://open.spotify.com/album/1rZ5YqTVpRNTsHXFFufHic) | 3:52 |
-| 36 | [Pink Cube](https://open.spotify.com/track/7q9n44E67xLsHlfRTDqpZD) | [PINKCUBE](https://open.spotify.com/artist/1PWxGtYxVuh2YSeswAA3Ad) | [Pink Cube](https://open.spotify.com/album/7ahBFAR0Le6WSX7aHNXSck) | 3:12 |
+| 35 | [Say Oh!](https://open.spotify.com/track/7g1giDjX4vlRoJgsUHi4W2) | [Shane 兆群](https://open.spotify.com/artist/0XoRmtNKgRPNIyreA9CXB3) | [Say Oh!](https://open.spotify.com/album/3oYLSRCoTOtwyAo3j1THyn) | 3:25 |
+| 36 | [遇見你](https://open.spotify.com/track/2zE1kwXrHnpg2Qnui6kpXN) | [俐蓁](https://open.spotify.com/artist/2yvLgpHq3EBGU8x7fDpQGY) | [遇見你](https://open.spotify.com/album/1rZ5YqTVpRNTsHXFFufHic) | 3:52 |
 | 37 | [全世界都跟我作對](https://open.spotify.com/track/1gWGEzkIzk0RElZxGQprPC) | [GOTA](https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH) | [全世界都跟我作對](https://open.spotify.com/album/2z6SPX4Y2e2HL5rfktOGdI) | 3:45 |
 | 38 | [第二星系](https://open.spotify.com/track/6bRgx2NQviRyK7ltDaNoo1) | [EVENFALL](https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF) | [第二星系](https://open.spotify.com/album/5qyeAkTGLclOx6BW507gnG) | 4:39 |
 | 39 | [Pastiche](https://open.spotify.com/track/5H5gM7XyAKGWFocGPelzs3) | [Tangsugar](https://open.spotify.com/artist/2dGyrs1m6sCvEZYhyIcWMt) | [Pastiche](https://open.spotify.com/album/4GrRHxjjcNmvjNp2D2U011) | 3:22 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 82 | [一步之差](https://open.spotify.com/track/5u90CLkCBsiUkcLwcwkwtz) | [曲曲CHUCHU](https://open.spotify.com/artist/27hQBDHt29JiCGZQ03aAYH) | [一步之差](https://open.spotify.com/album/4qTOBcgctwxWxuvfNEYFXQ) | 4:03 |
 | 83 | [//MHM//](https://open.spotify.com/track/1Vfo1kS0yO5B0fk9s3oArr) | [GiNN 諸葛靖](https://open.spotify.com/artist/13NB4M0pXsSDewqK6MLm6Z) | [//MHM//](https://open.spotify.com/album/1SRcYazmsZsq3iBNotUwB2) | 2:25 |
 | 84 | [辣芒果LA MONGO](https://open.spotify.com/track/1vxFE0GuD7DSXJpLFP5hqq) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [辣芒果LA MONGO](https://open.spotify.com/album/6NBOkyqzd9ouirC8iK7ktQ) | 3:51 |
-| 85 | [我的女孩](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 |
+| 85 | [我的女孩My Girl](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 |
 | 86 | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/track/64qnAIAkkKjLfJcxaopwzv) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/album/0JkH98SX1EUFyhk8J9bElw) | 4:23 |
 | 87 | [別來煩我](https://open.spotify.com/track/6ZXuNR3EbUj3tQcyNOjj3S) | [文年 Wayne Nian](https://open.spotify.com/artist/7Cv0ZkqsFuzt56i3udK2Up) | [別來煩我](https://open.spotify.com/album/0yazJjJFmu8Nvwu8eBtO0e) | 2:49 |
 | 88 | [愛的菜市場](https://open.spotify.com/track/75V4tdx9wBJWXAvgADroED) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [愛的菜市場](https://open.spotify.com/album/3pvU1pLuTuOcpwm2ooVNip) | 2:59 |

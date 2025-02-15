@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Sidhu Moose Wala",
+  "description": "India's Rap Scene. Cover- Seedhe Maut",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1037,6 +1037,32 @@
     },
     {
       "album": {
+        "name": "Caramel Tax",
+        "url": "https://open.spotify.com/album/1B7wcegSf5ntIQOCUdTjdQ"
+      },
+      "artists": [
+        {
+          "name": "Dizlaw",
+          "url": "https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU"
+        },
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE"
+        },
+        {
+          "name": "Bhaktaaa",
+          "url": "https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Caramel Tax",
+      "url": "https://open.spotify.com/track/18j2VhI9lmclZKxZe0aKw6"
+    },
+    {
+      "album": {
         "name": "Kaal Ke Pukaar",
         "url": "https://open.spotify.com/album/4pJxpGRyvuHmoIlXAYXWgc"
       },
@@ -1754,7 +1780,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 292439,
       "name": "F*CK WHAT THEY SAY",
       "url": "https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i"
@@ -1974,7 +2000,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 231044,
       "name": "GOAT SHIT",
       "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
@@ -2362,7 +2388,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 173333,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4"
@@ -2850,7 +2876,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 226933,
       "name": "King Shit",
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
@@ -3073,6 +3099,32 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Lalkara",
+      "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
+    },
+    {
+      "album": {
         "name": "Jai Veeru",
         "url": "https://open.spotify.com/album/2JJqakAGViUmTgkxNhQ4Xg"
       },
@@ -3096,6 +3148,28 @@
       "duration_ms": 162666,
       "name": "Lathi Charge",
       "url": "https://open.spotify.com/track/3pg4JTUwSHpKOZLHXfOwNc"
+    },
+    {
+      "album": {
+        "name": "MTV Hustle 4 - Episode 7",
+        "url": "https://open.spotify.com/album/7BRx7hBDJ3zBMqXdKlNl9i"
+      },
+      "artists": [
+        {
+          "name": "pho",
+          "url": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Laundey Crazy",
+      "url": "https://open.spotify.com/track/3zOj6OSMMrHjgZcKUCG5Aw"
     },
     {
       "album": {
@@ -4230,7 +4304,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 303937,
       "name": "RED",
       "url": "https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ"

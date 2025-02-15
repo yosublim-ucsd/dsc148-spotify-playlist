@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205045,
+      "name": "Boucherie",
+      "url": "https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF"
+    },
+    {
+      "album": {
         "name": "Bourgeoisie",
         "url": "https://open.spotify.com/album/7gVMzPkmhEdF7l7Ew5HuGA"
       },
@@ -1080,6 +1102,24 @@
       "duration_ms": 194066,
       "name": "Millionnaire",
       "url": "https://open.spotify.com/track/6jPAYcdVGyQkTixE8zQJhF"
+    },
+    {
+      "album": {
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Mitterrand",
+      "url": "https://open.spotify.com/track/3cK8iQ4iSDaUE2wlZ2N7lF"
     },
     {
       "album": {

@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182500,
       "name": "Again",
       "url": "https://open.spotify.com/track/6SIvvPRlPqidyGaCwQZuVE"
@@ -726,6 +726,24 @@
       "duration_ms": 257729,
       "name": "Bed of Roses - Piano Version",
       "url": "https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2CJPmEHO5WizRLynmx3pN9"
+      },
+      "artists": [
+        {
+          "name": "Kim Jonas",
+          "url": "https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0N9xzUyUM5qsnPLzQctbkY"
     },
     {
       "album": {
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192000,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/7JrM4Nlm2km9lkER9qv6Uc"
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181122,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/6OLLQaDugvYbVgdMFySyXM"
@@ -5684,7 +5702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 163750,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3DkCOtDoxR2HnwEO7quaqJ"
@@ -6624,7 +6642,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 254029,
       "name": "This I Promise You - Piano Version",
       "url": "https://open.spotify.com/track/1S6ml085sYS4rrHgTrsR90"
@@ -6664,6 +6682,24 @@
       "duration_ms": 192820,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD"
+    },
+    {
+      "album": {
+        "name": "Tiny Dancer",
+        "url": "https://open.spotify.com/album/0x1kRSsUT2O14cz9hvR66N"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191294,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/3KGkRYOsnZ8eQSRITbcVpq"
     },
     {
       "album": {
@@ -7280,6 +7316,24 @@
       "duration_ms": 193624,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/59fiCzXNly8qmfrLdxbP4Z"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tomas",
+          "url": "https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6n5T4ydeemQpFqud9WzMjz"
     },
     {
       "album": {

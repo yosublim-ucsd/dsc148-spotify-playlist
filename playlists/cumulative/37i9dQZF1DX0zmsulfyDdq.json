@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Disney Orgel/Oyasumi BGM Vol.3",
+        "url": "https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281814,
+      "name": "Beyond - Orgel Version",
+      "url": "https://open.spotify.com/track/76B3A4ykxzZPzeX2DBTMe5"
+    },
+    {
+      "album": {
         "name": "Disney Sleepytime Lullabies",
         "url": "https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6"
       },
@@ -3472,6 +3490,24 @@
       "duration_ms": 182815,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/21GMtDlD4pvi7JN2hRM5Qv"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM Vol.3",
+        "url": "https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203025,
+      "name": "The Life of Riley - Orgel Version",
+      "url": "https://open.spotify.com/track/6QJaxDk1IT15zDsylB7v0l"
     },
     {
       "album": {

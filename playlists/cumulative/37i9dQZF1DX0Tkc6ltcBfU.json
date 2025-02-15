@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Army Base",
+        "url": "https://open.spotify.com/album/1sBBHp3bJ6Z7XhFi1kk5K3"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144910,
+      "name": "Army Base",
+      "url": "https://open.spotify.com/track/0C8u8UsWezOG5iQbC5KuvI"
+    },
+    {
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc"
       },
@@ -5450,7 +5468,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 212850,
       "name": "CAN WE LIVE?",
       "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 139636,
       "name": "Check Fox 5",
       "url": "https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f"
@@ -6489,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "Cluck",
+        "url": "https://open.spotify.com/album/6hK23heFXpSKgvZUDfReZS"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Cluck",
+      "url": "https://open.spotify.com/track/51AyMNu1R1qUz9NOTtakux"
+    },
+    {
+      "album": {
         "name": "Cobra",
         "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
       },
@@ -6518,7 +6554,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 120000,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/7L0alUdbfRUBUXpBXlg41j"
@@ -7218,6 +7254,24 @@
       "duration_ms": 122855,
       "name": "Crazy Bout Me",
       "url": "https://open.spotify.com/track/5ZWOnARwK6B46d2xJQOveR"
+    },
+    {
+      "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
     },
     {
       "album": {
@@ -8832,7 +8886,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 92133,
       "name": "Dope Boy (with Nigo)",
       "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
@@ -15629,6 +15683,28 @@
     },
     {
       "album": {
+        "name": "IMA HOE TOO (with Yung Miami)",
+        "url": "https://open.spotify.com/album/1LvbxTx2RpXXnHJli3BETD"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "IMA HOE TOO (with Yung Miami)",
+      "url": "https://open.spotify.com/track/7D2HPKFcJFQOhzGH5N2ARW"
+    },
+    {
+      "album": {
         "name": "CM10: Free Game",
         "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
       },
@@ -16342,7 +16418,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 107788,
       "name": "JT Coming",
       "url": "https://open.spotify.com/track/3Ur9zMHlzsCTnuEW9vXNyT"
@@ -22120,7 +22196,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 135063,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
@@ -22940,7 +23016,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 188325,
       "name": "On God",
       "url": "https://open.spotify.com/track/7g05iI6vyU8KCUWZGlKbZL"
@@ -23138,6 +23214,24 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/1NJlYSES0QpFALRxCK4jRW"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138580,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/3aHbwJmyqgJlOJv1pS09R8"
     },
     {
       "album": {
@@ -24811,6 +24905,24 @@
     },
     {
       "album": {
+        "name": "Pose For The Pic",
+        "url": "https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164581,
+      "name": "Pose For The Pic",
+      "url": "https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3"
+    },
+    {
+      "album": {
         "name": "Potato Loaded (feat. Destroy Lonely)",
         "url": "https://open.spotify.com/album/0bHndITXf6STlJZ2rrk8UK"
       },
@@ -24936,6 +25048,24 @@
       "duration_ms": 158367,
       "name": "Precision",
       "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
+    },
+    {
+      "album": {
+        "name": "Preference",
+        "url": "https://open.spotify.com/album/2Ogtd0f4802h80TFCfgUiN"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136408,
+      "name": "Preference",
+      "url": "https://open.spotify.com/track/1P1hInsizxuzxcD1KcIAeE"
     },
     {
       "album": {
@@ -27266,7 +27396,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167327,
       "name": "Say That Shit (feat. K Carbon)",
       "url": "https://open.spotify.com/track/5bLNH3NzMXP5lVy9qmZZK8"
@@ -30913,6 +31043,28 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mIIFzUl9g5Rwwe2cf54Wk"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166886,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/4HXIQ1loaljGOVrkEbSEpG"
+    },
+    {
+      "album": {
         "name": "Talkin In Screw (feat. That Mexican OT)",
         "url": "https://open.spotify.com/album/5PSkPNfuuLjweXMuDt72KA"
       },
@@ -31193,6 +31345,24 @@
     },
     {
       "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128218,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6"
+    },
+    {
+      "album": {
         "name": "Tender",
         "url": "https://open.spotify.com/album/3bXVgfyStmCrDXtBUvLuxh"
       },
@@ -31324,6 +31494,24 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. No Cap)",
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+    },
+    {
+      "album": {
+        "name": "That's Not Gangsta",
+        "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "That's Not Gangsta",
+      "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
     },
     {
       "album": {
@@ -34166,7 +34354,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 147719,
       "name": "Watch It Fall",
       "url": "https://open.spotify.com/track/5bOpde1BZem7eZB1xJwdPe"
@@ -34956,7 +35144,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180000,
       "name": "Why You Mad",
       "url": "https://open.spotify.com/track/6ejwPhBEZ96L4Ddc3OBYgb"

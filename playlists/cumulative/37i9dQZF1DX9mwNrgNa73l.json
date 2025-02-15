@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "Karde Karam Maula",
+        "url": "https://open.spotify.com/album/3clbWouITYey6EPsDPKykP"
+      },
+      "artists": [
+        {
+          "name": "Mansoor",
+          "url": "https://open.spotify.com/artist/1RivtwALO35yPcOSzMPtOG"
+        },
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378529,
+      "name": "Karde Karam Maula",
+      "url": "https://open.spotify.com/track/5Athu3P1hU22e3GgX4oKFx"
+    },
+    {
+      "album": {
         "name": "Chain of Light",
         "url": "https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77"
       },

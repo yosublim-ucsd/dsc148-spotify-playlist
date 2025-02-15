@@ -1,13 +1,293 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Waxahatchee",
-  "num_followers": 836842,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Lumineers",
+  "num_followers": 837574,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6ZUDgAAAAC141DcXun1SJVaru0pZV3Z",
+  "snapshot_id": "Z67N5wAAAAA+YS+coYeXoBNWiO80zQQM",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Guericke's Unicorn",
+        "url": "https://open.spotify.com/album/248iXt2D1OnUyn5rbRNyGV"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 264205,
+      "name": "Guericke's Unicorn",
+      "url": "https://open.spotify.com/track/30P4n3zltqpxxCbeSijIcc"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/3NJjMR2Od7TFUVUOjobv0m"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Death Song",
+      "url": "https://open.spotify.com/track/3z9Nzf7egfIOCTP75iY4Xi"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Foxes in the Snow",
+        "url": "https://open.spotify.com/album/68ZJ05Jh9Gw1nCcioGScpr"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Foxes in the Snow",
+      "url": "https://open.spotify.com/track/1FcszdiVwu3WcMAQAPnCgJ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "Silver and Red",
+      "url": "https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "It's Summer, I Love You, and I'm Surrounded by Snow",
+        "url": "https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "See People",
+      "url": "https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Gloom Designs",
+        "url": "https://open.spotify.com/album/5h1lAeaNvUmMLxfmXONt4C"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Gloom Designs",
+      "url": "https://open.spotify.com/track/1TDuyUZxwaWLTzZ5kxFXVp"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Anything At All",
+        "url": "https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya"
+      },
+      "artists": [
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Shade I'll Never See",
+      "url": "https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/0QbzBYfoMIy4pk5fA8P57C"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 250888,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1rgmFj7EHxl3dFEVmll3fZ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Give It A Break",
+        "url": "https://open.spotify.com/album/7xa5AzA1oHj3eWYLdKxE9f"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 185949,
+      "name": "Give It A Break",
+      "url": "https://open.spotify.com/track/21jIYAmZYhkPq0lFZR6gMI"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Home Run (pt.2)",
+        "url": "https://open.spotify.com/album/3LJI9YVyQN2Cz6aUQ8HhjN"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        },
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 189449,
+      "name": "Home Run (pt.2)",
+      "url": "https://open.spotify.com/track/1XllnlkVI1GpZ5OWEmcwoP"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
     {
       "added_at": "2025-02-07 05:00:33",
       "album": {
@@ -2263,326 +2543,6 @@
       "duration_ms": 217920,
       "name": "Everything Has A Heartbeat",
       "url": "https://open.spotify.com/track/6kBX2CHykpOQIiYFm4dQs4"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Go to the Sun",
-        "url": "https://open.spotify.com/album/6OXhqk3yCVp79X7XjwB7Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 176621,
-      "name": "Go to the Sun",
-      "url": "https://open.spotify.com/track/69sXm8i1Pk7sKPpx5wmstO"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Taking Care of It",
-        "url": "https://open.spotify.com/album/6jKFmiGmp2k58uNI0JmqEE"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
-        }
-      ],
-      "duration_ms": 294113,
-      "name": "Taking Care of It",
-      "url": "https://open.spotify.com/track/5rXD9gqZfnyIwwbfYKNVO8"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "For Sale Sign (feat. Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "For Sale Sign (feat. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "flush",
-        "url": "https://open.spotify.com/album/6XZwTTGjAU81iQWc1yIgZp"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 268898,
-      "name": "calico",
-      "url": "https://open.spotify.com/track/6UsmfLq4GHjdNEsL1KUBhe"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Black Dress",
-        "url": "https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Don't You Give Up On Me Yet",
-      "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Certainty",
-        "url": "https://open.spotify.com/album/6QXE65FTcJ6DnuitqQXJhd"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/32pBzQg0BYuLZnAVTDcmeW"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "lead role",
-        "url": "https://open.spotify.com/album/1AyvqefFi79zaSHBjJOklA"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 184118,
-      "name": "lead role",
-      "url": "https://open.spotify.com/track/4MSDdo0ntQ99629G4FHMg4"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Peace of Mind (Morning)",
-        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Peace of Mind (Morning)",
-      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Pride Trials",
-        "url": "https://open.spotify.com/album/6UFltduAEZYKcBqplU2HMk"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Pride Trials",
-      "url": "https://open.spotify.com/track/5zuVohl16pC7vc5AgaQ4TZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "helene",
-        "url": "https://open.spotify.com/album/74aOAsFh3S4a3oH2xFvpnN"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        },
-        {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        }
-      ],
-      "duration_ms": 182108,
-      "name": "helene",
-      "url": "https://open.spotify.com/track/1FuCyCo2fSlg7rH3aWtrdE"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "postcard season",
-        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 172300,
-      "name": "sunflower \u201824",
-      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "High Seas",
-        "url": "https://open.spotify.com/album/77gXwpuOu8ssVerNMoWEdu"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        },
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "High Seas",
-      "url": "https://open.spotify.com/track/6BOwa9Dq8oVH1RIthc4lou"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "All Star Breakfast (feat. Field Medic)",
-        "url": "https://open.spotify.com/album/0PTSGLXARMVnr0YIGjxYyH"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "All Star Breakfast (feat. Field Medic)",
-      "url": "https://open.spotify.com/track/7oupu5OOCa2YUSSyPfo9Iw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/2jLnsolBk9wBwN4aRvB7eq"
-      },
-      "artists": [
-        {
-          "name": "Zach Seabaugh",
-          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
-        }
-      ],
-      "duration_ms": 165951,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/4IL3s37p3Xtm0ayZgByEkq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Offering (feat. Anna Graves)",
-        "url": "https://open.spotify.com/album/0RiEsuhncCNx02q0l0Gr51"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        },
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Offering (feat. Anna Graves)",
-      "url": "https://open.spotify.com/track/5FBRhFM1bw5z4pLnYexhGj"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/0L4li5hzdRBcrRyaa5FfGL"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 211930,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/7dj3yeU3pzcmFnGXo8cLsi"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        },
-        {
-          "name": "Bloomsday",
-          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
-        },
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "Aaron",
-      "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
     }
   ],
   "unique_name": "Fresh Folk",

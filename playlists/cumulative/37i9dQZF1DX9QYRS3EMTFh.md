@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Lu City x SKUNK x X\-Man
 
-505 songs - 22 hr 22 min
+506 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Capitaine](https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Shannon](https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE) | [Capitaine](https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju) | 2:52 | 2025-01-23 |  |
 | [Celebrate \(feat\. Black Sherif\)](https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:47 | 2023-03-30 | 2023-06-23 |
 | [Cent](https://open.spotify.com/track/3s21wkLQFkjzv9yYEqHTvV) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Cent](https://open.spotify.com/album/0Ohw3kY5Nuhlr0V3QPNiOS) | 2:57 | 2023-09-28 | 2023-12-01 |
+| [Chambre 04](https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL) | [Chambre 04](https://open.spotify.com/album/5H8p6fAmRy5j9Hn6cJAU0l) | 2:09 | 2025-02-14 |  |
 | [CHAUD PATATE](https://open.spotify.com/track/0Q2rHoed5X9tlqFEu3fwra) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ) | [CHAUD PATATE](https://open.spotify.com/album/6ECggfdkd4fqOrSKU4KeWx) | 2:47 | 2023-04-06 | 2023-06-02 |
 | [CHIC](https://open.spotify.com/track/6UGuhDkeAKbYMG1V7IPBzl) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [CHIC](https://open.spotify.com/album/6YkW1iJwZc2zm2HkEtD7ob) | 2:24 | 2024-12-05 |  |
 | [CHO CHO](https://open.spotify.com/track/5hbvvhmXmMDeoa63XaVowC) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [CHO CHO](https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN) | 2:46 | 2024-06-13 | 2024-09-13 |
@@ -324,7 +325,7 @@
 | [No Follow](https://open.spotify.com/track/6u7kaJxH3ZcSuaautLweli) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [No Follow](https://open.spotify.com/album/0iWLZTpHioac1sUdC5ySQB) | 2:51 | 2024-10-17 | 2024-11-29 |
 | [No Matta](https://open.spotify.com/track/3IuC01T7uEnCxPnGMg41Hv) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV) | [No Matta](https://open.spotify.com/album/1048jFibNEAdmvcuy3hd66) | 2:27 | 2022-09-22 | 2023-03-10 |
 | [No mix with b\*tch](https://open.spotify.com/track/7owgVdKse0lkf1CwdVbNQr) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [CODE 97, Vol\. 2](https://open.spotify.com/album/5zmLscnBgLjTwIMlIhTXrF) | 3:06 | 2024-05-30 | 2024-07-19 |
-| [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 | 2025-01-30 |  |
+| [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 | 2025-01-30 | 2025-02-15 |
 | [No Wata](https://open.spotify.com/track/6m27Jfn6T5jqSOf00d4Flf) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [DJ Kopp](https://open.spotify.com/artist/3Ql4J2G5rEhl5eXKoppY1p), [DJ DESPY](https://open.spotify.com/artist/7JzbZTPJriS46W0Zk7Wz6d) | [No Wata](https://open.spotify.com/album/4heyzzh3kAK7wrgGXdh4BK) | 3:26 | 2023-04-06 | 2023-10-13 |
 | [None a Dem](https://open.spotify.com/track/5Nm1vuwlq9VTaEOM7q3sCg) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [None a Dem](https://open.spotify.com/album/3MTfWpQL7UvGh3UPEqGncD) | 2:03 | 2024-09-12 | 2024-09-27 |
 | [NoNoNo](https://open.spotify.com/track/17owRt4iXNGOwqGTdoZXLN) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Gyzmo](https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7) | [NoNoNo](https://open.spotify.com/album/3kUyrlwcTQFIAw3ytzk3YD) | 1:39 | 2024-12-12 | 2025-01-31 |

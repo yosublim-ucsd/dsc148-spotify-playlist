@@ -4,7 +4,7 @@
 
 > I am blessed! Cover: Festizie
 
-202 songs - 14 hr 15 min
+203 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 |  |
 | [I Belong To You](https://open.spotify.com/track/0HYbFSop3uvZQgXknmUZN8) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [I Belong To You](https://open.spotify.com/album/7JE5drBI1kooLs1BB9meYN) | 5:22 | 2024-11-29 |  |
 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 | 2024-09-27 |  |
+| [I know my God](https://open.spotify.com/track/4VldWNWmHqQTSapZ971m2j) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Netta B](https://open.spotify.com/artist/0qjPS9vgD68AL043e7HgCg), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [I know my God](https://open.spotify.com/album/3Lg8nrzdxJAiHxaL5HWgoc) | 7:32 | 2025-02-14 |  |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2025-02-14 |  |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-09-30 |  |
 | [I Testify](https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 6:02 | 2025-02-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 斉藤和義 \*👉 <a href="https://spice.eplus.jp/articles/335552">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,127 likes - 68 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,130 likes - 68 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 17 | [Don't Stop the Beat](https://open.spotify.com/track/1syWFA2x8MpsOzG5jHupPa) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Don't Stop the Beat](https://open.spotify.com/album/6zbqyfVcKKb4piUQWlocx1) | 2:43 |
 | 18 | [EASY MODE](https://open.spotify.com/track/4oXtBu13C6ta0Iqm8UJlKW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [EASY MODE](https://open.spotify.com/album/24kUGWGgUOb26O1hFIiSGk) | 2:15 |
 | 19 | [スキャンダラス](https://open.spotify.com/track/0Fv5DuwFNDRqrGlj98DbQc) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [スキャンダラス](https://open.spotify.com/album/1zGlOmGfLnJuNm46VMjlAZ) | 3:31 |
-| 20 | [next to you](https://open.spotify.com/track/6WbvNRYhuoPUhirkOfFs01) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [映画「ファーストキス 1ST KISS」オリジナル・サウンドトラック](https://open.spotify.com/album/42V77gbzgpOgJtV4PCtpSj) | 3:54 |
+| 20 | [next to you](https://open.spotify.com/track/6WbvNRYhuoPUhirkOfFs01) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [映画「ファーストキス 1ST KISS」オリジナル・サウンドトラック](https://open.spotify.com/album/42V77gbzgpOgJtV4PCtpSj) | 3:54 |
 | 21 | [Letter to Myself](https://open.spotify.com/track/1hmKmlMoMctWxj8g8gja9O) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Goodbye2.0](https://open.spotify.com/album/4iXfOwdVBcRG2Qw0F4KpPi) | 3:48 |
 | 22 | [メモリーズ](https://open.spotify.com/track/4XWYuXZIe1Z6BPTtXibT7X) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [メモリーズ](https://open.spotify.com/album/7uOZrPa6oGhA7TbA0hvtDe) | 4:16 |
 | 23 | [then I luv U](https://open.spotify.com/track/45qDFztSBBgzodqrBc37TM) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [then I luv U](https://open.spotify.com/album/5kaEW9NyXvdllc0qOAW4fD) | 3:51 |

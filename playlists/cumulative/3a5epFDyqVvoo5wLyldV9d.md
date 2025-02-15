@@ -4,7 +4,7 @@
 
 > 
 
-827 songs - 2 day 17 hr 12 min
+828 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Marcelo \(Energy Mix\)](https://open.spotify.com/track/6ceFLL9ozwtLdE5wfkx5F9) | [Clarita y Los Pecho Lobo](https://open.spotify.com/artist/4KrlgL4lSZr8Bq137jg034), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Marcello Giordani](https://open.spotify.com/artist/2a6QLhIoQNwc1Q87Y6v2cU) | [Marcelo](https://open.spotify.com/album/1LcBqw606S6ecP8eqTMEHG) | 5:55 | 2024-11-05 |  |
 | [Marechià](https://open.spotify.com/track/30HGhEfFlYMEyxS1VqDpbx) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 4:24 | 2022-12-27 |  |
 | [Maria fumaça](https://open.spotify.com/track/0C4zk034TFnI2z8eorbv4K) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 2:24 | 2019-08-23 |  |
+| [Marimba](https://open.spotify.com/track/1ruyDKHk1B8L8Y1svUKoYk) | [Yargo](https://open.spotify.com/artist/2UT3XvMZfzcs290xEIniHf) | [Luke Una Presents É Soul Cultura, Vol\. 2](https://open.spotify.com/album/4d6KhvaW2fOH9Hu2Yzt7gi) | 5:27 | 2025-02-15 |  |
 | [Martröð](https://open.spotify.com/track/3KG20Yy1Kf9ZGGCxuK9vKD) | [Vilhjálmur Vilhjálmsson](https://open.spotify.com/artist/4ljaFYAgLBet2a5qtgGrsG) | [Hana\-nú \(Sérútgáfa\)](https://open.spotify.com/album/0NMc513AtMEDLaRMk7vTOB) | 4:38 | 2020-08-31 |  |
 | [Mas Que Nada](https://open.spotify.com/track/6wf7UaW8ZB6iSkIVacpxYQ) | [Tamba Trio](https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc) | [Tamba Trio Classics](https://open.spotify.com/album/5UnLf1CFhvnEAjgnIKJZ95) | 2:45 | 2020-12-18 |  |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2019-12-15 |  |

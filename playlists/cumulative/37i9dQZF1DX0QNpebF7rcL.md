@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-438 songs - 1 day 5 hr 23 min
+439 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Hittin' On Nothin'](https://open.spotify.com/track/2DrvIeRI23eYzj8CswsTE7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Hittin' On Nothin'](https://open.spotify.com/album/4djsMf1SKWMtRUgipOu5kO) | 2:52 | 2025-01-10 |  |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2020-12-14 | 2022-02-26 |
 | [Holding on with One Hand](https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:56 | 2021-09-03 | 2022-04-23 |
+| [Holes](https://open.spotify.com/track/5bocGWPWTmgtGmRyaO6Mf5) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [Holes](https://open.spotify.com/album/1ByWdJ5vknzNoOPT5RR4pt) | 3:54 | 2025-02-14 |  |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 | 2024-11-09 |
 | [Homemade Disaster](https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp) | 3:14 | 2020-12-14 | 2022-02-26 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2022-02-26 |

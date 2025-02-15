@@ -6167,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "Whales Lead to the Deep Sea",
+        "url": "https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292866,
+      "name": "Schoolyard",
+      "url": "https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa"
+    },
+    {
+      "album": {
         "name": "Secant",
         "url": "https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov"
       },

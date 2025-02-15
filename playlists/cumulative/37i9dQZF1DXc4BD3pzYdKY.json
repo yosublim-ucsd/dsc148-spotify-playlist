@@ -2595,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/0AmUjPOJUFn5YqeNTby90H"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        },
+        {
+          "name": "Big Yeet",
+          "url": "https://open.spotify.com/artist/1gOj2mSVypJfiSULPlC7Sn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165608,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/4urxRgbNQ0iAW41Gm2yK77"
+    },
+    {
+      "album": {
         "name": "Big Wave",
         "url": "https://open.spotify.com/album/6Eb7p9AG3PHmxl5N8pvnEm"
       },
@@ -4398,7 +4420,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 98015,
       "name": "CIEN DOCENAS",
       "url": "https://open.spotify.com/track/1mL3MVPYMXMXx8vB93ytTP"
@@ -5539,6 +5561,24 @@
     },
     {
       "album": {
+        "name": "Died for You",
+        "url": "https://open.spotify.com/album/6IIMQMuuFSHOnJOobnte9O"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Died for You",
+      "url": "https://open.spotify.com/track/32mcCj2SL9vXiWPgF85Ux3"
+    },
+    {
+      "album": {
         "name": "LongLiveUs",
         "url": "https://open.spotify.com/album/4Xt6YY4XSL8zMCAbsb4Y0c"
       },
@@ -6348,6 +6388,24 @@
       "duration_ms": 229764,
       "name": "EVERYTHING CHANGED",
       "url": "https://open.spotify.com/track/096lnFIbTd22SkRiOKyUDK"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/3GDTjDvX5IHRieCs3zPHBr"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121212,
+      "name": "EXPENSIVE",
+      "url": "https://open.spotify.com/track/5feO6ovmybrxfDmQxPFZAA"
     },
     {
       "album": {
@@ -7476,7 +7534,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 137822,
       "name": "Get Like This",
       "url": "https://open.spotify.com/track/5WVDgad1ev0xQPYrm9HlYp"
@@ -18370,7 +18428,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 176363,
       "name": "RIO",
       "url": "https://open.spotify.com/track/2Q1bfpjE2DwKnn6yLIYZdZ"
@@ -18530,7 +18588,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152554,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb"
@@ -24214,7 +24272,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181714,
       "name": "Worship Forreal",
       "url": "https://open.spotify.com/track/32GiKCXdkBsBLWON3pkYUw"

@@ -1,12 +1,12 @@
 {
   "description": "Ny musikk \ud83c\udfb5",
-  "num_followers": 191289,
+  "num_followers": 191381,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z655iwAAAAAU6ohUwV1zqxh84q46cMT/",
+  "snapshot_id": "Z67N/QAAAAACF51CDyfpwo36M2ErueMN",
   "tracks": [
     {
       "added_at": "2025-02-13 23:00:27",
@@ -79,6 +79,26 @@
       "duration_ms": 157182,
       "name": "Okey Okey",
       "url": "https://open.spotify.com/track/1WwjGmNI05bJGg3kD9hR8n"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
       "added_at": "2025-02-13 23:00:27",
@@ -896,16 +916,16 @@
           "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
         },
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
       "duration_ms": 132750,
-      "name": "Null Kj\u00e6rlighet",
+      "name": "Null Kj\u00e6rlighet (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/2QzYSpruQQXyO7lEf0bVhy"
     },
     {
@@ -1159,6 +1179,22 @@
     {
       "added_at": "2025-02-13 23:00:27",
       "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+    },
+    {
+      "added_at": "2025-02-13 23:00:27",
+      "album": {
         "name": "toll on me",
         "url": "https://open.spotify.com/album/1FkYdyyJsDqk9W4N73pczE"
       },
@@ -1399,8 +1435,8 @@
     {
       "added_at": "2025-02-13 23:00:27",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn"
       },
       "artists": [
         {

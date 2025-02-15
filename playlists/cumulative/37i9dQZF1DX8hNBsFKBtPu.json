@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Campingsangen",
+        "url": "https://open.spotify.com/album/16mWHI96ZgaDTuLp6L5cjw"
+      },
+      "artists": [
+        {
+          "name": "Campisterne",
+          "url": "https://open.spotify.com/artist/6MfSS7IUnmZSUbHpCMfiZU"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153221,
+      "name": "Campingsangen",
+      "url": "https://open.spotify.com/track/6ih43fu9hehE11lbYXsRNK"
+    },
+    {
+      "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
       },

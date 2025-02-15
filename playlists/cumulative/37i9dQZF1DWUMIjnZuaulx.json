@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Pastor Mike Jr.",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Mercy Chinwo",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Bless Your Name",
+        "url": "https://open.spotify.com/album/4a8KPGCTqnC9q9oVfaJymj"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460065,
+      "name": "Bless Your Name",
+      "url": "https://open.spotify.com/track/4zhAYUrK36w69fBpqw5Vwh"
+    },
+    {
+      "album": {
         "name": "Blessed (Live)",
         "url": "https://open.spotify.com/album/6NsIs7IvSThXeXvFZxu3WM"
       },
@@ -2422,7 +2440,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 448407,
-      "name": "Fall Fresh",
+      "name": "Fall Fresh - Live",
       "url": "https://open.spotify.com/track/0XwtPJI48tpmYwyRRLQlur"
     },
     {
@@ -4856,6 +4874,28 @@
       "duration_ms": 155443,
       "name": "I Found Him",
       "url": "https://open.spotify.com/track/3kovU0yBPUYSMorsfvwd4f"
+    },
+    {
+      "album": {
+        "name": "I Got Love",
+        "url": "https://open.spotify.com/album/2ZzDouSxZLDsG7vjQ5dD8X"
+      },
+      "artists": [
+        {
+          "name": "ReFRESH Worship",
+          "url": "https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505584,
+      "name": "I Got Love",
+      "url": "https://open.spotify.com/track/2AX7wGgTBg3C6yiFNcoyXz"
     },
     {
       "album": {
@@ -7344,7 +7384,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 576960,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/41fkWLD3nIyHrjDo0zg2oJ"
@@ -7490,10 +7530,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 242637,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/7w474i4RgPb3e520cNoYJo"
+    },
+    {
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "album": {
@@ -8244,6 +8302,24 @@
       "duration_ms": 336696,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
+    },
+    {
+      "album": {
+        "name": "Ojurum Anya",
+        "url": "https://open.spotify.com/album/1MZCU6bKTIsJxABRniF5kj"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273210,
+      "name": "Ojurum Anya",
+      "url": "https://open.spotify.com/track/4WFqhYi1PVV8VIRJX0v8LR"
     },
     {
       "album": {
@@ -10769,7 +10845,7 @@
     },
     {
       "album": {
-        "name": "The Promise (Live)",
+        "name": "The Promise",
         "url": "https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz"
       },
       "artists": [
@@ -12962,7 +13038,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 434748,
       "name": "You\u2019re Good (To Him Who Sits On The Throne) - Live",
       "url": "https://open.spotify.com/track/5fO4DbrkImjv2Y3PdjrzDt"

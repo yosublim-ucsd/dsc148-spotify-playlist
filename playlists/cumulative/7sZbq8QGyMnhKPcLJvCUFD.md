@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-667 songs - 1 day 9 hr 49 min
+669 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |
 | [Happier Now](https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Happier Now](https://open.spotify.com/album/4sbyMFGjrzJroFJxtOyqTV) | 3:00 | 2024-10-03 |  |
+| [harinezumi](https://open.spotify.com/track/7xm03vyufkfib4IKZeelWJ) | [waera](https://open.spotify.com/artist/0Pz9dDcv7SWwHzdqAjQr3l) | [harinezumi](https://open.spotify.com/album/4KXcFAlr8h4ysLuy9dVovi) | 1:57 | 2025-02-14 |  |
 | [Hate You](https://open.spotify.com/track/70t5RX4CuclyMt0ocbsUik) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/0sZSZcxLGBQVPfsWvVyRVO) | 3:00 | 2023-08-08 | 2024-02-03 |
 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 | 2023-08-08 | 2024-04-06 |
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 | 2023-08-10 |
@@ -388,6 +389,7 @@
 | [Morning Drift](https://open.spotify.com/track/7ysODkt3SLz9zLfo9yy2LJ) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Morning Drift](https://open.spotify.com/album/42XNg9HHKO2XlsJ503JELj) | 3:55 | 2023-12-26 | 2024-07-19 |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2023-08-08 |  |
 | [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \(Sped Up/Slowed\)](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
+| [Mortals \- TOKYO MACHINE & Boom Kitty Remix](https://open.spotify.com/track/03K9YeLWE900kmpSesDBWe) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR) | [Mortals \(TOKYO MACHINE & Boom Kitty Remix\)](https://open.spotify.com/album/2PzBtE2GgtPzBEQxuxVQ1m) | 2:48 | 2025-02-14 |  |
 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 | 2025-01-18 |  |
 | [Mortals Funk Remix \- Super Slowed](https://open.spotify.com/track/0EjJODssbRN1jVm29M0o1e) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:59 | 2025-01-18 |  |
 | [Move Your Body](https://open.spotify.com/track/1E0PKMOhTg2nWK7ifIbmen) | [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM) | [Move Your Body](https://open.spotify.com/album/55H4HshD6Jw9r5N1323b7J) | 1:55 | 2024-02-29 | 2024-09-29 |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-239 songs - 20 hr 47 min
+240 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 | 2022-09-09 | 2023-02-25 |
 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 | 2022-09-09 | 2025-02-01 |
 | [Digno É o Cordeiro \- Ao Vivo](https://open.spotify.com/track/3sCeJIZ0xpg1XoEGL2s4Eg) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Thiago Henrique](https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY) | [Digno É o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/0WxRxi8OXotE4gyNKBfTqo) | 9:32 | 2024-08-16 | 2024-10-26 |
-| [Dono da Promessa \- Ao Vivo](https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dono da Promessa \(Ao Vivo\)](https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS) | 5:57 | 2023-11-03 |  |
+| [Dono da Promessa \- Ao Vivo](https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dono da Promessa \(Ao Vivo\)](https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS) | 5:57 | 2023-11-03 | 2025-02-15 |
 | [Ele Chegou](https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Ele Chegou](https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx) | 4:24 | 2025-01-10 |  |
 | [Ele Está Comigo](https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL) | [Pedro Henrique](https://open.spotify.com/artist/12YKDiuuJtcmYTKJ8z4gx0) | [Ele Está Comigo](https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP) | 5:09 | 2023-02-25 | 2023-05-06 |
 | [Ele Não Mudou](https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Mudou](https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4) | 4:29 | 2022-09-09 |  |
@@ -79,6 +79,7 @@
 | [Estratégia](https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Estratégia](https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr) | 6:04 | 2023-02-10 | 2023-03-04 |
 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 | 2023-10-13 | 2024-04-19 |
 | [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 | 2022-09-09 | 2024-10-12 |
+| [Esvaziando a Casa](https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Esvaziando a Casa](https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd) | 4:41 | 2025-02-14 |  |
 | [Eu Cheguei](https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Eu Cheguei](https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW) | 3:56 | 2023-01-13 | 2023-02-11 |
 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 | 2022-09-09 |  |
 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 | 2025-01-31 |  |

@@ -3713,6 +3713,28 @@
     },
     {
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW"
       },
@@ -4686,6 +4708,32 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/5fH3ckeq2l9jpIMfYuxLGy"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "GLASHER",
+          "url": "https://open.spotify.com/artist/1RXHL363ZDGQRb5tHN54ea"
+        },
+        {
+          "name": "ATLVS",
+          "url": "https://open.spotify.com/artist/5L1ET03DgLi0ThFPqhecuI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/1XdoWRY8cNPncnFA6Vfufj"
     },
     {
       "album": {
@@ -8284,6 +8332,28 @@
       "duration_ms": 167076,
       "name": "Warp 1.9 (feat. Steve Aoki) - Westend & Cherry Tooth Remix",
       "url": "https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ"
+    },
+    {
+      "album": {
+        "name": "Waste Time",
+        "url": "https://open.spotify.com/album/1EgKGOmyAxHtk7ZQE0CKeD"
+      },
+      "artists": [
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "ALAN SHIRAHAMA",
+          "url": "https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Waste Time",
+      "url": "https://open.spotify.com/track/3esfV6Z7oYSaxRvGQKvKr3"
     },
     {
       "album": {

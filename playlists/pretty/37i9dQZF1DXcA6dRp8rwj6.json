@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Jack Harlow)",
-  "num_followers": 448815,
+  "num_followers": 448853,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 133885,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
+    },
+    {
+      "added_at": "2025-02-13 23:38:14",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
       "added_at": "2025-02-13 20:00:31",
@@ -239,6 +259,22 @@
     {
       "added_at": "2025-02-13 20:00:31",
       "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
+    },
+    {
+      "added_at": "2025-02-13 20:00:31",
+      "album": {
         "name": "Di Kala Malam (From \"Dajal: Satu Malam Di Pedajal\")",
         "url": "https://open.spotify.com/album/2Vxbg9uQDjmhyFVGT0Anmv"
       },
@@ -413,7 +449,7 @@
         }
       ],
       "duration_ms": 210988,
-      "name": "When You At Me (Fuck That Nigga)",
+      "name": "When You @ Me (Fuck That Nigga)",
       "url": "https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji"
     },
     {

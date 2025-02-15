@@ -32689,6 +32689,24 @@
     },
     {
       "album": {
+        "name": "Nobody I Know",
+        "url": "https://open.spotify.com/album/5mBTV2u2aTG99zJybK8O2h"
+      },
+      "artists": [
+        {
+          "name": "Drew Taylor",
+          "url": "https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183417,
+      "name": "Nobody I Know",
+      "url": "https://open.spotify.com/track/2w32o1DnLn51vVX7KNHnp1"
+    },
+    {
+      "album": {
         "name": "Nobody Told Me",
         "url": "https://open.spotify.com/album/5MZeNEwS1vXjteJQyflpLv"
       },
@@ -39914,6 +39932,24 @@
       "duration_ms": 204422,
       "name": "Slow Drawl",
       "url": "https://open.spotify.com/track/5wcNGshAee2se3RfknUaVS"
+    },
+    {
+      "album": {
+        "name": "Slow Game",
+        "url": "https://open.spotify.com/album/0oBWy0tJDLLi8WWTKfdYc8"
+      },
+      "artists": [
+        {
+          "name": "Zay Wilson",
+          "url": "https://open.spotify.com/artist/18oAmSziX1QQWo6rxEASxv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "Slow Game",
+      "url": "https://open.spotify.com/track/6fe4Edkzn24kUoaKst5j0v"
     },
     {
       "album": {

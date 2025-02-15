@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 131121,
       "name": "Bills",
       "url": "https://open.spotify.com/track/60kq7RymMAyz4FoVAxcxtu"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176006,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
@@ -3542,6 +3542,24 @@
       "duration_ms": 273291,
       "name": "My City",
       "url": "https://open.spotify.com/track/2ADuHL3sy2Bjs3S4MwyT1M"
+    },
+    {
+      "album": {
+        "name": "Naked In The Jungle",
+        "url": "https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194467,
+      "name": "Naked In The Jungle",
+      "url": "https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ"
     },
     {
       "album": {
@@ -4236,10 +4254,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 261064,
       "name": "Rippin' And Runnin'",
       "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+    },
+    {
+      "album": {
+        "name": "Risk Everythang",
+        "url": "https://open.spotify.com/album/1vjYtX0meIbFdnFdcwvouZ"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "Risk Everythang",
+      "url": "https://open.spotify.com/track/35BWdWmb60A8Ng3B8QhfkT"
     },
     {
       "album": {
@@ -4308,7 +4344,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 203250,
       "name": "Rumpshaker",
       "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-3,568 songs - 7 day 21 hr 1 min
+3,571 songs - 7 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Back](https://open.spotify.com/track/14mzbwEcHUze13WqwY52jg) | [BEKA](https://open.spotify.com/artist/4Eryf2DuHDKG9a6KT1nyaL) | [Back](https://open.spotify.com/album/0UP7lBxADP7AOY71VJkpOk) | 1:44 | 2024-07-19 | 2024-07-27 |
 | [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 | 2024-11-07 | 2024-11-15 |
 | [Back Again](https://open.spotify.com/track/5v1KjLcpxjntj3bHyYJ40g) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Back Again](https://open.spotify.com/album/4qi64z33gcZ5eo0mDNj2Qy) | 3:54 | 2024-07-19 | 2024-07-27 |
+| [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 | 2025-02-13 |  |
 | [Back From The Start](https://open.spotify.com/track/4zdQmzkSoCUyyePpmpZj2r) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Waste](https://open.spotify.com/album/16lCKqeTvwvrACbF2RMjkI) | 3:23 | 2025-02-06 | 2025-02-14 |
 | [Back In Love](https://open.spotify.com/track/2AFwQBPl6oJwHNfwBQq49B) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Voltage](https://open.spotify.com/artist/1ymsokLcRyKdlQvSnTSruU) | [Back In Love](https://open.spotify.com/album/1eX6qB7kAQ9K7VygUe5CVW) | 2:33 | 2025-01-09 | 2025-01-17 |
 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 |  |
@@ -903,6 +904,7 @@
 | [désuni](https://open.spotify.com/track/2IKcAuLnLwm3C8U3jxyZMW) | [Lomaik](https://open.spotify.com/artist/7h8knWcCUC66CDY0Tt5lhB) | [désuni](https://open.spotify.com/album/1VdMsEU43mZciCzM89mT7E) | 2:31 | 2024-12-19 | 2025-01-03 |
 | [Día de Muertos](https://open.spotify.com/track/0H5TlyjigBIZu4I6NdahAs) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Día de Muertos](https://open.spotify.com/album/2Je5AVdIfFGZ4is0QlyQGT) | 2:28 | 2024-10-10 | 2024-10-18 |
 | [Dîner de cons](https://open.spotify.com/track/4uG3RXkuAMjr06tvTXk8Av) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb) | [Dîner de cons](https://open.spotify.com/album/75PoSzgvlpVwwi4KAsGB8Q) | 2:54 | 2024-09-19 | 2024-09-27 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-27 | 2024-07-05 |
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-04 | 2024-07-12 |
 | [Easy](https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:07 | 2024-04-26 | 2024-05-03 |
@@ -2816,6 +2818,7 @@
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-10-04 |
 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Somebody Else's](https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Somebody Else's](https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy) | 3:44 | 2024-09-19 | 2024-09-27 |
+| [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-02-13 |  |
 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-12 | 2024-07-19 |
 | [Somebody Without U](https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Somebody Without U](https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR) | 3:23 | 2024-05-31 | 2024-06-07 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-23 | 2025-01-31 |

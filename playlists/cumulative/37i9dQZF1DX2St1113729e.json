@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181395,
       "name": "Casado Con el Trap",
       "url": "https://open.spotify.com/track/6fSDP66qTYZhpksJc74MS0"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160990,
       "name": "Demonios",
       "url": "https://open.spotify.com/track/6GcJp8c3G2LmEFW5VWyUkw"
@@ -2915,6 +2915,32 @@
     },
     {
       "album": {
+        "name": "ESTAR VIVO DUELE PERO NO ME MATA",
+        "url": "https://open.spotify.com/album/2BE0eznqMPkhw2FZJ3dDwn"
+      },
+      "artists": [
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "A.Dense",
+          "url": "https://open.spotify.com/artist/6oWgN0toJnODPS8PpuRm6U"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155477,
+      "name": "ESTAR VIVO DUELE PERO NO ME MATA",
+      "url": "https://open.spotify.com/track/1VVUQuSLSeyexEjIeN18aU"
+    },
+    {
+      "album": {
         "name": "estr333s",
         "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
       },
@@ -3159,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Flexin en el Punto",
+        "url": "https://open.spotify.com/album/7IMOGr9t65PJEdwVGQIjLl"
+      },
+      "artists": [
+        {
+          "name": "TK MAMI",
+          "url": "https://open.spotify.com/artist/57m30Z5V90afcpCdvXfzsO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Flexin en el Punto",
+      "url": "https://open.spotify.com/track/1r4pOtGkvIPFtIY6ew2CHH"
+    },
+    {
+      "album": {
         "name": "FLOR",
         "url": "https://open.spotify.com/album/5yk2soT6ZFBvWZlmp4aJSZ"
       },
@@ -3170,7 +3214,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
@@ -3272,6 +3316,36 @@
       "duration_ms": 157971,
       "name": "Fuera de CTRL",
       "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
+    },
+    {
+      "album": {
+        "name": "Fumo Escarcha",
+        "url": "https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Serchito trambotiko",
+          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "dn.aire",
+          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Fumo Escarcha",
+      "url": "https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX"
     },
     {
       "album": {
@@ -3994,7 +4068,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 196000,
       "name": "I Love Me More",
       "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
@@ -4052,7 +4126,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 125649,
       "name": "I`m Done",
       "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
@@ -4840,6 +4914,28 @@
       "duration_ms": 208182,
       "name": "Lo Que Dijiste",
       "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
+    },
+    {
+      "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/2HSmtXUtFD8CkkUL4jhXoH"
+      },
+      "artists": [
+        {
+          "name": "Durango",
+          "url": "https://open.spotify.com/artist/0cJIsoqSZaMNSFZkbG8erM"
+        },
+        {
+          "name": "Molina Beatz",
+          "url": "https://open.spotify.com/artist/30a8Vp8yoh7bvZZ559XhnU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133150,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/7u4l3gG7TutJxtk78xyF01"
     },
     {
       "album": {
@@ -6144,7 +6240,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 148242,
       "name": "Nightstreets",
       "url": "https://open.spotify.com/track/6ukHBJJfIuK8zA4Fzwkl3w"
@@ -7567,6 +7663,28 @@
     },
     {
       "album": {
+        "name": "/\\/\\olly \\/\\/orld",
+        "url": "https://open.spotify.com/album/3oJnYxUhBvXrzqN4ekyxge"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Yung Naik",
+          "url": "https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107067,
+      "name": "QUE /\\/\\AL",
+      "url": "https://open.spotify.com/track/1VTsKdvNcArIf35R2josmg"
+    },
+    {
+      "album": {
         "name": "Que La Detengan",
         "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
@@ -8125,6 +8243,28 @@
     },
     {
       "album": {
+        "name": "Sar\u00e0 perch\u00e9 ti amo (Remix)",
+        "url": "https://open.spotify.com/album/2wXkbn4obAkBTq9KoFYgNz"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "CyberBoy",
+          "url": "https://open.spotify.com/artist/4jNEyzplHXkVFmlhC9eyzP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sar\u00e0 perch\u00e9 ti amo - Remix",
+      "url": "https://open.spotify.com/track/2LMUj5wsPc1g9P7OGriBPX"
+    },
+    {
+      "album": {
         "name": "Saturday Night",
         "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
       },
@@ -8630,7 +8770,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 117986,
       "name": "SOY TU MAM\u00c1",
       "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
@@ -9213,6 +9353,28 @@
     },
     {
       "album": {
+        "name": "Toyota Trueno",
+        "url": "https://open.spotify.com/album/1HNBAhOiFPvKuE3ahtquyk"
+      },
+      "artists": [
+        {
+          "name": "Ratchet Racer",
+          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
+        },
+        {
+          "name": "Skinny Local",
+          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Toyota Trueno",
+      "url": "https://open.spotify.com/track/6BtwJTet6TnhAacfpGc1Qz"
+    },
+    {
+      "album": {
         "name": "TRACCI\u00d3N",
         "url": "https://open.spotify.com/album/6U1yVfyVWd4wnrRzgQrS10"
       },
@@ -9588,7 +9750,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174692,
       "name": "Un \u00c1ngel",
       "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
@@ -9646,6 +9808,28 @@
       "duration_ms": 271448,
       "name": "Una Mierda (Autoremix) - Remix",
       "url": "https://open.spotify.com/track/5Fofw7TM0oUhkofttsnGxX"
+    },
+    {
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/7zCEq7JmzDrfASAEmVs2Z1"
+      },
+      "artists": [
+        {
+          "name": "Kinara",
+          "url": "https://open.spotify.com/artist/3m3htXTs226gOEiAwiP6hd"
+        },
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147779,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5qDdRsitKx5FE9RadaLAmx"
     },
     {
       "album": {

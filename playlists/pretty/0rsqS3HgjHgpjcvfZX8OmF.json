@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Charlie Houston",
-  "num_followers": 9853,
+  "description": "The best and latest rock and alternative. Cover: Bleeker",
+  "num_followers": 9854,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAciJSw7e4GJFF6xr77hli7ZSx0oidP",
+  "snapshot_id": "AAAci+hAwj9GVetu0UV/sNNdW2eZfMQS",
   "tracks": [
+    {
+      "added_at": "2025-02-14 14:32:05",
+      "album": {
+        "name": "Hey Man",
+        "url": "https://open.spotify.com/album/7M50WU6shdcokRPvQZdcb0"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/3zHSoUJTJtlJ8eL9qAGInn"
+    },
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {

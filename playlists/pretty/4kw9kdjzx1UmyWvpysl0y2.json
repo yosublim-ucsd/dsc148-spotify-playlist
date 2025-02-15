@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125466,
+  "num_followers": 125463,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATrd2WrcU/GXqBiD7koTFUmpZsnexc",
+  "snapshot_id": "AAATrqOE/Sk2rgC2/mS2HwC5LXpa2h6S",
   "tracks": [
+    {
+      "added_at": "2025-02-14 15:56:01",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/2HfbK1ST2rbiFui9X3aJbb"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Cxssidy",
+          "url": "https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq"
+        }
+      ],
+      "duration_ms": 145856,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
+    },
     {
       "added_at": "2025-02-13 14:53:34",
       "album": {

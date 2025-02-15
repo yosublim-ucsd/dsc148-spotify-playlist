@@ -4,7 +4,7 @@
 
 > Jumping BoAs, Our Beloved BoA is back!
 
-114 songs - 7 hr 6 min
+115 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dreams come true](https://open.spotify.com/track/6U6rPiP59yH8K8fXwukjfI) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [LISTEN TO MY HEART](https://open.spotify.com/album/7MbckmjrDXeNy4k1caTgbM) | 4:54 | 2020-12-02 |  |
 | [Dry Flower](https://open.spotify.com/track/6LD2SnMI0KmrCDzy6JZShu) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:33 | 2020-12-02 |  |
 | [Emptiness](https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Emptiness](https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU) | 3:06 | 2024-03-26 |  |
+| [End Of A Day](https://open.spotify.com/track/4BC1nnvm0r6wSxEjJOxTxB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 4:50 | 2025-02-14 |  |
 | [Everlasting](https://open.spotify.com/track/5OYRcBGh06ZWUbH0PbszTH) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Everlasting](https://open.spotify.com/album/2iOslafOoV5DB13c6gaIBv) | 5:24 | 2020-12-02 |  |
 | [Every Heart\-ミンナノキモチ\-](https://open.spotify.com/track/2R0EAqFQQ60m274ZyNA2Bg) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Every Heart \-ミンナノキモチ\-](https://open.spotify.com/album/10eyCFPQlZsdaSsApJwHPQ) | 4:32 | 2020-12-02 |  |
 | [EVERYBODY KNOWS](https://open.spotify.com/track/3nts3JEnWM8CIhcsKahCvC) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:36 | 2020-12-02 |  |

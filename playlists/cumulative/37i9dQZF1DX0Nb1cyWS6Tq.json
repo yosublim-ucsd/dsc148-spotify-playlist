@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 243066,
       "name": "Muscoviet Mosquito",
       "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
@@ -4500,6 +4500,24 @@
       "duration_ms": 306826,
       "name": "Sweet Lover Hangover",
       "url": "https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r"
+    },
+    {
+      "album": {
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/1mUkCvJQawBbj8SI6zHnoc"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316906,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/49aomJCYQTWRRFo5nru2b5"
     },
     {
       "album": {

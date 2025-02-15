@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167156,
       "name": "Days before",
       "url": "https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 140000,
       "name": "Dulcet Phones",
       "url": "https://open.spotify.com/track/4plX8LeZtIsb0QGDXMdOBA"
@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/1Y36hxBFvaZmfUlCOZYiiv"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/6NTuoC7UYtJ3sZYfXYQGHs"
+    },
+    {
+      "album": {
         "name": "feeling lost",
         "url": "https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN"
       },
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 143058,
       "name": "First Love",
       "url": "https://open.spotify.com/track/4kylI6llFxQAfc6sil0xQS"
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 133949,
       "name": "FLAVOURS",
       "url": "https://open.spotify.com/track/3GCKncswL5O0MZfCuYaJWG"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 197647,
       "name": "Flood",
       "url": "https://open.spotify.com/track/1fjF7oOBkUDcQaOjKpbkya"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185872,
       "name": "For The Future",
       "url": "https://open.spotify.com/track/3aaNzCBIgHCsi6scJKpqGf"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156800,
       "name": "glowing",
       "url": "https://open.spotify.com/track/1PoSImv99rLDkBwRDfmahe"
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206142,
       "name": "Haze",
       "url": "https://open.spotify.com/track/2eEamAkO1cFzLiUVnMrlGy"
@@ -4806,7 +4824,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181166,
       "name": "in the blossoms",
       "url": "https://open.spotify.com/track/5jaTCdcEMe7JJj6aOK5dim"
@@ -5037,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "Just Phrases",
+        "url": "https://open.spotify.com/album/6qtFdRdKuESiFM8ze2nXsl"
+      },
+      "artists": [
+        {
+          "name": "SGT DUST",
+          "url": "https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123482,
+      "name": "Just Phrases",
+      "url": "https://open.spotify.com/track/6dA32gMQg3F2FhlSM21CPc"
+    },
+    {
+      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/2EQO2XKeYPum97QCk2Vhgd"
       },
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 179357,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/5OsLS7T2OOQS39csidWaY9"
@@ -5066,7 +5102,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 128250,
       "name": "kindred spirit",
       "url": "https://open.spotify.com/track/7FmR84XC188myQLMkQJiDb"
@@ -5246,7 +5282,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178294,
       "name": "Landscapes",
       "url": "https://open.spotify.com/track/2tiS22ZNe7hQXlXV9tbC2b"
@@ -5264,7 +5300,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152307,
       "name": "Laponia",
       "url": "https://open.spotify.com/track/1UWszS2YSzYNxUNv14e2x4"
@@ -5354,7 +5390,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130800,
       "name": "Lemon Child",
       "url": "https://open.spotify.com/track/3QZoeBElUE59JRRZ8o5DDG"
@@ -5448,6 +5484,24 @@
       "duration_ms": 106666,
       "name": "Lifesaver",
       "url": "https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0"
+    },
+    {
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/0VK2ZN3eIZLpzuY0R2nT3U"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/060AmlKT5Y6xOKS1X4mUK1"
     },
     {
       "album": {
@@ -5862,7 +5916,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164672,
       "name": "Making Me Smile",
       "url": "https://open.spotify.com/track/3Gy4ZxWSFoP12Z6B4Pe7G2"
@@ -5898,7 +5952,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 244337,
       "name": "Marbella Sunrise",
       "url": "https://open.spotify.com/track/18lg2EZ2s3Ix6Xaiy26Doi"
@@ -5934,7 +5988,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 186976,
       "name": "Masakali",
       "url": "https://open.spotify.com/track/5mFJuDff9EXZ5alWEQlGJX"
@@ -6572,7 +6626,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167541,
       "name": "morning glow",
       "url": "https://open.spotify.com/track/7hTwXBphptPv6oSxwX8mXA"
@@ -7484,7 +7538,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152470,
       "name": "Paradox Beat",
       "url": "https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h"
@@ -7726,6 +7780,24 @@
       "duration_ms": 150465,
       "name": "Pitch Control",
       "url": "https://open.spotify.com/track/5dejK4xs8617r5vPh2Crzx"
+    },
+    {
+      "album": {
+        "name": "Platoon",
+        "url": "https://open.spotify.com/album/5aEMLOMJiw57EORRaOwvLQ"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Platoon",
+      "url": "https://open.spotify.com/track/0JVWhjQZxnU3cdFc2FETgZ"
     },
     {
       "album": {
@@ -8575,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "Saturn and Back",
+        "url": "https://open.spotify.com/album/4jgYrmgN6bzdr0HYZVZcfl"
+      },
+      "artists": [
+        {
+          "name": "SC\u00c6NDALOUS",
+          "url": "https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Saturn and Back",
+      "url": "https://open.spotify.com/track/26y0Ai5w33Va07IZvRQfZB"
+    },
+    {
+      "album": {
         "name": "Sauna Friends",
         "url": "https://open.spotify.com/album/1ZziephRiQWbOkRMwJ7GRS"
       },
@@ -8874,7 +8964,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 153391,
       "name": "Shoreline",
       "url": "https://open.spotify.com/track/59xZchlrXYm2tfdLxmf2A0"
@@ -9472,6 +9562,24 @@
       "duration_ms": 149571,
       "name": "sound by night",
       "url": "https://open.spotify.com/track/17EyMtoMHoVj1LQyOluAEO"
+    },
+    {
+      "album": {
+        "name": "Sounds right",
+        "url": "https://open.spotify.com/album/3hG5sLzWIPaxlMWYJfvxZC"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139911,
+      "name": "Sounds right",
+      "url": "https://open.spotify.com/track/6lFGmtqXEaooUGIuyoR9Hm"
     },
     {
       "album": {
@@ -10266,7 +10374,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 159200,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/2OD0VuNOcLQ2yljgCVyncD"
@@ -11224,7 +11332,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 153600,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/7wUs6zZsbZ5Aluv8Vq2bij"
@@ -11456,7 +11564,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 166092,
       "name": "White Sands.",
       "url": "https://open.spotify.com/track/1F3IE5tmgY0SEGYSUzHbbM"

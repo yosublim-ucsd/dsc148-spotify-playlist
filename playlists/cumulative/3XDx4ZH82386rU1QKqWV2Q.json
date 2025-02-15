@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Biz",
+        "url": "https://open.spotify.com/album/5DtHQH7HINe0bChMotibhI"
+      },
+      "artists": [
+        {
+          "name": "Cut Rugs",
+          "url": "https://open.spotify.com/artist/0aLIUEiiRuXzmFy76oscvB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185151,
+      "name": "Ain't No Biz",
+      "url": "https://open.spotify.com/track/6h1lMIENKJysapkAo1LvC5"
+    },
+    {
+      "album": {
         "name": "IFeelLikeDirt",
         "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
@@ -708,6 +726,24 @@
       "duration_ms": 294880,
       "name": "Arcanum, Pt. 1",
       "url": "https://open.spotify.com/track/4Dy6O1uMJ76Xlq43lhovpq"
+    },
+    {
+      "album": {
+        "name": "Are We Dreaming?",
+        "url": "https://open.spotify.com/album/4Dc6GVEuT1niIorn5f43TG"
+      },
+      "artists": [
+        {
+          "name": "Matt Gwilt",
+          "url": "https://open.spotify.com/artist/30U55IeBkxjaIjT7tGGliY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225523,
+      "name": "Are We Dreaming?",
+      "url": "https://open.spotify.com/track/061K1UNna8E2SrcwmSUlTB"
     },
     {
       "album": {
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222720,
       "name": "Catch My Flow",
       "url": "https://open.spotify.com/track/2qA3KflIPsNl2WGJvhxrj7"
@@ -2077,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3BL02BQUFjRwwBlz3AjShv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lauter",
+          "url": "https://open.spotify.com/artist/1pRqBz2auTnOPaC6uK0wyx"
+        },
+        {
+          "name": "Neon Instruments",
+          "url": "https://open.spotify.com/artist/4hTSRuhRTxgh9FMHFxAXCI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213945,
+      "name": "Cheating",
+      "url": "https://open.spotify.com/track/6oF1JCO35Q5ItnMhmr4hQM"
+    },
+    {
+      "album": {
         "name": "Chill Drive",
         "url": "https://open.spotify.com/album/6OE5dQacAZ75xqph2gbLPx"
       },
@@ -2142,7 +2200,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 100000,
       "name": "CIRCUIT",
       "url": "https://open.spotify.com/track/7iSenR7827HMZTAt8ICgZT"
@@ -2244,6 +2302,24 @@
       "duration_ms": 125999,
       "name": "Club Memphis Mane",
       "url": "https://open.spotify.com/track/34AfH3hzR5XJ3dCKMKmwYd"
+    },
+    {
+      "album": {
+        "name": "Coeur Humain",
+        "url": "https://open.spotify.com/album/1cgVlGhTuxaE7FGULube9Y"
+      },
+      "artists": [
+        {
+          "name": "Eden Script",
+          "url": "https://open.spotify.com/artist/1wfaaSjn5iiiuCLAGeAoOE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Coeur Humain",
+      "url": "https://open.spotify.com/track/4DuS03hO8dtbJekfAUrvL8"
     },
     {
       "album": {
@@ -4622,7 +4698,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 218220,
       "name": "Gave up on Me",
       "url": "https://open.spotify.com/track/3SjWNjCvDCZKJnETSeXxX0"
@@ -5489,6 +5565,24 @@
     },
     {
       "album": {
+        "name": "Hip Tropical",
+        "url": "https://open.spotify.com/album/3998AQm3cQhVSIiKlz3YRW"
+      },
+      "artists": [
+        {
+          "name": "Spekt1",
+          "url": "https://open.spotify.com/artist/3j6N09B3RizHZIgckXxODd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174648,
+      "name": "Hip Tropical",
+      "url": "https://open.spotify.com/track/2uH0bEwYBUl5XXgg5mitgI"
+    },
+    {
+      "album": {
         "name": "Hit They Block",
         "url": "https://open.spotify.com/album/4iOnDGQpZLEx78o18yIkE2"
       },
@@ -5974,7 +6068,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 122326,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4booK8W8cdoXaEZmki1Fz7"
@@ -8402,7 +8496,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 263736,
       "name": "Nadir",
       "url": "https://open.spotify.com/track/2OWazXH6JQYRw79l6OTDNM"
@@ -8726,7 +8820,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165818,
       "name": "NU-PHONK METAL, Pt. 1",
       "url": "https://open.spotify.com/track/3ZFnNuXaCzAHnnMp5vPDUf"
@@ -9596,7 +9690,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 406000,
       "name": "Quadrant",
       "url": "https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS"
@@ -10743,6 +10837,28 @@
     },
     {
       "album": {
+        "name": "SHPSHFTR",
+        "url": "https://open.spotify.com/album/56GXbNkPK72iwdYQtUqkAH"
+      },
+      "artists": [
+        {
+          "name": "c8o",
+          "url": "https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V"
+        },
+        {
+          "name": "Bimyo",
+          "url": "https://open.spotify.com/artist/0VJ6VdRPRQUdVAghMA2WNx"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142931,
+      "name": "SHPSHFTR",
+      "url": "https://open.spotify.com/track/1Smox5IxBOTyjZ7iefZ7LH"
+    },
+    {
+      "album": {
         "name": "Rok Ali and the Addiction",
         "url": "https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST"
       },
@@ -10761,6 +10877,24 @@
     },
     {
       "album": {
+        "name": "SIGMA 4 LIFE",
+        "url": "https://open.spotify.com/album/3Vuas2QnrgxMxVvzFPDFxm"
+      },
+      "artists": [
+        {
+          "name": "Phonkmode",
+          "url": "https://open.spotify.com/artist/4cPd80ZHHWza8uX24E3QlX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "SIGMA 4 LIFE",
+      "url": "https://open.spotify.com/track/77GoiOLkdnA8k8UnaJ6Qp5"
+    },
+    {
+      "album": {
         "name": "Sigma Boy (Phonk)",
         "url": "https://open.spotify.com/album/2YprR3VkHyIunUzdRTr7sw"
       },
@@ -10776,7 +10910,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 118384,
       "name": "Sigma Boy - Phonk",
       "url": "https://open.spotify.com/track/6lDrQrCsgXpaPlJ6sGfDE7"
@@ -13088,7 +13222,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211073,
       "name": "we r who we r (glitter on my eyes)",
       "url": "https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"

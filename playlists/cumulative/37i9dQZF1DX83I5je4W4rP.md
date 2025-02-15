@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-354 songs - 21 hr 1 min
+355 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Barefoot On The Dancefloor](https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Barefoot On The Dancefloor](https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec) | 2:48 | 2024-07-26 |  |
 | [Batshit Crazy](https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [Batshit Crazy](https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G) | 3:25 | 2023-11-13 |  |
 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 | 2021-12-10 |  |
+| [BE MINE](https://open.spotify.com/track/6ZGtpEUJ1Zae5QJIv54dTD) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [BE MINE](https://open.spotify.com/album/5D2Vrd4ZMx5u3R49xOMHnX) | 2:45 | 2025-02-14 |  |
 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-09-30 | 2023-11-09 |
 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2023-07-28 | 2024-04-19 |
 | [Beach in Hawaii](https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:44 | 2022-07-06 | 2022-10-13 |
@@ -191,7 +192,7 @@
 | [Love Letter](https://open.spotify.com/track/6LrurNYfLGOgS88xzRBMn8) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/68xQqTEHLKaq5omYS3orsO) | 3:33 | 2023-07-28 | 2024-04-19 |
 | [Love Letter](https://open.spotify.com/track/0xtvV6h7qWiTjab9GIoWkZ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/2ICxzn5rJTw7k0R2JgitSX) | 3:33 | 2022-07-06 | 2022-11-11 |
 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 | 2022-09-30 | 2023-10-22 |
-| [Lyrics Over Everything](https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Joey Harkum](https://open.spotify.com/artist/72SpvqbeEYsAqZddWryI0m) | [Lyrics Over Everything](https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd) | 3:26 | 2024-06-10 |  |
+| [Lyrics Over Everything](https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Joey Harkum](https://open.spotify.com/artist/72SpvqbeEYsAqZddWryI0m) | [Lyrics Over Everything](https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd) | 3:26 | 2024-06-10 | 2025-02-15 |
 | [M.I.A](https://open.spotify.com/track/53Jobh2cnmyBSTt70CeHJE) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [M.I.A](https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT) | 3:11 | 2023-05-05 | 2023-09-25 |
 | [Mamacita](https://open.spotify.com/track/4iPn44FdAHhas8uNaoJNmR) | [Sons of Paradise](https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Mamacita](https://open.spotify.com/album/5sYSYnfuj6PYzd6vZx9WRb) | 3:29 | 2024-03-05 | 2025-02-08 |
 | [Margaritas \(with Orange Grove\)](https://open.spotify.com/track/0jZkoLBmXigAKcpeYbkXq6) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Orange Grove](https://open.spotify.com/artist/1OUTOOUK6WFuwXEIGjT1wx) | [Margaritas \(with G\. Love & Special Sauce, Orange Grove\)](https://open.spotify.com/album/4KAkq1TW4fIL9S380o3B1L) | 3:37 | 2021-12-10 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-159 songs - 12 hr 14 min
+160 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Eastern Surprise](https://open.spotify.com/track/64EFUJbhplwsrM315SFMyv) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2) | [Eastern Surprise](https://open.spotify.com/album/42uvb5jtA1JhjpP8eEGg2A) | 4:32 | 2023-03-09 |  |
 | [Echoes](https://open.spotify.com/track/6CV6GlmkSURm6ShbKqqUjH) | [Apex](https://open.spotify.com/artist/7pQD0AmPKG2tkjzDauKkqq) | [Echoes](https://open.spotify.com/album/0AkHPY7YiLppIqIoo0n8EF) | 5:15 | 2024-09-26 | 2024-12-19 |
 | [Edge of sketch](https://open.spotify.com/track/00KYGv9mh8iKToG1GCLS3a) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Edge Of Sketch](https://open.spotify.com/album/2kcyzU8IXUkzaVTAzWEiwL) | 4:12 | 2024-08-16 |  |
+| [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 | 2025-02-14 |  |
 | [Evolution Dub](https://open.spotify.com/track/4CgNZoBh7FJAlrVhlVdifY) | [Counter Culture](https://open.spotify.com/artist/5S9npCbtuNoMtN5xuMyvbU) | [Evolution Dub / You And & Me](https://open.spotify.com/album/5Vt32ASWXOUkfts2GMT527) | 4:55 | 2023-05-19 | 2024-03-30 |
 | [Fairy Forest](https://open.spotify.com/track/6XdhU2Wdb0HYhJmUAD2uWi) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Fairy Forest](https://open.spotify.com/album/7tAAVJ75iSHQWkqkxPvbUf) | 3:48 | 2023-09-15 |  |
 | [Falling Lights](https://open.spotify.com/track/5ZXXout3LaxYFT2dVRvT8j) | [Painted Skies & Viewer](https://open.spotify.com/artist/4VTZ1NxNNLeGdRuKXXv3ZK) | [Tonight](https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e) | 5:39 | 2022-11-30 | 2024-08-10 |

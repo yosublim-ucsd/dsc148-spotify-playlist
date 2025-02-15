@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "2025 SMTOWN : THE CULTURE, THE FUTURE",
+        "url": "https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Rum Pum Pum Pum",
+      "url": "https://open.spotify.com/track/00M2YcEqhsVbSW6RUKqIY3"
+    },
+    {
+      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },

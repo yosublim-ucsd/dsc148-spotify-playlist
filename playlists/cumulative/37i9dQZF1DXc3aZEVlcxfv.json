@@ -1959,6 +1959,32 @@
     },
     {
       "album": {
+        "name": "I know my God",
+        "url": "https://open.spotify.com/album/3Lg8nrzdxJAiHxaL5HWgoc"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        },
+        {
+          "name": "Netta B",
+          "url": "https://open.spotify.com/artist/0qjPS9vgD68AL043e7HgCg"
+        },
+        {
+          "name": "Ronald Campbell",
+          "url": "https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452825,
+      "name": "I know my God",
+      "url": "https://open.spotify.com/track/4VldWNWmHqQTSapZ971m2j"
+    },
+    {
+      "album": {
         "name": "Shout It Loud (Live)",
         "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
       },

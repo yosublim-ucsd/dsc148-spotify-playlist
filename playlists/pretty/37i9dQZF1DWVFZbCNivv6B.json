@@ -1,15 +1,55 @@
 {
-  "description": "Aqu\u00ed vive el hip-hop mexicano. \nDharius est\u00e1 en la casa. ",
-  "num_followers": 828229,
+  "description": "Aqu\u00ed vive el hip-hop mexicano. \nC-Kan est\u00e1 en la casa. ",
+  "num_followers": 828339,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6ulCAAAAAAn0T6Sez4tMW6uirk6+6+e",
+  "snapshot_id": "Z67b9wAAAADLotOo9Prb/qYgmxXX9G+h",
   "tracks": [
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
+      "album": {
+        "name": "Una Pistola y Un Toque",
+        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 234726,
+      "name": "Una Pistola y Un Toque",
+      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
+    },
+    {
+      "added_at": "2025-02-14 06:00:23",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Me Ha Costado",
+      "url": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB"
+    },
+    {
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "ALV TODOS",
         "url": "https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM"
@@ -25,7 +65,23 @@
       "url": "https://open.spotify.com/track/76akywa2I8JChhWVpGQv01"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
+      "album": {
+        "name": "Alv T\u00fa",
+        "url": "https://open.spotify.com/album/52g3D6e7RxUCZiMS4Dfq01"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 237142,
+      "name": "Alv T\u00fa",
+      "url": "https://open.spotify.com/track/2OiJM0rjhBQbCWDrsy1dmM"
+    },
+    {
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "\u00c1ngeles Negros",
         "url": "https://open.spotify.com/album/4Az6Bt4sBolxnDMQQMv5IY"
@@ -45,7 +101,47 @@
       "url": "https://open.spotify.com/track/3gS4Xxn0PfvO1FZ8tXB8oS"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
+      "album": {
+        "name": "Los de la A",
+        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Los de la A",
+      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
+    },
+    {
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Como Pacman",
         "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
@@ -65,7 +161,7 @@
       "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Cl\u00e1sico",
         "url": "https://open.spotify.com/album/0pTbMw4LFmKL1UWtq6pwDv"
@@ -85,7 +181,7 @@
       "url": "https://open.spotify.com/track/2y1gjaqTLPkX8TvtNIgXms"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "888",
         "url": "https://open.spotify.com/album/4pXNCQjVlCU3qE0CBSRhKv"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/502n617bm1soJAnUDew5vr"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "La Navaja",
         "url": "https://open.spotify.com/album/2HrUNeMxkyC5WsLUNCMnBL"
@@ -125,27 +221,7 @@
       "url": "https://open.spotify.com/track/6fHGIBcDLNc7ovSh3HzFiw"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "AGW Hits #1",
-        "url": "https://open.spotify.com/album/59gln4hB0WsVtnslHg89g8"
-      },
-      "artists": [
-        {
-          "name": "Agw Beats",
-          "url": "https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "AGW Hits #1",
-      "url": "https://open.spotify.com/track/1WI8cGSDcmG4LS0jdhDn1b"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "El 3",
         "url": "https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M"
@@ -165,7 +241,7 @@
       "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Canciones Mamalonas 4",
         "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
@@ -181,7 +257,7 @@
       "url": "https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Somos Varios",
         "url": "https://open.spotify.com/album/1SyGuSZp97FzA7Ai5UNPpk"
@@ -201,7 +277,7 @@
       "url": "https://open.spotify.com/track/5QuIpA8ZSDeFl8KJaf2nTX"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Con Tokio",
         "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
@@ -217,7 +293,7 @@
       "url": "https://open.spotify.com/track/6mRIRKXeOUtPSYbkjEuQY1"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Que se va a hacer?",
         "url": "https://open.spotify.com/album/0oFiZxPaNWNarfJmZre7VB"
@@ -241,7 +317,7 @@
       "url": "https://open.spotify.com/track/6hE4s5UrxUae4QKBUdj2Br"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Fuck Tha Shit!",
         "url": "https://open.spotify.com/album/4aasTGepKcIbria2TI01i4"
@@ -261,7 +337,7 @@
       "url": "https://open.spotify.com/track/0CyPaIpZchod15ZymuFihY"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "En la Troca",
         "url": "https://open.spotify.com/album/39Fg4IINniXB7zQzm3yjWy"
@@ -285,7 +361,7 @@
       "url": "https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "L\u00e1grimas y Sonrisas",
         "url": "https://open.spotify.com/album/5PIex4i3Vu49KAMJqPD8Pa"
@@ -305,7 +381,7 @@
       "url": "https://open.spotify.com/track/3FBnrQSHD8zF73AwcZfycE"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Que Se Arme",
         "url": "https://open.spotify.com/album/5807tgqqUEmyeVHqLNxnez"
@@ -329,7 +405,7 @@
       "url": "https://open.spotify.com/track/5WTHrUFa1t9MT4UumFMnIw"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Modo Placoson",
         "url": "https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E"
@@ -353,7 +429,7 @@
       "url": "https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Carne Cruda",
         "url": "https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL"
@@ -377,7 +453,7 @@
       "url": "https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Los a\u00f1os de trabajo",
         "url": "https://open.spotify.com/album/7uYCFEuC9N7YM6VUAxHKPn"
@@ -393,31 +469,7 @@
       "url": "https://open.spotify.com/track/7eVgkOVLNwW5soC2UDHias"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "El Arte de Ser Uno Mismo",
-        "url": "https://open.spotify.com/album/2vpFBL25hJy1fcvCspE8Fk"
-      },
-      "artists": [
-        {
-          "name": "Juancer El Bastardo",
-          "url": "https://open.spotify.com/artist/4wTWBly84lNKlbP2F8u1Ke"
-        },
-        {
-          "name": "Te Capital",
-          "url": "https://open.spotify.com/artist/51K2gy6Gi77jlancpYAqyD"
-        },
-        {
-          "name": "Dee",
-          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-        }
-      ],
-      "duration_ms": 192374,
-      "name": "I Roc Stones",
-      "url": "https://open.spotify.com/track/0a2MgglsRSbcAa98ALBpR1"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Morbo",
         "url": "https://open.spotify.com/album/4EGKm3Ax67ralGNxDXraDZ"
@@ -437,7 +489,7 @@
       "url": "https://open.spotify.com/track/1ArxUQ0jPoR8qdjsZR8qDx"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Punchline City, Vol. 1",
         "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
@@ -453,27 +505,7 @@
       "url": "https://open.spotify.com/track/62GIRHK6nvpxRBXY74ZAsC"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "El Wizcas",
-        "url": "https://open.spotify.com/album/5PY8vx3Gr1OusFY1j8u3pc"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        },
-        {
-          "name": "Zona Klandestina",
-          "url": "https://open.spotify.com/artist/38oU4P29UoLzf95VMwWMK2"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "El Wizcas",
-      "url": "https://open.spotify.com/track/7kmr2oDTv9irqWs6TGCkxC"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Sin Corona",
         "url": "https://open.spotify.com/album/3lndS3S9eKtOsQhnKzrO3Y"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/2wGPtjTFvsOR6DSoGDW4oc"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/3I3EwJo8PuG5Cg36pFhs3S"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/4GGvjCnswPgalV2vNOlymt"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/5JNG6DfUvKQDK05jAiTwo3"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Me acuerdo",
         "url": "https://open.spotify.com/album/0Gz5q8PyvIzmuLQuFISb0q"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/1MFFBF5ugHrwPDdvD38QZQ"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Abran Paso",
         "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "La derramas o la bebes",
         "url": "https://open.spotify.com/album/4jUlg6S51pCsuVdsYCtQ2f"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/6oaXW6trS3a1uFwKrMskjg"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Miss Diablo II",
         "url": "https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Mega Drive",
         "url": "https://open.spotify.com/album/5pwP34bppomcDLVWnuLXZ1"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/6WQWX8UtgKl7gfL8m6St1O"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "JEFA",
         "url": "https://open.spotify.com/album/2zvYaINxNZhmYFEbThH1hg"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/5xYYC5YUeghCAErY0tbgTf"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "FISG\u00d3N",
         "url": "https://open.spotify.com/album/2oum3uiNJMHA1zKRpgbhlM"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/7uzY1pb6g0xJSIAd8Hps9D"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/607jKfiVK9YiIFPNdYRTDB"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/2Prv9miT3gsQNty90Sy2k0"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Cagapalo",
         "url": "https://open.spotify.com/album/7EcvR2Vk8XeWTC5rEKzSPb"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/32vfF5QbU8sAlSC7koukZB"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "En El Alcohol",
         "url": "https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Konektando Kilos",
         "url": "https://open.spotify.com/album/0bsyRcz44aLxzCq9Bl0dwx"
@@ -809,7 +841,7 @@
       "url": "https://open.spotify.com/track/3j5uuJPoAhbuJ3LbxeBRGY"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/0iElJp6eStQFqCwhYZqPhV"
@@ -825,7 +857,7 @@
       "url": "https://open.spotify.com/track/5kizwBZRrAjxUNgyq5jP4B"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Medell\u00edn",
         "url": "https://open.spotify.com/album/6c9EjztzpPQfeo2un0swRS"
@@ -841,7 +873,7 @@
       "url": "https://open.spotify.com/track/1EgQoE22saAjveH1zrHrD8"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Ser Mexicano",
         "url": "https://open.spotify.com/album/0867HgNV9fkWJvjkueFlAp"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/6fzP8ju0y8KkHpe8otInxA"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Por Un Beso",
         "url": "https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "No te puedo olvidar",
         "url": "https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/0vKj3J6EqyBdOegCAJ4KuQ"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/79rmrc4k6h4hd0hWSUglew"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "GOET",
         "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
@@ -949,47 +981,7 @@
       "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
     },
     {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Cypher Rv X Capital Gang",
-        "url": "https://open.spotify.com/album/5tw3f8pEpPTY0yEqYzIaYg"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        },
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        },
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "Cypher Rv X Capital Gang",
-      "url": "https://open.spotify.com/track/5hjdGrBkuYrNBAuiqahcES"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
+      "added_at": "2025-02-14 06:00:23",
       "album": {
         "name": "Por un Fume de Hachis",
         "url": "https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA"

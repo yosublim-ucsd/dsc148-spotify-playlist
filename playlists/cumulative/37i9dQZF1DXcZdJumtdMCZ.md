@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Hip Hop Tamizha
 
-159 songs - 9 hr 34 min
+160 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Entha Ooru](https://open.spotify.com/track/5H3tWLfIoMnxD3kmRADE02) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Entha Ooru](https://open.spotify.com/album/1TJI6YPxUsSCuAZa7Nuood) | 2:58 | 2024-12-29 |  |
 | [Ethir Neechal](https://open.spotify.com/track/1LFTKTSfPQRM3a8mOvNtnE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 4:30 | 2022-02-08 | 2024-12-29 |
 | [Ethum Sari Illa \- From "Valigal"](https://open.spotify.com/track/53nYwYfG3tc5pbpZPNAK65) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Ethum Sari Illa \(From "Valigal"\)](https://open.spotify.com/album/0H8Fp5AoDeM3QGdKTQWVcK) | 2:44 | 2024-12-29 |  |
-| [Goa](https://open.spotify.com/track/2xmanpb0nAJ2LSUjSlSTnE) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Krishh](https://open.spotify.com/artist/52gcMUmJNB3Q6NG0jPWj0b), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Goa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CgPGsPTqljgnqoHE810P7) | 4:40 | 2022-02-08 |  |
+| [Gangasita](https://open.spotify.com/track/728JTA18ddnqG7htvPUD4g) | [Dark Queen](https://open.spotify.com/artist/6v7SkaLzUQgqMQ0Hl6cSlt) | [Gangasita](https://open.spotify.com/album/24H6GWiEpRZJfBrK490lG5) | 2:14 | 2025-02-14 |  |
+| [Goa](https://open.spotify.com/track/2xmanpb0nAJ2LSUjSlSTnE) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Krishh](https://open.spotify.com/artist/52gcMUmJNB3Q6NG0jPWj0b), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Goa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CgPGsPTqljgnqoHE810P7) | 4:40 | 2022-02-08 | 2025-02-15 |
 | [Gomma](https://open.spotify.com/track/0wcqQ3JXI84MzCpbFfEeei) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Thajmola](https://open.spotify.com/artist/361xEllKxAW0hPs2wEtGzV) | [Gomma](https://open.spotify.com/album/01jALrurkyRy9qnNJRE1gL) | 2:18 | 2024-12-29 | 2025-02-07 |
 | [Gomma Podu](https://open.spotify.com/track/6hSuVbNKcKnc3KXoqZCIU9) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Gomma Podu](https://open.spotify.com/album/69MCTdiYHPHIJmHf5z2NEn) | 2:44 | 2024-12-29 |  |
 | [Happy New Year](https://open.spotify.com/track/0iJVDupX9f0VPwceljd4Ux) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kuruvi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5icGP6ZdCCL8SWk4WamuHU) | 4:03 | 2022-02-08 | 2023-05-15 |

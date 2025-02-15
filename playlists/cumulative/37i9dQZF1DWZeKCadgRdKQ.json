@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 157607,
       "name": "All across the Globe",
       "url": "https://open.spotify.com/track/45wivOLIh3TwUciPUMPN0W"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 217857,
       "name": "be patient",
       "url": "https://open.spotify.com/track/42hSh6L3A169R19kWKjK0E"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 161697,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/1AL54jGmiH5sEn7OUIbVVP"
@@ -3171,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/1vErqH4mAi8vdWpgMpVWlq"
+      },
+      "artists": [
+        {
+          "name": "Veldas",
+          "url": "https://open.spotify.com/artist/5F18FuQCNYjrzM5zhdCwhh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/6tgO0zZjBCInyzx09qv1D6"
+    },
+    {
+      "album": {
         "name": "Distant Star",
         "url": "https://open.spotify.com/album/5SdsLcQdZWrGwxd5DXczl3"
       },
@@ -3348,6 +3366,24 @@
       "duration_ms": 163916,
       "name": "Dreamshaper",
       "url": "https://open.spotify.com/track/5N9usiGt4EYV0V6YInEmIR"
+    },
+    {
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/3khImK32Ja1YdbL9GHXrxz"
+      },
+      "artists": [
+        {
+          "name": "bluescape",
+          "url": "https://open.spotify.com/artist/1yu77LzkFIhpDDnHQ330aN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118424,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4UnLdIyc31M6DApX4YMxSa"
     },
     {
       "album": {
@@ -4068,6 +4104,24 @@
       "duration_ms": 337999,
       "name": "Everything",
       "url": "https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/7c2Y78GxcbtJrEEgwaf7HP"
+      },
+      "artists": [
+        {
+          "name": "Halcyon",
+          "url": "https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/48vpR7k8UWYVy6cA5vTOhO"
     },
     {
       "album": {
@@ -6372,7 +6426,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156250,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/0mWbY7Dev7yg5ZRfaUMoK1"
@@ -7398,7 +7452,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178300,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/3lt88w6SiiTWWvG0LYXRjx"
@@ -8000,6 +8054,24 @@
       "duration_ms": 131506,
       "name": "Moon Daze",
       "url": "https://open.spotify.com/track/4HRlzCHuH8nZGGozUXr6b6"
+    },
+    {
+      "album": {
+        "name": "Moonstone",
+        "url": "https://open.spotify.com/album/4nKiGdRQDuTWXwnsKtYKbF"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky",
+          "url": "https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171566,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/0wbkajyvyXeFghk3KLhWlF"
     },
     {
       "album": {
@@ -11888,7 +11960,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154615,
       "name": "swinging for the fences",
       "url": "https://open.spotify.com/track/4ibnFZ5jTdnyuQO4p7OifJ"
@@ -13235,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "Trinkets",
+        "url": "https://open.spotify.com/album/1npdfU318iQgaps17y85pj"
+      },
+      "artists": [
+        {
+          "name": "Valedictorian",
+          "url": "https://open.spotify.com/artist/7462TK0rDK0xZvVXEaMUOa"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153541,
+      "name": "Trinkets",
+      "url": "https://open.spotify.com/track/2wKUK2CGHjcxSKqjiqjYvb"
+    },
+    {
+      "album": {
         "name": "All Is Wild, All Is Silent Remixes",
         "url": "https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO"
       },
@@ -13578,6 +13668,24 @@
       "duration_ms": 202000,
       "name": "Valley Tales",
       "url": "https://open.spotify.com/track/1RnmnjIrfyOtOwGPhzxKHM"
+    },
+    {
+      "album": {
+        "name": "Vanguard",
+        "url": "https://open.spotify.com/album/4FgoFKlCLecAsZIm7GhMLp"
+      },
+      "artists": [
+        {
+          "name": "Noah Moon",
+          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "Vanguard",
+      "url": "https://open.spotify.com/track/7HcF22m1hFU8lRBLXrJs8e"
     },
     {
       "album": {

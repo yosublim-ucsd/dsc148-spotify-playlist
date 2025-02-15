@@ -1,13 +1,89 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180397,
+  "num_followers": 180396,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z519BQAAAAAGR+Ol+2clUyXcxx9yM23C",
+  "snapshot_id": "Z67N+AAAAADHAJej7AMGqkTusk/3E6q3",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Captain America: Brave New World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hPk939CdYc9Egmksy9sT5"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Captain America: Brave New World Main Title",
+      "url": "https://open.spotify.com/track/7kCC8GgZGIkYnvzyv9Y4Nv"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "MARVEL Rivals: Galactic Tunes (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 241270,
+      "name": "Rivals 'Til the End (Chrissy Costanza Version)",
+      "url": "https://open.spotify.com/track/35y0Zpih34sgPBEcI7T2zx"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Captain America: Brave New World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hPk939CdYc9Egmksy9sT5"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/1lUUPdG1Kuz0AY0HIHuCkI"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Captain America: Brave New World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hPk939CdYc9Egmksy9sT5"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Samuel Sterns",
+      "url": "https://open.spotify.com/track/6OYVPJsasejlTpXbQqrTRB"
+    },
     {
       "added_at": "2025-02-01 01:46:45",
       "album": {

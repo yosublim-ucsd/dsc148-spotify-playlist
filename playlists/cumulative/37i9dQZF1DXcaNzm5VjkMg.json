@@ -2339,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Selamanya Cinta (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3JGH03mJFaaLi3VeGzjO3k"
+      },
+      "artists": [
+        {
+          "name": "Yana Julio",
+          "url": "https://open.spotify.com/artist/1P5ZkOEU00s2RZrKiFRhAj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307339,
+      "name": "Selamanya Cinta - Remastered 2025",
+      "url": "https://open.spotify.com/track/18eZsx7SZOYMyF3guenkbX"
+    },
+    {
+      "album": {
         "name": "Cinta & Doa",
         "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
       },

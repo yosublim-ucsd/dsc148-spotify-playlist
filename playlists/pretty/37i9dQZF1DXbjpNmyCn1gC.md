@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,038 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,224 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 60 | [プリミティヴ・パワー](https://open.spotify.com/track/0AheXcpGrZ87YrnkyU7Tav) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ラヴァーズ](https://open.spotify.com/album/4tG3LqrNEgobkOqBxZOfmd) | 3:38 |
 | 61 | [Good Bye, Good Luck](https://open.spotify.com/track/0W5T57VTy59V4z20DMmrVj) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Good Bye, Good Luck](https://open.spotify.com/album/1kyBJGVgY2U2XHXOKpnc43) | 3:23 |
 | 62 | [Home Sweet Home](https://open.spotify.com/track/31NC8K8LtBk9GfgKxJnJYy) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Home Sweet Home](https://open.spotify.com/album/3nkKqrGjQWpDOY0qeUcx3Y) | 4:47 |
-| 63 | [つぼみ](https://open.spotify.com/track/1hLb5kYuXnTfoH6eh4TIj1) | [Maria](https://open.spotify.com/artist/60inTfOAmY46l1p13wTUZg) | [つぼみ](https://open.spotify.com/album/5Hl96OjUfEJvuoNiwn1IEO) | 4:04 |
+| 63 | [つぼみ](https://open.spotify.com/track/1hLb5kYuXnTfoH6eh4TIj1) | [MARIA](https://open.spotify.com/artist/60inTfOAmY46l1p13wTUZg) | [つぼみ](https://open.spotify.com/album/5Hl96OjUfEJvuoNiwn1IEO) | 4:04 |
 | 64 | [distance](https://open.spotify.com/track/7rx3LZul0v0qUlzfsOrWfU) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/01yAW82JL7XNc7xpwstcKS) | 3:07 |
 | 65 | [ラヴァーズ](https://open.spotify.com/track/3p5pxZMHYckuag289jDV9S) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/7vkc3ltubQau8rjKDV25YV) | 3:42 |
 | 66 | [newsong](https://open.spotify.com/track/7hJZYWwUv0nooEKOv8M3nm) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [newsong e.p.](https://open.spotify.com/album/4nCNG6x0rHMC7B3PXIDmsc) | 3:31 |

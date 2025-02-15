@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "New Beastly",
+        "url": "https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251748,
+      "name": "New Beastly",
+      "url": "https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh"
+    },
+    {
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },

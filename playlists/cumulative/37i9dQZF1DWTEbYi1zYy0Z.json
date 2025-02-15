@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 265709,
       "name": "Cash in",
       "url": "https://open.spotify.com/track/4LNNEPTtizak8Yknrg1wA1"
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Light of Day",
+        "url": "https://open.spotify.com/album/2xDalhs3jBlEjRwUnOLPTZ"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282040,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/3wy86KLR6VKyuBVHeyaM6b"
+    },
+    {
+      "album": {
         "name": "Champagne Sky",
         "url": "https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9"
       },
@@ -1450,6 +1468,28 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "album": {
+        "name": "Changed Me",
+        "url": "https://open.spotify.com/album/53CCbBw9Yosww539htd11p"
+      },
+      "artists": [
+        {
+          "name": "Droyd",
+          "url": "https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O"
+        },
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Changed Me",
+      "url": "https://open.spotify.com/track/75taQd5SN7871t9wku1Hbx"
     },
     {
       "album": {
@@ -1648,7 +1688,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172935,
       "name": "complexity.",
       "url": "https://open.spotify.com/track/4kVkbJqTLz9I86bkzI1Ftj"
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 256023,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU"
@@ -6384,6 +6424,28 @@
       "duration_ms": 249800,
       "name": "Overjoyed",
       "url": "https://open.spotify.com/track/5id4jZ159bRygfcoEtq7Sh"
+    },
+    {
+      "album": {
+        "name": "Passion Fruit",
+        "url": "https://open.spotify.com/album/7cGwin8qwit2BY3sok7aWZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261445,
+      "name": "Passion Fruit",
+      "url": "https://open.spotify.com/track/4QMYYj4hPO2l5bfkNSPdYU"
     },
     {
       "album": {

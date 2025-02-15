@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Gangasita",
+        "url": "https://open.spotify.com/album/24H6GWiEpRZJfBrK490lG5"
+      },
+      "artists": [
+        {
+          "name": "Dark Queen",
+          "url": "https://open.spotify.com/artist/6v7SkaLzUQgqMQ0Hl6cSlt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134736,
+      "name": "Gangasita",
+      "url": "https://open.spotify.com/track/728JTA18ddnqG7htvPUD4g"
+    },
+    {
+      "album": {
         "name": "Goa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7CgPGsPTqljgnqoHE810P7"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 280453,
       "name": "Goa",
       "url": "https://open.spotify.com/track/2xmanpb0nAJ2LSUjSlSTnE"

@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! Cover : Fejo
+> Best of Malayalam Hip\-Hop! <br/>Cover : Dabzee & Rishi Roy
 
-223 songs - 11 hr 47 min
+224 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Scene Mone \(From "RDX"\)](https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth) | 3:26 | 2023-08-17 | 2023-08-19 |
 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 | 2025-01-31 |
+| [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 | 2025-02-14 |  |
 | [SLAM](https://open.spotify.com/track/7C2VAVmeq51CLGkYmaNDt6) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [SLAM](https://open.spotify.com/album/5fh4rLBLLy3gXanrpzyRJC) | 2:41 | 2025-01-23 |  |
 | [Tapori](https://open.spotify.com/track/59f6jkhWKrOqIEeJ0vVMfV) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Tapori](https://open.spotify.com/album/2K0WzWYpRaw3bHUZwD5cZr) | 3:02 | 2025-01-09 |  |
 | [Thaakeeth](https://open.spotify.com/track/1YCYnKT1R8SzaFIa7MB9gq) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Tholla](https://open.spotify.com/album/2ydeDhlQINZjlZKYE3pO3U) | 3:25 | 2025-01-09 |  |
@@ -211,7 +212,7 @@
 | [Utharam Para](https://open.spotify.com/track/6VGbRuP8eSIVsNgm6nhlw3) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Utharam Para](https://open.spotify.com/album/1k1o9ToLbRKtTPvgVpCx5U) | 2:53 | 2024-02-29 | 2024-05-22 |
 | [Vaa](https://open.spotify.com/track/50I3sAWquG9d5m6nXzMmIR) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/7MRTS8Io28S5g4P4o6mqtb) | 2:47 | 2024-02-13 | 2024-04-19 |
 | [Vaa](https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1) | 2:47 | 2023-07-23 | 2025-01-09 |
-| [VAAKKATHI](https://open.spotify.com/track/46XOuaTgVmiLua31tuMqVA) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [VAAKKATHI](https://open.spotify.com/album/30Yx7LbsT3C2qpIKztRJca) | 2:45 | 2025-01-09 |  |
+| [VAAKKATHI](https://open.spotify.com/track/46XOuaTgVmiLua31tuMqVA) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [VAAKKATHI](https://open.spotify.com/album/30Yx7LbsT3C2qpIKztRJca) | 2:45 | 2025-01-09 | 2025-02-15 |
 | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/track/1w6DAe1xlAj9oxDb1dWHo4) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/album/1MrvxTM8NLjzbCGthLreXU) | 3:48 | 2024-03-18 | 2024-05-22 |
 | [Vappante Kaayi](https://open.spotify.com/track/10vEDfYkQDlQXfTPmnQNFP) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [Owltrix](https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS), [EXTER](https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg) | [Vappante Kaayi](https://open.spotify.com/album/64aE6tx1OZFzRU0zmwu5nv) | 2:42 | 2025-01-09 |  |
 | [VARANAM](https://open.spotify.com/track/3PJgW0Mo7h8GLlNaK3ZGwA) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Simmo](https://open.spotify.com/artist/1jKClD0DpaGTCeUVlWEjbm) | [VARANAM](https://open.spotify.com/album/0J2B5OG4xZOES7Y5ThALtt) | 2:12 | 2025-01-08 |  |

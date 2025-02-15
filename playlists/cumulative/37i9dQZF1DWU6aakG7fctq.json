@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Bandalos Chinos",
+  "description": "Fresh Latin Indie you should know. Cover: YADAM",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 213085,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/3xhPGomtecEzMqEnHSA5qz"
@@ -1488,6 +1488,28 @@
       "duration_ms": 211080,
       "name": "Barco",
       "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
+    },
+    {
+      "album": {
+        "name": "Bendecirte",
+        "url": "https://open.spotify.com/album/1IXQZ5cj2Gn5A4IVEfp4iY"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "\u00c1ngel Dumile",
+          "url": "https://open.spotify.com/artist/4ZzO86sXj3tDSszrlCdL9o"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bendecirte",
+      "url": "https://open.spotify.com/track/4xCMyP2DtS1pR6SFgS1pIp"
     },
     {
       "album": {
@@ -3878,7 +3900,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 187455,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/5H0K5laY2EN3bwU6A7O3wg"
@@ -3976,7 +3998,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 210000,
       "name": "El Diablo Se Solt\u00f3",
       "url": "https://open.spotify.com/track/7i2Ep7ZPewDY552jYA13c5"
@@ -4316,7 +4338,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
@@ -5855,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
+    },
+    {
+      "album": {
         "name": "Holidays - Chromocosmic Avenue",
         "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
       },
@@ -7154,7 +7194,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182948,
       "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
       "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
@@ -7358,6 +7398,24 @@
       "duration_ms": 240509,
       "name": "Life",
       "url": "https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3"
+    },
+    {
+      "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "album": {
@@ -8064,7 +8122,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160296,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
@@ -8876,7 +8934,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 142053,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/4wGQKXcBM4Nb37gzDKPYCJ"
@@ -9934,7 +9992,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 184809,
       "name": "NO S\u00c9 DE AMOR",
       "url": "https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38"
@@ -9982,6 +10040,24 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "album": {
+        "name": "No te enamores",
+        "url": "https://open.spotify.com/album/2E1xWfeH1ynUr7xXLETcdc"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "No te enamores",
+      "url": "https://open.spotify.com/track/3mbSEvDCPG35hO2LY1U7E7"
     },
     {
       "album": {
@@ -10543,6 +10619,24 @@
     },
     {
       "album": {
+        "name": "OREN POR MI",
+        "url": "https://open.spotify.com/album/4pmg91F3zXn02HYTInLHqp"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "OREN POR MI",
+      "url": "https://open.spotify.com/track/5fZq3nNhV6QZ0aM1qqj7nB"
+    },
+    {
+      "album": {
         "name": "Oscuridad",
         "url": "https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG"
       },
@@ -10768,7 +10862,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 202546,
       "name": "par d ni\u00f1os",
       "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
@@ -11707,6 +11801,28 @@
     },
     {
       "album": {
+        "name": "Q.I.S",
+        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223910,
+      "name": "Q.I.S - feat. maye",
+      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+    },
+    {
+      "album": {
         "name": "QUE ARRECHERA (no tener dinero)",
         "url": "https://open.spotify.com/album/5ntzmyeTqtka3kL2eXs2Dp"
       },
@@ -12276,6 +12392,28 @@
       "duration_ms": 254439,
       "name": "REVOLUCION AZUL",
       "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
+    },
+    {
+      "album": {
+        "name": "Rid\u00edculo",
+        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159607,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
     },
     {
       "album": {
@@ -15086,7 +15224,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194717,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/4bSKgIOqpxGRFAdPX7AMGJ"
@@ -15144,7 +15282,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
@@ -15390,7 +15528,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 325096,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/2PeWjwwAzxrJfpdVpAc44o"
@@ -15657,6 +15795,24 @@
     },
     {
       "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "ya no me llames",
+      "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
+    },
+    {
+      "album": {
         "name": "Ya no sigo esperando por ti",
         "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
       },
@@ -15704,7 +15860,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 196204,
       "name": "yo creo que todxs estamos mal",
       "url": "https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO"

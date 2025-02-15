@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 
 > 【セトリ公開】来日公演 "TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN SPECIAL"のセットリストをプレイリストで聴こう！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,396 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 | 14 | [ONE SPARK](https://open.spotify.com/track/22TC1XBg8FZWTQHWsDvZ0s) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/0gDrK0OBXJxekT9klz3DM5) | 3:03 |
 | 15 | [Fanfare](https://open.spotify.com/track/49moLXpCwwantnF78yItWf) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Fanfare](https://open.spotify.com/album/47bxLQc3jt9EcpFXOECxVA) | 3:40 |
 | 16 | [BDZ](https://open.spotify.com/track/6ceKChoZYLdw24Ph1CDFUJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:17 |
-| 17 | [Nightmare](https://open.spotify.com/track/5ShO2LoD79ttE0oJnvUpLP) | [JIHYO](https://open.spotify.com/artist/1zcc28bsNibNIyv06jey0S) | [ZONE](https://open.spotify.com/album/4g2dB5xOOVWWyYpaPn77pZ) | 3:35 |
+| 17 | [Nightmare](https://open.spotify.com/track/5ShO2LoD79ttE0oJnvUpLP) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/4g2dB5xOOVWWyYpaPn77pZ) | 3:35 |
 | 18 | [Wherever you are](https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:55 |
 | 19 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 |
 | 20 | [I GOT YOU](https://open.spotify.com/track/7cl2rrUX3x8GVDF7Du2Bnf) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/3TACk4OfT9qMdrmqGa23pl) | 2:53 |

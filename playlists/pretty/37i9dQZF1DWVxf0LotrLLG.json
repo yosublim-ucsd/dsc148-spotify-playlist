@@ -1,15 +1,179 @@
 {
-  "description": "Descubre los nuevos \u00e1lbumes del 2025. Hit shuffle for a mixed listening experience. Cover: Pedro Cap\u00f3",
-  "num_followers": 37008,
+  "description": "Descubre los nuevos \u00e1lbumes del 2025. Hit shuffle for a mixed listening experience. Cover: Neton Vega",
+  "num_followers": 37016,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6Y+bgAAAAAQdd1ZHXiffPef3MyE2FN9",
+  "snapshot_id": "Z6+VMgAAAAAS850c6RRytkoLGDEy1bDg",
   "tracks": [
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 218294,
+      "name": "Cuando Me Ocupes",
+      "url": "https://open.spotify.com/track/6QvHiOp35ylHrYGy2ohuBg"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Me Ha Costado",
+      "url": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "ya no me llames",
+      "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "ULTRA SODADE",
+      "url": "https://open.spotify.com/track/7fI90i3GkAH9UhXM4BxDEq"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "siento tanto aqu\u00ed",
+      "url": "https://open.spotify.com/track/0LNOHvw4NkIXn5jkg9zUkS"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/2K41UHPju1j3EWmoePHt4S"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 185374,
+      "name": "Borr\u00f3n y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/2s4qBR3yaAvuVSTRR23wzS"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/2K41UHPju1j3EWmoePHt4S"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "De Trago en Trago",
+      "url": "https://open.spotify.com/track/47I5M3OxBFoz6RNRWmnPsJ"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/2K41UHPju1j3EWmoePHt4S"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 216576,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/3CtOjwrdHCSxrXRORwTqyE"
+    },
+    {
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Natti Natasha en Amargue",
         "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
@@ -25,7 +189,7 @@
       "url": "https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Natti Natasha en Amargue",
         "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
@@ -45,7 +209,7 @@
       "url": "https://open.spotify.com/track/0099ZFXDXNi4DuRhoOiEaV"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Natti Natasha en Amargue",
         "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
@@ -61,7 +225,7 @@
       "url": "https://open.spotify.com/track/4htzIe7Oyoc9md1fWaVL30"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Un Bendito D\u00eda",
         "url": "https://open.spotify.com/album/6tYRIeNLlDe8MxrU0rl48o"
@@ -81,7 +245,7 @@
       "url": "https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
@@ -97,7 +261,7 @@
       "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
@@ -117,7 +281,7 @@
       "url": "https://open.spotify.com/track/48zbSViwZYXbXcEZqVRyGx"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Fotograf\u00edas",
         "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
@@ -137,7 +301,7 @@
       "url": "https://open.spotify.com/track/488ebozC7zLK9syFesprpO"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Fotograf\u00edas",
         "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
@@ -157,7 +321,7 @@
       "url": "https://open.spotify.com/track/0Flcvu0k8OkfVFlgwebzLb"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Fotograf\u00edas",
         "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
@@ -177,7 +341,7 @@
       "url": "https://open.spotify.com/track/60Kuul4b5eFHIhswJ5YcWW"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "FUTURALGIA",
         "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
@@ -193,7 +357,7 @@
       "url": "https://open.spotify.com/track/7CPZ6ym5Fr0cSXa8tz2p0C"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "FUTURALGIA",
         "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
@@ -209,7 +373,7 @@
       "url": "https://open.spotify.com/track/4VVyjEkjFcHUQEQSIP6eH4"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "FUTURALGIA",
         "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
@@ -225,7 +389,7 @@
       "url": "https://open.spotify.com/track/0uRemIrTqUfduLKfHxxzcr"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID"
@@ -241,7 +405,7 @@
       "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
@@ -257,7 +421,7 @@
       "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
@@ -273,7 +437,7 @@
       "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -289,7 +453,7 @@
       "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -305,7 +469,7 @@
       "url": "https://open.spotify.com/track/1IwMWBD9BBE4QUReJZlXo7"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -321,7 +485,7 @@
       "url": "https://open.spotify.com/track/148wN6BPI1KtmuqQqatet6"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -337,7 +501,7 @@
       "url": "https://open.spotify.com/track/3mEHrF2D2WUKwGlZZpyM0r"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -353,7 +517,7 @@
       "url": "https://open.spotify.com/track/3IYRwXvdnwxAuMA2x1Tbrg"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -369,7 +533,7 @@
       "url": "https://open.spotify.com/track/7utB3VcCmMddJFdJbbXi1P"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -385,7 +549,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -401,7 +565,7 @@
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -417,7 +581,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -433,7 +597,7 @@
       "url": "https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -449,7 +613,7 @@
       "url": "https://open.spotify.com/track/4Mo8HR9xoVDPuNXO8b6ICS"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -465,7 +629,7 @@
       "url": "https://open.spotify.com/track/0P6cpsCHovH3ATZM7re7yY"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -485,7 +649,7 @@
       "url": "https://open.spotify.com/track/4WlJ7BuGVLrx6ekP5RpDUd"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -505,7 +669,7 @@
       "url": "https://open.spotify.com/track/20AO2WwNDOcOfa0FrQmRKV"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -525,7 +689,7 @@
       "url": "https://open.spotify.com/track/3INmM0AM2XyIdK6G77ZISz"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"
@@ -541,7 +705,7 @@
       "url": "https://open.spotify.com/track/6CMVbqVZ66SXPXsD3NzGuw"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"
@@ -561,7 +725,7 @@
       "url": "https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh"
     },
     {
-      "added_at": "2025-02-07 17:10:06",
+      "added_at": "2025-02-14 19:10:42",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"

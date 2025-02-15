@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 538 songs - 1 day 12 hr 19 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 540 songs - 1 day 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -546,5 +546,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 536 | [All I Bring You Is Love](https://open.spotify.com/track/4OBUa5G0HXsrCiVnPv5deX) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 2:41 |
 | 537 | [Miwok Shapes](https://open.spotify.com/track/24ov0ue42XN3uTSM1A17N8) | [Brightblack Morning Light](https://open.spotify.com/artist/3hXQmVUYo3Mppb16f8wFOx) | [Brightblack Morning Light](https://open.spotify.com/album/3fvHRuZ4yIGdpUjL7nJDvH) | 5:49 |
 | 538 | [Diamond Day](https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 1:47 |
+| 539 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 |
+| 540 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 |
 
-Snapshot ID: `AAAG8ub4HssHl8M5oQD4nW2vMQwtyo2s`
+Snapshot ID: `AAAG9Dm+xTbuj9idRjqxUZHHKLwqz0gx`

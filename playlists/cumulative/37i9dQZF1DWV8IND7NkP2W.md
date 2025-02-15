@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-783 songs - 1 day 11 hr 21 min
+784 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Consciousness \- Instrumental](https://open.spotify.com/track/3DTrG2Jw4UhKUwGNH5mfZn) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Consciousness \(Instrumental\)](https://open.spotify.com/album/2iCaKInX41qUE9dvpNDhzE) | 1:43 | 2021-12-23 | 2022-06-14 |
 | [Coquettish Definition](https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Coquettish Definition](https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj) | 3:13 | 2024-07-04 |  |
 | [Cotton Candy](https://open.spotify.com/track/5w7XacxJ4965FbRgydbz1E) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#2](https://open.spotify.com/album/0q6V3w8SbFmH9XeLAjTyxT) | 1:48 | 2021-12-23 | 2022-07-13 |
+| [Country Wind](https://open.spotify.com/track/2zAHbwSlJIhAaxjvPSVGSo) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Country Wind](https://open.spotify.com/album/7wSqRMRtJSXsuoFWg6xRYB) | 2:20 | 2025-02-09 |  |
 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 | 2024-11-30 |  |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2022-01-13 | 2025-01-21 |
 | [Cream Brule](https://open.spotify.com/track/1qjGH6vFN04hVzwBEy1880) | [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Hot Pants](https://open.spotify.com/album/56iNspJ3bN66WkfpjOGF5v) | 3:54 | 2022-03-17 | 2022-06-22 |
@@ -672,7 +673,7 @@
 | [SUNSHOWER](https://open.spotify.com/track/7pxmMC52tSut9LTW8LsqpC) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/2liA4g5iYVrqwoQ26Sj3Fr) | 2:41 | 2024-04-12 | 2024-09-06 |
 | [sweet smoke](https://open.spotify.com/track/444O4OVp9DSfS5PwzOeueM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [SWEET SMOKE](https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97) | 1:54 | 2021-12-23 | 2022-01-10 |
 | [Sweet Spare](https://open.spotify.com/track/16os4JPoRQcwdzIKo9pdHo) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Sweet Spare](https://open.spotify.com/album/6fOmtJfu7XciZl8g2SRSJi) | 3:16 | 2021-12-23 | 2022-07-16 |
-| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |
+| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 | 2025-02-15 |
 | [SXL](https://open.spotify.com/track/18sl3aS5bDBG0yBOD1G9pD) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [THE MOTEL](https://open.spotify.com/album/3Mm4nwyzBqUUXGJrIqzDFF) | 2:49 | 2022-01-06 | 2022-07-27 |
 | [Synchronizing](https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Synchronizing](https://open.spotify.com/album/5XguhI1DdLE0q48X8e24uU) | 2:47 | 2022-01-13 | 2022-05-04 |
 | [Talking to myself](https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Talking to myself](https://open.spotify.com/album/6sRCDTfsRwOsQpb6Aj1HOu) | 2:14 | 2023-12-07 |  |

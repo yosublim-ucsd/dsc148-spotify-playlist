@@ -6,7 +6,7 @@
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "AAAgGe1NJw/jMgEfmUcyKaYu7A/yXFpu",
+  "snapshot_id": "AAAgGpIcxer4sz+SlHKK0r0bts7Mh6MU",
   "tracks": [
     {
       "added_at": "2024-08-07 20:12:45",
@@ -611,6 +611,26 @@
       "duration_ms": 316365,
       "name": "Yes and Amen (Hallelujah)",
       "url": "https://open.spotify.com/track/1GwTkgtlPo92ZD2phuM7aS"
+    },
+    {
+      "added_at": "2025-02-14 06:46:11",
+      "album": {
+        "name": "The Lamb Slain (Live)",
+        "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+        }
+      ],
+      "duration_ms": 449474,
+      "name": "The Lamb Slain - Live",
+      "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
     },
     {
       "added_at": "2025-02-07 18:45:43",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Naza et Leto",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Angelcy et Tonton Jungeli",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176901,
       "name": "Baby mama",
       "url": "https://open.spotify.com/track/1UcmxzS6KR1L1RE3AZAjJP"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170467,
       "name": "Bleu",
       "url": "https://open.spotify.com/track/3r2j3wDCgyRjBI6qfwnStz"
@@ -1562,6 +1562,24 @@
       "duration_ms": 245713,
       "name": "B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX"
+    },
+    {
+      "album": {
+        "name": "B\u00e9b\u00e9 \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NeXUvrureLMwbaZCz8ckF"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "B\u00e9b\u00e9 \u00e0 moi",
+      "url": "https://open.spotify.com/track/3gLPLk6G3Rl4jP3qWWPyBw"
     },
     {
       "album": {
@@ -2713,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Dark and lovelee vol 1",
+        "url": "https://open.spotify.com/album/4AeAwcSkCLGsg9txj9Ovnb"
+      },
+      "artists": [
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/7KJy9iqbUNj0xqHcsZSnbN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "Dot",
+      "url": "https://open.spotify.com/track/5eJ099WreLWjtyBUaf6vl4"
+    },
+    {
+      "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4"
       },
@@ -3020,7 +3056,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 99840,
       "name": "Elle est belle",
       "url": "https://open.spotify.com/track/74f8jlTIEnXQIAb65eFfKI"
@@ -3158,6 +3194,32 @@
       "duration_ms": 183939,
       "name": "Et si\u2026",
       "url": "https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/60OPQRWInY5VulEy78o3rk"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "Gafacci",
+          "url": "https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T"
     },
     {
       "album": {
@@ -3310,7 +3372,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 195646,
       "name": "Fils de Kor\u00e9, Vol. 4: Rebranding",
       "url": "https://open.spotify.com/track/3jz3qXPGQBIaaMUPJT1sZW"
@@ -5420,6 +5482,32 @@
       "duration_ms": 129410,
       "name": "Loin de toi",
       "url": "https://open.spotify.com/track/4Wu2I5bG74sgqFhGhEQ6En"
+    },
+    {
+      "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/1zU9C357yzVYYO2fQVYnw1"
+      },
+      "artists": [
+        {
+          "name": "DJ Oxii Supreme",
+          "url": "https://open.spotify.com/artist/4JDi4kQ0P3pyEd5NZYPZSd"
+        },
+        {
+          "name": "Mac Gayver",
+          "url": "https://open.spotify.com/artist/5zF9BpZD1CPtQmqrC1VbeC"
+        },
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/0x1ZfCbKaKfFzx7ccqVvjQ"
     },
     {
       "album": {
@@ -7915,6 +8003,28 @@
     },
     {
       "album": {
+        "name": "Pas de Ralentir",
+        "url": "https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv"
+      },
+      "artists": [
+        {
+          "name": "Angelcy",
+          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154867,
+      "name": "Pas de Ralentir",
+      "url": "https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF"
+    },
+    {
+      "album": {
         "name": "Pays de merveilles",
         "url": "https://open.spotify.com/album/4QuGEJxOOYCbvj3S5cR5up"
       },
@@ -8748,7 +8858,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172346,
       "name": "SAN GOKU",
       "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
@@ -8876,6 +8986,24 @@
       "duration_ms": 143186,
       "name": "Sensibility",
       "url": "https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx"
+    },
+    {
+      "album": {
+        "name": "SHAOLIN",
+        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124705,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
     },
     {
       "album": {
@@ -9572,6 +9700,24 @@
       "duration_ms": 161454,
       "name": "Tlb",
       "url": "https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW"
+    },
+    {
+      "album": {
+        "name": "To Boyana Te",
+        "url": "https://open.spotify.com/album/1WXqkevNgm59O5ibEt0Fbs"
+      },
+      "artists": [
+        {
+          "name": "Djay Nova",
+          "url": "https://open.spotify.com/artist/6pebc0EIzPRV5vNU3mle0d"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150935,
+      "name": "To Boyana Te",
+      "url": "https://open.spotify.com/track/6SZYvn00UmT5JDGoH4xKW9"
     },
     {
       "album": {
@@ -10350,7 +10496,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 187066,
       "name": "We Like",
       "url": "https://open.spotify.com/track/52j4ZPqoJCQaq4LlTrRUL7"

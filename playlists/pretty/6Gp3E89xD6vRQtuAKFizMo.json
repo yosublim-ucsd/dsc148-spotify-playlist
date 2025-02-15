@@ -1,13 +1,77 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44198,
+  "num_followers": 44197,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ3HtB7C/pWvdBAplxVtK5VPXqQgxG",
+  "snapshot_id": "AAAZ39RkqZ17X4yMvAFLKn9xVVXDEA9w",
   "tracks": [
+    {
+      "added_at": "2025-02-14 15:36:35",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc"
+    },
+    {
+      "added_at": "2025-02-14 15:36:56",
+      "album": {
+        "name": "Waste Time",
+        "url": "https://open.spotify.com/album/1EgKGOmyAxHtk7ZQE0CKeD"
+      },
+      "artists": [
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "ALAN SHIRAHAMA",
+          "url": "https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Waste Time",
+      "url": "https://open.spotify.com/track/3esfV6Z7oYSaxRvGQKvKr3"
+    },
+    {
+      "added_at": "2025-02-14 15:37:11",
+      "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/5fH3ckeq2l9jpIMfYuxLGy"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "GLASHER",
+          "url": "https://open.spotify.com/artist/1RXHL363ZDGQRb5tHN54ea"
+        },
+        {
+          "name": "ATLVS",
+          "url": "https://open.spotify.com/artist/5L1ET03DgLi0ThFPqhecuI"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/1XdoWRY8cNPncnFA6Vfufj"
+    },
     {
       "added_at": "2025-02-07 16:35:39",
       "album": {

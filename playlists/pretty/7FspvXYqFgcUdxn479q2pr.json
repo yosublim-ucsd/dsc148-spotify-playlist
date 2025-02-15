@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: LAWRENT, Thierry Von Der Warth",
-  "num_followers": 32505,
+  "num_followers": 32501,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAr8xg0zffoQoVQZNU9Mv1ujjd3INIG",
+  "snapshot_id": "AAAr9ip6Xx/MlcE8fvEpnbKF+2SsTUJR",
   "tracks": [
     {
       "added_at": "2025-02-13 13:36:11",
@@ -207,6 +207,30 @@
       "duration_ms": 185454,
       "name": "Riff (BLR Remix)",
       "url": "https://open.spotify.com/track/5LRYAGYdldhP2bDNuO6GWb"
+    },
+    {
+      "added_at": "2025-02-14 13:50:24",
+      "album": {
+        "name": "Mr. Lie To Me",
+        "url": "https://open.spotify.com/album/5IgB9qnMCiMiCNq1I9bPBA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        },
+        {
+          "name": "EYLR",
+          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Mr. Lie To Me",
+      "url": "https://open.spotify.com/track/0dzXmgGeT8SvjTNYZLzU9A"
     },
     {
       "added_at": "2025-02-05 15:11:44",

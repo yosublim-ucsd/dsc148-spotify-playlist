@@ -1,13 +1,29 @@
 {
   "description": "Music from shows and movies you love including Paradise, now streaming on Hulu.",
-  "num_followers": 216891,
+  "num_followers": 216865,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY/gAAAAC/wlmwptl+jc+NJoRmH2wT",
+  "snapshot_id": "Z67N+AAAAACU07Bth4tDlCphng6+ON5m",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:40",
+      "album": {
+        "name": "Take Me To the River (From \"The Honorable Shyne\")",
+        "url": "https://open.spotify.com/album/0lEse0nmv0iUTIqkzTP1Vj"
+      },
+      "artists": [
+        {
+          "name": "Vincent Berry II",
+          "url": "https://open.spotify.com/artist/5eIzOrTBeY9Lm6cSF5Q7rS"
+        }
+      ],
+      "duration_ms": 237391,
+      "name": "Take Me To The River - From \"The Honorable Shyne\"",
+      "url": "https://open.spotify.com/track/2pBrlTcR9WWlqJNCwLrYNv"
+    },
     {
       "added_at": "2025-01-31 05:00:46",
       "album": {

@@ -2983,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/1ByWdJ5vknzNoOPT5RR4pt"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/5bocGWPWTmgtGmRyaO6Mf5"
+    },
+    {
+      "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },

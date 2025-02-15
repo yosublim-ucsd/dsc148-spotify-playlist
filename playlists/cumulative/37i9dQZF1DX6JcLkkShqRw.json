@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Ponte Perro y MC P\u00e2nico.",
+  "description": "Flow sudamericano con mhtresuno.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
@@ -8430,7 +8430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 198300,
       "name": "Deja Enamorarte",
       "url": "https://open.spotify.com/track/1YTC2D8ePGFYoptUJbCw02"
@@ -9032,6 +9032,32 @@
       "duration_ms": 180173,
       "name": "Dime D\u00f3nde",
       "url": "https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb"
+    },
+    {
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/2wfIWtC9MXcERYFoEDinAX"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "VAINY",
+          "url": "https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/6hL7YNvfPF3SgeTaa77Lh9"
     },
     {
       "album": {
@@ -10991,6 +11017,28 @@
     },
     {
       "album": {
+        "name": "esecielo",
+        "url": "https://open.spotify.com/album/7rfXJaULhOcXSL7wWuJvJZ"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204112,
+      "name": "esecielo",
+      "url": "https://open.spotify.com/track/13X8NqXuQBor06SOKL9Ceq"
+    },
+    {
+      "album": {
         "name": "ESPECIAL Y PELIGROSA",
         "url": "https://open.spotify.com/album/2aFzYal3XMAwjnKqwL1YVq"
       },
@@ -11388,6 +11436,32 @@
       "duration_ms": 122040,
       "name": "Factos",
       "url": "https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu"
+    },
+    {
+      "album": {
+        "name": "FALA CONMIGO",
+        "url": "https://open.spotify.com/album/1bUR5hnSvTRJjuRVN8kKka"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "FALA CONMIGO",
+      "url": "https://open.spotify.com/track/2oRtw6ckT99Xz0osS4MTm8"
     },
     {
       "album": {
@@ -20435,6 +20509,28 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4cdWiUWvifvjtk815AdeeC"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/28OfSv8cA8NKOf5K7vVWGC"
+    },
+    {
+      "album": {
         "name": "Money (Remix)",
         "url": "https://open.spotify.com/album/6Msv3Ngnn98TfQ7AglmDr9"
       },
@@ -22281,6 +22377,28 @@
     },
     {
       "album": {
+        "name": "no pas\u00f3 nada",
+        "url": "https://open.spotify.com/album/6LTnEbXqNcXCrcJISho7JX"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "no pas\u00f3 nada",
+      "url": "https://open.spotify.com/track/1dc4M80yqQzbnbCgVoMTOL"
+    },
+    {
+      "album": {
         "name": "Mal Augurio - Live Sessions",
         "url": "https://open.spotify.com/album/2UidJnItMPq7TK05PFf3xo"
       },
@@ -23398,7 +23516,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 123692,
       "name": "ORGULLO",
       "url": "https://open.spotify.com/track/5z7by2aX9wuqFfmxr0shY4"
@@ -25533,6 +25651,28 @@
     },
     {
       "album": {
+        "name": "PONTE LOKITA",
+        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "PONTE LOKITA",
+      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
+    },
+    {
+      "album": {
         "name": "POPPER!",
         "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
       },
@@ -26390,7 +26530,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 169011,
       "name": "Que Hay Amor",
       "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
@@ -27484,7 +27624,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185883,
       "name": "RIMINI",
       "url": "https://open.spotify.com/track/1qpIm96qflilx8XUqAoqJX"
@@ -29838,7 +29978,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176322,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh"

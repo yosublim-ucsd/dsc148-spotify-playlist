@@ -4,7 +4,7 @@
 
 > Music for your soul\. Cover: Melanie Fiona
 
-1,464 songs - 3 day 13 hr 57 min
+1,465 songs - 3 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Everyday](https://open.spotify.com/track/3L5ydrxydNmocXTe2b6vqN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [The Galactic Suite](https://open.spotify.com/artist/1OwOSAbhITEJVsbOM5MZBB) | [Everyday](https://open.spotify.com/album/1rKA0FUSNHtPPjAEG6hpcV) | 2:45 | 2020-03-13 | 2020-05-01 |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2020-10-09 | 2023-06-25 |
 | [Everything Is Connected](https://open.spotify.com/track/4DoPUruUNmcg5RudmAhMWq) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Everything Is Connected](https://open.spotify.com/album/5j4lfSYgEI3EYYMejJNhec) | 3:39 | 2020-07-18 | 2021-06-23 |
+| [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-14 |  |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 | 2024-03-30 |
 | [Exaltation](https://open.spotify.com/track/164sawkuDE0OKLANV95jnk) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Exaltation](https://open.spotify.com/album/09smMenyIKKI94lH9ccTGG) | 4:24 | 2022-07-29 | 2022-08-06 |
 | [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 | 2023-03-03 | 2025-01-04 |
@@ -689,7 +690,7 @@
 | [JAI'S SONG \(FALLING\) \- PT\. 2](https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [JAI'S SONG \(FALLING\) \[PT\. 2\]](https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw) | 3:10 | 2025-01-17 |  |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-10 | 2023-12-09 |
 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2019-10-03 | 2020-02-20 |
-| [je t'aime](https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [je t'aime](https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I) | 4:14 | 2024-11-22 |  |
+| [je t'aime](https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [je t'aime](https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I) | 4:14 | 2024-11-22 | 2025-02-15 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2024-06-01 |
 | [Jonesin'](https://open.spotify.com/track/5QFSVxgAbaCJFoKMmtfcdK) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Love Had Other Plans](https://open.spotify.com/album/2uegzhhmxCYMIdWKL1FyYr) | 3:34 | 2023-09-22 | 2023-10-20 |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-08 | 2025-02-08 |

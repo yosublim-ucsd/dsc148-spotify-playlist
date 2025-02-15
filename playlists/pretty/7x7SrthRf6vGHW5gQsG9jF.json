@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAExS233XRbpgI8epPFwL6pDJjGppR8",
+  "snapshot_id": "AAAEx472L0JWBCMr3mvqx85C96TW916y",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -13615,6 +13615,38 @@
       "duration_ms": 208437,
       "name": "Another Ride",
       "url": "https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0"
+    },
+    {
+      "added_at": "2025-02-14 16:27:12",
+      "album": {
+        "name": "\u672c\u5f53\u3060\u3088",
+        "url": "https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30c4\u30ce\u30bb",
+          "url": "https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "\u672c\u5f53\u3060\u3088",
+      "url": "https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn"
+    },
+    {
+      "added_at": "2025-02-14 16:27:19",
+      "album": {
+        "name": "Kimitoodoretara",
+        "url": "https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3"
+      },
+      "artists": [
+        {
+          "name": "Natsunose",
+          "url": "https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Kimitoodoretara",
+      "url": "https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07"
     }
   ],
   "unique_name": "japan",

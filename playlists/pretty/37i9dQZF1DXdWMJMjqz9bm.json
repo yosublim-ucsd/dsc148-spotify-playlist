@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: iann dior",
-  "num_followers": 218824,
+  "num_followers": 218829,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5PtwAAAAADVtpei1J9NWz1YlXBRR6rb",
+  "snapshot_id": "Z67N5wAAAADgo25Hn9lvIK9qJQIr/ksW",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 151698,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
+    },
+    {
+      "added_at": "2025-01-07 17:42:12",
+      "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Growin' Pains",
+        "url": "https://open.spotify.com/album/2dKseigpdWCvE4w9aOFy9k"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Growin' Pains",
+      "url": "https://open.spotify.com/track/7wizv7glIk0wztNfINHFKN"
     },
     {
       "added_at": "2025-01-24 19:45:04",
@@ -43,22 +75,6 @@
       "duration_ms": 157386,
       "name": "Love On The Brain (feat. Hunxho)",
       "url": "https://open.spotify.com/track/45QkbTDuk2TfCXb2Nu7j4F"
-    },
-    {
-      "added_at": "2025-01-07 17:42:12",
-      "album": {
-        "name": "two",
-        "url": "https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 135212,
-      "name": "two",
-      "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
     },
     {
       "added_at": "2024-11-25 21:22:11",
@@ -759,22 +775,6 @@
       "duration_ms": 189850,
       "name": "D.I.Y.A. (Die In Your Arms)",
       "url": "https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx"
-    },
-    {
-      "added_at": "2024-05-31 16:56:00",
-      "album": {
-        "name": "old change",
-        "url": "https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23"
-      },
-      "artists": [
-        {
-          "name": "Drod",
-          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
-        }
-      ],
-      "duration_ms": 114062,
-      "name": "old change",
-      "url": "https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC"
     }
   ],
   "unique_name": "Varsity Bars",

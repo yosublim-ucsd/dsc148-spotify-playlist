@@ -4944,7 +4944,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 121346,
       "name": "Carnival Attraction",
       "url": "https://open.spotify.com/track/5iEYjZVIVhqTyuAsvQTTw5"
@@ -9176,6 +9176,24 @@
       "duration_ms": 134117,
       "name": "dripp",
       "url": "https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x"
+    },
+    {
+      "album": {
+        "name": "Drizzle",
+        "url": "https://open.spotify.com/album/64maOckWHM1t0ofXunnq8o"
+      },
+      "artists": [
+        {
+          "name": "silkw\u00fcrm",
+          "url": "https://open.spotify.com/artist/1TkPBaPShLazfcQ6NpRolZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98500,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/4PZ8Fe2fuS7MDn8f8ggnSC"
     },
     {
       "album": {
@@ -23081,6 +23099,24 @@
     },
     {
       "album": {
+        "name": "no one wants to be anywhere",
+        "url": "https://open.spotify.com/album/6d5z7uUY66vgZeJDNWDgSg"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "no one wants to be anywhere",
+      "url": "https://open.spotify.com/track/7xx8SGRoC9WARNKJES5y9p"
+    },
+    {
+      "album": {
         "name": "no stress",
         "url": "https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy"
       },
@@ -26218,10 +26254,28 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 158400,
       "name": "Relaxing",
       "url": "https://open.spotify.com/track/5qPvE1xDoOOHvY2W7Jc37b"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/4FoDeZYAsH3M3fYrBaUZEg"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/2T8gkJx3zIZtFgFURxP6mM"
     },
     {
       "album": {
@@ -34855,6 +34909,28 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/5ljy8H5dVAV5dr8xqywdR0"
+      },
+      "artists": [
+        {
+          "name": "Bomshi",
+          "url": "https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz"
+        },
+        {
+          "name": "minimog",
+          "url": "https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7nq7xsWZMgF6LicP1I7JaA"
+    },
+    {
+      "album": {
         "name": "Vortex.",
         "url": "https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC"
       },
@@ -34968,6 +35044,28 @@
       "duration_ms": 129972,
       "name": "Wait For Spring",
       "url": "https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4"
+    },
+    {
+      "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/300zBueGT6dLWWsDBeHSfq"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "waiting",
+      "url": "https://open.spotify.com/track/1sVK0sqiifsa3nwqai6crK"
     },
     {
       "album": {

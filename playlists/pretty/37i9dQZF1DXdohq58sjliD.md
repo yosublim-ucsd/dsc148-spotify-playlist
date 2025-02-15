@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 
 > Twenty years\. Two people\. Listen to the music from and inspired by One Day, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,894 likes - 82 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,016 likes - 82 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 | 55 | [Trash](https://open.spotify.com/track/4U9HRJbLN9xRb7yDMmePDE) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Nowhere](https://open.spotify.com/album/27TU0IkUDoGpeg2UJ0HC8M) | 4:18 |
 | 56 | [She Bangs the Drums \- Demo Remastered](https://open.spotify.com/track/6LxrH32gVsa254jEaDYHjb) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses \(20th Anniversary Collector's Edition\)](https://open.spotify.com/album/2hPgN0wHJ3efQg3DwaLIvW) | 3:46 |
 | 57 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
-| 58 | [Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo) | [The Kinks](https://open.spotify.com/artist/3zKkJx18LPzLA8nJrBCARy) | [Something Else \(Deluxe\)](https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2) | 3:14 |
+| 58 | [Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2) | 3:14 |
 | 59 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
 | 60 | [Obsolète](https://open.spotify.com/track/0vbxOnEj10QBsFswwU4Hsv) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Prose combat](https://open.spotify.com/album/55R0qA8SLVcw1DuMdbk887) | 3:04 |
 | 61 | [The Shining](https://open.spotify.com/track/1pMWbHe7Pw44ZKB4j1OiDT) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [The Hour of Bewilderbeast](https://open.spotify.com/album/7y0QwysyQgSf9fyBFr6Q3x) | 5:18 |

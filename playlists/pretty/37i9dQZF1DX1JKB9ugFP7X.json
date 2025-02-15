@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24439,
+  "num_followers": 24446,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
+        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
+      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Voces",
         "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
-        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
-      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Gritan Fuerte",
-        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Gritan Fuerte",
-      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Nft",
         "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
       },
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/0CwUm54LvUnYb2KkrxMSVL"
-      },
-      "artists": [
-        {
-          "name": "Fus Delei",
-          "url": "https://open.spotify.com/artist/3nkqXk8ivCGLRGsu9keagT"
-        }
-      ],
-      "duration_ms": 212005,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/3qp9oL275yUDXliFjj3GnZ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Nada que ver",
         "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 193971,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/0CwUm54LvUnYb2KkrxMSVL"
+      },
+      "artists": [
+        {
+          "name": "Fus Delei",
+          "url": "https://open.spotify.com/artist/3nkqXk8ivCGLRGsu9keagT"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/3qp9oL275yUDXliFjj3GnZ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Gritan Fuerte",
+        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Gritan Fuerte",
+      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Bum (Chocamos un Auto)",
         "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Palabras al Viento",
-        "url": "https://open.spotify.com/album/0xugnChzVurySnB23bgA7M"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Palabras al Viento",
-      "url": "https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Bailando a la Deriva",
         "url": "https://open.spotify.com/album/6S0unNiOLMpwGjhY50FEvf"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "SUBTE L\u00cdNEA B REWORK",
-        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
+        "name": "Palabras al Viento",
+        "url": "https://open.spotify.com/album/0xugnChzVurySnB23bgA7M"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 243260,
-      "name": "SUBTE L\u00cdNEA B REWORK",
-      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
+      "duration_ms": 215250,
+      "name": "Palabras al Viento",
+      "url": "https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1303,18 +1283,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
+        "name": "SUBTE L\u00cdNEA B REWORK",
+        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
       },
       "artists": [
         {
-          "name": "Ignacio Redard",
-          "url": "https://open.spotify.com/artist/3rL83sO0ilg7wmUY67IJqm"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Sangrando",
-      "url": "https://open.spotify.com/track/69kwNuRFKpNN2dUWgjyCfw"
+      "duration_ms": 243260,
+      "name": "SUBTE L\u00cdNEA B REWORK",
+      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 242622,
       "name": "Reprimiendo",
       "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Redard",
+          "url": "https://open.spotify.com/artist/3rL83sO0ilg7wmUY67IJqm"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Sangrando",
+      "url": "https://open.spotify.com/track/69kwNuRFKpNN2dUWgjyCfw"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
       },
@@ -1447,22 +1431,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
       },
       "artists": [
         {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1483,6 +1463,26 @@
       "duration_ms": 213652,
       "name": "Quemo la Estrella",
       "url": "https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2024-11-15 03:00:00",

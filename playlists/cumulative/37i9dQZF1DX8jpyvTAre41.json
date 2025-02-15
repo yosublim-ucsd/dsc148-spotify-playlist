@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Bring Me The Horizon",
+  "description": "The best rock songs of the moment. Cover: Amira Elfeky",
   "name": "Rock Now",
   "tracks": [
     {
@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "America\u2019s Favourite Pastime",
+        "url": "https://open.spotify.com/album/5xgBdV2KdzX0UoY9b3MbU7"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206378,
+      "name": "America's Favourite Pastime",
+      "url": "https://open.spotify.com/track/5hzCMXn0GW7aJs3PtUnItp"
+    },
+    {
+      "album": {
         "name": "American Dreams",
         "url": "https://open.spotify.com/album/4FOpHbhqpa6fLkwWbVL2bb"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183480,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX"
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192706,
       "name": "Can't Say No",
       "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192547,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4iwIrQV8bIMgTIj3c8HT0h"
@@ -6149,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD"
+      },
+      "artists": [
+        {
+          "name": "Preoccupations",
+          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN"
+    },
+    {
+      "album": {
         "name": "The Science & Artfunkel Victory Lap",
         "url": "https://open.spotify.com/album/4mZV4y7gXrpL6jzR7F9KD2"
       },
@@ -6514,6 +6550,24 @@
       "duration_ms": 236257,
       "name": "Fugitive Summer",
       "url": "https://open.spotify.com/track/2q0iZAzSEPeD0YghkHYrdu"
+    },
+    {
+      "album": {
+        "name": "Funny Face",
+        "url": "https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167904,
+      "name": "Funny Face",
+      "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
     },
     {
       "album": {
@@ -7383,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "Hey Man",
+        "url": "https://open.spotify.com/album/1coPwkmiKGhsrhVvArAiw9"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180580,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/4Eop9TbHlOpA6eWjZrLjrJ"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
       },
@@ -8079,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Oh! The Ocean",
+        "url": "https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "I Love America And She Hates Me",
+      "url": "https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -8754,7 +8844,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154879,
       "name": "Just 1 Thing (feat. Ezra)",
       "url": "https://open.spotify.com/track/2iwoRuJHlcSj1RP9vkScDV"
@@ -9476,7 +9566,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 214466,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/5UMDe0VgyOtT6goWUht88Y"
@@ -10460,7 +10550,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 241290,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF"
@@ -10713,6 +10803,24 @@
     },
     {
       "album": {
+        "name": "Mean Time",
+        "url": "https://open.spotify.com/album/7aQMvWlnNRaCPGgtC89hlx"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Mean Time",
+      "url": "https://open.spotify.com/track/2m4GChgSNqY5XASpIt9oT1"
+    },
+    {
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA"
       },
@@ -10922,7 +11030,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 136733,
       "name": "METHOD ACTING",
       "url": "https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF"
@@ -11912,10 +12020,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 148946,
       "name": "NO",
       "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
+    },
+    {
+      "album": {
+        "name": "OLP 30 Volume 3",
+        "url": "https://open.spotify.com/album/55weykAjbC3Ff1Hjpu0FoY"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "No Angels In This Town",
+      "url": "https://open.spotify.com/track/3qupTJW7N5ngjPt7tlJKb3"
     },
     {
       "album": {
@@ -15774,7 +15900,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180893,
       "name": "Sound The Alarm",
       "url": "https://open.spotify.com/track/5s3bd2OstIJiwvn5EqL5lL"
@@ -17706,7 +17832,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208738,
       "name": "The Traveller",
       "url": "https://open.spotify.com/track/5J7N9FQ67bbo6UhVhwV5rW"
@@ -17955,6 +18081,24 @@
     },
     {
       "album": {
+        "name": "Time Waited",
+        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Time Waited",
+      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
+    },
+    {
+      "album": {
         "name": "Control My Sanity",
         "url": "https://open.spotify.com/album/7HVWMQtV424Ab3b0IBKyda"
       },
@@ -18153,6 +18297,24 @@
     },
     {
       "album": {
+        "name": "Too Soon For Sorry",
+        "url": "https://open.spotify.com/album/445YLXoyg84AZRG27APUt3"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Too Soon For Sorry",
+      "url": "https://open.spotify.com/track/7HNuGGWmVPXfsbgZAQSp0n"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -18186,6 +18348,24 @@
       "duration_ms": 128696,
       "name": "Touch",
       "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
+    },
+    {
+      "album": {
+        "name": "Serene Demon",
+        "url": "https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F"
+      },
+      "artists": [
+        {
+          "name": "Art d'Ecco",
+          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188898,
+      "name": "Tree Of Life",
+      "url": "https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf"
     },
     {
       "album": {

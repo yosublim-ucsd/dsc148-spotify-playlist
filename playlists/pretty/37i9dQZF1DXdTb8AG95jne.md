@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LEENALCHI\(이날치\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> Juju B\. Goode\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,534 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,609 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 |
 | 50 | [Acacia](https://open.spotify.com/track/6yGfsG9w4hOH3mU2CVS6mH) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Guardian](https://open.spotify.com/album/7L9oQ17vTnO8y4ARVSJQog) | 3:54 |
 
-Snapshot ID: `Z6xoPAAAAAALQnsKWUQhTwHqevFz6TRS`
+Snapshot ID: `Z67s5gAAAABb/sr43hExVyOStjtiBFTV`

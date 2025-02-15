@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-756 songs - 1 day 21 hr 2 min
+757 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 | 2021-12-24 | 2024-12-10 |
 | [En Esta Cama](https://open.spotify.com/track/5YdmYqzuE2GzNvDHiENWh6) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [En Esta Cama](https://open.spotify.com/album/6iaaZ2moZ9xhf3Xd2wpZPG) | 3:55 | 2022-06-10 | 2022-07-23 |
 | [En Las Olas](https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:22 | 2021-12-24 | 2024-10-26 |
+| [En peu de pau](https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5) | [Sergi Carbonell](https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [En peu de pau](https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk) | 4:25 | 2025-02-13 |  |
 | [En Veinte Días](https://open.spotify.com/track/6xcv4O4uFHAP01ay3vTSFC) | [Riki Rivera](https://open.spotify.com/artist/56a9ZPfJUNNeHLjmxpqMCU) | [En Veinte Días](https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA) | 2:44 | 2024-05-09 | 2024-07-07 |
 | [En Vez de Huir](https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo N..\. \(83%\)](https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW) | 4:22 | 2024-02-02 | 2024-03-02 |
 | [enero \- desde el taller](https://open.spotify.com/track/2gDMqm7nU7JSUKPz6Qy6mg) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Pato Cepeda](https://open.spotify.com/artist/1PKydOaTMXD8XPd4aFtd8S) | [enero en invierno \- desde el taller](https://open.spotify.com/album/7EskLL9urBXRdKbmI9ly0U) | 3:28 | 2024-08-30 | 2024-10-12 |
@@ -504,7 +505,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
-| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 |  |
+| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 | 2025-02-15 |
 | [Pan de muertos](https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Pan de muertos](https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D) | 3:16 | 2024-11-22 | 2025-02-14 |
 | [papel de fumar](https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [papel de fumar](https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo) | 3:39 | 2024-03-08 | 2024-04-20 |
 | [Para adelante](https://open.spotify.com/track/5e7gh9uiFIgahfcf8CyXRF) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Para adelante](https://open.spotify.com/album/0lG5a8ExT3lwwF2nww96Nh) | 3:51 | 2023-03-10 | 2023-03-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4919594,
+  "num_followers": 4919896,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6qTAAAAAAATnpIrVeqvleFty440JSP+",
+  "snapshot_id": "Z6vkgAAAAABUcdipWwmN42hR3hZCb5Iw",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face It Alone",
-        "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Face It Alone",
-      "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "News Of The World (2011 Remaster)",
         "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 274226,
       "name": "Spread Your Wings - Remastered 2011",
       "url": "https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 845232,
+  "num_followers": 845313,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Don't You Cry For Me",
-        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Don't You Cry For Me",
-      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Rescue My Heart",
         "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205614,
       "name": "Rescue My Heart",
       "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Don't You Cry For Me",
+        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Don't You Cry For Me",
+      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Washed Away",
         "url": "https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 236364,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "Out in the Storm",
+        "url": "https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Recite Remorse",
+      "url": "https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Out in the Storm",
-        "url": "https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli"
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 278066,
-      "name": "Recite Remorse",
-      "url": "https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW"
+      "duration_ms": 230546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE"
     }
   ],
   "unique_name": "Dark & Stormy",

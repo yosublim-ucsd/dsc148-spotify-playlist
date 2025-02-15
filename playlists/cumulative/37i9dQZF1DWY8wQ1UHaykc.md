@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-196 songs - 13 hr 28 min
+197 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Jodoh Pasti Bertemu](https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:05 | 2024-01-05 |  |
 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 | 2025-01-24 |  |
 | [Kamu](https://open.spotify.com/track/4kMQVpke2L9tlWOINuAo07) | [Coboy Junior](https://open.spotify.com/artist/1fw9jZ1duJbRsYjugzA0TW) | [Coboy Junior](https://open.spotify.com/album/1qc0sadKhvsDc8w9uu7r69) | 3:49 | 2024-01-05 |  |
+| [Kamu Cantik Kamu Baik](https://open.spotify.com/track/2kWUrXLHeamFdMyptcTmlI) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Kamu Cantik Kamu Baik](https://open.spotify.com/album/102OILkr0EXtI1QmDCSi1N) | 4:06 | 2025-02-14 |  |
 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 | 2024-01-05 |  |
 | [Karena Aku Tlah Denganmu \(feat\. Ariel Tatum\)](https://open.spotify.com/track/71OJVBHhKbSTbjcTTv6tIF) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr), [Ariel Tatum](https://open.spotify.com/artist/0dycqOerM3RKuAFLARysza) | [Yang Terbaik](https://open.spotify.com/album/2MFPiwsRfJJ8PG3QnPGdGD) | 3:38 | 2024-11-22 |  |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-05 |  |

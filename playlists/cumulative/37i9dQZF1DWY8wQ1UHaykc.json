@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Kamu Cantik Kamu Baik",
+        "url": "https://open.spotify.com/album/102OILkr0EXtI1QmDCSi1N"
+      },
+      "artists": [
+        {
+          "name": "Lyla",
+          "url": "https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246674,
+      "name": "Kamu Cantik Kamu Baik",
+      "url": "https://open.spotify.com/track/2kWUrXLHeamFdMyptcTmlI"
+    },
+    {
+      "album": {
         "name": "Love, Life & Music",
         "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },

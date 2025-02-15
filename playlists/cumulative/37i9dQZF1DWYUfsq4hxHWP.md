@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Don Louis, Artwork: Fanélie Muselier
 
-2,903 songs - 6 day 13 hr 17 min
+2,905 songs - 6 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1806,6 +1806,7 @@
 | [No Rest](https://open.spotify.com/track/1SEgyRNnDjKiHEjvdOcUCc) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [No Rest](https://open.spotify.com/album/1aS2zpUmoDcmZR8eURAIM6) | 3:03 | 2025-01-15 |  |
 | [No Way Out](https://open.spotify.com/track/5Jqr8PnwFkdfHv5m7YCcxF) | [Preston Duffee](https://open.spotify.com/artist/7gZp6jBVmnRI9CyDYASFgG) | [No Way Out](https://open.spotify.com/album/6uDVItlynP3SzpTLKpdAA2) | 3:23 | 2023-08-17 | 2023-11-09 |
 | [Nobody But You](https://open.spotify.com/track/6hvMgEFB3qvF12lrIL0IV4) | [Brody Clementi](https://open.spotify.com/artist/05l5dPwEMjmn0IcaXTkgzZ) | [Nobody But You](https://open.spotify.com/album/3Jx6Q1gUIcr2kz4OryzSuw) | 2:33 | 2025-01-29 |  |
+| [Nobody I Know](https://open.spotify.com/track/2w32o1DnLn51vVX7KNHnp1) | [Drew Taylor](https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH) | [Nobody I Know](https://open.spotify.com/album/5mBTV2u2aTG99zJybK8O2h) | 3:03 | 2025-02-14 |  |
 | [Nobody Told Me](https://open.spotify.com/track/148u2dw0r2am227Xl70lbp) | [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Nobody Told Me](https://open.spotify.com/album/5MZeNEwS1vXjteJQyflpLv) | 3:29 | 2022-04-13 | 2022-05-26 |
 | [Nobody's Favorite](https://open.spotify.com/track/0ZXIcb8QYrrIYjAfs199RV) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Nobody's Favorite](https://open.spotify.com/album/1mQ02hXSPugJ09lXCIcAf3) | 3:35 | 2024-04-24 | 2024-06-01 |
 | [Nobody's Man](https://open.spotify.com/track/7w5jy2nG4c5usK9Q3OLlHc) | [Heartwreckers](https://open.spotify.com/artist/5tLHZ7VEXOqL26DGh3OC3Z) | [Nobody's Man](https://open.spotify.com/album/3hEDiyU2rJy3MJ3k39YsM0) | 3:02 | 2024-06-05 | 2024-08-22 |
@@ -2204,6 +2205,7 @@
 | [Slow Down Fast](https://open.spotify.com/track/21JY7SzJaraL3XkyaAFqKU) | [Southburn](https://open.spotify.com/artist/56UcHVuitLdXwBIbeHIFMO) | [Slow Down Fast](https://open.spotify.com/album/2CPC1PxOuOWpGTCVNiSceD) | 2:51 | 2022-08-03 | 2022-09-15 |
 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 | 2022-08-10 | 2022-09-22 |
 | [Slow Drawl](https://open.spotify.com/track/5wcNGshAee2se3RfknUaVS) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Slow Drawl](https://open.spotify.com/album/4seMLWv8TgnrJDojx17myV) | 3:24 | 2022-09-02 | 2022-10-13 |
+| [Slow Game](https://open.spotify.com/track/6fe4Edkzn24kUoaKst5j0v) | [Zay Wilson](https://open.spotify.com/artist/18oAmSziX1QQWo6rxEASxv) | [Slow Game](https://open.spotify.com/album/0oBWy0tJDLLi8WWTKfdYc8) | 2:35 | 2025-02-14 |  |
 | [Slow Lane Life](https://open.spotify.com/track/2xaA80MZOD4DE7YUSTwA8u) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Slow Lane Life](https://open.spotify.com/album/2dcsK0TmJnmaLECn2iGZw7) | 2:46 | 2023-07-19 | 2023-09-21 |
 | [Slower Than You Planned](https://open.spotify.com/track/1aqS5mmbYzLKjBAbz7JQ9U) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Slower Than You Planned](https://open.spotify.com/album/0RJoqVjlnBvRapAbOg9ECL) | 3:37 | 2023-07-12 | 2023-08-03 |
 | [Small Talk](https://open.spotify.com/track/3LoAMjPDJoaqd2sXbY0F03) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Small Talk](https://open.spotify.com/album/51pGigXH9txbBPdiVHZ43W) | 3:12 | 2024-07-31 | 2024-09-12 |

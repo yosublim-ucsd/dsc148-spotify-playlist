@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist!
 
-192 songs - 11 hr 26 min
+193 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [House Party](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 4:01 | 2022-03-01 |  |
 | [I Can’t](https://open.spotify.com/track/3PiOKHrhVdy5waPHcIbsz2) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 3:53 | 2022-03-01 |  |
 | [I do 두 번째 고백](https://open.spotify.com/track/1BYifTbikas6Q9oCmrpdlL) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:31 | 2022-03-01 |  |
+| [I Pray 4 U](https://open.spotify.com/track/3wNqiyTdaeOqt7Gq6d3eRc) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 3:23 | 2025-02-14 |  |
 | [I Think I](https://open.spotify.com/track/1an6fwYdTOcF6mXgoViKPg) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:21 | 2022-03-01 |  |
 | [I'm not over you](https://open.spotify.com/track/0tdMBJmUaobBXpttiycchZ) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Drunk on love \- The 2nd Mini Album](https://open.spotify.com/album/2UUx4fVD3UtiSSvZ4DN119) | 4:37 | 2022-03-01 |  |
 | [If only you \- Special Track](https://open.spotify.com/track/1XsrcWQF2OinWALGShEBEC) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:50 | 2022-12-15 |  |

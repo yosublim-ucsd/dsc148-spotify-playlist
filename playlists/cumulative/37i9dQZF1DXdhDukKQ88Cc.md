@@ -4,7 +4,7 @@
 
 > ny ep rammer som en 💫 <a href="spotify:album:5vbJhFQh6zShDRuWIlaFbg">Supanova</a> 💫   <br/> <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">@Kesi</a>
 
-285 songs - 12 hr 19 min
+287 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bagheera](https://open.spotify.com/track/7o2AlIdw7u6cHIhl5wNReN) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Bagheera](https://open.spotify.com/album/35HMlmfvRcIoh4xxK51lXN) | 2:34 | 2024-05-16 | 2024-06-22 |
 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 | 2024-02-29 | 2024-10-04 |
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
+| [Bange For At Elske](https://open.spotify.com/track/1ezodvBUxbsU95tLPVDIjz) | [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc), [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Bange For At Elske](https://open.spotify.com/album/5zkZTMBB7HeGJzUstN34tf) | 2:51 | 2025-02-14 |  |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 | 2024-09-13 |
 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 | 2025-01-16 |  |
 | [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 | 2024-09-05 | 2024-11-08 |
@@ -52,6 +53,7 @@
 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Brutalt](https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 3:49 | 2024-08-07 |  |
+| [BUNDEN \(feat\. Dinero\)](https://open.spotify.com/track/6ChccEufjg8ILLzKBu3P0K) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [BUNDEN \(feat\. Dinero\)](https://open.spotify.com/album/2844REIZ7JZWLqTON08f3h) | 2:32 | 2025-02-14 |  |
 | [C Bodi](https://open.spotify.com/track/6602TH8Nvv1dzLVotxfo9x) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [C Bodi](https://open.spotify.com/album/7g8kJJBSLApupZbh1a8pfH) | 2:38 | 2024-10-03 | 2024-11-01 |
 | [Cabinn](https://open.spotify.com/track/58ZjcH7S4W7Hoz180Xf83M) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Håber Vi Ses Igen](https://open.spotify.com/album/2vaWWTlO1sO35Q30PoM96M) | 2:34 | 2024-10-31 | 2024-12-06 |
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 | 2025-01-10 |

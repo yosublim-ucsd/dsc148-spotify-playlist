@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: SDM, Rim'K",
+  "description": "Le rap francophone est en forme. Photo: White-B",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178656,
       "name": "Bodies N Vvs",
       "url": "https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 214442,
       "name": "Conscious Rapper",
       "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Porter le coup, oublier. Porter la marque, se souvenir",
+        "url": "https://open.spotify.com/album/47wpyURruMQckYemmj2fb5"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Free un tel",
+      "url": "https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk"
+    },
+    {
+      "album": {
         "name": "FTG",
         "url": "https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v"
       },
@@ -1992,6 +2010,46 @@
       "duration_ms": 172000,
       "name": "Holla",
       "url": "https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4"
+    },
+    {
+      "album": {
+        "name": "Hood Story",
+        "url": "https://open.spotify.com/album/7ADpWDMaxTfxZFWS6U2KU3"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148751,
+      "name": "Hood Story",
+      "url": "https://open.spotify.com/track/7pmj85039yWq8bf7nWyOw3"
+    },
+    {
+      "album": {
+        "name": "H\u00e9las",
+        "url": "https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "H\u00e9las",
+      "url": "https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR"
     },
     {
       "album": {
@@ -2972,7 +3030,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178122,
       "name": "Nothing Personal - A COLORS SHOW",
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
@@ -3046,6 +3104,24 @@
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
+    },
+    {
+      "album": {
+        "name": "Silence Complice",
+        "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171682,
+      "name": "Papa n'\u00e9tait plus l\u00e0",
+      "url": "https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv"
     },
     {
       "album": {
@@ -3334,7 +3410,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178520,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
@@ -4052,7 +4128,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 153649,
       "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"

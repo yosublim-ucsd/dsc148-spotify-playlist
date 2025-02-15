@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: HUSH
 
-1,630 songs - 3 day 22 hr 52 min
+1,631 songs - 3 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Pick Up My Phone](https://open.spotify.com/track/6U9G4X2sSlzLR3WMKxoDeu) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [Pick Up My Phone](https://open.spotify.com/album/0Oixlcvnn7tI4f4S6Co46J) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Pilot \(seven\) feat\. Quanzo & yiHua Chen](https://open.spotify.com/track/2JYWN650ivA1bwtvljqIlv) | [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn), [yiHua Chen](https://open.spotify.com/artist/7fUKefqccOgPsZck2W7F1A) | [Pilot \(seven\) feat\. Quanzo & yiHua Chen](https://open.spotify.com/album/3MZo300cGwM756ZSTLvQhV) | 3:06 | 2025-01-23 |  |
 | [Pink](https://open.spotify.com/track/6pCPoq3tKvC5owQqmAlEsY) | [于貞](https://open.spotify.com/artist/3I5fKJX0EPZgJLnRAoc5lT) | [PINK](https://open.spotify.com/album/6JwE92Bt2c1q8gsYIkxE46) | 2:52 | 2024-12-19 | 2025-01-03 |
-| [Pink Cube](https://open.spotify.com/track/7q9n44E67xLsHlfRTDqpZD) | [PINKCUBE](https://open.spotify.com/artist/1PWxGtYxVuh2YSeswAA3Ad) | [Pink Cube](https://open.spotify.com/album/7ahBFAR0Le6WSX7aHNXSck) | 3:12 | 2025-02-13 |  |
+| [Pink Cube](https://open.spotify.com/track/7q9n44E67xLsHlfRTDqpZD) | [PINKCUBE](https://open.spotify.com/artist/1PWxGtYxVuh2YSeswAA3Ad) | [Pink Cube](https://open.spotify.com/album/7ahBFAR0Le6WSX7aHNXSck) | 3:12 | 2025-02-13 | 2025-02-15 |
 | [Pink Lamborghini](https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pink Lamborghini](https://open.spotify.com/album/0dRH1ks7puz9YEABo86j0c) | 2:17 | 2024-07-25 | 2024-08-16 |
 | [Pretty Girl Supremacy](https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pretty Girl Supremacy](https://open.spotify.com/album/0mrxfukjQPVdpQMfUmVUpF) | 2:45 | 2024-06-27 | 2024-07-12 |
 | [Pretty Girl Things](https://open.spotify.com/track/0yDatw9t2LebbHJITqiqCJ) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Pretty Girl Things](https://open.spotify.com/album/3QGb4l79lhxPtrOu9yQYsl) | 2:38 | 2024-08-08 | 2024-08-23 |
@@ -378,6 +378,7 @@
 | [saviki 山，美](https://open.spotify.com/track/5JW0yaPAbi9RAuAgAuYiId) | [Naa'u娜塢](https://open.spotify.com/artist/6IU5RWcjMeR04pA62rFWzV) | [saviki 山，美](https://open.spotify.com/album/7cDAM8B9OqVO5eT0aYzCs2) | 3:46 | 2024-12-05 | 2024-12-27 |
 | [Saw You On Tinder](https://open.spotify.com/track/2ctG0PPLX67JVD8ZNqK2vY) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Saw You On Tinder](https://open.spotify.com/album/2FfVtL0AzYRMyMfzHIDCRR) | 2:55 | 2024-09-26 | 2024-11-01 |
 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 | 2024-12-26 | 2025-01-24 |
+| [Say Oh!](https://open.spotify.com/track/7g1giDjX4vlRoJgsUHi4W2) | [Shane 兆群](https://open.spotify.com/artist/0XoRmtNKgRPNIyreA9CXB3) | [Say Oh!](https://open.spotify.com/album/3oYLSRCoTOtwyAo3j1THyn) | 3:25 | 2025-02-13 |  |
 | [Say Yes!](https://open.spotify.com/track/0JrjVd5AwecdZXleJ0dRNM) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [泅往上个魚仔](https://open.spotify.com/album/287RFgCjW6tyxAmhKk1pk2) | 3:13 | 2024-12-19 | 2025-01-03 |
 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 | 2024-07-27 |
 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 | 2024-08-29 | 2024-09-20 |
@@ -1031,7 +1032,7 @@
 | [我的 \(feat\. 李大奔BENZO & GALI\)](https://open.spotify.com/track/10wL7wYJCrYgGh7ZXcFbww) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [我的 \(feat\. 李大奔BENZO & GALI\)](https://open.spotify.com/album/6n5LJpBBrL7T5KhPw4M71i) | 2:49 | 2025-01-16 | 2025-02-07 |
 | [我的マイク](https://open.spotify.com/track/1hkH2P7TpPBuUOjDY6mXox) | [方宥心](https://open.spotify.com/artist/50P8rIDVl6tfTLPEyxNoT7) | [我的マイク](https://open.spotify.com/album/3tncdy7i2CrPEHE6XKz3WW) | 4:03 | 2024-08-08 | 2024-08-16 |
 | [我的名字在你手裡](https://open.spotify.com/track/0VBEqsJgqJn7p6tG5Q3utO) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [我的名字在你手裡](https://open.spotify.com/album/66tcGhT7GNzJPPWReRLbM8) | 3:30 | 2024-07-04 | 2024-07-12 |
-| [我的女孩](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 | 2025-02-06 |  |
+| [我的女孩My Girl](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 | 2025-02-06 |  |
 | [我的小孩](https://open.spotify.com/track/4jopcTdMPVNTBLvIcZSU4K) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY) | [我的小孩](https://open.spotify.com/album/7ryOmFGPg7ytnvNWW43qcL) | 4:12 | 2024-07-04 | 2024-08-02 |
 | [我的愛他有點壞](https://open.spotify.com/track/0kxZPWvzdU1Fs5tojoAGQm) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [我的愛他有點壞](https://open.spotify.com/album/5U8s4b3E11IDWBtUoWpIFU) | 3:18 | 2024-12-12 | 2024-12-27 |
 | [我的愛在遺落的銀河](https://open.spotify.com/track/3L6MJx8lI8hiDcb7WdxyWo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [我的愛在遺落的銀河](https://open.spotify.com/album/0vAf76LcvsLzR6JpAo02L1) | 3:28 | 2025-01-09 | 2025-01-31 |
@@ -1318,7 +1319,7 @@
 | [白目 \(feat\. 草屯囝仔\)](https://open.spotify.com/track/31PuXSemjswEkz2QxYJIeC) | [羅文裕](https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo), [草屯囝仔](https://open.spotify.com/artist/4iWbokr6sX6boUL1Jlxj28) | [白目 \(feat\. 草屯囝仔\)](https://open.spotify.com/album/1CY48GI719j9rxkG1S2Xbq) | 4:08 | 2024-09-05 | 2024-09-27 |
 | [白紙](https://open.spotify.com/track/5b8DHXwiQBqgnoSPW1oeOf) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [白紙](https://open.spotify.com/album/38y9ukNIcUCbp2qKFavPVE) | 2:30 | 2024-06-27 | 2024-08-09 |
 | [白羊座](https://open.spotify.com/track/2QQ5nkGpawh6Mgm5FFaFEF) | [Kouky](https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya) | [白羊座](https://open.spotify.com/album/1XNbi8jr0ROaOgCykUJY25) | 2:56 | 2025-01-02 | 2025-01-24 |
-| [白色大象](https://open.spotify.com/track/5lb4wRCATkRZN4gPkOTGJm) | [LH](https://open.spotify.com/artist/7cUAKY3fveo6FfA40cT8y5) | [白色大象](https://open.spotify.com/album/6JQZc1FXZpDdnsOckQH3yI) | 3:37 | 2025-02-13 |  |
+| [白色大象](https://open.spotify.com/track/5lb4wRCATkRZN4gPkOTGJm) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [白色大象](https://open.spotify.com/album/6JQZc1FXZpDdnsOckQH3yI) | 3:37 | 2025-02-13 |  |
 | [白菜滷](https://open.spotify.com/track/2DqNlMtpiTIrS9wQeYTMx2) | [白菜Diva](https://open.spotify.com/artist/6x1TqaHtcF13W6XrwFRlYS) | [白菜滷](https://open.spotify.com/album/5TZDSnWmxGqUo8fxrcTclu) | 2:59 | 2024-07-25 | 2024-08-09 |
 | [白鯨](https://open.spotify.com/track/6w9CAbbOnJcCHS6s7ETM6o) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [白鯨](https://open.spotify.com/album/4ibqic2LkcinoCY1TaLtA2) | 5:43 | 2024-08-29 | 2024-09-20 |
 | [白鸽乌鸦相爱的戏码 \- 英文版](https://open.spotify.com/track/2XLtkAFy5zjnPVaSLHBq0k) | [Mona Lavi](https://open.spotify.com/artist/70CWAIm00ajNwEa3zQih9w), [新街口组合](https://open.spotify.com/artist/1JRSl8qGb3BFaiQ93RsE4j) | [白鸽乌鸦相爱的戏码 \(英文版\)](https://open.spotify.com/album/1BVNTavlrIvfrCxRP1v1Vw) | 2:50 | 2025-01-23 | 2025-01-31 |

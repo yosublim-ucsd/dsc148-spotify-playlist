@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:1OFOShsIbhy1l5x73yuVyB\">Shenseea</a> ",
+  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:2HPaUgqeutzr3jx5a9WyDV\">PARTYNEXTDOOR</a> ",
   "name": "Fever",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 154586,
       "name": "ARCH",
       "url": "https://open.spotify.com/track/3bEhYkwhzikzwnTKLqOudB"
+    },
+    {
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/0SPSvagXJLLu262H0GIBRV"
+      },
+      "artists": [
+        {
+          "name": "Royal Blu",
+          "url": "https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx"
+        },
+        {
+          "name": "D'yani",
+          "url": "https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169818,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/2gHs5qSj0m2wnEHyE5R3W3"
     },
     {
       "album": {
@@ -310,6 +332,24 @@
       "duration_ms": 101694,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/1S5NReadPAI7o5G9mUfunZ"
+    },
+    {
+      "album": {
+        "name": "Can't Tell Me That",
+        "url": "https://open.spotify.com/album/60iDaCjT5UltzxOzPXT4UC"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154907,
+      "name": "Can't Tell Me That",
+      "url": "https://open.spotify.com/track/2BLrKmF2k0oJllTdl4Rl9Z"
     },
     {
       "album": {
@@ -844,6 +884,28 @@
       "duration_ms": 197333,
       "name": "Grimey",
       "url": "https://open.spotify.com/track/7pFPV349uEN6BQ0BxC94im"
+    },
+    {
+      "album": {
+        "name": "Breakfast Titony",
+        "url": "https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "Titony",
+          "url": "https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117627,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1"
     },
     {
       "album": {
@@ -2076,7 +2138,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 158359,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV"
@@ -2412,7 +2474,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 168065,
       "name": "Traffic Jam",
       "url": "https://open.spotify.com/track/5a2Bjc5Mngc8Fde1Oq32D3"
@@ -2792,7 +2854,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154920,
       "name": "Work It (Bedroom Bully)",
       "url": "https://open.spotify.com/track/4kw9tId4PVFcbDO8NmOlCF"

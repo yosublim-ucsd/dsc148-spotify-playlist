@@ -1,13 +1,29 @@
 {
-  "description": "Our maximalist queen returns \ud83c\udd98  Cover: Ava Max",
-  "num_followers": 200045,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: JISOO",
+  "num_followers": 200166,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6pBvwAAAACLV8vNjKn+f6Ox5Xb8HvY0",
+  "snapshot_id": "Z67U0AAAAABLVJh6YeSvRi/sU3fDM777",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+    },
     {
       "added_at": "2025-02-07 05:00:29",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 191519,
+      "name": "15 Minutes",
+      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK"
+      },
+      "artists": [
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa"
+        }
+      ],
+      "duration_ms": 201225,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb"
+    },
+    {
       "added_at": "2025-02-07 05:00:29",
       "album": {
         "name": "Rhiannon",
@@ -57,36 +105,24 @@
       "url": "https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9"
     },
     {
-      "added_at": "2025-02-07 05:00:29",
+      "added_at": "2025-02-14 05:00:39",
       "album": {
-        "name": "On and On and On",
-        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
       "artists": [
         {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 179930,
-      "name": "On and On and On",
-      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
-    },
-    {
-      "added_at": "2025-02-03 15:36:43",
-      "album": {
-        "name": "Hush Hush",
-        "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
-      },
-      "artists": [
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
         {
-          "name": "Meira Omar",
-          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 173973,
-      "name": "Hush Hush",
-      "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
+      "duration_ms": 126508,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
     },
     {
       "added_at": "2025-02-07 05:00:29",
@@ -113,6 +149,54 @@
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
+      "added_at": "2025-02-07 05:00:29",
+      "album": {
+        "name": "On and On and On",
+        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 179930,
+      "name": "On and On and On",
+      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
+    },
+    {
+      "added_at": "2025-02-10 18:13:19",
+      "album": {
+        "name": "Kant",
+        "url": "https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK"
+      },
+      "artists": [
+        {
+          "name": "Miriana Conte",
+          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+        }
+      ],
+      "duration_ms": 179631,
+      "name": "Kant",
+      "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
+    },
+    {
+      "added_at": "2025-02-03 15:36:43",
+      "album": {
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
+      },
+      "artists": [
+        {
+          "name": "Meira Omar",
+          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
+    },
+    {
       "added_at": "2025-01-15 21:14:32",
       "album": {
         "name": "Alter Ego (with JT)",
@@ -133,20 +217,84 @@
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
-      "added_at": "2025-02-10 18:13:19",
+      "added_at": "2025-02-14 05:00:39",
       "album": {
-        "name": "Kant",
-        "url": "https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK"
+        "name": "SHE'S THE ONE",
+        "url": "https://open.spotify.com/album/3En5MXN3RSruxBdsSRA1ts"
       },
       "artists": [
         {
-          "name": "Miriana Conte",
-          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
         }
       ],
-      "duration_ms": 179631,
-      "name": "Kant",
-      "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
+      "duration_ms": 127441,
+      "name": "SHE'S THE ONE",
+      "url": "https://open.spotify.com/track/7hTyaGtDSrspLAhv1tnZ27"
+    },
+    {
+      "added_at": "2025-02-07 05:00:29",
+      "album": {
+        "name": "POGO",
+        "url": "https://open.spotify.com/album/1Ravfb4ce8FyrvEKVi4PHd"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 173784,
+      "name": "POGO",
+      "url": "https://open.spotify.com/track/1wiNWp8qVn2ZGZIi5SafqM"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Stereoqueen",
+        "url": "https://open.spotify.com/album/3s3cGVXwgIHKR5Tu9HwfOc"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "duration_ms": 223875,
+      "name": "Stereoqueen",
+      "url": "https://open.spotify.com/track/5qsLUNvI1Ca8dr3lt0p3qm"
+    },
+    {
+      "added_at": "2025-01-24 05:00:49",
+      "album": {
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
+    },
+    {
+      "added_at": "2025-02-14 05:29:52",
+      "album": {
+        "name": "24K Gold",
+        "url": "https://open.spotify.com/album/4oXZ87dBtRWJuLE9NzzKfT"
+      },
+      "artists": [
+        {
+          "name": "Malou Prytz",
+          "url": "https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "24K Gold",
+      "url": "https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c"
     },
     {
       "added_at": "2025-02-07 05:00:29",
@@ -185,22 +333,6 @@
       "url": "https://open.spotify.com/track/3glCRKuy0fdQGqXbUj0tdp"
     },
     {
-      "added_at": "2025-02-07 05:00:29",
-      "album": {
-        "name": "POGO",
-        "url": "https://open.spotify.com/album/1Ravfb4ce8FyrvEKVi4PHd"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 173784,
-      "name": "POGO",
-      "url": "https://open.spotify.com/track/1wiNWp8qVn2ZGZIi5SafqM"
-    },
-    {
       "added_at": "2025-01-31 05:00:32",
       "album": {
         "name": "SWEET (feat. Biig Piig)",
@@ -219,22 +351,6 @@
       "duration_ms": 176098,
       "name": "SWEET (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "added_at": "2025-02-07 05:00:29",
@@ -299,22 +415,6 @@
       "duration_ms": 167890,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S"
-    },
-    {
-      "added_at": "2025-01-31 05:00:32",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2ymczzSSd10YyCyBd0RrC5"
-      },
-      "artists": [
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 172078,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/12NC6AUBdYdyAaKpTaToa8"
     },
     {
       "added_at": "2025-01-31 05:00:32",
@@ -471,22 +571,6 @@
     {
       "added_at": "2025-01-24 05:00:49",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
         "name": "boss",
         "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
       },
@@ -619,26 +703,6 @@
     {
       "added_at": "2025-01-17 05:01:01",
       "album": {
-        "name": "Someone For Me",
-        "url": "https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC"
-    },
-    {
-      "added_at": "2025-01-17 05:01:01",
-      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/2YB65n9xMGybOrD90n7yPn"
       },
@@ -731,22 +795,6 @@
       "duration_ms": 244473,
       "name": "shoreline",
       "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
-    },
-    {
-      "added_at": "2025-01-03 05:00:25",
-      "album": {
-        "name": "What Have You Done For Me Lately",
-        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 209644,
-      "name": "What Have You Done For Me Lately",
-      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -981,26 +1029,6 @@
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
     },
     {
-      "added_at": "2024-12-13 05:00:34",
-      "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 175428,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
-    },
-    {
       "added_at": "2024-12-06 05:02:55",
       "album": {
         "name": "ROCKSTAR",
@@ -1031,22 +1059,6 @@
       "duration_ms": 128720,
       "name": "Masochist",
       "url": "https://open.spotify.com/track/0sfFiT4uaEhtcVzxx14h6a"
-    },
-    {
-      "added_at": "2024-12-06 04:59:38",
-      "album": {
-        "name": "DECLINED/BLUFFIN",
-        "url": "https://open.spotify.com/album/2fAAtw2DJlLcSh0tgbjPQ6"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 162729,
-      "name": "DECLINED",
-      "url": "https://open.spotify.com/track/52PgmgbZ209UwjRAajDRuV"
     },
     {
       "added_at": "2024-11-11 18:07:18",
@@ -1507,22 +1519,6 @@
       "duration_ms": 158710,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "GIRLZ",
-        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 141660,
-      "name": "GIRLZ",
-      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
       "added_at": "2024-08-18 21:26:47",

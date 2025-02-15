@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abstraction",
+        "url": "https://open.spotify.com/album/2J9qIubDJEusd3ie7zWPqY"
+      },
+      "artists": [
+        {
+          "name": "KittenSneeze",
+          "url": "https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191572,
+      "name": "Abstraction (Vocals Only)",
+      "url": "https://open.spotify.com/track/3dEZi6uMFVW1ZK3rs1xVXS"
+    },
+    {
+      "album": {
         "name": "adhd music for FURRIES!!!",
         "url": "https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -176,6 +194,24 @@
       "duration_ms": 132310,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf"
+    },
+    {
+      "album": {
+        "name": "As Above So Below",
+        "url": "https://open.spotify.com/album/2B9FYeOPHUjH2lPuyM8wns"
+      },
+      "artists": [
+        {
+          "name": "KMODO",
+          "url": "https://open.spotify.com/artist/2kpojKG31ZHvKeXiRxgmjm"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271673,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/6sUAyxFUx9Fw8i2mUmpWTZ"
     },
     {
       "album": {
@@ -390,7 +426,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -434,7 +470,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 224125,
       "name": "CHOKING!!!",
       "url": "https://open.spotify.com/track/3hEqkwt2WjiKYMBtei76Yz"
@@ -452,7 +488,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 125201,
       "name": "CLICK ME",
       "url": "https://open.spotify.com/track/4XlmnvNd6GpCDWMh3H3uY5"
@@ -488,10 +524,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
+    },
+    {
+      "album": {
+        "name": "Do it like V",
+        "url": "https://open.spotify.com/album/6SaKLzwexbO76jKDLCNoKX"
+      },
+      "artists": [
+        {
+          "name": "THE SKYE",
+          "url": "https://open.spotify.com/artist/4IPKaGmghJBTYAx6QZ0lAk"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119722,
+      "name": "Do it like V",
+      "url": "https://open.spotify.com/track/3niCxdzA7Ab4rK23lObwin"
     },
     {
       "album": {
@@ -626,7 +680,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -940,7 +994,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160000,
       "name": "INTERNET",
       "url": "https://open.spotify.com/track/3Hxloa1dHnhwZrislOkcMC"
@@ -1002,7 +1056,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 140636,
       "name": "KISS ME!",
       "url": "https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX"
@@ -1136,7 +1190,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
@@ -1368,7 +1422,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 149838,
       "name": "Otherkin",
       "url": "https://open.spotify.com/track/0BhB4cMRHJgktbwe38gxjq"
@@ -1404,7 +1458,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 97250,
       "name": "PEG ME",
       "url": "https://open.spotify.com/track/2gBwXk0yNuDfekC7YsILv7"
@@ -1426,7 +1480,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 233333,
       "name": "Perfect Fiction (Tsumugi Shirogane Fan Song)",
       "url": "https://open.spotify.com/track/66if1xGhUmaFau3AE1p4zp"
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 125036,
       "name": "Senpai, Won't You Notice Me?",
       "url": "https://open.spotify.com/track/6dVGWdfE1ug3g1MH6KuYmP"
@@ -1672,6 +1726,24 @@
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
+    },
+    {
+      "album": {
+        "name": "Something For Your M.I.N.D. (Sped Up)",
+        "url": "https://open.spotify.com/album/3yYHC0mfUZN1idfiZ1DreJ"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124043,
+      "name": "Something For Your M.I.N.D. - Sped Up",
+      "url": "https://open.spotify.com/track/4VHIC1Q4q2FwwjlEMcAYqV"
     },
     {
       "album": {
@@ -1787,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Therian Wolf",
+        "url": "https://open.spotify.com/album/5frmRk70Fyf8TF7jfXGjMb"
+      },
+      "artists": [
+        {
+          "name": "Autumn J.",
+          "url": "https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150395,
+      "name": "Therian Wolf",
+      "url": "https://open.spotify.com/track/6hRwN3qQhShGulba210gTC"
+    },
+    {
+      "album": {
         "name": "STAY @ HOME SUMMER 2020",
         "url": "https://open.spotify.com/album/6ELu8qZXh5UJRGJsbSBx5F"
       },
@@ -1798,7 +1888,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"
@@ -1918,7 +2008,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 126804,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/0tKWVnnCD6rmtSBIR7AiE4"
@@ -1936,7 +2026,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
@@ -1954,7 +2044,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Why do i miss u",
       "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"

@@ -1,13 +1,29 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 153109,
+  "num_followers": 153146,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAACRNo2YR16fqmUm6TnKMJXR",
+  "snapshot_id": "Z67N8AAAAABiYtN8lUPVgQud5/EvpoCm",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "New Beastly",
+        "url": "https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "New Beastly",
+      "url": "https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {

@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "A Moment in Time",
+        "url": "https://open.spotify.com/album/2Gr1G2axlS7Ie5xHMeIxPT"
+      },
+      "artists": [
+        {
+          "name": "Alex M.O.R.P.H.",
+          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
+        },
+        {
+          "name": "Stine Grove",
+          "url": "https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170942,
+      "name": "A Moment in Time",
+      "url": "https://open.spotify.com/track/2kdqKlE8lKL0iEA1GBWsoe"
+    },
+    {
+      "album": {
         "name": "A Trillion Suns",
         "url": "https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE"
       },
@@ -3219,6 +3241,32 @@
     },
     {
       "album": {
+        "name": "Anthem Test",
+        "url": "https://open.spotify.com/album/6Y8qTX9kSBfgNN1Glusx27"
+      },
+      "artists": [
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        },
+        {
+          "name": "Maor Levi",
+          "url": "https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he"
+        },
+        {
+          "name": "Gid Sedgwick",
+          "url": "https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265579,
+      "name": "Can You",
+      "url": "https://open.spotify.com/track/5v6ccPuLurDGC2hC0wVPFL"
+    },
+    {
+      "album": {
         "name": "Adrenaline EP",
         "url": "https://open.spotify.com/album/0WW1uMsgD7vtKZaTe4p19h"
       },
@@ -3634,7 +3682,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 177395,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/0LKv2CdHWNjh7kIFuw7dQQ"
@@ -5714,6 +5762,24 @@
       "duration_ms": 233043,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE"
+    },
+    {
+      "album": {
+        "name": "Enter The Portal",
+        "url": "https://open.spotify.com/album/6r1uw773hRjdriOYL7fwPi"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264392,
+      "name": "Enter The Portal",
+      "url": "https://open.spotify.com/track/3g9RkurqYNtQkPRlJ0h9HO"
     },
     {
       "album": {
@@ -8498,7 +8564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 229622,
       "name": "Half Light",
       "url": "https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9"
@@ -10064,6 +10130,32 @@
       "duration_ms": 245125,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/50fWnqvVS2SwMOnzRVXV62"
+    },
+    {
+      "album": {
+        "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
+        "url": "https://open.spotify.com/album/5WHDQlHysbxhyhAuEER4Vu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Lucy Pullin",
+          "url": "https://open.spotify.com/artist/3HVCvMqVWdpLtCwmvVViFn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214872,
+      "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
+      "url": "https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1"
     },
     {
       "album": {
@@ -15538,7 +15630,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 153333,
       "name": "ReActiv8",
       "url": "https://open.spotify.com/track/1UNY1TSerTwdwNrh8EhCSs"
@@ -15684,6 +15776,28 @@
       "duration_ms": 271764,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/0UF2B2YgRTzzJMOU4G5zye"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1lMA5J1i0cEjA3j3B6RkpJ"
+      },
+      "artists": [
+        {
+          "name": "Nikolauss",
+          "url": "https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid"
+        },
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/7Lu42P39lHOpozgCUBP0SW"
     },
     {
       "album": {
@@ -17040,7 +17154,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 173917,
       "name": "Shambhala",
       "url": "https://open.spotify.com/track/0wRM54Bg1gZzUOXpTB9pUm"
@@ -17822,7 +17936,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 231666,
       "name": "Space Sex",
       "url": "https://open.spotify.com/track/48hXCDksdPdft60PBMoHMt"
@@ -18302,7 +18416,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204309,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/34NcElWmekutGStNPk3oeZ"
@@ -20092,6 +20206,28 @@
       "duration_ms": 227232,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/3O1YUsg20oMgQtoLautPwM"
+    },
+    {
+      "album": {
+        "name": "A State of Trance 2025 - TRANSFORMATION (The Official Album)",
+        "url": "https://open.spotify.com/album/4Op54RyLTo5ZmPelTwxAZZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163943,
+      "name": "The Whip",
+      "url": "https://open.spotify.com/track/4zfDJEy8Lv4tHvQ4umSbqu"
     },
     {
       "album": {

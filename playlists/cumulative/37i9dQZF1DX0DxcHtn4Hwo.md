@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-944 songs - 1 day 4 hr 29 min
+946 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Goldie Moon](https://open.spotify.com/track/26S8PokXUdylqLNQFZBviV) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Dah Dee Doo](https://open.spotify.com/album/4zRmlbDP4TgrLYKGjAjaiV) | 1:52 | 2022-09-22 | 2024-03-29 |
 | [Good Night](https://open.spotify.com/track/1d6YLD4YvLH3o1FgRfZgfX) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleep Tight](https://open.spotify.com/album/0fADUXUvdagL05clhet7xW) | 2:27 | 2022-11-18 | 2024-05-24 |
 | [Good Night Sweet Heart](https://open.spotify.com/track/6NGuoiLCwktnwC62Q48vP7) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:57 | 2022-09-22 | 2024-10-01 |
+| [Good Night Sweet Lauren](https://open.spotify.com/track/0HEdu9UU0vb1WGrHOGYCGP) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Good Night Sweet Lauren](https://open.spotify.com/album/42gJTGCaFTGtlRBw0fMEBM) | 2:07 | 2025-02-14 |  |
 | [Goodnight Already](https://open.spotify.com/track/19FaaBATMkInVrmtwIltiX) | [Olivia Boward](https://open.spotify.com/artist/5qlZWNHgu2oBOjY6hSvfOe) | [Goodnight Already](https://open.spotify.com/album/0frkQxmXColuJe1YUvmgx1) | 2:02 | 2022-12-23 | 2024-05-24 |
 | [Goodnight Little Lamb](https://open.spotify.com/track/5oPCpoTWmhYnGxz6G9Skuh) | [Naomi Nora](https://open.spotify.com/artist/0YNOeiHmQFjfYhfSU8TOq7) | [Goodnight Little Lamb](https://open.spotify.com/album/3awYf3bi3tss02zZxeRkAS) | 2:18 | 2024-09-30 |  |
 | [Goodnight Little Penguin](https://open.spotify.com/track/46zeIyJjxkhu1OivXx3FyJ) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Goodnight Little Penguin](https://open.spotify.com/album/5Z9bsR2MHuzrrvEX4K4KIc) | 1:48 | 2021-10-05 | 2024-03-29 |
@@ -632,10 +633,10 @@
 | [Quiet Doggie](https://open.spotify.com/track/0hYtjGzWcBVsa2MeKxyaNi) | [Lila Turtle](https://open.spotify.com/artist/70G093WCu65ZwWD9Oq8OjN) | [Sewn Up Bunny](https://open.spotify.com/album/5BzSH7gDvoioz3egdcC05T) | 1:34 | 2022-04-20 | 2023-02-18 |
 | [Quiet Lullaby](https://open.spotify.com/track/5GgCotrtjYSJcD11zYGGMc) | [Goodwin Hart](https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E) | [Quiet Lullaby](https://open.spotify.com/album/6lAAAnuhoaOEv8MgnkqJRs) | 2:14 | 2022-10-07 | 2024-07-19 |
 | [Quiet Raindrops](https://open.spotify.com/track/74jmhJrLxKmQPElZ5JuPAW) | [Sarah Schiller](https://open.spotify.com/artist/5Kk7ZNS9w8EaDLa7XUFH4v) | [Quiet Raindrops](https://open.spotify.com/album/6ubXUgE89yHymtc2eXC7kq) | 3:18 | 2021-10-05 | 2022-10-08 |
-| [Rainbow Bridge](https://open.spotify.com/track/1aNcIynXOBK6VXiG02L8Ix) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Rainbow Bridge](https://open.spotify.com/album/2XyDTjEnzPUPiFoOSXn5QW) | 2:13 | 2024-03-29 |  |
+| [Rainbow Bridge](https://open.spotify.com/track/1aNcIynXOBK6VXiG02L8Ix) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Rainbow Bridge](https://open.spotify.com/album/2XyDTjEnzPUPiFoOSXn5QW) | 2:13 | 2024-03-29 | 2025-02-15 |
 | [Rainbow Whisperer](https://open.spotify.com/track/3DOZLaK5hDW2pAkJH1kzlk) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 | 2022-08-10 | 2024-10-01 |
 | [Raindrop Lullaby](https://open.spotify.com/track/3aCOZYJ9K8hMcVYnO4W2Y6) | [Claude Jules](https://open.spotify.com/artist/10twoL9Dyh3maVzU0zGcAJ) | [Raindrop Lullaby](https://open.spotify.com/album/7mSPZmjjaaHPP90sjmkHHF) | 1:56 | 2024-06-07 |  |
-| [Raining Tacos](https://open.spotify.com/track/4F7LwBolP2KB77EsEnzAD3) | [Lille Björn](https://open.spotify.com/artist/0rNj1fH9usXxEK48SfcR6K) | [Lullabies For The Small Stars](https://open.spotify.com/album/0zTA2iaUJRChmY458nhXd5) | 1:52 | 2023-02-17 |  |
+| [Raining Tacos](https://open.spotify.com/track/4F7LwBolP2KB77EsEnzAD3) | [Lille Björn](https://open.spotify.com/artist/0rNj1fH9usXxEK48SfcR6K) | [Lullabies For The Small Stars](https://open.spotify.com/album/0zTA2iaUJRChmY458nhXd5) | 1:52 | 2023-02-17 | 2025-02-15 |
 | [Rat In The Hat](https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Rat In The Hat](https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId) | 0:59 | 2023-12-08 |  |
 | [Ready for Bedtime](https://open.spotify.com/track/6KLsKhBDRZWnvgRUA0gDOt) | [Lisa Rast](https://open.spotify.com/artist/2auBmAJhZHsFFqN4OdeZK4) | [Ready for Bedtime](https://open.spotify.com/album/22fMh49ygU6sspPJQ8CyJz) | 2:08 | 2021-10-05 | 2022-10-29 |
 | [Rest Now, Child](https://open.spotify.com/track/7kH8eTfyPn17ryyIZ9OfAC) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Rest Now, Child](https://open.spotify.com/album/5yceu7kN6AGSLpgytQU26Q) | 1:42 | 2021-10-05 | 2022-12-24 |
@@ -650,7 +651,7 @@
 | [Room For One More](https://open.spotify.com/track/7JsEBQiCoVUoF7ryygpwBf) | [Lev Castillo](https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6) | [Room For One More](https://open.spotify.com/album/2fvKK9bz4BRUteKXj8DW6s) | 2:11 | 2022-02-10 | 2024-10-01 |
 | [Row Row Row Your Boat](https://open.spotify.com/track/6kD9wbEUbIweZq45R6cYeD) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Row Row Row Your Boat](https://open.spotify.com/album/3wuB2I7LAWKvwOCgGO016f) | 1:52 | 2022-04-20 |  |
 | [Rub\-A\-Dub Dub Three Men In A Tub](https://open.spotify.com/track/1gf0Lb3ZFIf4AelxPy76Zh) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:00 | 2021-10-05 | 2022-10-08 |
-| [Ruby](https://open.spotify.com/track/4J7qwbj6ZT7CGgRdoaEt07) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Pot Of Gold](https://open.spotify.com/album/0KyRhlIGDIp6YiY9i2V8g2) | 2:11 | 2023-02-17 |  |
+| [Ruby](https://open.spotify.com/track/4J7qwbj6ZT7CGgRdoaEt07) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Pot Of Gold](https://open.spotify.com/album/0KyRhlIGDIp6YiY9i2V8g2) | 2:11 | 2023-02-17 | 2025-02-15 |
 | [Rømmegrø](https://open.spotify.com/track/4Zppripz26szoyhJ7Z76GI) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Hvilested](https://open.spotify.com/album/1lgbpK6faJdi3ONq7hKo7M) | 2:50 | 2023-02-17 | 2024-08-10 |
 | [Røvervise](https://open.spotify.com/track/484YvSdraAsfTjNiw1lJvE) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Røvervise](https://open.spotify.com/album/5uXlz1LpJFHBToyhJ7cRmk) | 1:51 | 2022-12-16 | 2023-05-05 |
 | [Safe and Sound](https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [In My Arms](https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL) | 1:56 | 2023-05-05 |  |
@@ -883,6 +884,7 @@
 | [Two Resting Birds](https://open.spotify.com/track/7mSNP0wAMw4eRZXMSak7uH) | [Sheryl Moon](https://open.spotify.com/artist/2vQaPHOC1lysgsm8UBiE4o) | [Two Resting Birds](https://open.spotify.com/album/6lRfe2hxJYhmycRLooGgvl) | 2:08 | 2021-10-05 | 2023-02-18 |
 | [Un éléphant qui se balançait](https://open.spotify.com/track/2NAyTKbuoG7yuZIEAPWjyr) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Un éléphant qui se balançait](https://open.spotify.com/album/2cTtydyLdkJnGpvHP1faF0) | 1:58 | 2023-05-05 |  |
 | [Uncle Simons´ Farm](https://open.spotify.com/track/2787peY04QFgxwgQgfG9PI) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Uncle Simons´ Farm](https://open.spotify.com/album/6MRfSh34gI2Rt4JK0gaWHK) | 2:04 | 2024-07-19 |  |
+| [Under Glowing Stars](https://open.spotify.com/track/7A5JOHEykLaO9HLJnSssV4) | [Livia Rivers](https://open.spotify.com/artist/0pUwiN8eD9aQ0jhJSt09uy) | [Under Glowing Stars](https://open.spotify.com/album/5HdLT8usdVFqEfhlkQIhsv) | 2:03 | 2025-02-14 |  |
 | [Under My bed](https://open.spotify.com/track/17PMAp6sXY9cCwzt8COsUw) | [Carolyn Gupton](https://open.spotify.com/artist/2KZs7N1xQn6LR7TFeunoVg) | [Under My bed](https://open.spotify.com/album/5cvZ9MA10Gw9JDJ2pdOJRK) | 1:38 | 2021-10-05 | 2022-12-24 |
 | [Under the Endless Sky](https://open.spotify.com/track/5HL1dB9qSxtooec0EYyiTz) | [Lucas Moon](https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS) | [Under the Endless Sky](https://open.spotify.com/album/3NnuYYblf4XFjUyOpSsTD5) | 2:06 | 2024-12-20 |  |
 | [Under the stars](https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Under the stars](https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW) | 1:33 | 2024-03-01 |  |

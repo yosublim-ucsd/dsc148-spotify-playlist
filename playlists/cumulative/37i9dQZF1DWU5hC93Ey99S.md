@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-770 songs - 1 day 17 hr 5 min
+771 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d) | 6:07 | 2023-08-03 | 2024-01-06 |
 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 | 2023-06-22 | 2024-01-06 |
 | [Wait For Me](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD) | [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Wait For Me](https://open.spotify.com/album/6FJvWBlOmVjtLLCdrgkwpn) | 1:55 | 2024-02-29 | 2024-04-05 |
+| [Waiting](https://open.spotify.com/track/1PyeM0ERIuOKITW3bnzuw3) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Waiting](https://open.spotify.com/album/1GgmFQTGmstXgQd4WEfQxV) | 2:42 | 2025-02-13 |  |
 | [Waiting 4](https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Waiting 4](https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97) | 4:13 | 2024-08-01 |  |
 | [Wanna Believe](https://open.spotify.com/track/0MbpWJ5YBwyNJaUc757hu9) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Wanna Believe](https://open.spotify.com/album/1M8XoqN9RxaTVvCjZuwq7r) | 3:22 | 2023-11-16 | 2024-01-06 |
 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 |  |

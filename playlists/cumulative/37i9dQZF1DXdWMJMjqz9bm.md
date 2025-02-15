@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-672 songs - 1 day 6 hr 40 min
+673 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Grief](https://open.spotify.com/track/2UQybDOjXvNdP1jFQBWcLy) | [SAM LEX](https://open.spotify.com/artist/3qS9hbnV1go0xKB1fm1Znd), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Grief](https://open.spotify.com/album/07pczOUFOevRIRW0WQuGDx) | 2:53 | 2022-01-14 | 2022-02-26 |
 | [Grin On Me 2](https://open.spotify.com/track/2cld913W9DGU1n4osTL3ju) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Grin On Me 2](https://open.spotify.com/album/26rW3vENtPgoAVWge38Wfs) | 2:03 | 2022-04-15 | 2022-10-15 |
 | [GROOVE](https://open.spotify.com/track/2N1N5vdaOmPmVnr23s7z1U) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [GROOVE](https://open.spotify.com/album/6iR3IxmXooYa8v37mi3XHz) | 2:20 | 2022-04-22 | 2022-06-18 |
+| [Growin' Pains](https://open.spotify.com/track/7wizv7glIk0wztNfINHFKN) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [Growin' Pains](https://open.spotify.com/album/2dKseigpdWCvE4w9aOFy9k) | 2:37 | 2025-02-14 |  |
 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 | 2022-11-11 | 2022-11-30 |
 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 | 2021-12-16 | 2022-02-26 |
 | [HANDSOMER](https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [HANDSOMER](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) | 2:23 | 2022-02-04 | 2022-04-09 |
@@ -428,7 +429,7 @@
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |
 | [Oh My!](https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Oh My!](https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD) | 3:11 | 2022-07-22 | 2022-11-30 |
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-03-26 |
-| [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 |  |
+| [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 | 2025-02-15 |
 | [OLD NEWS](https://open.spotify.com/track/3uY6ip9RD3AB7lWJHSWAp9) | [Heath240](https://open.spotify.com/artist/1ojvdyodoMexNXR8my5FOo) | [OLD NEWS](https://open.spotify.com/album/0zVNdC56TzBMNX4k6v8JbQ) | 2:29 | 2022-09-23 | 2022-10-22 |
 | [on life](https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [on life](https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy) | 2:12 | 2023-01-13 | 2024-02-23 |
 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 | 2022-01-14 | 2022-03-26 |

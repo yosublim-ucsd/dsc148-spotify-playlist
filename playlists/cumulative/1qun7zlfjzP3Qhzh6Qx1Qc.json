@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Chickasaw Church of Christ",
+        "url": "https://open.spotify.com/album/6JB4kVDp2rXdNpgHHjuWoP"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Chickasaw Church of Christ",
+      "url": "https://open.spotify.com/track/4Yb22ONlOu9jltcZay8mqo"
+    },
+    {
+      "album": {
         "name": "Parallel Love",
         "url": "https://open.spotify.com/album/2F8fRpk6Rje16mRVkY0A3i"
       },
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 249000,
       "name": "ghost in my guitar - Live from NPR's Tiny Desk",
       "url": "https://open.spotify.com/track/0MJ89PKzQbEnH2HFfiKLMF"
@@ -2242,6 +2260,24 @@
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
+    },
+    {
+      "album": {
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/4QGeDzqA1Uo61wZobCCHtr"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168659,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/24hb4wAOie9hMnbIpKDMbs"
     },
     {
       "album": {
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190226,
       "name": "made it out of mexico - acoustic",
       "url": "https://open.spotify.com/track/7CfoX1h6SG6AH6KVSc895Y"
@@ -3419,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "Nice To Meet You (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nice To Meet You (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
+    },
+    {
+      "album": {
         "name": "Night Diving",
         "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
       },
@@ -3600,6 +3658,24 @@
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
+    },
+    {
+      "album": {
+        "name": "OIL MONEY - EP",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
     },
     {
       "album": {
@@ -4352,7 +4428,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 265714,
       "name": "Soldier (feat. Tom MacDonald)",
       "url": "https://open.spotify.com/track/3qsO06KpkfyyXdui83McT6"
@@ -4432,7 +4508,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180773,
       "name": "SOMETHING TO CHASE",
       "url": "https://open.spotify.com/track/4bD3GAjb8q7Rv9xDcgVMyP"

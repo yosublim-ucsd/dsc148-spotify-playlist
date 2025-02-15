@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - OAFF",
+  "description": "Naye Indie gaano ka khazana! Cover - Masala Coffee",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 214746,
       "name": "BEKHUDI",
       "url": "https://open.spotify.com/track/6Qw5OaHOMKLNaT1CvZ0ER5"
@@ -4441,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Dil Ka Pata",
+        "url": "https://open.spotify.com/album/5ju98pY4tm6QOoz4SLPafH"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231489,
+      "name": "Dil Ka Pata",
+      "url": "https://open.spotify.com/track/0uNhjHuLgecChfHUt9XxbW"
+    },
+    {
+      "album": {
         "name": "Dil Ke Paas",
         "url": "https://open.spotify.com/album/3JRjUL5w1m59BNbcrkXTYr"
       },
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211764,
       "name": "Ek Aur Nadiya",
       "url": "https://open.spotify.com/track/1f22h4QWIhU9SjEaxkxj1q"
@@ -6702,7 +6720,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 158445,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1N4hVo47GBUScmmWI42rex"
@@ -8218,7 +8236,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 149250,
       "name": "Judaiyaan",
       "url": "https://open.spotify.com/track/0v4Mhi0uJxih8p8sTtXTg4"
@@ -8394,6 +8412,24 @@
       "duration_ms": 202388,
       "name": "Kaali Raatein",
       "url": "https://open.spotify.com/track/6OpsDJz4dHl1gVmtawxkRY"
+    },
+    {
+      "album": {
+        "name": "Kaari Kaari",
+        "url": "https://open.spotify.com/album/0nJTuLPIv2lUR4nFer1Y0f"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73693,
+      "name": "Kaari Kaari",
+      "url": "https://open.spotify.com/track/0dpBVrAjfxARkxR0L7vls6"
     },
     {
       "album": {
@@ -9072,7 +9108,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162857,
       "name": "Keh Do Na",
       "url": "https://open.spotify.com/track/1OImmthBVdJOf0ZCCBQVzv"
@@ -11353,6 +11389,28 @@
     },
     {
       "album": {
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx"
+      },
+      "artists": [
+        {
+          "name": "Abhi Dutt",
+          "url": "https://open.spotify.com/artist/5l0HeIJvLTJhLJgO1qeJ5m"
+        },
+        {
+          "name": "Musical Tarsh",
+          "url": "https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222435,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/2pURBxvZxAGgukj6cyaVMf"
+    },
+    {
+      "album": {
         "name": "Maahi Dekhle",
         "url": "https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88"
       },
@@ -12301,6 +12359,44 @@
     },
     {
       "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Sunep A Jamir",
+          "url": "https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB"
+        },
+        {
+          "name": "Hanu Dixit",
+          "url": "https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5"
+        },
+        {
+          "name": "Gaia Meera",
+          "url": "https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw"
+        },
+        {
+          "name": "Inga",
+          "url": "https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK"
+        },
+        {
+          "name": "NEXA Music",
+          "url": "https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186753,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
+    },
+    {
+      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy"
       },
@@ -12404,7 +12500,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 263111,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo"
@@ -13090,6 +13186,24 @@
       "duration_ms": 108788,
       "name": "Naina",
       "url": "https://open.spotify.com/track/3zKXlnK9Dx3NfIZewGAPQ9"
+    },
+    {
+      "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
     },
     {
       "album": {
@@ -14738,6 +14852,32 @@
       "duration_ms": 231882,
       "name": "Raaton Mein",
       "url": "https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ"
+    },
+    {
+      "album": {
+        "name": "Raazdaariyan",
+        "url": "https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4"
+      },
+      "artists": [
+        {
+          "name": "Sagar Bhatia",
+          "url": "https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4"
+        },
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181856,
+      "name": "Raazdaariyan",
+      "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
     },
     {
       "album": {
@@ -16392,7 +16532,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 188041,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1YuyJ8rzlfBCnlCi4NIowp"
@@ -19448,6 +19588,36 @@
       "duration_ms": 292753,
       "name": "Until the Sun",
       "url": "https://open.spotify.com/track/6f8Oa07VVEiCuir7bIEtl7"
+    },
+    {
+      "album": {
+        "name": "Uska Pata",
+        "url": "https://open.spotify.com/album/3Vu6WqA0OSvD3FNe4qJZ4X"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Gunjan Saini",
+          "url": "https://open.spotify.com/artist/3xiTyshhk0sLV6FJLdzIAH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "Uska Pata",
+      "url": "https://open.spotify.com/track/7es4VRgmTZ8dmuiz1Mm5HO"
     },
     {
       "album": {

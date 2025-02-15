@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT 127!
 
-136 songs - 7 hr 58 min
+137 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [White Night](https://open.spotify.com/track/0gu1joxLlUJKmg2ZvGTaZF) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:03 | 2021-10-25 |  |
 | [White Night](https://open.spotify.com/track/33txTXgQioQ5eaXc7yWd67) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:03 | 2021-10-25 | 2024-04-19 |
 | [Yacht](https://open.spotify.com/track/0kMTK6RqBkUojGARhbQkaq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:07 | 2023-10-06 |  |
+| [You In Vague Memory](https://open.spotify.com/track/2KVedzaZvhC9z9EthKqE2I) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 4:17 | 2025-02-14 |  |
 | [無限的我 무한적아; LIMITLESS](https://open.spotify.com/track/6m96zMB8BrLrpyT7NvApxB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 4:07 | 2021-10-25 |  |
 | [롤러코스터 Heartbreaker](https://open.spotify.com/track/5IhVzUL9qR7MW2ISpB6iYR) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 3:14 | 2021-10-25 |  |
 | [소방차 Fire Truck](https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 2:58 | 2021-10-25 |  |

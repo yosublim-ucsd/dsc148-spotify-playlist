@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB?si=q2nncdZ4RESat01b_WK04w\">Laudo</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw?si=YezHxkrgR1SKTCQU-SlGJw\">ANVR</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 306500,
       "name": "30 Kilos Na Parys",
       "url": "https://open.spotify.com/track/2VUWFkcSywxFfxfiLRSlPV"
+    },
+    {
+      "album": {
+        "name": "4 In The Morning",
+        "url": "https://open.spotify.com/album/3qBDIRNWUWxh2YeZcNBzgO"
+      },
+      "artists": [
+        {
+          "name": "4am",
+          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199222,
+      "name": "4 In The Morning",
+      "url": "https://open.spotify.com/track/73Zxkvj9a5mPJoXl8uvuKH"
     },
     {
       "album": {
@@ -218,6 +236,24 @@
       "duration_ms": 174563,
       "name": "Achilles' Heel",
       "url": "https://open.spotify.com/track/3IjaZvAjnvk8yRtlgfLMf3"
+    },
+    {
+      "album": {
+        "name": "Kollektief",
+        "url": "https://open.spotify.com/album/53AlslP0fAtrxRTERlpq9i"
+      },
+      "artists": [
+        {
+          "name": "Kryye",
+          "url": "https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90607,
+      "name": "Actual Love Song",
+      "url": "https://open.spotify.com/track/35TvgugWTcO8Ns6xEydtHD"
     },
     {
       "album": {
@@ -2761,6 +2797,28 @@
     },
     {
       "album": {
+        "name": "Easy Come, Easy Go",
+        "url": "https://open.spotify.com/album/0EmJMb6Mc05JsImSW52v1f"
+      },
+      "artists": [
+        {
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+        },
+        {
+          "name": "Black Heidi",
+          "url": "https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176801,
+      "name": "Easy Come, Easy Go",
+      "url": "https://open.spotify.com/track/3VAKY5TpevbMyBiblg172H"
+    },
+    {
+      "album": {
         "name": "Eisbein",
         "url": "https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U"
       },
@@ -2794,6 +2852,24 @@
       "duration_ms": 141633,
       "name": "ek voel ek droom",
       "url": "https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn"
+    },
+    {
+      "album": {
+        "name": "Ek Weet Nie Wat Ek S\u00ea Nie",
+        "url": "https://open.spotify.com/album/5v1NqaYZOiHEhYHLktLh25"
+      },
+      "artists": [
+        {
+          "name": "Hartklop",
+          "url": "https://open.spotify.com/artist/6CqWHUjfhUj6amb9pP60Ga"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186230,
+      "name": "Ek Weet Nie Wat Ek S\u00ea Nie",
+      "url": "https://open.spotify.com/track/55GPVHKoJqqFQyBTk2b86b"
     },
     {
       "album": {
@@ -3144,7 +3220,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156121,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi"
@@ -4915,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Just Live It Up",
+        "url": "https://open.spotify.com/album/2OGWiLgIxjYfD1pNwTjXst"
+      },
+      "artists": [
+        {
+          "name": "The Rocc Lobsters",
+          "url": "https://open.spotify.com/artist/3ylSwZObELpgKEoXmTcPWJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259390,
+      "name": "Just Live It Up",
+      "url": "https://open.spotify.com/track/6pPAwuuYZ8bT2ujleLIEIo"
+    },
+    {
+      "album": {
         "name": "Just One Hit",
         "url": "https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs"
       },
@@ -5738,6 +5832,24 @@
       "duration_ms": 191364,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M"
+    },
+    {
+      "album": {
+        "name": "Made",
+        "url": "https://open.spotify.com/album/0R9gsxpe62IkCcPTPcfO74"
+      },
+      "artists": [
+        {
+          "name": "ANVR",
+          "url": "https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224334,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/1D2SxJBNWzwilP3N0P0oWm"
     },
     {
       "album": {
@@ -7062,7 +7174,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 219818,
       "name": "P.S.",
       "url": "https://open.spotify.com/track/0VYXHmRB43dQgwcsDnqxLN"
@@ -7322,6 +7434,24 @@
       "duration_ms": 163371,
       "name": "PLUS MINUS",
       "url": "https://open.spotify.com/track/7vGJj71Z0RRVOzpdnpYjip"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/6GzNoRUMrHXaYJkmKZVKLG"
+      },
+      "artists": [
+        {
+          "name": "Diverted Disorder",
+          "url": "https://open.spotify.com/artist/2e0v1Lyfnj30EjATJ0ytil"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/7tbrAxXQWUsPVoFpxiJouI"
     },
     {
       "album": {
@@ -8956,7 +9086,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 232145,
       "name": "Sweat and Blood",
       "url": "https://open.spotify.com/track/1GwnwTgdQZNwDQvoGNCoKD"
@@ -9158,7 +9288,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 212853,
       "name": "Ten Seconds",
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
@@ -9556,7 +9686,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 297668,
       "name": "The Whiskey Gospel",
       "url": "https://open.spotify.com/track/5pcjW451nhhpUDQBkE1nPG"
@@ -9596,6 +9726,28 @@
       "duration_ms": 242233,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/383TJILTEIAmfndU48yqaI"
+    },
+    {
+      "album": {
+        "name": "think about it",
+        "url": "https://open.spotify.com/album/5v9edN5GEMhfvbb6ty5LA7"
+      },
+      "artists": [
+        {
+          "name": "Taking Back March",
+          "url": "https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq"
+        },
+        {
+          "name": "Stephen Tshuma",
+          "url": "https://open.spotify.com/artist/7aRQk7Rk7NF2ARhBRUxri4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252083,
+      "name": "think about it",
+      "url": "https://open.spotify.com/track/1SasABz9MXN2klCgPefFRC"
     },
     {
       "album": {
@@ -9980,7 +10132,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 187379,
       "name": "ur so beautiful",
       "url": "https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9"
@@ -10304,7 +10456,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 236866,
       "name": "Walking",
       "url": "https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo"
@@ -10770,7 +10922,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170338,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/2N7FFLLDXZup2T6f7V7X6a"

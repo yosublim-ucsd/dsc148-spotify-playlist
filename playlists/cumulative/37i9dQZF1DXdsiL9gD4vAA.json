@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 276136,
       "name": "Ikhtiyar",
       "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
@@ -2443,6 +2443,28 @@
     },
     {
       "album": {
+        "name": "Mil Ke Bhi Na Mili Khushi",
+        "url": "https://open.spotify.com/album/47elzd0gUBpWKopixNHzMy"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298676,
+      "name": "Mil Ke Bhi Na Mili Khushi",
+      "url": "https://open.spotify.com/track/6wRThmYPMYMtmuCyncsRUJ"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection, Vol. 1",
         "url": "https://open.spotify.com/album/6rIuO7Gg2iynYy7urWgOhy"
       },
@@ -2722,7 +2744,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206446,
       "name": "Parwaah",
       "url": "https://open.spotify.com/track/6gKJGGdSdplnQMztBCCpnR"
@@ -3236,6 +3258,24 @@
       "duration_ms": 339376,
       "name": "Samandar",
       "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
+    },
+    {
+      "album": {
+        "name": "Shaam Se Aaj",
+        "url": "https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g"
+      },
+      "artists": [
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Shaam Se Aaj",
+      "url": "https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm"
     },
     {
       "album": {

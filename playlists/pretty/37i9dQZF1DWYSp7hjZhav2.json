@@ -1,15 +1,39 @@
 {
   "description": "<a href=\"spotify:artist:1UL813H5aj3e8ekE5RqWqc\">Tale Of Us</a>'s favorite tracks. Updated regularly. Curated by Tale Of Us. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 96895,
+  "num_followers": 96944,
   "original_name": "Tale Of Us' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4U4dwAAAACO00vm7JtLicAR0K1WQyn6",
+  "snapshot_id": "Z6+uFgAAAAB0RYC/XMQ6cpKZjY8TcYZI",
   "tracks": [
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "duration_ms": 146308,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
@@ -53,7 +77,7 @@
       "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Eusexua (Anyma Remix)",
         "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "We Are The People (Reimagined)",
         "url": "https://open.spotify.com/album/2HZtcldt6vk3lmScW5dvMj"
@@ -93,7 +117,7 @@
       "url": "https://open.spotify.com/track/0NMsquuECv3YARPaGcLTls"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "The Turn",
         "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
@@ -113,7 +137,7 @@
       "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Dun Dun",
         "url": "https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83"
@@ -129,7 +153,7 @@
       "url": "https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
@@ -149,7 +173,43 @@
       "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 267540,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/4LNWrIhys5ZnE8bjwQg3OL"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "The Pledge",
         "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
@@ -169,27 +229,7 @@
       "url": "https://open.spotify.com/track/3B3ORyFgJrlEpHRtqrOYe8"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        }
-      ],
-      "duration_ms": 302414,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/1RU86zP9rjDtmrOZ2DSJ8H"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
@@ -213,7 +253,7 @@
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/7F0WozSMvzB7hPFTwq6KD4"
@@ -229,7 +269,7 @@
       "url": "https://open.spotify.com/track/5MpcZ5F3J2mqIF4qW2ZLYL"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/3IQzJXm1COvtQJrYTy0awn"
@@ -245,7 +285,23 @@
       "url": "https://open.spotify.com/track/1p4NbbxsvCLS7lE7NHBDO8"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Emotional Frequencies",
+        "url": "https://open.spotify.com/album/0Rf8SzUDhJm77v64mHNuQo"
+      },
+      "artists": [
+        {
+          "name": "Ferdinand De Marne",
+          "url": "https://open.spotify.com/artist/40IR4uaLi49xYhygk9YL6Y"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/42iDJejGm4eEKG8a1F34Rq"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -269,7 +325,7 @@
       "url": "https://open.spotify.com/track/2FOAzrnnPeIvTCxduyfeKG"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
         "url": "https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE"
@@ -297,31 +353,7 @@
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "RITMO",
-        "url": "https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "Son of Son",
-          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
-        }
-      ],
-      "duration_ms": 193700,
-      "name": "RITMO",
-      "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Colossal",
         "url": "https://open.spotify.com/album/3anbwyAI9TgmLyFTBjPTiY"
@@ -341,27 +373,23 @@
       "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+        "name": "Can You Feel It (Extended Mix)",
+        "url": "https://open.spotify.com/album/1ehrlXHGCKu4mXmqvsJuD0"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 226150,
-      "name": "Sacrifice (with PARISI)",
-      "url": "https://open.spotify.com/track/5BYW81VirpjGniM4EixRp8"
+      "duration_ms": 219047,
+      "name": "Can You Feel It - Extended Mix",
+      "url": "https://open.spotify.com/track/2tZmp9oqmWO07SVm3yN42H"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
@@ -381,7 +409,27 @@
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Realm Of Consciousness Pt. VI",
+        "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Lehar",
+          "url": "https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1"
+        }
+      ],
+      "duration_ms": 359032,
+      "name": "Tokyo Nights",
+      "url": "https://open.spotify.com/track/1oJzfURANDsyf45jMrix5w"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/1PhEJ1tmlqtC9GrHRq5jfF"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/76WzSf5dNPVDJ0XaeEgV4G"
@@ -421,63 +469,7 @@
       "url": "https://open.spotify.com/track/1ui5uTqeBERAiJMgzworsf"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Shiver (Cassian Remix)",
-        "url": "https://open.spotify.com/album/2TUxf9Z7J0Mxhm8jgpKAtv"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Shiver - Cassian Remix",
-      "url": "https://open.spotify.com/track/3wPPekju1lN3XgdtYCWmOS"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4z5LsiOgsPb1eauNSG6tkC"
@@ -493,7 +485,7 @@
       "url": "https://open.spotify.com/track/3OA3QzszT68km4YEfTIJtF"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
@@ -521,7 +513,27 @@
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/4hti1qfGjrd8pphaR7KDVy"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 255710,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/12r1B8oljdg4HyC5YKI2rZ"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -545,7 +557,7 @@
       "url": "https://open.spotify.com/track/3xZp6ajHw5LLgA2LhA64XZ"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Speranza",
         "url": "https://open.spotify.com/album/0ZFsUxQYIAqU9Xat7HhWI5"
@@ -561,7 +573,7 @@
       "url": "https://open.spotify.com/track/6hIXNRNOFlnvyqk4XjADrm"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -593,7 +605,7 @@
       "url": "https://open.spotify.com/track/2sFEEozHdCfiLechuhgLfK"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
@@ -617,7 +629,31 @@
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Miss You (Argy Remix)",
+        "url": "https://open.spotify.com/album/1o9F9wzQQTAU1k8Qj5fDza"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Miss You - Argy Remix",
+      "url": "https://open.spotify.com/track/7sNSLpiSJrNYWc0XLgFEBn"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Welcome The Night",
         "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Jai",
         "url": "https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "EXILE 007",
         "url": "https://open.spotify.com/album/4mpQiHe1fpueC8tErl0nKT"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/1NSuao7JfgbZB0cE85M87h"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Independence",
         "url": "https://open.spotify.com/album/3gTody5aBTLm3YzTfhz6Wv"
@@ -709,51 +745,7 @@
       "url": "https://open.spotify.com/track/1nhtOnWnzXDnhfWZdqtu0m"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Eternity - Massano Remix",
-      "url": "https://open.spotify.com/track/55V7uCWhmnqsVcs8B9TH5V"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "After Love (feat. Delilah Montagu)",
-      "url": "https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
@@ -769,7 +761,7 @@
       "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -793,7 +785,7 @@
       "url": "https://open.spotify.com/track/1IPZfbfenyYPTg45HcNxgS"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
@@ -813,23 +805,7 @@
       "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
@@ -853,7 +829,7 @@
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Endeavour",
         "url": "https://open.spotify.com/album/78rwQpovCXsZhc1bplaUIc"
@@ -873,7 +849,7 @@
       "url": "https://open.spotify.com/track/2vzJKatRMtJnP2oBeu4f6x"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Hello Paki",
         "url": "https://open.spotify.com/album/27A3vZN49wdHtRPaPs8Nml"
@@ -893,23 +869,7 @@
       "url": "https://open.spotify.com/track/5OR3ekJZQ9zKnjnlSO8n7o"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Chronicles",
-        "url": "https://open.spotify.com/album/6tlMEXycMSMclHRrJXs5qO"
-      },
-      "artists": [
-        {
-          "name": "David Lindmer",
-          "url": "https://open.spotify.com/artist/5aa2ZWUh5vpXHEWDmruKUY"
-        }
-      ],
-      "duration_ms": 349053,
-      "name": "Chronicles",
-      "url": "https://open.spotify.com/track/2ncKJgHMV1kwoXSqfdAc7b"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
@@ -925,7 +885,7 @@
       "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
@@ -945,7 +905,7 @@
       "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "In My System EP",
         "url": "https://open.spotify.com/album/2qIcJiNHC3TOROP79PFEYm"
@@ -961,7 +921,7 @@
       "url": "https://open.spotify.com/track/1unXvavR2QS22taOlliPeI"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
@@ -981,27 +941,7 @@
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
-      "album": {
-        "name": "Are We Dreaming",
-        "url": "https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Re-Type",
-          "url": "https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Are We Dreaming",
-      "url": "https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC"
-    },
-    {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
@@ -1017,7 +957,7 @@
       "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
     },
     {
-      "added_at": "2025-01-13 15:59:51",
+      "added_at": "2025-02-14 20:56:54",
       "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
@@ -1035,6 +975,38 @@
       "duration_ms": 186240,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2025-02-14 20:56:54",
+      "album": {
+        "name": "Sentient EP",
+        "url": "https://open.spotify.com/album/5Nxfg3K5QxTGiHS1ky8cUS"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 274148,
+      "name": "Sentient",
+      "url": "https://open.spotify.com/track/2b02PKAw1WU0W9RigoAP1Q"
     }
   ],
   "unique_name": "Tale Of Us' track IDs",

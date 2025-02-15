@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Silent Earth",
+        "url": "https://open.spotify.com/album/09M2M71vFgrOmDqNFY9URx"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256422,
+      "name": "Silent Earth",
+      "url": "https://open.spotify.com/track/24Sztla2BtKBRWcLnmjRo0"
+    },
+    {
+      "album": {
         "name": "Metamorphosis Complete",
         "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
       },

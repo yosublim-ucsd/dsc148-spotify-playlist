@@ -1,28 +1,44 @@
 {
-  "description": "The best indie dance tracks of the moment \ud83c\uddeb\ud83c\uddf7 with L'Imp\u00e9ratrice",
-  "num_followers": 884608,
+  "description": "the best indie dance tracks of the moment \ud83d\udde3\ufe0f with jigitz",
+  "num_followers": 884689,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTfAAAAAAQwgu8MdAED++0ENvU3dyK",
+  "snapshot_id": "Z67tCgAAAAAUPpCaV4cTq8JUsGKyxlfB",
   "tracks": [
     {
-      "added_at": "2025-02-07 05:00:44",
+      "added_at": "2025-02-14 05:00:42",
       "album": {
-        "name": "ENTROPIA",
-        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 398000,
-      "name": "ENTROPIA",
-      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+    },
+    {
+      "added_at": "2025-01-24 05:00:49",
+      "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -49,20 +65,36 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
-      "added_at": "2025-01-24 05:00:49",
+      "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Shaking Things Up",
-        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+        "name": "Different Time",
+        "url": "https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Shaking Things Up",
-      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+      "duration_ms": 198214,
+      "name": "Different Time",
+      "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "free mode",
+        "url": "https://open.spotify.com/album/3hkOFNPOZKDoyIWkGZvyEU"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "duration_ms": 160989,
+      "name": "free mode",
+      "url": "https://open.spotify.com/track/1daSFGsI7u2YIRjoSQ05iY"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
     },
     {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Not In Surrender",
+        "url": "https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 199420,
+      "name": "Not In Surrender",
+      "url": "https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq"
+    },
+    {
       "added_at": "2025-01-31 05:00:38",
       "album": {
         "name": "Revelation",
@@ -111,18 +159,50 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+        "name": "ENTROPIA",
+        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+      "duration_ms": 398000,
+      "name": "ENTROPIA",
+      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "W U",
+        "url": "https://open.spotify.com/album/00Pn5CSnnnEDffAo4GGLBN"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "W U",
+      "url": "https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11"
+    },
+    {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
+        "name": "Probably",
+        "url": "https://open.spotify.com/album/1n8lTQb8Z3vfBuNE7OoD69"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Probably",
+      "url": "https://open.spotify.com/track/41wVbCiHzdFJ02oJKsKOUi"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -179,6 +259,22 @@
       "duration_ms": 155000,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 142812,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -277,6 +373,22 @@
       "url": "https://open.spotify.com/track/0IfQHSXHZWuCWK7yrz3qfl"
     },
     {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1BjW2rlb6Qj4yFxD6P3Gtg"
+      },
+      "artists": [
+        {
+          "name": "Sumner",
+          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
+        }
+      ],
+      "duration_ms": 222711,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/54MEGyUvnMwDiMXA1hC9gA"
+    },
+    {
       "added_at": "2025-02-07 05:00:44",
       "album": {
         "name": "Lucky U",
@@ -297,6 +409,22 @@
       "url": "https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2"
     },
     {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
       "added_at": "2025-01-31 05:00:38",
       "album": {
         "name": "Live Or Die By Love",
@@ -311,6 +439,26 @@
       "duration_ms": 228274,
       "name": "Live Or Die By Love",
       "url": "https://open.spotify.com/track/10h8uNxxeHZMvwHi2Qiqky"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Turn Back Time (bad tuner Remix)",
+        "url": "https://open.spotify.com/album/4HnADdoKMQX2j6CeI2GRFZ"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 253029,
+      "name": "Turn Back Time - bad tuner Remix",
+      "url": "https://open.spotify.com/track/6X6jdv75spakAqKdDBNAkp"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -349,22 +497,6 @@
       "url": "https://open.spotify.com/track/0a4LK4MxVUF3zFMu9Bj3SZ"
     },
     {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Different Time",
-        "url": "https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Different Time",
-      "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
-    },
-    {
       "added_at": "2025-01-10 05:00:33",
       "album": {
         "name": "Disco Nap",
@@ -385,6 +517,22 @@
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Chroma Panorama Deluxe Edition",
+        "url": "https://open.spotify.com/album/5Xk7aqbigWJ7CB52XUbb0p"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        }
+      ],
+      "duration_ms": 207438,
+      "name": "Tonighter",
+      "url": "https://open.spotify.com/track/4jDii9qkutEJFRg3EC7WE2"
+    },
+    {
       "added_at": "2025-02-07 05:00:44",
       "album": {
         "name": "LIKE A DRUG",
@@ -399,6 +547,26 @@
       "duration_ms": 138133,
       "name": "LIKE A DRUG",
       "url": "https://open.spotify.com/track/7gver0FiQXh1Ycv7o5bfVa"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Wet Peak Stars",
+        "url": "https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 199828,
+      "name": "Wet Peak Stars",
+      "url": "https://open.spotify.com/track/5bZyJlELRUQatrt9SoJP8u"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -433,20 +601,20 @@
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
-      "added_at": "2025-02-07 05:00:44",
+      "added_at": "2025-02-14 05:00:42",
       "album": {
-        "name": "Probably",
-        "url": "https://open.spotify.com/album/1n8lTQb8Z3vfBuNE7OoD69"
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
       },
       "artists": [
         {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Probably",
-      "url": "https://open.spotify.com/track/41wVbCiHzdFJ02oJKsKOUi"
+      "duration_ms": 177781,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -1357,22 +1525,6 @@
       "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
     },
     {
-      "added_at": "2024-12-02 20:26:31",
-      "album": {
-        "name": "Any Signs of Love",
-        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 362261,
-      "name": "Any Signs of Love",
-      "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
-    },
-    {
       "added_at": "2025-01-03 15:55:05",
       "album": {
         "name": "Leave Me Slowly (Babsy. Remix)",
@@ -1423,58 +1575,6 @@
       "duration_ms": 219152,
       "name": "Still Riding",
       "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "One Last Disco",
-        "url": "https://open.spotify.com/album/4Hcn8BugTPlfb0YeH9qmTi"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 192820,
-      "name": "One Last Disco",
-      "url": "https://open.spotify.com/track/06uM1iy4LpraDuN2YmgZi2"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Dance on the World",
-        "url": "https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "North Downs",
-          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Dance on the World",
-      "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "V1",
-        "url": "https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY"
-      },
-      "artists": [
-        {
-          "name": "Coucheron",
-          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
-        }
-      ],
-      "duration_ms": 165047,
-      "name": "V1",
-      "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
     },
     {
       "added_at": "2024-11-01 04:45:51",
@@ -1581,22 +1681,6 @@
       "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Get It",
@@ -1611,42 +1695,6 @@
       "duration_ms": 179634,
       "name": "Get It",
       "url": "https://open.spotify.com/track/3f7ECZblJZ0nzzbcnfRJF3"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "make believe",
-        "url": "https://open.spotify.com/album/2yQEGjppXItfIp0nWc4ETC"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 137260,
-      "name": "make believe",
-      "url": "https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bodies in Motion",
-        "url": "https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA"
-      },
-      "artists": [
-        {
-          "name": "Love Language",
-          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
-        },
-        {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "When We're Together",
-      "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1701,22 +1749,6 @@
       "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
-      "added_at": "2024-09-03 16:53:52",
-      "album": {
-        "name": "Why's this dealer?",
-        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        }
-      ],
-      "duration_ms": 129571,
-      "name": "Why's this dealer?",
-      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
-    },
-    {
       "added_at": "2024-07-12 14:19:02",
       "album": {
         "name": "U R MINE",
@@ -1751,42 +1783,6 @@
       "duration_ms": 265161,
       "name": "Type of Girl Pt. 2",
       "url": "https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "stArlight",
-        "url": "https://open.spotify.com/album/03zxfkzxIFPaeaLTT0BgTG"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 142054,
-      "name": "stArlight",
-      "url": "https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz"
-    },
-    {
-      "added_at": "2024-07-26 05:08:01",
-      "album": {
-        "name": "Bikini",
-        "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
-      },
-      "artists": [
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 185798,
-      "name": "Bikini",
-      "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
     },
     {
       "added_at": "2024-06-24 13:06:02",

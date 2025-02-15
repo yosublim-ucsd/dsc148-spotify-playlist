@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. ASTROPICAL en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Big Soto en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171434,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/7u4oltjCmn21lWth2UbdSu"
@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Cuantas Veces",
+        "url": "https://open.spotify.com/album/5wVBJFmbL2Wwplgis1by1U"
+      },
+      "artists": [
+        {
+          "name": "Perd\u00f3n Amor",
+          "url": "https://open.spotify.com/artist/3i0LLJewOCJ5pOSE9HUjJa"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Cuantas Veces",
+      "url": "https://open.spotify.com/track/5i1TzhC0UtVgklTtQmAK9y"
+    },
+    {
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq"
       },
@@ -1046,6 +1064,24 @@
       "duration_ms": 188616,
       "name": "C\u00f3mo Te Olvido?",
       "url": "https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64"
+    },
+    {
+      "album": {
+        "name": "C\u00d3MO VAS?",
+        "url": "https://open.spotify.com/album/6t5PKyBAq58UiSixaqN6Fj"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183132,
+      "name": "C\u00d3MO VAS?",
+      "url": "https://open.spotify.com/track/6zEerY9VA3ioMiBQSB0V1O"
     },
     {
       "album": {
@@ -1256,7 +1292,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204600,
       "name": "Duele M\u00e1s",
       "url": "https://open.spotify.com/track/2ZTdBViWjVYLkWHXRTTFne"
@@ -1821,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/6beycqknkFJtOdbpgmMLVW"
+      },
+      "artists": [
+        {
+          "name": "Lengua de Mapa",
+          "url": "https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/3AsIvsumK2CjFupqFizEjE"
+    },
+    {
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
       },
@@ -1944,7 +1998,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 147920,
       "name": "las del conejo 2.0",
       "url": "https://open.spotify.com/track/76mfgfGQXEAFkiYku3rbkA"
@@ -2090,7 +2144,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 220400,
       "name": "Malib\u00fa",
       "url": "https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj"
@@ -2371,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Nada Es Para Siempre",
+        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
+    },
+    {
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
       },
@@ -2454,7 +2530,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -2520,6 +2596,24 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "album": {
+        "name": "Lo Q Falt\u00f3 x Decir",
+        "url": "https://open.spotify.com/album/49STdhjQlChT1lLDr1drMA"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "No Entres a Mi Cuarto",
+      "url": "https://open.spotify.com/track/2TL6Wh7PnPkRQWYlIyMsUX"
     },
     {
       "album": {
@@ -2614,7 +2708,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 195844,
       "name": "No Fue",
       "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"

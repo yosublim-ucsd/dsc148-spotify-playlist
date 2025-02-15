@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/50k252B7pn6AaVisjCIt9w.md) - [plain]
 
 > Featuring the best in Country like Carrie Underwood, Keith Urban and more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 423 likes - 61 songs - 3 hr 30 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 353 likes - 61 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/50k252B7pn6AaVisjCIt9w.md) - [plain]
 | 60 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 61 | [Singles You Up](https://open.spotify.com/track/3IPkbTA8KkdDXyWtGkfFXa) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Singles You Up](https://open.spotify.com/album/6cFEjCY2w7MzOggkKq3Hwg) | 3:02 |
 
-Snapshot ID: `NTEsZjNjYWY5OTMzYjIzZDAxODQ5MjUyNjA0ZDc2ZTA3MGU1Y2QyOTU1OQ==`
+Snapshot ID: `AAAAM/PK+ZM7I9AYSSUmBNduBw5c0pVZ`

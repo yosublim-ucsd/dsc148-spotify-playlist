@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Addison Rae
 
-1,636 songs - 3 day 12 hr 24 min
+1,638 songs - 3 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Drums \(Feat\. Kim Petras\) \- Tiësto Remix](https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drums \(Feat\. Kim Petras\) \[Tiesto Remix\]](https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2) | 2:52 | 2024-01-11 | 2024-01-19 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-04 | 2024-05-07 |
 | [DYSLEXIC](https://open.spotify.com/track/00eNoAwH4dwdYMeL6ikGhL) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [love, Dylon.](https://open.spotify.com/album/2qOH0pJuBaEqeOP2vGYOP6) | 1:54 | 2024-09-27 | 2024-11-08 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-27 | 2024-08-17 |
 | [Eastcoaster](https://open.spotify.com/track/47l9cHK0ju8jqL90fXyMWR) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Eastcoaster](https://open.spotify.com/album/0kuJMeAFeuWNbPWg5MwejI) | 2:36 | 2023-07-13 | 2023-07-28 |
 | [Easy](https://open.spotify.com/track/6RaZ2MAkvUAqApoEYHUqe5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx) | 3:29 | 2024-04-18 | 2024-05-17 |
@@ -1510,6 +1511,7 @@
 | [U Stay On My Mind](https://open.spotify.com/track/7hfyTmnJ3RkbRETLbS6SZz) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/2D6mvxNOCurkKqD0KCwitU) | 3:10 | 2023-06-15 | 2023-06-26 |
 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 | 2024-11-28 | 2025-02-07 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-06-15 | 2023-07-07 |
+| [Unlearn You](https://open.spotify.com/track/5nVEMpE41UD8N1xzGf40bE) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Unlearn You](https://open.spotify.com/album/3nVNxEMBvJikoIaEmdqIVi) | 2:36 | 2025-02-13 |  |
 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-17 | 2023-10-06 |
 | [unpredictable thinGs](https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [GORE](https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh) | 2:28 | 2023-12-14 | 2024-02-02 |
 | [Unstable](https://open.spotify.com/track/2PsKMjaliyVtRtqa5yhh1j) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Unstable](https://open.spotify.com/album/2xTREBmE4i3u1Tq7OkfjrR) | 2:36 | 2024-10-11 | 2024-11-15 |

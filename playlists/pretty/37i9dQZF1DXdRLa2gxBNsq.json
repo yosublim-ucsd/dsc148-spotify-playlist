@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Kaotiko.",
-  "num_followers": 110713,
+  "num_followers": 110722,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1439,34 +1439,34 @@
     {
       "added_at": "2025-02-13 23:00:13",
       "album": {
-        "name": "Hace falta\u2026?",
-        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+        "name": "Mama, Come, R\u00ede, Traga",
+        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
       },
       "artists": [
         {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La locura - original",
-      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+      "duration_ms": 172015,
+      "name": "Mama, Come, R\u00ede, Traga",
+      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
     },
     {
       "added_at": "2025-02-13 23:00:13",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+        "name": "La Regla (Remasterizado 2025)",
+        "url": "https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Kostramorfosis",
+          "url": "https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 134465,
+      "name": "La Regla - Remasterizado 2025",
+      "url": "https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW"
     },
     {
       "added_at": "2025-02-13 23:00:13",
@@ -1519,6 +1519,94 @@
     {
       "added_at": "2025-02-13 23:00:13",
       "album": {
+        "name": "\u00a1Qu'Espa\u00f1e!",
+        "url": "https://open.spotify.com/album/7B2uimKHmQb54BsnwkHUhe"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        },
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        },
+        {
+          "name": "Txarly Usher y Los Ejemplares",
+          "url": "https://open.spotify.com/artist/6sLVkYL7gONz8E9NbeXhGE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u00a1Qu'Espa\u00f1e!",
+      "url": "https://open.spotify.com/track/4jJxxJQMcKT5N63pxpkVDg"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "An\u00eds&Roll",
+        "url": "https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K"
+      },
+      "artists": [
+        {
+          "name": "Fabes con Almejes",
+          "url": "https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Vendimia Rock",
+      "url": "https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "La Sombra",
+        "url": "https://open.spotify.com/album/1ddstLl034u82ef2kHcZrG"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "La Sombra",
+      "url": "https://open.spotify.com/track/0l7EEoDWt4JiSE9r1DcaZk"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1531,6 +1619,38 @@
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "Yo Soy Aquel",
+        "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 139998,
+      "name": "Yo Soy Aquel",
+      "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
+    },
+    {
+      "added_at": "2025-02-13 23:00:13",
+      "album": {
+        "name": "Solo en Casa",
+        "url": "https://open.spotify.com/album/0tmTicFtkxYmvSMGxjl6aw"
+      },
+      "artists": [
+        {
+          "name": "Glandes Glandes",
+          "url": "https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp"
+        }
+      ],
+      "duration_ms": 141182,
+      "name": "Solo en Casa",
+      "url": "https://open.spotify.com/track/6lBp12MLvC0qGebQzd61ny"
     },
     {
       "added_at": "2025-02-13 23:00:13",
@@ -1563,122 +1683,6 @@
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "Bienvenidos al Infierno (En Directo)",
-        "url": "https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF"
-      },
-      "artists": [
-        {
-          "name": "Los Muertos de Cristo",
-          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "Envenenado",
-        "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
-      },
-      "artists": [
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Nos Enga\u00f1an - original",
-      "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "4 A\u00f1os, 2 Meses y 1 D\u00eda",
-        "url": "https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 220943,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "Semeya de la Rabia",
-        "url": "https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F"
-      },
-      "artists": [
-        {
-          "name": "Skontra",
-          "url": "https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi"
-        },
-        {
-          "name": "Odio Visceral",
-          "url": "https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Y sigo en pie",
-      "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
-        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 276058,
-      "name": "Ka\u00f1a",
-      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "No Te Muevas y Zona Especial Norte",
-        "url": "https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h"
-      },
-      "artists": [
-        {
-          "name": "RIP",
-          "url": "https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Enamorado de la Muerte",
-      "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
-    },
-    {
-      "added_at": "2025-02-13 23:00:13",
-      "album": {
-        "name": "Dif\u00edcil Ser Humano",
-        "url": "https://open.spotify.com/album/1zSktJaNyIi1ot2Wupn4VZ"
-      },
-      "artists": [
-        {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "El Pa\u00eds de Alicia",
-      "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

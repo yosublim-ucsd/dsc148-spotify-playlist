@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Diskoria \(Indonesia\)
 
-1,762 songs - 4 day 10 hr 36 min
+1,763 songs - 4 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [deal with it](https://open.spotify.com/track/1ViPzDtNBfxH5GAwTNCool) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [FFS](https://open.spotify.com/album/0pC7Tjq0HvwjgTG8omWU4q) | 2:19 | 2022-10-28 | 2022-11-18 |
 | [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-04-20 | 2023-05-14 |
 | [Dear Friends](https://open.spotify.com/track/2OrHoeyECHftDVF7tAVED0) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Dear Friends](https://open.spotify.com/album/4NtCWIed6ZJJ4AP9ydtWDF) | 3:39 | 2023-06-29 | 2023-07-21 |
-| [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-31 |  |
+| [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-31 | 2025-02-15 |
 | [December](https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [December](https://open.spotify.com/album/5WcH7hKHsz8C5rIjTa11ZP) | 3:48 | 2023-04-20 | 2023-04-28 |
 | [Deep](https://open.spotify.com/track/7pirPXzUp4hWprqqnSDL90) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Deep](https://open.spotify.com/album/26zBc38mso3uDF5er8el3d) | 4:09 | 2023-02-23 | 2023-04-09 |
 | [deep breath in](https://open.spotify.com/track/2rObMC4F1tSewQPn87RUi8) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [deep breath in](https://open.spotify.com/album/5kAlXseC7IrX2M5MMWrQdV) | 3:23 | 2022-08-18 | 2022-08-26 |
@@ -378,7 +378,7 @@
 | [Different Socks](https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Different Socks](https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh) | 3:39 | 2023-03-31 | 2023-04-21 |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 | 2023-02-03 |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2024-09-19 |  |
-| [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-04 | 2025-02-14 |
+| [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-04 |  |
 | [Distance](https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [1624](https://open.spotify.com/album/4ZwUxLArPQEgqqYPYecKNt) | 3:24 | 2024-02-01 | 2024-02-24 |
 | [Distance](https://open.spotify.com/track/73P8v6D9zDEvTvMAodfxKU) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Distance](https://open.spotify.com/album/6Tx4mitlJTZnBhPKCqHOYn) | 3:22 | 2023-02-09 | 2023-03-25 |
 | [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-06 | 2024-10-09 |
@@ -511,6 +511,7 @@
 | [Flying Bobs](https://open.spotify.com/track/7by74pjKw8FxKatW0l92Mf) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 4:02 | 2022-09-15 | 2022-11-18 |
 | [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-03-24 | 2022-05-13 |
 | [Fool](https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 3:16 | 2023-04-20 | 2023-06-30 |
+| [fool for you](https://open.spotify.com/track/29Btm3DobdwtRUJjS1v8re) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [fool for you](https://open.spotify.com/album/2jVCFxdjRN850mdZ8pCHOZ) | 3:13 | 2025-02-13 |  |
 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-13 |  |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2023-04-20 | 2024-11-16 |
 | [For the First Time](https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t) | [Love & Light](https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65) | 3:10 | 2024-05-16 | 2024-05-24 |

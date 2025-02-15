@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 254235,
       "name": "Doreen",
       "url": "https://open.spotify.com/track/4h8VSLg9OM2wzqLSVvYNGy"
@@ -2718,6 +2718,24 @@
       "duration_ms": 187542,
       "name": "Nyx",
       "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"
+    },
+    {
+      "album": {
+        "name": "N\u00e9 pour fl\u00e2ner",
+        "url": "https://open.spotify.com/album/4uwzzDLfZ1pcdCRGexEWRp"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137318,
+      "name": "N\u00e9 pour fl\u00e2ner",
+      "url": "https://open.spotify.com/track/1u4UEzziL9XmmpgOr3RQFG"
     },
     {
       "album": {

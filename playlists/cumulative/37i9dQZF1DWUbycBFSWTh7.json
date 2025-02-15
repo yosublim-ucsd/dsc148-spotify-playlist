@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "2025 Anthem",
+        "url": "https://open.spotify.com/album/13cU1iGRpv7o58aDWkoQhl"
+      },
+      "artists": [
+        {
+          "name": "Your friend daao",
+          "url": "https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "2025 Anthem",
+      "url": "https://open.spotify.com/track/79AXRrugrU4GG4fQCh1i5V"
+    },
+    {
+      "album": {
         "name": "2Sides (Crackazat Remix)",
         "url": "https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L"
       },
@@ -228,7 +246,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 390967,
       "name": "Ain't It Something",
       "url": "https://open.spotify.com/track/7gkcuSMPvP0oVWFDlLEwu9"
@@ -504,7 +522,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 328750,
       "name": "Balance & Harmony",
       "url": "https://open.spotify.com/track/6Wg2z9ZTZVatpxjb4nxK5X"
@@ -592,6 +610,24 @@
       "duration_ms": 477770,
       "name": "Be Yourself - Central Remix",
       "url": "https://open.spotify.com/track/0PhB0fgiMfIC649131VRH4"
+    },
+    {
+      "album": {
+        "name": "Analog Stories, Vol. 3",
+        "url": "https://open.spotify.com/album/5GNqpneGqTLeOP9DA7uo8x"
+      },
+      "artists": [
+        {
+          "name": "Abacus",
+          "url": "https://open.spotify.com/artist/6NLqTCFXDOWYXrZV6WyVO6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441569,
+      "name": "Beautiful African Girl - Abacus Mainpass",
+      "url": "https://open.spotify.com/track/1lxDfHxQPQbtVSqT4MdFNQ"
     },
     {
       "album": {
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 298181,
       "name": "Explorer",
       "url": "https://open.spotify.com/track/26PfnHdW74oNuRUIh3m9np"
@@ -2416,7 +2452,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 277805,
       "name": "Floating on Silence - K-Lone Remix",
       "url": "https://open.spotify.com/track/1wZpx3M3Gsou5NTgupmbDY"
@@ -3173,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/62rtRsFWFtdugJOsTSzMfC"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418110,
+      "name": "House Is House",
+      "url": "https://open.spotify.com/track/2oPDtTqlizWfNMyQbMSmIG"
+    },
+    {
+      "album": {
         "name": "How He Works (feat. Nico Vega) [Remixes]",
         "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
       },
@@ -3440,7 +3494,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 367868,
       "name": "I Think It's Ok - Oscap P Dub Remix",
       "url": "https://open.spotify.com/track/4pqSNd7O3VGAXHaqwGbt6J"
@@ -3458,7 +3512,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 412248,
       "name": "I Warned You Baby",
       "url": "https://open.spotify.com/track/1GStTBknp7qomNM5uYMcVd"
@@ -3726,6 +3780,24 @@
       "duration_ms": 232790,
       "name": "It's About Us",
       "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
+    },
+    {
+      "album": {
+        "name": "Analog Stories, Vol. 3",
+        "url": "https://open.spotify.com/album/5GNqpneGqTLeOP9DA7uo8x"
+      },
+      "artists": [
+        {
+          "name": "Abacus",
+          "url": "https://open.spotify.com/artist/6NLqTCFXDOWYXrZV6WyVO6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303979,
+      "name": "It's Bubbling (Short Stories)",
+      "url": "https://open.spotify.com/track/45Fd0wzr3WnRXkppK0hWQs"
     },
     {
       "album": {
@@ -4271,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "Loosen Your Bones",
+        "url": "https://open.spotify.com/album/1EMXZIAURF4rnnElcrD8kf"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Pinty",
+          "url": "https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305650,
+      "name": "Loosen Your Bones - Instrumental Dub",
+      "url": "https://open.spotify.com/track/7bWIgUCERJWbdj3g5xKHju"
+    },
+    {
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN"
       },
@@ -4504,7 +4598,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 400299,
       "name": "Makin Ends Meet - Deez Raw Life Mix",
       "url": "https://open.spotify.com/track/30WaY0F2Hdb3lVTT9mvdAG"
@@ -4562,6 +4656,24 @@
       "duration_ms": 287219,
       "name": "Mayolo",
       "url": "https://open.spotify.com/track/6phAArzDBUtL4vek1VY7l0"
+    },
+    {
+      "album": {
+        "name": "Back 2 Da 90's",
+        "url": "https://open.spotify.com/album/4vOnpPaf5rgxY1weJkwj1J"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339525,
+      "name": "Men's Club",
+      "url": "https://open.spotify.com/track/5nm2Wie4orilRzzjlicwfC"
     },
     {
       "album": {
@@ -4674,7 +4786,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 277615,
       "name": "Mist",
       "url": "https://open.spotify.com/track/25OJD6V9cFxFgDbkYeecDY"
@@ -4798,7 +4910,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156000,
       "name": "Moods of House - Chill Mix",
       "url": "https://open.spotify.com/track/5p69f0iqBGnH4qe6186XCY"
@@ -5099,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "My Secret Garden",
+        "url": "https://open.spotify.com/album/5EcGfOkMyD3xkvaybX56qu"
+      },
+      "artists": [
+        {
+          "name": "Haldo",
+          "url": "https://open.spotify.com/artist/6Wkxku5BaZwLi8B40t7R9r"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415081,
+      "name": "My Secret Garden - Original Mix",
+      "url": "https://open.spotify.com/track/3ro9QR7LNTZTJKSdYcf5Vl"
+    },
+    {
+      "album": {
         "name": "Lost Desert & Friends III",
         "url": "https://open.spotify.com/album/4I0G615tBSwurLamowdpHD"
       },
@@ -5390,7 +5520,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 324572,
       "name": "Nothing There",
       "url": "https://open.spotify.com/track/3uOSbobUGSDgjzxckCzT1R"
@@ -5776,7 +5906,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 272820,
       "name": "Phone Calls",
       "url": "https://open.spotify.com/track/4faE45jYQhn1eydK8QX7YM"
@@ -6114,7 +6244,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 252682,
       "name": "Ready For The Moment - Terry Hunter Remix Dub",
       "url": "https://open.spotify.com/track/60rbYVMuStWVJ4jMi0feTv"
@@ -7660,7 +7790,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 276489,
       "name": "The Rabbit Hole - Radio Edit",
       "url": "https://open.spotify.com/track/0aTQfc26cIPHsnctMuF2Y5"
@@ -7750,7 +7880,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 177889,
       "name": "The Universe Of House",
       "url": "https://open.spotify.com/track/2Sstcuov3xJ5s5HQGDoY12"
@@ -8130,6 +8260,28 @@
       "duration_ms": 379345,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/1YItV941sukqTQYxGjow9L"
+    },
+    {
+      "album": {
+        "name": "Double Honey Pack",
+        "url": "https://open.spotify.com/album/4hKEjluunBSG1fbWOomWo6"
+      },
+      "artists": [
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        },
+        {
+          "name": "NV",
+          "url": "https://open.spotify.com/artist/2l7rIpLsfTq1DNNpUQtBHK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228833,
+      "name": "Tonight NV South Jersey Dub",
+      "url": "https://open.spotify.com/track/1pGGmPKhM5z50lFuEGHXrC"
     },
     {
       "album": {
@@ -8612,7 +8764,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 272818,
       "name": "Wait on You (Say Goodbye)",
       "url": "https://open.spotify.com/track/4fmZ8PRxCYf3HyTZeNcmlh"

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 31986,
+  "num_followers": 31996,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6qTAAAAAACW5m0VrT34aPM34ckLKPkQ",
+  "snapshot_id": "Z6vkgAAAAADfZeYJHLMWBvNkIMPaI5sV",
   "tracks": [
     {
       "added_at": null,
@@ -367,42 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redes Sociales",
-        "url": "https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 190732,
-      "name": "Los Esclavos",
-      "url": "https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Fuego Fuego Fuego Fuego",
-      "url": "https://open.spotify.com/track/2JRfXtlt2jx1kilhfm0OJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -423,6 +387,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Fuego Fuego Fuego Fuego",
+      "url": "https://open.spotify.com/track/2JRfXtlt2jx1kilhfm0OJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redes Sociales",
+        "url": "https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 190732,
+      "name": "Los Esclavos",
+      "url": "https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 276906,
-      "name": "Volver al Futuro",
-      "url": "https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ"
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+      "duration_ms": 276906,
+      "name": "Volver al Futuro",
+      "url": "https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita Distancia",
-        "url": "https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Maldita Distancia",
-      "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
+      "duration_ms": 215173,
+      "name": "Nuevo M\u00e9xico",
+      "url": "https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Maldita Distancia",
+        "url": "https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj"
       },
       "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Nuevo M\u00e9xico",
-      "url": "https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY"
+      "duration_ms": 135853,
+      "name": "Maldita Distancia",
+      "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Los \u00c1ngeles, California",
-      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 321200,
       "name": "Mala Onda",
       "url": "https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Los \u00c1ngeles, California",
+      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 121253,
+      "name": "Ni\u00f1a Bien",
+      "url": "https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 121253,
-      "name": "Ni\u00f1a Bien",
-      "url": "https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf"
+      "duration_ms": 258268,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 258268,
-      "name": "Color",
-      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermoso",
         "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte (Japanese Version)",
-        "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Mal - Bonus",
-      "url": "https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 256096,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/5WB0z3fy5pcngGdLbI8Ayt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte (Japanese Version)",
+        "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Mal - Bonus",
+      "url": "https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX"
     }
   ],
   "unique_name": "This Is Little Jesus",

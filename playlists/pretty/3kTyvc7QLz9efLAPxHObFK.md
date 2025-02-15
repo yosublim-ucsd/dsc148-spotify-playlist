@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,041 songs - 4 day 12 hr 14 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,050 songs - 4 day 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2049,5 +2049,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2039 | [Just Pretend](https://open.spotify.com/track/15nZMHZYSpIXPuVUkNi5vS) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Just Pretend](https://open.spotify.com/album/3EZ6fYTm5UfMnIhxZXg08M) | 3:28 |
 | 2040 | [Anubis](https://open.spotify.com/track/0K2uD1cVlHK5NyIdmH9O8X) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [Anubis](https://open.spotify.com/album/6v6wNj8TJ5FXOYbYlTFXrD) | 3:06 |
 | 2041 | [Your Fate](https://open.spotify.com/track/7fSLuXxnsx29hvfukIxjE4) | [Shafar](https://open.spotify.com/artist/2pGUCI6fdNfyNLrQbQaw0h), [Tritium](https://open.spotify.com/artist/4NhYoKVnVJMTBCr7CRQt4w) | [Your Fate](https://open.spotify.com/album/5xQo1CYOzUcv6yAnLMunET) | 2:10 |
+| 2042 | [Yo DJ](https://open.spotify.com/track/2wqTUQtPft1emTww7ZZtGl) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Yo DJ](https://open.spotify.com/album/1SLR4dU8GitD76bBAsHL8c) | 2:23 |
+| 2043 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |
+| 2044 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
+| 2045 | [CAN'T TAKE IT](https://open.spotify.com/track/5KemTMq0eELbiJzmyNfkVc) | [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [CAN'T TAKE IT](https://open.spotify.com/album/6dDTy8zS6ODeFnop5dAIu6) | 2:54 |
+| 2046 | [No Superstar](https://open.spotify.com/track/3yXfc6oah9AfcOHEsrVRCT) | [Spitfire](https://open.spotify.com/artist/0R24GpElISFAat9cNHEPLw) | [No Superstar](https://open.spotify.com/album/04HrCMBYhyKmO0pEwGSoB6) | 2:48 |
+| 2047 | [My Own Sun](https://open.spotify.com/track/0QyAAzUdUqae2W5sRra6rw) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [My Own Sun](https://open.spotify.com/album/5yym2Dzj8e8aPM9r2C3o4L) | 3:02 |
+| 2048 | [Jungle](https://open.spotify.com/track/6PZOlXpuXceEXkAYiJHLBr) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Jungle](https://open.spotify.com/album/46us8PQkFUdEPZp1tZoQFk) | 2:22 |
+| 2049 | [I Can't Take It](https://open.spotify.com/track/5hF58SQmcjUwD5F1hqmxVR) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [I Can't Take It](https://open.spotify.com/album/6By3bJu40jt2B2zBvDjOmi) | 2:49 |
+| 2050 | [The Superweapon](https://open.spotify.com/track/26YFkUBx9by2nElAVGhuVh) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Valhalla](https://open.spotify.com/artist/1r2WudV60Fg4uwKoK0uNNe) | [The Superweapon](https://open.spotify.com/album/2nIIoDDjXvcDhcWbyJO5t3) | 3:32 |
 
-Snapshot ID: `AAAIMfmxqRGqHIfoZ9wNSih7HHLxxbBv`
+Snapshot ID: `AAAIOhsknSjcm6gu4E1YPzOjxDs51wV2`

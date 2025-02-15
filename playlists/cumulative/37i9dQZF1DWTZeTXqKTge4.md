@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Raccoon
 
-779 songs - 1 day 15 hr 46 min
+780 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Blah](https://open.spotify.com/track/3spog0Dx719qEXRsq5USS4) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Zaziboyzz](https://open.spotify.com/artist/5taiwCgFRPaMRBv6E5EAom) | [Blah](https://open.spotify.com/album/6E0tbFhmkML7IyBt3bCoJ7) | 3:19 | 2024-09-27 | 2025-01-11 |
 | [Bloc Boy](https://open.spotify.com/track/5t1fGB3RJbIcp23rfCV7Ov) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Bloc Boy](https://open.spotify.com/album/44HMFKiCD2hcS6ONVPqTJQ) | 3:14 | 2022-08-05 | 2022-11-12 |
 | [Bloc Boy](https://open.spotify.com/track/6cn196X2IHvvlIznsddtdO) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [La 4 direction Maizerets](https://open.spotify.com/album/7bAThGvhPRKpFUt2XB6yKf) | 3:14 | 2023-11-03 | 2023-11-13 |
-| [Bodies N Vvs](https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Mr Fastlife](https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4) | 2:58 | 2024-08-23 |  |
+| [Bodies N Vvs](https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Mr Fastlife](https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4) | 2:58 | 2024-08-23 | 2025-02-15 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-08-27 |
 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 | 2023-03-10 | 2023-12-02 |
 | [Boucle d'or](https://open.spotify.com/track/3fRx1iAvPNHA3ZIM8ObHzQ) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Boucle d'or](https://open.spotify.com/album/2JyabdWBZovF3bbpliYlP0) | 2:12 | 2023-03-17 | 2023-04-29 |
@@ -334,6 +334,7 @@
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 | 2023-09-09 |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-08-27 |
 | [Hommes de lettres](https://open.spotify.com/track/0on7ZmcKPbH7ZyT3eaneQo) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:03 | 2022-01-07 | 2022-03-18 |
+| [Hood Story](https://open.spotify.com/track/7pmj85039yWq8bf7nWyOw3) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Hood Story](https://open.spotify.com/album/7ADpWDMaxTfxZFWS6U2KU3) | 2:28 | 2025-02-14 |  |
 | [Hors\-d'œuvre](https://open.spotify.com/track/5H5oQLVhNRsOHM78KSsykD) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Hors\-d'œuvre](https://open.spotify.com/album/5PKOqlxt0khar45jGNunaz) | 3:14 | 2023-06-02 | 2024-03-16 |
 | [HotBoi](https://open.spotify.com/track/5ECtNQ26DQbUKpGOB24Utg) | [Certified Z](https://open.spotify.com/artist/7GQPeTG8yujIdKWdNgBSnb) | [HotBoi](https://open.spotify.com/album/6mB5bXN7GWK8Ny8FDcdfGs) | 1:41 | 2024-11-29 |  |
 | [HWMB](https://open.spotify.com/track/6vl6Do3EvEys2PPbWGWzr9) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [HWMB](https://open.spotify.com/album/02yJFkyTmvwpQ28FZ6p5Ue) | 2:32 | 2024-11-15 |  |

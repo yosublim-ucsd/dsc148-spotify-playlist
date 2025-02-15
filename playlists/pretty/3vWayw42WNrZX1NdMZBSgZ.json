@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Silvestre Dangond &amp; Emilia",
-  "num_followers": 53478,
+  "num_followers": 53477,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATJwFnHU4mHcSV3gH/jD7vW1L6xpwf",
+  "snapshot_id": "AAATKYak/cO4XPWxu7/bKgvx//8xE+2R",
   "tracks": [
     {
       "added_at": "2025-02-07 14:42:56",
@@ -399,6 +399,26 @@
       "duration_ms": 152000,
       "name": "Awolowo - Remix",
       "url": "https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO"
+    },
+    {
+      "added_at": "2025-02-14 17:08:09",
+      "album": {
+        "name": "Amiga Date Cuenta",
+        "url": "https://open.spotify.com/album/4KMPE2MpwUvwbJ6DmnnC8J"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Amiga Date Cuenta",
+      "url": "https://open.spotify.com/track/5No3KTQrLiCIBgG1r0r9TO"
     },
     {
       "added_at": "2025-02-07 14:43:35",
@@ -3187,6 +3207,26 @@
       "duration_ms": 158815,
       "name": "Te Imaginaba",
       "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
+    },
+    {
+      "added_at": "2025-02-14 15:46:59",
+      "album": {
+        "name": "Ysilandia",
+        "url": "https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 217723,
+      "name": "Ysilandia",
+      "url": "https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5"
     }
   ],
   "unique_name": "Pop Latin Hits",

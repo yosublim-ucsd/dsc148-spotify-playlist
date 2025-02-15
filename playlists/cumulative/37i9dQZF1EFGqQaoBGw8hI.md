@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-640 songs - 1 day 20 hr 34 min
+641 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [White Lady White Powder](https://open.spotify.com/track/1AC2yaxIO68p1h5gSeKsTO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:32 | 2022-09-08 |  |
 | [White Man Danger](https://open.spotify.com/track/7ysV4Cv0j4A1KZ0CuFdGcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:26 | 2023-05-26 |  |
 | [Whitewash Country](https://open.spotify.com/track/6Ind1AWnuYb1pSKwnJgRWh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:30 | 2022-09-08 |  |
+| [Who Believes In Angels?](https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb) | 5:13 | 2025-02-14 |  |
 | [Who Wears These Shoes?](https://open.spotify.com/track/6mGOqiCzOhzG08qtFdoYHw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:03 | 2022-09-08 |  |
 | [Who's Gonna Love You \- Piano/Percussion Demo](https://open.spotify.com/track/5TUoanyWjgLPYOD6OfMbwn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:39 | 2022-09-08 |  |
 | [Wicked Dreams](https://open.spotify.com/track/65njIUOttrk8Q6XRlLP4Mw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:39 | 2022-09-08 |  |

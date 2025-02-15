@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette",
-  "num_followers": 372096,
+  "num_followers": 372080,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "MEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
+        }
+      ],
+      "duration_ms": 130321,
+      "name": "MEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Profundamente",
         "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 135319,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "MEU CORA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
-        }
-      ],
-      "duration_ms": 130321,
-      "name": "MEU CORA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 165034,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "BiKE (blv)",
         "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180065,
       "name": "BiKE (blv)",
       "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 165034,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Eu te odeio",
-        "url": "https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER"
+        "name": "Vai dar Trabalho",
+        "url": "https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr"
       },
       "artists": [
         {
-          "name": "Dri",
-          "url": "https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 151538,
-      "name": "Eu te odeio",
-      "url": "https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG"
+      "duration_ms": 186621,
+      "name": "Vai dar Trabalho",
+      "url": "https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1239,6 +1239,22 @@
       "duration_ms": 172173,
       "name": "Filme de Adulto",
       "url": "https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Eu te odeio",
+        "url": "https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER"
+      },
+      "artists": [
+        {
+          "name": "Dri",
+          "url": "https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g"
+        }
+      ],
+      "duration_ms": 151538,
+      "name": "Eu te odeio",
+      "url": "https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Vai dar Trabalho",
-        "url": "https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr"
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Carol Juno",
+          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
         }
       ],
-      "duration_ms": 186621,
-      "name": "Vai dar Trabalho",
-      "url": "https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd"
+      "duration_ms": 151442,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1303,22 +1319,6 @@
       "duration_ms": 151389,
       "name": "Veste a Camisa",
       "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
-      },
-      "artists": [
-        {
-          "name": "Carol Juno",
-          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
-      },
-      "artists": [
-        {
-          "name": "Angela Destro",
-          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Pra te amar \u00e0s vezes",
         "url": "https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 140930,
       "name": "Pra te amar as vezes",
       "url": "https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
+      },
+      "artists": [
+        {
+          "name": "Angela Destro",
+          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
     }
   ],
   "unique_name": "Palco POP",

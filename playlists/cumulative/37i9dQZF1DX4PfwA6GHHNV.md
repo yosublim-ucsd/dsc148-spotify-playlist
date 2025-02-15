@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-176 songs - 8 hr 50 min
+177 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 | 2024-04-05 |  |
 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 | 2024-04-05 |  |
 | [Cabeza](https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Cabeza](https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl) | 2:49 | 2023-10-27 | 2023-11-25 |
+| [Cabo Verde](https://open.spotify.com/track/3Fg2CQSsb4ltRakh7KWmG9) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 2:20 | 2025-02-14 |  |
 | [Calma](https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Jaca Beats](https://open.spotify.com/artist/0GNm0Tq6BRwavnzheRcRWl) | [Calma](https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi) | 1:56 | 2024-02-16 | 2024-04-19 |
 | [Calor](https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Calor](https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L) | 2:29 | 2025-01-31 |  |
 | [Camarim](https://open.spotify.com/track/08CzlOB0r2a21LVg5L30UT) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Camarim](https://open.spotify.com/album/4UK9Jk30cEBRsnjRk3GQgm) | 2:07 | 2024-07-19 | 2024-08-31 |
@@ -45,7 +46,7 @@
 | [Corrente](https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI) | [Lz da França](https://open.spotify.com/artist/5wwIfBhmmcRChkLfFKxcu3), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Corrente](https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz) | 2:56 | 2024-08-30 |  |
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 | 2023-12-23 |
 | [Deixa Eu Mostrar](https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8) | [Danny](https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa) | [Deixa Eu Mostrar](https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB) | 2:18 | 2023-09-15 | 2023-11-11 |
-| [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 | 2024-04-19 |  |
+| [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 | 2024-04-19 | 2025-02-15 |
 | [Deixa Falar](https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Deixa Falar](https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu) | 2:16 | 2023-09-15 | 2023-12-02 |
 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 | 2023-10-20 |  |
 | [Do Mesmo Lado](https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Do Mesmo Lado](https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu) | 2:38 | 2023-10-13 | 2024-09-14 |

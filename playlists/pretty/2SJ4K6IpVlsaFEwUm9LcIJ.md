@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,714 likes - 42 songs - 2 hr 45 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,709 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 |
 | 41 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 |
 | 42 | [Jesus Sandals](https://open.spotify.com/track/1PX7OTFrT9raDrni7D6hqU) | [Ditch Effort](https://open.spotify.com/artist/1jy0qPVR1NXcxqofegK8Je) | [Mixed Bag](https://open.spotify.com/album/04lW466iMxY4odpN22tsQm) | 1:51 |
+| 43 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 |
 
-Snapshot ID: `AAAL1LJjMGOiYm01/GhSRBz7dKCRs8ve`
+Snapshot ID: `AAAL1cQqX+N/g4g5KYRtQwq6qk8bYt2O`

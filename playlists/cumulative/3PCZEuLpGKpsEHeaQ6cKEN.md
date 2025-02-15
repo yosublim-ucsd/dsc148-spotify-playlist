@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Jan Blomqvist
 
-1,289 songs - 2 day 20 hr 54 min
+1,291 songs - 2 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 | 2025-01-31 |  |
 | [Crazy](https://open.spotify.com/track/7ooduq5GMnT9fCpUswCkzT) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Leo Gira](https://open.spotify.com/artist/18FnUahuqpZRX5xQj4ZwnP), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Crazy](https://open.spotify.com/album/1PHgp5khN2QZ5HJhdogDXj) | 3:21 | 2024-01-18 | 2024-08-31 |
 | [Crazy Love](https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW) | 3:06 | 2022-06-27 | 2023-04-14 |
+| [Cry \(Just A Little\)](https://open.spotify.com/track/1qnAQEJ0pa15sUBLaOi2j4) | [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [HALO](https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB) | [Cry \(Just A Little\)](https://open.spotify.com/album/5J7neMUXY573X5gDUs4L3Y) | 2:10 | 2025-02-14 |  |
 | [Dancin' Alone](https://open.spotify.com/track/3XS09b4KdP200Iqjdd5cZo) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Dancin' Alone](https://open.spotify.com/album/54iQMmzI4mJbHbALqq4nVg) | 2:21 | 2024-03-28 | 2024-10-19 |
 | [Dancing Alone](https://open.spotify.com/track/41juqVVEYn91iFf10peqHF) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Dancing Alone](https://open.spotify.com/album/0BSJZQClZ13X9O4HsV63c5) | 4:31 | 2023-02-02 | 2023-03-18 |
 | [Dancing Alone](https://open.spotify.com/track/4RsXxQpRzQbipfx4d4bjKd) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Armada Music \- Miami 2023](https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY) | 4:31 | 2023-03-16 | 2023-06-09 |
@@ -1286,6 +1287,7 @@
 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 | 2024-05-07 | 2024-10-19 |
 | [You Gonna Want Me](https://open.spotify.com/track/3GjQ7r5SWFnMMbwfp22aF3) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Sexor](https://open.spotify.com/album/2iZORvBoo5BUkW8bv0b7Ke) | 3:59 | 2024-06-13 | 2024-10-19 |
 | [You Got Me Baby](https://open.spotify.com/track/1ULrW3uRP7OGreaIjfZpDM) | [Lushington](https://open.spotify.com/artist/2cpt9jk6cMovY7Nkgy1qTu) | [You Got Me Baby](https://open.spotify.com/album/1JgNaomf803HPsHkxUADDZ) | 2:58 | 2023-03-08 | 2023-05-13 |
+| [You Got Me Baby](https://open.spotify.com/track/3aeIv5vTPKCi2yfqUQZUEY) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm), [Lushington](https://open.spotify.com/artist/2cpt9jk6cMovY7Nkgy1qTu) | [You Got Me Baby](https://open.spotify.com/album/0eLwqHvckTf3l9R9ZCvy0X) | 3:21 | 2025-02-14 |  |
 | [You Got Me Calling](https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [You Got Me Calling](https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4) | 2:39 | 2022-06-09 | 2022-09-09 |
 | [You In My Mind](https://open.spotify.com/track/1Zih3XQzeqqGZgwTxFSSnD) | [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q), [Jen Jis](https://open.spotify.com/artist/347ZYa3M1wIhZ3j8Awnd19) | [You In My Mind](https://open.spotify.com/album/5CrhXffp8CQTJJH9Cx9cXE) | 2:34 | 2023-08-31 | 2024-02-09 |
 | [You Knew](https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [You Knew](https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2) | 3:21 | 2023-08-10 | 2023-08-20 |

@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-309 songs - 16 hr 23 min
+310 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [ALL MY FRIENDS ARE PXRNSTARS](https://open.spotify.com/track/6UBj2A9zC5RYpLXGquEIYu) | [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS), [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [ALL MY FRIENDS ARE PXRNSTARS](https://open.spotify.com/album/1aBzdLP3keSLVKEq1uJcyJ) | 2:43 | 2024-05-28 |  |
 | [ALL THE TIME](https://open.spotify.com/track/1K02VF9fDM9kVXihfj9ZK2) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [BLISS IN THE MIDST OF UNCERTAIN TIDES](https://open.spotify.com/album/0ZzlryTHJyECF1n3c3tjz9) | 3:47 | 2024-02-23 |  |
 | [Always Hated](https://open.spotify.com/track/4ix39AucihLeMNCe64fR6F) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Always Hated](https://open.spotify.com/album/1UY6s7nnSEBXgyuwRrJOq2) | 2:57 | 2023-06-14 |  |
+| [Angels At Night](https://open.spotify.com/track/0xnK07iPZTUlxnLyYlmRls) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [Angels At Night](https://open.spotify.com/album/3xCoV0hBCqTvBu8Uohlzh1) | 2:17 | 2025-02-14 |  |
 | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH) | [Spring Silver](https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv) | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb) | 3:29 | 2024-08-15 |  |
 | [ANTIHUMAN](https://open.spotify.com/track/3gUeMsbYV3mktmkknKWrnq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIHUMAN](https://open.spotify.com/album/0qB4GkfoPpEbDawVEpfn8r) | 3:31 | 2023-08-26 |  |
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-04-24 |  |

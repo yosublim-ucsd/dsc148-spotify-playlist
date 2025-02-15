@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Whal & Dolph
 
-320 songs - 19 hr 27 min
+321 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 |  |
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-16 | 2025-01-25 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-01 | 2024-11-23 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-14 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 | 2025-01-22 |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-06-27 | 2024-08-31 |
 | [FAVOURITE MISTAKE](https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [FAVOURITE MISTAKE](https://open.spotify.com/album/1zC5t0eCDIAj4j4sbW6XsQ) | 2:36 | 2024-08-09 | 2024-08-17 |
@@ -304,7 +305,7 @@
 | [แฟน](https://open.spotify.com/track/7h9G1wNdqxtVsN9dYIFPFM) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [แฟน](https://open.spotify.com/album/2vATLBkg93jXuNwHFuOXhO) | 3:03 | 2024-06-27 |  |
 | [แรงเสียดทาน](https://open.spotify.com/track/0BvFqapFhSqvyeHKcFt5gu) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [แรงเสียดทาน \- Single](https://open.spotify.com/album/4QcRAF57FpYesSmGtD3t9J) | 3:51 | 2024-07-05 | 2024-07-20 |
 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 | 2024-06-27 |  |
-| [โคจรด้วยรัก](https://open.spotify.com/track/3WXNL4EFD2NMy0L2zO5RpV) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [โคจรด้วยรัก](https://open.spotify.com/album/5kQ5aqaOqQxzdRqVmB665s) | 3:42 | 2025-01-24 |  |
+| [โคจรด้วยรัก](https://open.spotify.com/track/3WXNL4EFD2NMy0L2zO5RpV) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [โคจรด้วยรัก](https://open.spotify.com/album/5kQ5aqaOqQxzdRqVmB665s) | 3:42 | 2025-01-24 | 2025-02-15 |
 | [โคตรชอบเลยอ่ะ \(Hey ! I Like You\)](https://open.spotify.com/track/42sFJN5a3knoZyUCXdiNEy) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [โคตรชอบเลยอ่ะ \(Hey! I Like You\)](https://open.spotify.com/album/2uTtW63FLOmwcr5zo8yH7u) | 3:54 | 2024-06-27 | 2024-07-06 |
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-06-27 | 2024-10-19 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-06-27 |  |

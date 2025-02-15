@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 273608,
+  "num_followers": 273617,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY8AAAAACFaf9eMHS1vgZU5Hb936V3",
+  "snapshot_id": "Z67N5gAAAACYXqGcBYoKiwR63xIM4NZn",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:32",
@@ -83,6 +83,22 @@
       "duration_ms": 243008,
       "name": "In Love With A Memory",
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
+    {
+      "added_at": "2025-02-14 05:00:22",
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/6ZQJmalbz7FsGBgEfPxqUP"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Venus",
+          "url": "https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W"
+        }
+      ],
+      "duration_ms": 183363,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/4P9s672KFfDlbjhQAVeoT5"
     },
     {
       "added_at": "2025-01-17 05:00:57",
@@ -887,26 +903,6 @@
       "duration_ms": 264294,
       "name": "Myth of a Salesman",
       "url": "https://open.spotify.com/track/09o8N7h2RixsjpfBqbfRfk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Lies We Tell Ourselves At Night",
-        "url": "https://open.spotify.com/album/7rVc8zMM7OEbXWeP88VNRs"
-      },
-      "artists": [
-        {
-          "name": "All The Damn Vampires",
-          "url": "https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH"
-        },
-        {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
-        }
-      ],
-      "duration_ms": 214909,
-      "name": "The Lies We Tell Ourselves At Night",
-      "url": "https://open.spotify.com/track/6Ac2bemp4v731ioC2mWe57"
     },
     {
       "added_at": "2024-08-30 04:00:00",

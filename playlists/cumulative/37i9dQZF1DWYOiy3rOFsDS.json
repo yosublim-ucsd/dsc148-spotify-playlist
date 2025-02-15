@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
+    },
+    {
+      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
@@ -4021,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220369,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
+    },
+    {
+      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H"
       },
@@ -4152,7 +4188,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
@@ -5301,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/7nzgO4vSuPEQ7uRrXEjicX"
+      },
+      "artists": [
+        {
+          "name": "Eidan",
+          "url": "https://open.spotify.com/artist/7u1sDAihTzteIOuqFC5yY9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142603,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/6ooLaA3YD06LIygkUAvxNe"
+    },
+    {
+      "album": {
         "name": "Simplemente Soy",
         "url": "https://open.spotify.com/album/5ArFraSEkQ6yM4ea6WxSNC"
       },
@@ -5330,7 +5384,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190000,
       "name": "Sin Raz\u00f3n",
       "url": "https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk"

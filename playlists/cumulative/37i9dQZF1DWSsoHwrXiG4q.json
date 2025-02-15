@@ -759,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Evermade",
+        "url": "https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0"
+      },
+      "artists": [
+        {
+          "name": "LSB",
+          "url": "https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN"
+        },
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "Evermade",
+      "url": "https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL"
+    },
+    {
+      "album": {
         "name": "Evolution Dub / You And & Me",
         "url": "https://open.spotify.com/album/5Vt32ASWXOUkfts2GMT527"
       },

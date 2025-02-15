@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 492,
+  "num_followers": 494,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADPyydymUSosXnPlvjInmXGavoSRiR",
+  "snapshot_id": "AAADQcPHDYhCkUV1UpKUXeFTcUxWzAMy",
   "tracks": [
+    {
+      "added_at": "2025-02-14 21:24:18",
+      "album": {
+        "name": "Angels At Night",
+        "url": "https://open.spotify.com/album/3xCoV0hBCqTvBu8Uohlzh1"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Angels At Night",
+      "url": "https://open.spotify.com/track/0xnK07iPZTUlxnLyYlmRls"
+    },
     {
       "added_at": "2025-02-03 00:47:09",
       "album": {

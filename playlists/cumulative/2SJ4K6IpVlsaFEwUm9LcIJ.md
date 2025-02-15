@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-451 songs - 1 day 1 hr 18 min
+452 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Safari](https://open.spotify.com/track/38K4MzpzkLyirD5nJNSfYS) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [My Dear Life](https://open.spotify.com/album/1S82OiBWv9ozsRalgCSI6l) | 7:08 | 2024-11-21 | 2025-01-12 |
 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 | 2024-06-24 | 2024-07-12 |
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2024-04-27 | 2024-05-16 |
+| [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 | 2025-02-14 |  |
 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 | 2024-09-30 | 2024-11-14 |
 | [Secret Teardrops](https://open.spotify.com/track/03Mh2iAAdKKREZTe8rWbbT) | [Martin Rev](https://open.spotify.com/artist/4zDG2kkm3SmF383uO3Hgo8) | [See Me Ridin'](https://open.spotify.com/album/6i384rUguMYCULZXA3qsaV) | 2:42 | 2024-05-16 | 2024-07-12 |
 | [Secrets of the Heart](https://open.spotify.com/track/6gAEjLEQdZjDlEU1XiIdGi) | [Andrew Kenny](https://open.spotify.com/artist/4km4J5RDvdZZNHThRxst8G) | [Home EP](https://open.spotify.com/album/5vrRXbB4flIC0omKlwY5o4) | 2:15 | 2024-09-07 | 2024-11-14 |

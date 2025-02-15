@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190750,
       "name": "After Love (feat. Delilah Montagu)",
       "url": "https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 341200,
       "name": "Are We Dreaming",
       "url": "https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC"
@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It (Extended Mix)",
+        "url": "https://open.spotify.com/album/1ehrlXHGCKu4mXmqvsJuD0"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Can You Feel It - Extended Mix",
+      "url": "https://open.spotify.com/track/2tZmp9oqmWO07SVm3yN42H"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU"
       },
@@ -785,6 +803,28 @@
     },
     {
       "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/4hti1qfGjrd8pphaR7KDVy"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255710,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/12r1B8oljdg4HyC5YKI2rZ"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -814,7 +854,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 349053,
       "name": "Chronicles",
       "url": "https://open.spotify.com/track/2ncKJgHMV1kwoXSqfdAc7b"
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 362500,
       "name": "Eternity - Massano Remix",
       "url": "https://open.spotify.com/track/55V7uCWhmnqsVcs8B9TH5V"
@@ -2022,6 +2062,24 @@
       "duration_ms": 255483,
       "name": "Great Southern Land",
       "url": "https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM"
+    },
+    {
+      "album": {
+        "name": "Emotional Frequencies",
+        "url": "https://open.spotify.com/album/0Rf8SzUDhJm77v64mHNuQo"
+      },
+      "artists": [
+        {
+          "name": "Ferdinand De Marne",
+          "url": "https://open.spotify.com/artist/40IR4uaLi49xYhygk9YL6Y"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/42iDJejGm4eEKG8a1F34Rq"
     },
     {
       "album": {
@@ -2777,6 +2835,32 @@
     },
     {
       "album": {
+        "name": "Miss You (Argy Remix)",
+        "url": "https://open.spotify.com/album/1o9F9wzQQTAU1k8Qj5fDza"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Miss You - Argy Remix",
+      "url": "https://open.spotify.com/track/7sNSLpiSJrNYWc0XLgFEBn"
+    },
+    {
+      "album": {
         "name": "Monomono",
         "url": "https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ"
       },
@@ -2866,7 +2950,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -3465,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267540,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/4LNWrIhys5ZnE8bjwQg3OL"
+    },
+    {
+      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -3480,7 +3582,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 302414,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/1RU86zP9rjDtmrOZ2DSJ8H"
@@ -3774,7 +3876,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -3796,7 +3898,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 226150,
       "name": "Sacrifice (with PARISI)",
       "url": "https://open.spotify.com/track/5BYW81VirpjGniM4EixRp8"
@@ -3951,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Sentient EP",
+        "url": "https://open.spotify.com/album/5Nxfg3K5QxTGiHS1ky8cUS"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274148,
+      "name": "Sentient",
+      "url": "https://open.spotify.com/track/2b02PKAw1WU0W9RigoAP1Q"
+    },
+    {
+      "album": {
         "name": "Shiver (Cassian Remix)",
         "url": "https://open.spotify.com/album/2TUxf9Z7J0Mxhm8jgpKAtv"
       },
@@ -3970,7 +4090,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 245669,
       "name": "Shiver - Cassian Remix",
       "url": "https://open.spotify.com/track/3wPPekju1lN3XgdtYCWmOS"
@@ -4290,7 +4410,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
@@ -4454,7 +4574,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 213495,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
@@ -4612,7 +4732,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 359032,
       "name": "Tokyo Nights",
       "url": "https://open.spotify.com/track/1oJzfURANDsyf45jMrix5w"
@@ -4798,6 +4918,32 @@
       "duration_ms": 352500,
       "name": "Violla",
       "url": "https://open.spotify.com/track/33oUPomSazJALHB4T1DU6T"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146308,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
     },
     {
       "album": {

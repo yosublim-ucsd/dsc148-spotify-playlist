@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 147000,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz"
@@ -6228,6 +6228,24 @@
       "duration_ms": 149189,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "album": {
+        "name": "Solsbury Hill (Humane World for Animals Cover)",
+        "url": "https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Solsbury Hill - Humane World for Animals Cover",
+      "url": "https://open.spotify.com/track/7pwtOEq0aAD4a7dIwrDrkb"
     },
     {
       "album": {

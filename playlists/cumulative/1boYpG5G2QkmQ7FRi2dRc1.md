@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,980 songs - 5 day 3 hr 24 min
+1,981 songs - 5 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-11-10 | 2023-11-18 |
 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 | 2023-11-26 | 2023-12-23 |
 | [Sensa](https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Zac Martel](https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [Sensa](https://open.spotify.com/album/2RWJTcOuzato9McKwJgzH2) | 4:25 | 2024-09-21 | 2024-10-06 |
+| [Senses \(Now We Go\)](https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [ONEDUO](https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc) | [Senses \(Now We Go\)](https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO) | 2:33 | 2025-02-14 |  |
 | [separation anxiety \- Maya Q Remix](https://open.spotify.com/track/3fCwpQSRXztXguI6cfSqGm) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Tess Roby](https://open.spotify.com/artist/6LRMOu9O4czC6WcNZWIpOh), [Maya Q](https://open.spotify.com/artist/7w4cjtjGRbBN9wGWeu0r4J) | [separation anxiety \(deluxe\)](https://open.spotify.com/album/6Dio9pwqualCDqFLBRkO0Q) | 4:49 | 2023-12-22 | 2023-12-30 |
 | [Septima](https://open.spotify.com/track/7LzjuHtzCfi4Vem9lXo9gk) | [VovaWave](https://open.spotify.com/artist/5oBrjO9jJqyf7gHaIHZOXH) | [Septima](https://open.spotify.com/album/1jHZRqflv63tpxPYiRGMmG) | 3:56 | 2023-01-21 | 2023-01-29 |
 | [Serenity](https://open.spotify.com/track/4ZR3XNIrJ1LmuTshprKkXX) | [The Cyclist](https://open.spotify.com/artist/0rnH8BQH2nKlVXBLaCRH92) | [STP](https://open.spotify.com/album/62OtZ7BTU2EJRvBPqqcW29) | 7:02 | 2022-12-03 | 2023-01-07 |

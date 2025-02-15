@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from  Central Cee, Mac Miller, GloRilla, Lil Uzi Vert,  and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from  Drake, Central Cee, Mac Miller, GloRilla, Lil Uzi Vert,  and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 181654,
       "name": "all away",
       "url": "https://open.spotify.com/track/1kRfGpeuWN3ToD2iCjlhxW"
+    },
+    {
+      "album": {
+        "name": "ALL IN VEIN",
+        "url": "https://open.spotify.com/album/7D7zpHtUfmqecSWPes3B1D"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187088,
+      "name": "ALL IN VEIN",
+      "url": "https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152571,
       "name": "Bigger In Texas",
       "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208530,
       "name": "Dangerous II",
       "url": "https://open.spotify.com/track/7A15WOGrEJLCAwOilxJyxN"
@@ -2676,6 +2694,24 @@
       "duration_ms": 270000,
       "name": "Geri Inengi",
       "url": "https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
       "album": {
@@ -3737,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -4030,7 +4084,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -5231,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Preference",
+        "url": "https://open.spotify.com/album/2Ogtd0f4802h80TFCfgUiN"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136408,
+      "name": "Preference",
+      "url": "https://open.spotify.com/track/1P1hInsizxuzxcD1KcIAeE"
+    },
+    {
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -6018,7 +6090,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183919,
       "name": "SOUTH OF FRANCE - REMIX",
       "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"

@@ -1,12 +1,12 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636",
-  "num_followers": 38851,
+  "num_followers": 38883,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z62yRAAAAABVm+aaSEeimwNJ05D5pyL+",
+  "snapshot_id": "Z69IdgAAAACoiPuvszrCknwQj/p8p9qV",
   "tracks": [
     {
       "added_at": "2025-02-11 10:13:31",
@@ -23,6 +23,22 @@
       "duration_ms": 254571,
       "name": "Aijrah From Ayed Album 2025",
       "url": "https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV"
+    },
+    {
+      "added_at": "2025-02-14 13:43:18",
+      "album": {
+        "name": "Hd Nafsak",
+        "url": "https://open.spotify.com/album/5tript2PgGKjRq05Tje4NR"
+      },
+      "artists": [
+        {
+          "name": "Fahad Alamri",
+          "url": "https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P"
+        }
+      ],
+      "duration_ms": 219989,
+      "name": "Hd Nafsak",
+      "url": "https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y"
     },
     {
       "added_at": "2025-02-11 10:13:31",
@@ -779,22 +795,6 @@
       "duration_ms": 325038,
       "name": "Estaslam Qalb",
       "url": "https://open.spotify.com/track/3vji65yQ70Lkznq2sqlGtL"
-    },
-    {
-      "added_at": "2025-02-11 10:13:31",
-      "album": {
-        "name": "Maalem Hanini",
-        "url": "https://open.spotify.com/album/5KJOZBysIetUuFHf0fbynP"
-      },
-      "artists": [
-        {
-          "name": "Borhan",
-          "url": "https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi"
-        }
-      ],
-      "duration_ms": 231940,
-      "name": "Maalem Hanini",
-      "url": "https://open.spotify.com/track/6hvVKdAx1d38usGQnah5bw"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

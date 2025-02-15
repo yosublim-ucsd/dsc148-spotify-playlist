@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "pinoy alternative music . Cover: Kremesoda",
+  "description": "pinoy alternative music . Cover: SUYEN",
   "name": "alt.ph",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 209833,
       "name": "Been You",
       "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
+    },
+    {
+      "album": {
+        "name": "bestfriend",
+        "url": "https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158625,
+      "name": "bestfriend",
+      "url": "https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i"
     },
     {
       "album": {
@@ -890,6 +908,24 @@
       "duration_ms": 148190,
       "name": "I.N.A.S.",
       "url": "https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt"
+    },
+    {
+      "album": {
+        "name": "Suyen Imnida",
+        "url": "https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA"
+      },
+      "artists": [
+        {
+          "name": "SUYEN",
+          "url": "https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206062,
+      "name": "Isang Linggong Maghihintay",
+      "url": "https://open.spotify.com/track/2Wsd2xDZCL1Ng6MUwQMuVK"
     },
     {
       "album": {
@@ -1600,6 +1636,24 @@
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
+    },
+    {
+      "album": {
+        "name": "Oh, Irog",
+        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
+      },
+      "artists": [
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296714,
+      "name": "Oh, Irog",
+      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
     },
     {
       "album": {
@@ -2840,6 +2894,24 @@
       "duration_ms": 229333,
       "name": "VIP",
       "url": "https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59"
+    },
+    {
+      "album": {
+        "name": "Wag Ka na lang Kumagat",
+        "url": "https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT"
+      },
+      "artists": [
+        {
+          "name": "Sandwich",
+          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Wag Ka na lang Kumagat",
+      "url": "https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM"
     },
     {
       "album": {

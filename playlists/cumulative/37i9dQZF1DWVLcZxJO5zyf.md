@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Ebony
 
-370 songs - 17 hr 36 min
+371 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-01-14 | 2022-01-30 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-01-14 | 2022-10-15 |
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-10-24 |
+| [belo horizonte \(metade de mim\)](https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [belo horizonte \(metade de mim\)](https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N) | 2:32 | 2025-02-14 |  |
 | [Big Bang](https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [DEJAVU](https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ) | 3:03 | 2024-05-31 | 2024-06-29 |
 | [Bilhete Premiado](https://open.spotify.com/track/7Ark5JFItgqWf9DlizoxuV) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Bilhete Premiado](https://open.spotify.com/album/33rTS3jmRpkV29g8q6YA38) | 2:09 | 2022-01-14 | 2022-02-05 |
 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 | 2024-05-31 | 2024-09-28 |
@@ -328,7 +329,7 @@
 | [Soltinha](https://open.spotify.com/track/3aeKrdLhpOXYqEM6pjcO7g) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP) | [Soltinha](https://open.spotify.com/album/79o5cWTyCM3YNqYIK9wKif) | 2:12 | 2023-01-19 | 2023-02-24 |
 | [solto \(histórias de amor\)](https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [solto \(histórias de amor\)](https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp) | 3:10 | 2024-08-23 | 2024-12-03 |
 | [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:25 | 2022-06-24 | 2022-07-19 |
-| [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 | 2024-11-22 |  |
+| [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 | 2024-11-22 | 2025-02-15 |
 | [SORRIA](https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [SORRIA](https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs) | 3:01 | 2022-01-14 | 2022-05-07 |
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-03 |  |
 | [Sou Má](https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Nasci Pra Vencer / Sou Má](https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb) | 3:30 | 2023-02-09 | 2023-11-11 |

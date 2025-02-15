@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "9\u00b0C",
+        "url": "https://open.spotify.com/album/6Kn9w4RocAMB81C1m7LmYy"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "9\u00b0C",
+      "url": "https://open.spotify.com/track/1y3BEsKLQ3NNVEjYOt4l9t"
+    },
+    {
+      "album": {
         "name": "A Journey",
         "url": "https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 420313,
       "name": "Circle of Eyes",
       "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
@@ -3478,6 +3496,28 @@
       "duration_ms": 253587,
       "name": "Geist",
       "url": "https://open.spotify.com/track/7nrNnm2eb1cv14RoLz2E9r"
+    },
+    {
+      "album": {
+        "name": "Rediscovered Works",
+        "url": "https://open.spotify.com/album/6hkFBHpsump1QSxT5wicb0"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        },
+        {
+          "name": "Marc George",
+          "url": "https://open.spotify.com/artist/0MOrE3jGKPSVSOF2sUMXp4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371037,
+      "name": "Get Down - Rediscovered",
+      "url": "https://open.spotify.com/track/6nUPpNzCBT9F6SCig2JnhD"
     },
     {
       "album": {
@@ -5554,7 +5594,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"

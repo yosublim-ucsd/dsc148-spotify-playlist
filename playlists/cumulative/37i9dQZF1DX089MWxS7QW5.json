@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204906,
       "name": "365 (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208234,
       "name": "Blame The Summer",
       "url": "https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185200,
       "name": "chocolate love",
       "url": "https://open.spotify.com/track/4EHDIT0VwONdYdPZQJPgtn"
@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Fear Can\u2032t Kill You",
+        "url": "https://open.spotify.com/album/34iZBj4EwAiY3wYibRwDAR"
+      },
+      "artists": [
+        {
+          "name": "Seo actor",
+          "url": "https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146538,
+      "name": "Fear Can\u2032t Kill You",
+      "url": "https://open.spotify.com/track/5AiO9KXoy1NW6Oz4GKXq8N"
+    },
+    {
+      "album": {
         "name": "Feeling You",
         "url": "https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c"
       },
@@ -3048,6 +3066,24 @@
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
+    },
+    {
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/3BGZoDfmfyEpcnnlRS1Jux"
+      },
+      "artists": [
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131146,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/349oSDf5XxpypEq6L3zM2i"
     },
     {
       "album": {
@@ -4386,7 +4422,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180000,
       "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
       "url": "https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug"
@@ -5998,6 +6034,24 @@
       "duration_ms": 253040,
       "name": "Not Beautiful (feat. Kenessi)",
       "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
+    },
+    {
+      "album": {
+        "name": "Not That Girl",
+        "url": "https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Not That Girl",
+      "url": "https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI"
     },
     {
       "album": {
@@ -7997,6 +8051,28 @@
     },
     {
       "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/4As6SLkweWhpNGIA66b891"
+    },
+    {
+      "album": {
         "name": "THOUGHTS",
         "url": "https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh"
       },
@@ -9258,7 +9334,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 129358,
       "name": "\uafc8\uc5d0\uc11c\ub77c\ub3c4 \ub9cc\ub098",
       "url": "https://open.spotify.com/track/4URmaE5l4iqz29hb4FD650"

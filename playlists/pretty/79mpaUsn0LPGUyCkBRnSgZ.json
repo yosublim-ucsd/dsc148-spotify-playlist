@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG8ub4HssHl8M5oQD4nW2vMQwtyo2s",
+  "snapshot_id": "AAAG9Dm+xTbuj9idRjqxUZHHKLwqz0gx",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8931,6 +8931,38 @@
       "duration_ms": 107106,
       "name": "Diamond Day",
       "url": "https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq"
+    },
+    {
+      "added_at": "2025-02-14 04:15:46",
+      "album": {
+        "name": "Western Teleport",
+        "url": "https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9"
+      },
+      "artists": [
+        {
+          "name": "Emperor X",
+          "url": "https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Erica Western Teleport",
+      "url": "https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods"
+    },
+    {
+      "added_at": "2025-02-14 04:19:25",
+      "album": {
+        "name": "GROG",
+        "url": "https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE"
+      },
+      "artists": [
+        {
+          "name": "Frog",
+          "url": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA"
+        }
+      ],
+      "duration_ms": 21817,
+      "name": "Grog",
+      "url": "https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY"
     }
   ],
   "unique_name": "Zacklog",

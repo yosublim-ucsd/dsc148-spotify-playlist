@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
@@ -4327,6 +4327,32 @@
     },
     {
       "album": {
+        "name": "Pegada de Chefona",
+        "url": "https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH"
+      },
+      "artists": [
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        },
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        },
+        {
+          "name": "Mun H\u00e1",
+          "url": "https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176465,
+      "name": "Pegada de Chefona",
+      "url": "https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ"
+    },
+    {
+      "album": {
         "name": "Peita Preta",
         "url": "https://open.spotify.com/album/0sCG1dui8ftMQkNVyemeA6"
       },
@@ -4724,6 +4750,24 @@
       "duration_ms": 130369,
       "name": "Primeiro de Maio (Gostosas Inteligentes)",
       "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "album": {
+        "name": "Problemas de confian\u00e7a",
+        "url": "https://open.spotify.com/album/4fo6Zihg49rvfMVwkOhLJb"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137221,
+      "name": "Problemas de confian\u00e7a",
+      "url": "https://open.spotify.com/track/28uQ9dfxXEMj80G6v2T60c"
     },
     {
       "album": {
@@ -6380,7 +6424,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"

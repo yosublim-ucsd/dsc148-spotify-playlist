@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 134335,
+  "num_followers": 134370,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTZwAAAACtQuInlHXRwWblftCVyAa/",
+  "snapshot_id": "Z67N4wAAAAAbfuhQF7pOvSkc52rJUZL3",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/0zCuk3EDlJ3J8XjBkbpzVz"
+      },
+      "artists": [
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 291505,
+      "name": "Times Are Changing",
+      "url": "https://open.spotify.com/track/6uTkDoB8P6vtLh2tT0ZlzI"
+    },
     {
       "added_at": "2025-01-31 05:00:26",
       "album": {
@@ -1631,30 +1651,6 @@
       "duration_ms": 286061,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "You Make Me Feel So Good",
-        "url": "https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq"
-      },
-      "artists": [
-        {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "You Make Me Feel So Good",
-      "url": "https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs"
     },
     {
       "added_at": "2023-05-26 04:01:00",

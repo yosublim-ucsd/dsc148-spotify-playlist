@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aj aj aj](https://open.spotify.com/track/5toD7E6z8zGcTnwWquqgl3) | [Schytts](https://open.spotify.com/artist/2Zw1yhhUF3QDPXoqe2ylMN) | [Hålligång 1](https://open.spotify.com/album/4QdqsjJrL3zCeI0DkqIX9x) | 2:37 | 2022-05-20 |  |
-| [An Evening in Paris \(Deca\-Dancing\)](https://open.spotify.com/track/6dnOvA409VoBs3tVrc6yY8) | [Clabbe](https://open.spotify.com/artist/3EaRFER7ODyHlxJ10J3SCc) | [Diamanter \- 80\-Talet](https://open.spotify.com/album/47v3cRlPKzVHCGUtlsNQoq) | 4:28 | 2022-05-20 |  |
+| [An Evening in Paris \(Deca\-Dancing\)](https://open.spotify.com/track/6dnOvA409VoBs3tVrc6yY8) | [Clabbe](https://open.spotify.com/artist/1YSS3Wj7VMPMWYtYhsSuah) | [Diamanter \- 80\-Talet](https://open.spotify.com/album/47v3cRlPKzVHCGUtlsNQoq) | 4:28 | 2022-05-20 |  |
 | [Chris Craft No 9](https://open.spotify.com/track/5QaW85KXBQv70x0k20mzse) | [Shanes](https://open.spotify.com/artist/191kMgIjWIxnfZuehKsfBD) | [Ssss Shanes!](https://open.spotify.com/album/70m0W00rX2ruXuAiZ0WXz3) | 2:06 | 2022-05-20 |  |
 | [Co\-Co / Funny Funny / Poppa Joe \- Remastered](https://open.spotify.com/track/5VnqLeAjR7gpOe9jeC9Uq0) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Hits \(Special Edition\) \[Remastered\]](https://open.spotify.com/album/56pj9rI4vQgyLsDQh4ocfd) | 6:28 | 2022-05-20 |  |
 | [Druglord Panic](https://open.spotify.com/track/7tLx1Z9IhoIs900ZL7MauQ) | [Mikael Åkerfeldt](https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan) | [Clark \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt) | 2:33 | 2022-05-20 |  |

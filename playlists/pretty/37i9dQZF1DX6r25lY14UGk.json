@@ -1,13 +1,113 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 45625,
+  "num_followers": 45809,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTbQAAAACPNdbx4BxJHseFi+gRU0oQ",
+  "snapshot_id": "Z67N5AAAAABxBvrHWKc2FARG/M/a1Q6M",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Pinkfong & Baby Shark's Valentine's Day Songs",
+        "url": "https://open.spotify.com/album/7nzHS1N3KZXUcdRYi712T1"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 92898,
+      "name": "Skidamarink",
+      "url": "https://open.spotify.com/track/5YYShxMDEWiqNqlB67KuDj"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/0SMIUHeLaXKFMDrTZyfQGG"
+      },
+      "artists": [
+        {
+          "name": "L.O.L. Surprise!",
+          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+        }
+      ],
+      "duration_ms": 127594,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2SmYJVVWf2T8lCjAPPWHBN"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Veggie Fun",
+        "url": "https://open.spotify.com/album/7mqnEjVygM7Y20B5EtEY4D"
+      },
+      "artists": [
+        {
+          "name": "Lalay Kids TV",
+          "url": "https://open.spotify.com/artist/5qDABs4BS5VQ5iZd37a0x3"
+        }
+      ],
+      "duration_ms": 102799,
+      "name": "Veggie Fun",
+      "url": "https://open.spotify.com/track/4MdOteUzZV2GDD47lucBSW"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Cowboy Babies",
+        "url": "https://open.spotify.com/album/2qgVMzUm8KxLY5nVeuFK9B"
+      },
+      "artists": [
+        {
+          "name": "Little Buckaroos",
+          "url": "https://open.spotify.com/artist/5e0xWladqkmRBk1usr7Snj"
+        },
+        {
+          "name": "Sunday School Songs",
+          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
+        }
+      ],
+      "duration_ms": 139679,
+      "name": "The Wheels On The Bus Go Around And Around - Country Version",
+      "url": "https://open.spotify.com/track/0VlFrhq8izvFf6NX1p7U2a"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Weekend Baby",
+        "url": "https://open.spotify.com/album/2AYjpNShkZ0pr30dN302Bn"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "duration_ms": 122423,
+      "name": "Copy Cat",
+      "url": "https://open.spotify.com/track/6TtQkgLd6VhTGkZow1asPZ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "101 Days of School",
+        "url": "https://open.spotify.com/album/43ucryH9TQNkN8VzSDYIBV"
+      },
+      "artists": [
+        {
+          "name": "Martin and Rose Music",
+          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
+        }
+      ],
+      "duration_ms": 56318,
+      "name": "101 Days Of School",
+      "url": "https://open.spotify.com/track/0B58suOjvM4z7tOhvzFoCE"
+    },
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {

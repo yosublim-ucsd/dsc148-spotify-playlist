@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Jelly Roll and Brandon Lake
 
-264 songs - 16 hr 8 min
+266 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Higher Ground](https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Higher Ground](https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl) | 4:26 | 2024-03-29 |  |
 | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/1HkOYPY5Gx4CPYbCd6leKb) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/2CXIMjsdCGnMQQbodq2ZmB) | 3:18 | 2021-12-10 |  |
 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 | 2022-08-26 |  |
+| [Honey Sweet](https://open.spotify.com/track/7EUbTte3zODBNiP5MsMG00) | [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [Honey Sweet](https://open.spotify.com/album/546HO9gHPcdI0LMvlyhuoB) | 3:05 | 2025-02-14 |  |
 | [How Could I Not Believe](https://open.spotify.com/track/201fonFKfnKHzveCvrD5K6) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Pioneer \(Deluxe Edition\)](https://open.spotify.com/album/1cD1g7fKhkmE6DxUTJrPyr) | 3:28 | 2024-09-06 |  |
 | [How I Learned to Pray](https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Rubberband](https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b) | 4:20 | 2021-12-10 |  |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-15 |  |
@@ -262,6 +263,7 @@
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-15 | 2024-04-19 |
 | [Where The Good Ones Go \(feat\. Jake Owen\)](https://open.spotify.com/track/4qBdkbrHXpS7RcaINDQXyj) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Where The Good Ones Go \(feat\. Jake Owen\)](https://open.spotify.com/album/6uySGsXuAevT2XU2GNejSj) | 4:31 | 2024-05-24 |  |
 | [Whites Creek](https://open.spotify.com/track/4rWQo8QRfK24fOzg0rEwRF) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [Whites Creek](https://open.spotify.com/album/12GOHDbrW1upZa3bZcwZjX) | 3:34 | 2021-12-10 |  |
+| [Who God Says You Are](https://open.spotify.com/track/6xTAHnxa1XWaTqhemBXrzh) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Who God Says You Are](https://open.spotify.com/album/2graov7eRRQhgibBqt90YN) | 3:29 | 2025-02-14 |  |
 | [Who I Thought You Were](https://open.spotify.com/track/4rZcvYqEpH8574xbJns0Jn) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Who I Thought You Were](https://open.spotify.com/album/5ixliO2ILZ6KxGnsGaGTDd) | 3:27 | 2024-04-26 |  |
 | [Who You Are](https://open.spotify.com/track/6AbFsKUHKy3ua32eZmA1wv) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY), [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Who You Are](https://open.spotify.com/album/4765xGMEoI3u2OOrNtNqQx) | 3:22 | 2022-02-25 |  |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN) | 3:50 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-262 songs - 13 hr 30 min
+263 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,9 +223,10 @@
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-03-24 | 2023-04-24 |
 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 | 2022-11-18 | 2023-03-23 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-11-18 | 2024-02-03 |
-| [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 |  |
+| [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 | 2025-02-15 |
 | [Sinta\-me \(senta em mim\)](https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Sinta\-me \(senta em mim\)](https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB) | 2:20 | 2023-12-04 | 2024-03-23 |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 | 2024-11-30 |
+| [slow](https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Kino Osheanic](https://open.spotify.com/artist/1xpFujR2lkwHcgf5Vkr196) | [slow](https://open.spotify.com/album/39P9PBpBliszL4BGl9KkI8) | 3:01 | 2025-02-14 |  |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 |  |
 | [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 | 2024-01-13 |
 | [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 | 2023-11-17 |

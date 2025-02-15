@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,716 likes - 100 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,722 likes - 100 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 86 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 |
 | 87 | [OGO \(Glory\)](https://open.spotify.com/track/3c7oVOLRIUIjCmx1VlhXRy) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [OGO \(Glory\)](https://open.spotify.com/album/4kvp8JHHRtXTcdmKGgrVqi) | 12:55 |
 | 88 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 |
-| 89 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
+| 89 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
 | 90 | [Before Your Throne \- Live](https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Before Your Throne \(Live\)](https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo) | 12:45 |
 | 91 | [Loved by You \- Live](https://open.spotify.com/track/6Cr1CDE0TTzcDXgGYyUN51) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Loved by You \(Live\)](https://open.spotify.com/album/0pLh2OzBlZp8w6hCZIYY4G) | 6:03 |
 | 92 | [Nothing Outside](https://open.spotify.com/track/2pDMt6YdKO1W45ub3W1VJ0) | [Wale Kay](https://open.spotify.com/artist/7iSAqyAGF55lyoBkUqU6TO), [Benny Bkoye](https://open.spotify.com/artist/1QwHSj7gSmgHfs1v4J8R0q) | [Nothing Outside](https://open.spotify.com/album/0UtueVIfoIhK6d4oivPNbx) | 9:27 |

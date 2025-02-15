@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover - Madhubanti Bagchi",
+  "description": "Latest music from your fav I-Pop artists. Cover - Aditya A & Shirley Setia",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -4384,7 +4384,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 226093,
       "name": "Bukhaar",
       "url": "https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF"
@@ -4435,6 +4435,32 @@
     },
     {
       "album": {
+        "name": "Burai",
+        "url": "https://open.spotify.com/album/7AeXp40YQkbrdaP5Sv0G44"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Haroon-Gavin",
+          "url": "https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204677,
+      "name": "Burai",
+      "url": "https://open.spotify.com/track/352J3OFiN2LVvdxKWp8fIt"
+    },
+    {
+      "album": {
         "name": "Buri Aadat",
         "url": "https://open.spotify.com/album/76O7xGmjRNF0fj7CBCLFNs"
       },
@@ -4446,7 +4472,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 153084,
       "name": "Buri Aadat",
       "url": "https://open.spotify.com/track/4Ud7JmEvbm8NTjdXG6GSkO"
@@ -5362,7 +5388,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154748,
       "name": "Churake",
       "url": "https://open.spotify.com/track/5fJeJQBDLq1A6iNNX4spkO"
@@ -7021,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "Dil Sajda",
+        "url": "https://open.spotify.com/album/79rChUm0S52pIbRJUY0htX"
+      },
+      "artists": [
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210859,
+      "name": "Dil Sajda",
+      "url": "https://open.spotify.com/track/4LpEHQCn4akE4lguxkeSWe"
+    },
+    {
+      "album": {
         "name": "Dil Sambhalta Nahin",
         "url": "https://open.spotify.com/album/75X69O24r9xYhNMD8wBZNd"
       },
@@ -7154,7 +7198,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 207191,
       "name": "Dil Tujhpe Aa Gaya",
       "url": "https://open.spotify.com/track/6asiUNa2vpWBosW2eqEQRn"
@@ -8374,7 +8418,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185142,
       "name": "Faraari",
       "url": "https://open.spotify.com/track/14YvmnG7kiFN2MX3eiYpZo"
@@ -9222,7 +9266,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 212714,
       "name": "Guzaarish",
       "url": "https://open.spotify.com/track/36Ns3aKHSwcXarb5SarvPQ"
@@ -11678,6 +11722,32 @@
       "duration_ms": 160000,
       "name": "Ittefaq",
       "url": "https://open.spotify.com/track/6LhSwxEF9abRDqnUYQDJFC"
+    },
+    {
+      "album": {
+        "name": "Ittr Zafrani",
+        "url": "https://open.spotify.com/album/0HYwprAQiHXte86GHMKRxt"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114571,
+      "name": "Ittr Zafrani",
+      "url": "https://open.spotify.com/track/0mMrjxUITRjzMkcUV4lsGJ"
     },
     {
       "album": {
@@ -17283,6 +17353,28 @@
     },
     {
       "album": {
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/5rDOmWUsdle6IC9g3iwfwo"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        },
+        {
+          "name": "Anmol A",
+          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187197,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/5g2R2K3BsITGeCGBgVD7Em"
+    },
+    {
+      "album": {
         "name": "Manmaani",
         "url": "https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT"
       },
@@ -17546,7 +17638,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 157375,
       "name": "Mascara (Unplugged)",
       "url": "https://open.spotify.com/track/6IdJ9zRvPbSW5cERtMsoL5"
@@ -20919,6 +21011,32 @@
     },
     {
       "album": {
+        "name": "Pasandida Aurat (feat. Simar Kaur)",
+        "url": "https://open.spotify.com/album/3XeynpRZUF4XOE0jmPbZEq"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Pasandida Aurat (feat. Simar Kaur)",
+      "url": "https://open.spotify.com/track/6CEIENnUZwDqaAQZAjro9O"
+    },
+    {
+      "album": {
         "name": "Pasbaan",
         "url": "https://open.spotify.com/album/44SnPFNd4MMe5sQyonRO36"
       },
@@ -22037,6 +22155,32 @@
     },
     {
       "album": {
+        "name": "Raazdaariyan",
+        "url": "https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4"
+      },
+      "artists": [
+        {
+          "name": "Sagar Bhatia",
+          "url": "https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4"
+        },
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181856,
+      "name": "Raazdaariyan",
+      "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
+    },
+    {
+      "album": {
         "name": "Raintalk",
         "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
       },
@@ -22554,7 +22698,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170240,
       "name": "Rooh (Feat. Nushrratt Bharuccha)",
       "url": "https://open.spotify.com/track/7L73D0JndKdEbi25yKyCNk"
@@ -22660,6 +22804,32 @@
       "duration_ms": 165375,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/2ejQAjZYYotmnEAQ5Liee6"
+    },
+    {
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/6nym2wBsstcalJpLClyjyb"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Pawandeep Rajan",
+          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
+        },
+        {
+          "name": "Arunita Kanjilal",
+          "url": "https://open.spotify.com/artist/6NCmkdQ1Sb78SJ3ckJ9LjV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Roshni",
+      "url": "https://open.spotify.com/track/761MooPTj7HQW9nxI1KaZo"
     },
     {
       "album": {
@@ -26285,6 +26455,32 @@
     },
     {
       "album": {
+        "name": "TERE BINA KAHAN",
+        "url": "https://open.spotify.com/album/2u0k8ffQhiVvoOt8jUaTey"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Raaj Aashoo",
+          "url": "https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh"
+        },
+        {
+          "name": "Seepi Jha",
+          "url": "https://open.spotify.com/artist/3LmV3Qru54ddLrg45CVhJ3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246825,
+      "name": "TERE BINA KAHAN",
+      "url": "https://open.spotify.com/track/71MEJFgftdFHlQrvFn9B5S"
+    },
+    {
+      "album": {
         "name": "Tere Binn Dil Ye Mera",
         "url": "https://open.spotify.com/album/4KS2z0SKFe82dRPLhRGxMc"
       },
@@ -27042,6 +27238,52 @@
       "duration_ms": 209376,
       "name": "Thukraaya Kyun",
       "url": "https://open.spotify.com/track/7gwUQpTcZHmWItPqDraji0"
+    },
+    {
+      "album": {
+        "name": "Tik Tik",
+        "url": "https://open.spotify.com/album/589jH3mLW5FI0qmCrAztkM"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Jacqueline Fernandez",
+          "url": "https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Amrita Sen",
+          "url": "https://open.spotify.com/artist/21n4V78skCmFZRgMxtLic0"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186048,
+      "name": "Tik Tik",
+      "url": "https://open.spotify.com/track/0zXIZ3cuzZmfd1bS6cVNbY"
     },
     {
       "album": {
@@ -28644,7 +28886,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171219,
       "name": "Tum Ho Toh",
       "url": "https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ"

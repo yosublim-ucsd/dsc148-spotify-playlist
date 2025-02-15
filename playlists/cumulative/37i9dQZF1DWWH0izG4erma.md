@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: Cory Marks
+> Country music that rocks\. Cover: Treaty Oak Revival
 
-394 songs - 22 hr 32 min
+395 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Are We On Fire](https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM) | 3:37 | 2022-08-19 | 2023-04-11 |
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-17 | 2022-07-09 |
 | [Backroad of My Mind](https://open.spotify.com/track/0EHEhSDMITh2e89rIqnu4s) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [Backroad of My Mind](https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0) | 2:49 | 2024-09-06 |  |
+| [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 | 2025-02-14 |  |
 | [Bat Out Of Birmingham](https://open.spotify.com/track/0aK4mDwdfQGVH8YI3QOKpj) | [Jobe Fortner](https://open.spotify.com/artist/6RU95qiRMzolGkQZc6FIY4) | [Bat Out Of Birmingham](https://open.spotify.com/album/4rkv7ffmhDwzpPtVnw5BcO) | 3:37 | 2021-11-19 | 2022-07-17 |
 | [Better Off](https://open.spotify.com/track/05UnWmN0WVz8zYHBUtAeVz) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Mornings](https://open.spotify.com/album/6pq48mL5ol1L7RaH9T0ctR) | 3:17 | 2021-11-01 | 2022-07-10 |
 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 | 2021-11-01 |  |
@@ -153,7 +154,7 @@
 | [Heartbreaker](https://open.spotify.com/track/5r0fqmv3eSRFcEeGIWhMac) | [July Turner](https://open.spotify.com/artist/5cu8spTsbRlPAYBMx5rz1H) | [July Turner](https://open.spotify.com/album/42wsDwyiLxc2pG9uuHz8Ko) | 2:57 | 2023-07-21 | 2024-03-02 |
 | [Heaven Down Here](https://open.spotify.com/track/1cpixaTbEEkzxdbrlbFVll) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:58 | 2022-01-28 | 2022-07-28 |
 | [Heavy Pour](https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:27 | 2022-09-30 | 2024-08-24 |
-| [Hell & Back \- feat\. Jaren Johnston](https://open.spotify.com/track/0DtQanUh4WdXj7r7gpxTR4) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [Hell & Back \(feat\. Jaren Johnston\)](https://open.spotify.com/album/4oKl7uqEVELu5k0FYly4Ca) | 3:02 | 2025-01-17 |  |
+| [Hell & Back \- feat\. Jaren Johnston](https://open.spotify.com/track/0DtQanUh4WdXj7r7gpxTR4) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [Hell & Back \(feat\. Jaren Johnston\)](https://open.spotify.com/album/4oKl7uqEVELu5k0FYly4Ca) | 3:02 | 2025-01-17 | 2025-02-15 |
 | [Hello From The Road](https://open.spotify.com/track/3bLD5wkwgUmFw8cL70BH83) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Hello From The Road](https://open.spotify.com/album/3BhlX6oGSn0LcPmbMspNx0) | 2:18 | 2023-10-20 | 2023-11-11 |
 | [Hello From The Road](https://open.spotify.com/track/3rLRzca9fl1v8UwmVvLB60) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Hello From The Road](https://open.spotify.com/album/3bz0NIqwz5bLkPz9pa8POe) | 2:18 | 2023-09-22 | 2023-11-05 |
 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 | 2023-11-17 | 2024-04-19 |

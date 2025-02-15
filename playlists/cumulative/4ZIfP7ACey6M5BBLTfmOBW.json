@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164375,
       "name": "All Nite",
       "url": "https://open.spotify.com/track/6mLCh7ce7EyBFuQtIRMVwy"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 103502,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i"
@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Crashed on Camera",
+        "url": "https://open.spotify.com/album/4n3oYzjgrCz22B8y8vRBuz"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "Crashed on Camera",
+      "url": "https://open.spotify.com/track/4rwEwAAn9PFpylUiX8Flod"
+    },
+    {
+      "album": {
         "name": "CRAZY H*ES",
         "url": "https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl"
       },
@@ -1958,6 +1976,24 @@
       "duration_ms": 177142,
       "name": "DEAD FRIENDS",
       "url": "https://open.spotify.com/track/165OIBao7Qswver3jDBDKV"
+    },
+    {
+      "album": {
+        "name": "Dead Roses",
+        "url": "https://open.spotify.com/album/74wfvw11T1A2HNDQTi2nxL"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122292,
+      "name": "Dead Roses",
+      "url": "https://open.spotify.com/track/0T3bi3vnjpTQmLuz8Y9vOm"
     },
     {
       "album": {
@@ -2296,7 +2332,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 199240,
       "name": "Doze Off",
       "url": "https://open.spotify.com/track/159Qh3FaLyQJbJEntnbl3e"
@@ -3355,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+    },
+    {
+      "album": {
         "name": "Gimme Da Lite",
         "url": "https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx"
       },
@@ -3686,7 +3740,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 77714,
       "name": "grim_reaper",
       "url": "https://open.spotify.com/track/0x4hVHhau399yempdCnhyl"
@@ -3853,6 +3907,28 @@
     },
     {
       "album": {
+        "name": "Head Taps",
+        "url": "https://open.spotify.com/album/3zJpGdQIUNsZUx3I5XLpnR"
+      },
+      "artists": [
+        {
+          "name": "Lil Unky",
+          "url": "https://open.spotify.com/artist/2Qh7p29PSIvbZ7PUbpNY64"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153031,
+      "name": "Head Taps",
+      "url": "https://open.spotify.com/track/20Wrmjpfo3CWld3mOhVzhA"
+    },
+    {
+      "album": {
         "name": "Heart Don't Lie",
         "url": "https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev"
       },
@@ -3864,7 +3940,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152888,
       "name": "Heart Don't Lie",
       "url": "https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV"
@@ -4564,7 +4640,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 142973,
       "name": "Jaane Na",
       "url": "https://open.spotify.com/track/2jMp8fZBG1LUyHcXNLd9AM"
@@ -5051,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0B86qroKLoKtk2KyJQlonm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/0A4NMsY4Cxfe9K8T7b5n8B"
+    },
+    {
+      "album": {
         "name": "LiGhT rAiLs *\u0a48\u2729\u2027\u208a\u02da",
         "url": "https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu"
       },
@@ -5344,6 +5438,24 @@
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
+    },
+    {
+      "album": {
+        "name": "MARGARET",
+        "url": "https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "MARGARET",
+      "url": "https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq"
     },
     {
       "album": {
@@ -6192,7 +6304,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 106666,
       "name": "No Way",
       "url": "https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10"
@@ -6324,7 +6436,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 173000,
       "name": "number",
       "url": "https://open.spotify.com/track/10irq5r9yRRPuh24Tmqn0S"
@@ -7515,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Shanghigh Noon",
+        "url": "https://open.spotify.com/album/70EqNGnMDqrrKTSWka2LKZ"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167393,
+      "name": "Shanghigh Noon",
+      "url": "https://open.spotify.com/track/3KDzatDYQ20U217P3eI3Q3"
+    },
+    {
+      "album": {
         "name": "She Don't Play",
         "url": "https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y"
       },
@@ -7887,6 +8017,28 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218682,
+      "name": "SOMETHING ABOUT YOU",
+      "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/3Wn0ofKGoy0qZGJ5X6pkve"
       },
@@ -8168,7 +8320,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167323,
       "name": "Streets So Cold Pt. 2",
       "url": "https://open.spotify.com/track/0JaJsb3hEW6vdleLaBs1uh"
@@ -8389,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "That's Not Gangsta",
+        "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "That's Not Gangsta",
+      "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
+    },
+    {
+      "album": {
         "name": "That's What I Love",
         "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
@@ -8550,6 +8720,24 @@
       "duration_ms": 247526,
       "name": "Think Different",
       "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
+    },
+    {
+      "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/1lVJbunitVV2YBmlOCuJG7"
     },
     {
       "album": {
@@ -9678,7 +9866,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 142546,
       "name": "Witness",
       "url": "https://open.spotify.com/track/2t8LUgoLO3hzSwTq2A5g38"

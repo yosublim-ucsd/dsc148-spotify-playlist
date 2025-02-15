@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
 
-166 songs - 11 hr 48 min
+167 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 | 2024-01-26 |  |
 | [Duele](https://open.spotify.com/track/1JXwK9X4c2hD4x52a7csqk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Vía Libre](https://open.spotify.com/album/26hzx6GzNQQWqM4NbERu86) | 4:02 | 2024-05-22 | 2024-08-31 |
 | [Déjame Ir](https://open.spotify.com/track/1Nmmd2LhObZ1XMN9ZzAfWn) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Déjame Ir](https://open.spotify.com/album/6oPsiM8MxuyfO86jVClZHl) | 3:31 | 2022-09-02 | 2022-12-03 |
-| [El Amor Más Grande Del Planeta](https://open.spotify.com/track/7oDjteyywrS6miaOWdAsyp) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Un Sueño Llamado Sinfónico](https://open.spotify.com/album/63ehDXG0BtCb6WIjhl3ESB) | 4:50 | 2024-05-10 |  |
+| [El Amor Más Grande Del Planeta](https://open.spotify.com/track/7oDjteyywrS6miaOWdAsyp) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Un Sueño Llamado Sinfónico](https://open.spotify.com/album/63ehDXG0BtCb6WIjhl3ESB) | 4:50 | 2024-05-10 | 2025-02-15 |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 | 2024-05-22 | 2024-08-31 |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 | 2022-09-02 |  |
 | [El Confite](https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 3:28 | 2022-09-02 |  |
@@ -145,6 +145,7 @@
 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 | 2024-09-06 |  |
 | [Si Supiera](https://open.spotify.com/track/5zsUI37tt2zmCGwyfpn4V3) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Viral](https://open.spotify.com/album/06O9e9nCgidW852Pu0nvb2) | 3:29 | 2022-09-02 | 2023-04-06 |
 | [Sigo Siendo el Papá](https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:30 | 2022-09-02 |  |
+| [Sin Decir Con Quien](https://open.spotify.com/track/2pLgAAkotApT8ZIeD6CZ9o) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Sin Decir Con Quien](https://open.spotify.com/album/2f96z3F2XtZvn3VBsdYJnk) | 4:21 | 2025-02-14 |  |
 | [Sin Medir Distancia](https://open.spotify.com/track/5KhaD3Pa9YWCMdSa40OIMY) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 5:01 | 2022-10-21 | 2022-11-13 |
 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 | 2024-01-26 |  |
 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 | 2022-09-02 | 2024-04-19 |

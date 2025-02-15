@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Kimitoodoretara",
+        "url": "https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3"
+      },
+      "artists": [
+        {
+          "name": "Natsunose",
+          "url": "https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Kimitoodoretara",
+      "url": "https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07"
+    },
+    {
+      "album": {
         "name": "Synchroniciteen",
         "url": "https://open.spotify.com/album/4oYijXtFIv6PmxdRY8dwKC"
       },
@@ -13802,6 +13820,24 @@
       "duration_ms": 213300,
       "name": "\u672a\u89b3\u6e2c - \u30ad\u30c4\u30cd\u30ea Remix",
       "url": "https://open.spotify.com/track/1Tp7vZhwqv6O02Q8ESmH3J"
+    },
+    {
+      "album": {
+        "name": "\u672c\u5f53\u3060\u3088",
+        "url": "https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30c4\u30ce\u30bb",
+          "url": "https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213888,
+      "name": "\u672c\u5f53\u3060\u3088",
+      "url": "https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn"
     },
     {
       "album": {

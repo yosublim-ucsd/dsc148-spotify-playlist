@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Sean Leon",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 129000,
       "name": "1128 FREESTYLE",
       "url": "https://open.spotify.com/track/04vwDE5Tw93UPQxciTZjko"
+    },
+    {
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/14ZHcHPjBXyIfgAryAVDYS"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113005,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/48fSXVvDuj926JA8b9tpiO"
     },
     {
       "album": {
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 230569,
       "name": "Ballad of Bobby Jones",
       "url": "https://open.spotify.com/track/5nXk4I0rPNaIVgIZDLsvhO"
@@ -7496,7 +7514,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 121935,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/0nTw4NteI3w9enIUxS1yN0"
@@ -11877,6 +11895,28 @@
     },
     {
       "album": {
+        "name": "G-Shock",
+        "url": "https://open.spotify.com/album/2HKmhAqaMubAx7Am0CfwRL"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Lazyeye",
+          "url": "https://open.spotify.com/artist/3kHG5JFsZpzyYzKhyStYAr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144128,
+      "name": "G-Shock",
+      "url": "https://open.spotify.com/track/0j18lN9yOk0GU8Mds0CKCj"
+    },
+    {
+      "album": {
         "name": "CANDYLAND",
         "url": "https://open.spotify.com/album/7v69mEnjED9qwKqixAOyqE"
       },
@@ -12318,6 +12358,24 @@
       "duration_ms": 127791,
       "name": "Gilbert Arenas",
       "url": "https://open.spotify.com/track/4LWXlzK2h8jbgYi4QNxFO0"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
       "album": {
@@ -15942,7 +16000,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 166768,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/501cL8qcMxy2FWpZqQz5F1"
@@ -16818,7 +16876,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164210,
       "name": "Know She Mad",
       "url": "https://open.spotify.com/track/1xzd5VdQmTfUjGV8ckVcJ0"
@@ -17484,7 +17542,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 132413,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/5j3xrprQOHefpvAiwj8MCy"
@@ -17742,6 +17800,28 @@
       "duration_ms": 121666,
       "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
       "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
+    },
+    {
+      "album": {
+        "name": "Lifestyle (Remix)",
+        "url": "https://open.spotify.com/album/4EnC6NKvauFyRrx9z4ApEP"
+      },
+      "artists": [
+        {
+          "name": "TVGUCCI",
+          "url": "https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw"
+        },
+        {
+          "name": "Golde London",
+          "url": "https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167998,
+      "name": "Lifestyle - Remix",
+      "url": "https://open.spotify.com/track/17US3Hq9cnSVaM6n3nICtt"
     },
     {
       "album": {
@@ -18560,7 +18640,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 128337,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/4r7pq14ALrNSXTdIDNj0D0"
@@ -19176,7 +19256,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -19554,6 +19634,28 @@
       "duration_ms": 153191,
       "name": "MMembers",
       "url": "https://open.spotify.com/track/3pqRC2GopQ3rh1DkENPKfA"
+    },
+    {
+      "album": {
+        "name": "MNU",
+        "url": "https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Eestbound",
+          "url": "https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "MNU",
+      "url": "https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7"
     },
     {
       "album": {
@@ -20186,6 +20288,24 @@
       "duration_ms": 168648,
       "name": "Muddy Flow",
       "url": "https://open.spotify.com/track/42inOR5mgUn3nUFZHqtrvy"
+    },
+    {
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/7aig0uo7TS1m7UsiVQO8RE"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/1NyhS1oCFvWg9m4xFim6HP"
     },
     {
       "album": {
@@ -20894,7 +21014,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 137142,
       "name": "Nice Try",
       "url": "https://open.spotify.com/track/7EoNOAy3DaoYhaH847XYVK"
@@ -22843,6 +22963,28 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0Jo51FnlwbRlmjcg4HeCRt"
+      },
+      "artists": [
+        {
+          "name": "TAAYLEE G",
+          "url": "https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM"
+        },
+        {
+          "name": "Froboii",
+          "url": "https://open.spotify.com/artist/76ziG275ddgZim4fKbnAw5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198963,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/3Qagp6Y0MLjARF6CAvCIjK"
+    },
+    {
+      "album": {
         "name": "One Take",
         "url": "https://open.spotify.com/album/1UDPzdHomRuGCJGLqtyAnP"
       },
@@ -22884,6 +23026,28 @@
       "duration_ms": 189320,
       "name": "One Time (with Don Toliver feat. Future)",
       "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+    },
+    {
+      "album": {
+        "name": "One Ways",
+        "url": "https://open.spotify.com/album/0zBteIeBS016FQPwfYfV9U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Ghost Notes",
+          "url": "https://open.spotify.com/artist/3p3RulJ5SgVjRUywR2RKup"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "One Ways",
+      "url": "https://open.spotify.com/track/14gJiyQfjYQ1rlwLIIr0hy"
     },
     {
       "album": {
@@ -33005,6 +33169,24 @@
     },
     {
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/02NwPteHozuRzB7UHbqRgL"
+      },
+      "artists": [
+        {
+          "name": "Golde London",
+          "url": "https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166321,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0Cyn57kEk6ync0CHs37r6z"
+    },
+    {
+      "album": {
         "name": "Videos (feat. Heartless.G)",
         "url": "https://open.spotify.com/album/3nUCGR6q19ovGL5yNInlEK"
       },
@@ -33662,7 +33844,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 161000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"

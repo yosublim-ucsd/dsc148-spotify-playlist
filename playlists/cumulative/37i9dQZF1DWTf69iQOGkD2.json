@@ -1829,6 +1829,44 @@
     },
     {
       "album": {
+        "name": "Doug Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3VnBT3s06KVsqzFw6hDQAx"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "MC MARTINS SP",
+          "url": "https://open.spotify.com/artist/7clb047Jja5QmKXBIiyrr2"
+        },
+        {
+          "name": "Mc Vitera",
+          "url": "https://open.spotify.com/artist/5mr05eYTzL2oMCHdrezu5d"
+        },
+        {
+          "name": "HDOUG",
+          "url": "https://open.spotify.com/artist/6n8yhK6d7A5tnGfoYj67Wp"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Doug Ac\u00fastico",
+      "url": "https://open.spotify.com/track/29TX8jSQbpqaesqbMyKvg9"
+    },
+    {
+      "album": {
         "name": "Drag\u00e3o nas Costas",
         "url": "https://open.spotify.com/album/3QSiajpEIdQ8kWdEeajS9o"
       },
@@ -4180,7 +4218,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185333,
       "name": "Pipa Voada (feat. Emicida)",
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"

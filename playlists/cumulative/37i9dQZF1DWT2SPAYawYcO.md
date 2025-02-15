@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-7,393 songs - 16 day 16 hr 22 min
+7,397 songs - 16 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,6 +1442,7 @@
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-04 | 2024-04-12 |
 | [creep](https://open.spotify.com/track/4k62Ti1VDL96ZXmx92Nwwg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL) | [creep](https://open.spotify.com/album/2gNucWMAoI8JwJFk5067WZ) | 1:56 | 2023-07-13 | 2023-07-21 |
 | [Creepin'](https://open.spotify.com/track/4yElohOZlLoX7xZdr3yaF7) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [L8 To The Party, Vol\. 2](https://open.spotify.com/album/68B3QZe9nUeqEG5N6N5N6s) | 2:03 | 2025-01-09 | 2025-01-17 |
+| [CRESCENT MOON](https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CRESCENT MOON](https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB) | 3:43 | 2025-02-13 |  |
 | [CREW](https://open.spotify.com/track/50rG7ggLMQYl2JmcAR599P) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ) | [CREW](https://open.spotify.com/album/1jl0bVp8j9FH2apdk15qV5) | 2:43 | 2024-05-09 | 2024-05-17 |
 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-21 | 2024-03-29 |
 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 | 2024-06-20 | 2024-06-28 |
@@ -1727,6 +1728,7 @@
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-23 | 2024-08-30 |
 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 | 2024-04-18 | 2024-04-26 |
 | [Do You See Me](https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t) | [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Do You See Me](https://open.spotify.com/album/7dRTJTJmi4hxWW0ADcJc4Y) | 3:39 | 2024-09-05 | 2024-09-13 |
+| [Do you wanna roll](https://open.spotify.com/track/1xxeXruNZYXilAVwsRGqUS) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot), [Game East](https://open.spotify.com/artist/22abwrEzleRTPQ4WtSoYZv) | [Do you wanna roll](https://open.spotify.com/album/0Zl6Q4sjFE7yOBMZfZaX5h) | 2:45 | 2025-02-13 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-07 | 2023-07-14 |
 | [Do You Want Me](https://open.spotify.com/track/47ZuuTb6dmzEMvj8hurPLI) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Do You Want Me](https://open.spotify.com/album/0fnGrV3TnZwxnfa3mgyiZo) | 3:41 | 2023-06-29 | 2023-07-07 |
 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-08 | 2024-08-16 |
@@ -1907,6 +1909,7 @@
 | [Early Twenties](https://open.spotify.com/track/4dQzNWrfenvyvodm9HWmig) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Early Twenties](https://open.spotify.com/album/3xwaQh5RLvyn4sz6ou1Fh2) | 3:28 | 2023-06-15 | 2023-06-23 |
 | [Earnestly \(feat\. Erny Belle\)](https://open.spotify.com/track/0FAYHR0nN9N0DNPJcrdvbw) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL), [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Earnestly \(feat\. Erny Belle\)](https://open.spotify.com/album/2QKkLSxfQU5QC2EYZXcBAz) | 4:28 | 2024-05-31 | 2024-06-07 |
 | [Earthquake](https://open.spotify.com/track/76fu26dTcGjGgpFE5EUbhH) | [Eduard Luli](https://open.spotify.com/artist/5hLOqEoLT2c6NtGvE2AlsF) | [Earthquake](https://open.spotify.com/album/6lbiiCaa3BBg230Ae1GspI) | 2:42 | 2023-06-23 | 2023-06-30 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-24 | 2025-01-31 |
 | [Ease](https://open.spotify.com/track/2HvffwR0uYWNC8ha31BlJp) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Ease](https://open.spotify.com/album/3Cmmi0B9mnT1cXT5olINFu) | 3:20 | 2023-10-19 | 2023-10-27 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-13 |  |
@@ -5838,6 +5841,7 @@
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-12 | 2023-10-20 |
 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Somebody Else's](https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Somebody Else's](https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy) | 3:44 | 2024-09-19 | 2024-09-27 |
+| [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-02-14 |  |
 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 | 2024-11-07 | 2024-11-15 |
 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 | 2024-07-19 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-24 | 2025-01-31 |

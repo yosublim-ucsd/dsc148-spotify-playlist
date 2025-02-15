@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 530205,
+  "num_followers": 530323,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Lunar Falls",
-        "url": "https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3"
-      },
-      "artists": [
-        {
-          "name": "Suldusk",
-          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
-        }
-      ],
-      "duration_ms": 210834,
-      "name": "The Elm",
-      "url": "https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Matriarch",
         "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 378986,
       "name": "Umai",
       "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Lunar Falls",
+        "url": "https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3"
+      },
+      "artists": [
+        {
+          "name": "Suldusk",
+          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+        }
+      ],
+      "duration_ms": 210834,
+      "name": "The Elm",
+      "url": "https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -591,6 +591,38 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+      },
+      "artists": [
+        {
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+        }
+      ],
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Unnr | MINDBEACH",
         "url": "https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y"
       },
@@ -615,38 +647,6 @@
       "duration_ms": 576250,
       "name": "Unnr | MINDBEACH",
       "url": "https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Tales from the North",
-        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
-      },
-      "artists": [
-        {
-          "name": "Tokt",
-          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
-        }
-      ],
-      "duration_ms": 212479,
-      "name": "Saga of the North",
-      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Spatle \u01e2ghwas",
-        "url": "https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm"
-      },
-      "artists": [
-        {
-          "name": "Sowulo",
-          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Spatle \u01e2ghwas",
-      "url": "https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Adler fliegen",
         "url": "https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 218288,
       "name": "Adler fliegen",
       "url": "https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Spatle \u01e2ghwas",
+        "url": "https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Spatle \u01e2ghwas",
+      "url": "https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Breaking from the Fold",
+        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
+      },
+      "artists": [
+        {
+          "name": "Triddana",
+          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Breaking from the Fold",
+      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Hersir",
         "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
       },
@@ -763,6 +779,26 @@
       "duration_ms": 145826,
       "name": "Hersir",
       "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Sunir",
+        "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
+      },
+      "artists": [
+        {
+          "name": "IANAI",
+          "url": "https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh"
+        },
+        {
+          "name": "Client N",
+          "url": "https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF"
+        }
+      ],
+      "duration_ms": 398160,
+      "name": "Anaia",
+      "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -799,42 +835,6 @@
       "duration_ms": 407293,
       "name": "S\u00c1LA",
       "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Breaking from the Fold",
-        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
-      },
-      "artists": [
-        {
-          "name": "Triddana",
-          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Breaking from the Fold",
-      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Sunir",
-        "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
-      },
-      "artists": [
-        {
-          "name": "IANAI",
-          "url": "https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh"
-        },
-        {
-          "name": "Client N",
-          "url": "https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF"
-        }
-      ],
-      "duration_ms": 398160,
-      "name": "Anaia",
-      "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
     },
     {
       "added_at": "2024-12-06 05:06:56",

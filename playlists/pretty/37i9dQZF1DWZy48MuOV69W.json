@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 91698,
+  "num_followers": 91691,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
+        "name": "Christmas Music",
+        "url": "https://open.spotify.com/album/7HRRSRbyl9q0WS9YLxw1Tq"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/5E5FWudjIXtUtowNHuEdFd"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 129042,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
-        "name": "Christmas Music",
-        "url": "https://open.spotify.com/album/7HRRSRbyl9q0WS9YLxw1Tq"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Rudolph the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/5E5FWudjIXtUtowNHuEdFd"
     },
     {
       "added_at": "2024-12-20 08:15:54",

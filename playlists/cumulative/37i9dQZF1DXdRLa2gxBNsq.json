@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183626,
       "name": "El Pa\u00eds de Alicia",
       "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 276058,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
@@ -2423,6 +2423,42 @@
     },
     {
       "album": {
+        "name": "La Regla (Remasterizado 2025)",
+        "url": "https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b"
+      },
+      "artists": [
+        {
+          "name": "Kostramorfosis",
+          "url": "https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134465,
+      "name": "La Regla - Remasterizado 2025",
+      "url": "https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW"
+    },
+    {
+      "album": {
+        "name": "La Sombra",
+        "url": "https://open.spotify.com/album/1ddstLl034u82ef2kHcZrG"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "La Sombra",
+      "url": "https://open.spotify.com/track/0l7EEoDWt4JiSE9r1DcaZk"
+    },
+    {
+      "album": {
         "name": "Siglo XXI",
         "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
@@ -2564,7 +2600,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 220943,
       "name": "Lola",
       "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
@@ -2640,6 +2676,24 @@
       "duration_ms": 177487,
       "name": "Maldito Diablo",
       "url": "https://open.spotify.com/track/5QrdnEBmuq3D9QIBfmAC9l"
+    },
+    {
+      "album": {
+        "name": "Mama, Come, R\u00ede, Traga",
+        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172015,
+      "name": "Mama, Come, R\u00ede, Traga",
+      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
     },
     {
       "album": {
@@ -3204,7 +3258,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
@@ -3742,7 +3796,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 227546,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
@@ -3974,6 +4028,24 @@
       "duration_ms": 223722,
       "name": "Solidaridad",
       "url": "https://open.spotify.com/track/2dUJdEReUw0NxdEFA3kTrr"
+    },
+    {
+      "album": {
+        "name": "Solo en Casa",
+        "url": "https://open.spotify.com/album/0tmTicFtkxYmvSMGxjl6aw"
+      },
+      "artists": [
+        {
+          "name": "Glandes Glandes",
+          "url": "https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141182,
+      "name": "Solo en Casa",
+      "url": "https://open.spotify.com/track/6lBp12MLvC0qGebQzd61ny"
     },
     {
       "album": {
@@ -4389,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "An\u00eds&Roll",
+        "url": "https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K"
+      },
+      "artists": [
+        {
+          "name": "Fabes con Almejes",
+          "url": "https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Vendimia Rock",
+      "url": "https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2"
+    },
+    {
+      "album": {
         "name": "Vestiglo",
         "url": "https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe"
       },
@@ -4534,10 +4624,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Aquel",
+        "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139998,
+      "name": "Yo Soy Aquel",
+      "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
     },
     {
       "album": {
@@ -4574,6 +4682,32 @@
       "duration_ms": 158824,
       "name": "zona s\u00edsmica",
       "url": "https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ"
+    },
+    {
+      "album": {
+        "name": "\u00a1Qu'Espa\u00f1e!",
+        "url": "https://open.spotify.com/album/7B2uimKHmQb54BsnwkHUhe"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        },
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        },
+        {
+          "name": "Txarly Usher y Los Ejemplares",
+          "url": "https://open.spotify.com/artist/6sLVkYL7gONz8E9NbeXhGE"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u00a1Qu'Espa\u00f1e!",
+      "url": "https://open.spotify.com/track/4jJxxJQMcKT5N63pxpkVDg"
     },
     {
       "album": {

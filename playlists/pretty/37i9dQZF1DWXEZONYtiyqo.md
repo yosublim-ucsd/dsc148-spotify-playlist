@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Mario
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,522 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,609 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 9 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
 | 10 | [Și dacă vine iarăși seara](https://open.spotify.com/track/1ipeEGgjlF3ZRwdZdNfxZH) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Cântece de Inimă, Vol\. 2](https://open.spotify.com/album/04Q1Z1d50KJxrTTpZdkLTI) | 2:37 |
 | 11 | [Cerule](https://open.spotify.com/track/4ZeSr0aitBN1EizbCRSJAM) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Cerule](https://open.spotify.com/album/13AqB7Um8RDiGbqIHHeMdg) | 2:37 |
-| 12 | [Îmi place ploaia](https://open.spotify.com/track/3zlJIBfHmFMjvT8TtGf1BW) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [RANDI](https://open.spotify.com/artist/4X8ZQYIamykCGOZhbRtv2r) | [Îmi place ploaia](https://open.spotify.com/album/2rAuIRyMQqYxtFdqprvICV) | 3:29 |
+| 12 | [Îmi place ploaia](https://open.spotify.com/track/3zlJIBfHmFMjvT8TtGf1BW) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [RANDI](https://open.spotify.com/artist/4X8ZQYIamykCGOZhbRtv2r) | [Îmi place ploaia](https://open.spotify.com/album/2rAuIRyMQqYxtFdqprvICV) | 3:27 |
 | 13 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 14 | [Zâmbește](https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Zâmbește](https://open.spotify.com/album/2No3D5XSNn3EGZ6SS38yfD) | 3:05 |
 | 15 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |

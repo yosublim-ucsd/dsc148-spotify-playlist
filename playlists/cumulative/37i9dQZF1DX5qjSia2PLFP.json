@@ -9118,7 +9118,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 145413,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/3SskAMRLywH8abo3KNjP9S"
@@ -10132,7 +10132,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190467,
       "name": "JAI'S SONG (FALLING) - PT. 2",
       "url": "https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3"
@@ -10730,7 +10730,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 123428,
       "name": "L's",
       "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
@@ -15933,6 +15933,24 @@
     },
     {
       "album": {
+        "name": "Regular Girl",
+        "url": "https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151820,
+      "name": "Regular Girl",
+      "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
+    },
+    {
+      "album": {
         "name": "C My Side (Deluxe)",
         "url": "https://open.spotify.com/album/3wiyzYrkSD18QHTkI4PEDl"
       },
@@ -19345,6 +19363,24 @@
     },
     {
       "album": {
+        "name": "THERAPIST",
+        "url": "https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150957,
+      "name": "THERAPIST",
+      "url": "https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow"
+    },
+    {
+      "album": {
         "name": "How Do You Sleep At Night? With You",
         "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
       },
@@ -21502,6 +21538,28 @@
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3"
+    },
+    {
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "album": {

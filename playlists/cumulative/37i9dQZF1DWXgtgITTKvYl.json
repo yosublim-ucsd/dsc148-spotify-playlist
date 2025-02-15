@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 443146,
       "name": "444",
       "url": "https://open.spotify.com/track/0kYKQAOi4Ph6r9YBt8YoOF"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183604,
       "name": "All Because Of Me",
       "url": "https://open.spotify.com/track/70vXJpKTiTpAWohwuvqdmE"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 972766,
       "name": "East Coast Racer - Live in London 2023",
       "url": "https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 350085,
       "name": "Ego Death (feat. Steve Vai)",
       "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "frozen heart ~ burning world",
+        "url": "https://open.spotify.com/album/43207Y9Wb6c1yZsIPSfNce"
+      },
+      "artists": [
+        {
+          "name": "Earthside",
+          "url": "https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540435,
+      "name": "frozen heart ~ burning world",
+      "url": "https://open.spotify.com/track/5hpZN0O7t8i3XFp0lC7cw1"
+    },
+    {
+      "album": {
         "name": "Catching Fire",
         "url": "https://open.spotify.com/album/0dajrPs2fJEscLd1EC2IV0"
       },
@@ -1733,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Heathen",
+        "url": "https://open.spotify.com/album/3FoSgaXrhCv2qNQX9iuOJh"
+      },
+      "artists": [
+        {
+          "name": "Odd Palace",
+          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
+        },
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310352,
+      "name": "Heathen",
+      "url": "https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq"
+    },
+    {
+      "album": {
         "name": "Heavy Pencil",
         "url": "https://open.spotify.com/album/3D65iVReaZlywzm7NzvFav"
       },
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 326486,
       "name": "I Will Break the Pride of Your Will",
       "url": "https://open.spotify.com/track/6yfdG65UNPpj07tysutthu"
@@ -2441,6 +2481,32 @@
     },
     {
       "album": {
+        "name": "Lost Continent (feat. Thomas Giles)",
+        "url": "https://open.spotify.com/album/7hujLm3UmK3tcAhsuTYC0o"
+      },
+      "artists": [
+        {
+          "name": "Tiktaalika",
+          "url": "https://open.spotify.com/artist/0oVgaKls3BQj3XoJbjnDJV"
+        },
+        {
+          "name": "Charlie Griffiths",
+          "url": "https://open.spotify.com/artist/6jTFgiXjEiywkGfe44VwBZ"
+        },
+        {
+          "name": "Thomas Giles",
+          "url": "https://open.spotify.com/artist/2Zw1EFe4lg5AnxlJ3pOvvN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549760,
+      "name": "Lost Continent (feat. Thomas Giles)",
+      "url": "https://open.spotify.com/track/5M9PMGUOk7BR0wiYTJYgYW"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/35qTVuxGMe5WGxQOiKVWdn"
       },
@@ -2899,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "One Year Still",
+        "url": "https://open.spotify.com/album/00ujY1qAK7SYCrFGgzK8ba"
+      },
+      "artists": [
+        {
+          "name": "The Alpines",
+          "url": "https://open.spotify.com/artist/7v49QbF6Zyr3b7NJGyjum9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "One Year Still",
+      "url": "https://open.spotify.com/track/5Q2iZpdp82RYHVmGvFFLeU"
+    },
+    {
+      "album": {
         "name": "Out in the Open, Pt. 1 - Overture",
         "url": "https://open.spotify.com/album/6EyNrb1tgiCGJQUnV2fuPB"
       },
@@ -2910,7 +2994,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 143654,
       "name": "Out in the Open, Pt. 1 - Overture",
       "url": "https://open.spotify.com/track/0vCKXnx3uideNj9LsOf1um"
@@ -2932,6 +3016,24 @@
       "duration_ms": 302203,
       "name": "Out Of Place",
       "url": "https://open.spotify.com/track/5evFhtEdAJfj7m8AswhLyE"
+    },
+    {
+      "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267026,
+      "name": "Paper Wolf",
+      "url": "https://open.spotify.com/track/1IvDaHVYaRncZlNeLAA76g"
     },
     {
       "album": {
@@ -3776,7 +3878,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 436006,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/2T8sab0O7vVKxgsi8A8Mw0"
@@ -3870,6 +3972,36 @@
       "duration_ms": 309807,
       "name": "Spacekeeper",
       "url": "https://open.spotify.com/track/05zG6HcLop4aepPQGuNby9"
+    },
+    {
+      "album": {
+        "name": "Species",
+        "url": "https://open.spotify.com/album/6yxijXQHABkhGttjk08F4H"
+      },
+      "artists": [
+        {
+          "name": "Lights Of Skadi",
+          "url": "https://open.spotify.com/artist/7zKY1b9VZTZ6m1XtOm9lKN"
+        },
+        {
+          "name": "Carl Sjursvens",
+          "url": "https://open.spotify.com/artist/0JEgoICXady667UMYr1BrI"
+        },
+        {
+          "name": "Alexander Borger",
+          "url": "https://open.spotify.com/artist/4zbKy13700Z89ksxKUgmPz"
+        },
+        {
+          "name": "Jesper Jansson",
+          "url": "https://open.spotify.com/artist/6TAaL9vhzpbz9M2LsV8Uor"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425142,
+      "name": "Species",
+      "url": "https://open.spotify.com/track/4dy0tmkx3bSCPN3ofhYi3a"
     },
     {
       "album": {
@@ -4761,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Top Down Foot Down (Live)",
+        "url": "https://open.spotify.com/album/7meCfXCtrfaGlq5TJdAKfH"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100173,
+      "name": "Top Down Foot Down - Live",
+      "url": "https://open.spotify.com/track/65XtVjvAjf27yluTmaRzrg"
+    },
+    {
+      "album": {
         "name": "Torn Apart (From \"Bleach\")",
         "url": "https://open.spotify.com/album/0A9b5otbPvl7KKhjID5gnQ"
       },
@@ -4776,6 +4926,24 @@
       "duration_ms": 138857,
       "name": "Torn Apart - From \"Bleach\"",
       "url": "https://open.spotify.com/track/1ZrNwseUVVkTmFyJiJgZgd"
+    },
+    {
+      "album": {
+        "name": "Total Mass Retain (Steven Wilson Edit)",
+        "url": "https://open.spotify.com/album/5y3oH86U5qHY9InIjuSRRa"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253280,
+      "name": "Total Mass Retain - Steven Wilson Edit",
+      "url": "https://open.spotify.com/track/4Xyd8c5iy4jqnAjlgPNbiT"
     },
     {
       "album": {
@@ -4812,7 +4980,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 519911,
       "name": "Tyranny",
       "url": "https://open.spotify.com/track/2mz6JLo0HtACeHmghEexMT"
@@ -4982,7 +5150,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
@@ -5044,6 +5212,28 @@
       "duration_ms": 346453,
       "name": "Whalefall",
       "url": "https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT"
+    },
+    {
+      "album": {
+        "name": "Love Conquers All",
+        "url": "https://open.spotify.com/album/378AhTWxiizbK50xpZYGgY"
+      },
+      "artists": [
+        {
+          "name": "John Lodge",
+          "url": "https://open.spotify.com/artist/5o1To8xDQy2hlFU4AoyRFf"
+        },
+        {
+          "name": "Geoff Downes",
+          "url": "https://open.spotify.com/artist/5CHLHeeZoC4ckp05EPnjgI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353506,
+      "name": "Whispering Angels",
+      "url": "https://open.spotify.com/track/02jf2BIlLBxE7rqxPzhJ91"
     },
     {
       "album": {

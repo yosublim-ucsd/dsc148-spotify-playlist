@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160800,
       "name": "Antennae",
       "url": "https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 148783,
       "name": "Atrea & Astrea",
       "url": "https://open.spotify.com/track/1XOpm9WIEN5yLBH18kh4zf"
@@ -1334,6 +1334,24 @@
       "duration_ms": 140250,
       "name": "Atwined",
       "url": "https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif"
+    },
+    {
+      "album": {
+        "name": "Auburn Dreams",
+        "url": "https://open.spotify.com/album/2rzJHWB3B5cYRQR2E9r24x"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Auburn Dreams",
+      "url": "https://open.spotify.com/track/05nO4ezwPTgT2lER2inrDm"
     },
     {
       "album": {
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165600,
       "name": "Blissful Breeze",
       "url": "https://open.spotify.com/track/5mEstebX16SCW56WWnEluW"
@@ -2054,6 +2072,24 @@
       "duration_ms": 142400,
       "name": "Broken Ledge",
       "url": "https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14"
+    },
+    {
+      "album": {
+        "name": "Buddhism",
+        "url": "https://open.spotify.com/album/12i2lKnFI7u1dTOSZzsza6"
+      },
+      "artists": [
+        {
+          "name": "Florian Porterfield",
+          "url": "https://open.spotify.com/artist/0ck4CEetTquq0U1qFIlIEV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151940,
+      "name": "Buddhism",
+      "url": "https://open.spotify.com/track/43Glnw4JVlIYBwQBetVB0Q"
     },
     {
       "album": {
@@ -2381,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Centre of the Universe",
+        "url": "https://open.spotify.com/album/3j6b24Zh8kiPZEfpsaWYgt"
+      },
+      "artists": [
+        {
+          "name": "moon echo",
+          "url": "https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Centre of the Universe",
+      "url": "https://open.spotify.com/track/7gtPsX5e2e1DRdYYE0bwMz"
+    },
+    {
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/3UUmu20bYFn4In0tI6ArG2"
       },
@@ -2446,7 +2500,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194000,
       "name": "Chilled Soul",
       "url": "https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn"
@@ -2842,7 +2896,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 216000,
       "name": "Continental Calm",
       "url": "https://open.spotify.com/track/7xHYQazatawqRHxUBrZ0Hq"
@@ -4048,7 +4102,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165390,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/0Pmh2p6tvo4nr1T1f9rzEE"
@@ -5675,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/4qu23oc6gIquMW8Tkb35fE"
+      },
+      "artists": [
+        {
+          "name": "A Clear Path",
+          "url": "https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153751,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/2PZaDXVgu9JlmgOmSJ6Kgy"
+    },
+    {
+      "album": {
         "name": "Glittervine",
         "url": "https://open.spotify.com/album/07ZzUjsZzsVcFByFd8Oex1"
       },
@@ -6028,7 +6100,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172800,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/1aLPs0NGa6zBRnM1AlDxrx"
@@ -7259,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/1CSqAzeW67iYRwvWEtn8f9"
+      },
+      "artists": [
+        {
+          "name": "Martin Landh",
+          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/1bw407cZ1vYRTA2dOxbI6P"
+    },
+    {
+      "album": {
         "name": "life cycle",
         "url": "https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy"
       },
@@ -7461,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/1lBi8rjuBD3tXUgSXZGqri"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/2nebiYo6g1rVtFa9C1W9aQ"
+    },
+    {
+      "album": {
         "name": "Lucens",
         "url": "https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY"
       },
@@ -7616,7 +7724,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183000,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1GPxLBse44aicfCqVrlnZC"
@@ -7710,6 +7818,24 @@
       "duration_ms": 198000,
       "name": "Marbre D\u2019aube",
       "url": "https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/6tgUwJlpmR2f2qYF7pdQgh"
+      },
+      "artists": [
+        {
+          "name": "Athyer Cane",
+          "url": "https://open.spotify.com/artist/2sTgqDWg3rChYprRvzRnoX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170943,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/76Fync5kPWf3MhVsnI9U4B"
     },
     {
       "album": {
@@ -9316,6 +9442,24 @@
     {
       "album": {
         "name": "Pathways",
+        "url": "https://open.spotify.com/album/3CDI17mN6Q22UOmMiKxtv6"
+      },
+      "artists": [
+        {
+          "name": "Quiescent State",
+          "url": "https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pathways",
+      "url": "https://open.spotify.com/track/1lv9Nq4FHQmqJUn6Zx4kZn"
+    },
+    {
+      "album": {
+        "name": "Pathways",
         "url": "https://open.spotify.com/album/6eJxefR5zPJELBHbmu8LvL"
       },
       "artists": [
@@ -9906,6 +10050,24 @@
       "duration_ms": 173793,
       "name": "Quiet Times",
       "url": "https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R"
+    },
+    {
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/5PH13nzrRBq9xYIN89kESf"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj"
     },
     {
       "album": {
@@ -10604,7 +10766,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152222,
       "name": "Ross\u00f8",
       "url": "https://open.spotify.com/track/2dSnb7M0ghAJjFlOw5gWcs"
@@ -10946,7 +11108,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 144000,
       "name": "Seraphic Dreams",
       "url": "https://open.spotify.com/track/32ld1StlRmd3gL0mDCPrYI"
@@ -11360,7 +11522,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 186785,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7"
@@ -12854,7 +13016,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 200624,
       "name": "Tertium",
       "url": "https://open.spotify.com/track/3EbG2DLC2KkApapSiYypt7"
@@ -14204,7 +14366,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185227,
       "name": "Where I Sleep",
       "url": "https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo"

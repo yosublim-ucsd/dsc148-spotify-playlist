@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485718,
+  "num_followers": 485709,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Pound For Pound",
+        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "Tora",
+      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Valley Girl",
         "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
       },
@@ -297,20 +313,20 @@
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Pound For Pound",
-        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
       "artists": [
         {
-          "name": "Ra Ra Viper",
-          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
         }
       ],
-      "duration_ms": 182019,
-      "name": "Tora",
-      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -343,22 +359,6 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Small Fry",
-        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 206260,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Mystic Braves",
@@ -519,6 +503,22 @@
       "duration_ms": 243840,
       "name": "Mystic Rabbit",
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Postcode Lover",
-        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Postcode Lover",
-      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Postcode Lover",
+        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Postcode Lover",
+      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Midnight Man",
-        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
-      },
-      "artists": [
-        {
-          "name": "Tiger Print",
-          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Midnight Man",
-      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Floating By",
         "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Midnight Man",
+        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
+      },
+      "artists": [
+        {
+          "name": "Tiger Print",
+          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rua Mundo Novo",
-        "url": "https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ"
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
       },
       "artists": [
         {
-          "name": "Gabriel Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
         }
       ],
-      "duration_ms": 197523,
-      "name": "Ainda Est\u00e1 No Ar",
-      "url": "https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB"
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Prefiro Vila Velha",
-        "url": "https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9 Tardia",
-          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
-        }
-      ],
-      "duration_ms": 147892,
-      "name": "Prefiro Vila Velha",
-      "url": "https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Bees",
         "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+        "name": "Rua Mundo Novo",
+        "url": "https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ"
       },
       "artists": [
         {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+          "name": "Gabriel Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
         }
       ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
+      "duration_ms": 197523,
+      "name": "Ainda Est\u00e1 No Ar",
+      "url": "https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Jumping Jack b/w Little Cinderella",
-        "url": "https://open.spotify.com/album/6rp2OIvLI2d3IlOJ7OFc2A"
+        "name": "Prefiro Vila Velha",
+        "url": "https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq"
       },
       "artists": [
         {
-          "name": "Red and The Flames",
-          "url": "https://open.spotify.com/artist/4rQ0ekYCBZi2j8pjfuKE6r"
+          "name": "Mar\u00e9 Tardia",
+          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
         }
       ],
-      "duration_ms": 116022,
-      "name": "Jumping Jack",
-      "url": "https://open.spotify.com/track/3mWdEEm8cwipwYgLBy4dHO"
+      "duration_ms": 147892,
+      "name": "Prefiro Vila Velha",
+      "url": "https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Sir Gawain & The Green Knight (Live at Hohm)",
+        "url": "https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP"
+      },
+      "artists": [
+        {
+          "name": "X Ray Cat Trio",
+          "url": "https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4"
+        }
+      ],
+      "duration_ms": 203558,
+      "name": "Sir Gawain & The Green Knight - Live at Hohm Studios",
+      "url": "https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

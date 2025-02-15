@@ -1847,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E"
+      },
+      "artists": [
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268902,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy"
+    },
+    {
+      "album": {
         "name": "Bullet Vizhigalal",
         "url": "https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5"
       },
@@ -8454,7 +8476,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 125160,
       "name": "Ninaivilae",
       "url": "https://open.spotify.com/track/76o6vlGSmfdHzTXGXyzJrs"
@@ -9651,6 +9673,28 @@
     },
     {
       "album": {
+        "name": "Peranbey",
+        "url": "https://open.spotify.com/album/66ftPnCRMbfsDrdiWfj8e3"
+      },
+      "artists": [
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207407,
+      "name": "Peranbey",
+      "url": "https://open.spotify.com/track/0FqPlEEaI68rnTr2m80rqi"
+    },
+    {
+      "album": {
         "name": "Perth (Tamil Cover)",
         "url": "https://open.spotify.com/album/1VABy76095kihwbKcxQi4b"
       },
@@ -10216,7 +10260,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 266470,
       "name": "Poti",
       "url": "https://open.spotify.com/track/14uJkehSJn6IUXhWfVtfng"

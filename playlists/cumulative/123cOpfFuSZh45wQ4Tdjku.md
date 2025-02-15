@@ -4,7 +4,7 @@
 
 > mostly furry
 
-285 songs - 14 hr 30 min
+287 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,12 +107,14 @@
 | [Hell’s Greatest Dad](https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 2:13 | 2024-05-14 |  |
 | [Howl](https://open.spotify.com/track/1mRrCv92xkktbJFAihMIw2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Howl](https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g) | 3:57 | 2024-05-15 |  |
 | [Howl at the Moon](https://open.spotify.com/track/4DDWkXK6qUNdsHlz9fwnC9) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:34 | 2023-11-20 |  |
+| [HYPNOFREAK](https://open.spotify.com/track/6m4rhXyE6DUhva3MazrxCP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HYPNOFREAK](https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4) | 3:53 | 2025-02-14 |  |
 | [I Don't Give A Shit](https://open.spotify.com/track/2rEUhgw2YsRVuYxtnoVRuG) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [I Don't Give A Shit](https://open.spotify.com/album/4NPE68vsYqAN7AdIGPOnQf) | 2:18 | 2024-07-09 |  |
 | [I Forgot That You Exist](https://open.spotify.com/track/4BPjIJeCbtfTVrUUj4vF7v) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Forgot That You Exist](https://open.spotify.com/album/4idOoVmTO0xzXNr1DXMqZs) | 2:46 | 2024-07-09 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-01-18 |  |
 | [I Really Want You](https://open.spotify.com/track/5FfNHhuYcEEMvTvGS1lpYT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 4:19 | 2024-08-03 |  |
 | [I Used To](https://open.spotify.com/track/5hrPqder6ITJiUhdxNrHx4) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [I Used To](https://open.spotify.com/album/5mni4TNMRiOGHhgEpK6IvM) | 2:57 | 2024-07-12 |  |
 | [I Won't Submit](https://open.spotify.com/track/4tlb0FOhsINHKoGiPJZ5zp) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [I Won't Submit](https://open.spotify.com/album/1bTvEeemRiEenU8C2Rsihs) | 2:53 | 2024-05-15 |  |
+| [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 | 2025-02-14 |  |
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-07 |  |
 | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/track/08WXtVwEf7rxDDguYQrPmc) | [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/album/2FgZCcIha9lPeNW3iQT18u) | 1:38 | 2024-05-14 |  |
 | [Instinct](https://open.spotify.com/track/7luszGFPSI7zq5ItmhTk21) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:16 | 2023-11-18 |  |

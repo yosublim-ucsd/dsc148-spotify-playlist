@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Valentinstag-Takeover featuring eine feine Auswahl an Love + Heartbreak-Songs, kuratiert von Berq \u2764",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Yu",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "4 Uhr",
       "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 159428,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 134482,
       "name": "all in",
       "url": "https://open.spotify.com/track/1sq0AKToxP40kpibgVZW4j"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 129824,
       "name": "allein mit dir",
       "url": "https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB"
@@ -1084,6 +1084,24 @@
       "duration_ms": 320973,
       "name": "Alles Gute",
       "url": "https://open.spotify.com/track/6OPecDCYJRmWil0Hci3bLj"
+    },
+    {
+      "album": {
+        "name": "Alles Illusion",
+        "url": "https://open.spotify.com/album/2jtbYTFLK9oOKCdHHRQ2Wl"
+      },
+      "artists": [
+        {
+          "name": "laela",
+          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104834,
+      "name": "Alles Illusion",
+      "url": "https://open.spotify.com/track/5yJdjgXIZUEBP1O6Yas46F"
     },
     {
       "album": {
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 276236,
       "name": "Am Herz vorbei",
       "url": "https://open.spotify.com/track/0tuUNU7oJti5kRwTKUlohl"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 140800,
       "name": "Andere Stadt",
       "url": "https://open.spotify.com/track/132NdYQcNLGGoPhPNUdQcW"
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204275,
       "name": "Augen sind rot",
       "url": "https://open.spotify.com/track/4AKX4MsoqMnhrJ2qDh3tCJ"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 162626,
       "name": "Aus dem Nichts",
       "url": "https://open.spotify.com/track/233zgukbOI7quzjK124SfJ"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 138900,
       "name": "auseinander",
       "url": "https://open.spotify.com/track/2OVOpWliEj74Zh82sfOyzB"
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154713,
       "name": "Baba",
       "url": "https://open.spotify.com/track/0GhicvpFqowrAG2S3WfVoT"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 148461,
       "name": "Bella, Bitte",
       "url": "https://open.spotify.com/track/5wK5jL3Q0ghv4KLbbsXRUG"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 180493,
       "name": "Berliner Luft",
       "url": "https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g"
@@ -2144,6 +2162,24 @@
       "duration_ms": 164715,
       "name": "besser als ich",
       "url": "https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T"
+    },
+    {
+      "album": {
+        "name": "besser wenn du gehst",
+        "url": "https://open.spotify.com/album/6Pjr3L03yq46nmxUZrLdNJ"
+      },
+      "artists": [
+        {
+          "name": "Luciero",
+          "url": "https://open.spotify.com/artist/2z9Hp9J66hI99455C79RLz"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "besser wenn du gehst",
+      "url": "https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp"
     },
     {
       "album": {
@@ -2234,7 +2270,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 149032,
       "name": "Bitte bitte",
       "url": "https://open.spotify.com/track/2HFJTmLp6c5IMqke5i67w7"
@@ -2252,7 +2288,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 145199,
       "name": "Bitte komm, Bitte geh",
       "url": "https://open.spotify.com/track/6IOifOXzyk7dibljggIwhb"
@@ -2570,7 +2606,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 199754,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/3CYp3pseXdmW1CPSsQ3jgl"
@@ -2754,7 +2790,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 155545,
       "name": "BULLERB\u00dc",
       "url": "https://open.spotify.com/track/6D5P3gjEDsFUZ2OH3vUEfp"
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152933,
       "name": "bulletholes",
       "url": "https://open.spotify.com/track/14EJYJ2CMnCCE4eZ0u53vr"
@@ -3270,7 +3306,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 216974,
       "name": "Dana",
       "url": "https://open.spotify.com/track/7xeEJ9mZIUnqHPAmHILcEp"
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152000,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
@@ -3758,7 +3794,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 148066,
       "name": "Die Erde dreht sich (ohne mich)",
       "url": "https://open.spotify.com/track/60OkZiT7pAbGd6pOXCaY20"
@@ -3978,7 +4014,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 142545,
       "name": "Dieses eine Lied",
       "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
@@ -4068,7 +4104,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 188800,
       "name": "Drachenfrucht",
       "url": "https://open.spotify.com/track/4B6g96yO80NfbFrQUyh5wd"
@@ -4130,7 +4166,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 129218,
       "name": "Druck in meiner Brust",
       "url": "https://open.spotify.com/track/7l06MysqrnCIP1CnpJ3QPk"
@@ -4156,6 +4192,24 @@
       "duration_ms": 125217,
       "name": "drunk (feat. Lucry & Suena)",
       "url": "https://open.spotify.com/track/1oEotSHO1qqvgxLwtrA9u5"
+    },
+    {
+      "album": {
+        "name": "dr\u00fcber",
+        "url": "https://open.spotify.com/album/32Iwnr4veZIN6DfBvlGjup"
+      },
+      "artists": [
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131664,
+      "name": "dr\u00fcber",
+      "url": "https://open.spotify.com/track/6Nba0kHJYsPaPZ575l2huu"
     },
     {
       "album": {
@@ -4484,7 +4538,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176500,
       "name": "D\u00fcnya",
       "url": "https://open.spotify.com/track/7jI2dBQDgD00pYz6eTP7iD"
@@ -4842,7 +4896,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185000,
       "name": "Eisen",
       "url": "https://open.spotify.com/track/2S5EaTjKDKfjvFxAStd1yq"
@@ -4950,7 +5004,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 195066,
       "name": "emma",
       "url": "https://open.spotify.com/track/79qwQ3FxTiaADmX1kHznNV"
@@ -5080,6 +5134,24 @@
       "duration_ms": 126967,
       "name": "ersterplatz",
       "url": "https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf"
+    },
+    {
+      "album": {
+        "name": "erstewahl",
+        "url": "https://open.spotify.com/album/2cINsNoDtdF6RYT1LdCSoV"
+      },
+      "artists": [
+        {
+          "name": "l\u00f6nneberger",
+          "url": "https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162794,
+      "name": "erstewahl",
+      "url": "https://open.spotify.com/track/6BgNaRs4Cm5F5keHvCcRMo"
     },
     {
       "album": {
@@ -5574,7 +5646,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 202703,
       "name": "Feel it",
       "url": "https://open.spotify.com/track/15V6a172Lx1oPZdBHoRjvx"
@@ -5694,7 +5766,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 167845,
       "name": "Fenster zum Hof",
       "url": "https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC"
@@ -5806,7 +5878,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 182960,
       "name": "Filme",
       "url": "https://open.spotify.com/track/2fwj4LVwBYfWpIuy3BeTZu"
@@ -5824,7 +5896,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Fliegen",
       "url": "https://open.spotify.com/track/4lnLVhGxv1YnJEJIComb9x"
@@ -6076,7 +6148,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 131360,
       "name": "Fremde Stadt",
       "url": "https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi"
@@ -6204,6 +6276,24 @@
       "duration_ms": 180923,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/6pYc06ZDKBe10F1q9jVvaM"
+    },
+    {
+      "album": {
+        "name": "F\u00fchl mich gut",
+        "url": "https://open.spotify.com/album/291SQWRSNHQReYTMPDOIZU"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140063,
+      "name": "F\u00fchl mich gut",
+      "url": "https://open.spotify.com/track/0cgrYF4qZ02tfCSqi0cmNs"
     },
     {
       "album": {
@@ -6442,7 +6532,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 134385,
       "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
       "url": "https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI"
@@ -6771,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "Geschichte schreiben",
+        "url": "https://open.spotify.com/album/0QdIgSyObxcebDoN6cDBlL"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173380,
+      "name": "Geschichte schreiben",
+      "url": "https://open.spotify.com/track/7bOEI9RdEHplCo7K4hsruk"
+    },
+    {
+      "album": {
         "name": "Gewinner/Verlierer",
         "url": "https://open.spotify.com/album/3jnNB8BNnn1CbnXvTh2rYb"
       },
@@ -6840,7 +6948,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176045,
       "name": "Gift",
       "url": "https://open.spotify.com/track/1yZKrZVefeicRY2OuhbxfB"
@@ -6898,6 +7006,24 @@
       "duration_ms": 182038,
       "name": "glaubst du",
       "url": "https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7"
+    },
+    {
+      "album": {
+        "name": "it\u2019s hard to be a blizzard",
+        "url": "https://open.spotify.com/album/2BQs2lnorlYTRvIsQrqVKT"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211583,
+      "name": "Gleis 13",
+      "url": "https://open.spotify.com/track/0nIfWDXNludjJY1WZSke78"
     },
     {
       "album": {
@@ -7125,6 +7251,28 @@
     },
     {
       "album": {
+        "name": "Gut im Bett",
+        "url": "https://open.spotify.com/album/2X3REc69vHpBv5Dqk7ZxzW"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        },
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129449,
+      "name": "Gut im Bett",
+      "url": "https://open.spotify.com/track/3n7SzU5XM2rjKuiFaDmXtN"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch EP",
         "url": "https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf"
       },
@@ -7212,7 +7360,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 126900,
       "name": "halbes herz",
       "url": "https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB"
@@ -7328,7 +7476,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162013,
       "name": "halt mich",
       "url": "https://open.spotify.com/track/7Et1qLWqYwfV8MLSoLzTyo"
@@ -7470,7 +7618,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 221420,
       "name": "HEIMWEG",
       "url": "https://open.spotify.com/track/6nEigFDrOeqU0bDJbg51jJ"
@@ -7578,7 +7726,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 210731,
       "name": "heimweh_demo",
       "url": "https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ"
@@ -7854,7 +8002,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 177746,
       "name": "H\u00e4tten wir sein k\u00f6nnen",
       "url": "https://open.spotify.com/track/4jzPnqCTNdlMNMn9BW1RdI"
@@ -7978,7 +8126,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 157973,
       "name": "Ich f\u00fchl alles",
       "url": "https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE"
@@ -8094,7 +8242,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
@@ -8222,7 +8370,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
@@ -8850,7 +8998,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 161379,
       "name": "Jana",
       "url": "https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5"
@@ -8922,7 +9070,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 189840,
       "name": "Juli",
       "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
@@ -9186,7 +9334,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130666,
       "name": "kaputt",
       "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
@@ -9248,7 +9396,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 227059,
       "name": "Kaum Vertrauen",
       "url": "https://open.spotify.com/track/39n7eOnGuMHT5rHcB6XfSx"
@@ -9410,7 +9558,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 229524,
       "name": "Keine Tr\u00e4nen",
       "url": "https://open.spotify.com/track/2LF0FwKo05vCvVjSEgAleK"
@@ -9598,7 +9746,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 118616,
       "name": "kleine freche jungs",
       "url": "https://open.spotify.com/track/42mmXr8GuWAVx2jTxR7LTs"
@@ -10024,7 +10172,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 145004,
       "name": "lass dich los",
       "url": "https://open.spotify.com/track/1BVqOjjfoLqRXS5n8gA8A5"
@@ -10064,7 +10212,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 143675,
       "name": "Lass los",
       "url": "https://open.spotify.com/track/1LmajgDzDCYYuQr0cvS58W"
@@ -10307,6 +10455,24 @@
     },
     {
       "album": {
+        "name": "Letzte Chance",
+        "url": "https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160136,
+      "name": "Letzte Chance",
+      "url": "https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY"
+    },
+    {
+      "album": {
         "name": "Letzte Kippe",
         "url": "https://open.spotify.com/album/4ShtwWtMwGfddaoMsO0qPh"
       },
@@ -10402,7 +10568,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 188871,
       "name": "liebe das",
       "url": "https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO"
@@ -10725,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "Lonely Hearts Club",
+        "url": "https://open.spotify.com/album/2Or01DIhawCcutDc5Roy2n"
+      },
+      "artists": [
+        {
+          "name": "MODULAR",
+          "url": "https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149158,
+      "name": "Lonely Hearts Club",
+      "url": "https://open.spotify.com/track/19Nd0ZhCMME4yjUSBotwSF"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/3fRxRBKmVba4eZw72sM5Dc"
       },
@@ -10974,7 +11158,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 179541,
       "name": "Manchmal",
       "url": "https://open.spotify.com/track/40ryzlNGOC0uFY9UoUeRsj"
@@ -10992,7 +11176,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 117055,
       "name": "Manchmal so, Manchmal so",
       "url": "https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g"
@@ -11270,7 +11454,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 150002,
       "name": "Mein Kopf ist eine Party",
       "url": "https://open.spotify.com/track/6oCuswujJyAWdzZNF7HXJI"
@@ -11600,7 +11784,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 146894,
       "name": "mitternacht",
       "url": "https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb"
@@ -11694,7 +11878,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 185362,
       "name": "Montag",
       "url": "https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO"
@@ -11712,7 +11896,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 227166,
       "name": "morgen",
       "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
@@ -12360,7 +12544,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 146999,
       "name": "niemand",
       "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
@@ -12422,6 +12606,24 @@
       "duration_ms": 211800,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
+    },
+    {
+      "album": {
+        "name": "Noch ein bisschen drau\u00dfen (ich hoffe, das passt)",
+        "url": "https://open.spotify.com/album/4og9cLAMp8KKFVyPGwbTw6"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "Noch ein bisschen drau\u00dfen (ich hoffe, das passt)",
+      "url": "https://open.spotify.com/track/0ckI1yFQ8oBdvqFmR0RIvE"
     },
     {
       "album": {
@@ -12812,7 +13014,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 179604,
       "name": "orbit (ich wollt dir nur sagen)",
       "url": "https://open.spotify.com/track/66INE2yWfnh3Jqwal26TQc"
@@ -12830,7 +13032,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 184329,
       "name": "Orcas",
       "url": "https://open.spotify.com/track/36SNUmDITQL6v3r0VL1FlY"
@@ -12942,7 +13144,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 215265,
       "name": "Ozean",
       "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
@@ -12986,6 +13188,24 @@
       "duration_ms": 237357,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/12cUrqvuiDOPWiHaEl6Ao0"
+    },
+    {
+      "album": {
+        "name": "parf\u00fcm",
+        "url": "https://open.spotify.com/album/4ySpxhBhjhJ7aWOwXAv5HU"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143132,
+      "name": "parf\u00fcm",
+      "url": "https://open.spotify.com/track/6WNFJfFbl3wteFQaoCORQu"
     },
     {
       "album": {
@@ -13170,7 +13390,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 139534,
       "name": "Perfekt",
       "url": "https://open.spotify.com/track/6Af3LnucAVNrXxvvBrLaVf"
@@ -13224,7 +13444,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 147811,
       "name": "PIROUETTEN",
       "url": "https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP"
@@ -13296,7 +13516,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172704,
       "name": "Playboys weinen auch",
       "url": "https://open.spotify.com/track/0l63sFDKc4r4GLANRmjcBu"
@@ -13350,7 +13570,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171851,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/5EEfkrpnjHd6LRaWfyO0Km"
@@ -13574,7 +13794,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206259,
       "name": "RED CUPS (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/32EJEvzpRagqyBALBPJVmK"
@@ -13628,7 +13848,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 143653,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj"
@@ -13668,6 +13888,24 @@
       "duration_ms": 161000,
       "name": "Regensommerwinterwald",
       "url": "https://open.spotify.com/track/2iq96OV4gLo5FkNpv2irJV"
+    },
+    {
+      "album": {
+        "name": "reich",
+        "url": "https://open.spotify.com/album/1TW4kJnm1mCZOpPoQBzUD3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174342,
+      "name": "reich",
+      "url": "https://open.spotify.com/track/3P28x30LU3FhaAvNkTSliI"
     },
     {
       "album": {
@@ -13962,7 +14200,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 232843,
       "name": "Rosarote Brille",
       "url": "https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf"
@@ -14088,7 +14326,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 145881,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/2Ed4yjHpp9ROmpA945aP9b"
@@ -14196,7 +14434,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 166406,
       "name": "sag mir was ich nicht wei\u00df",
       "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
@@ -14240,7 +14478,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204044,
       "name": "sag was",
       "url": "https://open.spotify.com/track/6cyvFvADtpjU64L1gQWTK0"
@@ -14258,7 +14496,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 155773,
       "name": "Salz",
       "url": "https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3"
@@ -14298,7 +14536,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 171757,
       "name": "Schau dir zu",
       "url": "https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL"
@@ -14352,7 +14590,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164586,
       "name": "scherben",
       "url": "https://open.spotify.com/track/5s5DGx32wwTyK9C2JuKg0G"
@@ -14432,7 +14670,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "Schnee von morgen",
       "url": "https://open.spotify.com/track/1s6cXY4Fx1GcAMEDHuU0cJ"
@@ -14454,7 +14692,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 110571,
       "name": "Schneeballschlacht",
       "url": "https://open.spotify.com/track/17U4l3bkLDBeR4BHp77s6l"
@@ -14544,7 +14782,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170300,
       "name": "schwarze SUVs",
       "url": "https://open.spotify.com/track/5hYfbAxovSsKWYRSelsAhz"
@@ -14776,7 +15014,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 173098,
       "name": "Seit du weg bist",
       "url": "https://open.spotify.com/track/7EzjsEkZazBWKBigaG1czn"
@@ -15174,7 +15412,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 154934,
       "name": "so als ob",
       "url": "https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ"
@@ -15478,7 +15716,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 202283,
       "name": "Sommer macht melancholisch",
       "url": "https://open.spotify.com/track/0u716Qk5hYqmj74KxHmk1E"
@@ -15984,7 +16222,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 195616,
       "name": "Stiefm\u00fctterchen (feat. Dilla)",
       "url": "https://open.spotify.com/track/1orTv2RsEuPpCjHO7ICTvz"
@@ -16020,7 +16258,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 138384,
       "name": "STILL",
       "url": "https://open.spotify.com/track/3VNQ3hvh3m59RKIjYD6B2U"
@@ -16042,7 +16280,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "STILLE",
       "url": "https://open.spotify.com/track/7n2OHgDmROWoGnPAvoOf2M"
@@ -16234,7 +16472,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 206586,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0H3bVAIkjbrMkok4DfI34P"
@@ -16306,7 +16544,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 173129,
       "name": "Tanz, Maus!",
       "url": "https://open.spotify.com/track/0HvHOXNHUfUCkAJh83WPiA"
@@ -16324,7 +16562,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 162001,
       "name": "Tanzen",
       "url": "https://open.spotify.com/track/43VBNtrjwo5RMxfoeHp8ST"
@@ -16360,7 +16598,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 110902,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
@@ -16454,7 +16692,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 183000,
       "name": "Teen",
       "url": "https://open.spotify.com/track/4JaZOoGZCbHHegYmuUKdEh"
@@ -16614,7 +16852,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174418,
       "name": "tisch f\u00fcr zwei",
       "url": "https://open.spotify.com/track/4Ezcam796jPnW8qEJ174gi"
@@ -16766,7 +17004,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 131600,
       "name": "Traumfrau",
       "url": "https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq"
@@ -16784,7 +17022,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 116128,
       "name": "Traumf\u00e4nger",
       "url": "https://open.spotify.com/track/2zkbJmefcK0ROt3e8gAPzz"
@@ -16820,7 +17058,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 181514,
       "name": "Treibsand",
       "url": "https://open.spotify.com/track/4oGN7eKYdpd7rBorZLyljM"
@@ -16910,7 +17148,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 248350,
       "name": "Truman Show Boot",
       "url": "https://open.spotify.com/track/4aMPHYcmR9BeU16iWGDriT"
@@ -16950,7 +17188,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165059,
       "name": "Tr\u00e4umen",
       "url": "https://open.spotify.com/track/4rORA6wy5y0Kn0uvmV2a1V"
@@ -17106,7 +17344,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "unendlichkeit",
       "url": "https://open.spotify.com/track/5MB5Rsv1zV55oChldxIlpj"
@@ -17244,7 +17482,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 218691,
       "name": "Unter den Masken",
       "url": "https://open.spotify.com/track/4TO1feWbbSrPgsQcU7z4rF"
@@ -17338,7 +17576,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 274191,
       "name": "Vater",
       "url": "https://open.spotify.com/track/0LrMrk8UJnaj4N0zayFh3i"
@@ -17570,7 +17808,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 191812,
       "name": "Verstand",
       "url": "https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4"
@@ -17830,7 +18068,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 211956,
       "name": "Waldbrand",
       "url": "https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD"
@@ -17848,7 +18086,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz"
@@ -18054,7 +18292,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154531,
       "name": "Was ist das f\u00fcr ein Gef\u00fchl?",
       "url": "https://open.spotify.com/track/66p1bCg600XHF8Z69OVwmz"
@@ -18076,6 +18314,24 @@
       "duration_ms": 138249,
       "name": "Was kickt",
       "url": "https://open.spotify.com/track/2mVWiASJLQrGmcJSsQ13fW"
+    },
+    {
+      "album": {
+        "name": "Was passiert",
+        "url": "https://open.spotify.com/album/1s6brIy8XdrDuVUQzKP29b"
+      },
+      "artists": [
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Was passiert",
+      "url": "https://open.spotify.com/track/4XOx9a5AiwJHnWSljK44O3"
     },
     {
       "album": {
@@ -18310,7 +18566,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 175907,
       "name": "Wem mach ich was vor",
       "url": "https://open.spotify.com/track/00yXb1NU2vtNBUxsRhahX6"
@@ -18412,7 +18668,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 212023,
       "name": "Wenn du mich l\u00e4sst",
       "url": "https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6"
@@ -18556,7 +18812,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 274640,
       "name": "Wenn nichts von nichts kommt",
       "url": "https://open.spotify.com/track/26R4D50bcdoF6BovA5zh76"
@@ -18680,7 +18936,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 157323,
       "name": "wie du tanzt",
       "url": "https://open.spotify.com/track/5RH8NDRlcgUVgtYcqHltXm"
@@ -19234,7 +19490,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 146635,
       "name": "Zimmerpflanze",
       "url": "https://open.spotify.com/track/4rOEdJmcop5bNKC95SEcml"
@@ -19310,7 +19566,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 315116,
       "name": "Zu Ende",
       "url": "https://open.spotify.com/track/2yUtL5HtXASgpZXa14NRFs"
@@ -19586,7 +19842,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 166389,
       "name": "zwischendrin verliebt",
       "url": "https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT"

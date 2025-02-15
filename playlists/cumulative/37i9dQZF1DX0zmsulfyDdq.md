@@ -4,7 +4,7 @@
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-221 songs - 11 hr 4 min
+223 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/2fdrPfIOxRrYV9djNtKJNR) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [Beauty and the Beast](https://open.spotify.com/album/63q4u4vtSfvEndymtMk22N) | 3:51 | 2022-04-15 |  |
 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 | 2022-04-15 |  |
 | [Best of Friends](https://open.spotify.com/track/77i3pnU23eRWNIaqi6ckcj) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:48 | 2022-04-15 |  |
+| [Beyond \- Orgel Version](https://open.spotify.com/track/76B3A4ykxzZPzeX2DBTMe5) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 4:41 | 2025-02-14 |  |
 | [Bibbidi Bobbidi Boo \- Instrumental](https://open.spotify.com/track/3hSUUyu64UofrhKKg5zAOQ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:23 | 2022-04-15 |  |
 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 | 2024-01-18 | 2024-05-23 |
 | [Born to Play](https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:00 | 2024-01-18 | 2024-05-23 |
@@ -177,6 +178,7 @@
 | [The Family Madrigal](https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 3:12 | 2022-04-15 | 2022-12-09 |
 | [The Family Madrigal](https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Magical](https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh) | 4:14 | 2022-04-15 | 2024-05-23 |
 | [The Family Madrigal](https://open.spotify.com/track/21GMtDlD4pvi7JN2hRM5Qv) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 3:02 | 2022-04-22 |  |
+| [The Life of Riley \- Orgel Version](https://open.spotify.com/track/6QJaxDk1IT15zDsylB7v0l) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 3:23 | 2025-02-14 |  |
 | [The Next Right Thing](https://open.spotify.com/track/41vHygTXbqMuUo63j3IavF) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:45 | 2022-04-15 |  |
 | [The Place Where Lost Things Go](https://open.spotify.com/track/40DiuuFQbqp164cuqNdCIA) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 2:27 | 2022-04-15 |  |
 | [The Rose Song](https://open.spotify.com/track/22BPRyDGzJcya0tB0nNjkw) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Tranquility](https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT) | 3:14 | 2022-04-15 |  |

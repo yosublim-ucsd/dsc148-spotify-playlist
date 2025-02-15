@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-146 songs - 7 hr 53 min
+147 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-10-27 | 2024-04-19 |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5aG5xOaVjWjdKZ2wuHYUBQ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-02 | 2023-11-18 |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 | 2023-04-14 |  |
+| [Wanna Be](https://open.spotify.com/track/5U26aL087wVLQYtJWU33zx) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Wanna be](https://open.spotify.com/album/1jzCG3ujAOgHpqT9TZIuGH) | 2:30 | 2025-02-14 |  |
 | [Way of Life](https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:45 | 2023-04-21 | 2024-04-19 |
 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 | 2023-03-17 |  |
 | [What In Tarnation](https://open.spotify.com/track/1AdxwYqpeVDqTeMkLBnjFW) | [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [What In Tarnation](https://open.spotify.com/album/6R6oeoEu6E39xOGbS3jvug) | 2:48 | 2024-08-30 |  |

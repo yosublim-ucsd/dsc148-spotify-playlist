@@ -2,9 +2,9 @@
 
 ### [alt.ph](https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56)
 
-> pinoy alternative music \. Cover: Kremesoda
+> pinoy alternative music \. Cover: SUYEN
 
-159 songs - 10 hr 16 min
+163 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [bakasyon](https://open.spotify.com/track/7q7BWieEcjilMrSr752Hqk) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [bakasyon](https://open.spotify.com/album/3muugpfoJOOJm9PaobXiAq) | 4:05 | 2024-06-21 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-13 | 2024-02-10 |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-10-13 | 2024-02-10 |
+| [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 | 2025-02-14 |  |
 | [Binalewala](https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Binalewala](https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv) | 3:02 | 2023-10-27 | 2025-01-17 |
 | [Break time](https://open.spotify.com/track/7tDdIzfcxAtmU7JPTBpjiZ) | [Reese Lansangan](https://open.spotify.com/artist/2JI8ViuZDBybY6Xd9ujUrb), [Neat](https://open.spotify.com/artist/57I8hoEk21pfPwjVJvJB8U) | [Break time](https://open.spotify.com/album/6qdAy7eI40I0PGOR6nDCkG) | 3:53 | 2024-06-21 |  |
 | [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 | 2023-10-13 | 2024-05-04 |
@@ -56,6 +57,7 @@
 | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/album/1cu62EgLqxSpDOw3nKGMhk) | 4:19 | 2023-10-13 | 2025-01-17 |
 | [I'll Be Mine](https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R), [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [I'll Be Mine](https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC) | 3:30 | 2024-04-26 | 2025-02-06 |
 | [I.N.A.S.](https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 2:28 | 2024-08-09 | 2024-10-19 |
+| [Isang Linggong Maghihintay](https://open.spotify.com/track/2Wsd2xDZCL1Ng6MUwQMuVK) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [Suyen Imnida](https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA) | 3:26 | 2025-02-14 |  |
 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 | 2023-10-13 |  |
 | [Just Another Christmas](https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Just Another Christmas](https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG) | 2:16 | 2023-11-18 | 2025-01-17 |
 | [Just to See You](https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw) | [The Braille Flowers](https://open.spotify.com/artist/1oCEHpiSBXA8IpjKsLc3OA) | [Just to See You](https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY) | 4:25 | 2023-10-13 | 2023-11-19 |
@@ -95,6 +97,7 @@
 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 | 2023-10-13 | 2024-06-22 |
 | [October](https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [October](https://open.spotify.com/album/1l35MLMhL5L2EDrllIASY3) | 3:52 | 2024-10-18 |  |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 |  |
+| [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 | 2025-02-14 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
 | [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2025-01-17 |
 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 | 2023-10-13 | 2025-01-17 |
@@ -161,6 +164,7 @@
 | [tula’t awitin](https://open.spotify.com/track/7511599u12WzpKbpyDFg3T) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [tula’t awitin](https://open.spotify.com/album/4Dhy6jsfza1wRGKd7dxROZ) | 3:52 | 2024-04-26 | 2025-01-17 |
 | [tuluyan](https://open.spotify.com/track/6WHjGbBna42gfdydgwMunq) | [shang\-b](https://open.spotify.com/artist/0hGHGm9XtxvrOG3yB1IpWP) | [tuluyan](https://open.spotify.com/album/7frTZfk0Kk2PYK9iDKdtzb) | 4:50 | 2023-10-13 | 2023-11-19 |
 | [VIP](https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [VIP](https://open.spotify.com/album/72A7ORj2vQe0AI1c3cQaHi) | 3:49 | 2024-06-21 | 2024-08-31 |
+| [Wag Ka na lang Kumagat](https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5) | [Wag Ka na lang Kumagat](https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT) | 3:28 | 2025-02-14 |  |
 | [Wag Naman](https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [Wag Naman](https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa) | 2:32 | 2024-04-26 | 2024-09-17 |
 | [wagnamuna](https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [wagnamuna](https://open.spotify.com/album/0bPxuKS1QWyc43bCBbk31e) | 2:45 | 2024-07-19 |  |
 | [Walang Label](https://open.spotify.com/track/5mcQZiopXnczEKf6OM4HWC) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Walang Label](https://open.spotify.com/album/0qFt3vATFczRlwVGbZHbZO) | 4:15 | 2024-06-28 |  |

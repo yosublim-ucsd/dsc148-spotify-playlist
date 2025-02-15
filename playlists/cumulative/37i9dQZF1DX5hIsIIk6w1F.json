@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Standly",
+  "description": "Este Flow tiene otro Flow. Foto: Harry Nach",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 179299,
       "name": "Ando Buscandote",
       "url": "https://open.spotify.com/track/2PUn4BlFdKj1sFDJ5vwsVA"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
@@ -3154,6 +3154,32 @@
       "duration_ms": 168865,
       "name": "CELESTE",
       "url": "https://open.spotify.com/track/6PKTGYF1V7dYwv3g3NBDnK"
+    },
+    {
+      "album": {
+        "name": "Harryto\u00b4s",
+        "url": "https://open.spotify.com/album/5LppCYbNuuMbE1zTsvkBZi"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Cero Sentimiento",
+      "url": "https://open.spotify.com/track/2xUvHEC45ON4XbaxPpq6w5"
     },
     {
       "album": {
@@ -5196,7 +5222,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 177245,
       "name": "EL AMOR DE TU VIDA",
       "url": "https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0"
@@ -8184,6 +8210,28 @@
       "duration_ms": 133469,
       "name": "KELOMAMEN",
       "url": "https://open.spotify.com/track/2vsugTd1RAWUHKBEXd3h2Z"
+    },
+    {
+      "album": {
+        "name": "Kemaropa",
+        "url": "https://open.spotify.com/album/3SAMf0HeFcF0ryD1dZtTlm"
+      },
+      "artists": [
+        {
+          "name": "Fuka",
+          "url": "https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148950,
+      "name": "Kemaropa",
+      "url": "https://open.spotify.com/track/02PxKgpv2PcS8Af92r5yA8"
     },
     {
       "album": {
@@ -12588,7 +12636,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 188647,
       "name": "No Ando Weando",
       "url": "https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh"
@@ -14870,6 +14918,28 @@
       "duration_ms": 200620,
       "name": "Ponte de Espalda",
       "url": "https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq"
+    },
+    {
+      "album": {
+        "name": "PONTE LOKITA",
+        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "PONTE LOKITA",
+      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
     },
     {
       "album": {
@@ -19590,6 +19660,28 @@
       "duration_ms": 233619,
       "name": "T\u00f3cate (feat. Jory Boy)",
       "url": "https://open.spotify.com/track/14W16NqK7cTH8JnoBTbjTb"
+    },
+    {
+      "album": {
+        "name": "T\u00da ME CALIENTAS",
+        "url": "https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "T\u00da ME CALIENTAS",
+      "url": "https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ"
     },
     {
       "album": {

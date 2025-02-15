@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 with Hoang",
+  "description": "Future & melodic bass \ud83d\udef8 with Dabin",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 240176,
       "name": "Always This Late - ILLENIUM 2014 Remix",
       "url": "https://open.spotify.com/track/4FXYzanfJow5YUWUYc1bMR"
@@ -2061,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Chi-Town",
+        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Chi-Town",
+      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/14nCGKJqjtYtdPr1d6sqRh"
       },
@@ -2599,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro"
+      },
+      "artists": [
+        {
+          "name": "OMAS",
+          "url": "https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238508,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV"
+    },
+    {
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
       },
@@ -3016,6 +3060,24 @@
       "duration_ms": 191411,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7"
+    },
+    {
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/0gkiGpqhlhkRLbOubHZlbc"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/2vct6zN8RIlbfIpWyr5BJQ"
     },
     {
       "album": {
@@ -6182,7 +6244,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 164785,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
@@ -6708,7 +6770,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 235714,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
@@ -7274,6 +7336,32 @@
       "duration_ms": 219047,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1Y3kQNV8sYztW5bk5JmyfC"
+    },
+    {
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/5j9rJDPD12jdwoL5SfYuIr"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209998,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ"
     },
     {
       "album": {
@@ -8070,7 +8158,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181185,
       "name": "KEEP SEARCHING",
       "url": "https://open.spotify.com/track/7vbtr4mKxzlM8yDK8kB6qO"
@@ -10568,7 +10656,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208695,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0RGZiQiPG2VHzEJ0fs7b7I"
@@ -13306,6 +13394,28 @@
     {
       "album": {
         "name": "Stay",
+        "url": "https://open.spotify.com/album/22ltbVXCNBGhpEUHLAU3j4"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Fryar",
+          "url": "https://open.spotify.com/artist/1ABM3WSMTPteuFWFMQ3975"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4El41AsNkYZcJGJELRdVcr"
+    },
+    {
+      "album": {
+        "name": "Stay",
         "url": "https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp"
       },
       "artists": [
@@ -15228,6 +15338,28 @@
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"
+    },
+    {
+      "album": {
+        "name": "We Rise (midwxst Remix)",
+        "url": "https://open.spotify.com/album/4lzXgOHgQ5U98LsZSxndBY"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "We Rise - midwxst Remix",
+      "url": "https://open.spotify.com/track/0zmHyNsWjXIgBp0QPfcebt"
     },
     {
       "album": {

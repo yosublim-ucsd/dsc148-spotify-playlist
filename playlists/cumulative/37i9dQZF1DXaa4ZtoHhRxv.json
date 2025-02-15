@@ -2343,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "Keep You With Me",
+        "url": "https://open.spotify.com/album/3lGM8QxnrUyEBzXqlFGn2u"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172617,
+      "name": "Keep You With Me",
+      "url": "https://open.spotify.com/track/2JmxvWnOx1RrNDInp65FJv"
+    },
+    {
+      "album": {
         "name": "Lady Like (Deepend Remix)",
         "url": "https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD"
       },

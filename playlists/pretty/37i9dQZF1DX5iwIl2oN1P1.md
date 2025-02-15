@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Jovonta Patton
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,936 likes - 45 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,300 likes - 45 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 44 | [Something Something](https://open.spotify.com/track/1hiwgBLMLKTBi3Vh1CQKLT) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [Something Something](https://open.spotify.com/album/5kWgxijc9fCkRjMSHBvimm) | 2:44 |
 | 45 | [Joy Unspeakable \- Radio Edit](https://open.spotify.com/track/66PV6Bx5YNl6gb74FOahxv) | [Noel Robinson](https://open.spotify.com/artist/6NPIZtY6oJzY4q35IRa1Xa), [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Joy Unspeakable \(Radio Edit\)](https://open.spotify.com/album/5q1uJTYD0bTQdnSfsqIYIw) | 4:34 |
 
-Snapshot ID: `Z6XGWQAAAABpdC5VbqZ2AMdmYcGX3tS8`
+Snapshot ID: `Z6XGWQAAAADCkMOo+cJu9GTP6k77FiUx`

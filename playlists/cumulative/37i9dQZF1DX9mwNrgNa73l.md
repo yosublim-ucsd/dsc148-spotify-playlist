@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-195 songs - 21 hr 55 min
+196 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 | 2022-06-21 | 2023-03-29 |
 | [Kamli](https://open.spotify.com/track/5su3i7O5h0mn8ckjm3OaiD) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/1avSRwSXzcUpGLtIl90OnY) | 8:42 | 2022-07-18 | 2023-08-01 |
 | [Kamli](https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF) | 8:42 | 2022-06-21 | 2022-07-29 |
+| [Karde Karam Maula](https://open.spotify.com/track/5Athu3P1hU22e3GgX4oKFx) | [Mansoor](https://open.spotify.com/artist/1RivtwALO35yPcOSzMPtOG), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Karde Karam Maula](https://open.spotify.com/album/3clbWouITYey6EPsDPKykP) | 6:18 | 2025-02-14 |  |
 | [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 | 2024-09-21 |  |
 | [Khaliq e Kun](https://open.spotify.com/track/2dva8cGkeLIClSt4o0OL80) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Khaliq e Kun](https://open.spotify.com/album/2gh2Ipu6jdX0W3Fo932NDU) | 5:13 | 2024-03-14 | 2024-06-22 |
 | [Khwaja Mere](https://open.spotify.com/track/1983a9FGuZGojA9wz6cHRV) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/51bBKqCDeUY8dpKAGX2Flt) | 4:29 | 2024-02-06 | 2024-04-19 |

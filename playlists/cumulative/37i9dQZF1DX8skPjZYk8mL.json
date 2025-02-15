@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 127210,
       "name": "Cherished Dreams",
       "url": "https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 112042,
       "name": "Dreams of Us",
       "url": "https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv"
@@ -8357,6 +8357,24 @@
     },
     {
       "album": {
+        "name": "John Blund",
+        "url": "https://open.spotify.com/album/3Hf2K2RsfxUiMmXS2X1i4R"
+      },
+      "artists": [
+        {
+          "name": "Daisy Day",
+          "url": "https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121482,
+      "name": "John Blund",
+      "url": "https://open.spotify.com/track/3TptFEpWAROx6OhMIoEnJr"
+    },
+    {
+      "album": {
         "name": "John Brown's Song",
         "url": "https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB"
       },
@@ -9250,7 +9268,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 71875,
       "name": "Little Frogs",
       "url": "https://open.spotify.com/track/5UJtvCLf8lSXYftazQXQUx"
@@ -10258,7 +10276,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 82010,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp"
@@ -11072,6 +11090,24 @@
       "duration_ms": 105579,
       "name": "My First Tooth",
       "url": "https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd"
+    },
+    {
+      "album": {
+        "name": "My Friend Lina",
+        "url": "https://open.spotify.com/album/2FJqJFvTzRDj5STuKav08D"
+      },
+      "artists": [
+        {
+          "name": "Edulis",
+          "url": "https://open.spotify.com/artist/03qGIHWwLnYeowVZRvnJap"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98106,
+      "name": "My Friend Lina",
+      "url": "https://open.spotify.com/track/4UWzNGScBV3OOkO2999WaI"
     },
     {
       "album": {
@@ -13343,6 +13379,24 @@
     },
     {
       "album": {
+        "name": "Runes Lullaby",
+        "url": "https://open.spotify.com/album/0rSXM23d3LU7AEkBcBcKhf"
+      },
+      "artists": [
+        {
+          "name": "Jonah Bjoern",
+          "url": "https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138648,
+      "name": "Runes Lullaby",
+      "url": "https://open.spotify.com/track/1nbLNWC4teVXOTCVwqj2WD"
+    },
+    {
+      "album": {
         "name": "Sailing on a Banana",
         "url": "https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0"
       },
@@ -15460,7 +15514,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 111758,
       "name": "Storybook",
       "url": "https://open.spotify.com/track/3yPJpsAl7FIQ4AaDP5RQkr"
@@ -16432,7 +16486,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 97000,
       "name": "The Blue Danube",
       "url": "https://open.spotify.com/track/3DF3X25T2Uf1nKqXIpRS7j"

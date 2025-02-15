@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ELENA ROSE & Morat",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: GALE & ROBI",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 201106,
       "name": "1Trago",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
+        "name": "2 versos",
+        "url": "https://open.spotify.com/album/2iBaosyGOcw9Lri3Qmx7Nu"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144458,
+      "name": "2 versos",
+      "url": "https://open.spotify.com/track/0TkS7lZBW37xPA0W9aoJAR"
     },
     {
       "album": {
@@ -298,7 +316,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192933,
       "name": "a los 20",
       "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 213085,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/3xhPGomtecEzMqEnHSA5qz"
@@ -1467,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "BADTRIP",
+        "url": "https://open.spotify.com/album/4kFMQj1Suc8bj675LP7cIb"
+      },
+      "artists": [
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123906,
+      "name": "BADTRIP",
+      "url": "https://open.spotify.com/track/28oU1AzdLa9QlmrBUMouvZ"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/5UycOYeYkjHjC4zowKAifb"
       },
@@ -1526,6 +1562,24 @@
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "album": {
+        "name": "En Honor Al Que Ama",
+        "url": "https://open.spotify.com/album/5Fto1VFi4UvBlM5GJcdHYy"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173543,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/3FmrK5OmqwnjzSmJ5XBWEO"
     },
     {
       "album": {
@@ -3936,7 +3990,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 169500,
       "name": "DEBER\u00cdAS QUEDARTE",
       "url": "https://open.spotify.com/track/1udWDCFQhaQRkZzp9cFUo9"
@@ -6137,6 +6191,28 @@
     },
     {
       "album": {
+        "name": "FULL TIME",
+        "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174764,
+      "name": "FULL TIME",
+      "url": "https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp"
+    },
+    {
+      "album": {
         "name": "FWEGO",
         "url": "https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt"
       },
@@ -6296,7 +6372,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130679,
       "name": "GRACIAS X QUERERME ASI",
       "url": "https://open.spotify.com/track/51UHNeGukEZASmvSxbu0G1"
@@ -8500,7 +8576,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160296,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
@@ -8562,7 +8638,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190773,
       "name": "Maldito Reggaeton",
       "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
@@ -11156,7 +11232,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 221856,
       "name": "PA K",
       "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
@@ -12128,7 +12204,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176163,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS"
@@ -13646,7 +13722,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165720,
       "name": "Siento que merezco m\u00e1s",
       "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
@@ -14126,6 +14202,24 @@
       "duration_ms": 188995,
       "name": "sorry es que soy intenso (Apocalipsis)",
       "url": "https://open.spotify.com/track/0TfFHo5XD5iiP5IajKqYQw"
+    },
+    {
+      "album": {
+        "name": "sorry x la hora",
+        "url": "https://open.spotify.com/album/60a5bMVu9gSaS21OqIdsxm"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183352,
+      "name": "sorry x la hora",
+      "url": "https://open.spotify.com/track/0bY3lXVmHc9hwVKIQ78yF7"
     },
     {
       "album": {
@@ -15557,6 +15651,24 @@
     },
     {
       "album": {
+        "name": "Uff Baby",
+        "url": "https://open.spotify.com/album/3Vl7CKLlxEwhbQDFTrKV6V"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Uff Baby",
+      "url": "https://open.spotify.com/track/0gmBeRHQWPiL9dkNs8FsDo"
+    },
+    {
+      "album": {
         "name": "Un Beso Menos",
         "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
       },
@@ -16089,6 +16201,24 @@
     },
     {
       "album": {
+        "name": "vuelta atr\u00e1s",
+        "url": "https://open.spotify.com/album/2s90tYrnPJdFveZL5fRsYN"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "vuelta atr\u00e1s",
+      "url": "https://open.spotify.com/track/4FMMjc5dSWjVAXPniOgPMm"
+    },
+    {
+      "album": {
         "name": "vuelve",
         "url": "https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE"
       },
@@ -16140,6 +16270,24 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "album": {
+        "name": "Why Bye",
+        "url": "https://open.spotify.com/album/7zTuKThRUUxQeT4eLMro9B"
+      },
+      "artists": [
+        {
+          "name": "Baltazar Lora",
+          "url": "https://open.spotify.com/artist/1OcU1uVtqF9umURdShNIwP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186451,
+      "name": "Why Bye",
+      "url": "https://open.spotify.com/track/1PVKh7FCbXovBOAgjRiL8I"
     },
     {
       "album": {
@@ -16401,6 +16549,28 @@
     },
     {
       "album": {
+        "name": "Ysilandia",
+        "url": "https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217723,
+      "name": "Ysilandia",
+      "url": "https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5"
+    },
+    {
+      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -16474,7 +16644,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
@@ -16496,6 +16666,24 @@
       "duration_ms": 181901,
       "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
       "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"
+    },
+    {
+      "album": {
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "album": {

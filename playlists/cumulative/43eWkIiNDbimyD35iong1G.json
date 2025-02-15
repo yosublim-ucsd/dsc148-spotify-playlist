@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Love You 'Til Death",
+        "url": "https://open.spotify.com/album/1VGXauODiynJX2hO9n0DYe"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160636,
+      "name": "Love You 'Til Death",
+      "url": "https://open.spotify.com/track/7sqnVoTweuQofjz32gmDQl"
+    },
+    {
+      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },

@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Sacha
+> The home of Canadian country music\. Cover: Josh Ross
 
-201 songs - 10 hr 58 min
+203 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Backseat](https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Backseat](https://open.spotify.com/album/3EqsLVYWfPIPVYzPAcpLa1) | 2:24 | 2025-01-17 |  |
 | [Band On Her T\-Shirt](https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Band On Her T\-Shirt](https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK) | 3:09 | 2024-06-28 | 2024-07-19 |
 | [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 | 2024-08-24 |
+| [Between The Lines](https://open.spotify.com/track/2D5tN7ZWcMIdi8KIzI4lIE) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Between The Lines](https://open.spotify.com/album/7nsdJWRGAOAtINHLDJPSjc) | 3:40 | 2025-02-14 |  |
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 | 2024-10-19 |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Bobcaygeon](https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bobcaygeon](https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1) | 4:43 | 2024-09-27 | 2024-11-02 |
@@ -94,6 +95,7 @@
 | [Just Wanna Feel It](https://open.spotify.com/track/3iO4eyPq0CKGKuAlVNfHXq) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Just Wanna Feel It](https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45) | 3:15 | 2024-06-28 | 2024-07-06 |
 | [Kitchen Floor](https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Kitchen Floor](https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs) | 3:54 | 2024-10-18 | 2025-02-08 |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
+| [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 | 2025-02-14 |  |
 | [Let Your Horses Run](https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd) | 2:59 | 2024-06-28 | 2024-09-14 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-31 |  |
 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 | 2024-07-12 | 2024-09-14 |
@@ -109,7 +111,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 | 2024-08-31 |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-08 |  |
 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 | 2024-10-11 |  |
-| [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 |  |
+| [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 | 2025-02-15 |
 | [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2024-12-27 |  |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 | 2024-12-28 |
 | [More Like It](https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [More Like It](https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A) | 3:02 | 2025-01-17 |  |
@@ -191,7 +193,7 @@
 | [What Good Is A Memory](https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [What Good Is A Memory](https://open.spotify.com/album/1OPUwabpaUsTM3hI7CPcuR) | 2:46 | 2024-08-09 | 2024-10-05 |
 | [What Got Me Here](https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz) | [Jason Kirkness](https://open.spotify.com/artist/6gzw8meygQ3Yl6zfBdNiDQ) | [What Got Me Here](https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP) | 3:16 | 2024-11-22 |  |
 | [What Shoulder](https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [What Shoulder](https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy) | 2:56 | 2024-07-12 | 2024-09-07 |
-| [What Were You Thinking](https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [What Were You Thinking](https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt) | 3:36 | 2024-10-04 |  |
+| [What Were You Thinking](https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [What Were You Thinking](https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt) | 3:36 | 2024-10-04 | 2025-02-15 |
 | [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 | 2024-10-18 | 2025-01-11 |
 | [Whether You Love Me or Not](https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Whether You Love Me or Not](https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue) | 3:28 | 2024-06-28 | 2024-07-13 |
 | [Whiskey Bottle](https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Whiskey Bottle](https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e) | 2:58 | 2024-06-28 | 2024-09-14 |

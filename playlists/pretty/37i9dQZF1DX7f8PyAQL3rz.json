@@ -1,6 +1,6 @@
 {
   "description": "os menino da nova",
-  "num_followers": 1404813,
+  "num_followers": 1404779,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
-        "name": "E A\u00ed Como Que T\u00e1 ?",
-        "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "E A\u00ed Como Que T\u00e1 ?",
-      "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
+        "name": "E A\u00ed Como Que T\u00e1 ?",
+        "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "E A\u00ed Como Que T\u00e1 ?",
+      "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
         "name": "Noite De Crime",
         "url": "https://open.spotify.com/album/2NXGCVJXDRKH8MufdKBGRz"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 415079,
       "name": "Noite De Crime",
       "url": "https://open.spotify.com/track/5jIYOSU4mq1A41lozsrAsa"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-02-07 03:03:00",

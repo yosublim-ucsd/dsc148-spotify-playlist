@@ -1,28 +1,28 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 88434,
+  "num_followers": 88440,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MehAAAAAB/OQLbop87jy514UsekOdg",
+  "snapshot_id": "Z67N9gAAAADCpV2tw7z2rDpywHGdC10l",
   "tracks": [
     {
-      "added_at": "2025-01-10 05:00:39",
+      "added_at": "2025-02-14 05:00:38",
       "album": {
-        "name": "NEVER WANNA LET YOU GO",
-        "url": "https://open.spotify.com/album/7LtEHkLfUrAOq5CUGFPwXh"
+        "name": "Want Me Back",
+        "url": "https://open.spotify.com/album/1EJOnER455lMjyT3kndqC5"
       },
       "artists": [
         {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 200204,
-      "name": "NEVER WANNA LET YOU GO",
-      "url": "https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I"
+      "duration_ms": 224357,
+      "name": "Want Me Back",
+      "url": "https://open.spotify.com/track/0MeTFymhdDs973XvXze2oi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "NEVER WANNA LET YOU GO",
+        "url": "https://open.spotify.com/album/7LtEHkLfUrAOq5CUGFPwXh"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "NEVER WANNA LET YOU GO",
+      "url": "https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -93,20 +109,20 @@
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-14 05:00:38",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+        "name": "ICNBYH",
+        "url": "https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+      "duration_ms": 197305,
+      "name": "ICNBYH",
+      "url": "https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -155,6 +171,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2025-02-14 05:00:38",
+      "album": {
+        "name": "Someone Else & Jesus",
+        "url": "https://open.spotify.com/album/7n6oJNWygajwSgTrFQGGbR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Manning",
+          "url": "https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS"
+        }
+      ],
+      "duration_ms": 202187,
+      "name": "Someone Else & Jesus",
+      "url": "https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -219,6 +251,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2025-02-14 05:00:38",
+      "album": {
+        "name": "What's Wrong",
+        "url": "https://open.spotify.com/album/6FBwP7JP9LcNPAom7UjE0U"
+      },
+      "artists": [
+        {
+          "name": "Noah Richardson",
+          "url": "https://open.spotify.com/artist/360NtdnCpSL0T7eyEphdWW"
+        }
+      ],
+      "duration_ms": 170704,
+      "name": "What's Wrong",
+      "url": "https://open.spotify.com/track/6iMWLGjbxa79HgMEMsx7ay"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -335,22 +383,6 @@
       "duration_ms": 225795,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/5rpqJU8hFJhqJx6ieJW3Fl"
-    },
-    {
-      "added_at": "2024-10-25 17:26:46",
-      "album": {
-        "name": "Wish I Could Hold You",
-        "url": "https://open.spotify.com/album/68YhnCOjvveRByOAc1w2GR"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Wish I Could Hold You",
-      "url": "https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -547,22 +579,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ashe",
         "url": "https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 198200,
       "name": "Life Will Be",
       "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Model, Actress, Whatever",
-        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 212530,
-      "name": "Model, Actress, Whatever",
-      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
     },
     {
       "added_at": "2024-10-11 04:00:00",

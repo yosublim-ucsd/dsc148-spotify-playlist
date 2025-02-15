@@ -2305,7 +2305,7 @@
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 293478,
+      "duration_ms": 294709,
       "name": "BADDIE",
       "url": "https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s"
     },
@@ -6413,7 +6413,7 @@
     },
     {
       "album": {
-        "name": "El Amor (Premio Goya 2025)",
+        "name": "El Amor (Premios Goya 2025)",
         "url": "https://open.spotify.com/album/1yCWdGu92Irb45eRWxLjal"
       },
       "artists": [
@@ -8112,12 +8112,16 @@
         {
           "name": "India Martinez",
           "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
         }
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 170445,
+      "duration_ms": 197426,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/2Dw91pmvdrmsi8C86VogS7"
     },
@@ -19333,6 +19337,28 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+    },
+    {
+      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs"
       },
@@ -21690,6 +21716,24 @@
       "duration_ms": 253769,
       "name": "Un \u00faltimo vals",
       "url": "https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp"
+    },
+    {
+      "album": {
+        "name": "Una Como Tu",
+        "url": "https://open.spotify.com/album/6lAOXclCaLdpiARyDjC7WR"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Una Como Tu",
+      "url": "https://open.spotify.com/track/2HHoXPafKfE41eXMQDrbrX"
     },
     {
       "album": {

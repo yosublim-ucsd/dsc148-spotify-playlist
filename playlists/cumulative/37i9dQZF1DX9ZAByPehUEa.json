@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop Lovin'",
+        "url": "https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Don't Stop Lovin'",
+      "url": "https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX"
+    },
+    {
+      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/3bZr6UwTPR2aa95zDD3atU"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 216950,
       "name": "Escapade",
       "url": "https://open.spotify.com/track/3ETeK08Ejz77XKvTfZ27YW"
@@ -2766,6 +2784,28 @@
       "duration_ms": 151967,
       "name": "Family (feat. El Boogie)",
       "url": "https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF"
+    },
+    {
+      "album": {
+        "name": "Fighting Love",
+        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Mark Dedross",
+          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "Fighting Love",
+      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
     },
     {
       "album": {
@@ -4108,7 +4148,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 238355,
       "name": "Hypnotizin'",
       "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
@@ -6118,7 +6158,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 149625,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/3XICoeVKdERVx4XwHefjl8"
@@ -9722,6 +9762,28 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
+    },
+    {
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/0zCuk3EDlJ3J8XjBkbpzVz"
+      },
+      "artists": [
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291505,
+      "name": "Times Are Changing",
+      "url": "https://open.spotify.com/track/6uTkDoB8P6vtLh2tT0ZlzI"
     },
     {
       "album": {

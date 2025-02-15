@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "365",
+      "url": "https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX"
+    },
+    {
+      "album": {
         "name": "6 A.M. / Maurader",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 339374,
       "name": "Above The Shadows",
       "url": "https://open.spotify.com/track/6M9RjUXFOJrkmM9Z2zb2Zw"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234421,
       "name": "Allure",
       "url": "https://open.spotify.com/track/70dXPHohcyh0b127wtjjw8"
@@ -350,7 +368,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 344888,
       "name": "Atmosfear - V.2.0",
       "url": "https://open.spotify.com/track/7DEs42L1TUyUn8RTlMT1WE"
@@ -567,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Brushcutter",
+        "url": "https://open.spotify.com/album/4OifWWoACaTzqafzSDBm5y"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Marley Waters",
+          "url": "https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271939,
+      "name": "Brushcutter",
+      "url": "https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp"
+    },
+    {
+      "album": {
         "name": "Club Vibes Part 02",
         "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
       },
@@ -730,7 +770,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 449000,
       "name": "Clearer Mind",
       "url": "https://open.spotify.com/track/2ELTcPtYTXaQC5OruwrOSi"
@@ -854,6 +894,24 @@
       "duration_ms": 234370,
       "name": "Create",
       "url": "https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352093,
+      "name": "Crispy Bacon",
+      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
     },
     {
       "album": {
@@ -1737,6 +1795,32 @@
     },
     {
       "album": {
+        "name": "Getaway (Henrik Schwarz Remix)",
+        "url": "https://open.spotify.com/album/7zDp5SwpTrgIQEnA9qpBh6"
+      },
+      "artists": [
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413658,
+      "name": "Getaway - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/5HqIyQKKL6NbD5Ok7Z8AQe"
+    },
+    {
+      "album": {
         "name": "Give A Little Bit",
         "url": "https://open.spotify.com/album/5yF5qpAoOQorS2xxO0RnYK"
       },
@@ -1795,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "KOMMIT",
+        "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
+      },
+      "artists": [
+        {
+          "name": "Der Dritte Raum",
+          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407419,
+      "name": "Gummihammer",
+      "url": "https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi"
+    },
+    {
+      "album": {
         "name": "Raumgleiter Re-Release 2024",
         "url": "https://open.spotify.com/album/6Dqh2RbfN0csCwLV3lh7aO"
       },
@@ -1828,7 +1930,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 338222,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/2BjmsOlTMYwkeIvhzVNyW5"
@@ -2674,7 +2776,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 193103,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4sckpkCazhIIoZ883A5vF8"
@@ -3300,10 +3402,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 276960,
       "name": "Nocturnal - Edit",
       "url": "https://open.spotify.com/track/20iF2uPnDuwbeFOsmF9dZC"
+    },
+    {
+      "album": {
+        "name": "Nonentity",
+        "url": "https://open.spotify.com/album/7cSIMtfjFvpCXd4DmNqN3m"
+      },
+      "artists": [
+        {
+          "name": "Plasmatique",
+          "url": "https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Nonentity",
+      "url": "https://open.spotify.com/track/1uWHsOO8sq88XyG0MHnuWU"
     },
     {
       "album": {
@@ -3470,7 +3590,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 336377,
       "name": "Oneironaut - Lauren Mia Remix",
       "url": "https://open.spotify.com/track/0DQALJLSUMUDjk7G5c5X6b"
@@ -3564,7 +3684,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222857,
       "name": "Pharaoh",
       "url": "https://open.spotify.com/track/4vSaBN4wJ3q9Ds6FQLHhEY"
@@ -3745,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Priority (Edit)",
+        "url": "https://open.spotify.com/album/2kDlczDkjDyNTsMmEppKAb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Priority - Edit",
+      "url": "https://open.spotify.com/track/23lzXgGIfoPDwy10r81zf3"
+    },
+    {
+      "album": {
         "name": "Prozess Drei",
         "url": "https://open.spotify.com/album/3KTgpQUDLCuaMrPu2ppteu"
       },
@@ -3854,7 +3992,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 415748,
       "name": "Remember",
       "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
@@ -3952,6 +4090,24 @@
       "duration_ms": 389781,
       "name": "Revolt - Extended Mix",
       "url": "https://open.spotify.com/track/5UAjSVD66PU0VJVDjf0wzj"
+    },
+    {
+      "album": {
+        "name": "Sapiosensual",
+        "url": "https://open.spotify.com/album/4P20LtVdYpBDkwLUpr4lYr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Sapiosensual",
+      "url": "https://open.spotify.com/track/4dI6MTMABd3ecL9cnXxIqR"
     },
     {
       "album": {
@@ -4350,7 +4506,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 315297,
       "name": "Something Half Way",
       "url": "https://open.spotify.com/track/7fmWi55u24fRasWaju85y1"
@@ -4616,7 +4772,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 295255,
       "name": "still here?",
       "url": "https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il"
@@ -4634,7 +4790,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 175002,
       "name": "Stopover - Edit",
       "url": "https://open.spotify.com/track/57ejAxpj9C3s9WCuzniPpG"
@@ -4656,6 +4812,28 @@
       "duration_ms": 339262,
       "name": "Subconscious",
       "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
+    },
+    {
+      "album": {
+        "name": "Sugar Coded",
+        "url": "https://open.spotify.com/album/0kz1bZGY7x57l6CzAi3kD9"
+      },
+      "artists": [
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        },
+        {
+          "name": "Harry Keyworth",
+          "url": "https://open.spotify.com/artist/0SIOzVNMDeMLkE3mRcIDf9"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306141,
+      "name": "Sugar Coded",
+      "url": "https://open.spotify.com/track/70W9WXqbzMtqwTF6J3rNjL"
     },
     {
       "album": {
@@ -4854,7 +5032,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 263555,
       "name": "The Towers",
       "url": "https://open.spotify.com/track/3aq24LaCBsnIjJawjdRrI9"
@@ -4912,7 +5090,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 323636,
       "name": "Time",
       "url": "https://open.spotify.com/track/57cNAYsgC0pS5cijXwWqNm"
@@ -5066,7 +5244,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 600121,
       "name": "Trauma - Worakls Remix",
       "url": "https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq"
@@ -5432,6 +5610,32 @@
       "duration_ms": 462720,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/3KLcnBTly3skMYOrzy1zQu"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        },
+        {
+          "name": "Philipp Johann Thimm",
+          "url": "https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96"
+        },
+        {
+          "name": "Jamal Dilmen",
+          "url": "https://open.spotify.com/artist/2ReUOiIHulZfotQQgFHoqB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/7tycEaFDvpBnSh8CQYqge6"
     },
     {
       "album": {

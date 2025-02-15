@@ -1,13 +1,233 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from evilgiane &amp; Rojuu, plus the latest cuts from Major Lazer, MRD and more.",
-  "num_followers": 50911,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Bassvictim, plus the latest cuts from 4evr, and Devon Again.",
+  "num_followers": 50910,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAcADQTJkyQ2+grJGhAiWDJCWU52cqP",
+  "snapshot_id": "AAAcKtfsLH0yxa4gN3rUNP/RMVjPOBpY",
   "tracks": [
+    {
+      "added_at": "2025-02-14 16:23:02",
+      "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 145625,
+      "name": "Forever salty",
+      "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
+    },
+    {
+      "added_at": "2025-02-14 16:23:11",
+      "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Wooden girl",
+      "url": "https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE"
+    },
+    {
+      "added_at": "2025-02-14 16:23:09",
+      "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "Makes you wonder",
+      "url": "https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR"
+    },
+    {
+      "added_at": "2025-02-14 16:23:06",
+      "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6"
+    },
+    {
+      "added_at": "2025-02-14 16:30:47",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
+    },
+    {
+      "added_at": "2025-02-14 16:30:13",
+      "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
+    },
+    {
+      "added_at": "2025-02-14 16:22:49",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176890,
+      "name": "thank you for recording",
+      "url": "https://open.spotify.com/track/4zhTF6LpMWHPuXWY8mNrY7"
+    },
+    {
+      "added_at": "2025-02-14 16:22:43",
+      "album": {
+        "name": "afraid (feat. nate sib)",
+        "url": "https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        },
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "afraid (feat. nate sib)",
+      "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
+    },
+    {
+      "added_at": "2025-02-14 16:24:36",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6vrMd96rKseNPRTAr1SJqw"
+      },
+      "artists": [
+        {
+          "name": "4evr",
+          "url": "https://open.spotify.com/artist/3kAtEgySEk9FNfVqtmdEYl"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "u always get what u want",
+      "url": "https://open.spotify.com/track/2h4GVR59iVM4RzwbUrGeZc"
+    },
+    {
+      "added_at": "2025-02-14 16:22:55",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6vrMd96rKseNPRTAr1SJqw"
+      },
+      "artists": [
+        {
+          "name": "4evr",
+          "url": "https://open.spotify.com/artist/3kAtEgySEk9FNfVqtmdEYl"
+        },
+        {
+          "name": "Elipropperr",
+          "url": "https://open.spotify.com/artist/1jndwpUpE013s7zjx2gM1f"
+        }
+      ],
+      "duration_ms": 141156,
+      "name": "Elipropperr Remix",
+      "url": "https://open.spotify.com/track/5HJZZppvk6AbnBCMfbWihJ"
+    },
+    {
+      "added_at": "2025-02-14 16:22:59",
+      "album": {
+        "name": "He Needs Me",
+        "url": "https://open.spotify.com/album/1mYuz5sGD07dHeLyq4dM0Y"
+      },
+      "artists": [
+        {
+          "name": "The Femcels",
+          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "He Needs Me",
+      "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
+    },
+    {
+      "added_at": "2025-02-14 16:36:49",
+      "album": {
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-11-16 01:04:49",
+      "album": {
+        "name": "never goes away",
+        "url": "https://open.spotify.com/album/1QXYV1u9xU4bPP3FmimTzb"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "never goes away",
+      "url": "https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a"
+    },
     {
       "added_at": "2025-01-25 23:36:11",
       "album": {
@@ -39,6 +259,42 @@
       "duration_ms": 182319,
       "name": "take your vibes and go - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/1gHKO4NhJgzwNMDnYHs0y1"
+    },
+    {
+      "added_at": "2024-12-18 18:26:26",
+      "album": {
+        "name": "take your vibes and go (DJ ADHD & Chlo\u00e9 Robinson Remix)",
+        "url": "https://open.spotify.com/album/4rV58lqDzRYmLD1ToaqL06"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
+      "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
     },
     {
       "added_at": "2025-01-27 00:38:02",
@@ -111,42 +367,6 @@
       "duration_ms": 196165,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW"
-    },
-    {
-      "added_at": "2024-12-18 18:26:26",
-      "album": {
-        "name": "take your vibes and go (DJ ADHD & Chlo\u00e9 Robinson Remix)",
-        "url": "https://open.spotify.com/album/4rV58lqDzRYmLD1ToaqL06"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        },
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
-      "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
     },
     {
       "added_at": "2025-01-25 23:36:17",
@@ -711,22 +931,6 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2024-11-16 01:04:49",
-      "album": {
-        "name": "never goes away",
-        "url": "https://open.spotify.com/album/1QXYV1u9xU4bPP3FmimTzb"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "never goes away",
-      "url": "https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a"
     },
     {
       "added_at": "2024-11-16 01:02:33",
@@ -1389,22 +1593,6 @@
       "url": "https://open.spotify.com/track/6xv5MuUpxjRtxu7tQQPgMD"
     },
     {
-      "added_at": "2024-09-27 20:09:04",
-      "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
-    },
-    {
       "added_at": "2024-09-27 20:09:38",
       "album": {
         "name": "waitin on it",
@@ -1665,23 +1853,7 @@
       "url": "https://open.spotify.com/track/5KW4Fp4DEnfJyj0zFTyVHP"
     },
     {
-      "added_at": "2024-07-14 22:51:47",
-      "album": {
-        "name": "cherry cola / sunburn",
-        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "cherry cola",
-      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
-    {
-      "added_at": "2024-07-26 19:57:55",
+      "added_at": "2025-02-14 16:38:19",
       "album": {
         "name": "HARD COPY",
         "url": "https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF"
@@ -1699,190 +1871,6 @@
       "duration_ms": 96363,
       "name": "PARACHUTE",
       "url": "https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB"
-    },
-    {
-      "added_at": "2024-08-28 16:47:06",
-      "album": {
-        "name": "HIGHJACK",
-        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 190074,
-      "name": "HIGHJACK",
-      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
-    },
-    {
-      "added_at": "2024-07-14 22:57:40",
-      "album": {
-        "name": "fucking highschool people",
-        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
-      },
-      "artists": [
-        {
-          "name": "MRD",
-          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "fucking highschool people",
-      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
-    },
-    {
-      "added_at": "2024-07-14 23:07:14",
-      "album": {
-        "name": "beine sp\u00fcren (Paul Seul remix)",
-        "url": "https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        },
-        {
-          "name": "Paul Seul",
-          "url": "https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi"
-        }
-      ],
-      "duration_ms": 255955,
-      "name": "beine sp\u00fcren - Paul Seul remix",
-      "url": "https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ"
-    },
-    {
-      "added_at": "2024-07-14 22:53:44",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ"
-      },
-      "artists": [
-        {
-          "name": "ascendant vierge",
-          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
-        },
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        }
-      ],
-      "duration_ms": 259569,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp"
-    },
-    {
-      "added_at": "2024-06-07 19:21:15",
-      "album": {
-        "name": "Heatstroke",
-        "url": "https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH"
-    },
-    {
-      "added_at": "2024-08-28 16:46:59",
-      "album": {
-        "name": "New Erotica Collection",
-        "url": "https://open.spotify.com/album/3mWuVVD49yMSC2y3wVW6SX"
-      },
-      "artists": [
-        {
-          "name": "System Olympia",
-          "url": "https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Call Girl",
-      "url": "https://open.spotify.com/track/6Imu7x4Aw431MxfxB2zLpq"
-    },
-    {
-      "added_at": "2024-07-26 19:57:52",
-      "album": {
-        "name": "One More Time (feat. Popstar)",
-        "url": "https://open.spotify.com/album/6IUU2MGfGp4z0gfMljs0pz"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Popstar",
-          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "One More Time (feat. Popstar)",
-      "url": "https://open.spotify.com/track/3U5SjZnl1FXCEwYVuitL60"
-    },
-    {
-      "added_at": "2024-07-26 19:58:08",
-      "album": {
-        "name": "Bikini",
-        "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
-      },
-      "artists": [
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 185798,
-      "name": "Bikini",
-      "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
-    },
-    {
-      "added_at": "2024-07-14 23:05:51",
-      "album": {
-        "name": "F4",
-        "url": "https://open.spotify.com/album/47Icm6joonV34P7WTH0lIf"
-      },
-      "artists": [
-        {
-          "name": "DRES",
-          "url": "https://open.spotify.com/artist/1K3KCADbeW2AS24pKJQgmd"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "F4",
-      "url": "https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p"
-    },
-    {
-      "added_at": "2024-07-14 22:58:06",
-      "album": {
-        "name": "I Need Your Violence",
-        "url": "https://open.spotify.com/album/1XFJR1ZUFIDuIWV23S8KDr"
-      },
-      "artists": [
-        {
-          "name": "Delachute",
-          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
-        }
-      ],
-      "duration_ms": 156064,
-      "name": "I Need Your Violence",
-      "url": "https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz"
     }
   ],
   "unique_name": "Mad Decent Weekly",

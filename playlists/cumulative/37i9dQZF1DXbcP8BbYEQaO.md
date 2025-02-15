@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-725 songs - 1 day 16 hr 43 min
+726 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-30 | 2022-03-18 |
 | [Air](https://open.spotify.com/track/2Nc3Eg0p5Ot6RYkAMmVowH) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Air](https://open.spotify.com/album/2jSqZSQ32EHQc2RdFQKru6) | 3:37 | 2021-12-17 | 2022-04-17 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2021-11-20 | 2022-03-26 |
+| [Algorithm](https://open.spotify.com/track/4P9s672KFfDlbjhQAVeoT5) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Algorithm](https://open.spotify.com/album/6ZQJmalbz7FsGBgEfPxqUP) | 3:03 | 2025-02-14 |  |
 | [All Love \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:24 | 2020-10-13\* | 2020-11-18 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [All Our Friends Are Splitting Up](https://open.spotify.com/album/3Rf75PC9Awl8gfIccji1n8) | 3:40 | 2021-09-13 | 2021-10-02 |
 | [All the Feels](https://open.spotify.com/track/0XGEJ2ggFFuD35Aj21kZJR) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [All the Feels](https://open.spotify.com/album/537eFZTXjHEPouGWY0ZY21) | 3:17 | 2022-07-15 | 2022-07-19 |
@@ -632,7 +633,7 @@
 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 | 2022-10-21 | 2023-02-18 |
 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 | 2020-11-18 | 2021-09-11 |
 | [The Girl and the Robot](https://open.spotify.com/track/6VCqx14OVaX9uwSvC0PvAG) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Junior](https://open.spotify.com/album/6vQMbwthchxuSioACn2hcE) | 4:28 | 2022-04-16 | 2022-04-21 |
-| [The Lies We Tell Ourselves At Night](https://open.spotify.com/track/6Ac2bemp4v731ioC2mWe57) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [The Lies We Tell Ourselves At Night](https://open.spotify.com/album/7rVc8zMM7OEbXWeP88VNRs) | 3:34 | 2024-04-26 |  |
+| [The Lies We Tell Ourselves At Night](https://open.spotify.com/track/6Ac2bemp4v731ioC2mWe57) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [The Lies We Tell Ourselves At Night](https://open.spotify.com/album/7rVc8zMM7OEbXWeP88VNRs) | 3:34 | 2024-04-26 | 2025-02-15 |
 | [The Night Is Dancing in Your Eyes](https://open.spotify.com/track/2lRf73vEvHuRCkrxTR0XmB) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT) | [The Night Is Dancing in Your Eyes](https://open.spotify.com/album/7KdvJjyZMGhBlZcw2QJxWP) | 3:27 | 2021-11-20 | 2022-02-26 |
 | [THE ONE](https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [THE ONE](https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n) | 2:40 | 2023-01-20 | 2023-09-25 |
 | [The Other Side](https://open.spotify.com/track/5UKww4m7PM5FQPWEelIjaE) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [The Other Side](https://open.spotify.com/album/6x29bpb0qK2u05nvdbKYTy) | 4:05 | 2020-10-13\* | 2021-11-20 |

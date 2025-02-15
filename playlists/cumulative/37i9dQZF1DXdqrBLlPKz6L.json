@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "CIELO TRISTE",
+        "url": "https://open.spotify.com/album/5ZB8XZmdI0N4tJkB7AvEuQ"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "CIELO TRISTE",
+      "url": "https://open.spotify.com/track/23cn2UTNnhgNJcfHnq4cZw"
+    },
+    {
+      "album": {
         "name": "CODIGOS",
         "url": "https://open.spotify.com/album/5RqfFRVr25qt9qAuXZXkV1"
       },
@@ -1330,7 +1352,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"

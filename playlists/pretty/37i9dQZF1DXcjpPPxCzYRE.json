@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 420387,
+  "num_followers": 420443,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Lowdown",
-        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 195070,
-      "name": "Lowdown (part i)",
-      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Hay algo en ti",
         "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 146176,
       "name": "Hay algo en ti",
       "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Sin Miedo a Vivir",
-        "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
-      },
-      "artists": [
-        {
-          "name": "Jacob Mey",
-          "url": "https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5"
-        },
-        {
-          "name": "Juls Catt\u00e1neo",
-          "url": "https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sin Miedo a Vivir",
-      "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "La ventanita",
         "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
       },
@@ -1383,6 +1363,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+        "name": "Sin Miedo a Vivir",
+        "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
       },
       "artists": [
         {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+          "name": "Jacob Mey",
+          "url": "https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5"
+        },
+        {
+          "name": "Juls Catt\u00e1neo",
+          "url": "https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+      "duration_ms": 171000,
+      "name": "Sin Miedo a Vivir",
+      "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
     },
     {
       "added_at": "2025-01-03 09:30:40",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: LH CHUCRO",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Raffa Moreira",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -10412,7 +10412,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 124071,
       "name": "Diz Pra Mim",
       "url": "https://open.spotify.com/track/1jdvXuP5NmnqPI157adBq5"
@@ -17292,7 +17292,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
@@ -18892,6 +18892,28 @@
       "duration_ms": 173383,
       "name": "Malokeragem",
       "url": "https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/2EYD8IEiM1UVthICiK9k0r"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124193,
+      "name": "Malokero",
+      "url": "https://open.spotify.com/track/2xk05XF41s9Q1pNhLFrAbf"
     },
     {
       "album": {
@@ -21832,6 +21854,44 @@
       "duration_ms": 137775,
       "name": "Nois e o Trem",
       "url": "https://open.spotify.com/track/4ejb1eAN1Imhjk8iJg0Xcd"
+    },
+    {
+      "album": {
+        "name": "Nois Ta Com o Passe",
+        "url": "https://open.spotify.com/album/6jWGfIuzWwRD5laA7yrTq0"
+      },
+      "artists": [
+        {
+          "name": "Luk The Real",
+          "url": "https://open.spotify.com/artist/3Lw8tmb8t7XVLonOhQlqbA"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Hobb The Goat",
+          "url": "https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Nois Ta Com o Passe",
+      "url": "https://open.spotify.com/track/0AARzhj6D13adhLxWaCWbZ"
     },
     {
       "album": {
@@ -24998,14 +25058,6 @@
         {
           "name": "NADAMAL",
           "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        },
-        {
-          "name": "Joe Challen",
-          "url": "https://open.spotify.com/artist/0A0eAyHf5R7h1sdwrpAOwo"
         }
       ],
       "date_added": "2024-11-08",
@@ -25250,6 +25302,32 @@
       "duration_ms": 140964,
       "name": "Plug Fake",
       "url": "https://open.spotify.com/track/77OSKeSazmzUTefLereoLg"
+    },
+    {
+      "album": {
+        "name": "Plug Freestyle",
+        "url": "https://open.spotify.com/album/3WFNqrUYUl1XNq5ITMkyS5"
+      },
+      "artists": [
+        {
+          "name": "COMINI",
+          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
+        },
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Plug Freestyle",
+      "url": "https://open.spotify.com/track/7J5nWDMSW3UrMeTBXel5rb"
     },
     {
       "album": {
@@ -25981,6 +26059,32 @@
     },
     {
       "album": {
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e"
+      },
+      "artists": [
+        {
+          "name": "ENOQ",
+          "url": "https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        },
+        {
+          "name": "EAGD",
+          "url": "https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151115,
+      "name": "Procedimento",
+      "url": "https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa"
+    },
+    {
+      "album": {
         "name": "Procedimento",
         "url": "https://open.spotify.com/album/2zE7LQjIzbE2Dh3bcJnggq"
       },
@@ -26296,7 +26400,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 140338,
       "name": "Pr\u00f3ximo Passo",
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
@@ -27478,7 +27582,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 231719,
       "name": "Rein\u00edcio",
       "url": "https://open.spotify.com/track/3DKsuOKq37WAv512atC3tT"
@@ -29741,6 +29845,32 @@
     },
     {
       "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/5Z8DcavPQWJ1zLYbUTODOU"
+      },
+      "artists": [
+        {
+          "name": "Oliveira",
+          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168607,
+      "name": "Sobrevivente",
+      "url": "https://open.spotify.com/track/4e8Iuy55BlsLv4JBL17gKt"
+    },
+    {
+      "album": {
         "name": "Sofrendo com Ins\u00f4nia",
         "url": "https://open.spotify.com/album/4DZrL30J1SAx6hHcQJjTKl"
       },
@@ -30220,7 +30350,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 118178,
       "name": "Sua Culpa",
       "url": "https://open.spotify.com/track/3kmJF640M0mE8SiGapXnWY"

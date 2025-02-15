@@ -5417,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Headrest",
+        "url": "https://open.spotify.com/album/1qxIcpHctACmkDFSGJXhVf"
+      },
+      "artists": [
+        {
+          "name": "Stekt",
+          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158076,
+      "name": "Headrest",
+      "url": "https://open.spotify.com/track/7pLKgaXqqwAHPqhJCnRccR"
+    },
+    {
+      "album": {
         "name": "heavy eyes",
         "url": "https://open.spotify.com/album/7loji5nsZ8kG1TWSP44OfS"
       },
@@ -5953,6 +5971,28 @@
     },
     {
       "album": {
+        "name": "i want to stay",
+        "url": "https://open.spotify.com/album/0C8xNwuxdPEVV3t8Ag6S0h"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "i want to stay",
+      "url": "https://open.spotify.com/track/0AOg5TOUho8akww8Vk7Vir"
+    },
+    {
+      "album": {
         "name": "Night Time Memories Pt. 1",
         "url": "https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc"
       },
@@ -6460,7 +6500,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 146065,
       "name": "island",
       "url": "https://open.spotify.com/track/0NNZd0TtiVTkdPee7dS5HU"
@@ -8226,7 +8266,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
@@ -10210,7 +10250,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176000,
       "name": "patterns",
       "url": "https://open.spotify.com/track/2Q9N46Bf109iXeI5xnLxOx"
@@ -11402,7 +11442,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 140824,
       "name": "seductive",
       "url": "https://open.spotify.com/track/69TDC6pFG3odxX0kfCC288"
@@ -11964,7 +12004,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 119312,
       "name": "sleepy",
       "url": "https://open.spotify.com/track/01IrI9Sy7LrX5MaRnwZbJ8"
@@ -12416,7 +12456,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 108000,
       "name": "Soothing Sense",
       "url": "https://open.spotify.com/track/4NRrzS3heq2vqVq4cxi81o"
@@ -14704,7 +14744,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 126792,
       "name": "watching the rain",
       "url": "https://open.spotify.com/track/1B686nuuCXZmEYcaqIZWGE"

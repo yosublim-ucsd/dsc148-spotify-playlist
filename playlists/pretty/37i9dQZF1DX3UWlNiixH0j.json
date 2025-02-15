@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30ba\u30ab\u30a4 (Zukai)",
-  "num_followers": 60612,
+  "num_followers": 60660,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -679,7 +679,7 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
-        "name": "little gley",
+        "name": "little grey",
         "url": "https://open.spotify.com/album/53Z56gCwyjkPyusHdiymrw"
       },
       "artists": [
@@ -689,7 +689,7 @@
         }
       ],
       "duration_ms": 264364,
-      "name": "little gley",
+      "name": "little grey",
       "url": "https://open.spotify.com/track/7sHX1Fo3pI5VB69KLIyxBW"
     },
     {
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
+        "name": "\u3042\u305f\u3089\u3057\u3044\u65c5",
+        "url": "https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 207515,
+      "name": "\u3042\u305f\u3089\u3057\u3044\u65c5",
+      "url": "https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 193383,
       "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
       "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
-        "name": "\u3042\u305f\u3089\u3057\u3044\u65c5",
-        "url": "https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 207515,
-      "name": "\u3042\u305f\u3089\u3057\u3044\u65c5",
-      "url": "https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH"
     },
     {
       "added_at": "2025-02-12 01:32:39",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C"
-      },
-      "artists": [
-        {
-          "name": "ena mori",
-          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
         "name": "\u3042\u3070\u3089",
         "url": "https://open.spotify.com/album/0Ar9gmzTOhV7VUYwQag6ue"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 147841,
       "name": "\u304b\u304b\u3063\u3066\u3053\u3044\u3088\u30d0\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/2eEenDTP3qIQjc1eHQYzpY"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk"
     },
     {
       "added_at": "2025-02-12 01:32:39",

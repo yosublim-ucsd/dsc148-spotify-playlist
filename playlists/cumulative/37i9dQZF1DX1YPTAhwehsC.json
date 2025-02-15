@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Joey Bada$$",
+  "description": "Up and down I-95. Cover: Fivio Foreign",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180731,
       "name": "Armani Section",
       "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
@@ -6255,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Dead Roses",
+        "url": "https://open.spotify.com/album/74wfvw11T1A2HNDQTi2nxL"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122292,
+      "name": "Dead Roses",
+      "url": "https://open.spotify.com/track/0T3bi3vnjpTQmLuz8Y9vOm"
+    },
+    {
+      "album": {
         "name": "Dear Fear",
         "url": "https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6"
       },
@@ -7862,6 +7880,24 @@
       "duration_ms": 146629,
       "name": "Dusties",
       "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
+    },
+    {
+      "album": {
+        "name": "DUYA",
+        "url": "https://open.spotify.com/album/4kY6UYzKxCIKIScCpDjOY1"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176073,
+      "name": "DUYA",
+      "url": "https://open.spotify.com/track/655tuJWCM8txzCrUjCinnN"
     },
     {
       "album": {
@@ -11438,7 +11474,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152888,
       "name": "Heart Don't Lie",
       "url": "https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV"
@@ -12514,7 +12550,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130960,
       "name": "I Know Verdy",
       "url": "https://open.spotify.com/track/1tCyx8uYVDrsbaDVkAkyRQ"
@@ -13594,7 +13630,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 190133,
       "name": "Jomo",
       "url": "https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl"
@@ -14685,6 +14721,32 @@
     },
     {
       "album": {
+        "name": "u miss me yet?",
+        "url": "https://open.spotify.com/album/0gRnc0cFqzRPeHNyjkXs4A"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        },
+        {
+          "name": "Really Jaewon",
+          "url": "https://open.spotify.com/artist/1aDsYxMf0dLEqrpmcvvWE0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131133,
+      "name": "Let you have it (feat. Kai Ca$h & Really Jaewon)",
+      "url": "https://open.spotify.com/track/36T3K1sXVo6FftX0C7o89E"
+    },
+    {
+      "album": {
         "name": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
         "url": "https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW"
       },
@@ -14824,6 +14886,24 @@
       "duration_ms": 176640,
       "name": "LGLG",
       "url": "https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY"
+    },
+    {
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
     },
     {
       "album": {
@@ -15230,7 +15310,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194040,
       "name": "Long Live J Dilla (feat. Westside Gunn & Busta Rhymes)",
       "url": "https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b"
@@ -15973,6 +16053,24 @@
     },
     {
       "album": {
+        "name": "MARGARET",
+        "url": "https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "MARGARET",
+      "url": "https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq"
+    },
+    {
+      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
       },
@@ -16112,7 +16210,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211034,
       "name": "MAYHEM",
       "url": "https://open.spotify.com/track/68Gc4V5IpWxNpXWnpyUcuy"
@@ -16646,7 +16744,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222439,
       "name": "Mobile Phone",
       "url": "https://open.spotify.com/track/5GgisxN0vnT0Sk6u7hD9B0"
@@ -17138,6 +17236,24 @@
       "duration_ms": 173948,
       "name": "MVP (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/63XVsQQ1GQLOrOfu36rhOC"
+      },
+      "artists": [
+        {
+          "name": "Pasto Flocco",
+          "url": "https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99230,
+      "name": "My Aura",
+      "url": "https://open.spotify.com/track/3ZVu7pcmsZAbjWSFBmrjat"
     },
     {
       "album": {
@@ -17722,7 +17838,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 203625,
       "name": "New York To The World (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/2lXRpKZ1igTeCAE0RVRucl"
@@ -19387,6 +19503,24 @@
     },
     {
       "album": {
+        "name": "OUTLANDER",
+        "url": "https://open.spotify.com/album/7quKfaYZBojfTzal3z9vj8"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "OUTLANDER",
+      "url": "https://open.spotify.com/track/3urhQ4IpNTuYmkTcgrUsPu"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3c8EDoT5199n5XXwfgp3v4"
       },
@@ -19628,7 +19762,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 124740,
       "name": "Pain",
       "url": "https://open.spotify.com/track/5TcpDQHyQGxlYsn0kzJKV8"
@@ -25791,6 +25925,28 @@
     },
     {
       "album": {
+        "name": "THE MOSQUE",
+        "url": "https://open.spotify.com/album/4felREt8ysIWW5Xx7H4ZOt"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "THE MOSQUE",
+      "url": "https://open.spotify.com/track/49ZCQ2GwXgaRDNHVVkZA0k"
+    },
+    {
+      "album": {
         "name": "The One (Sprite Limelight)",
         "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
@@ -26834,6 +26990,32 @@
       "duration_ms": 125734,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6"
+    },
+    {
+      "album": {
+        "name": "Trippin on a Yacht (feat. Bay Swag & Rob49)",
+        "url": "https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275959,
+      "name": "Trippin on a Yacht (feat. Bay Swag & Rob49)",
+      "url": "https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9"
     },
     {
       "album": {
@@ -28238,7 +28420,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152878,
       "name": "What the hip hop hell is this ?",
       "url": "https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox"
@@ -29356,6 +29538,24 @@
       "duration_ms": 123552,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/4GWO4LeUE6fc4V5WVQ2MhQ"
+    },
+    {
+      "album": {
+        "name": "GIRLS CUM FIRST!",
+        "url": "https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172453,
+      "name": "yes mami!",
+      "url": "https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift"
     },
     {
       "album": {

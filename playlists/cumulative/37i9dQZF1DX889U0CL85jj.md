@@ -4,7 +4,7 @@
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-639 songs - 1 day 13 hr 1 min
+640 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 | 2020-04-17 | 2022-08-20 |
 | [Nimbus](https://open.spotify.com/track/001EhZ9ZELNRrrLhpuPGQJ) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Nimbus](https://open.spotify.com/album/1NZZZZwUsYX2Lnmav1WwLG) | 3:07 | 2022-01-21 | 2022-11-12 |
 | [NO !](https://open.spotify.com/track/0yZcbEhhBUixa85MQL9t5B) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [NO !](https://open.spotify.com/album/2mXkVLhWZPMgIcJVercOX9) | 3:44 | 2020-04-14 | 2022-01-22 |
+| [No Champagne \(6am\)](https://open.spotify.com/track/21ktp6PzUlRdruDIEcraM2) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [No Champagne \(6am\)](https://open.spotify.com/album/06J4c0VJ5CKYy8xyQlv4GZ) | 2:34 | 2025-02-14 |  |
 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 | 2023-02-24 | 2024-01-13 |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-06-12 | 2023-01-28 |
 | [No Trouble](https://open.spotify.com/track/2cd4QBg7XpGuSxq0yVHK2j) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC) | 3:39 | 2021-06-07 | 2023-04-01 |
@@ -450,7 +451,7 @@
 | [Rise](https://open.spotify.com/track/0gxVuBfUu1TbmFyJZwK6X0) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Jahnavi Harrison](https://open.spotify.com/artist/5yFeIzipr0tcFe2TAU1vBz) | [R I S E](https://open.spotify.com/album/02f7p0Xt2EuOgBfc6RDOmJ) | 3:39 | 2020-11-20 | 2022-01-22 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2021-06-23 | 2023-03-03 |
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-27 | 2023-05-23 |
-| [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-12 |  |
+| [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-12 | 2025-02-15 |
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-09-02 | 2023-08-12 |
 | [Rudimentary Science](https://open.spotify.com/track/4MAKdWgUGdUBFxguTvNLD7) | [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF) | [Rudimentary Science](https://open.spotify.com/album/6zjnBOtwRlAYeamA1KLhYf) | 2:44 | 2023-06-24 |  |

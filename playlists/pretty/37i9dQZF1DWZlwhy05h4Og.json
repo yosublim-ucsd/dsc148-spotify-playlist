@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: IVE",
-  "num_followers": 59120,
+  "description": "The sweetest bops. Cover: BINI",
+  "num_followers": 59127,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6rQKwAAAADbWrFJ3FwAMZMvwdsmCNkI",
+  "snapshot_id": "Z67N8AAAAACSsfVQiqQKfL13QXLtHTEc",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 153918,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
+    },
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/2WOuUAtBrDEJOiDUnorXqL"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        }
-      ],
-      "duration_ms": 178448,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
       },
@@ -1137,7 +1137,7 @@
       "artists": [
         {
           "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/1zcc28bsNibNIyv06jey0S"
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
       "duration_ms": 185920,

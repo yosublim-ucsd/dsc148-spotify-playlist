@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: \nChristine D'Clario",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: \nIngrid Rosario",
   "name": "Alabanza y Gloria",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 382026,
       "name": "Cantamos A \u00c9l",
       "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 197119,
       "name": "Conocido",
       "url": "https://open.spotify.com/track/0aCOBqgxNxnz3kvWWZPJIz"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 369420,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 336754,
       "name": "Inigualable",
       "url": "https://open.spotify.com/track/3VmmAlYsYkydaOAQpScbf8"
@@ -1668,6 +1668,28 @@
       "duration_ms": 319650,
       "name": "Levanto Mis Manos",
       "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "album": {
+        "name": "Libre (Versi\u00f3n Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259368,
+      "name": "Libre - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8"
     },
     {
       "album": {
@@ -2009,6 +2031,32 @@
     },
     {
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6wban43aPX7A26oJ4Rf4zj"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470400,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2V9xkTwbPIsQnv0bScwlt2"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Que Suficiente",
         "url": "https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm"
       },
@@ -2242,7 +2290,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 249133,
       "name": "No Te Olvides",
       "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
@@ -2407,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Pagar El Precio (En Vivo)",
+        "url": "https://open.spotify.com/album/3Hrxwax5SmJfL1U1kK7zBb"
+      },
+      "artists": [
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 653333,
+      "name": "Pagar El Precio - En Vivo",
+      "url": "https://open.spotify.com/track/5rh6v6rIwSWIdTTTbYIaoD"
+    },
+    {
+      "album": {
         "name": "Adoraci\u00f3n III",
         "url": "https://open.spotify.com/album/5zb3EC60lfoW1rRvmfoxtU"
       },
@@ -2546,7 +2612,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 367773,
       "name": "Que Baje la Nube",
       "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
@@ -3068,7 +3134,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 216040,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/1JjIFPOdSgr1dQ074iJpyk"
@@ -3160,6 +3226,24 @@
       "duration_ms": 404603,
       "name": "Tu Amor No Tiene Fin (feat. Redimi2)",
       "url": "https://open.spotify.com/track/2rMEnJMZCvD0vvMA7x9Ffq"
+    },
+    {
+      "album": {
+        "name": "Tu Dulce Voz (L\u00e1zaro)",
+        "url": "https://open.spotify.com/album/2CQTVx1twdKzRtBScaX7QH"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587066,
+      "name": "Tu Dulce Voz (L\u00e1zaro)",
+      "url": "https://open.spotify.com/track/708YdWq53xNewS3igtbYCg"
     },
     {
       "album": {
@@ -3319,6 +3403,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Eres Dios",
+        "url": "https://open.spotify.com/album/0YICEYAaNv9lFBRrKtYtu4"
+      },
+      "artists": [
+        {
+          "name": "Chanel Novas",
+          "url": "https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559438,
+      "name": "T\u00fa Eres Dios",
+      "url": "https://open.spotify.com/track/6Ba75b7WwhRuITzZsnKOp2"
+    },
+    {
+      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -3468,7 +3574,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 271508,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/4gLSx7FkxOPvgk5iPs9L1f"

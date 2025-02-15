@@ -4705,6 +4705,28 @@
     },
     {
       "album": {
+        "name": "En peu de pau",
+        "url": "https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk"
+      },
+      "artists": [
+        {
+          "name": "Sergi Carbonell",
+          "url": "https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265261,
+      "name": "En peu de pau",
+      "url": "https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5"
+    },
+    {
+      "album": {
         "name": "En Veinte D\u00edas",
         "url": "https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA"
       },
@@ -9796,7 +9818,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"

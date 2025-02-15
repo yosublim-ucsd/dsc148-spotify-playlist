@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-212 songs - 11 hr 23 min
+213 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I Run To You \- Dave Bascombe Mix](https://open.spotify.com/track/4z8bVsIbVAg4hlBAN5WGXB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 4:18 | 2021-12-10 |  |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2021-12-10 |  |
 | [Jolene \- Dumplin' Remix](https://open.spotify.com/track/0HtY7ILTZVSd4i44FuOrur) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [DJ Ricky Luna](https://open.spotify.com/artist/41EN0ZREKu3QnW9N0kre0K) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 3:24 | 2021-12-10 | 2023-04-29 |
+| [Keep You With Me](https://open.spotify.com/track/2JmxvWnOx1RrNDInp65FJv) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Keep You With Me](https://open.spotify.com/album/3lGM8QxnrUyEBzXqlFGn2u) | 2:52 | 2025-02-14 |  |
 | [Lady Like \- Deepend Remix](https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deepend Remix\)](https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD) | 3:05 | 2021-12-10 |  |
 | [Leave Right Now \- Martin Jensen Mix](https://open.spotify.com/track/2jfxgvlFmXQzUxTfCSEwmR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Leave Right Now \(The Remixes\)](https://open.spotify.com/album/1YEKN0Bpeo0i0coa5niw9F) | 2:41 | 2021-12-10 |  |
 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 | 2021-12-10 |  |

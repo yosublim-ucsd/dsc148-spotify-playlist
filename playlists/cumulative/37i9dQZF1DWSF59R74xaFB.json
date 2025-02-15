@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Accidente",
+        "url": "https://open.spotify.com/album/3vWLAtxUkH5Pdqo6O9ZALi"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/0ndx76oEmSTSg9sufUSTb5"
+    },
+    {
+      "album": {
         "name": "Acr\u00f3stico (Milan + Sasha)",
         "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 189583,
       "name": "desahogo",
       "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
@@ -3537,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Examen de Tristeza",
+        "url": "https://open.spotify.com/album/2rECZItHNLUi8lo1Qthke5"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184655,
+      "name": "Examen de Tristeza",
+      "url": "https://open.spotify.com/track/2SocElbfCrZro6TBLdfGpp"
+    },
+    {
+      "album": {
         "name": "AMORADESAMOR",
         "url": "https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E"
       },
@@ -4656,6 +4696,24 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/0qcAXynVU5O9o64Bx7ps8m"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201768,
+      "name": "Las Cosas Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/0ANM3ZR9RvTdeDXgZYTxdj"
     },
     {
       "album": {
@@ -5853,6 +5911,28 @@
     },
     {
       "album": {
+        "name": "Nada Es Para Siempre",
+        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
+    },
+    {
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
@@ -6270,7 +6350,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 184763,
       "name": "Noche de Luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
@@ -7104,7 +7184,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 205687,
       "name": "Pueblo Salvaje",
       "url": "https://open.spotify.com/track/2YkBIlrhKqmKhxNZJLNTti"
@@ -8062,7 +8142,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206365,
       "name": "Solo Di S\u00ed",
       "url": "https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c"

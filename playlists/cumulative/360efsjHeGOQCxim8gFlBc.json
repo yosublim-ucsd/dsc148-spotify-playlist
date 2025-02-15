@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/3QfZGCfUsNz9hKsnVM6vK5"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1zDNCrmrKKQXWWKKgePWg0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117971,
+      "name": "1975",
+      "url": "https://open.spotify.com/track/5gNAuXravDfHRrg2bWn2y1"
+    },
+    {
+      "album": {
         "name": "2:41pm",
         "url": "https://open.spotify.com/album/5cBg0nj6IUxKNL5yZcQ7Tu"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 68000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/6GKuhudzJ0bg4SUElxmLNa"
@@ -739,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5Mx5E3lwlyrsfPb7hKKaT2"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258855,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/3BEZbYYpnCSOMQh5wbAMt4"
+    },
+    {
+      "album": {
         "name": "As I Breathe",
         "url": "https://open.spotify.com/album/5h4j3BZMDAqibxAH5fHBpR"
       },
@@ -870,7 +906,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 179555,
       "name": "Autumn Air",
       "url": "https://open.spotify.com/track/4bIz6WIScPS9dVAd3zV99p"
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176714,
       "name": "Camille's Waltz",
       "url": "https://open.spotify.com/track/4Eftb5OHGISJnTQLfhRCzF"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211329,
       "name": "Colors of the Wind",
       "url": "https://open.spotify.com/track/4uEFwVkFCkKRPMY6YkJAbb"
@@ -2048,6 +2084,28 @@
       "duration_ms": 127817,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/4fhFlHloSh3y8qC3z7teXt"
+    },
+    {
+      "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/5OLKPyBppTi9URBhhXENRq"
+      },
+      "artists": [
+        {
+          "name": "Paul-Herv\u00e9 KONATE",
+          "url": "https://open.spotify.com/artist/069tBzVSWzAwbVcGqLM3RA"
+        },
+        {
+          "name": "Paul H.",
+          "url": "https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Cosy environnement",
+      "url": "https://open.spotify.com/track/73uf1T39iOg8u1hT802gjZ"
     },
     {
       "album": {
@@ -2429,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "depth",
+        "url": "https://open.spotify.com/album/76Dlnxb2BrK4G8fnleBHSX"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        },
+        {
+          "name": "Andy Feldman",
+          "url": "https://open.spotify.com/artist/3rnRik46TfCZnejgHgnCRQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149125,
+      "name": "depth",
+      "url": "https://open.spotify.com/track/3L2GzGgNOzPwhKlu2ZKx14"
+    },
+    {
+      "album": {
         "name": "Derinlerde",
         "url": "https://open.spotify.com/album/1WKTBrfd5mr33FvC6ZVHMx"
       },
@@ -2498,6 +2578,24 @@
       "duration_ms": 116434,
       "name": "dirtmouth - vinyl cut",
       "url": "https://open.spotify.com/track/7irEHAhsWbZPmEPboXFmC3"
+    },
+    {
+      "album": {
+        "name": "Disfruto Lo Malo",
+        "url": "https://open.spotify.com/album/7AerYPDmhyiPp4gDEiUl2O"
+      },
+      "artists": [
+        {
+          "name": "vaquero romantico",
+          "url": "https://open.spotify.com/artist/1tck9TByd10tIlAOI9ZF4V"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109960,
+      "name": "Disfruto Lo Malo",
+      "url": "https://open.spotify.com/track/4IZqgogLWxroWog6DrsLKW"
     },
     {
       "album": {
@@ -3413,6 +3511,28 @@
     },
     {
       "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/5OLKPyBppTi9URBhhXENRq"
+      },
+      "artists": [
+        {
+          "name": "Paul-Herv\u00e9 KONATE",
+          "url": "https://open.spotify.com/artist/069tBzVSWzAwbVcGqLM3RA"
+        },
+        {
+          "name": "Paul H.",
+          "url": "https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Financier",
+      "url": "https://open.spotify.com/track/4CEWirPdi3TiP1VBNfg32d"
+    },
+    {
+      "album": {
         "name": "A Love Story",
         "url": "https://open.spotify.com/album/6HGofEIWCqleYhDYF4bW60"
       },
@@ -3442,7 +3562,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 126231,
       "name": "first dream",
       "url": "https://open.spotify.com/track/6mUNhXpUrl2HBqtZy4l70s"
@@ -3602,7 +3722,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 144000,
       "name": "flying bird",
       "url": "https://open.spotify.com/track/22hlQqgyBXSsdj5glMhFMf"
@@ -4156,7 +4276,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 168522,
       "name": "golden sunset",
       "url": "https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6"
@@ -4536,7 +4656,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 88934,
       "name": "Heavenly Peace",
       "url": "https://open.spotify.com/track/6Pyl2jjDC1sUqQoqabdZFv"
@@ -4714,7 +4834,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 128559,
       "name": "hopes and dreams",
       "url": "https://open.spotify.com/track/4hXWldGSiSSOruDiLC2lBN"
@@ -5544,7 +5664,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 128000,
       "name": "journeys",
       "url": "https://open.spotify.com/track/2L2h70wu17gYivj6aK4tkU"
@@ -5815,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Let's Count the Stars",
+        "url": "https://open.spotify.com/album/0wQpfptQeu1hSHCrqLUfEm"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151616,
+      "name": "Let's Count the Stars",
+      "url": "https://open.spotify.com/track/1YEpFCaZXpruVfpTvMOfu7"
+    },
+    {
+      "album": {
         "name": "Letter to the Sky",
         "url": "https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn"
       },
@@ -5962,7 +6100,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 152054,
       "name": "Long Kiss Goodnight",
       "url": "https://open.spotify.com/track/2F6jA8WX5BlI6I7fQCBOdl"
@@ -7193,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "nostalgic moments",
+        "url": "https://open.spotify.com/album/5MV5gpnKxvZJH6fyUywrdF"
+      },
+      "artists": [
+        {
+          "name": "Dingus",
+          "url": "https://open.spotify.com/artist/4SkQtp8HtospH6P4BqDSG3"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155725,
+      "name": "nostalgic moments",
+      "url": "https://open.spotify.com/track/18n5j6pHMQ9XqykT2zDdBj"
+    },
+    {
+      "album": {
         "name": "Charles Szczepanek - The Solo Piano Project, Vol 1: Transcriptions and Arrangements of Delibes, Dvo\u0159\u00e1k, Elgar, Massenet, and Puccini",
         "url": "https://open.spotify.com/album/0LW6t4j5psA9fk8lNXZD6j"
       },
@@ -7310,6 +7466,28 @@
       "duration_ms": 104195,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/65uNh1wIKZHla5FAHjhKDI"
+    },
+    {
+      "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/5OLKPyBppTi9URBhhXENRq"
+      },
+      "artists": [
+        {
+          "name": "Paul-Herv\u00e9 KONATE",
+          "url": "https://open.spotify.com/artist/069tBzVSWzAwbVcGqLM3RA"
+        },
+        {
+          "name": "Paul H.",
+          "url": "https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "On a cloud",
+      "url": "https://open.spotify.com/track/53IDkAzIOwH1z9mQtfhUpq"
     },
     {
       "album": {
@@ -7931,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Pinewood",
+        "url": "https://open.spotify.com/album/434IlBfJXbufAFWMoodCxL"
+      },
+      "artists": [
+        {
+          "name": "Noah Crisostomo",
+          "url": "https://open.spotify.com/artist/3S4zNbot33nn46Rpi4cEnu"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Pinewood",
+      "url": "https://open.spotify.com/track/2CZLmqQlbf8roxIP7nPN0W"
+    },
+    {
+      "album": {
         "name": "Pink Lightning",
         "url": "https://open.spotify.com/album/4gLfnUHU8nujvU7h6pvxfl"
       },
@@ -7958,6 +8154,24 @@
       "duration_ms": 105365,
       "name": "Pink Lightning",
       "url": "https://open.spotify.com/track/3uzRLP6BmoemR6P4j4WUrA"
+    },
+    {
+      "album": {
+        "name": "Place to Hide",
+        "url": "https://open.spotify.com/album/7yBq6HN0y3coHXsZTSaMEZ"
+      },
+      "artists": [
+        {
+          "name": "Fairyfair",
+          "url": "https://open.spotify.com/artist/4LQHwRId6D7vhiNHc5Qkv5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Place to Hide",
+      "url": "https://open.spotify.com/track/5rSEN68P9sAGmWrRSzxuWx"
     },
     {
       "album": {
@@ -8232,7 +8446,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 145579,
       "name": "Raining Hope",
       "url": "https://open.spotify.com/track/44Q56uVlBP4YVuvEGq2ZcP"
@@ -9056,6 +9270,24 @@
       "duration_ms": 98685,
       "name": "slumber",
       "url": "https://open.spotify.com/track/38t5OyEA3IDqlpC478fz0O"
+    },
+    {
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/2UMsT0cMQtO8nKfO9dxsfS"
+      },
+      "artists": [
+        {
+          "name": "Mariposa",
+          "url": "https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231176,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/4o9LT0INAzuInnodCZCDUl"
     },
     {
       "album": {
@@ -10005,6 +10237,24 @@
     },
     {
       "album": {
+        "name": "Thaumastaria",
+        "url": "https://open.spotify.com/album/4r2RAOkdt57VHIlVwzNYgW"
+      },
+      "artists": [
+        {
+          "name": "Valentin Scholl",
+          "url": "https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104615,
+      "name": "Thaumastaria",
+      "url": "https://open.spotify.com/track/2rIstGzblPZKAoWJKr6tan"
+    },
+    {
+      "album": {
         "name": "The Attic",
         "url": "https://open.spotify.com/album/6Un8iFf3GjdARGkJAC0qvw"
       },
@@ -10516,6 +10766,24 @@
       "duration_ms": 101546,
       "name": "This Little Fairytale",
       "url": "https://open.spotify.com/track/09CYiwVBdIlt6KQVtU5QYh"
+    },
+    {
+      "album": {
+        "name": "thoughts",
+        "url": "https://open.spotify.com/album/1AraYyc3P8JLhJIrTiKKfO"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109959,
+      "name": "thoughts",
+      "url": "https://open.spotify.com/track/1GkeRFP2QageV8fv5ibfMe"
     },
     {
       "album": {
@@ -11598,7 +11866,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 111500,
       "name": "Where It All Began",
       "url": "https://open.spotify.com/track/0zTAsyfrkBW1tzu61LvEi4"
@@ -11814,7 +12082,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 87540,
       "name": "Winter Sonata",
       "url": "https://open.spotify.com/track/2lGQpSDu8iIBlMKVfOVSrF"
@@ -11832,7 +12100,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 98299,
       "name": "winter walks",
       "url": "https://open.spotify.com/track/0tSRr77BrlU4idENmQprQS"
@@ -11926,6 +12194,24 @@
       "duration_ms": 96855,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3dIT4VOCMIx7Y8ppsn6qXv"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1i6lVRouZbMtqXaAtsQKcg"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117162,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6hCSOQHRjKO1vOzoXMzJnl"
     },
     {
       "album": {

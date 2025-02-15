@@ -2261,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/00KzPdJ8vrDYcMD7DIgycp"
+      },
+      "artists": [
+        {
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
+        },
+        {
+          "name": "A-Tribe",
+          "url": "https://open.spotify.com/artist/2dBAgMvstPSngRSYoDkka8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/2SfCLTlQBTy5dfODhjcqSf"
+    },
+    {
+      "album": {
         "name": "Feeling That I Used To Know",
         "url": "https://open.spotify.com/album/23lOJ6wphV2lRu5vovyRUo"
       },
@@ -5682,6 +5704,24 @@
       "duration_ms": 192766,
       "name": "Run My Mouth",
       "url": "https://open.spotify.com/track/3VinqH790sVhPHyQURhIhE"
+    },
+    {
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "album": {

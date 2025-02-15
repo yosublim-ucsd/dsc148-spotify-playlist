@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Velours Velours
+> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
 560 songs - 1 day 8 hr 11 min
 

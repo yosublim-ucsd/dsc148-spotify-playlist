@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Dom Dolla
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 98,325 likes - 179 songs - 8 hr 57 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 98,320 likes - 179 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

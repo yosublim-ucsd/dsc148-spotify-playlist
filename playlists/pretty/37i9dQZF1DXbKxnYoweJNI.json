@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u5728\u5730\u65b0\u8072\u6216\u5531\u4f5c\u80fd\u624b\uff0c\u7368\u7acb\u5c31\u662f\u97f3\u6a02\u81ea\u4e3b\uff0c\u98a8\u683c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover: HUSH",
-  "num_followers": 61394,
+  "num_followers": 61396,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -492,8 +492,8 @@
       },
       "artists": [
         {
-          "name": "LH",
-          "url": "https://open.spotify.com/artist/7cUAKY3fveo6FfA40cT8y5"
+          "name": "\u6797\u79be",
+          "url": "https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu"
         }
       ],
       "duration_ms": 217752,
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/3v7Zc3x3a8syQyfGY06Wfs"
     },
     {
+      "added_at": "2025-02-13 16:00:19",
+      "album": {
+        "name": "Say Oh!",
+        "url": "https://open.spotify.com/album/3oYLSRCoTOtwyAo3j1THyn"
+      },
+      "artists": [
+        {
+          "name": "Shane \u5146\u7fa4",
+          "url": "https://open.spotify.com/artist/0XoRmtNKgRPNIyreA9CXB3"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Say Oh!",
+      "url": "https://open.spotify.com/track/7g1giDjX4vlRoJgsUHi4W2"
+    },
+    {
       "added_at": "2025-02-13 23:51:17",
       "album": {
         "name": "\u9047\u898b\u4f60",
@@ -611,22 +627,6 @@
       "duration_ms": 232615,
       "name": "\u9047\u898b\u4f60",
       "url": "https://open.spotify.com/track/2zE1kwXrHnpg2Qnui6kpXN"
-    },
-    {
-      "added_at": "2025-02-13 16:00:19",
-      "album": {
-        "name": "Pink Cube",
-        "url": "https://open.spotify.com/album/7ahBFAR0Le6WSX7aHNXSck"
-      },
-      "artists": [
-        {
-          "name": "PINKCUBE",
-          "url": "https://open.spotify.com/artist/1PWxGtYxVuh2YSeswAA3Ad"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pink Cube",
-      "url": "https://open.spotify.com/track/7q9n44E67xLsHlfRTDqpZD"
     },
     {
       "added_at": "2025-02-13 16:00:19",
@@ -1461,7 +1461,7 @@
         }
       ],
       "duration_ms": 215581,
-      "name": "\u6211\u7684\u5973\u5b69",
+      "name": "\u6211\u7684\u5973\u5b69My Girl",
       "url": "https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN"
     },
     {

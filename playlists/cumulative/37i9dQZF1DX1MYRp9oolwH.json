@@ -1577,6 +1577,32 @@
     },
     {
       "album": {
+        "name": "Hey Madhumathi [From \"Lyf (Love Your Father)\"]",
+        "url": "https://open.spotify.com/album/56by9KylbCbSVrGXiC7fl3"
+      },
+      "artists": [
+        {
+          "name": "Rohith",
+          "url": "https://open.spotify.com/artist/2Pzv1D6O6B5tWIWkae3G6V"
+        },
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246186,
+      "name": "Hey Madhumathi [From \"Lyf (Love Your Father)\"]",
+      "url": "https://open.spotify.com/track/5HuRkpzykmol2VgeiNjosZ"
+    },
+    {
+      "album": {
         "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
         "url": "https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g"
       },
@@ -1812,7 +1838,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211295,
       "name": "Inka Inka (From \"Naa Saami Ranga\")",
       "url": "https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC"
@@ -2838,7 +2864,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234000,
       "name": "Manasu Galilona",
       "url": "https://open.spotify.com/track/0r4KMkUHhTQRPly1pIu0xJ"
@@ -4962,7 +4988,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 292477,
       "name": "Prema (From \"Joruga Hushaaruga Shikaaru Podhama\")",
       "url": "https://open.spotify.com/track/35gnkIq6ZHIviZCimfaWBN"
@@ -5022,6 +5048,36 @@
       "duration_ms": 173000,
       "name": "Prema Prema (From \"Laggam Time\")",
       "url": "https://open.spotify.com/track/0CkzTvfRDHGcgRVlKdkHOz"
+    },
+    {
+      "album": {
+        "name": "Premalo (From \"Court\")",
+        "url": "https://open.spotify.com/album/6YLvtxc4R24hRMgPJ0kYhv"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331489,
+      "name": "Premalo (From \"Court\")",
+      "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
     },
     {
       "album": {
@@ -5920,6 +5976,32 @@
       "duration_ms": 280408,
       "name": "What's Happening (From \"Dhamaka\")",
       "url": "https://open.spotify.com/track/4mKZayqLgsawAfmWnJhDSC"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (From \"Robinhood\")",
+        "url": "https://open.spotify.com/album/6hAU7FQffjXg50RW53fERq"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Wherever You Go (From \"Robinhood\")",
+      "url": "https://open.spotify.com/track/7mW0piZKSZlFwGun1G5zKf"
     },
     {
       "album": {

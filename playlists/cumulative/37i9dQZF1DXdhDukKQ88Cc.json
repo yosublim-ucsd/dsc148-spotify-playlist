@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Bange For At Elske",
+        "url": "https://open.spotify.com/album/5zkZTMBB7HeGJzUstN34tf"
+      },
+      "artists": [
+        {
+          "name": "Joey Moe",
+          "url": "https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc"
+        },
+        {
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171928,
+      "name": "Bange For At Elske",
+      "url": "https://open.spotify.com/track/1ezodvBUxbsU95tLPVDIjz"
+    },
+    {
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h"
       },
@@ -882,6 +904,28 @@
       "duration_ms": 229319,
       "name": "Brutalt",
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
+    },
+    {
+      "album": {
+        "name": "BUNDEN (feat. Dinero)",
+        "url": "https://open.spotify.com/album/2844REIZ7JZWLqTON08f3h"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+        },
+        {
+          "name": "Dinero",
+          "url": "https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "BUNDEN (feat. Dinero)",
+      "url": "https://open.spotify.com/track/6ChccEufjg8ILLzKBu3P0K"
     },
     {
       "album": {

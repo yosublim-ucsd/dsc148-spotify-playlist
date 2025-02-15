@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "11 Beers",
+        "url": "https://open.spotify.com/album/7FhxKKjq2Hf4XOgMDnB13h"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209801,
+      "name": "11 Beers",
+      "url": "https://open.spotify.com/track/4dQWoCPwicxQ81rBJLfmgi"
+    },
+    {
+      "album": {
         "name": "11 Beers (feat. Jake Owen)",
         "url": "https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172381,
       "name": "ALL I EVER DO",
       "url": "https://open.spotify.com/track/4VPmNvFDBUoncOB3u6Ioc8"
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162314,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/5MNWwr0hdH7kwGXgoivNxF"
@@ -7100,7 +7118,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180280,
       "name": "Catching Up",
       "url": "https://open.spotify.com/track/40e1P6k9YXbkmcS7U076HG"
@@ -7440,6 +7458,24 @@
       "duration_ms": 205767,
       "name": "Chevy Nova",
       "url": "https://open.spotify.com/track/7zXV9zgIIYZ6doQmjsi2Xh"
+    },
+    {
+      "album": {
+        "name": "Chickasaw Church of Christ",
+        "url": "https://open.spotify.com/album/6JB4kVDp2rXdNpgHHjuWoP"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Chickasaw Church of Christ",
+      "url": "https://open.spotify.com/track/4Yb22ONlOu9jltcZay8mqo"
     },
     {
       "album": {
@@ -9538,7 +9574,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 158800,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/0JIot0cZgFmg9XZarQHBIe"
@@ -10271,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Die For It",
+        "url": "https://open.spotify.com/album/1dPtLoRAkrK35KAq2pSVDJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204286,
+      "name": "Die For It",
+      "url": "https://open.spotify.com/track/6tLPFFm4SBuzaGkWTEx8LS"
+    },
+    {
+      "album": {
         "name": "Different Kind of Blue",
         "url": "https://open.spotify.com/album/4iC3AGxB0FRl8X7oSlVL4A"
       },
@@ -10726,6 +10780,24 @@
       "duration_ms": 210773,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/5fK4yeXjOxivOpj6uspq2Y"
+    },
+    {
+      "album": {
+        "name": "Don't Come With A Label",
+        "url": "https://open.spotify.com/album/0CKvMSXDyPHQ0xlj39F06G"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178948,
+      "name": "Don't Come With A Label",
+      "url": "https://open.spotify.com/track/3z0KMFNb2nH4R2dghDKFxg"
     },
     {
       "album": {
@@ -11616,7 +11688,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 214311,
       "name": "Dream House",
       "url": "https://open.spotify.com/track/5adjPfQ6V56YKfOYbP3XXp"
@@ -11678,6 +11750,24 @@
       "duration_ms": 218568,
       "name": "Dreamin's Free",
       "url": "https://open.spotify.com/track/6sg8Y3ZwBdVWF03V7jzHgS"
+    },
+    {
+      "album": {
+        "name": "Dressed Down",
+        "url": "https://open.spotify.com/album/4LA74VwF6cJIPhJj4G410l"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Dressed Down",
+      "url": "https://open.spotify.com/track/4p8bd4AU5lykxLs1RbifYp"
     },
     {
       "album": {
@@ -13056,6 +13146,24 @@
       "duration_ms": 205100,
       "name": "fake tan",
       "url": "https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ"
+    },
+    {
+      "album": {
+        "name": "Good Years",
+        "url": "https://open.spotify.com/album/2tIe7YuSiseeVL6tkCh6jM"
+      },
+      "artists": [
+        {
+          "name": "Neon Union",
+          "url": "https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183663,
+      "name": "Fall For Me",
+      "url": "https://open.spotify.com/track/2EeeIqLqdhqTbiHcFtnTZ9"
     },
     {
       "album": {
@@ -15445,6 +15553,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5UHZeL4HaMh7QT5O8R1KT1"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5j0O9f4f8bgWKquozUcxOf"
+    },
+    {
+      "album": {
         "name": "Golden Days",
         "url": "https://open.spotify.com/album/07Ws9ISZnyytvW71MqCNqP"
       },
@@ -17117,6 +17243,24 @@
     },
     {
       "album": {
+        "name": "Hard Work And Holy Water",
+        "url": "https://open.spotify.com/album/5jQ4s6rJ1MgtLSQBZjuOWl"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Hard Work And Holy Water",
+      "url": "https://open.spotify.com/track/7zOWK5c8vtPLoBAD7nOI7f"
+    },
+    {
+      "album": {
         "name": "Fantasy Island",
         "url": "https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc"
       },
@@ -18310,7 +18454,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 197700,
       "name": "Helluva High",
       "url": "https://open.spotify.com/track/2yhQFaKveBg5Paxw6dpDtQ"
@@ -21386,7 +21530,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206504,
       "name": "I Hope You Have a Daughter",
       "url": "https://open.spotify.com/track/6qIm5SK5Ug1t1tMaAkBHBs"
@@ -22010,6 +22154,24 @@
       "duration_ms": 200438,
       "name": "I'd Call Grandpa",
       "url": "https://open.spotify.com/track/2MmfmRYxzs32u7ItAv1bf6"
+    },
+    {
+      "album": {
+        "name": "I'll Die Trying",
+        "url": "https://open.spotify.com/album/1AecBbKM7z0hC3nA4MBARi"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203363,
+      "name": "I'll Die Trying",
+      "url": "https://open.spotify.com/track/6awcBgFISI0hpy8j0VLY1l"
     },
     {
       "album": {
@@ -22658,7 +22820,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 135845,
       "name": "If You Know Her, You Know",
       "url": "https://open.spotify.com/track/5R63BEZcevZt30Rao24umd"
@@ -23062,7 +23224,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 156402,
       "name": "Isn't She Country",
       "url": "https://open.spotify.com/track/0OFSypfTahHzaCeMTAhLLX"
@@ -26537,6 +26699,24 @@
     },
     {
       "album": {
+        "name": "Looks Like",
+        "url": "https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Looks Like",
+      "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
+    },
+    {
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/1GeZ0iCMv3xLGj8IBHVT0B"
       },
@@ -26948,6 +27128,24 @@
       "duration_ms": 154533,
       "name": "Love Like We're Drunk",
       "url": "https://open.spotify.com/track/6oxftprduyrsoueRYStp2e"
+    },
+    {
+      "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
     },
     {
       "album": {
@@ -30567,6 +30765,24 @@
     },
     {
       "album": {
+        "name": "Love You to the Moon",
+        "url": "https://open.spotify.com/album/0pOD3k6KN5I6cY6ndnpISJ"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210219,
+      "name": "Never Gonna Get Married",
+      "url": "https://open.spotify.com/track/03PLI3rQ3D5LSVJunlIsG3"
+    },
+    {
+      "album": {
         "name": "Never Have I Ever",
         "url": "https://open.spotify.com/album/5r5RO7LnMB8Dn32qN2xKNG"
       },
@@ -34044,7 +34260,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 127617,
       "name": "Pour Me Another",
       "url": "https://open.spotify.com/track/06qBPutNsqvaPx3ysCk3IC"
@@ -35861,6 +36077,24 @@
     },
     {
       "album": {
+        "name": "River Run",
+        "url": "https://open.spotify.com/album/20qMTQOaIHGm9hM0fwkYHY"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213835,
+      "name": "River Run",
+      "url": "https://open.spotify.com/track/4uq2Si5KwSnWXOq1UMjVkF"
+    },
+    {
+      "album": {
         "name": "Road Dirt",
         "url": "https://open.spotify.com/album/1YdaHCcR9nlsZPuahst61d"
       },
@@ -36594,7 +36828,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 193986,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6z4OVkSckMiAwDWnPtB4DJ"
@@ -36956,6 +37190,24 @@
       "duration_ms": 183906,
       "name": "see you around (feat. Nate Smith)",
       "url": "https://open.spotify.com/track/0ULk55MXcfFwLkCdXTeYCO"
+    },
+    {
+      "album": {
+        "name": "See You At (The Crossroads)",
+        "url": "https://open.spotify.com/album/2NKrvxrlnm7VJOS5IsiWP2"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154980,
+      "name": "See You At (The Crossroads)",
+      "url": "https://open.spotify.com/track/2sB0EEBR8VW4DXSJUx58zf"
     },
     {
       "album": {
@@ -37540,6 +37792,24 @@
       "duration_ms": 204873,
       "name": "She Was Mine",
       "url": "https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo"
+    },
+    {
+      "album": {
+        "name": "She Wasn't Crazy",
+        "url": "https://open.spotify.com/album/0Lg2PK9yJNuNTXnBpy9kFu"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197318,
+      "name": "She Wasn't Crazy",
+      "url": "https://open.spotify.com/track/2zX8IIUq2PUwCZQP9iT7b9"
     },
     {
       "album": {
@@ -38394,6 +38664,24 @@
       "duration_ms": 184200,
       "name": "Slow Down Sunrise",
       "url": "https://open.spotify.com/track/1rLVgXU6V6BnTu1PtjmNlc"
+    },
+    {
+      "album": {
+        "name": "Slow Go the Days",
+        "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201415,
+      "name": "Slow Go the Days",
+      "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
     },
     {
       "album": {
@@ -41120,7 +41408,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234844,
       "name": "Sweet Tumbleweed",
       "url": "https://open.spotify.com/track/5NbZEFLaGihn5XtAmZ7dFj"
@@ -41646,7 +41934,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 201000,
       "name": "Tastes Like You",
       "url": "https://open.spotify.com/track/0oM0nQuIparJD3gqPtstXW"
@@ -41938,6 +42226,24 @@
       "duration_ms": 180690,
       "name": "Tellin' On You",
       "url": "https://open.spotify.com/track/1J0APEDa6gfjPnGmFqwZzK"
+    },
+    {
+      "album": {
+        "name": "Tempted To Fall",
+        "url": "https://open.spotify.com/album/0C3dJkIzbJ1M8ALRAzr9Cj"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132676,
+      "name": "Tempted To Fall",
+      "url": "https://open.spotify.com/track/24pPUMvP5TsJrbJh0zsVei"
     },
     {
       "album": {
@@ -43987,6 +44293,24 @@
     },
     {
       "album": {
+        "name": "This Little Love of Mine",
+        "url": "https://open.spotify.com/album/6F5IGKcRUZaQezX9Ana5Es"
+      },
+      "artists": [
+        {
+          "name": "Kayley Green",
+          "url": "https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181761,
+      "name": "This Little Love of Mine",
+      "url": "https://open.spotify.com/track/1IFpCYKyzpVtsS4l8Vd5Kb"
+    },
+    {
+      "album": {
         "name": "This Miller Lite of Mine",
         "url": "https://open.spotify.com/album/7rqFGm1kLkfGSt1dcO6EKF"
       },
@@ -44164,6 +44488,24 @@
       "duration_ms": 224031,
       "name": "This Town Is A Ghost",
       "url": "https://open.spotify.com/track/1IXVqGFTcrAAriHrGrNxMq"
+    },
+    {
+      "album": {
+        "name": "This Town's Yours",
+        "url": "https://open.spotify.com/album/3hHCNM74CGUhSbNvFP7TM4"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176449,
+      "name": "This Town's Yours",
+      "url": "https://open.spotify.com/track/2K8xuEoIDKQstjVUYl4Gyy"
     },
     {
       "album": {
@@ -44936,7 +45278,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 239873,
       "name": "Tough People",
       "url": "https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"
@@ -47740,6 +48082,24 @@
       "duration_ms": 202435,
       "name": "When I'm Drinkin'",
       "url": "https://open.spotify.com/track/0Pealr9QhZIQUSykNBAGdM"
+    },
+    {
+      "album": {
+        "name": "When I'm Older",
+        "url": "https://open.spotify.com/album/0YpGTTE9MIyHa9qE79k1bG"
+      },
+      "artists": [
+        {
+          "name": "LOCASH",
+          "url": "https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "When I'm Older",
+      "url": "https://open.spotify.com/track/5IGatlNq7pdFL4J5gYTVbX"
     },
     {
       "album": {
@@ -50790,6 +51150,24 @@
       "duration_ms": 192332,
       "name": "You Tomorrow",
       "url": "https://open.spotify.com/track/3dD9t67DdE4rK9GLFEgFkR"
+    },
+    {
+      "album": {
+        "name": "YOU TURN",
+        "url": "https://open.spotify.com/album/6MoQazFHtQP7BNod5GT7oq"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "YOU TURN",
+      "url": "https://open.spotify.com/track/2nIX3efXDJxpJLd5aHxfyP"
     },
     {
       "album": {

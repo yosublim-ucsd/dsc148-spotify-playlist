@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: B Wise
 
-1,072 songs - 2 day 1 hr 46 min
+1,073 songs - 2 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Djabuganydji Bama \- NERVE REMIX](https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [KDA Crew](https://open.spotify.com/artist/5W70OHqfaGNzpLkCCSShFY), [Desert Pea Media](https://open.spotify.com/artist/4o0vFBJUhSlBthmrwnHMLN) | [Djabuganydji Bama \(NERVE REMIX\)](https://open.spotify.com/album/66BHY62FENAPwNe38pfFBh) | 3:28 | 2023-01-05 | 2023-03-10 |
 | [Do it up](https://open.spotify.com/track/4py6nUdXXfh4yLUKOE4Kq9) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR) | [Do it up](https://open.spotify.com/album/4x0sb9xWRqniuqGA07xz7j) | 3:30 | 2024-02-15 | 2024-04-26 |
 | [Do Sum'n](https://open.spotify.com/track/4TBlHSM8c4eu8sCqVEnQrC) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [Do Sum'n](https://open.spotify.com/album/1OEYOF7Snu4j7lXxmShqLe) | 3:19 | 2023-06-16 | 2024-03-29 |
+| [Do you wanna roll](https://open.spotify.com/track/1xxeXruNZYXilAVwsRGqUS) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot), [Game East](https://open.spotify.com/artist/22abwrEzleRTPQ4WtSoYZv) | [Do you wanna roll](https://open.spotify.com/album/0Zl6Q4sjFE7yOBMZfZaX5h) | 2:45 | 2025-02-13 |  |
 | [Dog The Boys](https://open.spotify.com/track/65hs75Cjy693S0RW7uoAjw) | [Complete](https://open.spotify.com/artist/7Fe4vD5WyjtFxlxSO0d7lP) | [Dog The Boys](https://open.spotify.com/album/2neMSiomqBl2f5IXmLMvcO) | 3:03 | 2024-07-12 | 2024-11-08 |
 | [DOIN' TOO MUCH \(Freestyle\)](https://open.spotify.com/track/2zCTJlAIXiDiB01a8PcBKa) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [DOIN' TOO MUCH \(Freestyle\)](https://open.spotify.com/album/50kEkiD0YoK6VquXWX5LZX) | 1:31 | 2023-05-11 | 2023-10-06 |
 | [Dolla Signs](https://open.spotify.com/track/6mmUkEH23bmN3ZXDoj3EID) | [Adz TCO](https://open.spotify.com/artist/6Gq62cxerFxN4hyK6oaP1e), [2Waveyy](https://open.spotify.com/artist/3M4C16RABaazBvQC5BTsJD) | [D.R.E.A.M](https://open.spotify.com/album/6WY3nOvhkoIAzdf46A7Efn) | 2:54 | 2023-11-16 | 2024-01-12 |

@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: deBasement
 
-327 songs - 21 hr 2 min
+328 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bodies](https://open.spotify.com/track/7mK6uyVj6zhU4nPgY1VjN0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [Bodies](https://open.spotify.com/album/6ZyK0TDgMxRoBQ1jJwa4d6) | 3:49 | 2022-05-31 | 2023-04-01 |
 | [Body Organic Disco Electronic](https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Body Organic Disco Electronic](https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI) | 3:12 | 2024-12-06 |  |
 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 | 2021-10-15 | 2022-06-04 |
-| [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Elouiza](https://open.spotify.com/artist/3gP9ZZWiL9bdSBZLtNqbTv) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 | 2024-06-07 |  |
+| [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Elouiza](https://open.spotify.com/artist/3gP9ZZWiL9bdSBZLtNqbTv) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 | 2024-06-07 | 2025-02-15 |
 | [Brave](https://open.spotify.com/track/6pVWyzDnj5gazL2QpZN9Qv) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 3:04 | 2021-10-15 | 2022-07-15 |
 | [Bubble Drip](https://open.spotify.com/track/6R0LdwxSJIYJQzJEfckUjY) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Kassandra Ebony](https://open.spotify.com/artist/4kQduOE8yd4ugCFanu3dUX), [Warren B.](https://open.spotify.com/artist/01dZpQXrsBQyTI3TC3tYAO), [Princess Precious](https://open.spotify.com/artist/3NntTHZ9Cryd8A3KNFH6JI) | [Legendary Children x Bubble Drip](https://open.spotify.com/album/7yPnGYOeY0AmJ7uuA0aaXy) | 3:42 | 2023-06-20 | 2023-06-24 |
 | [Burning Kisses](https://open.spotify.com/track/7c6bsKynjlNVGdYKmN14IM) | [Gregory Dillon](https://open.spotify.com/artist/2Tn88QCFtNhPRnqzwYtrP1) | [Heaven Hates Me](https://open.spotify.com/album/3uATmakAT4EJn3dev5eE1U) | 3:20 | 2024-11-22 |  |
@@ -280,6 +280,7 @@
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2023-03-31 | 2024-06-15 |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/215Kmpctpq6WJ3gEtCbXAu) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:52 | 2023-06-20 | 2023-06-24 |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2021-10-15 | 2023-06-24 |
+| [SIGILOSA](https://open.spotify.com/track/3kLC4iR5WQ1rpZ3rk0B0DS) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIGILOSA](https://open.spotify.com/album/6zXJFPl0JGbSgK5jozmIQy) | 2:28 | 2025-02-14 |  |
 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-31 | 2024-06-08 |
 | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\] \- Edit](https://open.spotify.com/track/5NBGwZLsZAo5J3a9sn0Dy5) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\]](https://open.spotify.com/album/7aRpaVGxIkR0n82VUdtoFa) | 3:03 | 2024-08-16 | 2024-10-19 |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2022-06-03 | 2022-07-15 |

@@ -4941,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "Good Night Sweet Lauren",
+        "url": "https://open.spotify.com/album/42gJTGCaFTGtlRBw0fMEBM"
+      },
+      "artists": [
+        {
+          "name": "William Flake",
+          "url": "https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127903,
+      "name": "Good Night Sweet Lauren",
+      "url": "https://open.spotify.com/track/0HEdu9UU0vb1WGrHOGYCGP"
+    },
+    {
+      "album": {
         "name": "Goodnight Already",
         "url": "https://open.spotify.com/album/0frkQxmXColuJe1YUvmgx1"
       },
@@ -11256,7 +11274,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 133500,
       "name": "Rainbow Bridge",
       "url": "https://open.spotify.com/track/1aNcIynXOBK6VXiG02L8Ix"
@@ -11310,7 +11328,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 112723,
       "name": "Raining Tacos",
       "url": "https://open.spotify.com/track/4F7LwBolP2KB77EsEnzAD3"
@@ -11584,7 +11602,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 131912,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/4J7qwbj6ZT7CGgRdoaEt07"
@@ -15764,6 +15782,24 @@
       "duration_ms": 124000,
       "name": "Uncle Simons\u00b4 Farm",
       "url": "https://open.spotify.com/track/2787peY04QFgxwgQgfG9PI"
+    },
+    {
+      "album": {
+        "name": "Under Glowing Stars",
+        "url": "https://open.spotify.com/album/5HdLT8usdVFqEfhlkQIhsv"
+      },
+      "artists": [
+        {
+          "name": "Livia Rivers",
+          "url": "https://open.spotify.com/artist/0pUwiN8eD9aQ0jhJSt09uy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123913,
+      "name": "Under Glowing Stars",
+      "url": "https://open.spotify.com/track/7A5JOHEykLaO9HLJnSssV4"
     },
     {
       "album": {

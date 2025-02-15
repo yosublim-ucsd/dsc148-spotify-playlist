@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11595,
+  "num_followers": 11607,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6qTAAAAAAC3ACx/NYYjeTIjKn8sHGwG",
+  "snapshot_id": "Z6vkgAAAAAAKZmxT2ZHNw5yaWJzCVk4z",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "EU GOSTO DE GAROTAS",
+        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "CAMISA 10",
+      "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
       },
@@ -435,34 +463,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EU GOSTO DE GAROTAS",
-        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "CAMISA 10",
-      "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
+      },
+      "artists": [
+        {
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Freestyle",
         "url": "https://open.spotify.com/album/3Jh4xQPfR5azQKd536afSV"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 163403,
       "name": "Fresh Freestyle",
       "url": "https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
-      },
-      "artists": [
-        {
-          "name": "Adrian Jean",
-          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 231367,
-      "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
     },
     {
       "added_at": null,
@@ -1179,26 +1179,6 @@
       "duration_ms": 277500,
       "name": "STRIP",
       "url": "https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Censored",
-        "url": "https://open.spotify.com/album/20d3VlfbgjWHIsNMqADNbO"
-      },
-      "artists": [
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/7z5vwJBduF4LhL0RSKpofj"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/7Af9e3Z5yAzY2Jk3dKmFov"
     }
   ],
   "unique_name": "This Is Ebony",

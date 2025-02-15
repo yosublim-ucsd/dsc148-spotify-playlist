@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-142 songs - 8 hr 9 min
+143 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Forever](https://open.spotify.com/track/3HbODbLPYqeHcRXApoWJDy) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:50 | 2021-07-26 |  |
 | [Garden In The Air](https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Our Beloved BoA \#1 \- SM STATION](https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc) | 3:17 | 2021-07-26 |  |
 | [Ghost](https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:24 | 2021-07-26 |  |
+| [Git It Up!](https://open.spotify.com/track/5a6zHGZ1zCdh4v5pMAldr8) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 2:59 | 2025-02-14 |  |
 | [Go away go away](https://open.spotify.com/track/0qQ0R0SwHzLODkswy3fedU) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/1NjDOIVKh62Cv9U1XgZIeT) | 3:49 | 2021-07-26 | 2024-04-19 |
 | [Go away go away](https://open.spotify.com/track/6m6PTfVXdPZT6scb1TaONP) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Dr\. Romantic 2 OST Part.3](https://open.spotify.com/album/3Hogb2UeRoLqF8B7KLTZN0) | 3:49 | 2021-07-26 |  |
 | [Going Crazy](https://open.spotify.com/track/64EJgeHPkqJThnr7RDppo3) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:46 | 2021-07-26 |  |

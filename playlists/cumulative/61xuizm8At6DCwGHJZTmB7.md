@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-558 songs - 2 day 6 hr 18 min
+559 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [The King](https://open.spotify.com/track/0YoqMFFzvvxzoxRtw7kv2r) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [The King](https://open.spotify.com/album/5PYZt9Tq52VBtmtellKGM5) | 5:55 | 2023-06-09 | 2023-12-14 |
 | [The King Is On The Way](https://open.spotify.com/track/530DokdFbJqxMVU1wHQyVs) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 4:22 | 2023-04-28 | 2023-12-14 |
 | [The King Of Glory \- Live](https://open.spotify.com/track/3dbZkKX27Twpe1zI6kn2oa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [The King Of Glory \(Live\)](https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3) | 5:21 | 2023-12-01 |  |
+| [The Lamb Slain \- Live](https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [The Lamb Slain \(Live\)](https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn) | 7:29 | 2025-02-14 |  |
 | [The Lion And The Lamb](https://open.spotify.com/track/2CEQ0ykwvuD2KC6gn2ijIX) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Songs Of Glory](https://open.spotify.com/album/4Ry1jLIuWo8s8UrJLlhLck) | 4:36 | 2022-02-17 | 2022-04-05 |
 | [The Lord Almighty Reigns](https://open.spotify.com/track/283smqTiVNtIDD1v0jXOFS) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [The Lord Almighty Reigns](https://open.spotify.com/album/5ScPt3LXhLuUFqYFXKtqas) | 3:48 | 2022-09-02 | 2022-09-25 |
 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 | 2023-02-01 | 2024-04-19 |

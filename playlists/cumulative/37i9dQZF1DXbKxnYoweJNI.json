@@ -6722,7 +6722,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192000,
       "name": "Pink Cube",
       "url": "https://open.spotify.com/track/7q9n44E67xLsHlfRTDqpZD"
@@ -7234,6 +7234,24 @@
       "duration_ms": 160306,
       "name": "Say It To My Face (feat. \u00d8ZI)",
       "url": "https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8"
+    },
+    {
+      "album": {
+        "name": "Say Oh!",
+        "url": "https://open.spotify.com/album/3oYLSRCoTOtwyAo3j1THyn"
+      },
+      "artists": [
+        {
+          "name": "Shane \u5146\u7fa4",
+          "url": "https://open.spotify.com/artist/0XoRmtNKgRPNIyreA9CXB3"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Say Oh!",
+      "url": "https://open.spotify.com/track/7g1giDjX4vlRoJgsUHi4W2"
     },
     {
       "album": {
@@ -19712,7 +19730,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215581,
-      "name": "\u6211\u7684\u5973\u5b69",
+      "name": "\u6211\u7684\u5973\u5b69My Girl",
       "url": "https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN"
     },
     {
@@ -25118,8 +25136,8 @@
       },
       "artists": [
         {
-          "name": "LH",
-          "url": "https://open.spotify.com/artist/7cUAKY3fveo6FfA40cT8y5"
+          "name": "\u6797\u79be",
+          "url": "https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu"
         }
       ],
       "date_added": "2025-02-13",

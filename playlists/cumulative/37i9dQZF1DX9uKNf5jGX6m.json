@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Abbraccio",
+        "url": "https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi"
+      },
+      "artists": [
+        {
+          "name": "Al\u00f3n Celestia",
+          "url": "https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Abbraccio",
+      "url": "https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek"
+    },
+    {
+      "album": {
         "name": "Abendrot",
         "url": "https://open.spotify.com/album/5xHti9Kvw0Nlsez7DiStkH"
       },
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 168000,
       "name": "Ephemara",
       "url": "https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8"
@@ -8383,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Mirach Dreams",
+        "url": "https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm"
+      },
+      "artists": [
+        {
+          "name": "Endless Space",
+          "url": "https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190972,
+      "name": "Mirach Dreams",
+      "url": "https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP"
+    },
+    {
+      "album": {
         "name": "Miracle Tone 528 Hz Solfeggio",
         "url": "https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k"
       },
@@ -8484,7 +8520,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 176687,
       "name": "Mood",
       "url": "https://open.spotify.com/track/26tB3QXSFx8VdhpDxum3UF"
@@ -9492,7 +9528,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192000,
       "name": "Oscalated",
       "url": "https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk"
@@ -12304,6 +12340,24 @@
       "duration_ms": 191624,
       "name": "Soft Clouds",
       "url": "https://open.spotify.com/track/2QpYvFvVXQ3NArChOZN1hg"
+    },
+    {
+      "album": {
+        "name": "Soft Embrace",
+        "url": "https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Alphane",
+          "url": "https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169052,
+      "name": "Soft Embrace",
+      "url": "https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx"
     },
     {
       "album": {

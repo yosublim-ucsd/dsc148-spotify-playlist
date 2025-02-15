@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,468 likes - 60 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,540 likes - 60 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 19 | [He Did It for Me \- Live](https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [He Did It for Me \(Live\)](https://open.spotify.com/album/75mPsKFQ2OBXqc5lRYk1t2) | 6:50 |
 | 20 | [More Than Anything \- Live](https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [More Than Anything \(Live\)](https://open.spotify.com/album/5A3YqQqBGOVWLhHSlpx0I7) | 5:44 |
 | 21 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \(Live\)](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 |
-| 22 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |
+| 22 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |
 | 23 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 |
 | 24 | [Let Go \(feat\. PJ Morton & DeWayne Woods\) \- Live Version](https://open.spotify.com/track/50wH2g17mKfEeVXakbhIyw) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Legacy: Live In New Orleans \(Deluxe\) \[Live Version\]](https://open.spotify.com/album/1IFcEdarRtR86W9iw2WmPh) | 4:32 |
 | 25 | [Revival Medley \- Live](https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [Revival Medley](https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt) | 7:33 |

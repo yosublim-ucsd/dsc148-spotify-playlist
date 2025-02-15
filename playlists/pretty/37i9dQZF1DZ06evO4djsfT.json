@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26254,
+  "num_followers": 26272,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6qTAAAAAAAbNdj3o4V1Ua8HPDfsyq6Z",
+  "snapshot_id": "Z6vkgAAAAADvJCsxuR5K78J/V2m0eTs2",
   "tracks": [
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Win",
-        "url": "https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "Another Win",
-      "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 207129,
       "name": "The Power +",
       "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Win",
+        "url": "https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "Another Win",
+      "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
     },
     {
       "added_at": null,

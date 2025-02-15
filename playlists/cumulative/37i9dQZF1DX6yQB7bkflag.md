@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sabrina Carpenter
 
-1,327 songs - 3 day 5 hr 6 min
+1,328 songs - 3 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Dua yang Satu](https://open.spotify.com/track/0ZDC7shS1u468eCz243SwV) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Rumah & Seisinya](https://open.spotify.com/album/30FDzhqc6I74auZ7X3ZuBQ) | 2:34 | 2024-04-18 | 2024-05-17 |
 | [Dunia Drives My Car](https://open.spotify.com/track/46bTc395qmtB1GazI0ui5B) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [BORDER ROOM](https://open.spotify.com/album/6dIwYCSul7keEQ6pd1q83Y) | 3:37 | 2024-01-25 | 2024-02-10 |
 | [Durasi](https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Durasi](https://open.spotify.com/album/0iGH07DqyKm8emcyCj6FZ4) | 5:33 | 2024-08-30 | 2024-10-11 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-23 | 2024-03-22 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-10-18 |
 | [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 | 2024-09-05 | 2024-10-04 |

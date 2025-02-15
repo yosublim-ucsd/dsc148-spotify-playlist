@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,875 likes - 75 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,985 likes - 75 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 67 | [Live Again](https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live Again](https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh) | 5:08 |
 | 68 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/14afN25jVBf6gWuhmrpsej) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [To the One](https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt) | 5:59 |
 | 69 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 |
-| 70 | [What You Said \- Live](https://open.spotify.com/track/5ZtnHKAsaog7mGTsaKDAEt) | [Jon Egan](https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey) | [Unveil \(Live\)](https://open.spotify.com/album/15YnOtSDhaYHqVfr27bjhM) | 6:48 |
+| 70 | [What You Said \- Live](https://open.spotify.com/track/5ZtnHKAsaog7mGTsaKDAEt) | [Jon Egan](https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey) | [Unveil](https://open.spotify.com/album/15YnOtSDhaYHqVfr27bjhM) | 6:48 |
 | 71 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
 | 72 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
 | 73 | [A Thousand More](https://open.spotify.com/track/0109Dds1lGUoQomjBDiq6k) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/0j4Zv6gNJnUhS6mOFFyYzV) | 4:27 |

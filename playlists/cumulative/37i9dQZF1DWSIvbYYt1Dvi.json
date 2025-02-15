@@ -6717,6 +6717,32 @@
     },
     {
       "album": {
+        "name": "Pensar Direito",
+        "url": "https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Pensar Direito",
+      "url": "https://open.spotify.com/track/1ui0q6tFro602g92piLjQF"
+    },
+    {
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -9592,7 +9618,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 130909,
       "name": "Umas e Outras",
       "url": "https://open.spotify.com/track/2NyvpOe02hCmLMEzj2d38N"

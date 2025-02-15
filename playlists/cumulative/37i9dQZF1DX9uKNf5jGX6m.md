@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-848 songs - 1 day 18 hr 8 min
+851 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A World Above](https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [A World Above](https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0) | 2:06 | 2023-01-03 |  |
 | [A World At Rest](https://open.spotify.com/track/4XJGAjvpgN5K84TsrUoTHp) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [A World At Rest](https://open.spotify.com/album/3QC3NCA8gebXV2hCyU1Sfg) | 2:59 | 2023-06-20 |  |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-09-01 | 2022-12-15 |
+| [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 | 2025-02-14 |  |
 | [Abendrot](https://open.spotify.com/track/7dTK3hzPpd2cpwQ9QoW1ug) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Abendrot](https://open.spotify.com/album/5xHti9Kvw0Nlsez7DiStkH) | 2:28 | 2022-09-01 | 2023-01-04 |
 | [Abloom](https://open.spotify.com/track/6hdHn3UvY4TKIXjarrXOOH) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Abloom](https://open.spotify.com/album/3LNZ1osldNuSrpOeAMK8Q4) | 2:19 | 2024-04-29 |  |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2021-12-21 | 2022-09-02 |
@@ -247,7 +248,7 @@
 | [Entering](https://open.spotify.com/track/3RAWbLYWWskUMQHJ12jJDA) | [Memoryan](https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR) | [Entering](https://open.spotify.com/album/19hV2XAdZmVAU3xkSJ7ORo) | 3:00 | 2022-05-31 | 2022-10-04 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-15 | 2023-08-11 |
 | [Envisaged](https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Envisaged](https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39) | 2:45 | 2022-09-01 | 2023-01-04 |
-| [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-14 |  |
+| [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-14 | 2025-02-15 |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-02-09 |  |
 | [Equations](https://open.spotify.com/track/7tYAhctWvmEg5d12ZALVDu) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Equations](https://open.spotify.com/album/4Tq84vWrMXIw3UVaMIbvWW) | 2:52 | 2024-12-12 |  |
 | [Equilibrium](https://open.spotify.com/track/3VvomBh2ZKssj7gDFZF8gI) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Equilibrium](https://open.spotify.com/album/3vdgwvyYVubJFTIwDjSQmy) | 2:31 | 2024-06-10 |  |
@@ -473,12 +474,13 @@
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-09 | 2022-10-16 |
 | [Mindful Morning](https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u) | [Yaminu](https://open.spotify.com/artist/5bTsHhnuBtER2fvtEjTsYG) | [Mindful Morning](https://open.spotify.com/album/0MdLoo2an3hSFefvqc84gW) | 3:05 | 2022-06-22 | 2022-12-15 |
 | [Minds Traversed](https://open.spotify.com/track/5OxLsoveEfCtK2M3CuqCd7) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Minds Traversed](https://open.spotify.com/album/0JjWwmu88zY7cXRFNmAr2v) | 4:10 | 2021-12-21 | 2022-06-23 |
+| [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 | 2025-02-14 |  |
 | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/track/7ytJp03Bb2wkKPYD01Y3Yg) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k) | 2:14 | 2022-10-03 | 2023-01-21 |
 | [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 | 2022-09-01 | 2023-06-21 |
 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 | 2021-12-21 | 2022-10-04 |
 | [Momentary Respite](https://open.spotify.com/track/5v9S3XB8kXoR0ij9Vv9xyH) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Momentary Respite](https://open.spotify.com/album/6kEjMPE1fgFE2lgkCG8rxB) | 2:38 | 2024-07-12 |  |
 | [Montana](https://open.spotify.com/track/0gBjWQIJ9KcdzT26UzkNqn) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Montana](https://open.spotify.com/album/5naD0L2z5uMR7X8kPK9EsQ) | 2:46 | 2021-12-21 | 2022-01-29 |
-| [Mood](https://open.spotify.com/track/26tB3QXSFx8VdhpDxum3UF) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Mood](https://open.spotify.com/album/6paIpg3BeJH6dgnCGM2dvj) | 2:56 | 2024-07-12 |  |
+| [Mood](https://open.spotify.com/track/26tB3QXSFx8VdhpDxum3UF) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Mood](https://open.spotify.com/album/6paIpg3BeJH6dgnCGM2dvj) | 2:56 | 2024-07-12 | 2025-02-15 |
 | [Moondown](https://open.spotify.com/track/4ezAcgXr3UiaHccxZg08cV) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Moondown](https://open.spotify.com/album/0cSTLGKYpNuzgdDMPez2Yt) | 2:55 | 2023-06-20 |  |
 | [Morning Energy](https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Morning Energy](https://open.spotify.com/album/5rLZ4RJAIE2rGWMp6aFsf0) | 1:30 | 2021-12-21 | 2022-10-26 |
 | [Morning Rain](https://open.spotify.com/track/6XbDqOFRhuOjKzo4uFbdw2) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:28 | 2021-12-21 | 2022-07-29 |
@@ -534,7 +536,7 @@
 | [Onye Amuma](https://open.spotify.com/track/6CcNlcTKGyqi2pbcr4vubX) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Onye Amuma](https://open.spotify.com/album/2NXjIdg0VNEsXuudS2K8pP) | 3:10 | 2022-10-03 | 2025-01-30 |
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-11-25 | 2023-11-25 |
 | [Orbital](https://open.spotify.com/track/44MJQRHs2cF4a66b8japWK) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Orbital](https://open.spotify.com/album/626mbaJYFXKPfkFZWi7KlU) | 2:50 | 2024-06-10 |  |
-| [Oscalated](https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Call Of Nature](https://open.spotify.com/album/6w7ox31LekFkKOMQi8QnHK) | 3:12 | 2023-08-11 |  |
+| [Oscalated](https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Call Of Nature](https://open.spotify.com/album/6w7ox31LekFkKOMQi8QnHK) | 3:12 | 2023-08-11 | 2025-02-15 |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-03-04 | 2024-07-27 |
 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 | 2021-12-21 | 2022-07-29 |
 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 | 2022-07-28 | 2022-09-23 |
@@ -691,6 +693,7 @@
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2022-07-28 | 2023-01-04 |
 | [Soft Blend](https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 2:11 | 2022-11-25 | 2023-08-11 |
 | [Soft Clouds](https://open.spotify.com/track/2QpYvFvVXQ3NArChOZN1hg) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Soft Clouds](https://open.spotify.com/album/2mQdFnL2LpUStoYXTsgeDz) | 3:11 | 2021-12-21 | 2022-10-04 |
+| [Soft Embrace](https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Soft Embrace](https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q) | 2:49 | 2025-02-14 |  |
 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 | 2022-07-28 | 2023-06-21 |
 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-20 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-21 | 2022-10-04 |

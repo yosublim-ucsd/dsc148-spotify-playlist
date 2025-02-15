@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 x 周杰倫 \(Patrick Brasca x Jay Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,351 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,427 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 27 | [小孩](https://open.spotify.com/track/6kyH1z6IdLo1GH3EcZXHMa) | [罗森涛](https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi) | [为何离开](https://open.spotify.com/album/3bDRe5CwhS5NGuZS0trZw7) | 3:39 |
 | 28 | [CUT IT](https://open.spotify.com/track/71fj02z2GIXo0lMXB5mY3J) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [艾許 Ashlee](https://open.spotify.com/artist/4rhlroA2XvbvSImYnLI20k) | [CUT IT](https://open.spotify.com/album/15HyjvTSHYLQsFXwNGCzBn) | 2:51 |
 | 29 | [我想要擁有你 \- Netflix影集《影后》插曲](https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [我想要擁有你 \(Netflix影集《影后》插曲\)](https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O) | 3:42 |
-| 30 | [我的女孩](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 |
+| 30 | [我的女孩My Girl](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 |
 | 31 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 |
 | 32 | [舊街](https://open.spotify.com/track/71UomceDKDdt93Tjpmyp1T) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [舊街](https://open.spotify.com/album/530cMYCcs3igjeV3rCPHIk) | 3:53 |
 | 33 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |

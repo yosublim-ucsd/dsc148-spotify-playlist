@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Wanna be",
+        "url": "https://open.spotify.com/album/1jzCG3ujAOgHpqT9TZIuGH"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150300,
+      "name": "Wanna Be",
+      "url": "https://open.spotify.com/track/5U26aL087wVLQYtJWU33zx"
+    },
+    {
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },

@@ -3859,6 +3859,32 @@
     },
     {
       "album": {
+        "name": "Harryto\u00b4s",
+        "url": "https://open.spotify.com/album/5LppCYbNuuMbE1zTsvkBZi"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Cero Sentimiento",
+      "url": "https://open.spotify.com/track/2xUvHEC45ON4XbaxPpq6w5"
+    },
+    {
+      "album": {
         "name": "Chamaka",
         "url": "https://open.spotify.com/album/7bAsYsieoIpj4mvjMtGDAq"
       },
@@ -21488,7 +21514,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222604,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7Bhf0oxExqJkNPmqiS4YZf"

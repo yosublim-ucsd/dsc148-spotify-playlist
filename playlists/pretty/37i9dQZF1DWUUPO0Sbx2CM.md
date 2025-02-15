@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,233 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,260 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 53 | [Deeper](https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing \- Summer 2022](https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s) | 3:02 |
 | 54 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
 | 55 | [Battle Belongs \- Reyer & Retain Remix](https://open.spotify.com/track/2uCL1C9hwqYywVGJrq6RWy) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF), [Sander Nijbroek](https://open.spotify.com/artist/6zakne0mu9dWkzLZI34YWR), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z) | [Battle Belongs \(Reyer & Retain Remix\)](https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK) | 3:37 |
-| 56 | [Here's To The One We Love \- Live](https://open.spotify.com/track/3n68MZSKlGrMVoANSq8jRc) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/3oulJMHjuzywnXT8Y7onwT) | 3:40 |
+| 56 | [Here's To The One We Love \- Live](https://open.spotify.com/track/3n68MZSKlGrMVoANSq8jRc) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Here's To The One We Love](https://open.spotify.com/album/3oulJMHjuzywnXT8Y7onwT) | 3:40 |
 | 57 | [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 |
 | 58 | [For the Beauty of the Earth](https://open.spotify.com/track/0qi5pBHXka7TjyURP6gQMf) | [Alabaster Co.](https://open.spotify.com/artist/4g0d1qT8tKu3VcjBHr3FQ2), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [For the Beauty of the Earth](https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz) | 5:32 |
 | 59 | [I AM](https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [I AM](https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w) | 3:22 |

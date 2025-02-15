@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> YSY A en la casa del Trap Argentino.
+> Milo j en la casa del Trap Argentino.
 
-375 songs - 17 hr 48 min
+376 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [QUE PASO?](https://open.spotify.com/track/4cHSkta5T7QLkMpFMVTCxy) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [QUE PASO?](https://open.spotify.com/album/7enAbGMvvw6yieMmxRJyHG) | 3:53 | 2022-01-21 | 2023-01-28 |
 | [QUÉ LOCO](https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:31 | 2022-06-17 | 2023-01-28 |
 | [RELOJES REVENTADOS](https://open.spotify.com/track/3WHBTuOibN5pPTiz9eyUpA) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:40 | 2022-11-11 | 2023-12-09 |
+| [RETIRADA](https://open.spotify.com/track/2m7Ev5rPlckRrn6HT2coGI) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:51 | 2025-02-14 |  |
 | [Roberto Perfumo](https://open.spotify.com/track/74aKFQ2gPjm9UawHPyoni5) | [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Roberto Perfumo](https://open.spotify.com/album/2rq6aaauxZ4uGCzZ7DBW9Q) | 2:05 | 2023-09-08 | 2023-09-30 |
 | [Rock and Roll](https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Rock and Roll](https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2) | 3:54 | 2024-08-16 |  |
 | [Rockstar](https://open.spotify.com/track/1AUgsKnQoY9o7BZyECszCK) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Rockstar](https://open.spotify.com/album/6BQ3LKnkuxHgWLiDfnNCtU) | 1:42 | 2024-08-23 |  |
@@ -374,7 +375,7 @@
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-07-21 | 2023-06-24 |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 | 2024-11-22 |  |
-| [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2022-01-21 |  |
+| [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2022-01-21 | 2025-02-15 |
 | [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 | 2023-03-24 | 2024-09-28 |
 | [x interes](https://open.spotify.com/track/0TGwFfD6OQAIDRw4Tsf49R) | [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [x interes](https://open.spotify.com/album/1oT1mP23ScPhKirJLUe6ar) | 2:39 | 2024-04-26 | 2024-07-27 |
 | [XL](https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [XL](https://open.spotify.com/album/10IBYtlp0KVqhNF6W44A65) | 3:19 | 2022-08-05 | 2022-11-10 |

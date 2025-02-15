@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Maya Delilah
 
-466 songs - 1 day 3 hr 18 min
+467 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
 | [No Way Around It](https://open.spotify.com/track/65AYAfDtAXpEx3AYgdobPK) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [RoneyBoys](https://open.spotify.com/artist/6Udsi9z7n5Ucvf781MzgjY) | [No Way Around It](https://open.spotify.com/album/3K9GvH6NNuohRjrKHFfqmB) | 3:11 | 2024-03-29 |  |
 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 | 2024-01-06 |
+| [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 | 2025-02-14 |  |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-25 | 2024-05-18 |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 | 2024-03-15 |  |
@@ -335,7 +336,7 @@
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-03-04 | 2023-04-15 |
 | [Purple Funk \- Opolopo Remix Edit](https://open.spotify.com/track/41vdOzxDPSW8fG3HBfBAPH) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT), [Saeeda Wright](https://open.spotify.com/artist/5FQYqGxJL7KxjW6OCC1wR1), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Purple Funk \(Opolopo Remixes\)](https://open.spotify.com/album/5HC8RNoh9CDxZSQCzB7Cr3) | 3:53 | 2023-06-09 | 2024-08-24 |
 | [Pursuit of Happiness](https://open.spotify.com/track/0Kbf68ffqkVcoZXPqVpD9j) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Pursuit of Happiness](https://open.spotify.com/album/5Sz85muMZBfGGF07GzQkAn) | 4:17 | 2021-06-18 | 2022-01-29 |
-| [Queen](https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Queen](https://open.spotify.com/album/3XR8FN0cFnpi1A8wUKjirn) | 4:42 | 2024-04-26 |  |
+| [Queen](https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Queen](https://open.spotify.com/album/3XR8FN0cFnpi1A8wUKjirn) | 4:42 | 2024-04-26 | 2025-02-15 |
 | [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 | 2023-02-01 | 2023-10-28 |
 | [Reachin' Up](https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Marcus Farrar](https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq) | [Reachin' Up](https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO) | 4:29 | 2022-03-04 | 2023-06-10 |
 | [Ready for Me](https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Anjelika 'Jelly' Joseph](https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX) | [Ready for Me](https://open.spotify.com/album/5rauKXDJu5w56SFFoW2Fm7) | 3:05 | 2023-01-13 | 2024-01-20 |

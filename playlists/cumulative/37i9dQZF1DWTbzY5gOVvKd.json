@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "L O V E",
+        "url": "https://open.spotify.com/album/0lOFOmKhB58H1PfnoCD41E"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153487,
+      "name": "L O V E",
+      "url": "https://open.spotify.com/track/2Djp8QDGUST92TqTtpYEKC"
+    },
+    {
+      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },

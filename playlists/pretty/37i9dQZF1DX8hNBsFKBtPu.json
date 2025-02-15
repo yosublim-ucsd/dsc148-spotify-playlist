@@ -1,6 +1,6 @@
 {
   "description": "Det bedste nye pop \ud83d\udc9b Dahlin",
-  "num_followers": 108745,
+  "num_followers": 108749,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
       "duration_ms": 177317,
       "name": "N\u00f8gen",
       "url": "https://open.spotify.com/track/5gK8xceSADPn3qbdrYGlIM"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Campingsangen",
+        "url": "https://open.spotify.com/album/16mWHI96ZgaDTuLp6L5cjw"
+      },
+      "artists": [
+        {
+          "name": "Campisterne",
+          "url": "https://open.spotify.com/artist/6MfSS7IUnmZSUbHpCMfiZU"
+        }
+      ],
+      "duration_ms": 153221,
+      "name": "Campingsangen",
+      "url": "https://open.spotify.com/track/6ih43fu9hehE11lbYXsRNK"
     },
     {
       "added_at": "2025-02-13 23:00:24",

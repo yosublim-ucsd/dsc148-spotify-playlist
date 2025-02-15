@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A palavra do Senhor na voz de grandes adoradores do Brasil. Foto: Isadora Pompeo",
+  "description": "A palavra do Senhor na voz de grandes adoradores do Brasil. Foto: Vitor Santana",
   "name": "Sucessos Gospel",
   "tracks": [
     {
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
+    },
+    {
+      "album": {
         "name": "A Casa \u00c9 Sua",
         "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 293593,
       "name": "N\u00e3o Pare",
       "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 236470,
       "name": "Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
@@ -2308,6 +2326,24 @@
       "duration_ms": 552564,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
+    },
+    {
+      "album": {
+        "name": "das coisas que carrego dentro",
+        "url": "https://open.spotify.com/album/6DiX9DyyRnNZBVRoAnyXa5"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Sol inteiro",
+      "url": "https://open.spotify.com/track/0L1MqPbLHeF2IWivOclJT8"
     },
     {
       "album": {

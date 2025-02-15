@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Obama&#x27;s Favorite Music of 2024.",
-  "num_followers": 131742,
+  "num_followers": 131735,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAtew+Hbx9GwsKPD7L2hOVzuCU2agdH",
+  "snapshot_id": "AAAthAirojTF5oIzbhOabnIinv5SCatL",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -793,12 +793,28 @@
         },
         {
           "name": "1800 Sleep",
-          "url": "https://open.spotify.com/artist/1X2dBUCDg2MnQ6mIJtCcW9"
+          "url": "https://open.spotify.com/artist/6bbHPWdRPkkxdBX2seex5S"
         }
       ],
       "duration_ms": 294593,
       "name": "Baby I'm In Love",
       "url": "https://open.spotify.com/track/0rHF14NDyL1uWKJEFkyPk9"
+    },
+    {
+      "added_at": "2025-02-14 13:47:24",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/2PRGWFu3khYvrnZYgZz4Q2"
+      },
+      "artists": [
+        {
+          "name": "Alma Owren",
+          "url": "https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "you",
+      "url": "https://open.spotify.com/track/67UKQlayHF4L4ACUOj24Pr"
     },
     {
       "added_at": "2025-02-10 15:01:49",
@@ -815,6 +831,22 @@
       "duration_ms": 146000,
       "name": "YOU MAKE ME FEEL LIKE DANCING",
       "url": "https://open.spotify.com/track/7xNYUYx97k1C8QtOnOx4pO"
+    },
+    {
+      "added_at": "2025-02-14 13:45:55",
+      "album": {
+        "name": "Acacia",
+        "url": "https://open.spotify.com/album/3KWgTV2aFMw51X3a19bUd5"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO"
+        }
+      ],
+      "duration_ms": 139673,
+      "name": "Acacia",
+      "url": "https://open.spotify.com/track/2ZHscelef9Qa0ySiod0eNK"
     },
     {
       "added_at": "2025-01-24 14:36:19",
@@ -847,6 +879,78 @@
       "duration_ms": 170106,
       "name": "Tide",
       "url": "https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT"
+    },
+    {
+      "added_at": "2025-02-14 13:59:03",
+      "album": {
+        "name": "FEBRUARY / LEADS (ME TO YOU)",
+        "url": "https://open.spotify.com/album/3H2GHZd1utMwOO4PabV4Gt"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "FEBRUARY",
+      "url": "https://open.spotify.com/track/5jRQP0Q6pK63sN9fQLAD2D"
+    },
+    {
+      "added_at": "2025-02-14 13:48:05",
+      "album": {
+        "name": "Crazy For You",
+        "url": "https://open.spotify.com/album/0TZH9myroMNAdfAtqhhoWV"
+      },
+      "artists": [
+        {
+          "name": "Rhys Crowther",
+          "url": "https://open.spotify.com/artist/6EYAzP6JkvptxvZK27rXaX"
+        },
+        {
+          "name": "George Daniell",
+          "url": "https://open.spotify.com/artist/0jfcE60MKLLYiabOqDwYYe"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/3lKhpAaPMZr2y2xdIikNkY"
+    },
+    {
+      "added_at": "2025-02-14 23:16:58",
+      "album": {
+        "name": "Anda Suelta",
+        "url": "https://open.spotify.com/album/6pfdkZoChZ9JQ5nearuRf6"
+      },
+      "artists": [
+        {
+          "name": "Gipy781",
+          "url": "https://open.spotify.com/artist/7g0TXKTDjrJnqNZQSo0YHV"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Anda Suelta",
+      "url": "https://open.spotify.com/track/5r0qdds4MFhzlgacKvilHE"
+    },
+    {
+      "added_at": "2025-02-14 23:14:48",
+      "album": {
+        "name": "Supplier",
+        "url": "https://open.spotify.com/album/2YLybkmPRFlpQHrRHXD7CC"
+      },
+      "artists": [
+        {
+          "name": "Sammy Vizz",
+          "url": "https://open.spotify.com/artist/6hPgq23tX1rVK7Y7Oh4u1X"
+        },
+        {
+          "name": "Real Unidad",
+          "url": "https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT"
+        }
+      ],
+      "duration_ms": 157181,
+      "name": "Supplier",
+      "url": "https://open.spotify.com/track/2yOO0mAZ160Ta4MBWdJ5N5"
     },
     {
       "added_at": "2025-02-13 01:22:43",
@@ -2239,158 +2343,6 @@
       "duration_ms": 197137,
       "name": "Better Tho",
       "url": "https://open.spotify.com/track/0xDl961ndADTHwYCe6BdZJ"
-    },
-    {
-      "added_at": "2025-02-03 23:32:36",
-      "album": {
-        "name": "Heavy Weight",
-        "url": "https://open.spotify.com/album/2B1k03thqdi8nIIzqfi12J"
-      },
-      "artists": [
-        {
-          "name": "1st Klase",
-          "url": "https://open.spotify.com/artist/5gPZ9xZ09FdYzbHIdGB2bA"
-        },
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 166137,
-      "name": "Heavy Weight",
-      "url": "https://open.spotify.com/track/5AI6FsXYw74lzeSc71N4KS"
-    },
-    {
-      "added_at": "2025-02-04 01:06:25",
-      "album": {
-        "name": "Valentine's Day (I Ain't Got Time For That)",
-        "url": "https://open.spotify.com/album/2xlbCKwkLJKAO8H0gNdXIe"
-      },
-      "artists": [
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Valentine's Day (I Ain't Got Time For That)",
-      "url": "https://open.spotify.com/track/3oPTYYAi7hS4OI8FqHN197"
-    },
-    {
-      "added_at": "2025-02-03 23:34:45",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3MwCNf8n6c6UU4JeHpsVku"
-      },
-      "artists": [
-        {
-          "name": "Seanise",
-          "url": "https://open.spotify.com/artist/2lKfnKOayiJNW4XETLe5tq"
-        },
-        {
-          "name": "Padonsings",
-          "url": "https://open.spotify.com/artist/4WRDx3Z1myJGUubIHci6YW"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7v9cJvYj7cZNZ74ZGdr8hf"
-    },
-    {
-      "added_at": "2025-02-03 23:44:57",
-      "album": {
-        "name": "Please Dont Ever Go Away (From Me)",
-        "url": "https://open.spotify.com/album/7AB6Nn0mDr9OYDDv3LVFng"
-      },
-      "artists": [
-        {
-          "name": "April Stubbs",
-          "url": "https://open.spotify.com/artist/2kpUtFUInedvpfLOR7Kv8C"
-        }
-      ],
-      "duration_ms": 226671,
-      "name": "Please Dont Ever Go Away (From Me)",
-      "url": "https://open.spotify.com/track/32YvRwlZLQcXQ0BCrcu9xI"
-    },
-    {
-      "added_at": "2025-02-03 23:27:45",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5CGSQ74OjZANGOA8QAQs35"
-      },
-      "artists": [
-        {
-          "name": "Br!zzy",
-          "url": "https://open.spotify.com/artist/7oXHHuq2DHEsehFHNQ7T7h"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/02aKD2gA9AlYz9KMnyXVRs"
-    },
-    {
-      "added_at": "2025-02-03 23:32:00",
-      "album": {
-        "name": "Aguanta",
-        "url": "https://open.spotify.com/album/0oHOHONHqgaiXMMEh2SxbY"
-      },
-      "artists": [
-        {
-          "name": "Jeanpierre",
-          "url": "https://open.spotify.com/artist/0mJUl80BoLq4QMhu5amlHx"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Aguanta",
-      "url": "https://open.spotify.com/track/4jUphxql5Ikywfv8uOAMe2"
-    },
-    {
-      "added_at": "2025-02-03 23:30:41",
-      "album": {
-        "name": "Cuddle Season (Soulful Sax Mix)",
-        "url": "https://open.spotify.com/album/2JOrylfSzY4t3kTur5BssY"
-      },
-      "artists": [
-        {
-          "name": "Stanley Dre",
-          "url": "https://open.spotify.com/artist/0pLqQntz9Q7jNnAK9NXNeU"
-        }
-      ],
-      "duration_ms": 290487,
-      "name": "Cuddle Season - Soulful Sax Mix",
-      "url": "https://open.spotify.com/track/3SttiywwIl086jqIUbvnrx"
-    },
-    {
-      "added_at": "2025-02-03 23:29:35",
-      "album": {
-        "name": "Ay Amor a 4 Guitarras (en vivo)",
-        "url": "https://open.spotify.com/album/0oAVdOI0NoQiP77KFYcWEf"
-      },
-      "artists": [
-        {
-          "name": "Alexis Venegas",
-          "url": "https://open.spotify.com/artist/3JiStihkFwbEuL4nGuHWlM"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Ay Amor a 4 Guitarras - en vivo",
-      "url": "https://open.spotify.com/track/2BaeJokduzqeR5dKSUdDXi"
-    },
-    {
-      "added_at": "2025-02-03 23:28:24",
-      "album": {
-        "name": "M\u00fasica para Romper Ciclos",
-        "url": "https://open.spotify.com/album/4rnHi49yjUkMy04Kw6EaHj"
-      },
-      "artists": [
-        {
-          "name": "Luciano Vergara Ensamble",
-          "url": "https://open.spotify.com/artist/2uDAQQp6GLAhlnHpPiCvkn"
-        }
-      ],
-      "duration_ms": 543186,
-      "name": "A los Habitantes de la Isla",
-      "url": "https://open.spotify.com/track/0JRYi9dXodUHvR5XPSPjgn"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

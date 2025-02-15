@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,473 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,476 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 38 | [RIRI](https://open.spotify.com/track/55HeB5nNPClrPce097cS8p) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [RIRI](https://open.spotify.com/album/0fTzb2pj4r19FAgP2b5zQa) | 3:44 |
 | 39 | [煌めき](https://open.spotify.com/track/5gKrKkfQ91LUGcpfvWGImK) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [煌めき](https://open.spotify.com/album/3IgKer17DOWhsJiyySFMIm) | 3:18 |
 | 40 | [girl \- m\-al remix](https://open.spotify.com/track/1Rpec5jjvFTXqhD3nv0Nso) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [Re:works](https://open.spotify.com/album/5hVQOGeoEJJkdimQIjryEy) | 4:38 |
-| 41 | [Doce 甘い](https://open.spotify.com/track/1K66Wk0ms9M2sjYSnwCeB9) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Doce 甘い](https://open.spotify.com/album/010zZP7DmPLOsljCdz2WSH) | 3:33 |
+| 41 | [Doce 甘い](https://open.spotify.com/track/1K66Wk0ms9M2sjYSnwCeB9) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW), [Yuga](https://open.spotify.com/artist/0NSPJuwVLc3n3D2m0lmpcf) | [Doce 甘い](https://open.spotify.com/album/010zZP7DmPLOsljCdz2WSH) | 3:33 |
 | 42 | [Suzy](https://open.spotify.com/track/06Fqr7NIyZw4Es0ltrMcF2) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Suzy](https://open.spotify.com/album/2yvj4bjipBSXavsQ31WmTL) | 3:54 |
 | 43 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 44 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |

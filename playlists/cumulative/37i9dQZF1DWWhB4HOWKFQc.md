@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Midnight Serenade
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Amelia Moore
 
 969 songs - 2 day 10 hr 29 min
 

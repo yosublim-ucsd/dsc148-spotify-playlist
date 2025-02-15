@@ -4,7 +4,7 @@
 
 > 
 
-2,084 songs - 4 day 15 hr 50 min
+2,086 songs - 4 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Amor de red social](https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor de red social](https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz) | 3:50 | 2021-08-05 |  |
 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 | 2021-08-05 |  |
 | [AMV](https://open.spotify.com/track/2tCzoavZgN8Hnoy31NNGNi) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/60xhnCT75qhoZJOobUrLVP) | 2:18 | 2021-08-05 |  |
+| [Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/5dmjsLeNMW49goi92kul6n) | 2:10 | 2025-02-14 |  |
 | [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 | 2024-01-21 |  |
 | [Anaesthetic](https://open.spotify.com/track/6lRdovH3VyWlCgOTTShr3A) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [&&&&&](https://open.spotify.com/album/0KcW8BN4ogk6Rx8QjiCQk6) | 2:13 | 2021-12-30 |  |
 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 | 2021-08-05 |  |
@@ -615,6 +616,7 @@
 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 | 2024-03-30 |  |
 | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/track/0UcTXmzMNrnS2rOLp94LlJ) | [iLL Wayno](https://open.spotify.com/artist/0JBoAOvXNu0zco9DPeg9KD), [Holla FyeSixWun](https://open.spotify.com/artist/2SGs0NLDtDQaHhNiSeriwc) | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/album/33n6Vm4ILYIE6yQ5hetNdg) | 2:19 | 2021-08-05 |  |
 | [F The World](https://open.spotify.com/track/6sXwm0rdUS07s5sGZd11Jd) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 3:26 | 2022-09-04 |  |
+| [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2025-02-14 |  |
 | [F.R.A.](https://open.spotify.com/track/6XUWQzaEc8JHvGmRCb4EWr) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:14 | 2021-09-08 |  |
 | [Face Off](https://open.spotify.com/track/6M47gaKejso9772SKTa3yH) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM) | 3:39 | 2021-11-30 |  |
 | [Facebook.com](https://open.spotify.com/track/2eyDbHAGCtdkCGSGJafZT4) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:38 | 2022-04-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Malayalam Hip-Hop! Cover : Fejo",
+  "description": "Best of Malayalam Hip-Hop! \nCover : Dabzee & Rishi Roy",
   "name": "RAP 91 Malayalam",
   "tracks": [
     {
@@ -3957,6 +3957,28 @@
     },
     {
       "album": {
+        "name": "SHUNDA MANDI",
+        "url": "https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "SHUNDA MANDI",
+      "url": "https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2"
+    },
+    {
+      "album": {
         "name": "SLAM",
         "url": "https://open.spotify.com/album/5fh4rLBLLy3gXanrpzyRJC"
       },
@@ -4578,7 +4600,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 165956,
       "name": "VAAKKATHI",
       "url": "https://open.spotify.com/track/46XOuaTgVmiLua31tuMqVA"

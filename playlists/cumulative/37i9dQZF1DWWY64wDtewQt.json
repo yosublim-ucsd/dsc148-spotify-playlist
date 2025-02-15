@@ -4713,6 +4713,28 @@
     },
     {
       "album": {
+        "name": "ECOS DO ABISMO",
+        "url": "https://open.spotify.com/album/3pgc55s9tArxCTxSv5GQgO"
+      },
+      "artists": [
+        {
+          "name": "Flame Runner",
+          "url": "https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4"
+        },
+        {
+          "name": "ZIMXN",
+          "url": "https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126942,
+      "name": "ECOS DO ABISMO - Super Slowed",
+      "url": "https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5"
+    },
+    {
+      "album": {
         "name": "EI DO SENSACIO!",
         "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
       },
@@ -7010,7 +7032,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 70400,
       "name": "JOGO DE TOLOS",
       "url": "https://open.spotify.com/track/5Vuq8CP31cpEEq5zNJCjUN"
@@ -8920,7 +8942,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 88653,
       "name": "MONTAGEM BOTA HIPNOSIS 1.0",
       "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
@@ -10348,6 +10370,28 @@
       "duration_ms": 131597,
       "name": "Nullifier",
       "url": "https://open.spotify.com/track/4PBvzsqlZVJ0GXzTbBRu0y"
+    },
+    {
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
       "album": {

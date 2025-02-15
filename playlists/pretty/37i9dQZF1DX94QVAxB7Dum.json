@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 775718,
+  "num_followers": 775838,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Steve Wright\u2019s Sunday Love Songs\u2026 Make-Ups and Break-Ups",
+        "url": "https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "What Becomes Of The Brokenhearted - Single Version",
+      "url": "https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Motown: The Complete No. 1's",
         "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 203373,
       "name": "War",
       "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Steve Wright\u2019s Sunday Love Songs\u2026 Make-Ups and Break-Ups",
-        "url": "https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "What Becomes Of The Brokenhearted - Single Version",
-      "url": "https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm"
     },
     {
       "added_at": "2024-07-02 22:47:47",

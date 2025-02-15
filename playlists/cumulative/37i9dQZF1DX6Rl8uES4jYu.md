@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-466 songs - 1 day 1 hr 58 min
+467 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 | 2024-03-15 |  |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
+| [Can't Get Enough](https://open.spotify.com/track/5Rty3bOR625NBZXPmwOhJ9) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Can't Get Enough](https://open.spotify.com/album/1cgPFINWSKQatDghI5NPMF) | 4:17 | 2025-02-14 |  |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-20 | 2023-02-18 |
 | [Can't Help Myself](https://open.spotify.com/track/2yicVJl6Tv5Nmb3FiJEb8S) | [99 Percent](https://open.spotify.com/artist/3hPPNy5OBzCU1icQO7Nrok) | [Can't Help Myself](https://open.spotify.com/album/59dbHZHA0lEwU9hEW3YVfy) | 2:34 | 2023-03-17 |  |
 | [Can't Help Myself](https://open.spotify.com/track/3978TfFJu8PXuiAOkVCT5e) | [99 Percent](https://open.spotify.com/artist/3hPPNy5OBzCU1icQO7Nrok) | [Can't Help Myself](https://open.spotify.com/album/35bt6528u2ti71tqFUFKWb) | 2:34 | 2023-03-17 | 2024-04-19 |
@@ -436,7 +437,7 @@
 | [Up to You](https://open.spotify.com/track/1ypLtUSLjbvO3oscbw18kR) | [Champagne Lane](https://open.spotify.com/artist/5Rr0FDXqkvTq11sjYaDlBM) | [Up to You](https://open.spotify.com/album/4fqpBA60UYf04rhHIXDsC3) | 5:20 | 2020-11-13 | 2022-03-26 |
 | [Vain](https://open.spotify.com/track/5YthVg8zU14mVkwoVKt2Xg) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Yearlong](https://open.spotify.com/album/3kpSyateFhVGWZk2tf2cPy) | 4:20 | 2020-11-13 | 2022-02-05 |
 | [Vibrant](https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh) | [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Vibrant](https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU) | 4:08 | 2021-05-14 | 2022-09-03 |
-| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-12 |  |
+| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-12 | 2025-02-15 |
 | [Wake Up](https://open.spotify.com/track/6bUazBNWnOB5FiUUmRp2dL) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Wake Up](https://open.spotify.com/album/3PLKJq2ECswqUP1s2nA36V) | 2:49 | 2024-02-23 |  |
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-09-21 | 2022-07-04 |
 | [Waste of a Pretty Face](https://open.spotify.com/track/4IpuYe7tPM0VasiAzigXff) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Waste of a Pretty Face](https://open.spotify.com/album/1gcgGlZKyAH4YuJTR7hqcO) | 2:38 | 2021-10-26 | 2022-07-17 |

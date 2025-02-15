@@ -721,7 +721,7 @@
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171279,
+      "duration_ms": 170056,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH"
     },
@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 151026,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
@@ -7625,7 +7625,7 @@
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 228882,
+      "duration_ms": 228936,
       "name": "Te quiero mucho",
       "url": "https://open.spotify.com/track/38WhH8wM1VR8LElrFLdLbK"
     },
@@ -7896,6 +7896,24 @@
       "duration_ms": 329000,
       "name": "Too Many Drugs",
       "url": "https://open.spotify.com/track/36Ylur9D9t6AMcu6wCs2Bh"
+    },
+    {
+      "album": {
+        "name": "Conjuros",
+        "url": "https://open.spotify.com/album/58mvisxNHI8H9OFFi1cbhp"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/4i0ilHWuJ4RAAvJQPhTtTn"
     },
     {
       "album": {

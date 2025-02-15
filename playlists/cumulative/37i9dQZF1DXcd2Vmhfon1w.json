@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 175384,
       "name": "21",
       "url": "https://open.spotify.com/track/2hbVaLfNRekMmFxTvpVrqe"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 136719,
       "name": "2K",
       "url": "https://open.spotify.com/track/2iZnVuC02NU5b5nZXSh0BN"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 109090,
       "name": "Aunque Pase To' La Vida",
       "url": "https://open.spotify.com/track/0n0a0ALVvxxIhesaFOo5gN"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 193567,
       "name": "Buscando el Sol",
       "url": "https://open.spotify.com/track/7tVS44G27ERhSmaAWsGLcW"
@@ -2929,6 +2929,32 @@
     },
     {
       "album": {
+        "name": "Demasiados Raperos",
+        "url": "https://open.spotify.com/album/6HIOJhXm44Qc5QuBFduO7t"
+      },
+      "artists": [
+        {
+          "name": "Locus",
+          "url": "https://open.spotify.com/artist/6vuZePQX5LQJGq4SGIUMFR"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Noult",
+          "url": "https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Demasiados Raperos",
+      "url": "https://open.spotify.com/track/7xoozB20Y2zrEgXEzeKkB9"
+    },
+    {
+      "album": {
         "name": "Demenciales",
         "url": "https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn"
       },
@@ -3044,6 +3070,28 @@
       "duration_ms": 158285,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh"
+    },
+    {
+      "album": {
+        "name": "DIME LA VERDAD",
+        "url": "https://open.spotify.com/album/43w9kyC0ZFRCdDcTjWp44d"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        },
+        {
+          "name": "Franckvit",
+          "url": "https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "DIME LA VERDAD",
+      "url": "https://open.spotify.com/track/3ixZyLtgeVywF7Iz57U18S"
     },
     {
       "album": {
@@ -5973,6 +6021,24 @@
     },
     {
       "album": {
+        "name": "Mam\u00e1 (Luz del Norte)",
+        "url": "https://open.spotify.com/album/2FbA6Ew2ZoDwodCvXobnt0"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161039,
+      "name": "Mam\u00e1 - Luz del Norte",
+      "url": "https://open.spotify.com/track/45dFDuyqrwcSQxOdHYSuN0"
+    },
+    {
+      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/3P0Ghlma3E7wcq58X1sOyW"
       },
@@ -6980,6 +7046,24 @@
       "duration_ms": 172982,
       "name": "Nanai",
       "url": "https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/27eNEQRglWM6azfglfM3IA"
+      },
+      "artists": [
+        {
+          "name": "Subze",
+          "url": "https://open.spotify.com/artist/1iw6ZNe7cO6LGk61z3pMRJ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269647,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6K8CM89ef8FN8NIOMmINue"
     },
     {
       "album": {
@@ -8360,7 +8444,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 115537,
       "name": "ReLaMiDo",
       "url": "https://open.spotify.com/track/6drJQVd7Mn3NjnD2bGbk20"
@@ -9018,7 +9102,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 220566,
       "name": "SI LA VIDA NOS CAMBIA",
       "url": "https://open.spotify.com/track/73rrrcJjKxRIiRujjC5JkB"
@@ -9863,6 +9947,24 @@
     },
     {
       "album": {
+        "name": "TKM II",
+        "url": "https://open.spotify.com/album/7LIrfl1ZHijpad86JtCFMK"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198202,
+      "name": "TKM II",
+      "url": "https://open.spotify.com/track/5LvyABBUX2UWWl3BupH6UA"
+    },
+    {
+      "album": {
         "name": "Cachitos de Mi Cora",
         "url": "https://open.spotify.com/album/13U39sti555PIUZA7VGUJu"
       },
@@ -10694,6 +10796,32 @@
       "duration_ms": 163369,
       "name": "Ya ni yo",
       "url": "https://open.spotify.com/track/6aHTxnGcB5WUPD8klgrWCt"
+    },
+    {
+      "album": {
+        "name": "ASCARI",
+        "url": "https://open.spotify.com/album/4SctRZiMuBHH4XMGP9YXdO"
+      },
+      "artists": [
+        {
+          "name": "EAZYBOI",
+          "url": "https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Bigla The Kid",
+          "url": "https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "YA NO",
+      "url": "https://open.spotify.com/track/12Q6wX7zerBTPcVeMXtwMP"
     },
     {
       "album": {

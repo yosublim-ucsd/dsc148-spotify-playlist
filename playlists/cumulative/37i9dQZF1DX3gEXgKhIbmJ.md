@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-255 songs - 10 hr 21 min
+256 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Guerra](https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/3PRhDBXhCBniQnZYA5D6CB) | 2:23 | 2023-09-15 | 2023-10-14 |
 | [Hellcomeback](https://open.spotify.com/track/2J3YB0R6vjN0zSPNAai4Dk) | [Laranjha](https://open.spotify.com/artist/4hNHDJQM130Pg4Gt7Cjhgr), [BEAT do MESAN](https://open.spotify.com/artist/5QTAgLr0ITnA48LCcgtCKx) | [Hellcomeback](https://open.spotify.com/album/36PRWwupqcebYfnToj5Mxb) | 2:29 | 2023-09-15 | 2023-09-30 |
 | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/track/6SNNUaB4swasE4hHLdGhu9) | [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3) | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/album/6Wd9AGxjhW4zDegTwSQP2F) | 2:06 | 2023-09-15 | 2023-11-25 |
+| [I Wanna Fuck You](https://open.spotify.com/track/5CEIGCQRG7z3769FIGIOlF) | [Cozzta](https://open.spotify.com/artist/2uzwP4j6VbbpOW9n4piVIK) | [I Wanna Fuck You](https://open.spotify.com/album/4XbnIFquUuavfhpqgh5wXC) | 2:09 | 2025-02-14 |  |
 | [IMAGINEI TANTAS COISAS COM VOCÊ](https://open.spotify.com/track/1HYy3x0akcUcwN4Mc6WZ0M) | [W11](https://open.spotify.com/artist/0WP0IRhU9ee3zZ9Q0l8Eon), [Carluz](https://open.spotify.com/artist/6vF4hdayoLWw2cST3oqJHM) | [BACK THEN CYCLE](https://open.spotify.com/album/5CFZdYlnQe5Ece931I0w8R) | 1:28 | 2024-01-26 | 2024-02-03 |
 | [In London](https://open.spotify.com/track/6FcxmLkDOPFDCca4bIZ0AQ) | [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [In London](https://open.spotify.com/album/0U6Pbs30wHu5uqctCvdAFG) | 2:22 | 2024-09-07 | 2024-11-30 |
 | [Incomum](https://open.spotify.com/track/5z9BRYE0hX2aVlYVJES1Ox) | [Palo](https://open.spotify.com/artist/63OGdk3eGnk7ugMhEBOKay), [Diazy](https://open.spotify.com/artist/3owACI8UZnaWa3gVyiwuAF) | [Incomum](https://open.spotify.com/album/64Ygcf3Kn6dbaQPr2O4fNE) | 1:53 | 2024-06-21 | 2024-11-30 |
@@ -223,7 +224,7 @@
 | [Sem Medo](https://open.spotify.com/track/0e0CZnMjOgUPm0u8y2dkIH) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:19 | 2024-01-12 | 2024-03-30 |
 | [Sempre Fumando](https://open.spotify.com/track/2C3oUgLzA1pIIMdhoDvPKx) | [SJCGANG](https://open.spotify.com/artist/1QiydI5RXDKHunVl9bA0di), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv), [Young Bard](https://open.spotify.com/artist/4TmYqVjCRpQPUj2Iv4Tosx) | [Sempre Fumando](https://open.spotify.com/album/7KuOhwLTELoBXFB59PXvXZ) | 2:21 | 2024-01-05 | 2024-01-27 |
 | [Sempre Vigiando](https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Sempre Vigiando](https://open.spotify.com/album/5aIaJUTj6LvBjmUPW9AlU0) | 2:55 | 2023-10-27 | 2023-11-11 |
-| [Senna](https://open.spotify.com/track/2RcL465NHQJr2BXTWk1Ad0) | [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [SETE MC](https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35) | [Senna](https://open.spotify.com/album/32wuKvub3bdrazXcIOpF4q) | 2:04 | 2024-11-29 |  |
+| [Senna](https://open.spotify.com/track/2RcL465NHQJr2BXTWk1Ad0) | [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [SETE MC](https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35) | [Senna](https://open.spotify.com/album/32wuKvub3bdrazXcIOpF4q) | 2:04 | 2024-11-29 | 2025-02-15 |
 | [Sexy Jersey](https://open.spotify.com/track/6zXE1gzIsuinOdbwGMrsAU) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP) | [Sexy Jersey](https://open.spotify.com/album/2DUFWkVPE4DG4fV1BnsHzc) | 2:14 | 2023-11-03 | 2023-11-11 |
 | [Shopping](https://open.spotify.com/track/4H5nSoJVMHFudl8aAqr8Sk) | [Haki](https://open.spotify.com/artist/4Bmfvu2OCvxUnAh2OaQYMc) | [Shopping](https://open.spotify.com/album/1UTD1Sud8DGXSKropohDHk) | 2:04 | 2023-09-29 | 2023-10-14 |
 | [Sommelier!](https://open.spotify.com/track/0qxGMb0IGw0t8v5DW8zlyU) | [Yungustt](https://open.spotify.com/artist/1gWi2pNIbM9RZsvcGJFGaD), [OK!EAST](https://open.spotify.com/artist/7Kk4VXv4bfBGzWZrz7rbtB) | [Sommelier!](https://open.spotify.com/album/47yJgeo3POsvVVB0coKvJd) | 2:03 | 2023-09-15 | 2023-11-18 |

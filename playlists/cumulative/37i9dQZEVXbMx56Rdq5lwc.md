@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,917 songs - 4 day 9 hr 30 min
+1,918 songs - 4 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Presenting Bobby Helms](https://open.spotify.com/album/6rxEZkfRTatrDUm4MCyJqm) | 2:13 | 2024-11-22 | 2024-12-04 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-12-25 | 2021-12-27 |
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2024-12-28 |
-| [Jis](https://open.spotify.com/track/5WvEHyZk6m9ij0ajvvqXCa) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [Ledi Ais](https://open.spotify.com/artist/1S8GUDg4ojjbFAS2QAb6m2) | [Noriu Šokt](https://open.spotify.com/album/6PiqXDe7wIJjhsiObo4LXx) | 3:03 | 2024-09-14 |  |
+| [Jis](https://open.spotify.com/track/5WvEHyZk6m9ij0ajvvqXCa) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [Ledi Ais](https://open.spotify.com/artist/1S8GUDg4ojjbFAS2QAb6m2) | [Noriu Šokt](https://open.spotify.com/album/6PiqXDe7wIJjhsiObo4LXx) | 3:03 | 2024-09-14 | 2025-02-15 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-05 |
 | [Jono Meko užuomina](https://open.spotify.com/track/0qBZusbhXScBFCcdY3QU4a) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [Mažas rūpintojėlis](https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS) | 3:54 | 2024-12-09 | 2024-12-14 |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-10-29 | 2024-11-02 |
@@ -1415,7 +1415,7 @@
 | [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 | 2023-12-12 | 2023-12-15 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2022-12-25 | 2023-12-30 |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2021-12-25 | 2024-12-27 |
-| [Sapnas](https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D) | [Norbertas](https://open.spotify.com/artist/314gEtVHpWMBWfExBpeBwz) | [Sapnas](https://open.spotify.com/album/4lIvqRTZwvDzEp4OAtATVC) | 2:51 | 2024-10-06 |  |
+| [Sapnas](https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D) | [Norbertas](https://open.spotify.com/artist/314gEtVHpWMBWfExBpeBwz) | [Sapnas](https://open.spotify.com/album/4lIvqRTZwvDzEp4OAtATVC) | 2:51 | 2024-10-06 | 2025-02-15 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-06-05 |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-11 | 2022-06-19 |
 | [Saugok širdį](https://open.spotify.com/track/6aNCsReAOapFAxx43eTBlH) | [Ruta MUR](https://open.spotify.com/artist/2QfgVqH2rFOPF8dLsyXRWW), [Leon Somov](https://open.spotify.com/artist/5tqSjP3EGoOTriKogeTNO2) | [Saugok širdį](https://open.spotify.com/album/4m7Hq952S56hmVZ5IBpSc7) | 4:23 | 2025-01-27 |  |
@@ -1474,6 +1474,7 @@
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-26 | 2023-08-28 |
 | [SIR BAUDELAIRE \(feat\. DJ Drama\)](https://open.spotify.com/track/4ydmav4vl7hebadtfZtMrg) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 1:28 | 2021-06-27 | 2021-06-28 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-01 |
+| [Skambinau bažnyčiai](https://open.spotify.com/track/2qTgYYll14Qn5OabfmZmBH) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs) | [Skambinau bažnyčiai](https://open.spotify.com/album/0I8WBbbJwhhIbl9ZRe5K5B) | 3:13 | 2025-02-14 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-20 | 2024-01-29 |
 | [SKINNY](https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:39 | 2024-05-18 | 2024-06-01 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
@@ -1891,7 +1892,7 @@
 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-05-11 | 2024-05-25 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-11 | 2023-06-09 |
 | [Į Tave](https://open.spotify.com/track/4EbZM1P99mTOdt9kqaMRcb) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [KODĖL TU ČIA?](https://open.spotify.com/album/3AG71CU4i34I2Mj3xsKqvM) | 5:18 | 2023-05-09 | 2023-05-11 |
-| [Įkliuvau](https://open.spotify.com/track/3gmO6f3WDuorQqxTjqjATO) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Įkliuvau](https://open.spotify.com/album/3OlGDHgw26Qmr4WiKIgndF) | 3:10 | 2025-01-05 | 2025-02-14 |
+| [Įkliuvau](https://open.spotify.com/track/3gmO6f3WDuorQqxTjqjATO) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Įkliuvau](https://open.spotify.com/album/3OlGDHgw26Qmr4WiKIgndF) | 3:10 | 2025-01-05 |  |
 | [Įstriži Žiburiai](https://open.spotify.com/track/38CO0Oimej5K8iYiKZoCjD) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Roboxai](https://open.spotify.com/album/4O5QYdHdL78smBZ8yF4H79) | 6:08 | 2023-06-12 | 2023-06-14 |
 | [Šampanas \(bul bul bul\)](https://open.spotify.com/track/6fd5kDvxREHQVUOtreViXO) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Šampanas \(bul bul bul\)](https://open.spotify.com/album/7u41qXp5altFUhrPxqFfS3) | 3:39 | 2022-12-09 | 2022-12-14 |
 | [Šauksmas](https://open.spotify.com/track/6nuXB67lyPip9QahGEWPV5) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3) | [Šauksmas](https://open.spotify.com/album/4wzuYeXrI7Z2t3CThd0eiU) | 3:00 | 2023-01-23 | 2023-01-29 |

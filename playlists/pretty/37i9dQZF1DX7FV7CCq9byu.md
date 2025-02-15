@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,413 likes - 113 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,437 likes - 113 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 112 | [Komma över dig](https://open.spotify.com/track/3nnq5v3pPs5WUAFL5TqLk9) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Slitna Hjärtan](https://open.spotify.com/album/7GZNaSTVttqQPKnqcU0TaM) | 2:34 |
 | 113 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 
-Snapshot ID: `Z655ggAAAABF9EizlX1m8OzDrRL6zRBN`
+Snapshot ID: `Z655ggAAAACihjLaxbcvwegYSMcDvgB4`

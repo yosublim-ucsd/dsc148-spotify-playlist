@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Abundance",
+        "url": "https://open.spotify.com/album/1tef4V3KOMOJ0yFzZ6ftkO"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157988,
+      "name": "Abundance",
+      "url": "https://open.spotify.com/track/60OuHtXgkh6ReRHpsGsmeh"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 230447,
       "name": "Calm Dreams",
       "url": "https://open.spotify.com/track/6nlpDEKjy3VecZrhmaCV27"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 185700,
       "name": "Earth",
       "url": "https://open.spotify.com/track/6trBzOG5bELahnPI7JsEXF"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194500,
       "name": "Enceladus",
       "url": "https://open.spotify.com/track/1vM37DmO8WQjzkDP9Jpfkb"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167886,
       "name": "Hiemal",
       "url": "https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP"
@@ -3563,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "I No Longer",
+        "url": "https://open.spotify.com/album/3gDcO9iMKGDvJd6JQjwLBp"
+      },
+      "artists": [
+        {
+          "name": "Alsephina",
+          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "I No Longer",
+      "url": "https://open.spotify.com/track/0rmzAXnphIcK81GsZizDIX"
+    },
+    {
+      "album": {
         "name": "Ich W\u00fcnsche",
         "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
       },
@@ -3704,6 +3740,24 @@
       "duration_ms": 147428,
       "name": "Indiglow",
       "url": "https://open.spotify.com/track/5B7jFzHOJsESyrj7gMpwEQ"
+    },
+    {
+      "album": {
+        "name": "Inner Healing",
+        "url": "https://open.spotify.com/album/4f5ww1dpmq9BfcaUTKK6V5"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Inner Healing",
+      "url": "https://open.spotify.com/track/4tI95LGsuUT7fiQhCCYJB6"
     },
     {
       "album": {
@@ -4024,7 +4078,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
@@ -4211,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Lydian Shadows",
+        "url": "https://open.spotify.com/album/5bDoLzPO1N96d3wwuszYm0"
+      },
+      "artists": [
+        {
+          "name": "Casiamty",
+          "url": "https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188850,
+      "name": "Lydian Shadows",
+      "url": "https://open.spotify.com/track/1Uxhe17wL8EczXVi1snIiZ"
+    },
+    {
+      "album": {
         "name": "Magnetic Reflections",
         "url": "https://open.spotify.com/album/4Dz3P1ZJajvtDyHRgpkpD5"
       },
@@ -4384,7 +4456,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 215624,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1SeMYlrSOaTF2edVkdmnuo"
@@ -4510,7 +4582,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 138361,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n"
@@ -7469,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "The Space Between Dreams",
+        "url": "https://open.spotify.com/album/01QW1tgRNQ6KEldWrvDVFk"
+      },
+      "artists": [
+        {
+          "name": "OmniBrain",
+          "url": "https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180851,
+      "name": "The Space Between Dreams",
+      "url": "https://open.spotify.com/track/42sptsSu3qydbov3DVQqnj"
+    },
+    {
+      "album": {
         "name": "Theophany",
         "url": "https://open.spotify.com/album/02CJpNiCy16AE83DUcJq9f"
       },
@@ -7955,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "Undercurrent Glow",
+        "url": "https://open.spotify.com/album/2E0uq6q17lYee5yrClQ6Jl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Aitken",
+          "url": "https://open.spotify.com/artist/4iNaAt0nGzKP7TkyoCLmz1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Undercurrent Glow",
+      "url": "https://open.spotify.com/track/6V74U7aWXWfg02YPlXA0cF"
+    },
+    {
+      "album": {
         "name": "Une autre fois",
         "url": "https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf"
       },
@@ -8172,6 +8280,24 @@
       "duration_ms": 212307,
       "name": "Wave After Wave",
       "url": "https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/2kBq9nYjXyi89NUUOHbsAk"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171131,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3Jmgl8YRYVBIwBNFvEPnyh"
     },
     {
       "album": {

@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "ALL IN VEIN",
+        "url": "https://open.spotify.com/album/7D7zpHtUfmqecSWPes3B1D"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187088,
+      "name": "ALL IN VEIN",
+      "url": "https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm"
+    },
+    {
+      "album": {
         "name": "All Love",
         "url": "https://open.spotify.com/album/4caugWnAy3BnnO0Mursabk"
       },
@@ -5222,6 +5240,24 @@
       "duration_ms": 199440,
       "name": "Cream Corn",
       "url": "https://open.spotify.com/track/4qHomAyRWyZKeaQOi3uMfo"
+    },
+    {
+      "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
     },
     {
       "album": {
@@ -11060,7 +11096,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 236365,
       "name": "I Thought You Loved Me",
       "url": "https://open.spotify.com/track/2VBoEzOyOj2LS7ste20pHb"
@@ -16258,7 +16294,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 154694,
       "name": "panama",
       "url": "https://open.spotify.com/track/0Urdofa6bgikxzV1F7SD5F"
@@ -16542,7 +16578,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 162911,
       "name": "pesticides",
       "url": "https://open.spotify.com/track/4ZUeoTIJLu74h6oUaO66ve"
@@ -16666,6 +16702,28 @@
       "duration_ms": 155505,
       "name": "Pictures On My Wall",
       "url": "https://open.spotify.com/track/17IOwU3ETt4Tf3YR8u0tPf"
+    },
+    {
+      "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
     },
     {
       "album": {
@@ -18664,7 +18722,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 169273,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/2VOnMNQWQ44OqHWwvXn5z6"
@@ -19237,6 +19295,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148509,
+      "name": "SMALL TOWN FAME",
+      "url": "https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU"
+    },
+    {
+      "album": {
         "name": "Small Victories (feat. Dom Chronicles)",
         "url": "https://open.spotify.com/album/0Z1t8p9GCoqx3iRqHbhteJ"
       },
@@ -19506,6 +19582,24 @@
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "album": {
+        "name": "I Did More with Less (V1)",
+        "url": "https://open.spotify.com/album/1KaGHXmdSfbjkhZB00La6E"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Soldier of Fortune",
+      "url": "https://open.spotify.com/track/5Il7oTWYWKcMxESSVcEQRr"
     },
     {
       "album": {
@@ -20721,6 +20815,24 @@
     },
     {
       "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/0Fl9DWlkdTo49fONygfWHa"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/0bh9R4sWPfWlfAjsQlPLPI"
+    },
+    {
+      "album": {
         "name": "Syrup Sandwiches (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
       },
@@ -20824,7 +20936,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 142463,
       "name": "Talkin' Legit",
       "url": "https://open.spotify.com/track/6GVq7FGSMedCwTHHwwQhJw"

@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 82192,
+  "num_followers": 82201,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -120,6 +120,30 @@
       "added_at": "2022-06-27 14:42:44",
       "album": {
         "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "La traviata / Act III: Prelude",
+      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La Traviata",
         "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
       },
       "artists": [
@@ -143,30 +167,6 @@
       "duration_ms": 213133,
       "name": "La traviata, Act II: Lunge da lei - De' miei bollenti spiriti",
       "url": "https://open.spotify.com/track/2wcaQSBshsekwpHINTWHkG"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "La traviata / Act III: Prelude",
-      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
     },
     {
       "added_at": "2022-06-27 14:42:44",

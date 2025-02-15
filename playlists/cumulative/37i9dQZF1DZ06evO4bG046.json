@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367866,
+      "name": "Elqui",
+      "url": "https://open.spotify.com/track/0Q87TsqieLf4EJ8p7t6IXr"
+    },
+    {
+      "album": {
         "name": "Hijos de la Tierra",
         "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 663000,
       "name": "Y Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23"

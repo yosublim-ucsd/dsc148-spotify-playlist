@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,442 likes - 50 songs - 3 hr 33 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,443 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 6 | [Reframing](https://open.spotify.com/track/0q01PkXaaxdmKlt12EcBOx) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Reframing](https://open.spotify.com/album/7eBFplzkHrhvcSeoDDqmHb) | 3:59 |
 | 7 | [Evil People](https://open.spotify.com/track/7cN8cOJz5pKSHXXYtv0buD) | [MIEN](https://open.spotify.com/artist/0fl9voNu6x7TSuYnLb1amp) | [Evil People](https://open.spotify.com/album/18t5f98d04Ovz9rt3jaa98) | 4:25 |
 | 8 | [Fault Lines](https://open.spotify.com/track/0udgZAJkF27PfqpbEqiTek) | [Brown Spirits](https://open.spotify.com/artist/6kGqdMrX1clLXAOCnA7S6h) | [Cosmic Seeds](https://open.spotify.com/album/7gHQfYIe5gUmpvWA0k8vU4) | 10:10 |
-| 9 | [Thoughts And Pleasure](https://open.spotify.com/track/7zZ2PvwgqyCRYVPeFCG87J) | [Affaire](https://open.spotify.com/artist/6OrprRHbuMRfnyIwscVqg5) | [Internal Swing](https://open.spotify.com/album/24EXGh3fooFU2b9CrJXJS8) | 3:33 |
+| 9 | [Thoughts and Pleasure](https://open.spotify.com/track/7zZ2PvwgqyCRYVPeFCG87J) | [Affaire](https://open.spotify.com/artist/6OrprRHbuMRfnyIwscVqg5) | [Internal Swing](https://open.spotify.com/album/24EXGh3fooFU2b9CrJXJS8) | 3:33 |
 | 10 | [Long Country](https://open.spotify.com/track/4VWcztOMTxbvSGoyhqllJJ) | [Moontype](https://open.spotify.com/artist/1A0MGKQWFrqBVWMuI9984t) | [Long Country](https://open.spotify.com/album/74AQSuXY0hWcsLcNvADRgJ) | 4:16 |
 | 11 | [Strike](https://open.spotify.com/track/1QE2k10Dw91OSHy5FNC2EL) | [Tirez Tirez](https://open.spotify.com/artist/7zopVXYKcfoAyJWuNpnOtD) | [Strike](https://open.spotify.com/album/6gQCagpIQGiiCcdBTy9zRU) | 6:15 |
 | 12 | [Polaroid](https://open.spotify.com/track/6xOCOb2R79tpNZB5OMQSoA) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0tBJ4l7XEt3q5qYhBEug6H) | 3:47 |

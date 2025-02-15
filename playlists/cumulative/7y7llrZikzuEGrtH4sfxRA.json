@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170625,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1sOwmJDTVCHvfrrZy2lMd5"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 132311,
       "name": "Bass In Da Blood",
       "url": "https://open.spotify.com/track/2RvpQFVb9ZTStAm4qJSRf2"
@@ -1926,6 +1926,24 @@
       "duration_ms": 183750,
       "name": "Blacked Out Rova",
       "url": "https://open.spotify.com/track/0xTVjcrfYAELO1VK1EFVHK"
+    },
+    {
+      "album": {
+        "name": "Blocked",
+        "url": "https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Blocked",
+      "url": "https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH"
     },
     {
       "album": {
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 203225,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/2H7BfJp5ojXhCdOMt161CR"
@@ -2656,6 +2674,28 @@
       "duration_ms": 203442,
       "name": "Britney",
       "url": "https://open.spotify.com/track/3yaKVNOMDF13VbqCyY8e1S"
+    },
+    {
+      "album": {
+        "name": "Brotherhood & Family",
+        "url": "https://open.spotify.com/album/6nPnl5kuLsC1QOYFJifDFS"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        },
+        {
+          "name": "Class Sick",
+          "url": "https://open.spotify.com/artist/1RHNusDa8NH1uyMeDyJYEc"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Brotherhood & Family",
+      "url": "https://open.spotify.com/track/6T1o2CfLOCT25mqWItniAC"
     },
     {
       "album": {
@@ -3761,6 +3801,28 @@
     },
     {
       "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137595,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
+    },
+    {
+      "album": {
         "name": "Contra La Pared",
         "url": "https://open.spotify.com/album/1E9RzR8JZXsWmoCgD3CeHT"
       },
@@ -3892,7 +3954,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 196407,
       "name": "Crash - Edit",
       "url": "https://open.spotify.com/track/2BcP9dWcgnSulaBX4slUnC"
@@ -4707,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "Disco Tetris (Riordan Remix)",
+        "url": "https://open.spotify.com/album/3uaf3JOTGr8G05F6DMmt3L"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196652,
+      "name": "Disco Tetris - Riordan Remix",
+      "url": "https://open.spotify.com/track/0aWhTCjzK2gqXQNPODbmPi"
+    },
+    {
+      "album": {
         "name": "Diva Drums",
         "url": "https://open.spotify.com/album/5bo5yDSoZKDrZbkhj6eOgz"
       },
@@ -5102,7 +5186,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"
@@ -5346,6 +5430,28 @@
       "duration_ms": 211874,
       "name": "Dynamite Attraction",
       "url": "https://open.spotify.com/track/6TozrSQ9iwJEU8IZMjY4KM"
+    },
+    {
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "album": {
@@ -6210,6 +6316,28 @@
       "duration_ms": 191686,
       "name": "Flex Like Ouu",
       "url": "https://open.spotify.com/track/23yALQrKmnMBrr0IgXD7za"
+    },
+    {
+      "album": {
+        "name": "Flex My Ice",
+        "url": "https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "JV",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Flex My Ice",
+      "url": "https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R"
     },
     {
       "album": {
@@ -7205,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "Give Me One Reason",
+        "url": "https://open.spotify.com/album/0azWUoqVxXAnHzI4ly3s11"
+      },
+      "artists": [
+        {
+          "name": "Pawel\u014d",
+          "url": "https://open.spotify.com/artist/76xuVwMGa55gY2pQcp8fqH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/0RUOqcKBZqY84EPGzr2WXZ"
+    },
+    {
+      "album": {
         "name": "Give Me Something To Hold",
         "url": "https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU"
       },
@@ -7450,7 +7596,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 179076,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/3oVrwqVtzEBoM6H30yW1Bw"
@@ -7627,6 +7773,28 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Lauren Nicole",
+          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195795,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
+    },
+    {
+      "album": {
         "name": "Grindhouse",
         "url": "https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s"
       },
@@ -7722,7 +7890,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182612,
       "name": "Gucci Belter",
       "url": "https://open.spotify.com/track/79ZdfvmdvHCuURJwWy7aGj"
@@ -8024,7 +8192,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 189393,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/1Zg4Xo5jYzS3ZarGYt0S8o"
@@ -8246,7 +8414,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 207187,
       "name": "Hoochie Mama",
       "url": "https://open.spotify.com/track/44AB7BArqjcgQL1I7CtR7H"
@@ -10760,7 +10928,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 208615,
       "name": "Magic Stick",
       "url": "https://open.spotify.com/track/1UAEgDRgR3c4wxDsjuQycD"
@@ -11215,6 +11383,28 @@
     },
     {
       "album": {
+        "name": "Mirror Machine (feat. Aurelia Ray)",
+        "url": "https://open.spotify.com/album/2kOMPQL3Dh0txs9SLyrKbM"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Aurelia Ray",
+          "url": "https://open.spotify.com/artist/1XBlyH8em537ST8B4bifds"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Mirror Machine (feat. Aurelia Ray)",
+      "url": "https://open.spotify.com/track/02idOTV7xd70dtWv5ALKNt"
+    },
+    {
+      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct"
       },
@@ -11469,6 +11659,24 @@
     },
     {
       "album": {
+        "name": "MY LOGIC IS UNDENIABLE",
+        "url": "https://open.spotify.com/album/3fORfQmd75xJB4MDYPtQGK"
+      },
+      "artists": [
+        {
+          "name": "DONT BLINK",
+          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "MY LOGIC IS UNDENIABLE",
+      "url": "https://open.spotify.com/track/5MGnnzKIKpTYaf0XklQUI1"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/73CFCmzyQEVRGIMk2nJOjw"
       },
@@ -11502,6 +11710,28 @@
       "duration_ms": 200930,
       "name": "My World",
       "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
+    },
+    {
+      "album": {
+        "name": "M\u00e9nage \u00c0 Trois",
+        "url": "https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "M\u00e9nage \u00c0 Trois",
+      "url": "https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3"
     },
     {
       "album": {
@@ -11648,6 +11878,24 @@
       "duration_ms": 408188,
       "name": "Neves Seen Me Broken",
       "url": "https://open.spotify.com/track/3m9Yk7eyvB3sz6AN2Zg9H9"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5mIVoJvouor306Nt5ksvxG"
+      },
+      "artists": [
+        {
+          "name": "Facu Baez",
+          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/3T2MjGKDrI72m7dsJCHwfC"
     },
     {
       "album": {
@@ -11931,6 +12179,28 @@
     },
     {
       "album": {
+        "name": "No Phones",
+        "url": "https://open.spotify.com/album/39RwcwK6KmYEXaMlFmeGcR"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "No Phones",
+      "url": "https://open.spotify.com/track/5Ctacqj7cOVHtOcO8ZYZ57"
+    },
+    {
+      "album": {
         "name": "No Reason (Chris Lake Remix)",
         "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
       },
@@ -11972,6 +12242,28 @@
       "duration_ms": 146195,
       "name": "No Sleep (6AM) (feat. MERYLL)",
       "url": "https://open.spotify.com/track/0jysmgQMnBKscPZId7OJ6B"
+    },
+    {
+      "album": {
+        "name": "No Sleep (No Me Dejan Dormir)",
+        "url": "https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158387,
+      "name": "No Sleep (No Me Dejan Dormir)",
+      "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
     },
     {
       "album": {
@@ -12584,7 +12876,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222000,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
@@ -14106,7 +14398,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174545,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/2MO9WiFblhthHqQp0etUxO"
@@ -14810,7 +15102,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234418,
       "name": "Seeking Pleasure",
       "url": "https://open.spotify.com/track/03eCZwVZ6nWfeXqDqiqwZF"
@@ -15030,7 +15322,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 200314,
       "name": "Serotonine",
       "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
@@ -16216,7 +16508,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 179779,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
@@ -16290,7 +16582,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
@@ -17514,7 +17806,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 360000,
       "name": "The Future",
       "url": "https://open.spotify.com/track/7yVuXhrFNUYi4GpwzIa3Yy"
@@ -17980,7 +18272,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 243778,
       "name": "Throw Some Ass (Mia Moretti Remix)",
       "url": "https://open.spotify.com/track/4J4xwnEbSqpw8h6oU6lVbW"
@@ -18654,7 +18946,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167175,
       "name": "Up N Down",
       "url": "https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"
@@ -19589,6 +19881,28 @@
     },
     {
       "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/78etpPc0HG5XWwwS5IjHas"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180581,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/0MkgKIH4HjPzHE83djey6b"
+    },
+    {
+      "album": {
         "name": "Worship Technology",
         "url": "https://open.spotify.com/album/59BIcecdsJYLnQEnu0ihZ5"
       },
@@ -19788,7 +20102,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 171904,
       "name": "You Get Down",
       "url": "https://open.spotify.com/track/2nnMjKBlJBnU6cPDXtXEDA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jan Roberts",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: 12th Street",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "bestfriend",
+        "url": "https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158625,
+      "name": "bestfriend",
+      "url": "https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i"
+    },
+    {
+      "album": {
         "name": "better than he does",
         "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
       },
@@ -575,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153918,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
+    },
+    {
+      "album": {
         "name": "Bulaklak Sa Buwan",
         "url": "https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9"
       },
@@ -630,6 +666,24 @@
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4"
+      },
+      "artists": [
+        {
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213021,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6"
     },
     {
       "album": {
@@ -727,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Dalhin",
+        "url": "https://open.spotify.com/album/5dATmO1n6tZVqCFS3v3cDe"
+      },
+      "artists": [
+        {
+          "name": "Noah Raquel",
+          "url": "https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182166,
+      "name": "Dalhin",
+      "url": "https://open.spotify.com/track/1MZzrI9wTbWgASgaelBAtG"
+    },
+    {
+      "album": {
         "name": "damdamin!",
         "url": "https://open.spotify.com/album/6XY5qKaYLnZjE5boyV3vZS"
       },
@@ -738,7 +810,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 227812,
       "name": "damdamin!",
       "url": "https://open.spotify.com/track/6nrGNaUnAtLTbXMW4k9kKE"
@@ -1002,6 +1074,24 @@
       "duration_ms": 230000,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0"
+    },
+    {
+      "album": {
+        "name": "Find Another Love",
+        "url": "https://open.spotify.com/album/2xk00SYbN5xl064cT1bGn9"
+      },
+      "artists": [
+        {
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Find Another Love",
+      "url": "https://open.spotify.com/track/4t8bCIdlwY7Qdp2gqY4MtD"
     },
     {
       "album": {
@@ -1414,7 +1504,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 198000,
       "name": "Hiraya",
       "url": "https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5"
@@ -1628,6 +1718,24 @@
       "duration_ms": 276000,
       "name": "Isa Dalawa Tatlo",
       "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
+    },
+    {
+      "album": {
+        "name": "Suyen Imnida",
+        "url": "https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA"
+      },
+      "artists": [
+        {
+          "name": "SUYEN",
+          "url": "https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206062,
+      "name": "Isang Linggong Maghihintay",
+      "url": "https://open.spotify.com/track/2Wsd2xDZCL1Ng6MUwQMuVK"
     },
     {
       "album": {
@@ -2028,7 +2136,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 249725,
       "name": "Lagi Na Lang",
       "url": "https://open.spotify.com/track/3PweW0iw8tbD3bGHbKvteg"
@@ -2158,7 +2266,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 167400,
       "name": "Ligaw Na Bullet",
       "url": "https://open.spotify.com/track/2BL9FaDzqMagOViRAKjJCY"
@@ -2374,7 +2482,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 206250,
       "name": "M.I.N.O.Y.",
       "url": "https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A"
@@ -2823,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Moving Closer (From the Cafe)",
+        "url": "https://open.spotify.com/album/6Yyrh5UVmaRqdl3YPQ6jtA"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Moving Closer - From the Cafe",
+      "url": "https://open.spotify.com/track/1kAyLWCiJfTDhm56kaOXnO"
+    },
+    {
+      "album": {
         "name": "Mula sa Malayo",
         "url": "https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z"
       },
@@ -3097,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Oh, Irog",
+        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
+      },
+      "artists": [
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296714,
+      "name": "Oh, Irog",
+      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
+    },
+    {
+      "album": {
         "name": "Oksihina",
         "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
       },
@@ -3156,7 +3300,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 324000,
       "name": "OYAYI",
       "url": "https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3"
@@ -3232,7 +3376,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 195529,
       "name": "Pagbilang ng Tatlo",
       "url": "https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z"
@@ -3326,7 +3470,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 226666,
       "name": "Pamamaalam",
       "url": "https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr"
@@ -3912,7 +4056,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 197560,
       "name": "Sana Ikaw Ay Masaya",
       "url": "https://open.spotify.com/track/5xXeVq7dZsGyaXBEjnADUD"

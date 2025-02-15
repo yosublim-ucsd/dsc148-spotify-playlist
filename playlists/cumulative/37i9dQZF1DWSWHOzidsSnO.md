@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen!
 
-477 songs - 1 day 2 hr 2 min
+478 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Amor de mi vida](https://open.spotify.com/track/53TlwMMz8k4wrfmcXyALIq) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Amor de mi vida](https://open.spotify.com/album/1PpckLJMITfyaGw4yrWCZu) | 3:04 | 2022-08-03 |  |
 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 | 2024-10-02 | 2024-11-07 |
 | [Antonia](https://open.spotify.com/track/74T7fxdDqnDiqRX3ezajVj) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Amores Prestados \(Pt\. 1\)](https://open.spotify.com/album/3sVsdIw45I4vbjoK5Lowit) | 3:31 | 2024-03-06 | 2024-04-04 |
-| [Apartamento](https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Apartamento](https://open.spotify.com/album/0ime5jbko8tGB7Ca1khdQY) | 2:51 | 2024-09-19 |  |
+| [Apartamento](https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Apartamento](https://open.spotify.com/album/0ime5jbko8tGB7Ca1khdQY) | 2:50 | 2024-09-19 |  |
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2023-11-21 |  |
 | [Aquello](https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Aquello](https://open.spotify.com/album/61QtJjPRIjhMRHGFToskyk) | 3:06 | 2022-01-05 | 2023-06-08 |
 | [Arráncame las ganas \- Primer Conjuro](https://open.spotify.com/track/5Pz8gWDuyF07TwvqFdmlsD) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Arráncame las ganas \(Primer Conjuro\)](https://open.spotify.com/album/54kqmsWB0dt0PAVbpF8pGZ) | 2:21 | 2022-01-05 | 2024-06-06 |
@@ -339,7 +339,7 @@
 | [Offline](https://open.spotify.com/track/4Y5HegnzLUFaLjKIMEqLpP) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Tornasol](https://open.spotify.com/album/149LCaGwgK2z2beJhLPoFT) | 2:50 | 2024-06-05 | 2024-07-04 |
 | [Ojos Noche](https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL) | 4:00 | 2022-01-05 | 2022-03-10 |
 | [Otra Noche](https://open.spotify.com/track/3C0vi2SWp7OJgY7FFw2jSf) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Otra Noche](https://open.spotify.com/album/1l0btR04DDd3N4hQ6Z4nBf) | 2:41 | 2022-03-09 | 2022-04-07 |
-| [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 | 2022-03-04 |  |
+| [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 | 2022-03-04 | 2025-02-15 |
 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 | 2022-01-05 | 2022-11-03 |
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2024-04-03 | 2024-05-02 |
 | [Pa' Que Bailen](https://open.spotify.com/track/2WJkwdvKDAiCi8SL0Njq3M) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [ZooMusic](https://open.spotify.com/artist/0d6OtwqpMaXDLWo33AsNP4) | [Mundo Lila](https://open.spotify.com/album/0GJCg7JYfBjft9bskSQVc7) | 3:13 | 2024-06-05 | 2024-07-04 |
@@ -429,6 +429,7 @@
 | [Todo por Decir](https://open.spotify.com/track/3zGWhNp4OPM0lWA0EU6sIn) | [Catalina Avila](https://open.spotify.com/artist/0LB0EI1TU5WBU2tI0aXDaK), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Todo por Decir](https://open.spotify.com/album/1du3Ki9h7sUNzoKgggKrDy) | 3:12 | 2022-01-05 | 2023-11-02 |
 | [Todo Va a Pasar](https://open.spotify.com/track/5fqMd8wj6g33JilSxH45uG) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Fantasmas](https://open.spotify.com/album/1h1XTpLwa6pVCKOwdNJkZL) | 3:34 | 2024-09-04 | 2024-11-07 |
 | [Too Many Drugs](https://open.spotify.com/track/36Ylur9D9t6AMcu6wCs2Bh) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Too Many Drugs](https://open.spotify.com/album/120JLkLLKpQJsfLLGngZly) | 5:29 | 2024-10-02 | 2024-11-07 |
+| [Toro Mata](https://open.spotify.com/track/4i0ilHWuJ4RAAvJQPhTtTn) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Conjuros](https://open.spotify.com/album/58mvisxNHI8H9OFFi1cbhp) | 4:26 | 2025-02-14 |  |
 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \(Radio Edit\)](https://open.spotify.com/track/1XBsBgbxKbdDeY6fN8QqjF) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/0uoDct7NFsOKhiOMnbTQ1u) | 4:53 | 2022-01-05 | 2022-07-29 |
 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \- Radio Edit](https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx) | 4:53 | 2022-07-06 | 2023-01-05 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-03-01 | 2024-11-07 |

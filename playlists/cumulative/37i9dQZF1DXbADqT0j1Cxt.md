@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-700 songs - 21 hr 22 min
+701 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Itsy, Bitsy, Spider](https://open.spotify.com/track/6TPoXdkGtObr0WUQiwoLlF) | [Ella Grayce](https://open.spotify.com/artist/0xlgMD86mCmI7gBsW2V94o) | [Itsy, Bitsy, Spider](https://open.spotify.com/album/7BAoh1fA9fXuc1Rt6HEKoB) | 1:32 | 2024-07-19 |  |
 | [I’m A Little Teapot](https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU) | [Lindsay Felan](https://open.spotify.com/artist/2IYSQrJKkRaNmPk0oOxbwZ) | [I’m A Little Teapot](https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH) | 1:28 | 2022-07-27 | 2024-05-04 |
 | [Jack and Jill](https://open.spotify.com/track/4kdgBw3FKnPwo6W2VzP4zg) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Jack and Jill](https://open.spotify.com/album/2bttGrUetauxvBu9dDlFlU) | 1:39 | 2023-12-22 |  |
+| [John Blund](https://open.spotify.com/track/3TptFEpWAROx6OhMIoEnJr) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [John Blund](https://open.spotify.com/album/3Hf2K2RsfxUiMmXS2X1i4R) | 2:01 | 2025-02-14 |  |
 | [John Brown's Song](https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [John Brown's Song](https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB) | 1:51 | 2023-10-20 | 2024-05-24 |
 | [John Brown's Song](https://open.spotify.com/track/0SjsIzJkZfDU7wlcdklEFR) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 3:05 | 2021-10-07 | 2022-10-29 |
 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/5jKQHphChhO4Yaw6atWRp2) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/4QmcOQ9WeGNe6KcrYf1jfK) | 1:49 | 2023-12-08 |  |

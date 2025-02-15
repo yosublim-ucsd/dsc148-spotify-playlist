@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,034 likes - 154 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,047 likes - 154 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 44 | [Jesus Christ Emmanuel](https://open.spotify.com/track/5SVfg0ZETYNiOCrqn8Bg3V) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Jesus Christ Emmanuel](https://open.spotify.com/album/73ALowPA66Ped9XqRQ3fmG) | 3:58 |
 | 45 | [Safe](https://open.spotify.com/track/43IbCqMcMvZi1v16LFAE3n) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP), [Isa Fabregas](https://open.spotify.com/artist/3a8Yd48qmlBOPEo0suXTAx) | [Safe](https://open.spotify.com/album/6tY9D3t5iaNtzrC1a3Q440) | 4:49 |
 | 46 | [U.R.](https://open.spotify.com/track/59RXrifYHhI0ikAa3srRjV) | [Rutella](https://open.spotify.com/artist/1LKE1tOJHPl3jNjmLhTTMy), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [U.R.](https://open.spotify.com/album/5B1w6BGv6j1wLtfXWhgaeh) | 3:37 |
-| 47 | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o) | 7:09 |
+| 47 | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs) | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o) | 7:09 |
 | 48 | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ) | 4:15 |
 | 49 | [By His Name](https://open.spotify.com/track/3WwWLtqmminHSBcuHo8ntX) | [City Music](https://open.spotify.com/artist/5F8nvMmczCCKs8ypk4akD2) | [By His Name](https://open.spotify.com/album/60GW1rHJVLGhcNSELhlItz) | 5:56 |
 | 50 | [Lilim \(In Your Shelter\)](https://open.spotify.com/track/43xHLToY9KFqmYAuqZ1xpF) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Lilim \(In Your Shelter\)](https://open.spotify.com/album/0ERLfNl2ATWh66pIPIeysD) | 6:09 |

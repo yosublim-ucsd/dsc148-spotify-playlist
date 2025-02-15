@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194757,
       "name": "Coming Home (Ballad of the Shire)",
       "url": "https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J"
@@ -910,6 +910,24 @@
       "duration_ms": 249733,
       "name": "Ripple - 2013 Remaster",
       "url": "https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI"
+    },
+    {
+      "album": {
+        "name": "Grand Man",
+        "url": "https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN"
+      },
+      "artists": [
+        {
+          "name": "Rusty Williams",
+          "url": "https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192283,
+      "name": "Riverboat Gambler",
+      "url": "https://open.spotify.com/track/2yHOpSm8MroxPxTozRL04R"
     },
     {
       "album": {

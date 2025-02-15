@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,589 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,604 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 10 | [Everything](https://open.spotify.com/track/61nfJmJlwatT1hCs8wbEpf) | [The Getty Girls](https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Everything \- Hymns for Little Hearts](https://open.spotify.com/album/08yNkH69ff1XXIRrQlykgS) | 2:14 |
 | 11 | [God Is for Me](https://open.spotify.com/track/4iOtTdKbyUQubznmPCV7BM) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Celebrate](https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7) | 2:49 |
 | 12 | [Philippians 4:13](https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Philippians 4:13](https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW) | 2:00 |
-| 13 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
+| 13 | [Let Your Light Shine](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 14 | [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 |
 | 15 | [Genesis 1:1 Fun](https://open.spotify.com/track/7mO7mXYnJTUONDkqEWVFcE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [My Sing Along Bible Vol\. 1](https://open.spotify.com/album/2QCaxldFS9yclFsaZWGFNn) | 1:43 |
 | 16 | [The Ten Commandments](https://open.spotify.com/track/3gDgLB3yCTirBi4yFa5y64) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [The Ten Commandments](https://open.spotify.com/album/2ucvPEJdeiyUbnvqecfyu6) | 3:31 |

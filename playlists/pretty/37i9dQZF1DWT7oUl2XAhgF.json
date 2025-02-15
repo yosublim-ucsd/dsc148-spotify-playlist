@@ -1,13 +1,45 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 356835,
+  "num_followers": 356886,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTZgAAAAC1J5DG6Kl+ffmDBiFTuw2T",
+  "snapshot_id": "Z67N3gAAAABhMj5jRUolFoHys/o+/z1f",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:14",
+      "album": {
+        "name": "ICNBYH",
+        "url": "https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 197305,
+      "name": "ICNBYH",
+      "url": "https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A"
+    },
+    {
+      "added_at": "2025-02-14 05:00:14",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf"
+    },
     {
       "added_at": "2025-02-07 05:00:22",
       "album": {
@@ -87,22 +119,6 @@
       "duration_ms": 185570,
       "name": "IDGAF (but I care)",
       "url": "https://open.spotify.com/track/17Fg2PKD5iipVst2gm5fJ3"
-    },
-    {
-      "added_at": "2025-01-10 05:00:09",
-      "album": {
-        "name": "Your Light",
-        "url": "https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6"
     },
     {
       "added_at": "2025-02-07 05:00:22",
@@ -1639,30 +1655,6 @@
       "duration_ms": 222936,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Wish I Said I Love You",
-        "url": "https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilkins",
-          "url": "https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS"
-        },
-        {
-          "name": "Adonai Melod\u00edas",
-          "url": "https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI"
-        },
-        {
-          "name": "meka maraschino",
-          "url": "https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn"
-        }
-      ],
-      "duration_ms": 154142,
-      "name": "Wish I Said I Love You",
-      "url": "https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m"
     },
     {
       "added_at": "2023-09-01 04:00:00",

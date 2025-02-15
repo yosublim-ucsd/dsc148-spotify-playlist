@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 174116,
       "name": "About You",
       "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
@@ -3041,6 +3041,32 @@
     },
     {
       "album": {
+        "name": "Lagrimas derramadas",
+        "url": "https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "HAT",
+          "url": "https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI"
+        },
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200512,
+      "name": "Lagrimas derramadas",
+      "url": "https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr"
+    },
+    {
+      "album": {
         "name": "lalalala",
         "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
@@ -3592,7 +3618,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 229615,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
@@ -3918,7 +3944,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 122553,
       "name": "Nada me cansa",
       "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
@@ -5704,6 +5730,28 @@
       "duration_ms": 193168,
       "name": "Taba",
       "url": "https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE"
+    },
+    {
+      "album": {
+        "name": "Te encontr\u00e9",
+        "url": "https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Sajiva",
+          "url": "https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160035,
+      "name": "Te encontr\u00e9",
+      "url": "https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4"
     },
     {
       "album": {

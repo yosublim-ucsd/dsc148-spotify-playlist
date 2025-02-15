@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 150000,
       "name": "BABYGIRL (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 155166,
       "name": "BEAT IT SLOW MOTION",
       "url": "https://open.spotify.com/track/1S9ipMvOwD8IGen6O7nzA3"
@@ -4657,6 +4657,28 @@
     },
     {
       "album": {
+        "name": "Paid N Full",
+        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Cuttin Up (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
+    },
+    {
+      "album": {
         "name": "D.U.M.B.",
         "url": "https://open.spotify.com/album/7Fui9neMmG21wgc6fuUluc"
       },
@@ -6999,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "fire em up",
+        "url": "https://open.spotify.com/album/7h8R7EzFO3mhyF8B77L8Mj"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149674,
+      "name": "fire em up",
+      "url": "https://open.spotify.com/track/4PNbCGBCejcBWW8P4vAEJf"
+    },
+    {
+      "album": {
         "name": "Fire Proof",
         "url": "https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI"
       },
@@ -7218,7 +7258,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 170666,
       "name": "For The Movement (feat. Marco Mula, Celly Ru)",
       "url": "https://open.spotify.com/track/7qwm4mq9QZ5hTsHhxuFllH"
@@ -7824,7 +7864,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 227184,
       "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
       "url": "https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb"
@@ -7990,6 +8030,28 @@
       "duration_ms": 170187,
       "name": "GEEK TIM\u00cb",
       "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
+    },
+    {
+      "album": {
+        "name": "WE LOVE D. SAVAGE",
+        "url": "https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Geek'd Up (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/7tiY7jftuuI4UiEhlUm8VO"
     },
     {
       "album": {
@@ -9010,7 +9072,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 163147,
       "name": "Had To",
       "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
@@ -9690,6 +9752,32 @@
       "duration_ms": 133625,
       "name": "Hoedown (with Zoe Osama)",
       "url": "https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3"
+    },
+    {
+      "album": {
+        "name": "Hol' That (feat. Ransom & Coyote)",
+        "url": "https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244805,
+      "name": "Hol' That (feat. Ransom & Coyote)",
+      "url": "https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh"
     },
     {
       "album": {
@@ -10408,7 +10496,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 134442,
       "name": "i understand it now",
       "url": "https://open.spotify.com/track/62vZnEn58o0wnMabatkYm9"
@@ -12042,6 +12130,36 @@
       "duration_ms": 133423,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/3PQ27N3vm2mw9qtbxvO7X2"
+    },
+    {
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Lights Out (feat. John Mackk & Lil Bean)",
+      "url": "https://open.spotify.com/track/0VXacox6s7pB4SRFwcF42I"
     },
     {
       "album": {
@@ -13796,7 +13914,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
@@ -14960,7 +15078,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 210020,
       "name": "Not What You Think",
       "url": "https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt"
@@ -18604,7 +18722,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160800,
       "name": "Shut Yo Mouth (ft. Compton Av & Butch Cassidy)",
       "url": "https://open.spotify.com/track/0KM4rmDyeoehhixvxCjIC7"
@@ -18992,7 +19110,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234285,
       "name": "Slow Your Roll",
       "url": "https://open.spotify.com/track/5evv0npHCui3psMiXq1HX6"
@@ -20979,6 +21097,24 @@
     },
     {
       "album": {
+        "name": "The Flood",
+        "url": "https://open.spotify.com/album/0IREaes6S7BsEPlQkSKjjT"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105655,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/6MZl8I4l90qBugI0zylfPo"
+    },
+    {
+      "album": {
         "name": "The Good Kind",
         "url": "https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29"
       },
@@ -21610,7 +21746,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 180895,
       "name": "TOPLESS",
       "url": "https://open.spotify.com/track/4nMXpLZYke89xP4MV9ClGB"
@@ -22154,7 +22290,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181439,
       "name": "Us In Here",
       "url": "https://open.spotify.com/track/6b7lZPKgK34GhzGBhlJgxh"
@@ -22659,6 +22795,36 @@
     },
     {
       "album": {
+        "name": "Paid N Full",
+        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Wet (feat. Wallie The Sensei, Kalan.frfr, BlueBucksClan)",
+      "url": "https://open.spotify.com/track/4EXQhxvKL0TwQVCxVuL99k"
+    },
+    {
+      "album": {
         "name": "What It Cost Us",
         "url": "https://open.spotify.com/album/6EhrSym1tjiG4McUe78jJW"
       },
@@ -22862,6 +23028,28 @@
       "duration_ms": 150865,
       "name": "What's What (feat. BabyTron)",
       "url": "https://open.spotify.com/track/7DWrnxiwVJ87Kdhzg9IxOx"
+    },
+    {
+      "album": {
+        "name": "Wheels Fall Off (feat. Kanye West)",
+        "url": "https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121153,
+      "name": "Wheels Fall Off (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH"
     },
     {
       "album": {
@@ -23278,7 +23466,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 160714,
       "name": "Yaya Vs Everybody",
       "url": "https://open.spotify.com/track/3l4eovBIZQSaSzYXf1zcDR"

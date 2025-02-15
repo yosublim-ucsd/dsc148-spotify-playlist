@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=xE4hEq1yThGBlaOtdzfpGQ">Cassper Nyovest</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y?si=P3AAjgA7Tgqud7B7\_WOKCg">DJ Kaymoworld</a>
 
-907 songs - 2 day 0 hr 29 min
+908 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Hip Hop is Back](https://open.spotify.com/track/0MjSuaqf50EzjWn3zKPFM9) | [MAN\-TUTU](https://open.spotify.com/artist/1kZaXKhs4S4qgKSQcWf1cd), [Naes, The Great](https://open.spotify.com/artist/7fkMWyniN6MSJz3NkFSX1A) | [April](https://open.spotify.com/album/1s9r1JmdL1RA64EdRYZA3i) | 2:11 | 2022-03-31 | 2022-04-15 |
 | [HOLD MY HAND](https://open.spotify.com/track/45DJyRDn1vaK12izAzbIxL) | [J Clu](https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [HOLD MY HAND](https://open.spotify.com/album/1CogPHezTdAQJkxFf2mSWC) | 3:02 | 2023-10-05 | 2024-04-26 |
 | [Hold You](https://open.spotify.com/track/4E3qABUw4q63Jz13rAtDKA) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Hold You](https://open.spotify.com/album/2SfkZMQlMa31anBJjMniEM) | 2:26 | 2023-03-31 | 2023-04-14 |
+| [Hold You Down](https://open.spotify.com/track/7LsOD1DDFGdGqlISzDscCg) | [DJ Kaymoworld](https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM), [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36) | [Hold You Down](https://open.spotify.com/album/7o3YiJHnQMQlxbABBkjIF2) | 2:55 | 2025-02-14 |  |
 | [Home](https://open.spotify.com/track/6SJAhLQL42EaoJgVCekiv9) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Home](https://open.spotify.com/album/7aBigaxjgOPDnFlIID5pFl) | 3:13 | 2022-02-10 | 2022-03-18 |
 | [Homecoming](https://open.spotify.com/track/66n2tahfrtTvxiquQ2QOOw) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Homecoming](https://open.spotify.com/album/4nK2bNAlz7CPAhWlRs1dok) | 4:03 | 2022-04-14 | 2022-04-23 |
 | [Homeground](https://open.spotify.com/track/7iAAVGVJ59SR7t2nL2VdY3) | [SKHANDAWORLD](https://open.spotify.com/artist/0iiSx3ZdR8ts3ePVzNbbwH), [K.O](https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz), [Ma E](https://open.spotify.com/artist/6OwN3S1Mx86QkRQIaTBiZm), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Welcome To The Planet](https://open.spotify.com/album/32LR9thKImAlV8bpla3CDy) | 4:24 | 2022-12-12 | 2023-05-05 |
@@ -467,7 +468,7 @@
 | [Mama](https://open.spotify.com/track/6QjHkQQv7JJlskkFVKDfbT) | [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [Mama](https://open.spotify.com/album/4nB1Ykb7qPrZNZUXlSWQwg) | 2:43 | 2024-04-25 | 2024-05-10 |
 | [Mama](https://open.spotify.com/track/0Q8D9sgjFqAbkYogCGHYkO) | [Teejay Mokoena](https://open.spotify.com/artist/6V8GQVZuFWQiJexS7Kd1rU), [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [Letso\. M](https://open.spotify.com/artist/1xkFRsYQ3jTtfFbR9Q6LTg), [D.O.XRSA](https://open.spotify.com/artist/5HBzYSvU8mqP5c77uVCIpr) | [Becoming: The Chosen One](https://open.spotify.com/album/1k1NNLgKGKcCVkdgSE6nWN) | 3:45 | 2024-10-31 | 2024-12-07 |
 | [mama’s boy](https://open.spotify.com/track/3xQXVKjgkJnIHBnF5A7HIq) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [mama's boy](https://open.spotify.com/album/1UWS5ywyO5HXFbka0KPCmV) | 2:27 | 2022-04-22 | 2022-04-30 |
-| [Mamelodi](https://open.spotify.com/track/5CX7ThBgUUWn8bfyZ8tgxJ) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt) | [Mamelodi](https://open.spotify.com/album/1B5h4ybkGJEKoNFFxlFsoK) | 2:12 | 2025-01-16 |  |
+| [Mamelodi](https://open.spotify.com/track/5CX7ThBgUUWn8bfyZ8tgxJ) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt) | [Mamelodi](https://open.spotify.com/album/1B5h4ybkGJEKoNFFxlFsoK) | 2:12 | 2025-01-16 | 2025-02-15 |
 | [Manong](https://open.spotify.com/track/3LcBpno74IRUsLrXY5Vm3i) | [Almighty big](https://open.spotify.com/artist/5UJxMULyaYlC6Ai2iZaiNx), [Maholidi](https://open.spotify.com/artist/2jza2cYEZA3ISPZl7iGXmF) | [Manong](https://open.spotify.com/album/6WFX4VlBsyMghZPIHnXZvq) | 3:10 | 2022-10-14 | 2022-12-13 |
 | [MAPARA](https://open.spotify.com/track/73HNc2P8l7xxbnbu7nzUGc) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [DIAL 058](https://open.spotify.com/album/25mPjwGMZweBdlOkciJyEx) | 3:26 | 2024-12-06 |  |
 | [Mashamplane](https://open.spotify.com/track/5hwLsBPKvnHWidXOB00gHw) | [Young GInger](https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E), [Mac Thaso](https://open.spotify.com/artist/6hbAhGI5M0Jw2aM64myG3m) | [Mashamplane](https://open.spotify.com/album/60FPSwQTmqVcXN0FpzEujM) | 2:28 | 2022-04-22 | 2022-05-06 |

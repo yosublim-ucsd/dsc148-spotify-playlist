@@ -1,13 +1,45 @@
 {
-  "description": "a little indie, a little pop.  Cover: corook",
-  "num_followers": 217068,
+  "description": "a little indie, a little pop.  Cover: ROLE MODEL",
+  "num_followers": 217174,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTdAAAAABmTeJQcr4kcyo5K65nZ4Nb",
+  "snapshot_id": "Z69SlgAAAAAs4JTGuEx4ApMQi7ytvl85",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-01-24 05:00:53",
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA"
     },
     {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 150530,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
+    },
+    {
       "added_at": "2025-01-31 05:00:34",
       "album": {
         "name": "Shadowboxing",
@@ -39,6 +87,54 @@
       "duration_ms": 172952,
       "name": "Shadowboxing",
       "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
+    },
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "duration_ms": 236954,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Internet hometown hero",
+        "url": "https://open.spotify.com/album/3YiqDcJoSTFWuHB87yVD8V"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 170484,
+      "name": "HOMESICK",
+      "url": "https://open.spotify.com/track/1fffWiFwKibt8lvSlGz9SG"
+    },
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/70Fw2O4fbQT3AvrrOX0W5Z"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/3xgfy6l8SbBEOUtpAmcCQv"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -61,36 +157,20 @@
       "url": "https://open.spotify.com/track/1glMdie6TCNb8M6KQHZykY"
     },
     {
-      "added_at": "2025-01-24 05:00:53",
+      "added_at": "2025-02-14 14:26:30",
       "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+        "name": "BE MINE",
+        "url": "https://open.spotify.com/album/5D2Vrd4ZMx5u3R49xOMHnX"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
         }
       ],
-      "duration_ms": 159151,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Internet hometown hero",
-        "url": "https://open.spotify.com/album/3YiqDcJoSTFWuHB87yVD8V"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 170484,
-      "name": "HOMESICK",
-      "url": "https://open.spotify.com/track/1fffWiFwKibt8lvSlGz9SG"
+      "duration_ms": 165572,
+      "name": "BE MINE",
+      "url": "https://open.spotify.com/track/6ZGtpEUJ1Zae5QJIv54dTD"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -107,6 +187,22 @@
       "duration_ms": 169013,
       "name": "Coraline",
       "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
+    },
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "In The Middle Of Somewhere",
+        "url": "https://open.spotify.com/album/5Ir8HNOorKRgfKHffWGhn6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "duration_ms": 193759,
+      "name": "Too Much Ain't Enough",
+      "url": "https://open.spotify.com/track/0mzW5gng20UwJV67x4vEUo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -271,26 +367,6 @@
       "duration_ms": 163789,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4m0Dp2qytwtESPIUT7id1L"
-    },
-    {
-      "added_at": "2025-01-31 05:00:34",
-      "album": {
-        "name": "i shouldn\u2019t call you (w/ Nightly)",
-        "url": "https://open.spotify.com/album/2iaPZAC0JXKjD0YrKQY16f"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        },
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "i shouldn\u2019t call you (w/ Nightly)",
-      "url": "https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T"
     },
     {
       "added_at": "2025-01-24 05:00:53",
@@ -821,22 +897,6 @@
       "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
-    },
-    {
       "added_at": "2025-01-10 05:01:06",
       "album": {
         "name": "Alive",
@@ -1027,74 +1087,6 @@
       "duration_ms": 135947,
       "name": "worst case scenario",
       "url": "https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "RICOCHET",
-        "url": "https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 197671,
-      "name": "RICOCHET",
-      "url": "https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Melrose",
-        "url": "https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 148016,
-      "name": "Melrose",
-      "url": "https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Little Acts Of Violence",
-        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
-      },
-      "artists": [
-        {
-          "name": "Ray Bull",
-          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Little Acts Of Violence",
-      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "i don't want you to miss this",
-        "url": "https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p"
-      },
-      "artists": [
-        {
-          "name": "Wells*",
-          "url": "https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41"
-        },
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 158540,
-      "name": "Lose My Lines",
-      "url": "https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN"
     }
   ],
   "unique_name": "soda",

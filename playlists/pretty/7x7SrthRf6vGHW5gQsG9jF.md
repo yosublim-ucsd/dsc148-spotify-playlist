@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 823 songs - 2 day 4 hr 41 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 825 songs - 2 day 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -831,5 +831,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 821 | [zensekai](https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI) | [siraph](https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb) | [zensekai](https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6) | 2:26 |
 | 822 | [signal](https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa) | [sora tob sakana](https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO) | [deep blue](https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o) | 4:02 |
 | 823 | [Another Ride](https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0) | [ippo.tsk](https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof), [Synthesizer V ANRI](https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0) | [Another Ride](https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC) | 3:28 |
+| 824 | [本当だよ](https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [本当だよ](https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z) | 3:33 |
+| 825 | [Kimitoodoretara](https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kimitoodoretara](https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3) | 3:31 |
 
-Snapshot ID: `AAAExS233XRbpgI8epPFwL6pDJjGppR8`
+Snapshot ID: `AAAEx472L0JWBCMr3mvqx85C96TW916y`

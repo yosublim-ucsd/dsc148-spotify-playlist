@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Lady Gaga
+> Grandes hits do BR e do 🌎 / Foto: DENNIS, Luísa Sonza
 
 364 songs - 17 hr 48 min
 

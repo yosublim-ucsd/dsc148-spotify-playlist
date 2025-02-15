@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\.  Cover: HUSH
 
-1,421 songs - 3 day 5 hr 9 min
+1,422 songs - 3 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2022-06-10 | 2023-04-01 |
 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 | 2024-05-06 | 2024-06-06 |
 | [Next Girlfriend](https://open.spotify.com/track/4qveJkXUpldVjDVRaVrdbv) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 1](https://open.spotify.com/album/6TdyxjqgFSWfWETiQ4R0D6) | 2:40 | 2021-12-17 | 2022-05-28 |
+| [Ngày Này, Người Con Gái Này](https://open.spotify.com/track/4ElFTH8hqX7XkzRbCtktfi) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Ngày Này, Người Con Gái Này](https://open.spotify.com/album/7J1wfogVQNgDoiZFaOJIij) | 4:15 | 2025-02-14 |  |
 | [Nice Guy](https://open.spotify.com/track/45Cm2OHPj7L3xaBW94buSS) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Nice Guy](https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp) | 3:03 | 2024-07-09 | 2024-11-13 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-07-28 |
 | [Nie chcę tu wracać już](https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH), [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Nie chcę tu wracać już](https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd) | 4:10 | 2023-05-09 | 2023-06-02 |
@@ -1227,7 +1228,7 @@
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-10 | 2024-03-13 |
 | [The Nail](https://open.spotify.com/track/3IUkUSxYs1ZBYD9vWmIeNJ) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [The Nail](https://open.spotify.com/album/5G1t5RRWuTDmSViUJZ4Dk9) | 2:57 | 2023-01-24 | 2023-01-27 |
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-03-22 | 2022-05-20 |
-| [The Old You](https://open.spotify.com/track/2JBHUMR8tuB0SB6Y6YAiuJ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Inner Me](https://open.spotify.com/album/3WqFzj4MIMv4mZXc1kXiNw) | 5:02 | 2025-02-11 |  |
+| [The Old You](https://open.spotify.com/track/2JBHUMR8tuB0SB6Y6YAiuJ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Inner Me](https://open.spotify.com/album/3WqFzj4MIMv4mZXc1kXiNw) | 5:02 | 2025-02-11 | 2025-02-15 |
 | [The Point Of Living](https://open.spotify.com/track/6x2csnE4Cr1cuJSHmwBdJi) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [The Point Of Living](https://open.spotify.com/album/2G0rmcFmdmnb9oevoSWFgp) | 3:16 | 2024-02-13 | 2024-03-13 |
 | [The Puppetmaster](https://open.spotify.com/track/1oZ6sVprX1VrcApLE17UgC) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [The Puppetmaster](https://open.spotify.com/album/4dNVSIfPWabPGxI7Q6laBL) | 2:29 | 2025-02-11 |  |
 | [the ripple](https://open.spotify.com/track/08wb8OOzVqj7w8bDZHzMKF) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 | 2023-08-08 | 2023-09-13 |

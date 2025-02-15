@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Sabrina Carpenter",
-  "num_followers": 393778,
+  "num_followers": 394411,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z63s6QAAAAA7VsGQUkL/DBjbjIevnL/u",
+  "snapshot_id": "Z67OAAAAAAD5XTg+gsuX2HINiK93IaeZ",
   "tracks": [
     {
       "added_at": "2025-02-13 13:00:25",
@@ -181,20 +181,24 @@
       "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
     },
     {
-      "added_at": "2025-02-13 13:00:25",
+      "added_at": "2025-02-14 05:00:48",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 133885,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -211,6 +215,22 @@
       "duration_ms": 226909,
       "name": "The End",
       "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
+    },
+    {
+      "added_at": "2025-02-13 13:00:25",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 133885,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -247,6 +267,22 @@
       "duration_ms": 149294,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/7egbENInwPWegyktIf4rVh"
+    },
+    {
+      "added_at": "2025-02-13 13:00:25",
+      "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -303,22 +339,6 @@
     {
       "added_at": "2025-02-13 13:00:25",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g"
-    },
-    {
-      "added_at": "2025-02-13 13:00:25",
-      "album": {
         "name": "Never Gonna Change",
         "url": "https://open.spotify.com/album/5f26dBDWthcFg7KYZGT7Gp"
       },
@@ -339,22 +359,18 @@
     {
       "added_at": "2025-02-13 13:00:25",
       "album": {
-        "name": "UP FREESTYLE (w/ Odetari)",
-        "url": "https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL"
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG"
       },
       "artists": [
         {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 119964,
-      "name": "UP FREESTYLE (w/ Odetari)",
-      "url": "https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB"
+      "duration_ms": 143661,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -371,6 +387,26 @@
       "duration_ms": 211575,
       "name": "I Guess We're Not The Same",
       "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "added_at": "2025-02-13 13:00:25",
+      "album": {
+        "name": "UP FREESTYLE (w/ Odetari)",
+        "url": "https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 119964,
+      "name": "UP FREESTYLE (w/ Odetari)",
+      "url": "https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -855,6 +891,22 @@
       "duration_ms": 296314,
       "name": "Casuarina",
       "url": "https://open.spotify.com/track/5obhUXoEbs1DQLDqztw3RE"
+    },
+    {
+      "added_at": "2025-02-13 13:00:25",
+      "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "added_at": "2025-02-13 13:00:25",
@@ -1483,6 +1535,26 @@
       "duration_ms": 215458,
       "name": "Feeling Lost",
       "url": "https://open.spotify.com/track/7AUoqQqIGHBp7KFdTBX0xm"
+    },
+    {
+      "added_at": "2025-02-13 13:00:25",
+      "album": {
+        "name": "Do you wanna roll",
+        "url": "https://open.spotify.com/album/0Zl6Q4sjFE7yOBMZfZaX5h"
+      },
+      "artists": [
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        },
+        {
+          "name": "Game East",
+          "url": "https://open.spotify.com/artist/22abwrEzleRTPQ4WtSoYZv"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "Do you wanna roll",
+      "url": "https://open.spotify.com/track/1xxeXruNZYXilAVwsRGqUS"
     },
     {
       "added_at": "2025-02-13 13:00:25",

@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "2025 SMTOWN : THE CULTURE, THE FUTURE",
+        "url": "https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "You In Vague Memory",
+      "url": "https://open.spotify.com/track/2KVedzaZvhC9z9EthKqE2I"
+    },
+    {
+      "album": {
         "name": "NCT#127 LIMITLESS - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U"
       },

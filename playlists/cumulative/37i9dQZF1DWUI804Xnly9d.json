@@ -2140,6 +2140,28 @@
     {
       "album": {
         "name": "Dooriyan",
+        "url": "https://open.spotify.com/album/2nuz9KeEBHea4AztcYMMcj"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Rai",
+          "url": "https://open.spotify.com/artist/2OiZEUSa2j3zh7iTshyOYK"
+        },
+        {
+          "name": "Ruthuraj",
+          "url": "https://open.spotify.com/artist/3h9sN9KqD82pD4sZ95ICkB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278384,
+      "name": "Dooriyan",
+      "url": "https://open.spotify.com/track/215WEhkM0NH81aJjnDjzad"
+    },
+    {
+      "album": {
+        "name": "Dooriyan",
         "url": "https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI"
       },
       "artists": [
@@ -4914,7 +4936,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 161231,
       "name": "Kinaare",
       "url": "https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb"
@@ -6418,7 +6440,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 186536,
       "name": "Naina - Nikhil Iyer Version",
       "url": "https://open.spotify.com/track/3oVJR216rCSTYM2AGjApvm"
@@ -6480,6 +6502,24 @@
       "duration_ms": 135410,
       "name": "Naya Jahaan - Stripped",
       "url": "https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB"
+    },
+    {
+      "album": {
+        "name": "Nazar",
+        "url": "https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Vishwakarma",
+          "url": "https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Nazar",
+      "url": "https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA"
     },
     {
       "album": {
@@ -6668,7 +6708,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 182192,
       "name": "Pal Yeh Mere",
       "url": "https://open.spotify.com/track/6q19ONhVoUr00oUiMbmEsA"
@@ -8116,6 +8156,24 @@
       "duration_ms": 291990,
       "name": "Tanhai",
       "url": "https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w"
+    },
+    {
+      "album": {
+        "name": "Taranay",
+        "url": "https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229830,
+      "name": "Taranay",
+      "url": "https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr"
     },
     {
       "album": {

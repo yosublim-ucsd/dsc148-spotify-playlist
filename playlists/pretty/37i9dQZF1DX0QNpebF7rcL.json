@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Billy F Gibbons",
-  "num_followers": 134286,
+  "num_followers": 133921,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z65m9QAAAAAkgM2ixECszv51XF4DloSZ",
+  "snapshot_id": "Z67N3gAAAACLgbL4EOTXrtfSy6YGwgUe",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:47",
@@ -23,6 +23,26 @@
       "duration_ms": 197922,
       "name": "Rum Boogie",
       "url": "https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b"
+    },
+    {
+      "added_at": "2025-02-14 05:00:14",
+      "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/1ByWdJ5vknzNoOPT5RR4pt"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/5bocGWPWTmgtGmRyaO6Mf5"
     },
     {
       "added_at": "2025-01-31 05:00:47",

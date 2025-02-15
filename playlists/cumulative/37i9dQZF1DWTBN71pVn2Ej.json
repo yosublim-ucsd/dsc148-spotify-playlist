@@ -928,7 +928,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 204283,
       "name": "Bardo",
       "url": "https://open.spotify.com/track/05eBPrTZPj0i0p9xsIlNPI"
@@ -4687,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "Floods",
+        "url": "https://open.spotify.com/album/1RWyPGbYzkbAqI6MCkuJ63"
+      },
+      "artists": [
+        {
+          "name": "Futureheaven",
+          "url": "https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295185,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/3aNXgFBEd34MRhhwAVcC9l"
+    },
+    {
+      "album": {
         "name": "A Hooded Witness",
         "url": "https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz"
       },
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 181032,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk"
@@ -6881,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "To live in a different way",
+        "url": "https://open.spotify.com/album/2y8QlFM8O9zhONQsQpFgsv"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258820,
+      "name": "It hurts to know you're there",
+      "url": "https://open.spotify.com/track/1iSeKEW34ICPBPl1sID1JD"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/2Q6wYidCFBABUIbJHS7k8I"
       },
@@ -7688,7 +7724,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 211999,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
@@ -7998,6 +8034,24 @@
       "duration_ms": 302828,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL"
+    },
+    {
+      "album": {
+        "name": "Malaise",
+        "url": "https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y"
+      },
+      "artists": [
+        {
+          "name": "Rehash",
+          "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194095,
+      "name": "Malaise",
+      "url": "https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM"
     },
     {
       "album": {
@@ -8744,6 +8798,24 @@
       "duration_ms": 263765,
       "name": "New Low",
       "url": "https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5"
+    },
+    {
+      "album": {
+        "name": "NIRVANA",
+        "url": "https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY"
+      },
+      "artists": [
+        {
+          "name": "Glazyhaze",
+          "url": "https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW"
     },
     {
       "album": {
@@ -12920,7 +12992,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 263442,
       "name": "To live in a different way",
       "url": "https://open.spotify.com/track/65Dlo5TaWyYwDlAQjbb7ws"

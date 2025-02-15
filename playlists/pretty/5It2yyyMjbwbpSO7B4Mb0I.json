@@ -1,12 +1,12 @@
 {
   "description": "El playlist con la m\u00fasica m\u00e1s caliente del mundo latino!",
-  "num_followers": 506,
+  "num_followers": 425,
   "original_name": "Latin Is Universal",
   "owner": {
-    "name": "Digster",
+    "name": "Digster Global",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NzUsMTM5ZGYzNDI4NmY3ZGM5NTA2NjdmM2YzODE3ZjQ1NDc4OTM0MDgwMw==",
+  "snapshot_id": "AAAASxOd80KG99yVBmfz84F/RUeJNAgD",
   "tracks": [
     {
       "added_at": "2020-03-31 20:15:50",
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Natti Natasha",
+          "name": "NATTI NATASHA",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
@@ -668,7 +668,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JHAYCO",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -721,7 +721,7 @@
         }
       ],
       "duration_ms": 266086,
-      "name": "Soltera - Remix",
+      "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
@@ -1080,7 +1080,7 @@
       },
       "artists": [
         {
-          "name": "Kevin Roldan",
+          "name": "KEVIN ROLDAN",
           "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
@@ -1108,7 +1108,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 258800,
+      "duration_ms": 258799,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
@@ -1140,7 +1140,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JHAYCO",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -1188,12 +1188,12 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
           "name": "Chencho Corleone",
@@ -1205,7 +1205,7 @@
         }
       ],
       "duration_ms": 330240,
-      "name": "La Cama - Remix",
+      "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
     },
     {
@@ -1352,8 +1352,8 @@
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "Mariah Angeliq",

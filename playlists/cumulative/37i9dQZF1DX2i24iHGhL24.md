@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-438 songs - 1 day 1 hr 15 min
+439 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2022-03-25 | 2022-12-30 |
 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 | 2022-12-16 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-03-25 | 2022-12-30 |
-| [Creep](https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Creep](https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq) | 2:27 | 2023-05-14 |  |
+| [Creep](https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Creep](https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq) | 2:27 | 2023-05-14 | 2025-02-15 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/3jbYY3Bufg13nGMaTyE3By) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ) | 2:56 | 2022-10-28 | 2022-11-13 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU) | 2:56 | 2022-07-08 | 2023-10-17 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/7AIPMMSKNQkREDzCRwVK1k) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4B4hmsVThfWwMR0I9eYRi8) | 2:56 | 2021-12-17 | 2022-07-29 |
@@ -341,6 +341,7 @@
 | [Soak Up The Sun \- Unplugged](https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & the Lion \(Unplugged\)](https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS) | 4:11 | 2021-12-17 | 2022-10-16 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-04-01 | 2022-05-02 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 | 2021-12-17 | 2024-02-24 |
+| [Solsbury Hill \- Humane World for Animals Cover](https://open.spotify.com/track/7pwtOEq0aAD4a7dIwrDrkb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Solsbury Hill \(Humane World for Animals Cover\)](https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE) | 4:00 | 2025-02-14 |  |
 | [Someone to You](https://open.spotify.com/track/53km2jWeL1CUj6K0hiPuxq) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Someone to You](https://open.spotify.com/album/25HPaXZNYdKhMlKa52j4Cd) | 3:49 | 2021-12-17 | 2022-05-02 |
 | [Someone You Loved](https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF) | [Lain Roy](https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI) | [Someone You Loved](https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi) | 3:03 | 2021-12-17 | 2022-12-30 |
 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 | 2021-12-17 | 2022-04-29 |

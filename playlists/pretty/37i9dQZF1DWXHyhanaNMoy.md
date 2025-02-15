@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Zoë Tauran & Idaly
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,435 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,453 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 |
-| 2 | [Legday \(feat\. Drechter, Bigidagoe, Hekje31 & Jaykoppig\)](https://open.spotify.com/track/7zu9uk1xVJZUcdJ18jIDhu) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn) | [Legday](https://open.spotify.com/album/1prhEBQO4YvrQxSQdsFHU1) | 2:42 |
+| 2 | [Legday \(feat\. Drechter, Bigidagoe, Hekje31 & Jaykoppig\)](https://open.spotify.com/track/7zu9uk1xVJZUcdJ18jIDhu) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [Legday](https://open.spotify.com/album/1prhEBQO4YvrQxSQdsFHU1) | 2:42 |
 | 3 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
 | 4 | [Star Of The Night](https://open.spotify.com/track/45qjd3VSiol37cpi4uEmAc) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Star Of The Night](https://open.spotify.com/album/2VlMg2lB94K0Pqjb0nYPsE) | 2:49 |
 | 5 | [Ghir Sir](https://open.spotify.com/track/594Ewmtl0PYcqV15oSqaeP) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ghir Sir](https://open.spotify.com/album/0Avi4DWRYLrnQ6TmEQea6f) | 2:45 |

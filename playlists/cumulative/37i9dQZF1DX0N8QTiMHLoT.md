@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-104 songs - 7 hr 34 min
+105 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Love on the Run](https://open.spotify.com/track/5qxN363wsERfecdjGiReyy) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Love on the Run](https://open.spotify.com/album/3W7IrJDw3SFGgv2pyPbBpu) | 4:00 | 2021-05-06 |  |
 | [Lucky Punch](https://open.spotify.com/track/5T0Gn4bxR7fCuSxRIsDRsw) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 6:48 | 2021-05-06 |  |
 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 | 2021-05-06 |  |
+| [New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [New Beastly](https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t) | 4:11 | 2025-02-14 |  |
 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 | 2021-05-06 |  |
 | [No Way](https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Le Band](https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ) | 5:24 | 2021-05-06 |  |
 | [Nona Manis](https://open.spotify.com/track/21YTXtdSYjHoPpQYlw8iCB) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Rascals](https://open.spotify.com/artist/2vztWpd1un1i8DPyAf9N0b), [Matthew Sayersz](https://open.spotify.com/artist/63NYHDp76jwecdrMWYsCEx) | [Nona Manis](https://open.spotify.com/album/5r8UHDyqaEiWtmUCu9AeVx) | 3:20 | 2021-05-06 |  |

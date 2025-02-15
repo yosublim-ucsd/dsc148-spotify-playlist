@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones.  LEGADO 7 en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Hermanos Espinoza, LOS DOS DE TAMAULIPAS en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -202,6 +202,24 @@
       "duration_ms": 189279,
       "name": "25 de Diciembre - En Vivo",
       "url": "https://open.spotify.com/track/2SyJ32t7e2Nqx9yPEjfnIx"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174655,
+      "name": "3",
+      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
     },
     {
       "album": {
@@ -1264,6 +1282,28 @@
       "duration_ms": 199088,
       "name": "Andamos En El Peligro",
       "url": "https://open.spotify.com/track/2k3k8os4EvfIjxMtPobg1g"
+    },
+    {
+      "album": {
+        "name": "ANDAMOS GANANDO",
+        "url": "https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162735,
+      "name": "ANDAMOS GANANDO",
+      "url": "https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI"
     },
     {
       "album": {
@@ -3263,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "CAPIT\u00c1N DEL BARCO",
+        "url": "https://open.spotify.com/album/2ZedOU4lqxBXMHRswxwErN"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170598,
+      "name": "CAPIT\u00c1N DEL BARCO",
+      "url": "https://open.spotify.com/track/7dg2Fl68G6u7k1SnlPFR1H"
+    },
+    {
+      "album": {
         "name": "En Vivo Con Los Proximos (En Vivo)",
         "url": "https://open.spotify.com/album/6CgApGwHgpGE4PHNK5Pz70"
       },
@@ -3470,6 +3532,28 @@
       "duration_ms": 211029,
       "name": "Ca\u00f1averal Del Diablo",
       "url": "https://open.spotify.com/track/18opYT0k5q8tFgNv9bmmrD"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "album": {
@@ -15992,7 +16076,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 229258,
       "name": "Julio Beltr\u00e1n",
       "url": "https://open.spotify.com/track/1TLYonfETPbfh4jzHH3MXK"
@@ -17838,7 +17922,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 242572,
       "name": "La Roca (En Vivo)",
       "url": "https://open.spotify.com/track/5bp4L2ORkXVR0ziapDLpXk"
@@ -21369,6 +21453,24 @@
     },
     {
       "album": {
+        "name": "Misma Gente",
+        "url": "https://open.spotify.com/album/2Tza659en16J4L8ocRDLip"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153095,
+      "name": "Misma Gente",
+      "url": "https://open.spotify.com/track/7BEbwMqPL2E2yNkKcxQn7J"
+    },
+    {
+      "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/6dUUmpDWOd8FuLtsegWaD5"
       },
@@ -21384,7 +21486,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 172490,
       "name": "MJ",
       "url": "https://open.spotify.com/track/7ulHyDYZvFowlPmSq62btS"
@@ -22080,6 +22182,24 @@
       "duration_ms": 160000,
       "name": "No Acostumbren a Perder",
       "url": "https://open.spotify.com/track/1Q2eUWZ1Ls9xk2ZniX4K9z"
+    },
+    {
+      "album": {
+        "name": "No Ando Buscando Amigos",
+        "url": "https://open.spotify.com/album/2okdJlgIdki0oK5HZXVCRX"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187754,
+      "name": "No Ando Buscando Amigos",
+      "url": "https://open.spotify.com/track/7hpTBvk2yCkAeCzWWqNyY0"
     },
     {
       "album": {
@@ -25654,7 +25774,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 143357,
       "name": "Se\u00f1or 80",
       "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
@@ -27616,7 +27736,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 234699,
       "name": "Tr\u00e9bol 2",
       "url": "https://open.spotify.com/track/3ZQw9SRtEgtgN8xWd7qq4O"
@@ -28732,7 +28852,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-15",
       "duration_ms": 194333,
       "name": "Ya Lo Miraron Pasar",
       "url": "https://open.spotify.com/track/0TYJIJqQBXjkufMR1XtLE2"
