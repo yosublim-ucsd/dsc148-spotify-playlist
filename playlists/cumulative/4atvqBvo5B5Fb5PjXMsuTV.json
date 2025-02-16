@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Feb 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Feb 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 198067,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/6kcBPk4YFLY3XJR6FyTWhr"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 183777,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 166611,
       "name": "ANEMA E CORE",
       "url": "https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T"
@@ -14083,6 +14083,24 @@
     },
     {
       "album": {
+        "name": "Cluck",
+        "url": "https://open.spotify.com/album/7yOsGiIg6NjS0R5BcvpJEh"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Cluck",
+      "url": "https://open.spotify.com/track/53hAWFPvcFgtSziTcl06Q8"
+    },
+    {
+      "album": {
         "name": "cmon bruh!",
         "url": "https://open.spotify.com/album/1PcysXOMqhdRPDiZOFw4JR"
       },
@@ -14806,6 +14824,24 @@
       "duration_ms": 216222,
       "name": "Conditional Love",
       "url": "https://open.spotify.com/track/7eXxyueEyAfaZI4Dkj0S16"
+    },
+    {
+      "album": {
+        "name": "Condom",
+        "url": "https://open.spotify.com/album/0w566e4MSB3HIsYKgPLMjG"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Condom",
+      "url": "https://open.spotify.com/track/308gQPBA3sJO8R7uVhH09P"
     },
     {
       "album": {
@@ -15550,6 +15586,24 @@
       "duration_ms": 187512,
       "name": "Creepshow",
       "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
+    },
+    {
+      "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
     },
     {
       "album": {
@@ -20906,7 +20960,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 194085,
       "name": "Eco",
       "url": "https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi"
@@ -52264,7 +52318,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 159035,
       "name": "Pelle diamante",
       "url": "https://open.spotify.com/track/6jSDzDxxed11z39fNPDW9G"
@@ -55166,7 +55220,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 186600,
       "name": "Quando sarai piccola",
       "url": "https://open.spotify.com/track/4FUtbX8sWsAg0tpoD29MC6"
@@ -65375,6 +65429,24 @@
     },
     {
       "album": {
+        "name": "Sun Don't Leave Me",
+        "url": "https://open.spotify.com/album/0ETZgZqH23NT9Y8tstL8B8"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Sun Don't Leave Me",
+      "url": "https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m"
+    },
+    {
+      "album": {
         "name": "sun to me",
         "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
       },
@@ -67931,6 +68003,24 @@
     },
     {
       "album": {
+        "name": "That's Not Gangsta",
+        "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "That's Not Gangsta",
+      "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
+    },
+    {
+      "album": {
         "name": "That's Us/Wild Combination",
         "url": "https://open.spotify.com/album/3ifBjWe4ziDBImGZaapF4f"
       },
@@ -70392,6 +70482,24 @@
       "duration_ms": 187817,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/0jRa46cR41F2r5liiHQblD"
+    },
+    {
+      "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/4hGH6AI9QU7Anjc2D9yZON"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147490,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/7tO4gkdJKHafJQMdJaWqZn"
     },
     {
       "album": {
@@ -73783,6 +73891,24 @@
     },
     {
       "album": {
+        "name": "Valentine's Day Freestyle '25",
+        "url": "https://open.spotify.com/album/1ifU9X3dO0jDTLwzghijsM"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209732,
+      "name": "Valentine's Day Freestyle '25",
+      "url": "https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8"
+    },
+    {
+      "album": {
         "name": "Valotus",
         "url": "https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe"
       },
@@ -74286,7 +74412,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"

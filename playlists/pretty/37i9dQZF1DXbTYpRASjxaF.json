@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132631,
+  "num_followers": 132659,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-02-14 03:01:23",
       "album": {
-        "name": "Pool Party (REMIX)",
-        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
-      },
-      "artists": [
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "maiarealplug",
-          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
-        }
-      ],
-      "duration_ms": 113428,
-      "name": "Pool Party - REMIX",
-      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
-    },
-    {
-      "added_at": "2025-02-14 03:01:23",
-      "album": {
         "name": "Remessa Estrangeira (Remix)",
         "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 117125,
       "name": "Remessa Estrangeira - Remix",
       "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
+    },
+    {
+      "added_at": "2025-02-14 03:01:23",
+      "album": {
+        "name": "Pool Party (REMIX)",
+        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
+      },
+      "artists": [
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "duration_ms": 113428,
+      "name": "Pool Party - REMIX",
+      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
     },
     {
       "added_at": "2025-02-14 03:01:23",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2025-02-14 03:01:23",
       "album": {
+        "name": "Pegada de Chefona",
+        "url": "https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH"
+      },
+      "artists": [
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        },
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        },
+        {
+          "name": "Mun H\u00e1",
+          "url": "https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f"
+        }
+      ],
+      "duration_ms": 176465,
+      "name": "Pegada de Chefona",
+      "url": "https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ"
+    },
+    {
+      "added_at": "2025-02-14 03:01:23",
+      "album": {
         "name": "Amor de folclore",
         "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
       },
@@ -1259,30 +1283,6 @@
       "duration_ms": 186461,
       "name": "BrusaDaNike e GShock",
       "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
-    },
-    {
-      "added_at": "2025-02-14 03:01:23",
-      "album": {
-        "name": "Pegada de Chefona",
-        "url": "https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH"
-      },
-      "artists": [
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        },
-        {
-          "name": "Anna Suav",
-          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
-        },
-        {
-          "name": "Mun H\u00e1",
-          "url": "https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f"
-        }
-      ],
-      "duration_ms": 176465,
-      "name": "Pegada de Chefona",
-      "url": "https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ"
     },
     {
       "added_at": "2025-02-14 03:01:23",

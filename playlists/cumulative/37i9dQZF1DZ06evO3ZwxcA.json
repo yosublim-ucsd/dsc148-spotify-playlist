@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247446,
+      "name": "BREAKING",
+      "url": "https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq"
+    },
+    {
+      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -450,10 +468,32 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 160836,
       "name": "I WON'T BOW DOWN",
       "url": "https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm"
+    },
+    {
+      "album": {
+        "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
+        "url": "https://open.spotify.com/album/0oLUuJWPfVCTn70SSgvA7C"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
+      "url": "https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP"
     },
     {
       "album": {

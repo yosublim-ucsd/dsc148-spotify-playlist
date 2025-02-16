@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,082 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,117 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 24 | [obsessed \(LV\)](https://open.spotify.com/track/1B6Vbn2Htv85Y5HEAKXnmI) | [Joje](https://open.spotify.com/artist/2S6bNoFLN4xiDSoEHlPE3s) | [obsessed \(LV\)](https://open.spotify.com/album/7jMU7JVbNa7TuHQo89M11e) | 1:47 |
 | 25 | [Infinity \- Adagio For Strings](https://open.spotify.com/track/6hcTkn83waVM5YbDAFWcta) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Infinity \(Adagio For Strings\)](https://open.spotify.com/album/1s7FN8TtMhm3KCw16ZWg56) | 2:16 |
 | 26 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 |
-| 27 | [Corazón](https://open.spotify.com/track/0eIpWqCU7MIab8Kt00t2Ku) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Corazón](https://open.spotify.com/album/1OK2BYpkOVNYv3XDUtA7bx) | 2:41 |
+| 27 | [Corazón](https://open.spotify.com/track/0eIpWqCU7MIab8Kt00t2Ku) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Corazón](https://open.spotify.com/album/1OK2BYpkOVNYv3XDUtA7bx) | 2:41 |
 | 28 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
 | 29 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
 | 30 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |

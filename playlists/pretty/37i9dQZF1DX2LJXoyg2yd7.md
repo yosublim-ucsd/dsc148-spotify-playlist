@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,167 likes - 40 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 40 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 36 | [أحبك والدموع تشهد](https://open.spotify.com/track/78qgyxaEJ2ZDh1YHRdsu6j) | [Ayyoub Tarish](https://open.spotify.com/artist/2Luk3NVpymeOX6Am3dndJJ) | [عاد لي ودي](https://open.spotify.com/album/2DRFBQk16AVetxXoUkmv6U) | 9:57 |
 | 37 | [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 |
 | 38 | [لمن اشكيه](https://open.spotify.com/track/2DUFxOPqKheStCqAMZOM25) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [لمن اشكيه \- Single](https://open.spotify.com/album/78f9KtgEFjvevF1eyMQKOO) | 4:50 |
-| 39 | [Ya Gharami](https://open.spotify.com/track/2rsf0YkKKEjgkcxhX3sizU) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ya Gharami](https://open.spotify.com/album/1Tmopz2roVr3UgeiSZKKKU) | 6:38 |
+| 39 | [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 |
 | 40 | [جاء يدلع](https://open.spotify.com/track/1NQpWc80PagHGzfpuSvyJN) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:03 |
 
 Snapshot ID: `ZfLmLwAAAAAgtLNJcccOUvYZqMxeSZYz`

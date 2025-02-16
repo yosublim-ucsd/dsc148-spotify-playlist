@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,263 likes - 95 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,297 likes - 95 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 94 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 | 95 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 
-Snapshot ID: `Z5n1+gAAAABkjWwHX8xDoibkg7zP/7cF`
+Snapshot ID: `Z5n1+gAAAABnotF5dCR5MQAx1MH4lB87`

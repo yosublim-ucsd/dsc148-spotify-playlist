@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,732 songs - 4 day 22 hr 23 min
+1,733 songs - 4 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Brave](https://open.spotify.com/track/4lHgV3SgQIDEgHXAdWbED4) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Brave](https://open.spotify.com/album/642PHXG3lS5SVfwoWmZRBf) | 4:52 | 2024-04-19 | 2024-04-22 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Gilligan Moss Remix](https://open.spotify.com/track/2R3GqU7JBAscpMIjFL3uzC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 5:00 | 2020-03-20 | 2022-12-29 |
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
+| [Break The Silence](https://open.spotify.com/track/1cQjAhDo1qwv4ZDORlUxhk) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bri Zoli](https://open.spotify.com/artist/5x1jAa8GrTkfDqRBc2IYk8) | [Break The Silence](https://open.spotify.com/album/2yF3guRNUmTG5lA25sqT8p) | 4:38 | 2025-02-14 |  |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-05 | 2024-04-06 |
 | [Breath.](https://open.spotify.com/track/1OlBjlxICLInZ3qTphHVuR) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Breath.](https://open.spotify.com/album/35bXBanx1utZN7LTOQmhBJ) | 3:31 | 2020-05-22 | 2020-10-09 |
 | [Breathe](https://open.spotify.com/track/5ag0L0xkUGJrkXmalqOfho) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Breathe](https://open.spotify.com/album/0RDzTKuYJFGWKkjYymVvNP) | 3:16 | 2022-01-21 | 2022-12-29 |
@@ -300,7 +301,7 @@
 | [Connected \- Original Mix](https://open.spotify.com/track/0moaUKScPf9pFxgd3ThIKK) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Connected](https://open.spotify.com/album/4kYYZMZ3ytcqSVLq4ZN40A) | 5:25 | 2020-05-18 | 2021-12-21 |
 | [Constant Crush \- Mansionair Remix](https://open.spotify.com/track/4WMCllwqU4hot6yqJcxWoH) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Constant Crush \(Mansionair Remix\)](https://open.spotify.com/album/7FCgnfBM7TYNGJWo7lBlTb) | 4:18 | 2020-05-18 | 2020-07-03 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-07-01 | 2022-07-29 |
-| [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 | 2024-12-20 |  |
+| [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 | 2024-12-20 | 2025-02-16 |
 | [Controlling](https://open.spotify.com/track/3qpJrT3CQ5f7iAkEqVDxX2) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Reversed](https://open.spotify.com/album/7DHbPummZ1zYW6kWfcpF7E) | 4:04 | 2021-02-26 | 2022-02-16 |
 | [Conundrum](https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Conundrum](https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C) | 3:16 | 2022-10-28 | 2023-01-06 |
 | [Convo](https://open.spotify.com/track/34ol7Eg0ZMHBlBYlz6oeFO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Convo](https://open.spotify.com/album/5XiY8TBrVuKs7u3moYyJus) | 3:22 | 2020-07-03 | 2020-10-09 |

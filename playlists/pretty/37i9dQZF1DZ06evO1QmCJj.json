@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 42840,
+  "num_followers": 42843,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAACg1rE0mkathHUpPb57UECp",
+  "snapshot_id": "Z66HgAAAAACkSC5ctAZsxuQpB9CK7ANm",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
-      },
-      "artists": [
-        {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 144829,
       "name": "EL CONDENAO",
       "url": "https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+      },
+      "artists": [
+        {
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
       "duration_ms": 244200,
       "name": "High (Remix)",
       "url": "https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERDE",
+        "url": "https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 125625,
+      "name": "VERDE",
+      "url": "https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac"
     },
     {
       "added_at": null,
@@ -355,22 +371,6 @@
       "duration_ms": 195578,
       "name": "PESADILLAS",
       "url": "https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERDE",
-        "url": "https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "VERDE",
-      "url": "https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac"
     },
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "SUPERPOP",
+        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
       "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 172632,
+      "name": "LA TIRITA",
+      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
     },
     {
       "added_at": null,
@@ -491,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERPOP",
-        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
       },
       "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 172632,
-      "name": "LA TIRITA",
-      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes Que Salga el Sol",
-        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "Antes Que Salga el Sol",
-      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akelarre",
         "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 188693,
       "name": "Maldici\u00f3n",
       "url": "https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes Que Salga el Sol",
+        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "Antes Que Salga el Sol",
+      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "KILLA (ring ring)",
+      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humedad (Remix)",
         "url": "https://open.spotify.com/album/7MyzaIpaXhuTqcFMQNJsJ9"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "KILLA (ring ring)",
-      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 209361,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Rep\u00fablica",
-        "url": "https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2"
     }
   ],
   "unique_name": "This Is Lola Indigo",

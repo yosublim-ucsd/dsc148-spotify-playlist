@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971 likes - 155 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970 likes - 155 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 154 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 | 155 | [Dreamin](https://open.spotify.com/track/64Vd14Iwb8S714F3dteY7d) | [xaviorthemachine](https://open.spotify.com/artist/6lI1cPP82WFVHJMXe18KCL) | [Dreamin](https://open.spotify.com/album/57ndT0jNiNB6NKEgSf1zuG) | 3:07 |
 
-Snapshot ID: `AbpmVgAAAADyoAsW2sIrGXz9YNHNv7Ht`
+Snapshot ID: `AbpsKAAAAACcZUBgTotmRlb16OD0m+rb`

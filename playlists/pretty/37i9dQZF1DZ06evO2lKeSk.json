@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 348046,
+  "num_followers": 348106,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADHPprEscc6o2DZt1YCNlKq",
+  "snapshot_id": "Z66HgAAAAABjWTk1kXJ+cumJhn47VAa1",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
+      "duration_ms": 217600,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
     },
     {
       "added_at": null,

@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 178000,
       "name": "August 10",
       "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -5113,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216362,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
+    },
+    {
+      "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
       },
@@ -6096,6 +6114,28 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
       "album": {
@@ -12414,7 +12454,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 110005,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -12856,7 +12896,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 206320,
       "name": "Now We're Strangers",
       "url": "https://open.spotify.com/track/4ys3y9djWZurOdyouMlcBG"
@@ -16836,7 +16876,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 162253,
       "name": "SPINNIN (Segway Remix)",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
@@ -17680,7 +17720,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -20808,7 +20848,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -23159,7 +23199,7 @@
       "artists": [
         {
           "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
         },
         {
           "name": "Medi",
@@ -23168,7 +23208,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 225166,
       "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
       "url": "https://open.spotify.com/track/2dKJ9C81tTxEb9VvztEpah"

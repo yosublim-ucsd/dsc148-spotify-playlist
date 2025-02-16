@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 46 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278 likes - 46 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 9 | [Bofo](https://open.spotify.com/track/1w8E3O3yhbPGPBbVZf6TZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 2:44 |
 | 10 | [Uno Cuhh](https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Uno Cuhh](https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE) | 2:34 |
 | 11 | [Cocaine Cowboy](https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Cocaine Cowboy](https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe) | 2:24 |
-| 12 | [Que Caramba](https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Grupo Zaaz](https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw), [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 4:24 |
+| 12 | [Vida Lujosa](https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:31 |
 | 13 | [Cleto's Cumbia](https://open.spotify.com/track/6FV2yWirHKhStM39YqTUZ6) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:43 |
 | 14 | [Mexican Heaven](https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:00 |
-| 15 | [Bien Horniado](https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck) | [Big Los](https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Jandres](https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt) | [Bien Horniado](https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R) | 3:12 |
-| 16 | [Vida Lujosa](https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:31 |
-| 17 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
-| 18 | [Pancho Villa](https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:57 |
-| 19 | [Tonta \(feat\. Bo Bundy\)](https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Hustle & Flow](https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5) | 2:24 |
+| 15 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
+| 16 | [Que Caramba](https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Grupo Zaaz](https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw), [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 4:24 |
+| 17 | [Bien Horniado](https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck) | [Big Los](https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Jandres](https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt) | [Bien Horniado](https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R) | 3:12 |
+| 18 | [Tonta \(feat\. Bo Bundy\)](https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Hustle & Flow](https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5) | 2:24 |
+| 19 | [Pancho Villa](https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:57 |
 | 20 | [Suicidal Thoughts](https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:48 |
 | 21 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
 | 22 | [Con Un Toque](https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Con Un Toque](https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB) | 2:53 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 45 | [RESERVADO](https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX) | [JR Reyes](https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [RESERVADO](https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh) | 2:31 |
 | 46 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 
-Snapshot ID: `Z6vkgAAAAAADvsvrZWNAXuIMCHDRQQDJ`
+Snapshot ID: `Z66HgAAAAADZ/gGTIljTSRrWQLCh2y+t`

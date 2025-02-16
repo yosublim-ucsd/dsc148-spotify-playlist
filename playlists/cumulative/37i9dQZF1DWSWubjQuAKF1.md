@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Cyrko
 
-331 songs - 15 hr 55 min
+332 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
-| [Działasz na mnie](https://open.spotify.com/track/7humurIbO0Dwd790y0SQ4b) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Działasz na mnie](https://open.spotify.com/album/4DVzebGjBJ6lZEAI93927m) | 2:05 | 2025-02-13 |  |
+| [Działasz na mnie jak](https://open.spotify.com/track/7humurIbO0Dwd790y0SQ4b) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Działasz na mnie jak](https://open.spotify.com/album/4DVzebGjBJ6lZEAI93927m) | 2:09 | 2025-02-13 |  |
 | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv) | 2:39 | 2024-10-11 | 2025-01-24 |
 | [Dzikie Róże](https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD) | [Sasi](https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Dzikie Róże](https://open.spotify.com/album/5zfh0diDFVQtVc5mZTNNvR) | 3:54 | 2024-06-28 | 2024-09-14 |
 | [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-20 | 2025-01-24 |
@@ -151,6 +151,7 @@
 | [linia niedostępna](https://open.spotify.com/track/5VWuIuFLSHLz50Eyoj2RWH) | [MISSI](https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp) | [linia niedostępna](https://open.spotify.com/album/2hOyG8A7yWci6K5VBhB7gW) | 2:17 | 2024-07-11 | 2024-08-23 |
 | [List](https://open.spotify.com/track/2a0XfGcXniIlQyFMEZTKJL) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:37 | 2025-01-23 | 2025-01-31 |
 | [love song sad](https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [love song sad](https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO) | 2:57 | 2024-09-27 | 2024-10-19 |
+| [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 | 2025-02-13 |  |
 | [lubię patrzeć na twą broń](https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW) | [Patryk Krzysztof Molenda](https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG) | [lubię patrzeć na twą broń](https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP) | 3:01 | 2024-10-25 | 2025-01-17 |
 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 | 2025-01-23 |  |
 | [M&M’s](https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:40 | 2024-11-07 | 2025-01-24 |
@@ -268,7 +269,7 @@
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2025-01-23 | 2025-02-07 |
 | [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |
-| [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 | 2025-01-23 |  |
+| [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 | 2025-01-23 | 2025-02-16 |
 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 | 2025-01-23 |  |
 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 | 2024-11-21 | 2025-01-24 |
 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-23 | 2025-02-07 |

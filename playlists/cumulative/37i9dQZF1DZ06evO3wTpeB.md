@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 34 min
+63 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [One Hood](https://open.spotify.com/track/4BngReMiuIjovvG7LAel8T) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [One Hood](https://open.spotify.com/album/28aKhF6U8oavtisSPOqwsw) | 3:30 | 2023-12-30 |  |
 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:44 | 2024-06-22 |  |
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 | 2023-12-30 |  |
+| [Ou Nena](https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Oww Nena](https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq) | 2:27 | 2025-02-16 |  |
 | [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 | 2023-12-30 |  |
 | [Paraíso Fiscal](https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Paraíso Fiscal](https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8) | 3:00 | 2023-12-30 |  |
 | [Pasaporte Colombiano](https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:46 | 2023-12-30 |  |

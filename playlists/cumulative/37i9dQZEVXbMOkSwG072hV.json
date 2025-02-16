@@ -12306,7 +12306,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 150773,
       "name": "Childlike Things",
       "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
@@ -45146,10 +45146,32 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 210996,
       "name": "Ouro de Verdade",
       "url": "https://open.spotify.com/track/2VDWJW4rs2UgjfDQqYQgRJ"
+    },
+    {
+      "album": {
+        "name": "Ouro de Verdade",
+        "url": "https://open.spotify.com/album/0SnVWutgAnrftFR43KwZrB"
+      },
+      "artists": [
+        {
+          "name": "DJ Zika",
+          "url": "https://open.spotify.com/artist/3AAaSZrddXGRzLmZLzWfCD"
+        },
+        {
+          "name": "Bagrael",
+          "url": "https://open.spotify.com/artist/0U1UHUgl19YKyXWxPsBCSm"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Ouro de Verdade",
+      "url": "https://open.spotify.com/track/1JljcCqKdmH3WCNFuyQYF7"
     },
     {
       "album": {
@@ -52966,7 +52988,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 358721,
       "name": "Salgueiro de Corpo Fechado",
       "url": "https://open.spotify.com/track/4LmmmKA36fx4k2Nw5T6m23"

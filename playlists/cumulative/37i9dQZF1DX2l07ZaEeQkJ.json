@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 170469,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
@@ -3620,6 +3620,28 @@
       "duration_ms": 144406,
       "name": "Modo St1ngy",
       "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193728,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW"
     },
     {
       "album": {

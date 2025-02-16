@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,551 likes - 58 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,580 likes - 58 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 8 | [I WON’T BOW DOWN \(feat\. Andrés Giménez from A.N.I.M.A.L.\)](https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9) | [I WON’T BOW DOWN \(feat\. Andrés Giménez from A.N.I.M.A.L.\)](https://open.spotify.com/album/0oLUuJWPfVCTn70SSgvA7C) | 2:43 |
 | 9 | [Conquer](https://open.spotify.com/track/7qxL3N5rSBQy8O782MlARR) | [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX) | [A Portrait of Red](https://open.spotify.com/album/4SyPSba4RRBLfsmRzGxC5y) | 2:59 |
 | 10 | [SIRENS 2.0](https://open.spotify.com/track/4x1RoJ7GSDS3Km7gbeQDy7) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [HYPERVIOLENCE \(EXPANSION PACK\)](https://open.spotify.com/album/0RFn0vxgRuEWf5ugA1Mitu) | 3:38 |
-| 11 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
+| 11 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
 | 12 | [Heathen](https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq) | [Odd Palace](https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV), [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Heathen](https://open.spotify.com/album/3FoSgaXrhCv2qNQX9iuOJh) | 5:10 |
 | 13 | [Hellscape](https://open.spotify.com/track/78E3GwXopvq1SIzZhVtpsa) | [Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo), [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Hellscape](https://open.spotify.com/album/6P7k4TkkwLIfgXJOBEHaHP) | 3:43 |
 | 14 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |

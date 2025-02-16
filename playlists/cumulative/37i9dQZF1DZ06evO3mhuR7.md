@@ -4,13 +4,13 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-161 songs - 18 hr 30 min
+162 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4am Exhale \(Chill Out World!\)](https://open.spotify.com/track/7rzfUCGJIRV4fQ68T07x9A) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 6:03 | 2022-05-29 | 2023-01-14 |
 | [5th Dimensions](https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:15 | 2022-05-31 | 2022-10-07 |
-| [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 | 2022-06-03 |  |
+| [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 | 2022-06-03 | 2025-02-16 |
 | [9 elms over river eno \(channel 9\)](https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:05 | 2022-06-01 |  |
 | [A Beautiful Day](https://open.spotify.com/track/7Do9MQ2GbPWM28YJ5H0m4s) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Dream](https://open.spotify.com/album/7t8f01W2boto0cZcdSbBvD) | 6:48 | 2022-09-06 | 2022-09-09 |
 | [A Cool Dry Place](https://open.spotify.com/track/5b2vSpnqcC7T4F6EiWgZiZ) | [System 7](https://open.spotify.com/artist/2JrTxbnRU8RGKyuyHE8SGP), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [777](https://open.spotify.com/album/4I1d4Ddu56rNzwoWFS8DLR) | 8:18 | 2022-06-25 | 2022-06-27 |
@@ -35,6 +35,7 @@
 | [Ball of Fire](https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:11 | 2022-05-29 | 2024-10-11 |
 | [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 | 2024-11-20 |
 | [Blue Room \- 7" Mix](https://open.spotify.com/track/6yqPrme30dPVQqUSO8qSHA) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:53 | 2022-05-29 |  |
+| [Captain Korma](https://open.spotify.com/track/07DJhUuoGtBBYatH78k9kO) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:18 | 2025-02-16 |  |
 | [Captain Korma](https://open.spotify.com/track/1OH8yc7uDg4pz8CINxrpVz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:18 | 2024-11-15 | 2024-11-22 |
 | [Centre of the Triangle](https://open.spotify.com/track/4prpxysBAaFArGqhqTg0Rc) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:35 | 2023-06-18 | 2024-01-11 |
 | [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 | 2023-05-14 |
@@ -115,7 +116,7 @@
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/2rm1cOR9ahlk0710wwuCAD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:13 | 2023-04-30 | 2023-11-11 |
 | [Pillow Fight @ Shag Mountain](https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 7:31 | 2022-05-29 | 2022-10-08 |
 | [Pillow Fight @ Shag Mountain \- Radio Edit](https://open.spotify.com/track/58oMAgOL0uCLxhsIFGcdOs) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 3:43 | 2024-11-17 | 2025-02-02 |
-| [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 |  |
+| [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 | 2025-02-16 |
 | [Police & Thieves](https://open.spotify.com/track/5EbS1wLlc1w3SqrgvWPdva) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:50 | 2022-06-28 | 2022-09-30 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2022-05-29 |  |
 | [prism](https://open.spotify.com/track/02muX0Vgv0DvAapP1k5vtw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [H.O.M.E\. \(high orbs mini earths\)](https://open.spotify.com/album/5evNpD3p6s9dqWEsdLPrfT) | 9:43 | 2023-05-04 | 2023-05-10 |
@@ -167,7 +168,7 @@
 | [White River Junction](https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 9:36 | 2022-05-29 | 2022-10-09 |
 | [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7MFKi0xmbDLArsmWCgLFlz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 7:40 | 2023-04-29 | 2023-11-11 |
 | [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7qYJvPxO7N9W88KAeIZExC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 7:40 | 2023-11-10 |  |
-| [Wireless MK2](https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:41 | 2022-05-29 | 2025-02-07 |
+| [Wireless MK2](https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:41 | 2022-05-29 |  |
 | [Wish I Had a Pretty Dog](https://open.spotify.com/track/6Uum9KIYa73OLiFZDRUWPZ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:04 | 2022-05-29 | 2022-10-30 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 142932,
+  "num_followers": 142949,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
+      "added_at": "2024-08-16 15:21:45",
+      "album": {
+        "name": "Que Bien Te Queda El Caribe",
+        "url": "https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Can't Stop Your Lovin'",
@@ -771,22 +787,6 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2024-08-16 15:21:45",
-      "album": {
-        "name": "Que Bien Te Queda El Caribe",
-        "url": "https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Jogar",
-        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
-      },
-      "artists": [
-        {
-          "name": "Souleance",
-          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
-        }
-      ],
-      "duration_ms": 259750,
-      "name": "Segrados Do Samba",
-      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Jogar",
+        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
+      },
+      "artists": [
+        {
+          "name": "Souleance",
+          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
+        }
+      ],
+      "duration_ms": 259750,
+      "name": "Segrados Do Samba",
+      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "L'amour, l'amour, l'amour",
+        "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Mouloudji",
+          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "L'amour, l'amour, l'amour",
+      "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
       },
@@ -1507,6 +1527,22 @@
       "duration_ms": 234510,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Une Beat Encore",
+        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Une Beat Encore",
+      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
     },
     {
       "added_at": "2024-10-10 03:17:46",
@@ -1531,42 +1567,6 @@
       "duration_ms": 155482,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Une Beat Encore",
-        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Une Beat Encore",
-      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "L'amour, l'amour, l'amour",
-        "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
-      },
-      "artists": [
-        {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
-        },
-        {
-          "name": "Mouloudji",
-          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "L'amour, l'amour, l'amour",
-      "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
     },
     {
       "added_at": "2024-06-26 19:12:18",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
-        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 350851,
-      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
-      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
+        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 350851,
+      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
+      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Don't Say You Don't",
-        "url": "https://open.spotify.com/album/4uiHT6eD05ONgFueeOQUqs"
-      },
-      "artists": [
-        {
-          "name": "Particle House",
-          "url": "https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Don't Say You Don't - Instrumental Version",
-      "url": "https://open.spotify.com/track/5M7XyAAxB0WFLnN8zsMEn5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Looking for the Sea",
         "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Don't Say You Don't",
+        "url": "https://open.spotify.com/album/4uiHT6eD05ONgFueeOQUqs"
+      },
+      "artists": [
+        {
+          "name": "Particle House",
+          "url": "https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Don't Say You Don't - Instrumental Version",
+      "url": "https://open.spotify.com/track/5M7XyAAxB0WFLnN8zsMEn5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
@@ -1779,38 +1779,6 @@
       "duration_ms": 242123,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Souda Bay",
-        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
-      },
-      "artists": [
-        {
-          "name": "DJ Telefkas",
-          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
-        }
-      ],
-      "duration_ms": 210509,
-      "name": "Souda Bay",
-      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2024-06-27 18:41:44",
@@ -1839,6 +1807,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Souda Bay",
+        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
+      },
+      "artists": [
+        {
+          "name": "DJ Telefkas",
+          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
+        }
+      ],
+      "duration_ms": 210509,
+      "name": "Souda Bay",
+      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "A bite of papaya",
         "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

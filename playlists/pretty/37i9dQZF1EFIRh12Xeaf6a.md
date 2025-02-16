@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 172 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/2xW1KIGPsLf2oORmvAEsvQ) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 1:59 |
 | 173 | [Honey and Wine \- 2003 Remaster](https://open.spotify.com/track/11qM9odmMGoDOfHMOM65se) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [In The Hollies Style \(Expanded Edition\)](https://open.spotify.com/album/1juitqjWhK1iPIQ6aSiuVc) | 2:29 |
 | 174 | [No Sad Song](https://open.spotify.com/track/4GAu46qbdEu21ScQ10BkPZ) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Helen Reddy](https://open.spotify.com/album/5JcT9BxkqS2CQmMkg16lgR) | 3:11 |
-| 175 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee!](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 |
+| 175 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee! \(Expanded Edition\)](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 |
 | 176 | [You're Something New](https://open.spotify.com/track/6PrYru1Jj9hvVSV0mIj15N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:53 |
 | 177 | [At This Time In My Life](https://open.spotify.com/track/3jlw35W5AE8MLHCfMgJOkX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:49 |
 | 178 | [Morning Sun](https://open.spotify.com/track/2uddedLRPsf3pdOvCtP4A6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:32 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 277 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 278 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbpmVgAAAADlK+xm9VrDmRcL6IEv8FDx`
+Snapshot ID: `AbpsKAAAAAC/l9K9wEbmUwSSqHnAjrro`

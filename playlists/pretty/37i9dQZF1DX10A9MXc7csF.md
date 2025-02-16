@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Julio Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,577 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,637 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
 | 100 | [Antes de Ti](https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Antes de Ti](https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5) | 3:34 |
 
-Snapshot ID: `Z67N+wAAAAA2g32a5HtEKMMTOybw4GqF`
+Snapshot ID: `Z67N+wAAAAC0g/Lex2WSQM7KGkU9RDHH`

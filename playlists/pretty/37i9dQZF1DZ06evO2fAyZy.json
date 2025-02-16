@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 91571,
+  "num_followers": 91651,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADNKYDhgS2Crpa+o6OaN8s3",
+  "snapshot_id": "Z66HgAAAAABEctbJKE/SFMhKnhi7NO9T",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 144243,
       "name": "if we never met (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "I Think I Fell in Love Today",
+      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 201343,
       "name": "the other girl (with Halsey)",
       "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "I Think I Fell in Love Today",
-      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
     },
     {
       "added_at": null,

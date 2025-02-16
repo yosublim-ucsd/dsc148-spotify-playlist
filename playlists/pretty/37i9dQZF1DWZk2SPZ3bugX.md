@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,446 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,472 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 9 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
 | 10 | [Nu Lova](https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Nu Lova](https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj) | 3:22 |
 | 11 | [Storm \(Edit\)](https://open.spotify.com/track/3EqtgULem9Ta7wEWBRgzOm) | [Sam Benaroya](https://open.spotify.com/artist/5QR1e164DAoLhJQkiNZcDi) | [Storm \(Edit\)](https://open.spotify.com/album/7gcMSD0odngjCS8u4Tz34y) | 5:21 |
-| 12 | [Hypra\-Sensorial \- Remix](https://open.spotify.com/track/327BO34qqnMPKaHEDEb7Ss) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Partyfine](https://open.spotify.com/artist/5CcuQDhuccjZ1ctVrsyIQi), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [Hypra\-Sensorial \(Remix\)](https://open.spotify.com/album/24uLqBHTrzC0vLgtLVLK4c) | 3:15 |
+| 12 | [Hypra\-Sensorial \- Bellaire Remix](https://open.spotify.com/track/327BO34qqnMPKaHEDEb7Ss) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Partyfine](https://open.spotify.com/artist/5CcuQDhuccjZ1ctVrsyIQi), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [Hypra\-Sensorial \(Bellaire Remix\)](https://open.spotify.com/album/24uLqBHTrzC0vLgtLVLK4c) | 3:15 |
 | 13 | [Changes](https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:28 |
 | 14 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 |
 | 15 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 |

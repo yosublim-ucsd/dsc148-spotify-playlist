@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553109,
+  "num_followers": 553106,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "on the verge",
         "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 202862,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
-        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Disobedient",
-        "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
-      },
-      "artists": [
-        {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
-        }
-      ],
-      "duration_ms": 185879,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210120,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Disobedient",
+        "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "duration_ms": 185879,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Gift (Explicit Version)",
-        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
-      },
-      "artists": [
-        {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 254615,
       "name": "Bye Bye Beautiful",
       "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Gift (Explicit Version)",
+        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
     },
     {
       "added_at": "2024-11-26 17:39:01",

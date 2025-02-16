@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > wiu o último puto romântico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,610 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,538 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 2 | [doce mágico](https://open.spotify.com/track/2zjSEHhLqyRoNHrNcGewMO) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [tempo.zip](https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY) | 2:19 |
 | 3 | [Não Temos Medo \- Remix](https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Direto da Selva Deluxe](https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1) | 4:16 |
 | 4 | [THE BOX MEDLEY 8](https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [THE BOX MEDLEY 8](https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk) | 4:53 |
-| 5 | [DIFERENTE](https://open.spotify.com/track/36VGZ9a6TfuNG4jwivGP44) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [O ROTEIRISTA](https://open.spotify.com/album/5nYb4sMNJGV9gf2IXxCayX) | 2:53 |
+| 5 | [DIFERENTE](https://open.spotify.com/track/36VGZ9a6TfuNG4jwivGP44) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8), [Prod.Plasti](https://open.spotify.com/artist/6f83s9wRCCydX8FMwn4eQK) | [O ROTEIRISTA](https://open.spotify.com/album/5nYb4sMNJGV9gf2IXxCayX) | 2:53 |
 | 6 | [terminei recentemente](https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 2:53 |
 | 7 | [Reza do Milhão](https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Reza do Milhão](https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5) | 3:04 |
 | 8 | [bolas de haxi](https://open.spotify.com/track/0sWIDSVPVN0fkuZs0C8wp4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [tempo.zip](https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY) | 2:18 |

@@ -4,7 +4,7 @@
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 59 min
+95 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [hong kong](https://open.spotify.com/track/4q8x2VCeeWYBy4481J4ZOi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [hong kong](https://open.spotify.com/album/0vMI8c1PDP7MvnZAsrC73r) | 3:16 | 2023-11-10 | 2023-12-14 |
 | [hong kong](https://open.spotify.com/track/5eQH93PjNw14gYSGiKZqA3) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [hong kong](https://open.spotify.com/album/4u3p3PqQK72pmIHkCNBoLd) | 3:16 | 2023-05-02 | 2023-06-21 |
 | [hong kong \- revisited](https://open.spotify.com/track/78Su2rZNIx5GHHKQhJkuGE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 3:42 | 2023-12-13 | 2024-11-03 |
+| [I Fall In Love Too Easily](https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [I Fall In Love Too Easily](https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt) | 3:16 | 2025-02-16 |  |
 | [i feel like chet](https://open.spotify.com/track/1JFCxETWjhVCQU0HxNGpdg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:03 | 2023-05-02 | 2023-12-15 |
 | [i feel like chet](https://open.spotify.com/track/6OF60E8ejsKq76SWf2ae9b) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 3:03 | 2023-12-14 |  |
 | [i hate texas](https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 3:38 | 2024-11-25 |  |

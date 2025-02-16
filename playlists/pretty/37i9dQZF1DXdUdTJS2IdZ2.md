@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Haven
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,941 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,942 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 2 | [Dial Tone](https://open.spotify.com/track/227u5UMtxhLQGWqDbkE0Oc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Dial Tone](https://open.spotify.com/album/7z9APiQaFzWNPP8uECGPgv) | 2:41 |
 | 3 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
 | 4 | [Fleeting Friend](https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Fleeting Friend](https://open.spotify.com/album/0FGrnwHdF1XuHKuer1lbih) | 3:11 |
-| 5 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [Mean](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
+| 5 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
 | 6 | [Goodbye](https://open.spotify.com/track/7EDYtrcCKtJMMKxktBGdPW) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:21 |
 | 7 | [需要你陪](https://open.spotify.com/track/5AJZjLcTPz6aogfKK8H5nh) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [需要你陪](https://open.spotify.com/album/4vysaDNfsKNqfQPd9P5J5g) | 3:56 |
 | 8 | [Valentine](https://open.spotify.com/track/3fiKQLSo3R0mCqxWuGOD15) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC), [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Valentine](https://open.spotify.com/album/3LhShtVTz3Asj74JnzIqsE) | 2:25 |
 | 9 | [Nobody Like U \(Interlude\)](https://open.spotify.com/track/6UNeYace48ikp6kLlTIiOf) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Nobody Like U \(Interlude\)](https://open.spotify.com/album/6fvMH4jsCJo9dDy2hzJcxB) | 2:28 |
 | 10 | [i think that i like you](https://open.spotify.com/track/2DvFx0zTn79XNfhiB0LL4e) | [Yang Yan](https://open.spotify.com/artist/7HKs6UPi2L4pxVHDDCuGWr) | [i think that i like you](https://open.spotify.com/album/4WXhaQhiQzdgh7JrsKoAXD) | 2:55 |
-| 11 | [OCEAN](https://open.spotify.com/track/0dDVyUcSbb0POMcLSiTpkl) | [Mean](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs), [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 3:33 |
+| 11 | [OCEAN](https://open.spotify.com/track/0dDVyUcSbb0POMcLSiTpkl) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs), [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 3:33 |
 | 12 | [KEKASIH LAMA](https://open.spotify.com/track/1LPUve3yxwExjwKZ7KUu48) | [ahmadjohnson69](https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr) | [KEKASIH LAMA](https://open.spotify.com/album/4ct3MeTOKV3PkPWux3Eqh1) | 2:48 |
 | 13 | [made for us](https://open.spotify.com/track/7ujZUivevehX5spIejwJ5D) | [khalil](https://open.spotify.com/artist/0Tf9F8FxK0iul15ADXxQVU) | [WISHING US THE BEST](https://open.spotify.com/album/0Yn6zbB0CT9Tk4vTA5IC4X) | 2:03 |
 | 14 | [who gave you the key](https://open.spotify.com/track/3doIPniYg0UuPNUHv26EKl) | [Kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [who gave you the key](https://open.spotify.com/album/4QWuugd6JUK3yhQqz9VgjM) | 2:32 |

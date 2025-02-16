@@ -1,12 +1,12 @@
 {
   "description": "This is The Clash. The essential tracks, all in one playlist.",
-  "num_followers": 176838,
+  "num_followers": 176859,
   "original_name": "This Is The Clash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADELizt1E7uSO4FUfjl3GEr",
+  "snapshot_id": "Z66HgAAAAADlNtSf2RGTwTU9df+xOgH/",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 226946,
-      "name": "Lost in the Supermarket - Remastered",
-      "url": "https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv"
+      "duration_ms": 192440,
+      "name": "The Guns of Brixton - Remastered",
+      "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 192440,
-      "name": "The Guns of Brixton - Remastered",
-      "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
+      "duration_ms": 226946,
+      "name": "Lost in the Supermarket - Remastered",
+      "url": "https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Know Your Rights - Remastered",
-      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192853,
       "name": "Complete Control",
       "url": "https://open.spotify.com/track/0mlwPYU0ApElSjZN4yA4L9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Know Your Rights - Remastered",
+      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Inoculated City - Remastered",
-      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 236373,
       "name": "Clash City Rockers",
       "url": "https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Inoculated City - Remastered",
+      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Atom Tan - Remastered",
-      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231680,
       "name": "Armagideon Time",
       "url": "https://open.spotify.com/track/2hOi0U15nSrV9ueYLCtvE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Atom Tan - Remastered",
+      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
     },
     {
       "added_at": null,

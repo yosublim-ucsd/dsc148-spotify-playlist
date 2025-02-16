@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,518 songs - 10 day 13 hr 14 min
+4,520 songs - 10 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1231,6 +1231,7 @@
 | [Everything \(..\. Is Never Quite Enough\)](https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt) | [Wasis Diop](https://open.spotify.com/artist/5WgEnjgCrT1aeQELTV3tdB) | [Toxu](https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX) | 4:32 | 2021-07-11 | 2024-04-21 |
 | [Everything and Anything](https://open.spotify.com/track/6NF37GshCNOl3xorfCrp79) | [Alejandra O'Leary](https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6) | [Sunlight](https://open.spotify.com/album/00qVy2r1bSpxaQyCBQuHbf) | 3:40 | 2024-09-29 | 2024-10-11 |
 | [Everything Is Broken](https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:13 | 2023-07-20 |  |
+| [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-02-15 |  |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [EVERYTIME](https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ) | [1NFFERNO](https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C) | [INT'L NFFERNO II](https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG) | 3:31 | 2023-12-31 | 2024-01-08 |
 | [Evilin](https://open.spotify.com/track/1wp8SjUIXCdP4RTXyagKfY) | [Zoe Graham](https://open.spotify.com/artist/2jXXoNionydJ3CT1ml119B) | [Even Though I'm Scared](https://open.spotify.com/album/5vnlhYUNJEmcqbNBPqoVbi) | 3:23 | 2024-10-12 | 2024-11-02 |
@@ -3847,6 +3848,7 @@
 | [Tenth Street](https://open.spotify.com/track/49LeBTxUzGvyTm5TSvwKzw) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Tenth Street](https://open.spotify.com/album/0l313Ww6G1mfVfvmIOAOqb) | 3:09 | 2021-09-19 | 2021-10-04 |
 | [Terrestrial and Celestial](https://open.spotify.com/track/7trAFgZ28S9mr7c3C3vgu7) | [Brian Penny](https://open.spotify.com/artist/1LwSwkyrWOLfBtPRg778SO) | [Reflection Refraction](https://open.spotify.com/album/2yKXpf5FsexCVE7norLNu7) | 6:45 | 2022-09-23 | 2022-10-09 |
 | [TERRIBLE THINGS](https://open.spotify.com/track/1uzlhLExxmQuNoI6vGXA45) | [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj), [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [TERRIBLE THINGS](https://open.spotify.com/album/2s5z7XWykDF6KQ3Y7dpzX0) | 2:18 | 2022-09-08 | 2022-09-25 |
+| [TESLA](https://open.spotify.com/track/1esqd2Qt1dhP0rIaaYyXUm) | [Thunds](https://open.spotify.com/artist/4ozFrTcmzszd0mC9FqUIyq) | [TESLA](https://open.spotify.com/album/02bHF0EO2gH0U70uwiF425) | 2:29 | 2025-02-15 |  |
 | [Testimony](https://open.spotify.com/track/4I7M8sEbqY1UPbrDtqTwwR) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Testimony](https://open.spotify.com/album/65B1T635QV4s2fhGpIoT1H) | 3:18 | 2024-02-07 | 2024-02-20 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-03-12 | 2024-04-01 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-03-29 |  |

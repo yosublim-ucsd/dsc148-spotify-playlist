@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 5 min
+93 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 | 2023-12-29 | 2024-12-30 |
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2022-11-17 |  |
 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 | 2022-11-17 |  |
-| [E.T.I.](https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:41 | 2024-12-24 |  |
+| [E.T.I.](https://open.spotify.com/track/2rzAcvDOuqbVXgfVSuApUA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/5l1YqRO0Fq2WxIpX0G0lgh) | 3:41 | 2025-02-16 |  |
+| [E.T.I.](https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:41 | 2024-12-24 | 2025-02-16 |
 | [Enemies](https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 5:00 | 2022-11-17 | 2023-11-11 |
 | [Exactly What You Wanted](https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:36 | 2022-11-17 |  |
 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 | 2022-11-17 |  |
-| [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 | 2022-11-17 |  |
+| [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 | 2022-11-17 | 2025-02-16 |
 | [FBLA ll \- Live 1994](https://open.spotify.com/track/7jwzEuZnHmqevhirer3NEa) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Stick It Out \- Live](https://open.spotify.com/album/1elfukGNR4DbU7FH6j1G0D) | 3:29 | 2024-07-11 | 2024-08-23 |
 | [Give It](https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:16 | 2022-11-17 |  |
 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 | 2022-11-17 | 2023-10-02 |
@@ -41,6 +42,7 @@
 | [Gun Fluf](https://open.spotify.com/track/4WPXpD0IxrsyYCsxej7iaU) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Gun Fluf](https://open.spotify.com/album/2TRMF7MNoh6fZn4HFa0X5Y) | 3:29 | 2023-11-10 | 2023-12-14 |
 | [Gun Fluf](https://open.spotify.com/track/7GxDGv0LeGzBKJsFPqlcDM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Gun Fluf](https://open.spotify.com/album/507rjc0epEQN9UJbwHcIlH) | 3:29 | 2023-09-21 | 2023-11-11 |
 | [Gun Fluf](https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:29 | 2023-12-13 | 2024-12-03 |
+| [He Feels Bad](https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:03 | 2025-02-16 |  |
 | [Holiday](https://open.spotify.com/track/1K5zgKbnR0iGCLTJeev95k) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:22 | 2024-03-05 | 2024-04-03 |
 | [Holiday](https://open.spotify.com/track/2hBa4M3vAYpmw0rVsScVVz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:22 | 2024-05-20 | 2024-06-03 |
 | [Holiday](https://open.spotify.com/track/40nd6IOSBJsHtKJOKWvQlS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Holiday](https://open.spotify.com/album/3vpPVavr1AP4hRv9ZCg1p1) | 3:22 | 2023-09-21 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,978 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,043 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 95 | [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 |
 | 96 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 |
 | 97 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
-| 98 | [If We Go Down](https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [If We Go Down](https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY) | 3:25 |
-| 99 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 |
+| 98 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 |
+| 99 | [If We Go Down](https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [If We Go Down](https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY) | 3:25 |
 | 100 | [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 |
 
 Snapshot ID: `Z67N+QAAAAAu6xUGD1nZd6RLbBs3+obU`

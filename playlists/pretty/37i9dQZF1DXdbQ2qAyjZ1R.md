@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,745 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,749 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 13 | [I Want You Back](https://open.spotify.com/track/6xsJn5g4oc2GYax11iFwCS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/0fhggG3ywOi3jav209WMoI) | 4:19 |
 | 14 | [With You](https://open.spotify.com/track/0vZprblPk2tDRSkenCBa1W) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [With You](https://open.spotify.com/album/0tWb2C4MLihUxFxzLdHgYJ) | 3:42 |
 | 15 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 |
-| 16 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
+| 16 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 17 | [Crucify Your Mind](https://open.spotify.com/track/11b2qOzCDDhe3HWmEWBGay) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/2Mftce9gY24uWz8pLIMbRP) | 2:32 |
 | 18 | [Save a Little Love for Me](https://open.spotify.com/track/03SNyUzycOZ2QvhpIPbKyA) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo) | [Forward](https://open.spotify.com/album/7AusHwUtyhcirLLfEtvqyN) | 3:32 |
 | 19 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |

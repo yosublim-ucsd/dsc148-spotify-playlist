@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,868 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,919 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 5 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 6 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 |
 | 7 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 |
-| 8 | [Chorei na Vaquejada](https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Chorei na Vaquejada](https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2) | 2:37 |
-| 9 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
+| 8 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
+| 9 | [Chorei na Vaquejada](https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Chorei na Vaquejada](https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2) | 2:37 |
 | 10 | [Me Usa \- Ao Vivo](https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Me Usa \(Ao Vivo\)](https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl) | 2:46 |
 | 11 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 12 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 52 | [Tanto Faz \- Ao Vivo](https://open.spotify.com/track/5GiYIXJ21dQlzxdL3Qsyh6) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Tanto Faz \(Ao Vivo\)](https://open.spotify.com/album/6wikeTuyirSNGsZH1ZaEN1) | 2:30 |
 | 53 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 54 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
-| 55 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
-| 56 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 55 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 56 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
 | 57 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 58 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
 | 59 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
-| 60 | [A Um Beijo \- Ao Vivo](https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [A Um Beijo \(Ao Vivo\)](https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd) | 2:36 |
+| 60 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 |
 
 Snapshot ID: `Z4o1FQAAAADtTUelQr4PMm9RuGZrU5p5`

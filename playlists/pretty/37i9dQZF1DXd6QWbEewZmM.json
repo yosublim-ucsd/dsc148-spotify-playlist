@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 289649,
+  "num_followers": 289695,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Reina de mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS"
-      },
-      "artists": [
-        {
-          "name": "Jesus Dimas",
-          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
-        }
-      ],
-      "duration_ms": 214035,
-      "name": "Reina de mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 249421,
       "name": "Las Razones",
       "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Reina de mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS"
+      },
+      "artists": [
+        {
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
+        }
+      ],
+      "duration_ms": 214035,
+      "name": "Reina de mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Te Vas A Recordar",
-        "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
       "artists": [
         {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 154992,
-      "name": "Te Vas A Recordar",
-      "url": "https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5"
+      "duration_ms": 186834,
+      "name": "CRIES IN SPANISH",
+      "url": "https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+        "name": "Te Vas A Recordar",
+        "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
         }
       ],
-      "duration_ms": 186834,
-      "name": "CRIES IN SPANISH",
-      "url": "https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy"
+      "duration_ms": 154992,
+      "name": "Te Vas A Recordar",
+      "url": "https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "Fases del Amor",
+        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Amor Con Detalle",
+      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Cartas",
         "url": "https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 153827,
       "name": "Cartas",
       "url": "https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "Fases del Amor",
-        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 216149,
-      "name": "Amor Con Detalle",
-      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "No Funcion\u00f3",
-        "url": "https://open.spotify.com/album/3XKKQTOH2a7tahTJSetqYJ"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
       },
       "artists": [
         {
-          "name": "Mauricio Flores",
-          "url": "https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 183454,
-      "name": "No Funcion\u00f3",
-      "url": "https://open.spotify.com/track/7xJ1pW2V2Cj4dLl3iTvm1F"
+      "duration_ms": 141199,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
+        "name": "No Funcion\u00f3",
+        "url": "https://open.spotify.com/album/3XKKQTOH2a7tahTJSetqYJ"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+          "name": "Mauricio Flores",
+          "url": "https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35"
         }
       ],
-      "duration_ms": 141199,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+      "duration_ms": 183454,
+      "name": "No Funcion\u00f3",
+      "url": "https://open.spotify.com/track/7xJ1pW2V2Cj4dLl3iTvm1F"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "LHTL",
+        "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 234734,
+      "name": "LHTL",
+      "url": "https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 220000,
       "name": "RLUX",
       "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "LHTL",
-        "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 234734,
-      "name": "LHTL",
-      "url": "https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "2 De La",
+        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "2 De La",
+      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Si\u00e9ntelo a Tu Modo",
         "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "2 De La",
-        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
+        "name": "Tu Orgullo",
+        "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
       },
       "artists": [
         {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 190789,
-      "name": "2 De La",
-      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
+      "duration_ms": 212757,
+      "name": "Tu Orgullo",
+      "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1843,22 +1859,6 @@
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "Tu Orgullo",
-        "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 212757,
-      "name": "Tu Orgullo",
-      "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "T\u00fa No Vuelves",
-        "url": "https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 203723,
-      "name": "T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "T\u00fa No Vuelves",
+        "url": "https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 203723,
+      "name": "T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "C\u00e1psulas",
         "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
       },
@@ -2255,8 +2255,8 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Era El \u00danico",
-        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+        "name": "Nadie Mas",
+        "url": "https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6"
       },
       "artists": [
         {
@@ -2264,25 +2264,9 @@
           "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
         }
       ],
-      "duration_ms": 130375,
-      "name": "Era El \u00danico",
-      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "Rodeo Drive",
-        "url": "https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11"
-      },
-      "artists": [
-        {
-          "name": "Drian",
-          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
-        }
-      ],
-      "duration_ms": 128213,
-      "name": "Rodeo Drive",
-      "url": "https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N"
+      "duration_ms": 170363,
+      "name": "Nadie Mas",
+      "url": "https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2303,18 +2287,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Me Dejaste en Cero",
-        "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
+        "name": "Rodeo Drive",
+        "url": "https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11"
       },
       "artists": [
         {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+          "name": "Drian",
+          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Me Dejaste en Cero",
-      "url": "https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E"
+      "duration_ms": 128213,
+      "name": "Rodeo Drive",
+      "url": "https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2371,6 +2355,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "Me Dejaste en Cero",
+        "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Me Dejaste en Cero",
+      "url": "https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Vete A La :)",
         "url": "https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E"
       },
@@ -2387,8 +2387,8 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Nadie Mas",
-        "url": "https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6"
+        "name": "Era El \u00danico",
+        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
       },
       "artists": [
         {
@@ -2396,25 +2396,9 @@
           "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
         }
       ],
-      "duration_ms": 170363,
-      "name": "Nadie Mas",
-      "url": "https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "VERSATILIDAD",
-        "url": "https://open.spotify.com/album/4zYr8sSOd4useCJT2I7921"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/0sacNu1VADSB1VzA0WfKJ8"
+      "duration_ms": 130375,
+      "name": "Era El \u00danico",
+      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2451,22 +2435,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Coqueta",
         "url": "https://open.spotify.com/album/61yRp7eSSCpyuVNCReDKhG"
       },
@@ -2483,6 +2451,38 @@
       "duration_ms": 233335,
       "name": "Coqueta",
       "url": "https://open.spotify.com/track/76JywGpGQQPfzTG3eNFO6r"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "VERSATILIDAD",
+        "url": "https://open.spotify.com/album/4zYr8sSOd4useCJT2I7921"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/0sacNu1VADSB1VzA0WfKJ8"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2551,18 +2551,26 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "La Cancion",
-        "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
+        "name": "Mas de Cien Canciones",
+        "url": "https://open.spotify.com/album/32K6zDWvgpA7MxzoqV7voB"
       },
       "artists": [
         {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        },
+        {
+          "name": "Ekipo Inicial",
+          "url": "https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ"
+        },
+        {
+          "name": "Three Kingz Global",
+          "url": "https://open.spotify.com/artist/23yjPxUzURIfc143xqU9zO"
         }
       ],
-      "duration_ms": 205600,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
+      "duration_ms": 257394,
+      "name": "Mas de Cien Canciones",
+      "url": "https://open.spotify.com/track/0zGxVax2XaBmm42KU39mmi"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

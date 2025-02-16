@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22709,
+  "num_followers": 22715,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAL1cQqX+N/g4g5KYRtQwq6qk8bYt2O",
+  "snapshot_id": "AAAL142p5PQCZojSfUwqZy5EDVF+3DMf",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -711,6 +711,38 @@
       "duration_ms": 292866,
       "name": "Schoolyard",
       "url": "https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa"
+    },
+    {
+      "added_at": "2025-02-16 01:10:06",
+      "album": {
+        "name": "Phonetics On and On",
+        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 209257,
+      "name": "Well I Know You're Shy",
+      "url": "https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY"
+    },
+    {
+      "added_at": "2025-02-16 01:10:43",
+      "album": {
+        "name": "Phonetics On and On",
+        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 243193,
+      "name": "Information Content",
+      "url": "https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx"
     }
   ],
   "unique_name": "something new",

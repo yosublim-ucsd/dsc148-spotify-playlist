@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 72754,
+  "num_followers": 72811,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -875,8 +875,8 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+      "duration_ms": 144682,
+      "name": "Lo Que Empieza Acaba",
+      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Para Que Vuelves",
         "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
       },
@@ -987,8 +971,24 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
       "artists": [
         {
@@ -996,25 +996,9 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 144682,
-      "name": "Lo Que Empieza Acaba",
-      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Exitos de La Victoria de Mexico: Volume 1",
-        "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
-      },
-      "artists": [
-        {
-          "name": "La Victoria De Mexico",
-          "url": "https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+      "duration_ms": 199053,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "Exitos de La Victoria de Mexico: Volume 1",
+        "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
+      },
+      "artists": [
+        {
+          "name": "La Victoria De Mexico",
+          "url": "https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Rolonononas Pa la Raza",
         "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 177866,
       "name": "El Albanil",
       "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Si la Vida Me Pidieras",
-        "url": "https://open.spotify.com/album/4br3jM3JVBakBL2ZdOEoJ2"
-      },
-      "artists": [
-        {
-          "name": "Severo Benito y Su Banda Cachas de Oro",
-          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
-        }
-      ],
-      "duration_ms": 313843,
-      "name": "Si la Vida Me Pidieras",
-      "url": "https://open.spotify.com/track/2mxrQW3HMnLz7eOmvo1lf6"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1083,6 +1067,22 @@
       "duration_ms": 183160,
       "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
       "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Si la Vida Me Pidieras",
+        "url": "https://open.spotify.com/album/4br3jM3JVBakBL2ZdOEoJ2"
+      },
+      "artists": [
+        {
+          "name": "Severo Benito y Su Banda Cachas de Oro",
+          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
+        }
+      ],
+      "duration_ms": 313843,
+      "name": "Si la Vida Me Pidieras",
+      "url": "https://open.spotify.com/track/2mxrQW3HMnLz7eOmvo1lf6"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Cuando Los Hombres Lloran",
-        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
+        "name": "Homenaje al Rey Pobre",
+        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
       "artists": [
         {
-          "name": "Josecito Leon y Su Internacional Banda Roja",
-          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        },
+        {
+          "name": "La Dinastia de Tuzantla Mich",
+          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
         }
       ],
-      "duration_ms": 156288,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+      "duration_ms": 172714,
+      "name": "Carta de Luto",
+      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Homenaje al Rey Pobre",
-        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
+        "name": "Cuando Los Hombres Lloran",
+        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
       "artists": [
         {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        },
-        {
-          "name": "La Dinastia de Tuzantla Mich",
-          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
+          "name": "Josecito Leon y Su Internacional Banda Roja",
+          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Carta de Luto",
-      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
+      "duration_ms": 156288,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Puros Corridos Y No Cochadas (En Vivo)",
-        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        }
-      ],
-      "duration_ms": 179221,
-      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-      "url": "https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Se Equivoco Tu Corazon",
         "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 149693,
       "name": "Lo Descubri En Tus Brazos",
       "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "duration_ms": 179221,
+      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+      "url": "https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1727,22 +1727,6 @@
       "duration_ms": 195640,
       "name": "Que Viva Tierra Caliente",
       "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Puros Corridos Y No Cochadas (En Vivo)",
-        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "Prueba De Fuego (En Vivo)",
-      "url": "https://open.spotify.com/track/0iCEhc2I1mlVIbRSA1Cif8"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1840,9 +1824,9 @@
           "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Yo Ya Sab\u00eda Pa'D\u00f3nde Iba (En Vivo)",
-      "url": "https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm"
+      "duration_ms": 201183,
+      "name": "Prueba De Fuego (En Vivo)",
+      "url": "https://open.spotify.com/track/0iCEhc2I1mlVIbRSA1Cif8"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1943,38 +1927,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "El Baile de la Iguana (En Vivo)",
-        "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        }
-      ],
-      "duration_ms": 163285,
-      "name": "El Baile de la Iguana (En Vivo)",
-      "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Ojos Negros Nunca Enganan",
-        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
-        }
-      ],
-      "duration_ms": 192104,
-      "name": "Ojos Negros Nunca Enga\u00f1an",
-      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "No Traigo 45",
         "url": "https://open.spotify.com/album/1k5H0rnSdBvZ5RhqsfcmB1"
       },
@@ -1991,6 +1943,38 @@
       "duration_ms": 196220,
       "name": "Bonito Tierra Caliente",
       "url": "https://open.spotify.com/track/1KoRFIQxCMEnzqlFQB2jmA"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Yo Ya Sab\u00eda Pa'D\u00f3nde Iba (En Vivo)",
+      "url": "https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Ojos Negros Nunca Enganan",
+        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+        }
+      ],
+      "duration_ms": 192104,
+      "name": "Ojos Negros Nunca Enga\u00f1an",
+      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -2047,18 +2031,34 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/1bIyAB9u52Xv1yRtKdq11z"
+        "name": "Llegando a Ti (Y Sigue el Rey Pobre de Tierra Caliente)",
+        "url": "https://open.spotify.com/album/1qwNpl0Z9xuoJ5Je0wSid3"
       },
       "artists": [
         {
-          "name": "Sagitario Musical",
-          "url": "https://open.spotify.com/artist/2xKp5BJZnK4EsPX7nzaR4L"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
         }
       ],
-      "duration_ms": 172983,
-      "name": "Suerte He Tenido",
-      "url": "https://open.spotify.com/track/6q4idcnmj4eT7drI93sYgj"
+      "duration_ms": 150492,
+      "name": "De Manana en Ocho Dias",
+      "url": "https://open.spotify.com/track/5hnZD9rdgTPNrEKsPgwOsk"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Te Cedo Mis Derechos",
+        "url": "https://open.spotify.com/album/5EB2Xyx5tg67Zr58dYLIWV"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "duration_ms": 215551,
+      "name": "Te Cedo Mis Derechos",
+      "url": "https://open.spotify.com/track/3ha07AmF2TAiqcXmven9Hk"
     }
   ],
   "unique_name": "Tierra Caliente",

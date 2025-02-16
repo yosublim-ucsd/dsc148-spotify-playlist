@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,413 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,432 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 19 | [Good Thing Going On](https://open.spotify.com/track/7pbI9fVQB2wcbIq9JOJrg3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Good Thing Going On](https://open.spotify.com/album/764EDpWg5cjQMhYMymOim3) | 2:57 |
 | 20 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
 | 21 | [To Move Your Heart](https://open.spotify.com/track/3KIUSkO74EUMhkysOw7qiV) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [To Move Your Heart](https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg) | 3:45 |
-| 22 | [boys & breakups](https://open.spotify.com/track/6R6exRRWtLtKPj5WljknIx) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [boys & breakups](https://open.spotify.com/album/12xovsx3gHACmHV2dLzRim) | 3:34 |
+| 22 | [boys & breakups](https://open.spotify.com/track/6R6exRRWtLtKPj5WljknIx) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [boys & breakups](https://open.spotify.com/album/12xovsx3gHACmHV2dLzRim) | 3:34 |
 | 23 | [together forever](https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [together forever](https://open.spotify.com/album/63j9BaXZoVMISZ89x8iYU6) | 3:10 |
 | 24 | [Being Honest](https://open.spotify.com/track/5p0bt3ETpVcyrfbYz8L5Rt) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Being Honest](https://open.spotify.com/album/4D0qCz5qvXrQ6Z9oxXlzT8) | 2:51 |
 | 25 | [keepsake](https://open.spotify.com/track/1SbwSEMvRTBPsYehCirQNY) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [keepsake](https://open.spotify.com/album/1YmM988yfM5YIXucvX9r9q) | 3:56 |

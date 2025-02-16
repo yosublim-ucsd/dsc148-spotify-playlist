@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 161040,
       "name": "Bien Me Conoces",
       "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 160874,
       "name": "LOKERON",
       "url": "https://open.spotify.com/track/0upDkv91v57p3TQmoXUIv9"
@@ -1402,6 +1402,24 @@
       "duration_ms": 217776,
       "name": "Plomo Traigo - en Vivo",
       "url": "https://open.spotify.com/track/6odDzEMGI4wpzkqVF1cJNF"
+    },
+    {
+      "album": {
+        "name": "ONLY ENAMORADOS",
+        "url": "https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PRINCESA",
+      "url": "https://open.spotify.com/track/5MvPOrI2YGBG0wnvwARTD0"
     },
     {
       "album": {

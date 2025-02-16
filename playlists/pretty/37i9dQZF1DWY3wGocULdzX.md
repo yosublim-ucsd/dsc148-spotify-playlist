@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,671 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,702 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 23 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 5:34 |
 | 24 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
 | 25 | [Kenya](https://open.spotify.com/track/48MxmM42utTBnvedomKp3C) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mucho Machito](https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ) | 3:04 |
-| 26 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
+| 26 | [Varsity Drag \- Mambo Jazz Instrumental](https://open.spotify.com/track/023qcEfVt18bVng2maOp9I) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:50 |
 | 27 | [Cao Cao Mani Picao](https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 3:47 |
 | 28 | [Me Lo Dijo Adela \(Sweet and Gentle\)](https://open.spotify.com/track/2bnnNe1nrMwAf1jBdaWxZD) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:36 |
 | 29 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
 | 30 | [Mi Jebita](https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 4:35 |
 | 31 | [Mambo Is Here to Stay](https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Perlas Cubanas: Machito](https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA) | 2:59 |
 | 32 | [Bochinchosa](https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 3:24 |
-| 33 | [Varsity Drag \- Mambo Jazz Instrumental](https://open.spotify.com/track/023qcEfVt18bVng2maOp9I) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:50 |
+| 33 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 34 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/136ebmw2Sva09VEkfvXedw) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/album/3dE8KYj4tjGBcIkocn3vNN) | 4:21 |
 | 35 | [La Pelota](https://open.spotify.com/track/1e3mpdIPpjHcRC7VyThx0v) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Anthology](https://open.spotify.com/album/2luJt11G0LhifoFxAwNIra) | 4:16 |
 | 36 | [Mama Guela](https://open.spotify.com/track/3l2dxZWkOLCB64MfK3Yo2J) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Anthology](https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v) | 2:42 |

@@ -21838,7 +21838,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 159803,
       "name": "Passivt aggressiv inkomst",
       "url": "https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN"
@@ -23312,6 +23312,24 @@
       "duration_ms": 226253,
       "name": "R\u00e4cker inte till",
       "url": "https://open.spotify.com/track/1EnVmW3xvHCaVdAeQSJ66N"
+    },
+    {
+      "album": {
+        "name": "R\u00e4dda mig",
+        "url": "https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180010,
+      "name": "R\u00e4dda mig",
+      "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
     },
     {
       "album": {

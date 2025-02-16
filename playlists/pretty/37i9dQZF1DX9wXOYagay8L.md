@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=gOPGTxa9RcS2LOcUSdP\-3Q"> Ringo Madlingozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,517 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,641 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 6 | [Esandleni](https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Lindiwe](https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved) | 5:36 |
 | 7 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 |
 | 8 | [Dubai 2.0](https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf) | [Aya Msani](https://open.spotify.com/artist/4msIq1xJndm9p6DE6nBSKB), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dubai 2.0](https://open.spotify.com/album/4h79EIDCtBOnVrH7fO8f5x) | 4:09 |
-| 9 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 |
+| 9 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 |
 | 10 | [Uyangijabulisa](https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Naledi](https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX) | [Uyangijabulisa](https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW) | 4:48 |
 | 11 | [Typhoon \(feat\. Sastii, LaCabra, Lowfeye, Blue Pappi\)](https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml) | [Isibuko \(Deluxe\)](https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U) | 4:36 |
 | 12 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |

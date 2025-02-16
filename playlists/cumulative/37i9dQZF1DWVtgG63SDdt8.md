@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Elle Limebear & Samm Henshaw
 
-8,257 songs - 22 day 17 hr 26 min
+8,258 songs - 22 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [Biggest, Greatest Thing](https://open.spotify.com/track/3OcPyu9YnmsqM6Aq1vWrV8) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:12 | 2022-09-30 | 2022-10-15 |
 | [Billion Stars](https://open.spotify.com/track/7s0426BCRFOonzF4XdXIT6) | [HERITVGE](https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX) | [No Fear In Your Love](https://open.spotify.com/album/62Fwbho9g46fNn2i8FZs78) | 3:03 | 2024-09-20 | 2024-09-28 |
 | [Bird's Eye View](https://open.spotify.com/track/30JLHtJJn4IIhbDzW70Dpj) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [Bird's Eye View](https://open.spotify.com/album/4R43ssdV1uGviGfsSmubQ1) | 3:05 | 2023-02-03 | 2023-02-18 |
+| [Birdie](https://open.spotify.com/track/2Cch3RgdPteC8vNv0daDu3) | [Painter's Club](https://open.spotify.com/artist/4hBdhDK4bu1I5lON7dALCw) | [Birdie](https://open.spotify.com/album/2Bas95W61G6U71zv5cRQWR) | 4:09 | 2025-02-14 |  |
 | [Birds and Beasts](https://open.spotify.com/track/5SBofO5gakfyXJhG4yt6Xv) | [Mountain People Worship](https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr) | [Birds and Beasts](https://open.spotify.com/album/1dJqFtsolDdhwF4ZMmvOPh) | 4:51 | 2023-06-30 | 2023-07-15 |
 | [Black As Heaven](https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Black As Heaven](https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp) | 3:37 | 2022-07-01 | 2022-07-16 |
 | [Black Monday](https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Black Monday](https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz) | 3:19 | 2024-07-12 | 2024-07-19 |

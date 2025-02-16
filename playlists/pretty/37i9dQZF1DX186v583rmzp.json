@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8967210,
+  "num_followers": 8968258,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
       "artists": [
         {
           "name": "Ol' Dirty Bastard",
           "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
       "artists": [
         {
           "name": "Ol' Dirty Bastard",
           "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Extended Revolution",
+        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Tical (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 309946,
       "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
       "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Extended Revolution",
-        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Supa Dupa Fly",
-        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+        "name": "He Got Game (Soundtrack)",
+        "url": "https://open.spotify.com/album/265OEkRcX40ppxgHGuu4cI"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        },
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Rain (Supa Dupa Fly)",
-      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+      "duration_ms": 286200,
+      "name": "He Got Game",
+      "url": "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "He Got Game (Soundtrack)",
-        "url": "https://open.spotify.com/album/265OEkRcX40ppxgHGuu4cI"
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        },
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 286200,
-      "name": "He Got Game",
-      "url": "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA"
+      "duration_ms": 251000,
+      "name": "The Rain (Supa Dupa Fly)",
+      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
     },
     {
       "added_at": "2024-06-28 10:14:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=Fb98etzwQHGS75PNaRg80w>Celestine Donkor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,608 likes - 102 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,632 likes - 102 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 27 | [Daniel in the Den](https://open.spotify.com/track/4tOci1vlMAbuw0J7cNYQOY) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Adornment](https://open.spotify.com/album/3VIonFf8876xiWKmv7SJpZ) | 2:50 |
 | 28 | [My Everything](https://open.spotify.com/track/1sBo3CA0LYStRYJFF14d0h) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [My Everything](https://open.spotify.com/album/5tZheASGKoIY3eR6lo3S2F) | 2:36 |
 | 29 | [Love N Affection Stripped](https://open.spotify.com/track/4X8n52C8oiTdteJUuXgCXb) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [LOVE N AFFECTION](https://open.spotify.com/album/5TPa6T5DTbhkFn8cK0a3pz) | 2:35 |
-| 30 | [O Sure Ju](https://open.spotify.com/track/48XtC0sKvsHgSNaRLxglGe) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Pastor Korede Komaiya \(KK\)](https://open.spotify.com/artist/5RmNOMRj7cK1fBtH5HmePX) | [O Sure Ju](https://open.spotify.com/album/2WeraFquIGXGgitxciH3Y3) | 3:56 |
+| 30 | [O Sure Ju \- SM Version](https://open.spotify.com/track/48XtC0sKvsHgSNaRLxglGe) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Pastor Korede Komaiya \(KK\)](https://open.spotify.com/artist/5RmNOMRj7cK1fBtH5HmePX) | [O Sure Ju \(SM Version\)](https://open.spotify.com/album/2WeraFquIGXGgitxciH3Y3) | 3:56 |
 | 31 | [Keep Me](https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Keep Me](https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5) | 3:40 |
 | 32 | [the Rock](https://open.spotify.com/track/27uYExfLTZn11OJFzwcAfD) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [the Rock](https://open.spotify.com/album/4fkiB2QuoNDnbM2Heubc3D) | 2:13 |
 | 33 | [My Baby \(For My Mind Refix\)](https://open.spotify.com/track/4MmPfuXoclt5rnQ8pQY9lE) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK) | [My Baby \(For My Mind Refix\)](https://open.spotify.com/album/0uvBNEyufd5alJGgDCozJF) | 2:50 |

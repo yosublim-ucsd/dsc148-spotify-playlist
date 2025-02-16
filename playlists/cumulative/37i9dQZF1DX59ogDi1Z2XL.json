@@ -19637,7 +19637,7 @@
     },
     {
       "album": {
-        "name": "MNU",
+        "name": "mnu",
         "url": "https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN"
       },
       "artists": [
@@ -19654,7 +19654,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127152,
-      "name": "MNU",
+      "name": "mnu",
       "url": "https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7"
     },
     {
@@ -24220,7 +24220,7 @@
           "url": "https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK"
         },
         {
-          "name": "EverythingOShauN",
+          "name": "Everything OShauN",
           "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
         }
       ],

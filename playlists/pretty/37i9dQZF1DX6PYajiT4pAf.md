@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ozuna con Kapo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,762 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,830 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 13 | [TÚ ME CALIENTAS](https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [TÚ ME CALIENTAS](https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B) | 3:08 |
 | 14 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 |
 | 15 | [Entre Sábanas](https://open.spotify.com/track/24nUjL8WpfiwsAKmxvyncp) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Entre Sábanas](https://open.spotify.com/album/1MOyffCwvYTNPWzSWdKj1X) | 2:50 |
-| 16 | [El Angelito De La Flecha](https://open.spotify.com/track/164XpSBAOSzdGgzuw0WTDn) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [El Angelito De La Flecha](https://open.spotify.com/album/6lRmhQlHc4WmLQ3UWM3I4R) | 2:41 |
+| 16 | [EL ANGELITO DE LA FLECHA](https://open.spotify.com/track/164XpSBAOSzdGgzuw0WTDn) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [EL ANGELITO DE LA FLECHA](https://open.spotify.com/album/6lRmhQlHc4WmLQ3UWM3I4R) | 2:41 |
 | 17 | [Cuando Paro El Tiempo](https://open.spotify.com/track/5EOjX25qHvZI0V0kk6zz4Q) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Cuando Paro El Tiempo](https://open.spotify.com/album/24Zixjh5VHe6wbaCVR03Ss) | 2:33 |
 | 18 | [NOVIO GOLDEN](https://open.spotify.com/track/7HlNux6hxyop8Dws2mxRsY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [NOVIO GOLDEN](https://open.spotify.com/album/2EQKi80GtJoeeGdYC7S8sR) | 2:37 |
 | 19 | [FULL TIME](https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [FULL TIME](https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9) | 2:54 |

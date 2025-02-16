@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,381 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,378 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 86 | [Alien Roll Up](https://open.spotify.com/track/1GPtzdTYcgM5Sfo1uY04D8) | [Daniel Obede](https://open.spotify.com/artist/52iOjoWrTb6PywzCQjyKNl) | [Kunstpause](https://open.spotify.com/album/3m6Bw38BOB2J1kgmrqSRad) | 2:08 |
 | 87 | [For Love](https://open.spotify.com/track/0R3vCJBfr9KnSPCpmbUohp) | [Elén](https://open.spotify.com/artist/4dtLVZL7kKqUllQYnVQ6o4) | [For Love](https://open.spotify.com/album/3xeOVdOLldR2Sc6TlzP0j7) | 3:42 |
 | 88 | [Gå til meg \(Aïcha\)](https://open.spotify.com/track/1CdAXhSKvMCxutSWoSQlHM) | [Daniel Owen](https://open.spotify.com/artist/2MhO4JuaAkNwVAMRK0kq8e) | [Gå til meg \(Aïcha\)](https://open.spotify.com/album/5Hzmm3J7eYN5OCD5mxGKV1) | 2:47 |
-| 89 | [Dansar Under Regn](https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [DANSA UNDER REGN](https://open.spotify.com/album/1ZO17nLoqyOJ7lQc7nQTeh) | 1:45 |
+| 89 | [Dansa Under Regn](https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [DANSA UNDER REGN](https://open.spotify.com/album/1ZO17nLoqyOJ7lQc7nQTeh) | 1:45 |
 | 90 | [Monet](https://open.spotify.com/track/5A4aLbXZoh5BHh03mSv0eJ) | [Eirik Lyng](https://open.spotify.com/artist/5XSqkcbAbupm71wW5B2iEe) | [Monet](https://open.spotify.com/album/0FuphIsG65azDVIA1jv2E0) | 2:50 |
 | 91 | [Sammen med deg](https://open.spotify.com/track/6m8nHZyqfIQu4YJEe7vncH) | [Maria Solheim](https://open.spotify.com/artist/50dO3ZgIhCt8OEmmMougtn) | [Sammen med deg](https://open.spotify.com/album/14RoINICxYTgCnkzO8WUGp) | 3:37 |
 | 92 | [tiden imellom](https://open.spotify.com/track/671QWhufXeWgPUUl8o8cY5) | [Sofia Loise](https://open.spotify.com/artist/21iee2QrHmKLhP1kId0hKL) | [tiden imellom](https://open.spotify.com/album/0M0TCtZrMOahp0uOeqWCra) | 3:29 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 98 | [Call This Love](https://open.spotify.com/track/0ClcMZDqAv8eJRjYDcbGZO) | [Jake Cooper](https://open.spotify.com/artist/7KKsjyYI1JYxvme5vEUlNQ), [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv) | [Call This Love](https://open.spotify.com/album/1NAjzN87v1q25fuj1L6nsc) | 2:08 |
 | 99 | [White Lies](https://open.spotify.com/track/4SUtXkjKbUZbZhEHm79c86) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Kenan Waters](https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv), [Dana Shine](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [White Lies](https://open.spotify.com/album/2Vis6pTjyb3Pg4G7vQm6rR) | 2:59 |
 
-Snapshot ID: `Z67N/QAAAAACF51CDyfpwo36M2ErueMN`
+Snapshot ID: `Z67N/QAAAACl34NvjuXyjnsyQCR0NaSQ`

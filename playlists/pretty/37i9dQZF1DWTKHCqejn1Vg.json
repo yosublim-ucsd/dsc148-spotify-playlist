@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33281,
+  "num_followers": 33280,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "added_at": "2025-01-24 02:16:27",
+      "album": {
         "name": "Skrr (feat. GISELLE)",
         "url": "https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 219200,
       "name": "Skrr (feat. GISELLE)",
       "url": "https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy"
-    },
-    {
-      "added_at": "2025-01-24 02:16:27",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -347,18 +347,22 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -379,22 +383,18 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
         }
       ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -551,18 +551,22 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+      "duration_ms": 218092,
+      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
+      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -583,22 +587,18 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 218092,
-      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
-      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "Remained scent",
-        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
       },
       "artists": [
         {
-          "name": "BB",
-          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
         }
       ],
-      "duration_ms": 186755,
-      "name": "Remained scent",
-      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+      "duration_ms": 167500,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

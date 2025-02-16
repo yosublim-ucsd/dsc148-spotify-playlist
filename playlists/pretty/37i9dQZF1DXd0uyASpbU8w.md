@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV?si=qeIG20LMQbad9ucubMkXSA">PARTYNEXTDOOR</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4?si=NfGoxLlEQPmPsFD\_JomFjA">Drake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,528 likes - 84 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,579 likes - 84 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 61 | [Bestie](https://open.spotify.com/track/20nasYiQTTHZjp6bI17Xa4) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2) | [Bestie](https://open.spotify.com/album/1CZQXnWYzJ1TcqNBiBFYTT) | 2:30 |
 | 62 | [Flight Of Hope](https://open.spotify.com/track/0ltIY6u9LENBEnoJrIUkif) | [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS) | [Flight Of Hope](https://open.spotify.com/album/5YkzoV9J3zL8MG2MILgGI2) | 7:08 |
 | 63 | [Keo Shebile](https://open.spotify.com/track/3fof4LNTLrQntYCK4sWCb2) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Try More](https://open.spotify.com/artist/4Kvh5f6U63MvawH5YmAhWZ), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Keo Shebile](https://open.spotify.com/album/2C2HRswTy5OxCQjhaJmyVL) | 2:33 |
-| 64 | [Comfort](https://open.spotify.com/track/3sMMYQC9XDIK8YcQbDpRUg) | [Junior Taurus](https://open.spotify.com/artist/0pO4uiWRlwht6qPWVD4mvj), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Comfort](https://open.spotify.com/album/1Q2z7xVZ8m561YPoRmWldH) | 9:17 |
+| 64 | [Comfort](https://open.spotify.com/track/3sMMYQC9XDIK8YcQbDpRUg) | [Junior Taurus](https://open.spotify.com/artist/0pO4uiWRlwht6qPWVD4mvj), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Comfort](https://open.spotify.com/album/1Q2z7xVZ8m561YPoRmWldH) | 9:22 |
 | 65 | [A Little Living Tonight](https://open.spotify.com/track/4ba2fVTUML9OdhZYdSuezC) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [A Little Living Tonight](https://open.spotify.com/album/7nO1e6v6jjvQ586ReaLrGI) | 3:22 |
 | 66 | [As'qale Phansi](https://open.spotify.com/track/1D5Cax6wV5EJPSyn6DeFWE) | [Lady Sphesh](https://open.spotify.com/artist/5vbAg4P44nYCc9YAv7USTC), [Sibah Musiq](https://open.spotify.com/artist/5zhGJwTIJgYzNDd17JC6Ap) | [As'qale Phansi](https://open.spotify.com/album/43uJm886JJM1V2A5WALXxr) | 5:13 |
 | 67 | [Curves](https://open.spotify.com/track/4RN8NlibRMGX2IaFQDad1x) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC) | [Curves](https://open.spotify.com/album/2D1uJy7nJYhNtJ4WzT3iEt) | 4:35 |

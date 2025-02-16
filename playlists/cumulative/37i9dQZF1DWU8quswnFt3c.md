@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: 4EVE
 
-2,266 songs - 5 day 5 hr 25 min
+2,267 songs - 5 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2046,7 +2046,7 @@
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-07-06 | 2022-08-04 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-06 | 2024-12-05 |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2023-08-02 | 2023-09-07 |
-| [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 | 2025-01-22 |  |
+| [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 | 2025-01-22 | 2025-02-16 |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-11 | 2022-01-06 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-22 | 2024-06-06 |
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-06-05 | 2024-07-04 |
@@ -2125,6 +2125,7 @@
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-08-02 | 2023-09-07 |
 | [Đừng nhấc máy em](https://open.spotify.com/track/3r2WGH6ZoVPZbXcxIUVxrr) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [Minh Tốc](https://open.spotify.com/artist/6041bp1WneyjycRVNFIdrW), [Pablo Yang](https://open.spotify.com/artist/0ecx7ZulYP1M6roRRmYUNF) | [Đừng nhấc máy em](https://open.spotify.com/album/1WP2iVNer8qW04hHid80Vn) | 3:56 | 2023-01-04 | 2023-02-02 |
 | [Đừng Nói Tôi Điên](https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Đừng Nói Tôi Điên](https://open.spotify.com/album/6mxpoaAVFBasybCf2NHaPN) | 4:30 | 2023-09-06 | 2023-10-05 |
+| [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 | 2025-02-05 |  |
 | [БЕЗ КОХАННЯ](https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [БЕЗ КОХАННЯ](https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV) | 3:00 | 2023-04-05 | 2024-01-11 |
 | [вредина](https://open.spotify.com/track/7z5d2KNHm2prczVHmSdWBz) | [алёна швец.](https://open.spotify.com/artist/7m9RH1V73dYjGv8RgGP39c) | [ВРЕДИНА](https://open.spotify.com/album/7xLJ1srg7cLX0bB5BKMV5g) | 2:21 | 2021-12-11 | 2022-01-06 |
 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 | 2024-02-07 | 2024-03-07 |

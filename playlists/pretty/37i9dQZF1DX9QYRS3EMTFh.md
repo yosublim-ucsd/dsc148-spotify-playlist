@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Lu City x SKUNK x X\-Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,395 likes - 40 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,497 likes - 40 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

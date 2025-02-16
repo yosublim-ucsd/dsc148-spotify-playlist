@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,552 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,539 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 31 | [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 |
 | 32 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 |
 | 33 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS) | 2:38 |
-| 34 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
-| 35 | [Navisad](https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Navisad](https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI) | 3:06 |
+| 34 | [Navisad](https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Navisad](https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI) | 3:06 |
+| 35 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
 | 36 | [Volvernos a Encontrar](https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Volvernos a Encontrar](https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1) | 3:06 |
 | 37 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
 | 38 | [Joy To The World \- Spanglish Version](https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Joy To The World \(Spanglish Version\)](https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb) | 2:26 |

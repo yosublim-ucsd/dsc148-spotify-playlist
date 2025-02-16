@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-447 songs - 1 day 4 hr 26 min
+448 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bricks](https://open.spotify.com/track/0xKrRID1IyyLkq4wsaGl9q) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Bricks](https://open.spotify.com/album/0uR3aQIZ8a9s3bFdfSg3KX) | 3:47 | 2024-07-04 | 2024-07-13 |
 | [Bumble](https://open.spotify.com/track/6mL2Xd2Ws0XEFpwXqGN6r4) | [Elon Bass](https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr) | [Bumble](https://open.spotify.com/album/0lKvyzna35BHQQ95EPtbsT) | 4:20 | 2023-11-09 | 2023-11-17 |
 | [Busy Overthinking](https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI) | [Bae Blade](https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA) | [Busy Overthinking](https://open.spotify.com/album/5V0h8Vw3Gw8oaZ93AgpRp1) | 3:26 | 2023-08-25 | 2023-09-02 |
-| [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 | 2024-02-23 |  |
+| [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 | 2024-02-23 | 2025-02-16 |
 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 | 2024-02-08 | 2024-03-23 |
 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 | 2024-02-22 | 2024-04-06 |
 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-05-18 |  |
@@ -157,6 +157,7 @@
 | [Get Funkeee](https://open.spotify.com/track/3UQ9arO3sZ0lzBBRsPMK6P) | [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z), [penglord](https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Get Funkeee](https://open.spotify.com/album/5q412gKbYG2B4MI50iTi3e) | 6:20 | 2023-08-10 | 2023-08-19 |
 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 | 2023-08-25 | 2024-04-19 |
 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-03-10 | 2023-08-23 |
+| [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-02-06 |  |
 | [Ghzelian](https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw) | [Lady Starlight](https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf) | [Ghzelian](https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ) | 5:57 | 2023-08-01 | 2023-08-05 |
 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 | 2025-02-01 |
 | [Global BBs](https://open.spotify.com/track/0HL34cP8CEovMTUKcjkcZr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 5:14 | 2023-06-15 | 2023-06-23 |

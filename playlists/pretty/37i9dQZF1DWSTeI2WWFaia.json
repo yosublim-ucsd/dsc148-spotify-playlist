@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Larry June, 2 Chainz & The Alchemist",
-  "num_followers": 1592505,
+  "num_followers": 1592534,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-02-14 04:00:09",
       "album": {
-        "name": "The Skeleton Key",
-        "url": "https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Street Magic",
-      "url": "https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC"
-    },
-    {
-      "added_at": "2025-02-14 04:00:09",
-      "album": {
         "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
         "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 169560,
       "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
       "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
+    },
+    {
+      "added_at": "2025-02-14 04:00:09",
+      "album": {
+        "name": "The Skeleton Key",
+        "url": "https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Street Magic",
+      "url": "https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC"
     },
     {
       "added_at": "2025-02-14 04:00:09",
@@ -739,18 +739,22 @@
     {
       "added_at": "2025-02-14 04:00:09",
       "album": {
-        "name": "CA$HMERE TEAR$",
-        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
       "artists": [
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 242242,
-      "name": "CA$HMERE TEAR$",
-      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
+      "duration_ms": 157880,
+      "name": "Diego Maradona",
+      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2025-02-14 04:00:09",
@@ -779,6 +783,22 @@
     {
       "added_at": "2025-02-14 04:00:09",
       "album": {
+        "name": "CA$HMERE TEAR$",
+        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "CA$HMERE TEAR$",
+      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
+    },
+    {
+      "added_at": "2025-02-14 04:00:09",
+      "album": {
         "name": "Puff Puff Pass (Remix)",
         "url": "https://open.spotify.com/album/2jpiSXEdiZ7k1PIydcxgu1"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 191052,
       "name": "Puff Puff Pass - Remix",
       "url": "https://open.spotify.com/track/4nEqaq89sgE1VHvKbnweUr"
-    },
-    {
-      "added_at": "2025-02-14 04:00:09",
-      "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Diego Maradona",
-      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2025-02-14 04:00:09",
@@ -895,6 +895,26 @@
     {
       "added_at": "2025-02-14 04:00:09",
       "album": {
+        "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
+        "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
+    },
+    {
+      "added_at": "2025-02-14 04:00:09",
+      "album": {
         "name": "The Confidence Of Knowing",
         "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
       },
@@ -955,30 +975,6 @@
       "duration_ms": 189689,
       "name": "Northside",
       "url": "https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny"
-    },
-    {
-      "added_at": "2025-02-14 04:00:09",
-      "album": {
-        "name": "Still Praying",
-        "url": "https://open.spotify.com/album/0rVlityTu3N2PTYD7eqL8G"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Westside Pootie",
-          "url": "https://open.spotify.com/artist/14P6nG9Uxzwzt7L8GoqMwL"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Underground King",
-      "url": "https://open.spotify.com/track/1Eaqj8WSG79blDjoHcST3r"
     }
   ],
   "unique_name": "Spilled Ink",

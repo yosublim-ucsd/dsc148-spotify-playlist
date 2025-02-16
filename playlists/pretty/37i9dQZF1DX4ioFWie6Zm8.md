@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,135 likes - 101 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,184 likes - 101 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 100 | [Tchero adari negn](https://open.spotify.com/track/3TTeWmFOLXRrJQmyHYtwkx) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 8: Swinging Addis 1969\-1974](https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr) | 4:28 |
 | 101 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 |
 
-Snapshot ID: `Z6Uw+AAAAACZqMwGdHkEZXvDrgvCIyS3`
+Snapshot ID: `Z6Uw+AAAAAC5fFopHXb1OWnLj+DaPFW/`

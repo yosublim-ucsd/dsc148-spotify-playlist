@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Ajeeb",
+        "url": "https://open.spotify.com/album/650irPCmiDJM3NlG3RmSjA"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Dashti",
+          "url": "https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216147,
+      "name": "Ajeeb",
+      "url": "https://open.spotify.com/track/7LKTbmjssPM3r1HrhmP3VA"
+    },
+    {
+      "album": {
         "name": "Akhaf Admank",
         "url": "https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH"
       },

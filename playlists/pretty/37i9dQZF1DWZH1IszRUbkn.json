@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1252,
+  "num_followers": 1257,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 175333,
       "name": "Vamos a Jugar",
       "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
+        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 98226,
       "name": "Feliz En Tu D\u00eda",
       "url": "https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "\u00a1Fantastico!",
-        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Los Numeros",
-      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
         }
       ],
-      "duration_ms": 184226,
-      "name": "Garabato Colorado",
-      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -931,6 +915,22 @@
       "duration_ms": 165293,
       "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
       "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 122680,
+      "name": "Manos Divertidas",
+      "url": "https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC"
     },
     {
       "added_at": "2020-04-27 15:43:16",

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: ANOTR",
-  "num_followers": 33870,
+  "num_followers": 33882,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
         "name": "Shallow Water",
         "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -527,26 +547,6 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
         "name": "Waited All Night",
         "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
       },
@@ -571,6 +571,26 @@
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -703,22 +723,6 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "BROKEN",
-        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 271435,
-      "name": "BROKEN",
-      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -735,6 +739,22 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -771,22 +791,6 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -831,18 +835,18 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Thrown Around",
-        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 260407,
-      "name": "Thrown Around",
-      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -863,6 +867,22 @@
       "duration_ms": 366149,
       "name": "I Have a Love (Overmono Remix)",
       "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
+        "name": "Thrown Around",
+        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 260407,
+      "name": "Thrown Around",
+      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -1083,6 +1103,26 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "TEARS4ALOVER",
         "url": "https://open.spotify.com/album/0gP6xTqemZ7rnjnsICldU0"
       },
@@ -1167,26 +1207,6 @@
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -1283,22 +1303,6 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Arc on the Range",
-        "url": "https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 279937,
-      "name": "Arc on the Range",
-      "url": "https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6"
     }
   ],
   "unique_name": "Indie Electronic ",

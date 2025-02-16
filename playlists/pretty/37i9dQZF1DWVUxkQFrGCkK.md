@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,138 likes - 327 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,248 likes - 327 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 103 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
 | 104 | [Kumbuka](https://open.spotify.com/track/3pBXGBdrpugqgqPQc7dzKi) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [IDQ](https://open.spotify.com/artist/7hnjjhKjLH0brVHm5Bi3gc) | [Kumbuka](https://open.spotify.com/album/7pW7fIb6K86bSaJLDX1dT2) | 3:26 |
 | 105 | [TERRITORY \- SOMMA REMIX](https://open.spotify.com/track/2wKT63Yyolf89Pxc8eKaZI) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [TERRITORY \(SOMMA REMIX\)](https://open.spotify.com/album/0iRdy6JJlVlZ52ZUXodKpA) | 6:29 |
-| 106 | [BASMATI \- Chris IDH Remix](https://open.spotify.com/track/5aeDRpn8rwqZe7WwkTF6aI) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [BASMATI \(Chris IDH Remix\)](https://open.spotify.com/album/423908Euo11e4WJx3M25J6) | 4:33 |
+| 106 | [BASMATI \- Chris IDH Remix](https://open.spotify.com/track/5aeDRpn8rwqZe7WwkTF6aI) | [Everything OShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [BASMATI \(Chris IDH Remix\)](https://open.spotify.com/album/423908Euo11e4WJx3M25J6) | 4:33 |
 | 107 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
 | 108 | [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 |
 | 109 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 326 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 327 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |
 
-Snapshot ID: `Z655gwAAAAAo7PXyueZfZNlE/+we0Qkp`
+Snapshot ID: `Z655gwAAAABqiIthjQWsf6Wb4OlOvKdA`

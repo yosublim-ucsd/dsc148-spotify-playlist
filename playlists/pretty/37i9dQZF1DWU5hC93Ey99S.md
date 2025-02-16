@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,521 likes - 436 songs - 22 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,799 likes - 436 songs - 22 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 23 | [We Rise \- CloudNone & Eyezic Remix](https://open.spotify.com/track/0IfJHqvnpRPFKddPS6wlCP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [We Rise \(eyezic & CloudNone Remix\)](https://open.spotify.com/album/5bshx8rUTJDhy1HYZtgCmF) | 3:29 |
 | 24 | [Mystic Pebble \- Mood Talk Remix](https://open.spotify.com/track/5ayUGL4gx4ntTUOi9e8dgv) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Mystic Pebble \(Mood Talk Remix\)](https://open.spotify.com/album/0eG1bYIW4MsFyI7XIOdYc9) | 4:12 |
 | 25 | [STAY](https://open.spotify.com/track/3y3zXCVTeeF4BCr1ENjiI1) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [Hearts Vol\. 1](https://open.spotify.com/album/2LIQR5GLi1Ou6smderT4Xm) | 2:50 |
-| 26 | [I Like You Like](https://open.spotify.com/track/4Xeeje8zEgBj8bbyPXIWp3) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [I Like You Like](https://open.spotify.com/album/3BKphFeH5q7fmM8m90nNeO) | 1:53 |
+| 26 | [I Like You Like](https://open.spotify.com/track/4Xeeje8zEgBj8bbyPXIWp3) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [I Like You Like](https://open.spotify.com/album/3BKphFeH5q7fmM8m90nNeO) | 1:53 |
 | 27 | [Where Did You Go \- 6am Mix](https://open.spotify.com/track/19Oh3XgCWMvtIpad8vnlpE) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Where Did You Go \(6am Mix\)](https://open.spotify.com/album/1cyObAy69PI2pKuwhauDcC) | 2:58 |
 | 28 | [Still Fading](https://open.spotify.com/track/4QecB7Q334BITuDDErAAya) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Alecc Crisostomo](https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef) | [Still Fading](https://open.spotify.com/album/2gziIdEYaL37zcgcdgTMJX) | 3:06 |
 | 29 | [Lose It All](https://open.spotify.com/track/4t7lAtsYfQ7s0EvIyx3BsX) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Lose It All](https://open.spotify.com/album/5MV9XrtjNrqILgKiNdGC4m) | 2:23 |

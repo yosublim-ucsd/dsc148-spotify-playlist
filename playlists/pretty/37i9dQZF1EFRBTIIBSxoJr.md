@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 128 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 624 likes - 128 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 74 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
 | 75 | [I Still Believe](https://open.spotify.com/track/5ij14NvXSzabsmGSNFgrTe) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:38 |
 | 76 | [Goodbye My Friend](https://open.spotify.com/track/5Zn2RY4CFqzm9lxQWyN8i9) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:48 |
-| 77 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 |
-| 78 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 |
-| 79 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 77 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 78 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 |
+| 79 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 |
 | 80 | [Higher \(Call My Name\)](https://open.spotify.com/track/4uX6unuXXrUAKSTaqOovp9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Higher \(Call My Name\)](https://open.spotify.com/album/0Y4Gw8rHKGl2iyI4BRmPTw) | 3:09 |
 | 81 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 82 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 127 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 128 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbpmdAAAAABvfEAI7PYeXAiAkJPIgoSh`
+Snapshot ID: `AbpsKAAAAAC4ICrOhmDsZgcrEqrKMEpY`

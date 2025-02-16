@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296528,
+  "num_followers": 296534,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Avon",
-      "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 211117,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Avon",
+      "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1216,7 +1216,7 @@
       },
       "artists": [
         {
-          "name": "Chappaqua Wrestling",
+          "name": "CQ Wrestling",
           "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
         }
       ],
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     },
     {
       "added_at": "2024-12-03 09:27:47",

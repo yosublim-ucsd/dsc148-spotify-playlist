@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 776947,
+  "num_followers": 776923,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADHE41OrePoJnfzxA9z1UaR",
+  "snapshot_id": "Z66HgAAAAAB12g9JN8Ubb6pa24t39Iju",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Show",
-        "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "The Greatest Show",
-      "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Show",
+        "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "The Greatest Show",
+      "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
     },
     {
       "added_at": null,

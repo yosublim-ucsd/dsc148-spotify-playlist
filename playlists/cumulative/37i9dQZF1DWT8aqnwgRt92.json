@@ -15253,6 +15253,24 @@
     },
     {
       "album": {
+        "name": "\u8d70\u308cSAKAMOTO",
+        "url": "https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248778,
+      "name": "Somebody help us",
+      "url": "https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i"
+    },
+    {
+      "album": {
         "name": "Sorairo Days - From CrosSing",
         "url": "https://open.spotify.com/album/5AHqJaHjgCN0L9RgYVOUzQ"
       },
@@ -19026,7 +19044,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 219000,
       "name": "YOAKE",
       "url": "https://open.spotify.com/track/4hY8ZPLCvMlLmfPBs2GqZ2"

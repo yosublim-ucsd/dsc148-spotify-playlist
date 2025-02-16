@@ -1,6 +1,6 @@
 {
   "description": "os menino da nova",
-  "num_followers": 1404779,
+  "num_followers": 1404742,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,30 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
-        "name": "Sorriso no Rosto",
-        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sorriso no Rosto",
-      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -875,6 +875,38 @@
       "duration_ms": 133333,
       "name": "Tropa Do Pisa",
       "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "DJ Negret",
+          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -1015,8 +1047,8 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
       "artists": [
         {
@@ -1028,49 +1060,21 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
           "name": "DJ Glenner",
           "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         },
         {
-          "name": "DJ Negret",
-          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Nois J\u00e1 T\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -1207,8 +1211,8 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
       "artists": [
         {
@@ -1220,21 +1224,45 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
           "name": "DJ Glenner",
           "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+      "duration_ms": 271058,
+      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
+      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -1327,26 +1355,6 @@
     {
       "added_at": "2025-02-07 03:03:00",
       "album": {
-        "name": "bala e fogo",
-        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 227552,
-      "name": "bala e fogo",
-      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -1371,6 +1379,26 @@
       "duration_ms": 168959,
       "name": "Me Chama Pelo Meu Vulgo",
       "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
+    },
+    {
+      "added_at": "2025-02-07 03:03:00",
+      "album": {
+        "name": "bala e fogo",
+        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 227552,
+      "name": "bala e fogo",
+      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
     },
     {
       "added_at": "2025-02-07 03:03:00",
@@ -1475,34 +1503,6 @@
       "duration_ms": 145920,
       "name": "Escrit\u00f3rio Carioca",
       "url": "https://open.spotify.com/track/3Fi4JvDROSgFuZVpaAP6kx"
-    },
-    {
-      "added_at": "2025-02-07 03:03:00",
-      "album": {
-        "name": "Todo Mundo Odeia o IG",
-        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 271058,
-      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
-      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
     },
     {
       "added_at": "2025-02-07 03:03:00",

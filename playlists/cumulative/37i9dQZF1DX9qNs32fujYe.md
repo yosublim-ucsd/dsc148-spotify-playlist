@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Bloodywood
 
-1,008 songs - 3 day 1 hr 59 min
+1,010 songs - 3 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Left on Mars](https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Left on Mars](https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5) | 5:01 | 2024-03-22 | 2024-11-23 |
-| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 |  |
+| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 | 2025-02-16 |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2024-04-06 |
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2022-01-28 | 2022-07-04 |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2022-08-19 |  |
@@ -507,7 +507,7 @@
 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-01-31 |  |
 | [Malignant Perfection](https://open.spotify.com/track/2NVntSbt0SCX7FZI6dmdQv) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Malignant Perfection](https://open.spotify.com/album/17QXH9X3v0VZBi3hTsSPZt) | 6:45 | 2024-11-04 |  |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2022-07-29 | 2023-03-11 |
-| [Mammoth's Hand](https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Mammoth's Hand](https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2) | 3:53 | 2024-08-23 |  |
+| [Mammoth's Hand](https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Mammoth's Hand](https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2) | 3:53 | 2024-08-23 | 2025-02-16 |
 | [Man and Machine](https://open.spotify.com/track/25ZqVu02DsxzWkBCM3HSH8) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Man and Machine \(Anniversary Edition\)](https://open.spotify.com/album/7i7G8arUFvjxlcWHSjoWWJ) | 5:41 | 2021-12-17 | 2024-05-03 |
 | [Man the Machine](https://open.spotify.com/track/2I1erAt8UHtkXhPRl1UM1r) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Man the Machine](https://open.spotify.com/album/52395IUFQXHluX4mvqg7Yb) | 3:50 | 2022-01-07 | 2022-04-17 |
 | [Many Doors to Hell](https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Mandrake Project](https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy) | 4:48 | 2024-03-08 |  |
@@ -562,6 +562,7 @@
 | [Nanna's Fate](https://open.spotify.com/track/36XLmStMavCHsJzfzyWYRt) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Nanna's Fate](https://open.spotify.com/album/4vn0doSOq7GLSeOgiEzsST) | 4:46 | 2024-08-23 |  |
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-05-05 | 2024-07-13 |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-02-11 |
+| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2024-03-08 | 2025-02-15 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2025-02-01 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
@@ -881,6 +882,7 @@
 | [The Sirens Sound](https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [The Head & The Habit](https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq) | 4:32 | 2024-06-21 | 2024-08-23 |
 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 | 2021-12-17 |  |
 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 | 2024-10-11 | 2025-01-22 |
+| [The Sword And The Cross](https://open.spotify.com/track/2ZilY3rX71TpyJ76LJKbQH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [The Sword And The Cross](https://open.spotify.com/album/6p0pn5jW573roXeepMLEmy) | 6:07 | 2025-02-14 |  |
 | [The Tale of the Three Hawks](https://open.spotify.com/track/34X4VwzolE2cbLd5tlNH51) | [Vexillum](https://open.spotify.com/artist/1N4Ef6A6BVQtjsYUZ6MeV2) | [When Good Men Go to War](https://open.spotify.com/album/5Z6Y4FiTT7PR7D6Hsv6QTi) | 6:03 | 2021-12-29 | 2022-07-16 |
 | [The Toxic Waltz](https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Fabulous Disaster](https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy) | 4:50 | 2022-08-19 |  |
 | [The Trooper](https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Trooper](https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH) | 4:11 | 2024-11-04 |  |

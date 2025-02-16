@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141884,
+  "num_followers": 141914,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 228688,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 239863,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Tim Ayre",
-          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 182869,
+      "name": "Wrong Again",
+      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 182869,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "If Perfect Was Real",
-        "url": "https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F"
-      },
-      "artists": [
-        {
-          "name": "La Felix",
-          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
-        },
-        {
-          "name": "Wass",
-          "url": "https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo"
-        }
-      ],
-      "duration_ms": 193767,
-      "name": "If Perfect Was Real",
-      "url": "https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Gimme Some More (feat. Shungudzo)",
         "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 225558,
       "name": "Gimme Some More (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "If Perfect Was Real",
+        "url": "https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F"
+      },
+      "artists": [
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        },
+        {
+          "name": "Wass",
+          "url": "https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "If Perfect Was Real",
+      "url": "https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Alone Again (feat. PEPTALK)",
-        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
-      },
-      "artists": [
-        {
-          "name": "L D R U",
-          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
-        },
-        {
-          "name": "PEPTALK",
-          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
-        }
-      ],
-      "duration_ms": 195522,
-      "name": "Alone Again (feat. PEPTALK)",
-      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 150927,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Alone Again (feat. PEPTALK)",
+        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
+      },
+      "artists": [
+        {
+          "name": "L D R U",
+          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
+        },
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        }
+      ],
+      "duration_ms": 195522,
+      "name": "Alone Again (feat. PEPTALK)",
+      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 210210,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "The Future (feat. Antony & Cleopatra)",
         "url": "https://open.spotify.com/album/2X9CQvOdCiLxaPCPb3Hn5g"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 225048,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Don't Fret!",
+        "url": "https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Don't Fret!",
+      "url": "https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Don't Stop (Keep on Keepin on)",
         "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
       },
@@ -1879,38 +1895,18 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Don't Fret!",
-        "url": "https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG"
+        "name": "Love Type",
+        "url": "https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C"
       },
       "artists": [
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
         }
       ],
-      "duration_ms": 199687,
-      "name": "Don't Fret!",
-      "url": "https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Touch (feat. Rromarin)",
-        "url": "https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch (feat. Rromarin)",
-      "url": "https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK"
+      "duration_ms": 215605,
+      "name": "Love Type",
+      "url": "https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7"
     }
   ],
   "unique_name": "Sunday Sessions",

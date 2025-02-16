@@ -384,6 +384,24 @@
     {
       "album": {
         "name": "Move On",
+        "url": "https://open.spotify.com/album/5l1YqRO0Fq2WxIpX0G0lgh"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "E.T.I.",
+      "url": "https://open.spotify.com/track/2rzAcvDOuqbVXgfVSuApUA"
+    },
+    {
+      "album": {
+        "name": "Move On",
         "url": "https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY"
       },
       "artists": [
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 221360,
       "name": "E.T.I.",
       "url": "https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 202293,
       "name": "FBLA II",
       "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
@@ -596,6 +614,24 @@
       "duration_ms": 209882,
       "name": "Gun Fluf",
       "url": "https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "He Feels Bad",
+      "url": "https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4"
     },
     {
       "album": {

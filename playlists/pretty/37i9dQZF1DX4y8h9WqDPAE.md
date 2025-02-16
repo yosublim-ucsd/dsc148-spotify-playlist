@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,993 likes - 160 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,973 likes - 160 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

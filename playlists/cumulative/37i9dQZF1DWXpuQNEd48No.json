@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "3 Fire",
+        "url": "https://open.spotify.com/album/5ziyqov3HNoBIPkRckK8Aw"
+      },
+      "artists": [
+        {
+          "name": "Jkay",
+          "url": "https://open.spotify.com/artist/5dsL6mO4U9WMW7xPgzpyzK"
+        },
+        {
+          "name": "Dildaar",
+          "url": "https://open.spotify.com/artist/2AyB6AHV9zTb0zNbHfCd6L"
+        },
+        {
+          "name": "A-Unkeyed",
+          "url": "https://open.spotify.com/artist/5Wy3kAWrnmshTgoa3mTssN"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221990,
+      "name": "3 Fire",
+      "url": "https://open.spotify.com/track/2krBl5Y2rHW8QZZMk1cQTa"
+    },
+    {
+      "album": {
         "name": "32 Bore",
         "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
@@ -707,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Nuke",
+        "url": "https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137742,
+      "name": "Badmash",
+      "url": "https://open.spotify.com/track/0oZpi8tiIxUqtNkJD8Iaue"
+    },
+    {
+      "album": {
         "name": "Badmash",
         "url": "https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI"
       },
@@ -1020,7 +1068,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 194042,
       "name": "Belong to Haryana",
       "url": "https://open.spotify.com/track/40V11BfO0UjpWy9fxiJFFs"
@@ -1090,6 +1138,24 @@
       "duration_ms": 145125,
       "name": "Bhains Lathi",
       "url": "https://open.spotify.com/track/3A3QEjpPaofClmH0deLPaI"
+    },
+    {
+      "album": {
+        "name": "Bigdyo Nawab",
+        "url": "https://open.spotify.com/album/01N73nf24ufO2swjuoiogO"
+      },
+      "artists": [
+        {
+          "name": "Samrat",
+          "url": "https://open.spotify.com/artist/2LSQrliGHmPnefEHWHi1kV"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Bigdyo Nawab",
+      "url": "https://open.spotify.com/track/7xCB5WqilL6WvExIgUH4Ca"
     },
     {
       "album": {
@@ -1250,7 +1316,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 205961,
       "name": "Chadh Chadh ke",
       "url": "https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy"
@@ -1604,7 +1670,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 224649,
       "name": "Chore Se Haryane Ke",
       "url": "https://open.spotify.com/track/5AtAg0j9V3wtYOvL8CQNdT"
@@ -1794,6 +1860,24 @@
       "duration_ms": 231157,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
+    },
+    {
+      "album": {
+        "name": "Draconian EP",
+        "url": "https://open.spotify.com/album/0xqEvsjOj7jJ47QCMivxEa"
+      },
+      "artists": [
+        {
+          "name": "ANSHBuzz",
+          "url": "https://open.spotify.com/artist/0EIuc4EpZPox8OgB9Ys4c9"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163394,
+      "name": "Curvy",
+      "url": "https://open.spotify.com/track/5oN6z62tpjui4GUyWHXqk0"
     },
     {
       "album": {
@@ -2040,7 +2124,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 112478,
       "name": "Desi yaar",
       "url": "https://open.spotify.com/track/53Cbbpm9e8SMhTXYwwotPV"
@@ -2430,7 +2514,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 251061,
       "name": "FARIDA DRIP",
       "url": "https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ"
@@ -2526,6 +2610,28 @@
       "duration_ms": 173431,
       "name": "Firki",
       "url": "https://open.spotify.com/track/79Go5RTAaIuH4st4hjexS9"
+    },
+    {
+      "album": {
+        "name": "First Step",
+        "url": "https://open.spotify.com/album/2QOqZ96hLFOmaAhybO9MMb"
+      },
+      "artists": [
+        {
+          "name": "Skull Singh",
+          "url": "https://open.spotify.com/artist/0tcFr1bcBSvTT0No0btRVg"
+        },
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3bNBehiQ5j9vSNy45Js3eH"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378725,
+      "name": "First Step",
+      "url": "https://open.spotify.com/track/0KJljMQyrd7C13OojIztjP"
     },
     {
       "album": {
@@ -3214,7 +3320,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 172173,
       "name": "Haryanvi Slanger",
       "url": "https://open.spotify.com/track/4mkJHlCJ45InNguWPDtpG5"
@@ -3960,7 +4066,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 148922,
       "name": "Jigri Yaar",
       "url": "https://open.spotify.com/track/7y2AyHk5QEjdzrHLs466hV"
@@ -4088,6 +4194,50 @@
       "duration_ms": 186896,
       "name": "Kaand",
       "url": "https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC"
+    },
+    {
+      "album": {
+        "name": "Kaash",
+        "url": "https://open.spotify.com/album/2G3oGThvZUarvBY8ispxE9"
+      },
+      "artists": [
+        {
+          "name": "Cubanbrown",
+          "url": "https://open.spotify.com/artist/6wlNjJCkPIuChYPWGfdNyc"
+        },
+        {
+          "name": "Brij Beniwal",
+          "url": "https://open.spotify.com/artist/5PNTTreluHnmmXpWl9hN4G"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Kaash",
+      "url": "https://open.spotify.com/track/4VueAn2t1naoq8wTFLNWEc"
+    },
+    {
+      "album": {
+        "name": "The Blockbuster",
+        "url": "https://open.spotify.com/album/1uFU7IUn2NABK4MOxBX65i"
+      },
+      "artists": [
+        {
+          "name": "Nawab Kamboj",
+          "url": "https://open.spotify.com/artist/5vTPEHGXs91NRMy3vKwds7"
+        },
+        {
+          "name": "Mann",
+          "url": "https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192467,
+      "name": "Kacheriya Ja Thane",
+      "url": "https://open.spotify.com/track/0AgHq0FmcVxmHLlvuWwZE4"
     },
     {
       "album": {
@@ -5711,6 +5861,28 @@
     },
     {
       "album": {
+        "name": "Outrun",
+        "url": "https://open.spotify.com/album/1UFfUNKMmo0wyXzgwMUaGA"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Bidlan",
+          "url": "https://open.spotify.com/artist/03mZJs3noM0kYWThpAzaod"
+        },
+        {
+          "name": "Dheeru Khola",
+          "url": "https://open.spotify.com/artist/7dNzMGaaHrVkRYLj8MVNCm"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199916,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/3dFIg3IsVNjPSaw2eDDfuS"
+    },
+    {
+      "album": {
         "name": "Outta Control",
         "url": "https://open.spotify.com/album/6oJfFOHyr10taqy9A7vjM0"
       },
@@ -6223,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "Reality CHECK",
+        "url": "https://open.spotify.com/album/5hL9XkpHnK4RK5tdGlMM0A"
+      },
+      "artists": [
+        {
+          "name": "Sunny Boi Singh",
+          "url": "https://open.spotify.com/artist/6NtfxVEjZtsMvpz9WPe0WC"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Reality CHECK",
+      "url": "https://open.spotify.com/track/0PYifNH5nUggC5tjQrd8Q7"
+    },
+    {
+      "album": {
         "name": "Red Face",
         "url": "https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf"
       },
@@ -6694,7 +6884,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 195789,
       "name": "Snake",
       "url": "https://open.spotify.com/track/7Ck6XYF0XmM55i3bsM9Yfj"
@@ -7392,7 +7582,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 170666,
       "name": "Two Wanted",
       "url": "https://open.spotify.com/track/7elK9GujCDkLJx1HLYwn8a"

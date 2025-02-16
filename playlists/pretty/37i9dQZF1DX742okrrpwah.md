@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Amel Bent au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,393 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,417 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 75 | [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 |
 | 76 | [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 |
 | 77 | [Don't Stop Lovin'](https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Don't Stop Lovin'](https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN) | 2:13 |
-| 78 | [Let U Go \- Club Nowadays, Vol\. 4](https://open.spotify.com/track/5nulO8pxeLbb3mWICCtWad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Club Nowadays](https://open.spotify.com/artist/3Y414umh9d32gl2qlRgPDe) | [Let U Go \(Club Nowadays\)](https://open.spotify.com/album/5jDMsHkjvgbV29dp6GdNPh) | 4:10 |
+| 78 | [Let U Go \- Club Nowadays Vol\. 4](https://open.spotify.com/track/5nulO8pxeLbb3mWICCtWad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Club Nowadays](https://open.spotify.com/artist/3Y414umh9d32gl2qlRgPDe) | [Let U Go \(Club Nowadays Vol\. 4\)](https://open.spotify.com/album/5jDMsHkjvgbV29dp6GdNPh) | 4:10 |
 | 79 | [Une chanson](https://open.spotify.com/track/319X0ip37FTPqCTnZHQCmb) | [Jean\-Baptiste Guegan](https://open.spotify.com/artist/1cypnZnCNwbiWN8QKmPTED) | [Une chanson](https://open.spotify.com/album/3zRqNzgI4FcVSdoSebR5FE) | 2:38 |
 | 80 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 |
 | 81 | [Una Como Tu](https://open.spotify.com/track/2HHoXPafKfE41eXMQDrbrX) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Una Como Tu](https://open.spotify.com/album/6lAOXclCaLdpiARyDjC7WR) | 3:15 |

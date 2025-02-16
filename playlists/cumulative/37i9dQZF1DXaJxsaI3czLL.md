@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999](https://open.spotify.com/track/2pUMDJAZrM2qKx4tCJD1jK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:04 | 2023-06-13 | 2023-06-21 |
-| [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-20 | 2023-04-14 |
+| [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-20 |  |
 | [1DK](https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [1DK](https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd) | 4:08 | 2023-01-22 | 2023-03-31 |
 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 | 2023-01-22 | 2023-02-17 |
 | [3月のこと](https://open.spotify.com/track/4VDq2t1ThSoR1UsBbKuhrC) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [MONSTER](https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO) | 5:17 | 2023-03-11 |  |
@@ -241,7 +241,7 @@
 | [Through The Deep](https://open.spotify.com/track/6kziDNrJFdAjTFgXKYteIs) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Through The Deep \- EP](https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV) | 2:33 | 2023-01-31 | 2023-03-15 |
 | [Tokeru](https://open.spotify.com/track/5hbBM9teSxGwhWfU6EuSAn) | [ken uegane](https://open.spotify.com/artist/0H2bJji0sgqCVPxaPu5r35) | [Tokeru](https://open.spotify.com/album/7pitGTL1P2FIGfgCkD2xZ8) | 2:31 | 2023-05-30 | 2023-06-01 |
 | [Toki no Michishirube](https://open.spotify.com/track/5o1IJmSumDW2R2D1QwvXrr) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Toki no Michishirube](https://open.spotify.com/album/1f6KCQhXEwOagzHTAEY9lH) | 5:36 | 2023-12-12 | 2024-01-24 |
-| [Tokyo Family Restaurant](https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Freeway](https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u) | 3:50 | 2024-09-27 |  |
+| [Tokyo Family Restaurant](https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Freeway](https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u) | 3:50 | 2024-09-27 | 2025-02-16 |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-20 | 2023-07-19 |
 | [TSUKI](https://open.spotify.com/track/1lP349GReG7TZmGluxUPkd) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1wUDIdbHuNLommHax61f0O) | 4:12 | 2023-05-30 | 2023-07-19 |
 | [Tsukihi](https://open.spotify.com/track/5G96ChqEFsCwZhJAx2I2zM) | [buoy](https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv) | [Tsukihi](https://open.spotify.com/album/4WRhOfyamvXkhiQikRxFrg) | 4:36 | 2022-10-20 | 2022-11-02 |

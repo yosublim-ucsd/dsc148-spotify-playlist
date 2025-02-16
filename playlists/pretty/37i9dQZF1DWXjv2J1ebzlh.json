@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 119130,
+  "num_followers": 119166,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
+      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
-      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Cart\u00e3o Postal",
         "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
-      },
-      "artists": [
-        {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 250666,
       "name": "Pa\u00eds Tropical",
       "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
+      },
+      "artists": [
+        {
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
       "artists": [
         {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+      },
+      "artists": [
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 516586,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Musique originale de films (Habibi Funk 003)",
-        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Malek",
-          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Autopsie d'un complot",
-      "url": "https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
         }
       ],
-      "duration_ms": 131045,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+      "duration_ms": 209000,
+      "name": "Autopsie d'un complot",
+      "url": "https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -1415,6 +1399,22 @@
       "duration_ms": 261926,
       "name": "Ddoje Facce",
       "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 131045,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Fine Anyway (Habibi Funk 016)",
-        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
       },
       "artists": [
         {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Had to Come Back Wet",
-      "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+        "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+      "duration_ms": 196000,
+      "name": "Had to Come Back Wet",
+      "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
     },
     {
       "added_at": "2025-02-14 15:16:20",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-02-14 15:16:20",
       "album": {
-        "name": "Musique originale de films (Habibi Funk 003)",
-        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Malek",
-          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/7JTuEIBZuE356hMGiF8Yy9"
-    },
-    {
-      "added_at": "2025-02-14 15:16:20",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1j719jACnXxvk7c0fgrT7a"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 152733,
       "name": "Hei! Voc\u00ea",
       "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+    },
+    {
+      "added_at": "2025-02-14 15:16:20",
+      "album": {
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/7JTuEIBZuE356hMGiF8Yy9"
     }
   ],
   "unique_name": "Bon Voyage",

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Josyara",
-  "num_followers": 349373,
+  "num_followers": 349391,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
-        "name": "Voando (Nel Blu Dipinto Di Blu)",
-        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 236618,
-      "name": "Voando (Nel Blu Dipinto Di Blu)",
-      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
-    },
-    {
-      "added_at": "2025-02-14 03:00:12",
-      "album": {
         "name": "Baila Comigo",
         "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 186341,
       "name": "Baila Comigo",
       "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
+    },
+    {
+      "added_at": "2025-02-14 03:00:12",
+      "album": {
+        "name": "Voando (Nel Blu Dipinto Di Blu)",
+        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 236618,
+      "name": "Voando (Nel Blu Dipinto Di Blu)",
+      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
     },
     {
       "added_at": "2025-02-14 03:00:12",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
+        "name": "Imago Mundi",
+        "url": "https://open.spotify.com/album/27XSp4YrzfU3x57kxGpcQI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "C\u00e9sar Menotti & Fabiano",
+          "url": "https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh"
+        },
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 204809,
+      "name": "At\u00e9 Me Perder",
+      "url": "https://open.spotify.com/track/3a7zehPFF57tDwSO47BYQ4"
+    },
+    {
+      "added_at": "2025-02-14 03:00:12",
+      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -1087,22 +1111,6 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2025-02-14 03:00:12",
-      "album": {
         "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
         "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
@@ -1119,26 +1127,18 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
-        "name": "Imago Mundi",
-        "url": "https://open.spotify.com/album/27XSp4YrzfU3x57kxGpcQI"
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
       "artists": [
         {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "C\u00e9sar Menotti & Fabiano",
-          "url": "https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh"
-        },
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 204809,
-      "name": "At\u00e9 Me Perder",
-      "url": "https://open.spotify.com/track/3a7zehPFF57tDwSO47BYQ4"
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-02-14 03:00:12",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
+        "name": "O Cortejo Afronta",
+        "url": "https://open.spotify.com/album/6Z8GRNNMhkA4KOTK9pUj2t"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 166831,
+      "name": "O Cortejo Afronta",
+      "url": "https://open.spotify.com/track/0xtZBfKp0OQ6DkHqALOykt"
+    },
+    {
+      "added_at": "2025-02-14 03:00:12",
+      "album": {
         "name": "E se tudo terminasse em amor?",
         "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
       },
@@ -1475,6 +1495,26 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
+        "name": "Uli Costa e Sand\u00e1lia de Prata",
+        "url": "https://open.spotify.com/album/3bnF63ZcVbemkvMdNRMkX7"
+      },
+      "artists": [
+        {
+          "name": "Sand\u00e1lia de Prata",
+          "url": "https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "Descendo essa ladeira (piquenique)",
+      "url": "https://open.spotify.com/track/18oZK4ojHRkJX4j9DxWTng"
+    },
+    {
+      "added_at": "2025-02-14 03:00:12",
+      "album": {
         "name": "S&M",
         "url": "https://open.spotify.com/album/3skzP2vmEVPIQ0UIMACMNT"
       },
@@ -1507,26 +1547,6 @@
     {
       "added_at": "2025-02-14 03:00:12",
       "album": {
-        "name": "Uli Costa e Sand\u00e1lia de Prata",
-        "url": "https://open.spotify.com/album/3bnF63ZcVbemkvMdNRMkX7"
-      },
-      "artists": [
-        {
-          "name": "Sand\u00e1lia de Prata",
-          "url": "https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Descendo essa ladeira (piquenique)",
-      "url": "https://open.spotify.com/track/18oZK4ojHRkJX4j9DxWTng"
-    },
-    {
-      "added_at": "2025-02-14 03:00:12",
-      "album": {
         "name": "real cinema",
         "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 203827,
       "name": "aprender a perder",
       "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
-    },
-    {
-      "added_at": "2025-02-14 03:00:12",
-      "album": {
-        "name": "O Cortejo Afronta",
-        "url": "https://open.spotify.com/album/6Z8GRNNMhkA4KOTK9pUj2t"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
-        }
-      ],
-      "duration_ms": 166831,
-      "name": "O Cortejo Afronta",
-      "url": "https://open.spotify.com/track/0xtZBfKp0OQ6DkHqALOykt"
     }
   ],
   "unique_name": "Divina MPB",

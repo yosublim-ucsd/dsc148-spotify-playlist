@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Boza y Greeicy
 
-9,550 songs - 21 day 4 hr 42 min
+9,551 songs - 21 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4555,6 +4555,7 @@
 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 | 2023-02-10 | 2023-02-18 |
 | [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 | 2024-07-06 |
 | [Le hacés falta vos](https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Le hacés falta vos](https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp) | 2:47 | 2024-09-06 | 2024-09-14 |
+| [le jale el gatillo a cupido](https://open.spotify.com/track/2SZRBy3iTGGqpBgl9ngX8n) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [le jale el gatillo a cupido](https://open.spotify.com/album/3cxQ0N7zN0gXJVYW4DTENV) | 3:39 | 2025-02-15 |  |
 | [le valgo madre](https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [le valgo madre](https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk) | 2:36 | 2024-04-05 | 2024-04-13 |
 | [LEALTAD](https://open.spotify.com/track/1jlMnFogG1NeVbs8h4UUw1) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [LEALTAD](https://open.spotify.com/album/322JP4Usb0tyKnNQLdPgac) | 2:30 | 2023-03-17 | 2023-03-25 |
 | [Lealtad de Barrio](https://open.spotify.com/track/5gnFDvCUXU8IkEr9IilRjM) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Lealtad de Barrio](https://open.spotify.com/album/3uKdPOWpj3d6KEsrNfHtu8) | 3:30 | 2022-02-04 | 2022-02-12 |

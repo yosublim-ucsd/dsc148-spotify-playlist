@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Give Peace a Chance",
+        "url": "https://open.spotify.com/album/4pvFaTxAx6Xa4fUeHEU6bO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342047,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/787dNEhIWhS6Ur2OIVscP7"
+    },
+    {
+      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -858,7 +876,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 323813,
       "name": "Odo Beba Na Mawu",
       "url": "https://open.spotify.com/track/0XUiMXrm7KFQQnMstRXyaA"

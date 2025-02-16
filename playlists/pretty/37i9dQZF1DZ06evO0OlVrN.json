@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADZRT9O4WjwOBUnJOQnJRH8",
+  "snapshot_id": "Z66HgAAAAADEmd2C60wPXmS5LDZ/i1fz",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Me Ca\u00edste Del Cielo",
-      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
+      "duration_ms": 171816,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 171816,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
+      "duration_ms": 181533,
+      "name": "Me Ca\u00edste Del Cielo",
+      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 234382,
-      "name": "Con La Tinta De Mi Sangre",
-      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 166351,
       "name": "Te Voy a Complacer",
       "url": "https://open.spotify.com/track/01b9QR2gAFqNBaIKFkUxYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 150920,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "Rogante",
+      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "Rogante",
-      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,110 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,144 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 43 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
 | 44 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 |
 | 45 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
-| 46 | [365](https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [365](https://open.spotify.com/album/0xV7AAaEIHVrLSo8ptGWg1) | 2:20 |
-| 47 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
+| 46 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
+| 47 | [365](https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [365](https://open.spotify.com/album/0xV7AAaEIHVrLSo8ptGWg1) | 2:20 |
 | 48 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 |
 | 49 | [Weltschmerz](https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Weltschmerz](https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd) | 3:05 |
-| 50 | [Sleepless](https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Sleepless](https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn) | 3:27 |
+| 50 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 |
 
 Snapshot ID: `Z6ms4wAAAAAROhODMQBW3u9c8Ysqh9Sh`

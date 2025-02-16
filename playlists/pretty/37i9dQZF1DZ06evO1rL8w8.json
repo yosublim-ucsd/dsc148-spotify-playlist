@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 219013,
+  "num_followers": 219063,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAA/csO8fAbsr/x2kqmbEw1O",
+  "snapshot_id": "Z66HgAAAAACGJjWVWvPo05LozAmJaKSm",
   "tracks": [
     {
       "added_at": null,
@@ -188,25 +188,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Borracho Y Escandaloso",
-      "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 176138,
-      "name": "Por Favor No Cuelgues",
-      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
+      "duration_ms": 199836,
+      "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
+      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
     },
     {
       "added_at": null,
@@ -227,6 +211,22 @@
       "duration_ms": 168653,
       "name": "Qu\u00e9 Tiene De Malo",
       "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 176138,
+      "name": "Por Favor No Cuelgues",
+      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
-      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+      "duration_ms": 149263,
+      "name": "La Manda Incumplida",
+      "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 149263,
-      "name": "La Manda Incumplida",
-      "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
+      "duration_ms": 126563,
+      "name": "Siempre Que Me Emborracho",
+      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 126563,
-      "name": "Siempre Que Me Emborracho",
-      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+      "duration_ms": 154383,
+      "name": "Estilo Sl",
+      "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -456,25 +472,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 154383,
-      "name": "Estilo Sl",
-      "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
       "duration_ms": 167499,
       "name": "Toquezones de Cannabis",
       "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
       "artists": [
         {
@@ -584,9 +584,25 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+      "duration_ms": 176613,
+      "name": "Fiesta En La Playa",
+      "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 153855,
       "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
       "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 117560,
       "name": "Nom\u00e1s Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1orita de a Caballo",
         "url": "https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Fuga Pa Maza",
-      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romanticas",
         "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belika Mafiosa",
         "url": "https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 137096,
       "name": "Belika Mafiosa",
       "url": "https://open.spotify.com/track/0Oy3v2dIU4HPPXpi5Z9gJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 154357,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
+      "duration_ms": 163826,
+      "name": "Tumbate El Rollo feat. Larry Hernandez (Bonus Track)",
+      "url": "https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde El Nokia",
-        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Tumbate El Rollo feat. Larry Hernandez (Bonus Track)",
-      "url": "https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq"
     },
     {
       "added_at": null,

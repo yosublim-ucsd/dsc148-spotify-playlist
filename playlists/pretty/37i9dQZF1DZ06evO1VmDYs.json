@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 190023,
+  "num_followers": 190026,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAABJurWpj2DHKHUasvYTTRhy",
+  "snapshot_id": "Z66HgAAAAABDAp8QKyUSV7QksVD+M2GG",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 128400,
-      "name": "Why Bother?",
-      "url": "https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 128400,
+      "name": "Why Bother?",
+      "url": "https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 238626,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "El Scorcho",
-      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 185231,
       "name": "Lost in the Woods - Weezer Version",
       "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "El Scorcho",
+      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 164693,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Tired Of Sex",
-      "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 139093,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Tired Of Sex",
+      "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Knockdown Dragout",
-      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Knockdown Dragout",
+      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maladroit",
         "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 137400,
       "name": "Dope Nose",
       "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Thank God for Girls",
+      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
     },
     {
       "added_at": null,
@@ -707,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Thank God for Girls",
-      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
+      "duration_ms": 214760,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 214760,
-      "name": "Sweet Dreams (Are Made of This)",
-      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
+      "duration_ms": 207760,
+      "name": "Do You Wanna Get High?",
+      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 179533,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     },
     {
       "added_at": null,

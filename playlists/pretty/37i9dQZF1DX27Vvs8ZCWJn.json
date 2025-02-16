@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 117130,
+  "num_followers": 117206,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 258937,
       "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Selecao De Ouro Vol.2",
-        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Quien Eres Tu?",
-      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Luna Nueva",
         "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Selecao De Ouro Vol.2",
+        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Quien Eres Tu?",
+      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
     },
     {
       "added_at": "2021-12-25 17:56:56",

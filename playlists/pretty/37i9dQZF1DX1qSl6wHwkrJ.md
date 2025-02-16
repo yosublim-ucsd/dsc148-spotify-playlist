@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,057 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,053 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 6 | [Empty Stocking Blues](https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [His Complete Aladdin Recordings](https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh) | 3:01 |
 | 7 | [Christmas Boogie \(One Little Kiss\)](https://open.spotify.com/track/78YBLISfvGcnRlMQQpdR6L) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 6:54 |
 | 8 | [Blues For Christmas](https://open.spotify.com/track/3bldbpvqL5jC4BqxgMOTrD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Complete '50s Chess Recordings](https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0) | 3:19 |
-| 9 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 |
-| 10 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
+| 9 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
+| 10 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 |
 | 11 | [Lonesome Christmas](https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 3:04 |
 | 12 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
 | 13 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 45 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |
 | 46 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
 | 47 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
-| 48 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
-| 49 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
+| 48 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
+| 49 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
 | 50 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 |
 | 51 | [Christmas Rocks!](https://open.spotify.com/track/2D6MeS0FupmqOPRDchT9j9) | [Smokestack Blues Band](https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s) | [Christmas Rocks!](https://open.spotify.com/album/2ipVMM2f0j79rDkFywlEaK) | 3:37 |
 | 52 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |

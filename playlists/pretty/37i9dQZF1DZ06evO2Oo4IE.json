@@ -1,33 +1,13 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 183586,
+  "num_followers": 183610,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAAdkJfr7/7jVf6so551zPoL",
+  "snapshot_id": "Z66HgAAAAAANr3m0/t3mJAqSmDTvUVjm",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Grande Ballroom Detroit; March 2, 1968",
-        "url": "https://open.spotify.com/album/34nhsXrHozid8XyuWYjfhz"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 613426,
-      "name": "Ball and Chain - Live at the Grande Ballroom, Detroit, MI - March 2, 1968",
-      "url": "https://open.spotify.com/track/7JairQUIQHipvsHc0ngHSv"
-    },
     {
       "added_at": null,
       "album": {
@@ -399,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
         {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
         },
         {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 46964,
-      "name": "\"Are We Taping Now?\"",
-      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+      "duration_ms": 567973,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
       "duration_ms": 249600,
       "name": "One Good Man",
       "url": "https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
     },
     {
       "added_at": null,
@@ -635,42 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 347360,
-      "name": "Combination of the Two",
-      "url": "https://open.spotify.com/track/6xxR2WCzYgE9ri0PXX5pV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin Live At Winterland '68",
         "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
       },
@@ -691,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
       },
       "artists": [
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 234366,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,
@@ -723,6 +683,26 @@
       "duration_ms": 297066,
       "name": "Piece of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
       "url": "https://open.spotify.com/track/5E973fI2FcBL8r7Nogpwpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
     },
     {
       "added_at": null,
@@ -763,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 237559,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Mann: Alive And Pickin'",
         "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
@@ -799,6 +759,26 @@
       "duration_ms": 187413,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
     },
     {
       "added_at": null,
@@ -839,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -855,22 +851,6 @@
       "duration_ms": 200205,
       "name": "Nobody Knows You When You're Down and Out",
       "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 142036,
+  "num_followers": 142061,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADTuAS5LwNf+tNOr1diSkRd",
+  "snapshot_id": "Z66HgAAAAADehZB/MAJqWa+niTMKLCmH",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+        "name": "Play Dead",
+        "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "David Arnold",
+          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Pagan Poetry",
-      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
+      "duration_ms": 240040,
+      "name": "Play Dead - Tim Simenon 7\" Remix",
+      "url": "https://open.spotify.com/track/732341mjCR7zodzYa5IEQf"
     },
     {
       "added_at": null,
@@ -107,28 +111,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Dead",
-        "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "David Arnold",
-          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Play Dead - Tim Simenon 7\" Remix",
-      "url": "https://open.spotify.com/track/732341mjCR7zodzYa5IEQf"
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "J\u00f3ga",
-        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 305360,
-      "name": "J\u00f3ga",
-      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00f3ga",
+        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
@@ -184,9 +200,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Bachelorette",
-      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Big Time Sensuality",
+      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
     },
     {
       "added_at": null,
@@ -207,22 +239,6 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Big Time Sensuality",
-      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
     },
     {
       "added_at": null,
@@ -252,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
+      "duration_ms": 201800,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
     },
     {
       "added_at": null,
@@ -316,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Unravel",
-      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
     },
     {
       "added_at": null,
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 199293,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
+      "duration_ms": 186266,
+      "name": "Immature - Mark Bell's Version",
+      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
     },
     {
       "added_at": null,
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Immature - Mark Bell's Version",
-      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
+      "duration_ms": 353266,
+      "name": "All Neon Like",
+      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 338400,
       "name": "Undo",
       "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "All Neon Like",
-      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
     },
     {
       "added_at": null,

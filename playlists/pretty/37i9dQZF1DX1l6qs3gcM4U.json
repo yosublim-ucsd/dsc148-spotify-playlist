@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nelson Freitas",
-  "num_followers": 222255,
+  "num_followers": 222329,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -679,38 +679,6 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Akanadja",
-        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 182023,
-      "name": "Akanadja",
-      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -735,6 +703,38 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
+        "name": "Akanadja",
+        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 182023,
+      "name": "Akanadja",
+      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Bai",
-        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "Bai",
-      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
         "name": "Sem Limite",
         "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237400,
       "name": "Magico",
       "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
+        "name": "Bai",
+        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "Bai",
+      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 166810,
       "name": "Filme",
       "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -983,22 +983,18 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
       "artists": [
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
         }
       ],
-      "duration_ms": 202113,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+      "duration_ms": 243750,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Fica longi bo",
-        "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Fica longi bo",
-      "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
         "name": "Monarquia",
         "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
+        "name": "Fica longi bo",
+        "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Fica longi bo",
+      "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Meu Marido",
-        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 219218,
-      "name": "Meu Marido",
-      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 234226,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
+        "name": "Meu Marido",
+        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 219218,
+      "name": "Meu Marido",
+      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Ayah",
-        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
       },
       "artists": [
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
         }
       ],
-      "duration_ms": 163199,
-      "name": "Ayah",
-      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
+      "duration_ms": 163426,
+      "name": "Limbisa - Kriolu Version",
+      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -1555,6 +1551,26 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
+        "name": "Ayah",
+        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 163199,
+      "name": "Ayah",
+      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
-        "name": "BTLV",
-        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Limbisa - Kriolu Version",
-      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
       "added_at": "2025-02-14 00:00:36",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
+        }
+      ],
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
+    },
+    {
+      "added_at": "2025-02-14 00:00:36",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
       },
@@ -1835,26 +1855,6 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
-    },
-    {
-      "added_at": "2025-02-14 00:00:36",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
       },
@@ -1875,22 +1875,26 @@
     {
       "added_at": "2025-02-14 00:00:36",
       "album": {
-        "name": "Maratonista",
-        "url": "https://open.spotify.com/album/6Fno90bIPHsLTN0SAxD4fW"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
       },
       "artists": [
         {
-          "name": "Biura",
-          "url": "https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP"
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
         },
         {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "Dj kalisboy",
+          "url": "https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Lugar Perfeito",
-      "url": "https://open.spotify.com/track/2hzHWq9LBhoj1YvSTvvwSR"
+      "duration_ms": 186524,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
     }
   ],
   "unique_name": "Dancing Kizomba",

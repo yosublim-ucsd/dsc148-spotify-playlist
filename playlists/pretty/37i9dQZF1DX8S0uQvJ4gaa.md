@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Vincent Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,710 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265,879 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Ain't For Sale](https://open.spotify.com/track/4AMHCGrx5tBzd2xVQRSJbI) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Ain't For Sale](https://open.spotify.com/album/0nhGC2twzLSz2y67Swo5X0) | 2:49 |
 | 100 | [Weak](https://open.spotify.com/track/5BS6zPEcgWaOzY8Yl7HNCN) | [Preston Cooper](https://open.spotify.com/artist/3ehyYSVGY0cusNEOEB7APx) | [Weak](https://open.spotify.com/album/7FiYnZCWZwGEz5aq5IM1Zj) | 3:34 |
 
-Snapshot ID: `Z67N7QAAAADv1aE/Ad89gmC+qAmDDYt5`
+Snapshot ID: `Z67N7QAAAAD/vxjNqZOtAoFq2bCoS195`

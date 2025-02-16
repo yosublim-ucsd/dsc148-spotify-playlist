@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Falling At The Thought Of You",
+        "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170201,
+      "name": "Falling At The Thought Of You",
+      "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
+    },
+    {
+      "album": {
         "name": "Feel The Waters",
         "url": "https://open.spotify.com/album/58RSzSjbWuVbY7Yy0Zt3vX"
       },
@@ -1645,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "God Made You (feat. Kieran the Light)",
+        "url": "https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi"
+      },
+      "artists": [
+        {
+          "name": "2 Lane Summer",
+          "url": "https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202771,
+      "name": "God Made You (feat. Kieran the Light)",
+      "url": "https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK"
+    },
+    {
+      "album": {
         "name": "Going Together",
         "url": "https://open.spotify.com/album/0CMGTIcvtK2aAywGHxQr57"
       },
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
@@ -2916,6 +2956,28 @@
       "duration_ms": 237401,
       "name": "Loving A Person - Reimagined",
       "url": "https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu"
+    },
+    {
+      "album": {
+        "name": "Loving Me Like Jesus",
+        "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Loving Me Like Jesus",
+      "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
     },
     {
       "album": {
@@ -3562,7 +3624,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 199298,
       "name": "Remind You",
       "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAADooqLlS5yOBUUnYkbWwEyk9sj5cl",
+  "snapshot_id": "AAAAD4+swnRwJ1jGcjIF89MjH2tDNcis",
   "tracks": [
     {
       "added_at": "2023-11-22 08:49:28",
@@ -167,6 +167,22 @@
       "duration_ms": 205040,
       "name": "Lion's Teeth",
       "url": "https://open.spotify.com/track/3V9DfXLPjXVzD0o5wO7fRh"
+    },
+    {
+      "added_at": "2025-02-15 09:35:33",
+      "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 358253,
+      "name": "Heel Turn 2",
+      "url": "https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b"
     }
   ],
   "unique_name": "Clawing For It",

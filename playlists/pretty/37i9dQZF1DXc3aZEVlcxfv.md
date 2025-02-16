@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed! Cover: Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,425 likes - 162 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,430 likes - 162 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

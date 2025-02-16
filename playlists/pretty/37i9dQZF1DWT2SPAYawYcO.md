@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,411 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,485 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 9 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 |
 | 10 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
 | 11 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
-| 12 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
+| 12 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
 | 13 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 14 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 |
 | 15 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [Feeling Lost](https://open.spotify.com/track/7AUoqQqIGHBp7KFdTBX0xm) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [Feeling Lost](https://open.spotify.com/album/4VoO3LZeyW69dwEbYyXTUD) | 3:35 |
 | 91 | [Do you wanna roll](https://open.spotify.com/track/1xxeXruNZYXilAVwsRGqUS) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot), [Game East](https://open.spotify.com/artist/22abwrEzleRTPQ4WtSoYZv) | [Do you wanna roll](https://open.spotify.com/album/0Zl6Q4sjFE7yOBMZfZaX5h) | 2:45 |
 | 92 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 |
-| 93 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:38 |
+| 93 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:40 |
 | 94 | [Hot Bath](https://open.spotify.com/track/58llZXYXgCoZy0XjVfvSgw) | [Jade Imagine](https://open.spotify.com/artist/2GZIkd7QPKtg5c3alf8rYt) | [Hot Bath](https://open.spotify.com/album/2Jz2yRjOFD4ytBytwkFe2l) | 2:46 |
 | 95 | [bleed for u](https://open.spotify.com/track/1s0fScvxtpRWnD0GnAdCh7) | [Josh Hannan](https://open.spotify.com/artist/54dBfGibZ5l4z3EsrPaNmF) | [bleed for u](https://open.spotify.com/album/5VPwlkTRMXZz6ifWAbCCYF) | 2:55 |
 | 96 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |

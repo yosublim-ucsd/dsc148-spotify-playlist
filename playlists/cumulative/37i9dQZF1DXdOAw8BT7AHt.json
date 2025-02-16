@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 203076,
       "name": "1800-PAINLESS",
       "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
@@ -2112,6 +2112,24 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "album": {
+        "name": "Dim",
+        "url": "https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC"
+      },
+      "artists": [
+        {
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67700,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc"
     },
     {
       "album": {
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 205357,
       "name": "love bombs",
       "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
@@ -6924,6 +6942,24 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "album": {
+        "name": "Swing Life Away",
+        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227987,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     },
     {
       "album": {

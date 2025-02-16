@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Güliz Ayla
 
-212 songs - 10 hr 33 min
+213 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Zindan](https://open.spotify.com/track/1o4SP8i1ITqEe4oR4IWysq) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Zindan](https://open.spotify.com/album/18UTEUfO4tjsmabjKEdyQv) | 2:12 | 2024-07-25 | 2024-09-07 |
 | [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 | 2024-07-04 | 2024-08-23 |
 | [Zümrüdüankam](https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Zümrüdüankam](https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN) | 3:23 | 2024-08-22 | 2024-12-10 |
+| [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-13 |  |
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-06 |  |
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
 | [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 | 2024-11-15 |
@@ -219,6 +220,6 @@
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2025-02-07 |
 | [Şehir Uyumaz](https://open.spotify.com/track/5neDaxItqF4c3BLDmrwcN6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Şehir Uyumaz](https://open.spotify.com/album/65WTiIQ7hpECDFr2r239C9) | 2:26 | 2024-11-28 | 2024-12-20 |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 |  |
-| [ŞIP](https://open.spotify.com/track/6f1Aj9Qf85b0Za8SRJCmbK) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [ŞIP](https://open.spotify.com/album/5OMktJw6YrtuxDDi28lCA9) | 3:19 | 2024-12-05 |  |
+| [ŞIP](https://open.spotify.com/track/6f1Aj9Qf85b0Za8SRJCmbK) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [ŞIP](https://open.spotify.com/album/5OMktJw6YrtuxDDi28lCA9) | 3:19 | 2024-12-05 | 2025-02-16 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

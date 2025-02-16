@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 107868,
+  "num_followers": 107955,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -591,18 +591,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -639,26 +639,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "MALAMOR",
-        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        },
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 198082,
-      "name": "MALAMOR",
-      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
+      "duration_ms": 224352,
+      "name": "Su Florcita",
+      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -679,18 +671,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 224352,
-      "name": "Su Florcita",
-      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -711,22 +703,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -743,18 +719,42 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "MALAMOR",
+        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "MALAMOR",
+      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 195644,
       "name": "Y Dime",
       "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Toque",
-        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Las Seis",
-      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+        "name": "Toque",
+        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+      "duration_ms": 175266,
+      "name": "Las Seis",
+      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -875,34 +875,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -919,6 +903,22 @@
       "duration_ms": 202586,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 181254,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Ya lleg\u00f3 el sabor",
-      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 179813,
       "name": "La Vecina",
       "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Ya lleg\u00f3 el sabor",
+      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Furia Loca",
-        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
-      },
-      "artists": [
-        {
-          "name": "La Gran Magia Tropical",
-          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
-        }
-      ],
-      "duration_ms": 190970,
-      "name": "Furia Loca (Mujer C\u00f3smica)",
-      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Amor Entre S\u00e1banas",
         "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 219358,
       "name": "L\u00e1stima",
       "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Furia Loca",
+        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
+      },
+      "artists": [
+        {
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+        }
+      ],
+      "duration_ms": 190970,
+      "name": "Furia Loca (Mujer C\u00f3smica)",
+      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "En Tu Cuarto",
-        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Quiero Ser Libre",
-      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 231000,
       "name": "Tomare Para Olvidar",
       "url": "https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "En Tu Cuarto",
+        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Quiero Ser Libre",
+      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -1427,18 +1395,34 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 201827,
-      "name": "Amor Sobre 4 Ruedas",
-      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1455,6 +1439,22 @@
       "duration_ms": 226173,
       "name": "La Temporera",
       "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Amor Sobre 4 Ruedas",
+      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Mil Amores",
-        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
+        "name": "De Fiesta Con Hechizo",
+        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
       },
       "artists": [
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
         }
       ],
-      "duration_ms": 181308,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
+      "duration_ms": 209867,
+      "name": "Huellas de Amor",
+      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Mil Amores",
+        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 181308,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Teatro Monumental (En Vivo)",
         "url": "https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor (En Vivo)",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "De Fiesta Con Hechizo",
-        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
-        }
-      ],
-      "duration_ms": 209867,
-      "name": "Huellas de Amor",
-      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
       "artists": [
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        },
-        {
-          "name": "Pollo Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
         }
       ],
-      "duration_ms": 147226,
-      "name": "Cumbia de la G\u00fcena",
-      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
+      "duration_ms": 206240,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
     },
     {
       "added_at": "2025-01-17 12:58:12",

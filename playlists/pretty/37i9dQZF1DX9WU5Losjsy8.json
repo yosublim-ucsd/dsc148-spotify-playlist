@@ -1,6 +1,6 @@
 {
   "description": "Von Ischgl bis Obertauern. Apr\u00e8s-Ski ist nur einmal im Jahr!",
-  "num_followers": 447398,
+  "num_followers": 447632,
   "original_name": "Apr\u00e8s Ski Party 2025",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2025-01-21 17:03:11",
+      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -615,46 +631,6 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2025-01-21 17:03:11",
-      "album": {
-        "name": "BIER",
-        "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
-      },
-      "artists": [
-        {
-          "name": "Drunken Masters",
-          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
-        },
-        {
-          "name": "Maxim K.I.Z",
-          "url": "https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k"
-        },
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 129652,
-      "name": "BIER",
-      "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2025-01-21 17:03:11",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -667,6 +643,26 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2025-01-21 17:03:11",
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -707,22 +703,26 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+        "name": "BIER",
+        "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
       "artists": [
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
         },
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Maxim K.I.Z",
+          "url": "https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k"
+        },
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+      "duration_ms": 129652,
+      "name": "BIER",
+      "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -943,22 +943,22 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
       "artists": [
         {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -979,22 +979,22 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
       "artists": [
         {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
         },
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Zwischenlandung",
-        "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
-      },
-      "artists": [
-        {
-          "name": "Haindling",
-          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Bayern",
-      "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
-    },
-    {
-      "added_at": "2025-01-21 17:03:11",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2025-01-21 17:03:11",
+      "album": {
+        "name": "Zwischenlandung",
+        "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
+      },
+      "artists": [
+        {
+          "name": "Haindling",
+          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Bayern",
+      "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "added_at": "2025-01-21 17:03:11",
+      "album": {
         "name": "Lass uns nicht geh'n (Stereoact Remix)",
         "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2025-01-21 17:03:11",
-      "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
     },
     {
       "added_at": "2025-01-21 17:03:11",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2025-01-21 17:03:11",
       "album": {
-        "name": "Dann leg ich Schlager auf",
-        "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
       "artists": [
         {
           "name": "Mickie Krause",
           "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        },
-        {
-          "name": "Tim Toupet",
-          "url": "https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N"
         }
       ],
-      "duration_ms": 171202,
-      "name": "Dann leg ich Schlager auf",
-      "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2025",

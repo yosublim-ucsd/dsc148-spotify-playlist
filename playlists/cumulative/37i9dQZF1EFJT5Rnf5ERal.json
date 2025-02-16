@@ -2300,6 +2300,24 @@
     {
       "album": {
         "name": "Breath of Fresh Air",
+        "url": "https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135441,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5CIAM3KALymraRAFfTC7oH"
+    },
+    {
+      "album": {
+        "name": "Breath of Fresh Air",
         "url": "https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR"
       },
       "artists": [
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 135441,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6Lue5NkWxEho9QXxbW2EXy"

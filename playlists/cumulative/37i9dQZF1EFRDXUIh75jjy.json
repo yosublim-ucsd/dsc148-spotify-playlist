@@ -3442,10 +3442,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 230769,
       "name": "Song on Fire",
       "url": "https://open.spotify.com/track/4UQSxaJZS8kH62JaQgkr14"
+    },
+    {
+      "album": {
+        "name": "Feed the Machine",
+        "url": "https://open.spotify.com/album/4FYvuWhNshZBsOT0fptzR3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230878,
+      "name": "Song On Fire",
+      "url": "https://open.spotify.com/track/7FUX19WiWdxTHMEe1Y43vc"
     },
     {
       "album": {

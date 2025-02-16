@@ -2037,6 +2037,32 @@
     },
     {
       "album": {
+        "name": "BELLA STRONZA",
+        "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Marco Masini",
+          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "BELLA STRONZA",
+      "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
+    },
+    {
+      "album": {
         "name": "BELLADAMORIRE (feat. Lil Busso)",
         "url": "https://open.spotify.com/album/2sN3wMiBdeSrmk1zWmJrFO"
       },
@@ -6782,7 +6808,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 159066,
       "name": "Guarda Che Luna",
       "url": "https://open.spotify.com/track/2H4mO8NQpjhZaGk1OSBEH5"
@@ -9610,7 +9636,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -13572,6 +13598,28 @@
       "duration_ms": 190624,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
+    },
+    {
+      "album": {
+        "name": "Rossetto e caff\u00e8 (con The Kolors)",
+        "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        },
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189174,
+      "name": "Rossetto e caff\u00e8 (con The Kolors)",
+      "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
     },
     {
       "album": {

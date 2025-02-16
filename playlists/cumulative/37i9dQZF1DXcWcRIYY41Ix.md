@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-757 songs - 1 day 21 hr 7 min
+758 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [PARTE DE MÍ](https://open.spotify.com/track/3EuTWZwY6XaG42tg7PPlzF) | [Sara Roy](https://open.spotify.com/artist/71OOfmrGnQoJqrUIq133qs), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [ALTER EGO](https://open.spotify.com/album/26M992s8VLiUyf1hu7pyQN) | 2:45 | 2024-12-20 | 2024-12-25 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-02-22 |
-| [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 |  |
+| [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 | 2025-02-16 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 | 2024-07-24 |
@@ -591,6 +591,7 @@
 | [Resurgiré](https://open.spotify.com/track/2jRyj7njfqgDh6xYZHR5mz) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Resurgiré](https://open.spotify.com/album/2PPlk816eHbyJdUE8O53vJ) | 3:25 | 2021-12-24 | 2022-07-28 |
 | [Rie Chinito](https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s) | 5:09 | 2022-07-22 | 2024-04-19 |
 | [Rie Chinito](https://open.spotify.com/track/4UZdPR7auDwEnpPc5vHU7n) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5B7ar7OxiJy7gZtfSvWhPd) | 5:09 | 2021-12-24 | 2022-07-29 |
+| [Roja i espessa](https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk) | [Anna Andreu](https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy) | [Vigília](https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613) | 3:02 | 2025-02-13 |  |
 | [Roly](https://open.spotify.com/track/0LyNm5jrkM2rFGno26FemV) | [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Roly](https://open.spotify.com/album/00FOb9a8GFpYHrHsBd0z3a) | 2:41 | 2024-11-22 | 2024-12-19 |
 | [ROMPER EL HIELO](https://open.spotify.com/track/4I6NMcBVLosTv9etcsq3No) | [TRIA](https://open.spotify.com/artist/1GCZZAo2jKhMG78ladGxgZ) | [ROMPER EL HIELO](https://open.spotify.com/album/3fsx63RxMkXBZJQSQyoH1m) | 4:03 | 2024-04-12 | 2024-04-21 |
 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 | 2022-07-22 | 2022-09-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,516 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,573 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 86 | [El Pecador](https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT) | [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Soy el Pecador](https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte) | 3:43 |
 | 87 | [Javat y Kamel](https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2) | [R De Rumba](https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Kamel](https://open.spotify.com/artist/3QVQAtD0D10SEpt3JRP2K1) | [R de Rumba](https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d) | 8:34 |
 | 88 | [La Playa](https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:27 |
-| 89 | [Basado en hechos reales](https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG) | [Nach Scratch](https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V) | [En la brevedad de los dias](https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay) | 4:05 |
-| 90 | [Jazz Elak Olé](https://open.spotify.com/track/6lVIubLaetv8EP3ClUhghT) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [La Historia Mas Real de Vuestras Vidas](https://open.spotify.com/album/0KfR7zLucl1SNMzECoLLWw) | 3:36 |
+| 89 | [Jazz Elak Olé](https://open.spotify.com/track/6lVIubLaetv8EP3ClUhghT) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [La Historia Mas Real de Vuestras Vidas](https://open.spotify.com/album/0KfR7zLucl1SNMzECoLLWw) | 3:36 |
+| 90 | [Basado en hechos reales](https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG) | [Nach Scratch](https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V) | [En la brevedad de los dias](https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay) | 4:05 |
 | 91 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
 | 92 | [Verdugo](https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 2:56 |
 | 93 | [Basureta \(Tiempos Raros\)](https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 6:11 |
 | 94 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
-| 95 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
-| 96 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 |
+| 95 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 |
+| 96 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
 | 97 | [Réplica](https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Réplica](https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we) | 5:05 |
 | 98 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
 | 99 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
-| 100 | [Madafaka \(feat\. Molotov\)](https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg), [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Chances](https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI) | 4:03 |
+| 100 | [Anochece / Manifiesto](https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 13:10 |
 
 Snapshot ID: `ZpF6EQAAAABsndbrcF7G1jA+2l2rokzT`

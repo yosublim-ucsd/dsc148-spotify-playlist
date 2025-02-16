@@ -6,7 +6,7 @@
     "name": "lanuarii",
     "url": "https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y"
   },
-  "snapshot_id": "AAAD4VETL5QCpnd0H+0Pllu4FJLowqsm",
+  "snapshot_id": "AAAD4jH2W2qWSB8mr+ry4XhWkY9lY+qm",
   "tracks": [
     {
       "added_at": "2019-01-23 17:24:55",
@@ -5035,6 +5035,26 @@
       "duration_ms": 231860,
       "name": "Red Terror",
       "url": "https://open.spotify.com/track/717s9KFmHhyy5t3xkStS56"
+    },
+    {
+      "added_at": "2025-02-15 02:47:46",
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     }
   ],
   "unique_name": "melodies from above \u2728",

@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1436839,
+  "num_followers": 1436820,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Black Irish",
         "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 241203,
       "name": "Banshee Moan",
       "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "Honest to God",
+        "url": "https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
         }
       ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+      "duration_ms": 217776,
+      "name": "Is It Enough",
+      "url": "https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR"
     }
   ],
   "unique_name": "Wild & Free",

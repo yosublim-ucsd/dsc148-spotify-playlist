@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: RED Hands
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,310 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,367 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 100 | [Nothing Compares](https://open.spotify.com/track/4cwmkKWpRKQoBcqmyHaCJL) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v), [Young Bro](https://open.spotify.com/artist/1fZhopeuReQRdzwwJ8leIQ) | [Nothing Compares](https://open.spotify.com/album/0Bs6rgdtb9fhXj4eof5B9E) | 4:59 |
 
-Snapshot ID: `Z4n/iAAAAADi1831YPGE4q7HH8Ut+yeX`
+Snapshot ID: `Z4n/iAAAAAAJrVpdShWT+VdM+ueQ8a5G`

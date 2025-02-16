@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,805 songs - 4 day 16 hr 21 min
+1,806 songs - 4 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-01-09 | 2024-04-11 |
 | [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-04-04 | 2024-07-03 |
 | [So Precious](https://open.spotify.com/track/6apVanen4xNhOipSav71hX) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/0NeQnk6t4tRFgVHKPg8CMw) | 3:29 | 2024-04-04 | 2024-04-19 |
+| [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 | 2025-02-15 |  |
 | [Sorairo Days \- From CrosSing](https://open.spotify.com/track/3YnFuf6DE54Uw3gt7iBgBF) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [Sorairo Days \- From CrosSing](https://open.spotify.com/album/5AHqJaHjgCN0L9RgYVOUzQ) | 4:13 | 2023-02-28 | 2023-03-15 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 | 2024-04-05 |
 | [soumonka](https://open.spotify.com/track/3Jf7nt3SQR8r3DqYYt56Lh) | [Sokoninaru](https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF) | [soumonka \[The Witch and the Beast\]Opening Theme](https://open.spotify.com/album/4EJmhcIK6BIAx2ZgSrO2yM) | 2:59 | 2024-01-11 | 2024-04-11 |
@@ -1017,7 +1018,7 @@
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 | 2023-07-14 |
 | [Year N](https://open.spotify.com/track/4UMwc117Ipj55O0Y8Kfq4N) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Year N](https://open.spotify.com/album/0nxngxhjoywkXZtjyT6mia) | 3:24 | 2025-01-07 |  |
 | [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-07-23 | 2024-08-04 |
-| [YOAKE](https://open.spotify.com/track/4hY8ZPLCvMlLmfPBs2GqZ2) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [YOAKE](https://open.spotify.com/album/1uVGevK443JtR9gbiFUnPu) | 3:39 | 2025-01-21 |  |
+| [YOAKE](https://open.spotify.com/track/4hY8ZPLCvMlLmfPBs2GqZ2) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [YOAKE](https://open.spotify.com/album/1uVGevK443JtR9gbiFUnPu) | 3:39 | 2025-01-21 | 2025-02-16 |
 | [Yobigoe](https://open.spotify.com/track/0lctvjZiJkXnHw0mghsq0J) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [Yobigoe](https://open.spotify.com/album/0EjfZgr0WRu1uOklzp52gV) | 4:41 | 2024-04-10 | 2024-04-19 |
 | [YOU GOTTA RUN](https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [YOU GOTTA RUN](https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas) | 4:19 | 2024-10-22 | 2024-12-18 |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |

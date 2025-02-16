@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > Your Valentine's Day mood, curated by <a href="https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM?si=XDeBPayCSFu6vkJt0zpjig">Muneyi</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,060 likes - 35 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,063 likes - 35 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

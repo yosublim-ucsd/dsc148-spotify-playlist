@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Adam Lambert in Cabaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,041 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,049 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Don't Care Much](https://open.spotify.com/track/6turEB7sq2UqiB3D1nLwyx) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [I Don't Care Much](https://open.spotify.com/album/7JM5QN0Q7W1FJii9r1vPga) | 3:11 |
 | 2 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
 | 3 | [I Do](https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr), [Kayna Montecillo](https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 4:17 |
-| 4 | [How Do You Sleep](https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P) | [Cardamon Rozzi](https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu), [JC Chasez](https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00) | [Playing With Fire \(World Premiere Recording\)](https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY) | 3:55 |
+| 4 | [How Do You Sleep](https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P) | [JC Chasez](https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00), [Jimmy Harry](https://open.spotify.com/artist/6mj5tiQROS79JXR9cfODHv), [Cardamon Rozzi](https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu) | [Playing With Fire \(World Premiere Recording\)](https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY) | 3:55 |
 | 5 | [Let Them Eat Cake](https://open.spotify.com/track/0tfWuZZS3MA4UdMryLeApR) | [Cake The Musical](https://open.spotify.com/artist/60uKAnsWM88nOiQ8cMnLha) | [CAKE: The Marie Antoinette Playlist \(Studio Cast Recording\)](https://open.spotify.com/album/0wIkG3HcEubSxNueheYcSW) | 3:35 |
 | 6 | [If You Can Count](https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Warriors](https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl) | 3:24 |
 | 7 | [Waiter's Song](https://open.spotify.com/track/2E0AjkiDgeQwAMLWyNudf5) | [Denis O'Hare](https://open.spotify.com/artist/6V61xKjFeKyRl9FAgKtKYS), [Amber Gray](https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb), [Jeremy Shamos](https://open.spotify.com/artist/1gU6vW1dNs4oZMGoKDAW3h), [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Bobby Cannavale](https://open.spotify.com/artist/39ZMrrNEthdwHD5WrmBEk4), [Rachel Bay Jones](https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd), [Micaela Diamond](https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq) | [Here We Are \(Original Cast Recording\)](https://open.spotify.com/album/04SqfbxYwlEhk5GenxL4mv) | 4:21 |

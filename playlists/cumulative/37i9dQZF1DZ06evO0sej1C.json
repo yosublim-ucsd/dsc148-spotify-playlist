@@ -1595,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "RE-CREO",
+        "url": "https://open.spotify.com/album/1wSaLMi54sHcTLvtWfMCEf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "RE-CREO",
+      "url": "https://open.spotify.com/track/3KdOtZsp0nK3fLa5eztJRl"
+    },
+    {
+      "album": {
         "name": "Retumbando en la Ciudad",
         "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
       },

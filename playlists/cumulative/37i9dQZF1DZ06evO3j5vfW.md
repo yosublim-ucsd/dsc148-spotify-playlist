@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 47 min
+129 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Sacrifice](https://open.spotify.com/track/39O8UbOREp97r6eP0KsBd2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:43 | 2023-12-13 | 2024-02-08 |
 | [See You On The Dancefloor](https://open.spotify.com/track/7CAKhC9pd2xM5mBg7HtJbr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [See You On The Dancefloor EP](https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k) | 3:14 | 2022-02-05 | 2022-10-13 |
 | [Sensation](https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sensation](https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs) | 2:54 | 2023-12-13 |  |
+| [Shout](https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Shout](https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e) | 3:29 | 2025-02-16 |  |
 | [Sign](https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sign](https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS) | 3:21 | 2024-12-15 |  |
 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-12-13 | 2024-06-15 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-27 | 2024-09-18 |
@@ -130,7 +131,7 @@
 | [Where Do I Go \- Rameses B Remix](https://open.spotify.com/track/2ekVUbP8I4kTS768AQzvIH) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Where Do I Go \(Rameses B Remix\)](https://open.spotify.com/album/0E65U8gsNoGfNPzX0pzGnF) | 2:42 | 2025-01-27 |  |
 | [Where Would We Be](https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be](https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6) | 3:28 | 2021-12-20 |  |
 | [Where Would We Be \- Nicky Romero Edit](https://open.spotify.com/track/2SvB51IGKJkEYBTglXdQiw) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be \(Remixes Vol\. 2\)](https://open.spotify.com/album/1LPAVRah84cEMrMhAeJbGx) | 3:46 | 2022-03-23 | 2023-02-22 |
-| [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2021-12-20 |  |
+| [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2021-12-20 | 2025-02-16 |
 | [Work My Body](https://open.spotify.com/track/5p1HNuc2P64Au0hwh2PcSB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 2:50 | 2022-06-13 | 2022-07-01 |
 | [World Through Your Eyes](https://open.spotify.com/track/2kP8XBdhI9NRQkbDxye43P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj), [Joseph Feinstein](https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L) | [World Through Your Eyes](https://open.spotify.com/album/0RVvcarH2fXvoIkkiGql2s) | 3:43 | 2021-12-20 | 2022-10-13 |
 | [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 | 2021-12-20 | 2023-07-23 |

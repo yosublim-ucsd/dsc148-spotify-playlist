@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 58366,
+  "num_followers": 58373,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD Crazy:B",
+        "url": "https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j"
+      },
+      "artists": [
+        {
+          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
+          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Crazy Roulette",
+      "url": "https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2 \u300cLet\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606\u300d",
         "url": "https://open.spotify.com/album/7A2KSWOiyIsSbA455L7dbl"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 232522,
       "name": "Let\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606",
       "url": "https://open.spotify.com/track/506QEdY4JMYq3g174Z2Z2B"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD Crazy:B",
-        "url": "https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
-          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Crazy Roulette",
-      "url": "https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
-        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "\u7ffc\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-      "url": "https://open.spotify.com/track/31T4GT2pXiw1aI7Ei8Iet9"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
         "name": "2wink\u300cSwee2wink Love Letter\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224306,
       "name": "Swee2wink Love Letter",
       "url": "https://open.spotify.com/track/0pi8djDltXS8pPXpgQHkGa"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "\u7ffc\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+      "url": "https://open.spotify.com/track/31T4GT2pXiw1aI7Ei8Iet9"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
+        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Believe 4 leaves",
+      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
         "name": "Double Face\u300cNo name yet\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb"
       },
@@ -827,38 +843,6 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "Double Face\u300cNo name yet\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb"
-      },
-      "artists": [
-        {
-          "name": "MaM/\u4e09\u6bdb\u7e1e\u6591(CV.\u9ce5\u6d77\u6d69\u8f14)",
-          "url": "https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "\u30cf\u30f3\u30ba\u30af\u30e9\u30d5\u30c8",
-      "url": "https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
-        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Believe 4 leaves",
-      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
         "name": "Valkyrie\u300cAcanthe\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc"
       },
@@ -875,24 +859,40 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
+        "name": "Double Face\u300cNo name yet\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb"
       },
       "artists": [
         {
-          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
-          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
+          "name": "MaM/\u4e09\u6bdb\u7e1e\u6591(CV.\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd"
         }
       ],
-      "duration_ms": 268866,
-      "name": "A little bit UP!!",
-      "url": "https://open.spotify.com/track/3PQyK1cirH5POLnr8ECCfC"
+      "duration_ms": 288293,
+      "name": "\u30cf\u30f3\u30ba\u30af\u30e9\u30d5\u30c8",
+      "url": "https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM"
     },
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD Crazy:B",
-        "url": "https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "You're Speculation",
+      "url": "https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "Crazy:B\u300c\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
         }
       ],
-      "duration_ms": 281386,
-      "name": "RISKY VENUS",
-      "url": "https://open.spotify.com/track/5GrzF7LHTKa4Uwf0H00rIC"
+      "duration_ms": 242920,
+      "name": "Noisy:Beep",
+      "url": "https://open.spotify.com/track/2txvj2W5aUiSUdjx9bca3o"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
-        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+        "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
       },
       "artists": [
         {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
         }
       ],
-      "duration_ms": 221040,
-      "name": "You're Speculation",
-      "url": "https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV"
+      "duration_ms": 268866,
+      "name": "A little bit UP!!",
+      "url": "https://open.spotify.com/track/3PQyK1cirH5POLnr8ECCfC"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "Crazy:B\u300c\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD Crazy:B",
+        "url": "https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j"
       },
       "artists": [
         {
@@ -996,25 +996,9 @@
           "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
         }
       ],
-      "duration_ms": 242920,
-      "name": "Noisy:Beep",
-      "url": "https://open.spotify.com/track/2txvj2W5aUiSUdjx9bca3o"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "Trap For You",
-      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
+      "duration_ms": 281386,
+      "name": "RISKY VENUS",
+      "url": "https://open.spotify.com/track/5GrzF7LHTKa4Uwf0H00rIC"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -1047,6 +1031,22 @@
       "duration_ms": 255546,
       "name": "POLYPHONIC WORLD",
       "url": "https://open.spotify.com/track/4sh3mB7Q34gkxAEJbQAl43"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Trap For You",
+      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
-        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Flamb\u00e9\uff01\u300cHave you been naughty or nice?\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1"
       },
       "artists": [
         {
-          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
+          "name": "Flamb\u00e9!/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001\u771f\u767d \u53cb\u4e5f(CV.\u6bd4\u7559\u9593 \u4fca\u54c9)\u3001\u660e\u661f \u30b9\u30d0\u30eb(CV.\u67ff\u539f \u5fb9\u4e5f)\u3001\u4f0f\u898b \u5f13\u5f26(CV.\u6a4b\u672c \u6643\u592a\u6717)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742 \u826f\u592a)",
+          "url": "https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Little Romance",
-      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
+      "duration_ms": 134974,
+      "name": "Have you been naughty or nice? - Game Edit",
+      "url": "https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -1239,6 +1239,22 @@
       "duration_ms": 251573,
       "name": "Fight for Judge",
       "url": "https://open.spotify.com/track/0REh9JzsqKLZ2enJil2RG7"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
+        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Little Romance",
+      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -1271,22 +1287,6 @@
       "duration_ms": 256493,
       "name": "Aisle, be with you",
       "url": "https://open.spotify.com/track/1jK8X9teT6Hj3zKxYkLPxo"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Flamb\u00e9\uff01\u300cHave you been naughty or nice?\u300d (Game Edit)",
-        "url": "https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1"
-      },
-      "artists": [
-        {
-          "name": "Flamb\u00e9!/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001\u771f\u767d \u53cb\u4e5f(CV.\u6bd4\u7559\u9593 \u4fca\u54c9)\u3001\u660e\u661f \u30b9\u30d0\u30eb(CV.\u67ff\u539f \u5fb9\u4e5f)\u3001\u4f0f\u898b \u5f13\u5f26(CV.\u6a4b\u672c \u6643\u592a\u6717)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742 \u826f\u592a)",
-          "url": "https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag"
-        }
-      ],
-      "duration_ms": 134974,
-      "name": "Have you been naughty or nice? - Game Edit",
-      "url": "https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7"
     },
     {
       "added_at": "2025-02-11 08:17:11",

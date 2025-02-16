@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: There's A Tuesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,406 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,421 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 12 | [Tightrope](https://open.spotify.com/track/5gbxUQZ5S747MlZusDhNSF) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Tightrope / Vacate](https://open.spotify.com/album/71z0Oo6ZSNUY6udLVexgPl) | 3:08 |
 | 13 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 14 | [Chasing Hearts](https://open.spotify.com/track/1l0PzbLmNpSy6dgULjPtWp) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Chasing Hearts](https://open.spotify.com/album/75UrUW5BvcPAQDnpItdDuC) | 3:34 |
-| 15 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
+| 15 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
 | 16 | [One Way Ticket](https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [One Way Ticket](https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY) | 3:27 |
 | 17 | [Blackstar](https://open.spotify.com/track/0DlA3HQ1TZrdqrHB6QAtPY) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [Blackstar](https://open.spotify.com/album/3m4LplD32kcXmZWrH7VqM6) | 3:58 |
 | 18 | [Til I'm Dead](https://open.spotify.com/track/5A1Rwjmz8yIDMeMaxtd8GN) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [I Don't Wanna Live, I Don't Wanna Die.](https://open.spotify.com/album/6e7CdaMIx1hpRfu5jLfGNy) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [flood](https://open.spotify.com/track/41Pn0bj8sB5GAzpImm2Sg7) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [flood](https://open.spotify.com/album/6zQ6z0C1ACh57yfZZ9rgSG) | 3:15 |
 | 100 | [Don't Be A Stranger](https://open.spotify.com/track/02rCzlqdbWR3EAUvloCp0g) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Don't Be A Stranger](https://open.spotify.com/album/7JiCutogiOKnp7SKwIoEah) | 2:57 |
 
-Snapshot ID: `Z63s7AAAAABupa+9pKFgWnojYlOwu30x`
+Snapshot ID: `Z63s7AAAAADOiTUIZIrpiTZcsWmo3SYm`

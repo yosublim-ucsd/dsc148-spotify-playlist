@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u9ad8\u7551\u5145\u5e0c",
-  "num_followers": 119020,
+  "num_followers": 119100,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-02-13 15:14:54",
       "album": {
-        "name": "\u8a00\u306e\u5203",
-        "url": "https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "\u8a00\u306e\u5203",
-      "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
-    },
-    {
-      "added_at": "2025-02-13 15:14:54",
-      "album": {
         "name": "\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 229222,
       "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
       "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
+    },
+    {
+      "added_at": "2025-02-13 15:14:54",
+      "album": {
+        "name": "\u8a00\u306e\u5203",
+        "url": "https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "\u8a00\u306e\u5203",
+      "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
     },
     {
       "added_at": "2025-02-13 15:14:54",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-02-13 15:14:54",
       "album": {
-        "name": "\u308f\u3092\u3093",
-        "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 270900,
-      "name": "\u308f\u3092\u3093",
-      "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
-    },
-    {
-      "added_at": "2025-02-13 15:14:54",
-      "album": {
         "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
         "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 241630,
       "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
       "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
+    },
+    {
+      "added_at": "2025-02-13 15:14:54",
+      "album": {
+        "name": "\u308f\u3092\u3093",
+        "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 270900,
+      "name": "\u308f\u3092\u3093",
+      "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
     },
     {
       "added_at": "2025-02-13 15:14:54",

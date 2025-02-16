@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
+    },
+    {
+      "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"

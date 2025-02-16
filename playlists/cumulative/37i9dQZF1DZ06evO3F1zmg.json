@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 136508,
       "name": "Bussin 2.0",
       "url": "https://open.spotify.com/track/7f6IbVQGsCVocy1n1Amp9t"
@@ -522,6 +522,28 @@
       "duration_ms": 185374,
       "name": "Confetti (feat. Saweetie)",
       "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
+    },
+    {
+      "album": {
+        "name": "Paid N Full",
+        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Cuttin Up (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
     },
     {
       "album": {
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 156276,
       "name": "SHE PRETTY - WITH SAWEETIE",
       "url": "https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S"
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 198087,
       "name": "Up Now (feat. G-Eazy and Rich The Kid)",
       "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40880,
+  "num_followers": 40881,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Miseress",
+        "url": "https://open.spotify.com/album/1O2jnMOsCrKS5dsJMsExmK"
+      },
+      "artists": [
+        {
+          "name": "Mueran Humanos",
+          "url": "https://open.spotify.com/artist/6QFejLfdSjnBOVvH6kqCEq"
+        }
+      ],
+      "duration_ms": 286174,
+      "name": "Mi Auto",
+      "url": "https://open.spotify.com/track/2kDaFXFmEeha1r1ZCHIONF"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "Chica Mutante",
         "url": "https://open.spotify.com/album/63NFBjMrPVf5c9y3eVJL6n"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 200095,
       "name": "Chica Mutante",
       "url": "https://open.spotify.com/track/4hpcMoBPVbDIoQHtW40KUg"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Miseress",
-        "url": "https://open.spotify.com/album/1O2jnMOsCrKS5dsJMsExmK"
-      },
-      "artists": [
-        {
-          "name": "Mueran Humanos",
-          "url": "https://open.spotify.com/artist/6QFejLfdSjnBOVvH6kqCEq"
-        }
-      ],
-      "duration_ms": 286174,
-      "name": "Mi Auto",
-      "url": "https://open.spotify.com/track/2kDaFXFmEeha1r1ZCHIONF"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Nueva en el Amor",
-        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O"
       },
       "artists": [
         {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+          "name": "VULKA",
+          "url": "https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl"
         }
       ],
-      "duration_ms": 166595,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
+      "duration_ms": 242134,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -535,18 +535,18 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O"
+        "name": "Nueva en el Amor",
+        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
       },
       "artists": [
         {
-          "name": "VULKA",
-          "url": "https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl"
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
         }
       ],
-      "duration_ms": 242134,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr"
+      "duration_ms": 166595,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
+      },
+      "artists": [
+        {
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Arroyo Dorado",
+      "url": "https://open.spotify.com/track/3s1pANqiVLJwARB76vfYkC"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "No Pasa Nada",
         "url": "https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 61000,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
-      },
-      "artists": [
-        {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Arroyo Dorado",
-      "url": "https://open.spotify.com/track/3s1pANqiVLJwARB76vfYkC"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -779,6 +779,26 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Este Presente",
+        "url": "https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W"
+      },
+      "artists": [
+        {
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Carlos Britez",
+          "url": "https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax"
+        }
+      ],
+      "duration_ms": 124471,
+      "name": "Este Presente",
+      "url": "https://open.spotify.com/track/7DjQuAlt01yXiAatSTVgdE"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "Nuestra Soledad",
         "url": "https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 204115,
       "name": "No Tengo Salida",
       "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Este Presente",
-        "url": "https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W"
-      },
-      "artists": [
-        {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        },
-        {
-          "name": "Carlos Britez",
-          "url": "https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax"
-        }
-      ],
-      "duration_ms": 124471,
-      "name": "Este Presente",
-      "url": "https://open.spotify.com/track/7DjQuAlt01yXiAatSTVgdE"
     },
     {
       "added_at": "2025-01-24 19:05:09",

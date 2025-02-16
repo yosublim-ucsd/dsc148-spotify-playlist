@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,812 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,814 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 20 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
 | 21 | [Paper Tigers](https://open.spotify.com/track/2iGF5rgKHNsWVJPyKKZEd8) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Paper Tigers](https://open.spotify.com/album/2oCT4kkh0V83604cwYpUbn) | 3:48 |
 | 22 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 |
-| 23 | [Malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [Malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
+| 23 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
 | 24 | [Low Tide](https://open.spotify.com/track/6uxInNTDHxVztwjRSrPQAM) | [Deer Fang](https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV) | [Low Tide](https://open.spotify.com/album/5xsVS2oKabj0mvO2ZIqFlz) | 3:35 |
 | 25 | [Habit](https://open.spotify.com/track/2PZmaMJ0FuK6OkMPwvHNCD) | [AIRTIGHT](https://open.spotify.com/artist/72BcBzR0gYf9yhxaBHmAph) | [Habit](https://open.spotify.com/album/5dzgzO0jjIEkEYznHgXolo) | 3:55 |
 | 26 | [Bliss Bliss](https://open.spotify.com/track/48CG1IUOn64VHIkEKWo7Xa) | [kairo.](https://open.spotify.com/artist/7u4NmIWGOhBGRjbrXMBXoa) | [After Forever](https://open.spotify.com/album/6z34D1YRoL9iW8yUTjo3hx) | 3:58 |

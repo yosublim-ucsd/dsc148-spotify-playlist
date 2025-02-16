@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "24K Gold",
+        "url": "https://open.spotify.com/album/4oXZ87dBtRWJuLE9NzzKfT"
+      },
+      "artists": [
+        {
+          "name": "Malou Prytz",
+          "url": "https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "24K Gold",
+      "url": "https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c"
+    },
+    {
+      "album": {
         "name": "2A",
         "url": "https://open.spotify.com/album/2ugiL7E28kNku0wF9hGHqx"
       },
@@ -5305,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -7190,7 +7226,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -19128,7 +19164,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -22291,6 +22327,28 @@
     },
     {
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/6ZzLU7iR4jpbNrEt8mXYsu"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        },
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/4Lx4JNpzGR2wdybtpJ0H6S"
+    },
+    {
+      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -22848,6 +22906,28 @@
       "duration_ms": 120000,
       "name": "Likkle Boy",
       "url": "https://open.spotify.com/track/1Pbc670CnjRQT2z7W7WzDN"
+    },
+    {
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135576,
+      "name": "Lila",
+      "url": "https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z"
     },
     {
       "album": {
@@ -27562,7 +27642,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -32112,7 +32192,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 182349,
       "name": "Salute",
       "url": "https://open.spotify.com/track/2fa3V92K5LtrQKOHs5URSD"
@@ -35086,7 +35166,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -36332,7 +36412,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 191103,
       "name": "Svag",
       "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
@@ -37382,7 +37462,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -38590,7 +38670,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"

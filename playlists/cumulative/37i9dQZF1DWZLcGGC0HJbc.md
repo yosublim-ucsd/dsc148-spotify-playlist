@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-125 songs - 7 hr 26 min
+126 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-23 |  |
 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 | 2025-01-23 |  |
 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 | 2025-01-23 |  |
+| [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-02-13 |  |
 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 | 2025-02-03 |  |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-06-27 | 2025-01-24 |
 | [Endless Song](https://open.spotify.com/track/0uJVYmVNG3kfmBUlOkRfgU) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Endless Song](https://open.spotify.com/album/3g05Kfwri5zlGLtubDFvrq) | 3:17 | 2025-01-23 | 2025-01-25 |
@@ -83,7 +84,7 @@
 | [Moonlight Child](https://open.spotify.com/track/1XS1byNGw6Ii27Z9os7RUf) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [All Under Heaven](https://open.spotify.com/album/5IXDmsbdVqJiT9UqMtpAxF) | 4:29 | 2025-01-23 | 2025-01-29 |
 | [Mountainsong](https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9) | [Catbug](https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj) | [Mountainsong](https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J) | 6:20 | 2024-07-18 | 2025-01-24 |
 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 | 2025-01-23 |  |
-| [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 |  |
+| [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 | 2025-02-16 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-06-27 | 2024-12-19 |
 | [My Love Mine All Mine](https://open.spotify.com/track/5TS7Hcbrjz8JTAgUFIsqoC) | [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [My Love Mine All Mine](https://open.spotify.com/album/0IIiS2dXsBM4aZjrExn5gh) | 2:21 | 2024-06-27 | 2025-01-24 |
 | [My Love, I'm Only Mad](https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [My Love, I'm Only Mad](https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI) | 2:45 | 2024-11-11 | 2025-01-24 |

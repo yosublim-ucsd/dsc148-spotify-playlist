@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAHdKeKzWk+5678KRLy5XD2Yo2MQ33",
+  "snapshot_id": "AAAAH7jC9kWmxWJr6hIRa3PXiHeF9xw5",
   "tracks": [
     {
       "added_at": "2024-01-02 09:29:56",
@@ -411,6 +411,38 @@
       "duration_ms": 142973,
       "name": "Cancer",
       "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
+    },
+    {
+      "added_at": "2025-02-15 07:47:00",
+      "album": {
+        "name": "Songs for Pierre Chuvin",
+        "url": "https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "The Wooded Hills Along the Black Sea",
+      "url": "https://open.spotify.com/track/4a4WGeoeja5hlFeOySwwrC"
+    },
+    {
+      "added_at": "2025-02-15 11:28:05",
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Picture of My Dress",
+      "url": "https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4"
     }
   ],
   "unique_name": "Queerly Beloved",

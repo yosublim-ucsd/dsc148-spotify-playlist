@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Bo Staloch
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,219 likes - 141 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,308 likes - 141 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

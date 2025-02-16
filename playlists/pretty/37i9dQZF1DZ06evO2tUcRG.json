@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 266149,
+  "num_followers": 266175,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAABaQ3LbGyGFkAca4CivsvY/",
+  "snapshot_id": "Z66HgAAAAAByuAmz/rcCtsnI5HvPuqYo",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP Gabriela Rocha",
+        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Atos 2",
+      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP Gabriela Rocha",
-        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Atos 2",
-      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yahweh (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 797796,
-      "name": "Yahweh - Ao Vivo",
-      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yahweh (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 797796,
+      "name": "Yahweh - Ao Vivo",
+      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+      "duration_ms": 326883,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         },
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 326883,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,

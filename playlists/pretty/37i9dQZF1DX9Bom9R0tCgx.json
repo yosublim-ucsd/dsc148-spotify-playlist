@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 405970,
+  "num_followers": 406060,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "TABU.",
-        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
-      },
-      "artists": [
-        {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "TABU.",
-      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
         "name": "Pon De Replay",
         "url": "https://open.spotify.com/album/2pz2xrOldHvovzJvErMGA9"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 122156,
       "name": "Pon De Replay",
       "url": "https://open.spotify.com/track/0Pf0qMHAWrAkEQOfy0cm6H"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -890,6 +890,10 @@
         {
           "name": "DJSM",
           "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
       "duration_ms": 165049,
@@ -1351,30 +1355,18 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "Just Wanna Dance",
-        "url": "https://open.spotify.com/album/49eDsBCGBjgWXD3NepqIub"
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "K1LO",
-          "url": "https://open.spotify.com/artist/7c3CDjLPLotUtT0U4nSv0Z"
-        },
-        {
-          "name": "MadGuss",
-          "url": "https://open.spotify.com/artist/7KZwnYSX6YV8WGkWCaADLt"
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Just Wanna Dance",
-      "url": "https://open.spotify.com/track/2v3RHDfte6KWWeMV0jUMeY"
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -1399,22 +1391,6 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "Bel Mercy (Techno)",
-        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
-      },
-      "artists": [
-        {
-          "name": "Paayne",
-          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Bel Mercy - Techno",
-      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1435,6 +1411,34 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
+        "name": "Just Wanna Dance",
+        "url": "https://open.spotify.com/album/49eDsBCGBjgWXD3NepqIub"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "K1LO",
+          "url": "https://open.spotify.com/artist/7c3CDjLPLotUtT0U4nSv0Z"
+        },
+        {
+          "name": "MadGuss",
+          "url": "https://open.spotify.com/artist/7KZwnYSX6YV8WGkWCaADLt"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Just Wanna Dance",
+      "url": "https://open.spotify.com/track/2v3RHDfte6KWWeMV0jUMeY"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -1599,6 +1603,26 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
         "name": "Click Click Click",
         "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
       },
@@ -1619,26 +1643,6 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -1715,6 +1719,26 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
         "name": "watch your tone",
         "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
       },
@@ -1743,26 +1767,6 @@
       "duration_ms": 109617,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/73PZa5qprNmqC3ePUj7Rou"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
-        "name": "Dance All Night",
-        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -1851,22 +1855,6 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "Dance Therapy",
-        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        }
-      ],
-      "duration_ms": 125058,
-      "name": "Dance Therapy",
-      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -1887,6 +1875,22 @@
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        }
+      ],
+      "duration_ms": 125058,
+      "name": "Dance Therapy",
+      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
     },
     {
       "added_at": "2025-02-06 23:00:42",

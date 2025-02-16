@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Sabrina Carpenter",
-  "num_followers": 394411,
+  "num_followers": 394485,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -210,6 +210,10 @@
         {
           "name": "Hands Like Houses",
           "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Benjamin Joseph",
+          "url": "https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86"
         }
       ],
       "duration_ms": 226909,
@@ -1584,7 +1588,7 @@
           "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
         }
       ],
-      "duration_ms": 158000,
+      "duration_ms": 160032,
       "name": "Rain Coat",
       "url": "https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ"
     },

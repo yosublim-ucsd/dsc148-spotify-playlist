@@ -1,6 +1,6 @@
 {
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
-  "num_followers": 97013,
+  "num_followers": 97071,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Committed to the Crime",
-        "url": "https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM"
-      },
-      "artists": [
-        {
-          "name": "Chaos Chaos",
-          "url": "https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E"
-        }
-      ],
-      "duration_ms": 250712,
-      "name": "Do You Feel It?",
-      "url": "https://open.spotify.com/track/3lOok0REf4j3790abX26PR"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Chapter Of The Forest",
         "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 274632,
       "name": "Green Mountain State",
       "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Committed to the Crime",
+        "url": "https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM"
+      },
+      "artists": [
+        {
+          "name": "Chaos Chaos",
+          "url": "https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E"
+        }
+      ],
+      "duration_ms": 250712,
+      "name": "Do You Feel It?",
+      "url": "https://open.spotify.com/track/3lOok0REf4j3790abX26PR"
     },
     {
       "added_at": "2024-01-24 21:21:00",

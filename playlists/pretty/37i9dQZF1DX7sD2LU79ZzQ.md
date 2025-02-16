@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Wijaya 80
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,005 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,051 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [PERJUMPAAN](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
+| 1 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
 | 2 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 |
 | 3 | [Andai Sampai Akhir Usia](https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Andai Sampai Akhir Usia](https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0) | 5:09 |
 | 4 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 |

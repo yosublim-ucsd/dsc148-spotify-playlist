@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-452 songs - 1 day 1 hr 23 min
+454 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 | 2024-06-12 | 2024-06-22 |
 | [In This City](https://open.spotify.com/track/65HFAlZSfeIKZgOlctCYgp) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 4:01 | 2024-07-12 | 2024-09-08 |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
+| [Information Content](https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 4:03 | 2025-02-16 |  |
 | [Ingrown](https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 3:11 | 2024-10-06 | 2024-11-14 |
 | [Inside the Golden Days of Missing You](https://open.spotify.com/track/068xIt3dOCHgyUGPn8EUqy) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 2:26 | 2024-07-25 | 2024-07-29 |
 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 | 2024-11-17 | 2025-01-12 |
@@ -437,6 +438,7 @@
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
+| [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 |  |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |

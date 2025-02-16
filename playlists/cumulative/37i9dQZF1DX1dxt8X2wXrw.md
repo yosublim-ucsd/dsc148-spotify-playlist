@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-171 songs - 9 hr 16 min
+172 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 | 2024-11-07 | 2025-01-24 |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2024-03-28 | 2024-09-03 |
 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 | 2024-03-28 | 2024-11-18 |
-| [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-09-02 |  |
+| [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-09-02 | 2025-02-16 |
 | [Tide](https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Tide](https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq) | 2:50 | 2025-01-23 |  |
 | [Too Close](https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Too Close](https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b) | 3:44 | 2024-03-28 | 2024-09-02 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-10-10 |  |
@@ -177,6 +177,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-03-28 |  |
 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 | 2025-01-23 | 2025-02-08 |
 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 | 2024-03-28 | 2025-01-24 |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-28 | 2025-02-14 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2025-02-13 |  |
 

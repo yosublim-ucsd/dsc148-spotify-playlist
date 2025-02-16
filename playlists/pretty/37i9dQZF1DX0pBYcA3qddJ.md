@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,851 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,850 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
 | 90 | [fallen leaves](https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [fallen leaves](https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW) | 2:31 |
 | 91 | [City Lights](https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [City Lights](https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg) | 3:42 |
-| 92 | [Württemberg Sonatas / Sonata No\. 4 in B\-Flat Major, H\. 32: II\. Andante](https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Carl Philipp Emanuel Bach](https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j) | 3:00 |
+| 92 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 |
 | 93 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 |
-| 94 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 |
+| 94 | [Württemberg Sonatas / Sonata No\. 4 in B\-Flat Major, H\. 32: II\. Andante](https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Carl Philipp Emanuel Bach](https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j) | 3:00 |
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:42 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
 | 97 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |

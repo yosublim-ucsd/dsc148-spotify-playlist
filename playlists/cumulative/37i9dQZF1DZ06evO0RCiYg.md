@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 16 min
+79 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Let's Get It Started \- Spike Mix](https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:37 | 2023-07-28 |  |
 | [Love You Long Time](https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:45 | 2023-08-25 |  |
 | [MAMACITA](https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [MAMACITA](https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V) | 4:09 | 2023-07-28 |  |
-| [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 | 2023-07-28 |  |
+| [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 | 2023-07-28 | 2025-02-16 |
+| [Mami](https://open.spotify.com/track/7N0QUWWnsvqjcURBeW21b9) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:49 | 2025-02-16 |  |
 | [Mas Que Nada](https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Timeless](https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH) | 4:22 | 2023-07-28 |  |
 | [Meet Me Halfway](https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:44 | 2023-07-28 |  |
 | [Missing You](https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:34 | 2023-07-28 |  |

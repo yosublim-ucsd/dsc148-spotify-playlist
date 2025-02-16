@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,793 likes - 329 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,795 likes - 329 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,11 +223,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 213 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
 | 214 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
 | 215 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
-| 216 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
-| 217 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 216 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 217 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
 | 218 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 |
-| 219 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 |
-| 220 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 219 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 220 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 |
 | 221 | [Trap Star](https://open.spotify.com/track/39MJKyP5VPNP3kattTx9iO) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:22 |
 | 222 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
 | 223 | [Big Dog](https://open.spotify.com/track/7FRMyc0lIplQaI3hdDvA61) | [MoeIsBetter](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Big Dog](https://open.spotify.com/album/0rLpjEZaIvtqY1kqfK5ylv) | 2:30 |
@@ -300,9 +300,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 290 | [island](https://open.spotify.com/track/1pOqZgIAfN0kgiJKJKNeHJ) | [Lee](https://open.spotify.com/artist/0llIp92s72MGxqoJviNjGC) | [Lo\-fi of Lee](https://open.spotify.com/album/3YpkgY5WXsts05RJ154gcf) | 4:37 |
 | 291 | [I Promise](https://open.spotify.com/track/44zhUOvoGWRsV7D8hN1upZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Playoff](https://open.spotify.com/album/75U77vLys6DqabxF9abLAp) | 2:26 |
 | 292 | [Fuck With My High](https://open.spotify.com/track/2bjUFnnP61BcOUE6fDd2SK) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Feel Better](https://open.spotify.com/album/5ffDmmCZHSnH4XhU7XHLQx) | 3:13 |
-| 293 | [Internet Chatter](https://open.spotify.com/track/7aCycjPqBhh1Z1JHXhbSEX) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 2:19 |
+| 293 | [Internet Chatter](https://open.spotify.com/track/77m47oNxl4Xwx9cIpQ9Zuc) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 2:19 |
 | 294 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
-| 295 | [Mr\. and Mrs\. Perfect](https://open.spotify.com/track/5ou81VSAuqZ1on4PiM0lU9) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:03 |
+| 295 | [Mr\. and Mrs\. Perfect](https://open.spotify.com/track/6PrNUD0n0Ni7R39PKUVURY) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 3:03 |
 | 296 | [Flippin'](https://open.spotify.com/track/4ryzLQFPLxLTmJFxj4TOpo) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Flippin'](https://open.spotify.com/album/1xZ2a0fEKq1lSCsomGXEnz) | 3:40 |
 | 297 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 |
 | 298 | [Still Pray](https://open.spotify.com/track/5220yevLmUeAqrXZ4PX618) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 3:07 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 328 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 329 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbpmfgAAAAC04vI+3GpWvGqqKSko0Qsk`
+Snapshot ID: `AbpsMgAAAAAn0u2TVSVncOt0YHw60ipA`

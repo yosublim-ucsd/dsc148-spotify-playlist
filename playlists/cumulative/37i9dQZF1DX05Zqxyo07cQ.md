@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-658 songs - 1 day 8 hr 13 min
+659 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-18 | 2024-12-28 |
 | [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 |  |
 | [Clear Mind](https://open.spotify.com/track/3nE5djRtJ8ye65bNGG5j76) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:14 | 2023-03-23 | 2024-01-18 |
-| [Close your Eyes](https://open.spotify.com/track/41labfyDVOAJP3bhKk7unE) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Close your Eyes](https://open.spotify.com/album/1WNV08b6wRoRKYjzmZtQJx) | 2:34 | 2024-05-04 |  |
+| [Close your Eyes](https://open.spotify.com/track/41labfyDVOAJP3bhKk7unE) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Close your Eyes](https://open.spotify.com/album/1WNV08b6wRoRKYjzmZtQJx) | 2:34 | 2024-05-04 | 2025-02-16 |
 | [Close Your Eyes Once Again](https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Encounter](https://open.spotify.com/album/4O4UIoJHt1GHL7GkRkuyui) | 2:57 | 2023-03-23 | 2024-02-09 |
 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2023-03-23 | 2024-05-05 |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2023-03-23 | 2024-02-09 |
@@ -403,6 +403,7 @@
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 |  |
 | [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 |  |
 | [Nightbound](https://open.spotify.com/track/1eyJETJbXOdk21bCuN3hlH) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Nightbound](https://open.spotify.com/album/1ScU3u4CEFByPcPa7Cb0CS) | 2:15 | 2024-03-20 | 2024-07-12 |
+| [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 | 2025-02-14 |  |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2023-03-23 | 2024-03-21 |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2023-03-23 | 2024-01-18 |
 | [Nisi](https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH) | [Systema Solaris](https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz) | [Nisi](https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh) | 2:34 | 2024-06-18 | 2025-01-02 |

@@ -4,11 +4,12 @@
 
 > Desperation
 
-10 songs - 33 min 31 sec
+11 songs - 39 min 29 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 | 2024-11-11 |  |
+| [Heel Turn 2](https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 5:58 | 2025-02-15 |  |
 | [Lion's Teeth](https://open.spotify.com/track/3V9DfXLPjXVzD0o5wO7fRh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:25 | 2024-12-04 |  |
 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Make It Rain](https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 4:55 | 2024-09-16 |  |

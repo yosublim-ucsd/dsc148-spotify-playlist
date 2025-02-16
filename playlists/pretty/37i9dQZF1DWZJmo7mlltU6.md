@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Cupido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,773 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,774 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 62 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 |
 | 63 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
 | 64 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 |
-| 65 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
+| 65 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm), [Gabriel Rei](https://open.spotify.com/artist/2ON9JK0EMTcqp5Cri2aHch) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
 | 66 | [The Last Sad Song](https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Last Sad Song](https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6) | 2:58 |
 | 67 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 |
 | 68 | [She's The Sun](https://open.spotify.com/track/5xpw4HZYux97KuVliSFpph) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [She's The Sun](https://open.spotify.com/album/1V3KWnfjOWqiuBtrYVhRgg) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,923 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,952 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 189 | [Seventeen](https://open.spotify.com/track/3buy5Ooz6uNL48W1yBUzbM) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Seventeen](https://open.spotify.com/album/5k1HEpZwBjjghTzBOKgR3D) | 4:25 |
 | 190 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
 | 191 | [Shot Down](https://open.spotify.com/track/6ae38qMdEC86XRa2LaOguu) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [The Sonics Boom](https://open.spotify.com/album/3FeFoMQnGxb8D9FKkCC5ES) | 2:12 |
-| 192 | [Wishin' And Hopin' \- Stereo Version](https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Girl Called Dusty](https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl) | 2:53 |
+| 192 | [Wishin' And Hopin' \- Stereo Version](https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Girl Called Dusty \(Expanded Edtion\)](https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl) | 2:53 |
 | 193 | [Kiss](https://open.spotify.com/track/4bbxIOphEhKB0tWazv7K9K) | [Scout Niblett](https://open.spotify.com/artist/3gSfOAPCvsDDVDBeSLl9v6) | [This Fool Can Die Now](https://open.spotify.com/album/47SjArr0rwl7Pd87i8h8Vi) | 6:09 |
 | 194 | [Care](https://open.spotify.com/track/6QTjREGJzLGKVGr6wY1Wq4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:16 |
 | 195 | [On the Radio](https://open.spotify.com/track/6VUYwnd11VvLWdubhFioLz) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:20 |

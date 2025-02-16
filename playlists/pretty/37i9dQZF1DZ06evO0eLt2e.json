@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29909,
+  "num_followers": 29912,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAACRoM4qa+ZXF+PK9hvl13hk",
+  "snapshot_id": "Z66HgAAAAAAbXo4e1g9kzaxY3XF5WNsp",
   "tracks": [
     {
       "added_at": null,
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "The Taker",
-      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 180472,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "The Taker",
+      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silver Tongued Devil and I",
         "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
@@ -1063,18 +1079,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
       "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 211653,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+      "duration_ms": 212840,
+      "name": "Angels Love Bad Men",
+      "url": "https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR"
     },
     {
       "added_at": null,
@@ -1123,38 +1155,6 @@
       "duration_ms": 152680,
       "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Angels Love Bad Men",
-      "url": "https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR"
     },
     {
       "added_at": null,
@@ -1239,6 +1239,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "The Lonely Night - Reprise Version",
+      "url": "https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1287,26 +1311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Mark Lanegan",
-          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
-        },
-        {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 342857,
-      "name": "The Lonely Night - Reprise Version",
-      "url": "https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv"
+      "duration_ms": 190240,
+      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
+      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
     },
     {
       "added_at": null,
@@ -1347,26 +1367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
-      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 179066,
       "name": "The Best Of All Possible Worlds",
       "url": "https://open.spotify.com/track/1CM0IOUM1zYaX4ECXAPQZl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170093,
+      "name": "Once More With Feeling",
+      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
     },
     {
       "added_at": null,
@@ -1415,22 +1431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "Once More With Feeling",
-      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
@@ -1451,18 +1451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
       "artists": [
         {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Billy Dee",
-      "url": "https://open.spotify.com/track/3YM7FRaoS3GhWqO1z0lh9A"
+      "duration_ms": 264266,
+      "name": "From Here To The Moon and Back",
+      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

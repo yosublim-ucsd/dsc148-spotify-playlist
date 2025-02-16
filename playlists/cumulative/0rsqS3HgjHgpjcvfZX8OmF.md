@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover: Bleeker
 
-252 songs - 14 hr 59 min
+254 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 | 2025-02-02 |
 | [Red Light](https://open.spotify.com/track/7n4rC8cbUnTl19y2L31Y7U) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Red Light](https://open.spotify.com/album/5vNtKyUbvXRy6BbZbxe3FS) | 2:39 | 2024-03-01 | 2024-06-08 |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2023-11-03 | 2023-12-09 |
+| [Ritalin](https://open.spotify.com/track/3Sjl5oODGZ4uXLFJEuBDWD) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Ritalin](https://open.spotify.com/album/3tjvt15FnH0QyLAQXWk46f) | 3:34 | 2025-02-15 |  |
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-08 | 2024-04-27 |
 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 | 2023-11-03 | 2024-08-03 |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-03-22 | 2024-04-20 |
@@ -203,10 +204,10 @@
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-03-29 | 2024-04-20 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-19 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2023-11-03 | 2024-09-07 |
-| [Still A Gorilla](https://open.spotify.com/track/2SU1buLMSvYKGzQg6j0WQX) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Still A Gorilla](https://open.spotify.com/album/0SneoRZNbmaxm5vkwJbr2O) | 3:45 | 2025-01-19 |  |
+| [Still A Gorilla](https://open.spotify.com/track/2SU1buLMSvYKGzQg6j0WQX) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Still A Gorilla](https://open.spotify.com/album/0SneoRZNbmaxm5vkwJbr2O) | 3:45 | 2025-01-19 | 2025-02-16 |
 | [Street Names and Land Claims](https://open.spotify.com/track/1AWvuWQezhOVM5FXRlQ9LR) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [SHAME](https://open.spotify.com/album/7GtUuBWgxDr9WXoUD0aD2o) | 3:23 | 2024-11-01 | 2024-12-07 |
 | [Stretch the Struggle](https://open.spotify.com/track/1bfbtsK7aRNTrueUxRaJ7a) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Stretch the Struggle](https://open.spotify.com/album/1wt9TD7owCiIVrrMRXM3Tt) | 3:34 | 2025-01-19 |  |
-| [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-11-03 |  |
+| [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-11-03 | 2025-02-16 |
 | [Suckerpunch](https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Suckerpunch](https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03) | 3:01 | 2024-03-08 | 2024-04-20 |
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2024-03-23 |
 | [Summerlong](https://open.spotify.com/track/7IUte1tdLC9W6ptSIx9lQA) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Pages](https://open.spotify.com/album/5PVK4onrU7Kx4afooqOdtN) | 4:53 | 2023-11-24 | 2024-07-20 |
@@ -225,7 +226,8 @@
 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3qrTll9OQ9wcejTxPFY0qg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4aE8ZrEif8MgWvFNIbz8I6) | 3:12 | 2024-12-06 | 2025-01-11 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-11-03 | 2024-02-24 |
 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 | 2024-03-01 | 2024-06-08 |
-| [The Way](https://open.spotify.com/track/3m3UQHWWkFSwk29fzhhRO3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Valley Of Vision](https://open.spotify.com/album/7AILAzxTzEKmxQ0Kiw5sbV) | 3:54 | 2023-11-03 |  |
+| [The Way](https://open.spotify.com/track/3m3UQHWWkFSwk29fzhhRO3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Valley Of Vision](https://open.spotify.com/album/7AILAzxTzEKmxQ0Kiw5sbV) | 3:54 | 2023-11-03 | 2025-02-16 |
+| [this is the best night of my life!](https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [to you, after 2000 years](https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX) | 1:51 | 2025-02-15 |  |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/7uxOs9rdEN5raVfcoI1kTA) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/album/3U5WiKz6hbiUZt5zNjy4en) | 3:11 | 2024-09-03 | 2024-09-21 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-11-03 | 2024-04-06 |
 | [Thought You Were Waving](https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Thought You Were Waving](https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv) | 3:02 | 2024-07-19 | 2025-01-11 |

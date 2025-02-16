@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw?si=YezHxkrgR1SKTCQU\-SlGJw">ANVR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,192 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,204 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 16 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 17 | [think about it](https://open.spotify.com/track/1SasABz9MXN2klCgPefFRC) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq), [Stephen Tshuma](https://open.spotify.com/artist/7aRQk7Rk7NF2ARhBRUxri4) | [think about it](https://open.spotify.com/album/5v9edN5GEMhfvbb6ty5LA7) | 4:12 |
 | 18 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 19 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
+| 19 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 20 | [SOMEBODY](https://open.spotify.com/track/5he6ljlzMhvh5MFfulFy7D) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [SOMEBODY](https://open.spotify.com/album/4iKuvdY3iTdf7pdpYCvAuC) | 2:54 |
-| 21 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
+| 21 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
 | 22 | [Wonder](https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Eindbestemming](https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7) | 2:45 |
-| 23 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 23 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 24 | [2\-5](https://open.spotify.com/track/6rWeNuPTycsxDYOPMwgl6M) | [Kalden Berg](https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j) | [2\-5](https://open.spotify.com/album/5xSmzAvJ7RpCvqZ0FeZX31) | 3:04 |
 | 25 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 26 | [Teeth](https://open.spotify.com/track/1XBwV3BhiuAH9VYkCUuMLy) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [Teeth](https://open.spotify.com/album/24s4moFjVF8bscpV2Yw94X) | 3:57 |
 | 27 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 28 | [Achilles' Heel](https://open.spotify.com/track/3IjaZvAjnvk8yRtlgfLMf3) | [Half Price](https://open.spotify.com/artist/5hhxRKw2vy8rZkBltFtb1y) | [Achilles' Heel](https://open.spotify.com/album/0E4TbFg34GVI5cNh2URGoD) | 2:54 |
-| 29 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 29 | [Gelukkige Lewe](https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Gelukkige Lewe](https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE) | 2:48 |
 | 30 | [Portraits](https://open.spotify.com/track/7tbrAxXQWUsPVoFpxiJouI) | [Diverted Disorder](https://open.spotify.com/artist/2e0v1Lyfnj30EjATJ0ytil) | [Portraits](https://open.spotify.com/album/6GzNoRUMrHXaYJkmKZVKLG) | 3:09 |
 | 31 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
-| 32 | [Gelukkige Lewe](https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Gelukkige Lewe](https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE) | 2:48 |
+| 32 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 33 | [Actual Love Song](https://open.spotify.com/track/35TvgugWTcO8Ns6xEydtHD) | [Kryye](https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN) | [Kollektief](https://open.spotify.com/album/53AlslP0fAtrxRTERlpq9i) | 1:30 |
 | 34 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 35 | [Easy Come, Easy Go](https://open.spotify.com/track/3VAKY5TpevbMyBiblg172H) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7), [Black Heidi](https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt) | [Easy Come, Easy Go](https://open.spotify.com/album/0EmJMb6Mc05JsImSW52v1f) | 2:56 |

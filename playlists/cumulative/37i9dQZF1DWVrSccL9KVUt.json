@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Still Waters Deluxe",
+        "url": "https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Better Yet",
+      "url": "https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE"
+    },
+    {
+      "album": {
         "name": "breath by breath",
         "url": "https://open.spotify.com/album/4GzQee0h1aIEDEjqUe99Pt"
       },
@@ -778,6 +796,24 @@
       "duration_ms": 279053,
       "name": "Defender (Single Version)",
       "url": "https://open.spotify.com/track/1tXwCl86WZDkyTMPVrRwCP"
+    },
+    {
+      "album": {
+        "name": "Do it Afraid",
+        "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164605,
+      "name": "Do it Afraid",
+      "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
     },
     {
       "album": {
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 232797,
       "name": "Honest",
       "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
@@ -2722,6 +2758,24 @@
       "duration_ms": 177281,
       "name": "Psalm 51",
       "url": "https://open.spotify.com/track/7K4AXXM9P6PDbTRLxZu4jR"
+    },
+    {
+      "album": {
+        "name": "Pulchritude 2",
+        "url": "https://open.spotify.com/album/2EzKNRWhQ6SZktXCAllp6s"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198202,
+      "name": "Pulchritude 2",
+      "url": "https://open.spotify.com/track/0NhvLcRYkE47NsqWrMJS4K"
     },
     {
       "album": {

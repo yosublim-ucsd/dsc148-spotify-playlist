@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 67561,
+  "num_followers": 67652,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,34 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
+        "name": "Viagem Ao Centro Do Eu (Coragem)",
+        "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
+        },
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Viagem Ao Centro Do Eu (Coragem)",
+      "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
+    },
+    {
+      "added_at": "2025-02-14 05:00:35",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -863,34 +891,6 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "added_at": "2025-02-14 05:00:35",
-      "album": {
-        "name": "Viagem Ao Centro Do Eu (Coragem)",
-        "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        },
-        {
-          "name": "Dawn Patrol",
-          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
-        },
-        {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Viagem Ao Centro Do Eu (Coragem)",
-      "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
     },
     {
       "added_at": "2025-02-14 05:00:35",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
@@ -1320,17 +1320,17 @@
           "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
         },
         {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-02-14 05:00:35",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
-        "name": "La Trumpeta",
-        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 200042,
-      "name": "La Trumpeta",
-      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
-    },
-    {
-      "added_at": "2025-02-14 05:00:35",
-      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1543,38 +1527,18 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
-        "name": "Treme",
-        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         }
       ],
-      "duration_ms": 210326,
-      "name": "Treme",
-      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
-    },
-    {
-      "added_at": "2025-02-14 05:00:35",
-      "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "added_at": "2025-02-14 05:00:35",
@@ -1599,6 +1563,42 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+    },
+    {
+      "added_at": "2025-02-14 05:00:35",
+      "album": {
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+    },
+    {
+      "added_at": "2025-02-14 05:00:35",
+      "album": {
+        "name": "Treme",
+        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 210326,
+      "name": "Treme",
+      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
     },
     {
       "added_at": "2025-02-14 05:00:35",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
+    },
+    {
+      "added_at": "2025-02-14 05:00:35",
+      "album": {
         "name": "Cuando Fue (feat. Jay Wheeler)",
         "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 183310,
       "name": "Cuando Fue (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
-    },
-    {
-      "added_at": "2025-02-14 05:00:35",
-      "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        },
-        {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     },
     {
       "added_at": "2025-02-14 05:00:35",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2025-02-14 05:00:35",
       "album": {
-        "name": "Bullerengue",
-        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Bullerengue",
-      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
-    },
-    {
-      "added_at": "2025-02-14 05:00:35",
-      "album": {
         "name": "Bidi Bam",
         "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 175357,
       "name": "Tu Sabor",
       "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2025-02-14 05:00:35",
+      "album": {
+        "name": "Bullerengue",
+        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Bullerengue",
+      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2025-02-14 05:00:35",

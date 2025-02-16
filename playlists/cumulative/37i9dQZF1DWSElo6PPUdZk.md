@@ -2,7 +2,7 @@
 
 ### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Pari Pandher
+> Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
 185 songs - 9 hr 31 min
 

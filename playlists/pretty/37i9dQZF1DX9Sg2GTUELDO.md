@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: AGA 江海迦
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 446 songs - 1 day 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,642 likes - 446 songs - 1 day 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd18 Foto: MC Taya",
-  "num_followers": 111294,
+  "num_followers": 111282,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 203640,
       "name": "Ok, But This Is The Last Time",
       "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
     },
     {
       "added_at": "2025-02-14 03:01:17",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 151027,
       "name": "Explode!",
       "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
-        "name": "Everything I Do Is For You",
-        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156349,
-      "name": "Everything I Do Is For You",
-      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2025-02-14 03:01:17",
@@ -275,18 +275,18 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
-        "name": "Lonely is the Muse",
-        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 241579,
-      "name": "Lonely is the Muse",
-      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2025-02-14 03:01:17",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/7gVP9m7T0I63aGAoDCEhws"
+      },
+      "artists": [
+        {
+          "name": "Banda AL9",
+          "url": "https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX"
+        }
+      ],
+      "duration_ms": 205225,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3nnQSZbOE6VWBy5EpQp3ZH"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/7gVP9m7T0I63aGAoDCEhws"
-      },
-      "artists": [
-        {
-          "name": "Banda AL9",
-          "url": "https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/3nnQSZbOE6VWBy5EpQp3ZH"
     },
     {
       "added_at": "2025-02-14 03:01:17",

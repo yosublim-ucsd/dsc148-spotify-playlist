@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: AR Paisley
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,616 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,635 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 10 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |
 | 11 | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
 | 12 | [CRESCENT MOON](https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CRESCENT MOON](https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB) | 3:43 |
-| 13 | [MNU](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [MNU](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
+| 13 | [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
 | 14 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 15 | [Nina Sky](https://open.spotify.com/track/4lsayzFvLkV8JNZuSXGBHn) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [Lord Sko](https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h) | [I Did More with Less \(V1\)](https://open.spotify.com/album/1KaGHXmdSfbjkhZB00La6E) | 3:02 |
 | 16 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |

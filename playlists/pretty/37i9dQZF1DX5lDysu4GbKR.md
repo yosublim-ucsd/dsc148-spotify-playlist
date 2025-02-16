@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,046 likes - 118 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,078 likes - 118 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 102 | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/track/325oE43qXw4fAredssR2y9) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/album/2kQBeFVxFXSA5eKhoUYFyP) | 3:30 |
 | 103 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 |
 | 104 | [Is This Love](https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/5F9dIlw7nEOIVpXk0sBnVg) | 4:04 |
-| 105 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 |
+| 105 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [HMLSS](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 |
 | 106 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 107 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 |
 | 108 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 |

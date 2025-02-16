@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Jan Blomqvist
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,730 likes - 174 songs - 9 hr 0 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,721 likes - 174 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 17 | [We Don't Sleep](https://open.spotify.com/track/5hMtQSwKqk8Cv3PBMFuvbP) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [We Don't Sleep](https://open.spotify.com/album/5mUGpwyB9upIt1rZOBClMW) | 2:06 |
 | 18 | [All Night](https://open.spotify.com/track/0zlr4Q8qZZWfM8ezyrDAWe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [All Night](https://open.spotify.com/album/642I33KMPYEosGoSDAtHD8) | 3:03 |
 | 19 | [Reach For You](https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Reach For You](https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF) | 2:49 |
-| 20 | [You Got Me Baby](https://open.spotify.com/track/3aeIv5vTPKCi2yfqUQZUEY) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm), [Lushington](https://open.spotify.com/artist/2cpt9jk6cMovY7Nkgy1qTu) | [You Got Me Baby](https://open.spotify.com/album/0eLwqHvckTf3l9R9ZCvy0X) | 3:21 |
+| 20 | [You Got Me Baby](https://open.spotify.com/track/3aeIv5vTPKCi2yfqUQZUEY) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm), [Lushington](https://open.spotify.com/artist/2cpt9jk6cMovY7Nkgy1qTu) | [You Got Me Baby](https://open.spotify.com/album/0eLwqHvckTf3l9R9ZCvy0X) | 3:19 |
 | 21 | [The Whip](https://open.spotify.com/track/1EKN8jL55XwEWqM45yJJuR) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [SUPERSTRINGS](https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz) | [The Whip](https://open.spotify.com/album/2LJ5CXPWn1NtFJO31l9hHA) | 2:43 |
 | 22 | [DFCW](https://open.spotify.com/track/1T8dzkxfuABDgXS0pG1fDf) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [DFCW](https://open.spotify.com/album/3h7Cs4gtHtdgRqi2ukWskK) | 4:00 |
 | 23 | [Telia](https://open.spotify.com/track/35FQqed9hIZ3q9XiEkdUdl) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Telia](https://open.spotify.com/album/3BYr45sLyEhIgX5pzU4VYB) | 3:52 |

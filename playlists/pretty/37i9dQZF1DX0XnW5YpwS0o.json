@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 106058,
+  "num_followers": 106093,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "7",
-      "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "7",
+      "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Citizen of Glass",
-        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 235988,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Citizen of Glass",
+        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 235988,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -639,38 +639,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Season 2 Episode 3",
-      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -691,6 +659,38 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 243509,
+      "name": "Season 2 Episode 3",
+      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
+        "name": "Harmless Melodies",
+        "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Half The World Away",
-      "url": "https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8"
+      "duration_ms": 318147,
+      "name": "A Little While",
+      "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Harmless Melodies",
-        "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
+        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 318147,
-      "name": "A Little While",
-      "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
+      "duration_ms": 198133,
+      "name": "Half The World Away",
+      "url": "https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Conqueror",
-      "url": "https://open.spotify.com/track/3qBn2YAFbX16coGmScr7Y5"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The Altar",
         "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 186333,
       "name": "Gemini Feed",
       "url": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Conqueror",
+      "url": "https://open.spotify.com/track/3qBn2YAFbX16coGmScr7Y5"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 233076,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/5oK98mpTJSU0iqLHN1hZ3y"
     }
   ],
   "unique_name": "Best of Indie 2016",

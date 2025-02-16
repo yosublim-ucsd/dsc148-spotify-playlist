@@ -4,11 +4,11 @@
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-444 songs - 22 hr 10 min
+446 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 | 2024-10-10 |  |
+| [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 | 2024-10-10 | 2025-02-16 |
 | [20 Something](https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [20 Something](https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY) | 2:53 | 2025-02-07 |  |
 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2025-02-07 |  |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-19 | 2025-01-27 |
@@ -123,6 +123,7 @@
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 | 2024-06-01 |
 | [DESPERATE BREAKFAST](https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DESPERATE BREAKFAST](https://open.spotify.com/album/7aavLSvHUOAqXYr0jPSm7t) | 3:11 | 2023-09-22 | 2024-02-16 |
 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 | 2025-02-07 |  |
+| [Dim](https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Dim](https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC) | 1:07 | 2025-02-07 |  |
 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 | 2024-10-10 |  |
 | [Disturb The Peace](https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 1:45 | 2024-05-31 | 2024-10-11 |
 | [Don't Date The Devil](https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Don't Date The Devil](https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi) | 2:50 | 2023-06-20 | 2023-12-16 |
@@ -255,7 +256,7 @@
 | [Love](https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Love](https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3) | 3:40 | 2025-02-07 |  |
 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 | 2024-07-19 |  |
 | [Love And Pain](https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore Special Edition](https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf) | 4:13 | 2024-04-25 | 2024-10-11 |
-| [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 | 2024-11-15 |  |
+| [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 | 2024-11-15 | 2025-02-16 |
 | [Low](https://open.spotify.com/track/3foGam4O1YsGX4vppR572g) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [A Different Life](https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg) | 4:07 | 2024-04-25 | 2024-06-28 |
 | [Madge's Declaration](https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/22UTxZIaIJzdf1QfMl5AQO) | 3:10 | 2023-02-06 | 2023-11-18 |
 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 | 2023-11-13 | 2024-04-19 |
@@ -383,6 +384,7 @@
 | [SWALLOW](https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Liily](https://open.spotify.com/album/4WO7oxivDXL5d7JE7hO0t4) | 3:55 | 2024-06-14 | 2024-06-29 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-12-02 | 2023-11-18 |
 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 | 2024-01-19 |  |
+| [Swing Life Away](https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Swing Life Away](https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY) | 3:47 | 2025-02-07 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-12-02 | 2023-11-18 |
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-02-07 |  |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-12-02 | 2023-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: RESCENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,691 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,690 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Coming Of Age Story](https://open.spotify.com/track/71Q946KeXZ9NRbq0FlyNhY) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/6V2oR8AiaAdSk4kYjvDQk6) | 4:35 |
 | 50 | [Bloom](https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Bloom](https://open.spotify.com/album/7n9NPWpOsSKrGO1yJrssEB) | 3:09 |
 
-Snapshot ID: `Z6mhnQAAAABU+BjW6chx0UvTY3lWRN+7`
+Snapshot ID: `Z6mhnQAAAAClOR9JKWTroyKWoYHCduNv`

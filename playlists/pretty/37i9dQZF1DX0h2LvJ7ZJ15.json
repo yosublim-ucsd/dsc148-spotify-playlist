@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1482910,
+  "num_followers": 1483295,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -891,18 +891,26 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "watching the stars (Remixes)",
-        "url": "https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy"
+        "name": "Frozen (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
       "artists": [
         {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 117991,
-      "name": "watching the stars (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J"
+      "duration_ms": 139636,
+      "name": "Frozen (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
     }
   ],
   "unique_name": "slowed and reverbed",

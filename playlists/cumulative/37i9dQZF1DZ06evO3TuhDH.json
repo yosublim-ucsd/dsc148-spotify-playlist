@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/02xoXDa2h6hd2kZdLdQSTF"
+    },
+    {
+      "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6"
       },
@@ -1212,6 +1230,24 @@
       "duration_ms": 173493,
       "name": "Lemon Cars",
       "url": "https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8"
+    },
+    {
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
     },
     {
       "album": {
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 190560,
       "name": "Overthinking (with H.E.R.)",
       "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
@@ -2118,6 +2154,24 @@
       "duration_ms": 160586,
       "name": "TWINNEM (Remix) (feat. DaBaby)",
       "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
+    },
+    {
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "U Too",
+      "url": "https://open.spotify.com/track/1AZFUfmOa0qGR0W3uGEDCa"
     },
     {
       "album": {

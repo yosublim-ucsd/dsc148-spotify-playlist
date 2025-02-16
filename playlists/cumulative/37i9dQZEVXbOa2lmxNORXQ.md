@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,236 songs - 2 day 20 hr 43 min
+1,237 songs - 2 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [CHIMBITA](https://open.spotify.com/track/5xwjEzvJ2OSdnHlzusKNYA) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [CHIMBITA](https://open.spotify.com/album/4EzWlTDdNOPHfMZZmqHOxr) | 2:36 | 2021-03-27\* | 2021-08-22 |
 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2024-06-08 | 2024-09-01 |
 | [Chismofilia](https://open.spotify.com/track/0BoLTC9I3PYefcWd7FOhUh) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:58 | 2024-08-31 | 2025-01-05 |
-| [Chococono](https://open.spotify.com/track/1QOdcBUzfhDM1twaQRNIko) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Chococono](https://open.spotify.com/album/6fpadizVW8Z9b6i1xBMChB) | 3:36 | 2025-02-14 |  |
+| [Chococono](https://open.spotify.com/track/1QOdcBUzfhDM1twaQRNIko) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Chococono](https://open.spotify.com/album/6fpadizVW8Z9b6i1xBMChB) | 3:36 | 2025-02-14 | 2025-02-16 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-03 | 2024-11-12 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-08-01 | 2023-10-08 |
 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 | 2022-01-02 | 2022-01-04 |
@@ -1136,6 +1136,7 @@
 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 | 2024-11-16 | 2024-11-18 |
 | [UFFF](https://open.spotify.com/track/1QX030xITUJlE8yPKRnQHP) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [UFFF](https://open.spotify.com/album/5IhURdDR2wkWyGP5IKxCOK) | 4:14 | 2023-04-08 | 2023-04-16 |
 | [Ultra Complicado](https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado](https://open.spotify.com/album/1ioUP0MO23iAvJGlY3qLhw) | 2:56 | 2025-01-05 |  |
+| [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 | 2025-02-15 |  |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-31 | 2022-06-05 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-18 | 2023-02-26 |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-13 | 2023-05-23 |

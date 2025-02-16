@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Lambrini Girls",
-  "num_followers": 469622,
+  "num_followers": 469633,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 205632,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 205632,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -759,38 +759,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "Feel It All",
         "url": "https://open.spotify.com/album/0YGPrCcQsv5ZIH7PTVInM9"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 178956,
       "name": "Walk The Walk",
       "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
+        "name": "Drunk Talk",
+        "url": "https://open.spotify.com/album/1CAV9augIvtY9KBw3rmbVX"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "duration_ms": 151394,
+      "name": "Drunk Talk",
+      "url": "https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 227258,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "Drunk Talk",
-        "url": "https://open.spotify.com/album/1CAV9augIvtY9KBw3rmbVX"
-      },
-      "artists": [
-        {
-          "name": "DoFlame",
-          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
-        }
-      ],
-      "duration_ms": 151394,
-      "name": "Drunk Talk",
-      "url": "https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "ONLY ONE MODE",
-        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 172949,
-      "name": "NO LOVE BUT FOR OUR OWN",
-      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 172949,
+      "name": "NO LOVE BUT FOR OUR OWN",
+      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
         "name": "A Bug's Life",
         "url": "https://open.spotify.com/album/0jqqHVEplsC0D6CWXl5kmu"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 175571,
       "name": "A Bug's Life",
       "url": "https://open.spotify.com/track/5FPMykTqwaHIrFqQ05L2Jw"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "ONE NATION",
-        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "ONE NATION",
-      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+        "name": "ONE NATION",
+        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+      "duration_ms": 183000,
+      "name": "ONE NATION",
+      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1195,18 +1179,58 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Big Dick Energy",
-        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Big Dick Energy",
-      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Return To Sender",
+        "url": "https://open.spotify.com/album/4Nxd91jeNukvBxNAIzFFrB"
+      },
+      "artists": [
+        {
+          "name": "Free Friends",
+          "url": "https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ"
+        },
+        {
+          "name": "The Great Heights Band",
+          "url": "https://open.spotify.com/artist/4b4JHDZTZRl069AsKeuHqU"
+        },
+        {
+          "name": "Ben DeHan",
+          "url": "https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Return To Sender",
+      "url": "https://open.spotify.com/track/6aBs71SfLXICPjgmgHhHVF"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "5168 Days",
+        "url": "https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 195553,
+      "name": "5168 Days",
+      "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1227,18 +1251,18 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "5168 Days",
-        "url": "https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg"
+        "name": "Big Dick Energy",
+        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 195553,
-      "name": "5168 Days",
-      "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
+      "duration_ms": 256799,
+      "name": "Big Dick Energy",
+      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1275,66 +1299,34 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Return To Sender",
-        "url": "https://open.spotify.com/album/4Nxd91jeNukvBxNAIzFFrB"
+        "name": "Dim",
+        "url": "https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC"
       },
       "artists": [
         {
-          "name": "Free Friends",
-          "url": "https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ"
-        },
-        {
-          "name": "The Great Heights Band",
-          "url": "https://open.spotify.com/artist/4b4JHDZTZRl069AsKeuHqU"
-        },
-        {
-          "name": "Ben DeHan",
-          "url": "https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09"
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
         }
       ],
-      "duration_ms": 171319,
-      "name": "Return To Sender",
-      "url": "https://open.spotify.com/track/6aBs71SfLXICPjgmgHhHVF"
+      "duration_ms": 67700,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc"
     },
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "1800-PAINLESS",
-        "url": "https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o"
+        "name": "Swing Life Away",
+        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
       },
       "artists": [
         {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        },
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
         }
       ],
-      "duration_ms": 203076,
-      "name": "1800-PAINLESS",
-      "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "love bombs",
-        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
-      },
-      "artists": [
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
-        },
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "love bombs",
-      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
+      "duration_ms": 227987,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     }
   ],
   "unique_name": "Today's Punk",

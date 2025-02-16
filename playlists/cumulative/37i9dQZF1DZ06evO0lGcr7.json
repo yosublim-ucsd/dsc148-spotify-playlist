@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "I Fall In Love Too Easily",
+        "url": "https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
+    },
+    {
+      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
       },

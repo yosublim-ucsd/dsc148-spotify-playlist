@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR & Drake, Sabrina Carpenter, Daniel Caesar & Rex Orange County,  Addison Rae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,429 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,571 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 34 | [BAD GUY](https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BAD GUY](https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM) | 3:36 |
 | 35 | [Novio \#2 \(feat\. Junior H\)](https://open.spotify.com/track/5VbJcHkLvL9VnSgOYD5ppk) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Paid N Full](https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4) | 3:24 |
 | 36 | [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 |
-| 37 | [MNU](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [MNU](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
+| 37 | [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
 | 38 | [She Hates Me](https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [She Hates Me](https://open.spotify.com/album/08SPNNSczUGCea325dQcEY) | 2:50 |
 | 39 | [CRESCENT MOON](https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CRESCENT MOON](https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB) | 3:43 |
 | 40 | [Not In Surrender](https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Not In Surrender](https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO) | 3:19 |

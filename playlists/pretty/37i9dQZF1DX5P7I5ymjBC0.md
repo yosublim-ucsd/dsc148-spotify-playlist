@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,128 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,160 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 42 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 43 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 44 | [Ronay Na Diya](https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:39 |
-| 45 | [Mora Saiyaan](https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 6:52 |
-| 46 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
+| 45 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
+| 46 | [Mora Saiyaan](https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 6:52 |
 | 47 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
 | 48 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
 | 49 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |

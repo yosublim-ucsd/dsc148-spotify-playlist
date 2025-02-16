@@ -4,7 +4,7 @@
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: DOE
 
-210 songs - 15 hr 51 min
+213 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Be My Heart](https://open.spotify.com/track/4IMtVDoGeSkYclIoL3jGTX) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:58 | 2022-03-09 | 2024-04-19 |
 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 | 2022-03-09 | 2024-07-27 |
 | [Believe For It \- Live](https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Live\)](https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0) | 8:22 | 2021-03-02 | 2022-03-10 |
+| [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters Deluxe](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 | 2025-02-15 |  |
 | [breath by breath](https://open.spotify.com/track/19msKNwB1SjJ4uGAwkDYxT) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [breath by breath](https://open.spotify.com/album/4GzQee0h1aIEDEjqUe99Pt) | 4:04 | 2024-10-11 |  |
 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 | 2021-03-02 | 2024-07-27 |
 | [Call on Your Name](https://open.spotify.com/track/6VqwQYT5jkmNqsdc1xRhVM) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Lost in Wonder](https://open.spotify.com/album/01cG5DcoCEVJKB2y7DkP6i) | 5:09 | 2021-03-02 | 2024-07-27 |
@@ -48,6 +49,7 @@
 | [debris](https://open.spotify.com/track/3ZHnJKT76nKyVDGwr1ahoW) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2) | [debris](https://open.spotify.com/album/6OwAhwMHzbRP70wdO3LEbZ) | 4:19 | 2024-07-26 |  |
 | [Defender](https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 7:04 | 2021-03-02 | 2024-07-27 |
 | [Defender \(Single Version\)](https://open.spotify.com/track/1tXwCl86WZDkyTMPVrRwCP) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Defender \(Single Version\)](https://open.spotify.com/album/1p6Eq4ist8ZcEhQdhwYkoi) | 4:39 | 2021-03-02 | 2022-03-10 |
+| [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 | 2025-02-15 |  |
 | [Don't touch my Fro](https://open.spotify.com/track/5NJ96lj3VoSlaFmOh3rDCv) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [21's Fro](https://open.spotify.com/album/4d2wlvYmz5aQAmOmajJmIE) | 3:12 | 2024-10-11 |  |
 | [Driven by Love \- Live](https://open.spotify.com/track/181meJmk2QVQJnPsagVreh) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Live\)](https://open.spotify.com/album/4hJ17XEc1Ra7tEcP5aBJrl) | 5:05 | 2021-03-02 | 2024-07-27 |
 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 | 2022-03-09 | 2024-07-27 |
@@ -82,7 +84,7 @@
 | [Holy Hands](https://open.spotify.com/track/3MnYUOvImXxU0h2bKGtVCN) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 3:24 | 2025-02-07 |  |
 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 | 2021-03-02 | 2024-07-27 |
 | [Honest](https://open.spotify.com/track/14tG1j1nDdzXFWm3w5fc0C) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 4:33 | 2021-03-02 | 2024-07-27 |
-| [Honest](https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters](https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p) | 3:52 | 2024-07-26 |  |
+| [Honest](https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters](https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p) | 3:52 | 2024-07-26 | 2025-02-16 |
 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 | 2021-03-02 | 2022-03-10 |
 | [Hymn of Praise/Shouts of Joy](https://open.spotify.com/track/3ULy8PrY6sftovXg7XwDRx) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Hymn of Praise/Shouts of Joy](https://open.spotify.com/album/1X3vTShKFZUfvXT1W4BLIG) | 5:25 | 2024-07-26 |  |
 | [I Adore](https://open.spotify.com/track/5bfhtgECqfqOn3XYxbk24Q) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Adore](https://open.spotify.com/album/7naInr9VfJQOnaXdo8d5Jp) | 4:46 | 2024-07-26 | 2024-12-10 |
@@ -152,6 +154,7 @@
 | [Preference \- Live](https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Preference \(Live\)](https://open.spotify.com/album/0i9tmWUNDNKQpazOlTy8Tw) | 7:47 | 2024-07-26 |  |
 | [Protector \- Live](https://open.spotify.com/track/0UXlUtPMTPZGDykvM351n9) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 6:48 | 2021-03-02 | 2022-03-10 |
 | [Psalm 51](https://open.spotify.com/track/7K4AXXM9P6PDbTRLxZu4jR) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Eternity](https://open.spotify.com/album/3IDE2YuO2SvYj5ZgsvAEH8) | 2:57 | 2024-10-11 |  |
+| [Pulchritude 2](https://open.spotify.com/track/0NhvLcRYkE47NsqWrMJS4K) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [Pulchritude 2](https://open.spotify.com/album/2EzKNRWhQ6SZktXCAllp6s) | 3:18 | 2025-02-15 |  |
 | [Reconcile](https://open.spotify.com/track/3biY5EDhRUiS2uwtgJBmGC) | [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Reconcile](https://open.spotify.com/album/2NNll0RnOsuenozVas8dOs) | 4:21 | 2022-03-09 | 2024-07-27 |
 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 | 2021-03-02 | 2024-07-27 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2021-03-02 | 2022-03-10 |

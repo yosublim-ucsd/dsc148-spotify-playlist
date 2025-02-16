@@ -1,6 +1,6 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 397824,
+  "num_followers": 397845,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
     },
     {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Gelis",
+        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
+      },
+      "artists": [
+        {
+          "name": "Flako",
+          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Gelis",
+      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Clube Da Esquina",
@@ -643,22 +659,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Gelis",
-        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
-      },
-      "artists": [
-        {
-          "name": "Flako",
-          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Gelis",
-      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
       "added_at": "2021-10-06 04:52:47",

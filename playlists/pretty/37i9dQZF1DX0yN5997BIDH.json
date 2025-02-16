@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 564492,
+  "num_followers": 564464,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+        "name": "Brother Sun/Sister Moon",
+        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
       },
       "artists": [
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "LYS",
+          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
         }
       ],
-      "duration_ms": 239053,
-      "name": "Burning Bridges - Acoustic Version",
-      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
+      "duration_ms": 216400,
+      "name": "Brother Sun/Sister Moon",
+      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Brother Sun/Sister Moon",
-        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
       },
       "artists": [
         {
-          "name": "LYS",
-          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Brother Sun/Sister Moon",
-      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
+      "duration_ms": 239053,
+      "name": "Burning Bridges - Acoustic Version",
+      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Prisoner (feat. Dua Lipa)",
         "url": "https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2024-07-11 01:17:45",

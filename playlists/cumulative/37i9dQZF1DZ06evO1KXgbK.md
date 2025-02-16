@@ -4,7 +4,7 @@
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 9 min
+77 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [My Tennessee Mountain Home](https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Tennessee Mountain Home](https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp) | 3:07 | 2024-03-09 |  |
 | [Night Moves](https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:39 | 2025-01-30 |  |
 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 | 2024-03-09 |  |
+| [Please Please Please \(feat\. Dolly Parton\)](https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:04 | 2025-02-16 |  |
 | [Powerful Women](https://open.spotify.com/track/043trFU53vB0CBmFszufZd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Powerful Women](https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL) | 2:45 | 2024-03-09 |  |
 | [Puppy Love](https://open.spotify.com/track/3IWF9k6ezeVFwG08nbB0gI) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Puppy Love / Girl Left Alone](https://open.spotify.com/album/7uTTF8NGOHQOgpqrJGESHH) | 1:42 | 2024-06-09 | 2024-07-06 |
 | [Puppy Love \- Billy Version](https://open.spotify.com/track/2VZb8hjLVhvLkY0sbV5MGA) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Puppy Love \(Billy Version\)](https://open.spotify.com/album/6bXLqs4fu6rgfEqkDwiTTP) | 1:05 | 2024-03-09 | 2024-03-24 |
@@ -60,7 +61,7 @@
 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 | 2024-03-09 |  |
 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 | 2024-03-09 |  |
 | [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-08-31 | 2024-09-24 |
-| [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-13 |  |
+| [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-13 | 2025-02-16 |
 | [Southern Accents](https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Southern Accents](https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob) | 4:27 | 2024-04-07 | 2024-07-09 |
 | [Take Me Home Country Roads](https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Destinations and Fun Places](https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl) | 4:16 | 2024-08-12 | 2024-11-20 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Life Is Like A Song \(Deluxe Edition\)](https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu) | 3:13 | 2024-03-09 | 2024-08-23 |

@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 181098,
       "name": "invierno",
       "url": "https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi"
@@ -896,6 +896,24 @@
       "duration_ms": 176236,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
+    },
+    {
+      "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "album": {
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"

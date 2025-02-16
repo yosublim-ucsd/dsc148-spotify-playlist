@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Hellcat Speedracer",
-  "num_followers": 131423,
+  "num_followers": 131425,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -1056,12 +1056,12 @@
       },
       "artists": [
         {
-          "name": "Brandn Shiraz",
-          "url": "https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP"
-        },
-        {
           "name": "Caru",
           "url": "https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv"
+        },
+        {
+          "name": "Brandn Shiraz",
+          "url": "https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP"
         }
       ],
       "duration_ms": 226342,

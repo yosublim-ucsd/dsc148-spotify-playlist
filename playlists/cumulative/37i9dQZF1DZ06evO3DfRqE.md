@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 39 min
+88 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [One Special Lady](https://open.spotify.com/track/3g87rIAc78QeFL1QO3FdGd) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Sun Is Shining Down](https://open.spotify.com/album/2YQha3vKRyUDQpmB597B93) | 4:17 | 2024-07-31 | 2024-08-11 |
 | [Pianoforte](https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 2:51 | 2024-01-29 |  |
 | [Rachel's Lullaby](https://open.spotify.com/track/2eyiuXqsdRspRei17QfQ3i) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Accomplice One](https://open.spotify.com/album/1zi8AyClggYnKVzCgVveAh) | 3:13 | 2024-10-14 | 2024-10-15 |
+| [Rain](https://open.spotify.com/track/7IHqxgfRBmjWe0XErLOEsS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:34 | 2025-02-16 |  |
 | [Rockin' In The Free World](https://open.spotify.com/track/1aikBqRTEOiBxBZPG4IIaa) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4Irc6LTFXbMTg9orx3rbRd) | 5:46 | 2024-10-20 | 2024-11-18 |
 | [Rollin' N Tumblin'](https://open.spotify.com/track/4wIGQTAORbmEcAkbP5PFmk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:59 | 2024-12-04 | 2025-01-02 |
 | [Rollin' N Tumblin'](https://open.spotify.com/track/5PeO4GVNykhNsxk3TozEDn) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Rollin' N Tumblin'](https://open.spotify.com/album/4hemZ4G0rSN9cOfqcSgTOO) | 4:59 | 2024-07-21 | 2024-08-18 |
@@ -70,7 +71,7 @@
 | [Whiter Shade Of Pale](https://open.spotify.com/track/6lWAHVsfTiO6WFGv4qy6Ba) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 5:13 | 2024-11-11 | 2024-12-23 |
 | [Why Not](https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:42 | 2024-01-29 |  |
-| [Wish You Were Here](https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 4:59 | 2024-12-16 |  |
+| [Wish You Were Here](https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 4:59 | 2024-12-16 | 2025-02-16 |
 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 | 2024-01-29 | 2024-11-01 |
 | [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 | 2024-01-29 |  |
 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 | 2024-06-18 | 2025-01-27 |

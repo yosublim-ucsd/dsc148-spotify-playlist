@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,171 likes - 155 songs - 8 hr 23 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,174 likes - 155 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 129 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
 | 130 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
 | 131 | [Hustler](https://open.spotify.com/track/1ATz1HGfw5CWKGdojRS6gb) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Malaa \(Alter Ego\)](https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9) | [Blackout](https://open.spotify.com/album/2G6jG0JZBE7IXvf5P4OWIk) | 2:40 |
-| 132 | [Hey Homie \(Troyboi Remix\)](https://open.spotify.com/track/6p4hG0n7UCqfSBoO4n3hQI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Hey Homie: The Remixes](https://open.spotify.com/album/7KGyPrNQviJXxY2wjQjLTC) | 3:29 |
+| 132 | [Hey Homie \(TroyBoi Remix\)](https://open.spotify.com/track/6p4hG0n7UCqfSBoO4n3hQI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Hey Homie: The Remixes](https://open.spotify.com/album/7KGyPrNQviJXxY2wjQjLTC) | 3:29 |
 | 133 | [Polarised](https://open.spotify.com/track/3MKWCuPRKubEOplEPgGyQL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Polarised](https://open.spotify.com/album/49iHwFQju9SdF39hRDaJoL) | 3:29 |
 | 134 | [BITTER! \(for the lack of a better word\)](https://open.spotify.com/track/5mhfTdq8DGNefTsR0R7pbp) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [BITTER! \(for the lack of a better word\)](https://open.spotify.com/album/7ahbPm3kB21xLz8ex6btz2) | 3:01 |
 | 135 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |

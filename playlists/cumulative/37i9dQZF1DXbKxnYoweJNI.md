@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: HUSH
 
-1,631 songs - 3 day 22 hr 55 min
+1,631 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,7 @@
 | [媽媽的蔭瓜肉](https://open.spotify.com/track/4cqMGYkLrRow3kSxrnjuEa) | [張棋惠](https://open.spotify.com/artist/0xXkBgF0Di5XDZhrsH3fU8) | [媽媽的蔭瓜肉](https://open.spotify.com/album/6aX9D8qcEWspLykkGka668) | 3:15 | 2024-07-25 | 2024-08-16 |
 | [嫁妝 ga zongˊ](https://open.spotify.com/track/7MsRvGGFz9UQoOfFv0upY2) | [徐世慧](https://open.spotify.com/artist/2MD2gn0lxPLs1Qk86jejDy) | [便當](https://open.spotify.com/album/0AAEMhTlws1MIFtrQBn1ek) | 3:30 | 2025-01-02 | 2025-01-17 |
 | [嫁衣 Bride's Worth](https://open.spotify.com/track/7hvO23WDAodmSK7m5Ootbc) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [嫁衣 Bride's Worth](https://open.spotify.com/album/198s6PgEBTyUdzgma7ON8g) | 3:41 | 2024-09-26 | 2024-11-01 |
-| [孤寂淹沒](https://open.spotify.com/track/2JnPmfQwAHx7S8KJeDzuHJ) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [3小湯](https://open.spotify.com/artist/1S5ZFhorzcVt7K6sOfBv9J) | [孤寂淹沒](https://open.spotify.com/album/6KlKhP6amNmYojIPjBAsmW) | 3:26 | 2025-02-13 |  |
+| [孤寂淹沒](https://open.spotify.com/track/2JnPmfQwAHx7S8KJeDzuHJ) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [3小湯](https://open.spotify.com/artist/1S5ZFhorzcVt7K6sOfBv9J) | [孤寂淹沒](https://open.spotify.com/album/6KlKhP6amNmYojIPjBAsmW) | 4:29 | 2025-02-13 |  |
 | [孤獨不是罪](https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [完人](https://open.spotify.com/album/06zmRfsw42iuK56yvWFQ7z) | 3:45 | 2024-12-05 | 2025-01-10 |
 | [孩子，鮮花與家](https://open.spotify.com/track/37oiriHCsaK8YzYtwtaE7v) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [孩子，鮮花與家](https://open.spotify.com/album/4gZhbFxlSONgMU5jbSUlRG) | 4:07 | 2024-08-29 | 2024-09-20 |
 | [它們和他們](https://open.spotify.com/track/6DbWcDw8k33u0syGRT2573) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [它們和他們](https://open.spotify.com/album/0oNgirDrLxSEpC5AxI6M2J) | 2:42 | 2024-09-05 | 2024-11-22 |

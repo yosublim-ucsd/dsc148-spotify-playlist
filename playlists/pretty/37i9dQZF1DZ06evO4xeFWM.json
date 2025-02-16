@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216533,
+  "num_followers": 216543,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADAT2aYel3JGZET5cqeZ9Om",
+  "snapshot_id": "Z66HgAAAAABeqvHklMppjnX0beaGofP3",
   "tracks": [
     {
       "added_at": null,
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Essie & Paul",
-      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 137476,
-      "name": "Thelma + Louise",
-      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+      "duration_ms": 221600,
+      "name": "Red Wine & Wilde",
+      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 137476,
+      "name": "Thelma + Louise",
+      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Red Wine & Wilde",
-      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
+      "duration_ms": 217866,
+      "name": "Essie & Paul",
+      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liar Liar (Feat. Bastille)",
         "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 174632,
       "name": "Liar Liar (Feat. Bastille)",
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distorted Light Beam",
-        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 177221,
-      "name": "Distorted Light Beam",
-      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT YOU GONNA DO???",
         "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 131302,
       "name": "WHAT YOU GONNA DO???",
       "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distorted Light Beam",
+        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 177221,
+      "name": "Distorted Light Beam",
+      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     },
     {
       "added_at": null,

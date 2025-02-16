@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-144 songs - 9 hr 48 min
+145 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 | 2023-03-03 | 2024-04-19 |
+| [Aquí Hay Para Llevar](https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Aquí Hay Para Llevar](https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX) | 3:10 | 2025-02-13 |  |
 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 | 2023-03-03 |  |
 | [Ay Mi Amor](https://open.spotify.com/track/0wtDWP4eK9RJVtXkxa7PJr) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 3:15 | 2023-03-03 |  |
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 | 2023-10-05 |  |
 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 | 2023-03-03 |  |
 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 | 2023-03-03 |  |
-| [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 | 2024-12-06 |  |
+| [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 | 2024-12-06 | 2025-02-16 |
 | [Si Te Falta Alguien](https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 3:20 | 2023-03-03 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:18 | 2023-03-03 |  |
 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 | 2023-03-03 |  |

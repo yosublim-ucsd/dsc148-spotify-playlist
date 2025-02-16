@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: lewloh
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,973 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,989 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 5 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
 | 6 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 |
 | 7 | [Titik Mula](https://open.spotify.com/track/4rVHMNjY3Cf6fwd9NYWfIC) | [Mary Grace](https://open.spotify.com/artist/5DJNxfiIgCQ7nJ1QRTQcsF) | [Titik Mula](https://open.spotify.com/album/3IQhuysrfYfML67fMhOZZ2) | 3:53 |
-| 8 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [PERJUMPAAN](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
+| 8 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
 | 9 | [you and I](https://open.spotify.com/track/1FocHJZivlDIEudoNBbx5G) | [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [you and I](https://open.spotify.com/album/4WDyBqpE8j0r9AGnFp6GoS) | 3:48 |
 | 10 | [Di Kala Malam \- From "Dajal: Satu Malam Di Pedajal"](https://open.spotify.com/track/703by9BjnLWoqxOPx5VIGJ) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Di Kala Malam \(From "Dajal: Satu Malam Di Pedajal"\)](https://open.spotify.com/album/2Vxbg9uQDjmhyFVGT0Anmv) | 3:06 |
 | 11 | [Dial Tone](https://open.spotify.com/track/227u5UMtxhLQGWqDbkE0Oc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Dial Tone](https://open.spotify.com/album/7z9APiQaFzWNPP8uECGPgv) | 2:41 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 21 | [Pelangi](https://open.spotify.com/track/7t37xeXTrFw0F6UQPBNu3V) | [Adzrin](https://open.spotify.com/artist/5yBpdiEOEvWOZxUD36kz6B) | [Pelangi](https://open.spotify.com/album/5gCz4vaKwQ9dAjJEbIqvD8) | 3:44 |
 | 22 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 23 | [Mengejar Bintang](https://open.spotify.com/track/5Neo3Jm5YxSZbDJaVkNRtN) | [Kai Deva](https://open.spotify.com/artist/1e9lFTOTkTINzwWkFSCd1n) | [Mengejar Bintang](https://open.spotify.com/album/6AAP4e2G5M8jYnkLWWJENp) | 3:16 |
-| 24 | [Tetap Berharap](https://open.spotify.com/track/3Njafmu6Sp7fPvouq9ErAP) | [JIMI](https://open.spotify.com/artist/0vzJRbogXMYZfhtqwDAFFH) | [Tetap Berharap](https://open.spotify.com/album/2AekmhGMlWfLWpAOmllXXV) | 3:10 |
+| 24 | [Tetap Berharap](https://open.spotify.com/track/3Njafmu6Sp7fPvouq9ErAP) | [JIMI](https://open.spotify.com/artist/4qgfvGqEaSHWp4Fv094RGi) | [Tetap Berharap](https://open.spotify.com/album/2AekmhGMlWfLWpAOmllXXV) | 3:10 |
 | 25 | [Merah](https://open.spotify.com/track/3TGgs9d4A4MTUd5wyWFHND) | [Zazzleen](https://open.spotify.com/artist/0dztDwlWsGVbmLxEp93KHN) | [Merah](https://open.spotify.com/album/4zvndqtQJIg97j6tXrL0Wt) | 4:08 |
 | 26 | [Hey U](https://open.spotify.com/track/38phaLFkL4iyOfIbXA3NWU) | [Kat Roshan](https://open.spotify.com/artist/1A4jKoKUa06UFmmiBQTBBk), [Adam E](https://open.spotify.com/artist/3WsmnLZVmYr8PQNS6dbrUY) | [Hey U](https://open.spotify.com/album/2sS6ZJGWfZ0hSETytpXYIL) | 2:56 |
 | 27 | [Wahyu](https://open.spotify.com/track/0OSKOs2Sh3TK5EVhylF6Py) | [Ammar Mukhlis](https://open.spotify.com/artist/25hmt9N4YvvTeibeKEgV1t) | [Wahyu](https://open.spotify.com/album/4QXOEtGo8D6zwFYGHXCMtG) | 4:01 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 29 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 |
 | 30 | [Hari Ini Kumengerti](https://open.spotify.com/track/6FUdW1if9HbIVDv6LLuYuz) | [Intan Shafinas](https://open.spotify.com/artist/74Zez2T23wh3l3MkAarhIh) | [Hari Ini Kumengerti](https://open.spotify.com/album/0OdjpaedA0eMgEcOOC1Ts9) | 3:45 |
 | 31 | [Kau Sayang Aku](https://open.spotify.com/track/6q9zVLV5tKL3yDjEtqq9bt) | [Nanasheme](https://open.spotify.com/artist/1QIytw90JEqVwboPDX7nZl) | [Kau Sayang Aku](https://open.spotify.com/album/4uSrgFAnc4KxCz5MdTyNms) | 3:05 |
-| 32 | [Sejuta Kenangan](https://open.spotify.com/track/1QrZSnPBZXYjBgmWvj9AG3) | [JIMI](https://open.spotify.com/artist/0vzJRbogXMYZfhtqwDAFFH), [Mary Grace](https://open.spotify.com/artist/5DJNxfiIgCQ7nJ1QRTQcsF), [Kai Deva](https://open.spotify.com/artist/1e9lFTOTkTINzwWkFSCd1n), [Zazzleen](https://open.spotify.com/artist/0dztDwlWsGVbmLxEp93KHN) | [Sejuta Kenangan](https://open.spotify.com/album/3DCGaRkrvCjr1nY1kldxXo) | 2:29 |
+| 32 | [Sejuta Kenangan](https://open.spotify.com/track/1QrZSnPBZXYjBgmWvj9AG3) | [JIMI](https://open.spotify.com/artist/4qgfvGqEaSHWp4Fv094RGi), [Mary Grace](https://open.spotify.com/artist/5DJNxfiIgCQ7nJ1QRTQcsF), [Kai Deva](https://open.spotify.com/artist/1e9lFTOTkTINzwWkFSCd1n), [Zazzleen](https://open.spotify.com/artist/0dztDwlWsGVbmLxEp93KHN) | [Sejuta Kenangan](https://open.spotify.com/album/3DCGaRkrvCjr1nY1kldxXo) | 2:29 |
 | 33 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 34 | [GLOW](https://open.spotify.com/track/1MRhw4HEvW91cQjI8RJY4I) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [GLOW](https://open.spotify.com/album/0Ve0dsgwKoAZy5lRdIhpha) | 3:49 |
 | 35 | [Takde Orang](https://open.spotify.com/track/49U8okAQvIFv7sfCRnxZMm) | [Nobi](https://open.spotify.com/artist/0nDK8xCxLVcOQ5MLQftbxU), [JOHNASA](https://open.spotify.com/artist/2DaGjCRxooYtb9XxJ7Cezh) | [Takde Orang](https://open.spotify.com/album/0YBd0k2MBsjfEahUhZipex) | 2:44 |

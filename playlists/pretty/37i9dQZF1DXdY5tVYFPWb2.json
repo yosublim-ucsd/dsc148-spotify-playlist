@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 170202,
+  "num_followers": 170224,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 190906,
       "name": "MOON NIGHT",
       "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "PARAISO",
+        "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 244905,
+      "name": "Climax Night",
+      "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "Once Upon a Night",
         "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "PARAISO",
-        "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
       "artists": [
         {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 244905,
-      "name": "Climax Night",
-      "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -939,22 +955,6 @@
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "Every One Minute",
         "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 210276,
       "name": "Every One Minute",
       "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "sanagi",
-        "url": "https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3"
-      },
-      "artists": [
-        {
-          "name": "\u65b0\u6771\u4eac",
-          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "sanagi",
-      "url": "https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "sanagi",
+        "url": "https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "sanagi",
+      "url": "https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "\u8003\u3048\u4e2d",
         "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
       },
@@ -1659,18 +1643,34 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1691,34 +1691,38 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Kiss Me, Winter",
-        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 221737,
-      "name": "Kiss Me, Winter",
-      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+        "name": "\u771f\u591c\u4e2d\u306e\u30b8\u30e7\u30fc\u30af (feat. Natsu Summer)",
+        "url": "https://open.spotify.com/album/1XXvF6LdZHlwRxk4XPqiTH"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
         }
       ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+      "duration_ms": 294947,
+      "name": "\u771f\u591c\u4e2d\u306e\u30b8\u30e7\u30fc\u30af (feat. Natsu Summer)",
+      "url": "https://open.spotify.com/track/3vfjbn4TTW4DZGKbw8r1rz"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

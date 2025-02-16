@@ -838,10 +838,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 384042,
       "name": "We Say Yes",
       "url": "https://open.spotify.com/track/41Fkr5t1sCWtgfXiRI525y"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6LlVIVnpne75qIbHCAcrpz"
+      },
+      "artists": [
+        {
+          "name": "Tito & Jessica Tosado",
+          "url": "https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384042,
+      "name": "We Say Yes",
+      "url": "https://open.spotify.com/track/6OWD4D56Xnpa91Uu0tCIX6"
     },
     {
       "album": {
@@ -860,10 +878,32 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 358570,
       "name": "Yes Again",
       "url": "https://open.spotify.com/track/2l6bRgJWeWbt3uNDPCRGdk"
+    },
+    {
+      "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/22RIEnCy5vOAzbMTVNFpKg"
+      },
+      "artists": [
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2025-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358570,
+      "name": "Yes Again",
+      "url": "https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFRY0LMLy8wEU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,083 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,070 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 44 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [Fixiki](https://open.spotify.com/artist/3YDDfBycguqyJnWZdvOaWj) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
 | 45 | [For Goodness' Sake](https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [For Goodness' Sake](https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx) | 2:17 |
 | 46 | [Up on the Housetop](https://open.spotify.com/track/3psbuTV2kE7qTFdTDQU39w) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Holiday Favorites](https://open.spotify.com/album/1Zb1osR7tSDPUcbh28NqaR) | 1:23 |
-| 47 | [Joy to the World](https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Joy to the World](https://open.spotify.com/album/6e5Hmvy9OWlcAq8ucP7iS9) | 2:07 |
-| 48 | [Snow Day](https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Christmas with Pancake Manor](https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF) | 3:00 |
+| 47 | [Snow Day](https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Christmas with Pancake Manor](https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF) | 3:00 |
+| 48 | [Joy to the World](https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Joy to the World](https://open.spotify.com/album/6e5Hmvy9OWlcAq8ucP7iS9) | 2:07 |
 | 49 | [Christmas Time](https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Pj Panda Christmas Party 2](https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3) | 2:01 |
 | 50 | [Wintertime is better with friends](https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7) | [Mini Smiley](https://open.spotify.com/artist/60IT25papFnCsrfkel54e8) | [Christmas Songs](https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m) | 2:36 |
 | 51 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |

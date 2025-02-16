@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,173 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,210 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 6 | [Trippila](https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Trippila](https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv) | 2:37 |
 | 7 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
 | 8 | [Peranbey](https://open.spotify.com/track/0FqPlEEaI68rnTr2m80rqi) | [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Peranbey](https://open.spotify.com/album/66ftPnCRMbfsDrdiWfj8e3) | 3:27 |
-| 9 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM), [Vivek](https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 |
+| 9 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 |
 | 10 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 |
 | 11 | [Aakaya Therotame](https://open.spotify.com/track/2p5YiaTrUr6yRrj7fC1PSl) | [Arun Gopan](https://open.spotify.com/artist/5OAYaHDcHFCxxg4xkkzNrU) | [Aakaya Therotame](https://open.spotify.com/album/5iG4mrxxTPoDss52m81FAV) | 2:55 |
 | 12 | [Quarter Gaali](https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd) | [FSPROD Vinu](https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J) | [Quarter Gaali](https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi) | 3:48 |

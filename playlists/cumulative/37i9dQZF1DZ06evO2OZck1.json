@@ -829,6 +829,28 @@
     },
     {
       "album": {
+        "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/5ssnfj7TGiqSmgGbUMfroM"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/0XosFVK1iMaeVKSRoUWTVK"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },

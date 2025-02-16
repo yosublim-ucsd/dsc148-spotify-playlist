@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152376,
+  "num_followers": 152383,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAB3T0sKaONF0TM94aeaj8VE",
+  "snapshot_id": "Z66HgAAAAAA3fMtJ+PR2oPDY43i9rn4m",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Busqu\u00e9",
-        "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
+        "name": "Yuri y Sus Amigos del Regional Mexicano",
+        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 250670,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+      "duration_ms": 226032,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -315,6 +311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 490762,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yuri y Sus Amigos del Regional Mexicano",
-        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226032,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235805,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 200269,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 235805,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para M\u00ed",
+      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para M\u00ed",
-      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 183817,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 324365,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 183817,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic - EADDA9223",
+      "url": "https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nueva Tradici\u00f3n",
         "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 168504,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EADDA9223",
-        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 246183,
-      "name": "Brillante Sobre el Mic - EADDA9223",
-      "url": "https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 176365,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Troca",
         "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 147235,
       "name": "Troca",
       "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 176365,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
     },
     {
       "added_at": null,

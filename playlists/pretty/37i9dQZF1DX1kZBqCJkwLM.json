@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 85856,
+  "num_followers": 85861,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 153918,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 153918,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
       },
@@ -571,6 +587,26 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "ONE PUNCH",
+        "url": "https://open.spotify.com/album/1P4oYvbx2Km6bg5iHUvCgX"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "duration_ms": 140754,
+      "name": "ONE PUNCH",
+      "url": "https://open.spotify.com/track/51Xbvv48cHKB5TiUQowktL"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -627,38 +663,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Good Love 2.0",
-        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "CUT UP",
-        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "CUT UP",
-      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "universe",
         "url": "https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma"
       },
@@ -671,6 +675,22 @@
       "duration_ms": 186627,
       "name": "universe",
       "url": "https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Good Love 2.0",
+        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -707,26 +727,6 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "ONE PUNCH",
-        "url": "https://open.spotify.com/album/1P4oYvbx2Km6bg5iHUvCgX"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        }
-      ],
-      "duration_ms": 140754,
-      "name": "ONE PUNCH",
-      "url": "https://open.spotify.com/track/51Xbvv48cHKB5TiUQowktL"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Haute Couture",
+        "url": "https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 130350,
+      "name": "Haute Couture",
+      "url": "https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Jokes On Me",
         "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
       },
@@ -911,22 +931,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Dance Like Nobody's Watching",
-        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225267,
-      "name": "Dance Like Nobody's Watching",
-      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "PLAYTHING",
         "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
       },
@@ -951,6 +955,38 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Cellulite",
+        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 190398,
+      "name": "Cellulite",
+      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },
@@ -963,22 +999,6 @@
       "duration_ms": 155893,
       "name": "Too Many Things",
       "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Bad Girls Behave",
-        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 170007,
-      "name": "Bad Girls Behave",
-      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -999,18 +1019,18 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Cellulite",
-        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+        "name": "Bad Girls Behave",
+        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 190398,
-      "name": "Cellulite",
-      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+      "duration_ms": 170007,
+      "name": "Bad Girls Behave",
+      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1047,6 +1067,22 @@
       "duration_ms": 156522,
       "name": "Rowdy",
       "url": "https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 193396,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1111,22 +1147,6 @@
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 193396,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1515,26 +1535,6 @@
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     }
   ],
   "unique_name": "Dope AF",

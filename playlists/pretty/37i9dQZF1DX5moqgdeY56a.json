@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 51977,
+  "num_followers": 52005,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 167738,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/2vKVjAResslERGdwOxK4iW"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "Antonio Aguilar, Vol. 3",
         "url": "https://open.spotify.com/album/1g2KmviRFszwsmhiXsfZG5"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 187582,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/1chSz5xnUaIdL1WEaYZQZC"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233302,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
     },
     {
       "added_at": "2024-04-09 17:24:23",

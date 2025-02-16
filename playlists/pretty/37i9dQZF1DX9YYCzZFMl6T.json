@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 3841,
+  "num_followers": 3856,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2024-12-20 18:31:17",

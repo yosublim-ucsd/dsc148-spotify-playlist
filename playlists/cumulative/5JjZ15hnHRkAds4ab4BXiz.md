@@ -4,7 +4,7 @@
 
 > 
 
-524 songs - 1 day 9 hr 3 min
+527 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Common Sense](https://open.spotify.com/track/0cGI8SEprwbLoCwKaGWGGc) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:56 | 2024-07-30 |  |
 | [Communist Daughter](https://open.spotify.com/track/0n97PkKoTpnp5L343TMAgB) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 1:57 | 2024-04-20 |  |
 | [Compliments](https://open.spotify.com/track/4RJoZWtDSxv6mBNFVLV3RU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:38 | 2024-12-29 |  |
-| [Cool Down the Dub \(Bonus Track\)](https://open.spotify.com/track/7z8yuTZ471VAOQ6RPbUTrx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7EsnnOcEBgrZWZPuM7uHHu) | 5:22 | 2024-01-18 |  |
+| [Cool Down the Dub \(Bonus Track\)](https://open.spotify.com/track/7z8yuTZ471VAOQ6RPbUTrx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7EsnnOcEBgrZWZPuM7uHHu) | 5:22 | 2024-01-18 | 2025-02-16 |
 | [cotton eye joe](https://open.spotify.com/track/13vwUuL2l4XoDKUr42ULLt) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [cotton eye joe](https://open.spotify.com/album/1QhH2QjT3n7WaJ5bSysO8L) | 2:50 | 2024-07-17 |  |
 | [Coul as a Ghoul](https://open.spotify.com/track/27mtEHKWjpvCWYz1XUXge5) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Coul as a Ghoul](https://open.spotify.com/album/2pClahL34Nr5l1QJbOTfeu) | 2:41 | 2024-06-06 |  |
 | [Crab](https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:34 | 2024-03-10 | 2024-03-13 |
@@ -176,6 +176,7 @@
 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 | 2023-11-12 |  |
 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 | 2024-06-16 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-11-16 |  |
+| [Heaven](https://open.spotify.com/track/3WUetIYOqcHBqRIQqyUTCN) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:53 | 2025-02-15 |  |
 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2024-03-27 |  |
 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 | 2024-12-29 |  |
 | [Here We Are \(For W\. Cullen Hart\)](https://open.spotify.com/track/6M1I7wG0zhA2WihCdBd2tt) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [Everything Is](https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO) | 2:33 | 2024-04-20 |  |
@@ -356,6 +357,7 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-12 |  |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2024-04-05 | 2024-04-09 |
 | [Pyramid of Bones](https://open.spotify.com/track/0tfvDUmADEEEqrPcRJNT29) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:28 | 2024-06-06 |  |
+| [Queen of Hearts](https://open.spotify.com/track/6jYk46oSc16JrL78Lx21hR) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:47 | 2025-02-15 |  |
 | [QYURRYUS](https://open.spotify.com/track/6pMRk6Tr05wmZSSINOqzE3) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:52 | 2024-06-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2023-11-14 |  |
 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 | 2024-06-10 |  |
@@ -523,6 +525,7 @@
 | [Wink](https://open.spotify.com/track/6VFaZ3zgXaRbc79GRqhbBz) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:00 | 2024-06-06 |  |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2023-11-19 |  |
 | [Xerox](https://open.spotify.com/track/0EH07hS7lnqoNnRet0g2oJ) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 5:05 | 2024-07-07 |  |
+| [Yes, Please, Don't](https://open.spotify.com/track/7KcTTtBkfX5q9x6jloJ1F6) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:27 | 2025-02-15 |  |
 | [You & Me](https://open.spotify.com/track/70IxQPO3KJR0cJtUqe3Umi) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:52 | 2024-05-24 | 2024-11-20 |
 | [You Better Be Doubtful](https://open.spotify.com/track/1RfPD2ubVvm0DnBsScj1kF) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:30 | 2024-04-08 |  |
 | [You Gave It Your Best](https://open.spotify.com/track/38n6KBVwiV3tvXt3mIOrol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:56 | 2024-07-31 |  |

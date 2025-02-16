@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 11 hr 24 min
+222 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [She's In My Head](https://open.spotify.com/track/3z5j0w4tWrzpwPpdOySvXz) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/5cQYXYQya0oPKmhJr3LHl0) | 2:59 | 2024-06-07 | 2024-09-07 |
 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 | 2024-06-07 |  |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2024-06-07 |  |
-| [Song on Fire](https://open.spotify.com/track/4UQSxaJZS8kH62JaQgkr14) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Feed The Machine](https://open.spotify.com/album/0I7iZWKIGM4mkmZonobtJh) | 3:50 | 2024-06-07 |  |
+| [Song on Fire](https://open.spotify.com/track/4UQSxaJZS8kH62JaQgkr14) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Feed The Machine](https://open.spotify.com/album/0I7iZWKIGM4mkmZonobtJh) | 3:50 | 2024-06-07 | 2025-02-16 |
+| [Song On Fire](https://open.spotify.com/track/7FUX19WiWdxTHMEe1Y43vc) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Feed the Machine](https://open.spotify.com/album/4FYvuWhNshZBsOT0fptzR3) | 3:50 | 2025-02-15 |  |
 | [Sore Loser](https://open.spotify.com/track/2vzDOmaJO7sAJQmwuH1Kna) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J), [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 3:08 | 2024-06-07 |  |
 | [Sorry That I Miss You](https://open.spotify.com/track/1TvvEJ8uFTCZJYGjGNha3M) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:36 | 2024-06-07 |  |
 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 | 2024-06-07 |  |

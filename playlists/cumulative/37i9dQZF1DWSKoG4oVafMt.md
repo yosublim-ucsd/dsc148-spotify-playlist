@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-997 songs - 2 day 5 hr 44 min
+998 songs - 2 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,7 @@
 | [November](https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [November](https://open.spotify.com/album/2x0UIFBhpw66dD4JcH7Q8p) | 3:26 | 2024-11-18 | 2024-12-13 |
 | [Number](https://open.spotify.com/track/3lQVy4ONHjiNFuThbQMwUd) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Number](https://open.spotify.com/album/4RbK4DvD3RgOgs3ff3Pjtc) | 3:11 | 2022-11-15 | 2023-02-02 |
 | [Oda Vyah](https://open.spotify.com/track/3HNS3MnORTpGwF2AzyAZ8G) | [Jashan Singh](https://open.spotify.com/artist/76Ae8xQK47gr8nrKDRW9Mj), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Oda Vyah](https://open.spotify.com/album/430x6Mrp0yrtzhEc46Ob6g) | 3:42 | 2022-10-25 | 2022-12-16 |
-| [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2025-02-13 |  |
+| [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2025-02-13 | 2025-02-16 |
 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 | 2022-09-21 | 2023-02-04 |
 | [Oye Hoye Hoye](https://open.spotify.com/track/7wNKW6AIOMNxmvRnQf2VzC) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Dhanashree](https://open.spotify.com/artist/5DxxK2XiSaYG6cfI8bzmm5) | [Oye Hoye Hoye](https://open.spotify.com/album/2e3nyvQs2wwXQ7EGJHnxCv) | 2:52 | 2021-12-02 | 2022-04-06 |
 | [Paagla](https://open.spotify.com/track/7mW3mM1aovDaOnSyK5e9W8) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Paagla](https://open.spotify.com/album/7ucqStPOMhaUWxrOfJKke9) | 3:43 | 2021-12-02 | 2022-02-01 |
@@ -967,6 +967,7 @@
 | [Walk Talk](https://open.spotify.com/track/7hCXra10hAFhcziuZhgeWt) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Walk Talk](https://open.spotify.com/album/3KK9YfVhqfmd73O72iub8T) | 3:42 | 2023-12-18 | 2024-01-31 |
 | [Wang Tut Gyi](https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Wang Tut Gyi](https://open.spotify.com/album/6mALhy205IRnUevHx7mk43) | 2:19 | 2022-07-05 | 2022-07-08 |
 | [Wanga](https://open.spotify.com/track/7jio2ibU8YYrlKzWzmdgXU) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Wanga](https://open.spotify.com/album/1tmjTkjz5XPlMCiSB0d95L) | 3:39 | 2022-11-07 | 2023-02-02 |
+| [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 | 2025-02-15 |  |
 | [Waves](https://open.spotify.com/track/0PTKdhCpWGehmffPEum7jA) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Waves](https://open.spotify.com/album/3MhjfVPObsfp6YEZiNi2av) | 3:03 | 2022-07-05 | 2023-02-02 |
 | [Wedding Vibes](https://open.spotify.com/track/1M0kEP53VUsLQi5yOJtL2W) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [Wedding Vibes](https://open.spotify.com/album/3EBlV4zqE2nTJu3a7SFsAL) | 2:58 | 2022-01-10 | 2022-02-01 |
 | [Weekend](https://open.spotify.com/track/4Su7DHadrVmCFuxU972eTc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Weekend](https://open.spotify.com/album/5CWJfhgBQzYb3GbIfpjvw1) | 2:50 | 2022-01-10 | 2022-04-06 |

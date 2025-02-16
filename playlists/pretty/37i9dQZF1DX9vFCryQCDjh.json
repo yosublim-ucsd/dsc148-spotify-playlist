@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13877,
+  "num_followers": 13882,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Chapter 4",
-        "url": "https://open.spotify.com/album/03yUw5B1fIbGHBp2FWGQlh"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "\uae38",
-      "url": "https://open.spotify.com/track/7aui07GfHIS7fe1vx0ejzl"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Wolf And Sheep",
         "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211373,
       "name": "Full of happiness",
       "url": "https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/03yUw5B1fIbGHBp2FWGQlh"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "\uae38",
+      "url": "https://open.spotify.com/track/7aui07GfHIS7fe1vx0ejzl"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "First Bridge",
-        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
-      },
-      "artists": [
-        {
-          "name": "\uc18c\ucc2c\ud718",
-          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "The Life\u2026 DOC Blues",
         "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 226160,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "First Bridge",
+        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
+      },
+      "artists": [
+        {
+          "name": "\uc18c\ucc2c\ud718",
+          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 226220,
       "name": "\ud30c\ub780",
       "url": "https://open.spotify.com/track/3TDKL7ULjxEtFurcn4P4S2"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Papaya 1st",
         "url": "https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 214026,
       "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
       "url": "https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Choose My Life-U",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "\ub2ec\ub9ac\uae30",
-      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 232160,
       "name": "Com` Back",
       "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Choose My Life-U",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "\ub2ec\ub9ac\uae30",
+      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1131,6 +1131,22 @@
       "duration_ms": 227630,
       "name": "a match made in heaven",
       "url": "https://open.spotify.com/track/2VYLSWoSgHcWTOoJIKr5t5"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1183,42 +1199,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
-      },
-      "artists": [
-        {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
-        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
-      },
-      "artists": [
-        {
-          "name": "\ud669\ud61c\uc601",
-          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
-        },
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
-        }
-      ],
-      "duration_ms": 237029,
-      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
-      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/6zVFnvhl88fdYTOQNBkySs"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+      },
+      "artists": [
+        {
+          "name": "\ud669\ud61c\uc601",
+          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+        }
+      ],
+      "duration_ms": 237029,
+      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
+      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Magic To Go To My Star",
+        "url": "https://open.spotify.com/album/4b1Jifj9x7yNywv9euaeRH"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "\ubc18",
+      "url": "https://open.spotify.com/track/3gEaYFqK3CGCn5Jmw37Xwd"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Magic To Go To My Star",
-        "url": "https://open.spotify.com/album/4b1Jifj9x7yNywv9euaeRH"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "\ubc18",
-      "url": "https://open.spotify.com/track/3gEaYFqK3CGCn5Jmw37Xwd"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
         "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
       },
@@ -1327,54 +1327,6 @@
       "duration_ms": 222250,
       "name": "\ub3c4 The Way",
       "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
-      },
-      "artists": [
-        {
-          "name": "\uc778\ub514\uace0",
-          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Please Summer!",
-      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - Club Mix",
-      "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
-        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
-      },
-      "artists": [
-        {
-          "name": "\ud669\uaddc\uc601",
-          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
-        }
-      ],
-      "duration_ms": 259775,
-      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1395,18 +1347,34 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
         }
       ],
-      "duration_ms": 203693,
-      "name": "One Flew over the Cuckoo's Nest",
-      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+      "duration_ms": 227666,
+      "name": "I Know - Club Mix",
+      "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
+      },
+      "artists": [
+        {
+          "name": "\uc778\ub514\uace0",
+          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1427,18 +1395,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
+        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "\ud669\uaddc\uc601",
+          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
         }
       ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
+      "duration_ms": 259775,
+      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1459,6 +1427,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 226667,
       "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
       "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ub108",
-        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "\ub108 - Bonus Track/Techno Version",
-      "url": "https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 243435,
       "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ub108",
+        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "\ub108 - Bonus Track/Techno Version",
+      "url": "https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL"
     },
     {
       "added_at": "2024-08-05 17:06:13",

@@ -4,7 +4,7 @@
 
 > Tech house technicians featuring DJ Minx 🤖 50% techno, 50% house
 
-1,959 songs - 4 day 12 hr 33 min
+1,960 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1377,7 +1377,7 @@
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-09-09 | 2023-03-18 |
 | [Read My Mind](https://open.spotify.com/track/40WNgPYaJNx6sabCnxf62a) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Read My Mind](https://open.spotify.com/album/4UwjPhwPB5Lvs7eNvzEVSy) | 2:48 | 2024-06-28 | 2024-08-03 |
 | [Reading My Mind](https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 2:15 | 2024-05-17 | 2024-07-19 |
-| [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 | 2024-10-25 |  |
+| [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 | 2024-10-25 | 2025-02-16 |
 | [Ready For Racing](https://open.spotify.com/track/0dVnj1vmHKBGofUC257OQ2) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Ready For Racing](https://open.spotify.com/album/5boAU9UknnTJeQ7DEikZDZ) | 2:43 | 2022-07-29 | 2022-10-01 |
 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 | 2022-05-06 | 2022-06-11 |
 | [Ready For Your Love \- Odd Mob Remix](https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Ready For Your Love \(Odd Mob Remix\)](https://open.spotify.com/album/0TUFe4rk1pRjdkWLUFDohX) | 2:59 | 2024-08-02 | 2025-01-17 |
@@ -1942,6 +1942,7 @@
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-02 | 2023-10-21 |
 | [Xtra](https://open.spotify.com/track/7yOqBzmuQ8aoA6CQEJ9TTN) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Xtra](https://open.spotify.com/album/701M9683rxbFW3tCfPht1m) | 5:43 | 2023-03-24 | 2023-04-24 |
 | [Xtreme BS](https://open.spotify.com/track/1mNlgNvahC1uZRwhPXxM3y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Xtreme BS](https://open.spotify.com/album/6ijxSQ6IzecdFVWVrMnzIm) | 3:01 | 2025-01-31 | 2025-02-15 |
+| [XXX](https://open.spotify.com/track/0soiFDRLcsO54jlv2ejrK4) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [XXX](https://open.spotify.com/album/3masG27kpGtzy8QMKEsywA) | 3:20 | 2025-02-14 |  |
 | [Yeah](https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Yeah](https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8) | 3:33 | 2023-09-22 | 2023-12-02 |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-09-05 | 2023-03-04 |
 | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 | 2024-09-27 |  |

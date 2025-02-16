@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,552 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,584 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 99 | [Kurabiye](https://open.spotify.com/track/6MfMveccChxGFKK4WuubmH) | [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6) | [Yabani](https://open.spotify.com/album/4pD5ajO8cTTOWpsopddS3F) | 4:30 |
 | 100 | [In the Cave](https://open.spotify.com/track/0xB1Z1qc73taBKj4DrXu33) | [Contact Field Orchestra](https://open.spotify.com/artist/35A8Rh48cPRbH4OoT0KV5i) | [Vol\. 1](https://open.spotify.com/album/1fHUCr4zEgNcNtd5a4Ea8L) | 3:07 |
 
-Snapshot ID: `Z41n6QAAAACVzsdkI1s1GbnqvAjgHxzD`
+Snapshot ID: `Z41n6QAAAAA5omhFfVmaHoUsf3UCMrvr`

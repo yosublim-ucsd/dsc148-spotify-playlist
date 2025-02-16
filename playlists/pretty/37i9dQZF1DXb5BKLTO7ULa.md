@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,562 likes - 106 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,590 likes - 106 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 |
 | 63 | [GELLATON](https://open.spotify.com/track/57v0P1VNmLtj3kH1a785Vh) | [Sinclair](https://open.spotify.com/artist/0Tkppz8pEg4PE4NuqpTcgC) | [GELLATON](https://open.spotify.com/album/57P2TAfqwVOlHBzwi1zdBt) | 4:02 |
 | 64 | [5AM](https://open.spotify.com/track/7fAn3UN4wizTtXLiDWI1i7) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [5AM](https://open.spotify.com/album/7rGEzkO2ekDXH3KigGxgXL) | 3:02 |
-| 65 | [HAHA !!](https://open.spotify.com/track/5zD5qTm5tK2qMtax3wqj10) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [HAHA !!](https://open.spotify.com/album/223hsSJnyfIeWB45AfXbxp) | 2:10 |
+| 65 | [HAHA !!](https://open.spotify.com/track/5zD5qTm5tK2qMtax3wqj10) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [HAHA !!](https://open.spotify.com/album/223hsSJnyfIeWB45AfXbxp) | 2:10 |
 | 66 | [Weet niet eens](https://open.spotify.com/track/5rKhkz4R8AIa2LNExknubD) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Weet niet eens](https://open.spotify.com/album/11DFefotGVRUWya2teuo5b) | 2:17 |
 | 67 | [Tonighter](https://open.spotify.com/track/4jDii9qkutEJFRg3EC7WE2) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd) | [Chroma Panorama Deluxe Edition](https://open.spotify.com/album/5Xk7aqbigWJ7CB52XUbb0p) | 3:27 |
 | 68 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,837 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,842 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 |
 | 2 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 |
-| 3 | [MNU](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [MNU](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
+| 3 | [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
 | 4 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 |
 | 5 | [G\-Shock](https://open.spotify.com/track/0j18lN9yOk0GU8Mds0CKCj) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Lazyeye](https://open.spotify.com/artist/3kHG5JFsZpzyYzKhyStYAr) | [G\-Shock](https://open.spotify.com/album/2HKmhAqaMubAx7Am0CfwRL) | 2:24 |
 | 6 | [HITSCAN](https://open.spotify.com/track/3oP2Q4QYLb0krybHshZ2CM) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HITSCAN](https://open.spotify.com/album/0wIbOInUJpzoozjaZBIYp6) | 2:27 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 39 | [March XXVII](https://open.spotify.com/track/5jTkflsroe1keuwIcMXHnl) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK) | [March XXVII](https://open.spotify.com/album/5Xp0WXoOOLo1VWSbTGRH4t) | 3:28 |
 | 40 | [BIG TINGS](https://open.spotify.com/track/6sq9cH2tbD59FDZ5IAlV1Y) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG), [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [BIG TINGS](https://open.spotify.com/album/118jw9f1OaPq0r0uRQgaRv) | 3:31 |
 | 41 | [GRWN BBY](https://open.spotify.com/track/2Z1tfusQMA8MjTu5OT33pV) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [THE HUMAN EXPERIENCE: SPIRITUAL EDITION](https://open.spotify.com/album/1VIjNyCiEz8gDlj3xObAWX) | 3:16 |
-| 42 | [Personal Trainers](https://open.spotify.com/track/0ThIKP9zt1HnhptnmnHTOg) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK), [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Personal Trainers](https://open.spotify.com/album/3RP3G6K6SIDMcHn6kUfSM4) | 3:18 |
+| 42 | [Personal Trainers](https://open.spotify.com/track/0ThIKP9zt1HnhptnmnHTOg) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK), [Everything OShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Personal Trainers](https://open.spotify.com/album/3RP3G6K6SIDMcHn6kUfSM4) | 3:18 |
 | 43 | [Papa n'était plus là](https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:51 |
 | 44 | [Sauce Man](https://open.spotify.com/track/4ST0yUnxhSLapAmgKmF8bI) | [Dr\. Bushman](https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7), [NBM NAIJA](https://open.spotify.com/artist/4almZouDiVAAsxKSkjOpG5) | [Sauce Man](https://open.spotify.com/album/4Y4twHXd666BRhvjA8bwNa) | 2:08 |
 | 45 | [German Suplex](https://open.spotify.com/track/2wJEFFXZMPwF8Yfn6gm4Vv) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Gritfall](https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI) | [Pocket Operations III](https://open.spotify.com/album/7BsoVOLUIkIDR5So4DLYjl) | 2:50 |

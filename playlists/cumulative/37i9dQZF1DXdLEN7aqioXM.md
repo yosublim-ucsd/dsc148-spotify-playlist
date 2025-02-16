@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-485 songs - 1 day 10 hr 38 min
+486 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Breathe](https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG) | [Ace Buchannon](https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb) | [Breathe](https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw) | 4:00 | 2023-10-23 |  |
 | [Breathe](https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Breathe](https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in) | 3:48 | 2021-10-15 | 2022-07-28 |
 | [Burn It Down \- Rework](https://open.spotify.com/track/3Is5Q2dJMMVXviLh9PmOXD) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Burn It Down \- Rework](https://open.spotify.com/album/1Bj2waZd2HdJrWChKrQJ1F) | 4:16 | 2022-09-30 | 2022-12-17 |
-| [Buy Me](https://open.spotify.com/track/22ejcFtMrp99hdr3AFPxw2) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Buy Me](https://open.spotify.com/album/59psRtPdqQKw9158IcjLtW) | 3:31 | 2024-09-11 |  |
+| [Buy Me](https://open.spotify.com/track/22ejcFtMrp99hdr3AFPxw2) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Buy Me](https://open.spotify.com/album/59psRtPdqQKw9158IcjLtW) | 3:31 | 2024-09-11 | 2025-02-16 |
 | [Chariot](https://open.spotify.com/track/7LRx0xmYQqpWPaBsTUWzC2) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Chariot](https://open.spotify.com/album/0PfC70uRWNCjhgJwHZ1uNb) | 4:25 | 2024-09-11 |  |
 | [Chauma](https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35) | [pothOles](https://open.spotify.com/artist/4FsQtPo1pvWq2GKKcKXyRH) | [Chauma](https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18) | 4:50 | 2022-02-04 | 2023-10-24 |
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
@@ -456,6 +456,7 @@
 | [Timewarp](https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Timewarp](https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C) | 4:07 | 2022-04-15 |  |
 | [Timmy Goes To Space](https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw) | [Mr\. Maen](https://open.spotify.com/artist/0d5tUTjMd6EFBWNeRMKpb3) | [Slow Love](https://open.spotify.com/album/07x3cBPHSNxNA5MUQw2HKk) | 3:32 | 2022-04-01 | 2023-10-24 |
 | [Too Far Gone](https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine](https://open.spotify.com/album/0GeQGXS8uLRnqNKIgnOxSd) | 3:06 | 2021-10-15 | 2022-07-27 |
+| [Touch](https://open.spotify.com/track/4e53IDGlcitKNTlQCRN0JL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Talmirage](https://open.spotify.com/artist/6gEIeLcp6HuMhrfq8ZZvbr) | [Touch](https://open.spotify.com/album/1JACKbsVYkf1OEJQtgoYUU) | 3:02 | 2025-02-14 |  |
 | [Transition Phase](https://open.spotify.com/track/3bJJN5dmgDfNe8Aq8FnICw) | [The Present Sound](https://open.spotify.com/artist/3UrI05QoPASfBPfOMR6pZr), [Decisive Koala](https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT) | [Transition Phase](https://open.spotify.com/album/1TFxWfegvhejzw9EKvBJoe) | 3:21 | 2023-10-23 |  |
 | [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 | 2021-10-15 | 2023-05-28 |
 | [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-13 | 2022-05-20 |

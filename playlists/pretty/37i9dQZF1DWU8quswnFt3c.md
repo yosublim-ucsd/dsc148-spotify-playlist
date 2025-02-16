@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,145 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,687 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boys Love Girls](https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boys Love Girls](https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr) | 3:01 |
-| 2 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 3 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 2 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 3 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 4 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
 | 5 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 6 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 39 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 40 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
-| 41 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
-| 42 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
-| 43 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
-| 44 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
+| 41 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
+| 42 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
+| 43 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
+| 44 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
 | 45 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
-| 46 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 |
-| 47 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
-| 48 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
+| 46 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
+| 47 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 |
+| 48 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
 | 49 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
-| 50 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |
-| 51 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
+| 50 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
+| 51 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |
 | 52 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
 | 53 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
 | 54 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 59 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
 | 60 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
 | 61 | [Buttalo via](https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [GASSA D'AMANTE](https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw) | 4:07 |
-| 62 | [SORRY SORRY SO](https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:25 |
-| 63 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 |
+| 62 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 |
+| 63 | [SORRY SORRY SO](https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:25 |
 | 64 | [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 |
 | 65 | [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 |
 | 66 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [FEMINA](https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [FEMINA](https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93) | 4:06 |
 | 72 | [Ping Pong](https://open.spotify.com/track/6fdbJpfH72BJ7UdJVuhZZ2) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [¡Agua!](https://open.spotify.com/album/5MT5DsMcBEYyWbZGdSTUPE) | 2:39 |
 | 73 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 |
-| 74 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
+| 74 | [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 |
 
 Snapshot ID: `Z6LwXgAAAAAEu+wkWhsNQ7XPsCHBBLQu`

@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Boza & Greeicy
 
-233 songs - 12 hr 9 min
+234 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2024-09-20 |  |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-02-16 | 2024-09-21 |
 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 | 2022-03-31 | 2024-09-21 |
-| [Europa](https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Europa](https://open.spotify.com/album/42nZQTeozDdU1ReiwtysnD) | 2:51 | 2024-09-20 |  |
+| [Europa](https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Europa](https://open.spotify.com/album/42nZQTeozDdU1ReiwtysnD) | 2:51 | 2024-09-20 | 2025-02-16 |
 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 | 2023-05-26 |  |
 | [felicia \(with Daramola\)](https://open.spotify.com/track/734Y5mrHFBvzeBkmN2kZCN) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [felicia \(with Daramola\)](https://open.spotify.com/album/3tKjxcrAF5RYvoovdjZ2Vd) | 3:50 | 2022-02-16 | 2022-10-09 |
 | [Figure 8](https://open.spotify.com/track/5uW0vbHDebFv9YLHCQSNid) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Figure 8](https://open.spotify.com/album/7zzY5KFRsqZMtKyIdq81JM) | 2:54 | 2022-02-16 | 2022-07-29 |
@@ -163,6 +163,7 @@
 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 | 2024-09-20 |  |
 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 | 2023-05-08 |  |
 | [PEPESOUP](https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [PEPESOUP](https://open.spotify.com/album/3Ou140lgFXmZ5MRAEMedgB) | 3:07 | 2025-02-14 |  |
+| [PIENSO](https://open.spotify.com/track/34himCq1kCORJXBQF2Su4W) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [PIENSO](https://open.spotify.com/album/7LcwnO0rEAo8rce7yVW1jK) | 2:06 | 2025-02-14 |  |
 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 | 2024-11-19 |  |
 | [Poporó](https://open.spotify.com/track/0qHuoIiRu99tU4alQbgYX1) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/5yt1qMBdcKe4wKK38GW0Xp) | 2:49 | 2023-02-10 | 2023-05-30 |
 | [Poporó](https://open.spotify.com/track/1u0gZYeHRGAknZZTjmZ6uK) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3dKFrunU6BT9Q8WPloRmBn) | 2:49 | 2022-02-16 | 2022-07-29 |

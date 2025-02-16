@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Klara Hammarström
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,013 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,371 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

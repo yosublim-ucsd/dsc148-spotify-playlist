@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,701 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,700 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 33 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 34 | [eighty\-five](https://open.spotify.com/track/3QqdwK6b3QTRIWkT9oNYb1) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [Colliding With Mars](https://open.spotify.com/artist/2K7iE9Z2ySIBKsG8UnG8PR), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [eighty\-five](https://open.spotify.com/album/7CsSVXp6GWGA7kTaqbUxm2) | 3:12 |
 | 35 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 |
-| 36 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
+| 36 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 37 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 38 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 |
 | 39 | [Stormy](https://open.spotify.com/track/1s0aL4BY3G10EErdkYQJ9b) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/4hmWk2YrCRkx1euv2mv42I) | 2:16 |

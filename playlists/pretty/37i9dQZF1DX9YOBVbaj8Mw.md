@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,856 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,858 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 55 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
 | 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
 | 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
-| 58 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
-| 59 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
+| 58 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
+| 59 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 60 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
 | 61 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 62 | [Wonderland In Alice \- Big Band Live](https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Big Band Live](https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy) | 3:34 |

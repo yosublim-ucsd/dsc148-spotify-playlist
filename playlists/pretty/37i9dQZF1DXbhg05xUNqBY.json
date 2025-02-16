@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 347690,
+  "num_followers": 347680,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Mental Help",
-        "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 224094,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Need",
         "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202661,
       "name": "Need",
       "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Mental Help",
+        "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 224094,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "A King & His Kindness",
-        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 248633,
-      "name": "Who is This Jesus?",
-      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -671,22 +655,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+        "name": "A King & His Kindness",
+        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
       },
       "artists": [
         {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+      "duration_ms": 248633,
+      "name": "Who is This Jesus?",
+      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -707,6 +687,26 @@
       "duration_ms": 182437,
       "name": "You Are My Salvation",
       "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
         }
       ],
-      "duration_ms": 555906,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
+      "duration_ms": 225680,
+      "name": "Like A Kid",
+      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
       },
       "artists": [
         {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 225680,
-      "name": "Like A Kid",
-      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
+      "duration_ms": 555906,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1003,6 +1003,50 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "I Don't Have Much (Acoustic)",
+        "url": "https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 259875,
+      "name": "I Don't Have Much - Acoustic",
+      "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Heal My Heart",
         "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
       },
@@ -1031,50 +1075,6 @@
       "duration_ms": 309360,
       "name": "Altogether Good - Live",
       "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "I Don't Have Much (Acoustic)",
-        "url": "https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 259875,
-      "name": "I Don't Have Much - Acoustic",
-      "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "if I can be honest",
-        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 260553,
-      "name": "the healing song",
-      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "What I Wish For You",
         "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
       },
@@ -1355,26 +1335,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sing Over Me",
-        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
         },
         {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 254007,
-      "name": "Sing Over Me",
-      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
+      "duration_ms": 260553,
+      "name": "the healing song",
+      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1399,6 +1375,30 @@
       "duration_ms": 263089,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Sing Over Me",
+        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254007,
+      "name": "Sing Over Me",
+      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu"
+      },
+      "artists": [
+        {
+          "name": "Sky Hymnal",
+          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 246052,
       "name": "Breathe - breathe version",
       "url": "https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu"
-      },
-      "artists": [
-        {
-          "name": "Sky Hymnal",
-          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
     },
     {
       "added_at": "2024-07-26 09:52:44",

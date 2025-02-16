@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,984 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,005 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 15 | [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 |
 | 16 | [Great Escape](https://open.spotify.com/track/37C2MYjn2J6Yyde9cjpwhe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Great Escape](https://open.spotify.com/album/1obLTTNnW9RraM9jk8Qw0f) | 3:14 |
 | 17 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
-| 18 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
+| 18 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
 | 19 | [Burn](https://open.spotify.com/track/491c4JXuPsqo6UQ3RVEATt) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155) | [Burn](https://open.spotify.com/album/38Me27A7XJCxgXlpbz2I1D) | 3:18 |
 | 20 | [Rave Now Die Later](https://open.spotify.com/track/6qWTgDeuDxOt4CtrvueEbd) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Be Lucky](https://open.spotify.com/album/6BSoos2q0ZXPpA5NLRUb3m) | 4:04 |
 | 21 | [My Brave Friend](https://open.spotify.com/track/0XOZmsuI4JL6KK63RquX9M) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Critical Thinking](https://open.spotify.com/album/0uQf3c9vjUn2HDfgc5gbPR) | 3:23 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 31 | [keep my head down](https://open.spotify.com/track/5dspUfbKWu1IoKZwQ5zX4h) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [keep my head down](https://open.spotify.com/album/6dA3pcAClcZPbEnKajxiuC) | 4:11 |
 | 32 | [Focus](https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Focus](https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD) | 3:32 |
 | 33 | [Absence Makes the Heart Grow](https://open.spotify.com/track/2gFHJlLe9IHn0GBdcr4mbH) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Absence Makes the Heart Grow](https://open.spotify.com/album/21LlDKrVv0eebqNnfC62XA) | 2:47 |
-| 34 | [Malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [Malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
+| 34 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
 | 35 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 |
 | 36 | [Will You Marry Me](https://open.spotify.com/track/4rFkzKag2uHEYQ4FFUABM9) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [WOOZE](https://open.spotify.com/album/3TS4UOYfxQjkhVrxPsPKHe) | 4:09 |
 | 37 | [Funny Face](https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Funny Face](https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz) | 2:47 |

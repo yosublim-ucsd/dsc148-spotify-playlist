@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-411 songs - 1 day 1 hr 54 min
+412 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bacilococo](https://open.spotify.com/track/1E9tTyrRvJqwPg9JXgLg7T) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [Bacilococo](https://open.spotify.com/album/5oL99oBZJgZ5UANGhPNzmV) | 2:30 | 2020-12-11 | 2021-03-06 |
 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 | 2020-11-06 |  |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-12-22 |  |
+| [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 | 2024-08-29 |  |
 | [Between Your Teeth](https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Between Your Teeth](https://open.spotify.com/album/7mwqbpDbLgAWr85eW1Vp3E) | 2:53 | 2020-08-09 | 2020-12-22 |
 | [Birch Tree](https://open.spotify.com/track/6R7qvSSuG7Hy7C15ESlHIv) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/7BY4eDWiXAkc8sMu1asVw9) | 4:40 | 2020-08-09 | 2020-12-22 |
 | [Birthday](https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 4:30 | 2020-09-19 | 2020-12-22 |
@@ -207,7 +208,7 @@
 | [Jennifer](https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv) | 4:00 | 2020-09-19 | 2022-07-28 |
 | [Jeune](https://open.spotify.com/track/3HV9YnoYACjlrJ5CiZ3hLj) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Jeune](https://open.spotify.com/album/0ra3Nkh7kqEUEtReZ6rbEY) | 4:18 | 2019-11-19\* | 2022-07-29 |
 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 | 2022-07-06 | 2024-04-19 |
-| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 |  |
+| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 | 2025-02-16 |
 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 | 2020-12-22 |  |
 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 | 2020-08-09 |  |
 | [Kid](https://open.spotify.com/track/3JZHzeKukmftdMKUoI87Jj) | [lostboy](https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5) | [Kid](https://open.spotify.com/album/7EY8Lrp6ttJuhUDMpJTdkz) | 3:13 | 2020-12-11 | 2021-03-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > In honor of Black History Month, we're highlighting the art of influence\. Click into the feed\. Cover: <a href="spotify:artist:0pghUohLPptZWBasy2wmUx">THEY.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,429 likes - 230 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,710 likes - 230 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

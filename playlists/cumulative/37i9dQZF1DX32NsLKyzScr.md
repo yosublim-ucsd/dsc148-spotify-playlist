@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,203 songs - 2 day 17 hr 21 min
+1,204 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Fade into Black](https://open.spotify.com/track/2TnPyV1ZWW66yTng96HXRJ) | [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u) | [Singularity](https://open.spotify.com/album/0t6kU6Etl5eZVKGBI5Nu74) | 5:07 | 2020-09-21\* | 2020-11-03 |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-25 | 2024-04-22 |
 | [Fall Again](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Fall Again](https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0) | 3:26 | 2024-03-04 | 2024-07-13 |
-| [FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FALLING](https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb) | 2:42 | 2024-11-22 |  |
+| [FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FALLING](https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb) | 2:42 | 2024-11-22 | 2025-02-16 |
 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 | 2021-09-25 | 2021-10-05 |
 | [Feel It](https://open.spotify.com/track/241KvpSSfpZC6x6opdpPMc) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Feel It](https://open.spotify.com/album/6KquMn5PACyBWWC6i2HrZq) | 3:25 | 2020-09-21\* | 2021-01-23 |
 | [Feel Me](https://open.spotify.com/track/2lLq1Ah7lTA4P3SA2OPAsi) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Feel Me](https://open.spotify.com/album/5u62eQtBVtjV4odYMZylGu) | 3:53 | 2020-11-27 | 2021-02-27 |
@@ -1120,6 +1120,7 @@
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-06 | 2025-02-10 |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-06-26 | 2021-09-18 |
 | [Vibe \(If I Back It Up\) \- Majestic Remix](https://open.spotify.com/track/1NkZiKrhiBeqGrTeYz3QGs) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Vibe \(If I Back It Up\) \[Majestic Remix\]](https://open.spotify.com/album/29gbZxe1JARSl91Bz7s3db) | 4:08 | 2020-09-21\* | 2021-01-23 |
+| [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-14 |  |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-21 | 2024-07-13 |
 | [Vorozhyla](https://open.spotify.com/track/1k7CJjdUHWs67jHcAMDCvo) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP), [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x), [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [Vorozhyla](https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu) | 3:05 | 2024-09-13 | 2025-01-18 |
 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-01-17 |  |

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [We Are Infinite](https://open.spotify.com/track/2kthi1rIJiy6suXZyiBQYm) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Mont Royal](https://open.spotify.com/album/3tQq6LBizVXBa9QWkNDtYO) | 3:05 |
 | 30 | [Lost](https://open.spotify.com/track/6w5gJJiM6KN97SRw58y3Hr) | [scntfc](https://open.spotify.com/artist/7vkhg0Rav27QjDgKgHTOSH) | [Oxenfree](https://open.spotify.com/album/3MsVFdknU6YMOcwo21SrIK) | 1:42 |
 
-Snapshot ID: `Z6mH0AAAAACU2CEmGGIzmVVIY3PbTeeP`
+Snapshot ID: `Z6mH0AAAAACrY9y3vlgvSSO7vXk8KS5t`

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 75166,
+  "num_followers": 75209,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADXj2nCUXJU0+0O+HQiiyBE",
+  "snapshot_id": "Z66HgAAAAAAKHTddA/h6WmoaIMEvf59z",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 207298,
+      "name": "I'LL QUIT LOVIN' YOU",
+      "url": "https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 189336,
       "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
       "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 207298,
-      "name": "I'LL QUIT LOVIN' YOU",
-      "url": "https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 234062,
+      "name": "WHERE TO FIND ME",
+      "url": "https://open.spotify.com/track/6PpqjWu7fTzXZIeRt4gEOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 185947,
       "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
       "url": "https://open.spotify.com/track/6Ke28oY4R6nbIqkZAjGFui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 234062,
-      "name": "WHERE TO FIND ME",
-      "url": "https://open.spotify.com/track/6PpqjWu7fTzXZIeRt4gEOH"
     },
     {
       "added_at": null,

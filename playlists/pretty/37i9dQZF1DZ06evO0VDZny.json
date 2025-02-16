@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 472279,
+  "num_followers": 472331,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAACgM15WiH9yvjtDfinuCjlq",
+  "snapshot_id": "Z66HgAAAAAB2bY6rGoRlSOLD7re1wbiM",
   "tracks": [
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
+      "duration_ms": 230093,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 230093,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH"
+      "duration_ms": 228146,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
     },
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CODE MISTAKE",
-        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
       "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 165303,
-      "name": "CODE MISTAKE",
-      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+      "duration_ms": 239386,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf"
     },
     {
       "added_at": null,
@@ -283,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -292,25 +308,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 239386,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
+      "duration_ms": 274133,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/3lPn81PFyKvXiyHhlkwkQ4"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -360,33 +376,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 274133,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/3lPn81PFyKvXiyHhlkwkQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+      "duration_ms": 232320,
+      "name": "True Friends",
+      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
     },
     {
       "added_at": null,
@@ -427,18 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
       "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 232320,
-      "name": "True Friends",
-      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
+      "duration_ms": 204458,
+      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3975851,
+  "num_followers": 3976635,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAB5hhB+Nrmx/tbRdLxgoadp",
+  "snapshot_id": "Z66HgAAAAACaeg/q+HSn4tFB+FOGOZ8i",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdergram Deux",
-        "url": "https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH"
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
       "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 185456,
-      "name": "Murdergram Deux (feat. Eminem)",
-      "url": "https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie"
+      "duration_ms": 238746,
+      "name": "Berzerk",
+      "url": "https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"
     },
     {
       "added_at": null,
@@ -895,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+        "name": "Murdergram Deux",
+        "url": "https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH"
       },
       "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 238746,
-      "name": "Berzerk",
-      "url": "https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"
+      "duration_ms": 185456,
+      "name": "Murdergram Deux (feat. Eminem)",
+      "url": "https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie"
     },
     {
       "added_at": null,

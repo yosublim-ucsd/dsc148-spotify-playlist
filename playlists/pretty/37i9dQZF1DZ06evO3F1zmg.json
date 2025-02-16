@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40915,
+  "num_followers": 40924,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAAz9AuzKTK5/rk9o3EB3C5f",
+  "snapshot_id": "Z66HgAAAAAD4czAwGn0ynxr5uCcwmJeR",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Bitch Freestyle",
+        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 129379,
+      "name": "Pretty Bitch Freestyle",
+      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Bitch Freestyle",
-        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
       "artists": [
         {
@@ -820,29 +836,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 129379,
-      "name": "Pretty Bitch Freestyle",
-      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Come First (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "You Come First (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
+      "duration_ms": 49242,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
     },
     {
       "added_at": null,
@@ -859,22 +855,6 @@
       "duration_ms": 150457,
       "name": "SHOT O' CLOCK",
       "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 49242,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K.R.I.T. IZ HERE",
         "url": "https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 169944,
       "name": "Addiction (feat. Lil Wayne & Saweetie)",
       "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paid N Full",
+        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Cuttin Up (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
     },
     {
       "added_at": null,
@@ -967,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Missed Calls",
         "url": "https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9"
       },
@@ -991,62 +1031,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUAVO HUNCHO",
-        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+        "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+        "url": "https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "GIVE IT TO EM (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUST RE'D UP 3",
-        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 156276,
-      "name": "SHE PRETTY - WITH SAWEETIE",
-      "url": "https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blockedt",
-        "url": "https://open.spotify.com/album/0yOjdUvQxbkIHZGwvCDXMe"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
         },
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 136508,
-      "name": "Bussin 2.0",
-      "url": "https://open.spotify.com/track/7f6IbVQGsCVocy1n1Amp9t"
+      "duration_ms": 198087,
+      "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+      "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"
     }
   ],
   "unique_name": "This Is Saweetie",

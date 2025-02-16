@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: ROSÉ
 
-242 songs - 12 hr 19 min
+243 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [GOR!LLAZ](https://open.spotify.com/track/5pcO248MInWTjo87ex4CxY) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [GOR!LLAZ](https://open.spotify.com/album/55UXtNQrTY2nxIvL4puIf8) | 1:48 | 2021-12-03 | 2022-07-22 |
 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 | 2023-05-01 |  |
 | [Grace Lee](https://open.spotify.com/track/7em3bV28UtlFrCIrtMZk1N) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Grace Lee](https://open.spotify.com/album/7vl5GDFnXRxlviqI5APoBe) | 2:54 | 2021-12-03 | 2022-07-27 |
+| [Haute Couture](https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Haute Couture](https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL) | 2:10 | 2025-02-14 |  |
 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 | 2021-12-03 | 2024-11-23 |
 | [Hoes Have Feelings Too](https://open.spotify.com/track/2CRNeHGhPhJicTGWpupcYH) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Hoes Have Feelings Too](https://open.spotify.com/album/29hKoT4FCPAVET1CYvQWVT) | 2:10 | 2023-02-14 |  |
 | [Hold On To Me](https://open.spotify.com/track/3jDhe6dzhLNV7gbhajjU7A) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Hold On To Me](https://open.spotify.com/album/7Kx9THhDWSes4d8kTHQldM) | 2:59 | 2022-04-15 | 2022-07-11 |
@@ -151,7 +152,7 @@
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2021-12-03 | 2024-04-20 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 | 2023-11-24 | 2024-04-19 |
-| [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 |  |
+| [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2025-02-16 |
 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 | 2021-12-03 | 2024-11-23 |
 | [Lovesick Girls](https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:12 | 2021-12-03 | 2024-11-23 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2022-07-15 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-504 songs - 1 day 15 hr 30 min
+505 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 | 2024-10-11 | 2025-02-15 |
 | [Bass Go Boom \- Collier Remix](https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Bass Go Boom \(Collier Remix\)](https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH) | 2:48 | 2024-10-04 | 2024-12-07 |
+| [Bass Jumpin' \(Sweat\)](https://open.spotify.com/track/7ngSri6b6ZfX5LlQ2q553M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/album/4PYxHHjgvcmoQUUNSQtgbd) | 3:40 | 2025-02-16 |  |
 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 | 2024-09-30 |  |
 | [Bay Beh](https://open.spotify.com/track/6bLKfy7O2AZxos4DsHa8oo) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Bay Beh](https://open.spotify.com/album/1lOcLO3lrrXmx3epKf1LYu) | 4:29 | 2024-03-15 | 2024-05-11 |
 | [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 | 2023-03-17 | 2023-06-10 |
@@ -171,7 +172,7 @@
 | [Girls](https://open.spotify.com/track/7s4FWMmzcHjOkJvo4L2ZWs) | [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [Girls](https://open.spotify.com/album/4aMjAjmddidXMjA5e65gaX) | 5:26 | 2025-01-24 | 2025-02-15 |
 | [GLORY](https://open.spotify.com/track/46Rcl7WOEmG46wTSU02w0X) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [GLORY](https://open.spotify.com/album/643cjCm4avt06CjUam9HGK) | 3:11 | 2024-08-12 | 2024-12-07 |
 | [Go](https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go](https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz) | 3:16 | 2024-11-06 |  |
-| [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 | 2024-09-30 |  |
+| [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 | 2024-09-30 | 2025-02-16 |
 | [Go Go](https://open.spotify.com/track/4RAlMHBv3VGJBxRczuIpQz) | [Yerik US](https://open.spotify.com/artist/1X7Dv6dJHi9FAlsLEhwok8) | [Under One Roof, Vol\. 1](https://open.spotify.com/album/5lCxH9j5oZovPEzHJxiJ5L) | 5:47 | 2024-06-17 | 2024-11-16 |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
 | [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-08-24 |

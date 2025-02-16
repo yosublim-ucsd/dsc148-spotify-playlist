@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,007 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,039 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 39 | [AAA](https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [AAA](https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm) | 3:11 |
 | 40 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 41 | [We Werk Together](https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ), [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Lawrence Chaney](https://open.spotify.com/artist/6VKhOZsGPstcHvIA3fQKx6), [Krystal Versace](https://open.spotify.com/artist/3oIIy9wJdxlRoJ1Mz9yckv) | [We Werk Together](https://open.spotify.com/album/3NmASjEdI9UBllWhOi0hc4) | 3:36 |
-| 42 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
+| 42 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
 | 43 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [Courtney](https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn), [Alaska](https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
-| 44 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 44 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
 | 45 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 |
 | 46 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 47 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 61 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 62 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
 | 63 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
-| 64 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO the Drag Clown](https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
-| 65 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
+| 64 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
+| 65 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO the Drag Clown](https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
 | 66 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 67 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
 | 68 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |

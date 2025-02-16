@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,389 likes - 49 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,429 likes - 49 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 48 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/38wOo372GR73kzKJJ77Cc2) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/5ChC7jU6I8a5sv9kdp2Wnu) | 1:36 |
 | 49 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
 
-Snapshot ID: `Z4EKqQAAAADvkzOSvMg+LQ2gHHP9s/FK`
+Snapshot ID: `Z4EKqQAAAACzLSDyWKUA6rJeG5g1Nq0j`

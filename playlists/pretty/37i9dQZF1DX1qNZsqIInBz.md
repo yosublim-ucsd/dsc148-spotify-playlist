@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,826 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,238 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Chill Phonk](https://open.spotify.com/track/5E69AASuENCXbP1PHO74F5) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Chill Phonk](https://open.spotify.com/album/4XIUu4JcbGI0z9BKSqYXxL) | 1:25 |
 | 100 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 |
 
-Snapshot ID: `Z6I6JQAAAAD4lmK7j/1kj+nAKSAif0VB`
+Snapshot ID: `Z6I6JQAAAAAP287dEz2PnfriNPKMWYiM`

@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/3D6IwERUlGQH4QkwqKmUyS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239033,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/3sCtkAUI2bI0vilfivrrhZ"
+    },
+    {
+      "album": {
         "name": "13 Celebrando El 13",
         "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },

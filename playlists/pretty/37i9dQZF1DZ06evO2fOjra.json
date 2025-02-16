@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 517690,
+  "num_followers": 517784,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAADt8WeHPNdbp1MMuyOgRmZx",
+  "snapshot_id": "Z66HgAAAAAC/u6uS0klKfU61rYc9Senh",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -255,6 +255,26 @@
       "duration_ms": 189960,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "All In the Family (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
     {
       "added_at": null,
@@ -295,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "All In the Family (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 272920,
       "name": "Thoughtless",
       "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
       "duration_ms": 206866,
       "name": "Trash",
       "url": "https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Path of Totality (Special Edition)",
         "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 222640,
       "name": "Get Up! (feat. Skrillex)",
       "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
     },
     {
       "added_at": null,

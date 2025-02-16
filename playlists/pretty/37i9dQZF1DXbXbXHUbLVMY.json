@@ -1,6 +1,6 @@
 {
   "description": "flusflusflus\ud83d\udea8 ",
-  "num_followers": 28400,
+  "num_followers": 28396,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Utested",
-        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Utested",
-      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 224516,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Utested",
+        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Utested",
+      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "HBB",
-        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
-      },
-      "artists": [
-        {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "HBB",
-      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 148373,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "HBB",
+        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "HBB",
+      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Hj\u00e4rta",
-        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
-      },
-      "artists": [
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "H\u00f6r Dig",
         "url": "https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ"
       },
@@ -863,22 +847,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -903,6 +883,26 @@
       "duration_ms": 129756,
       "name": "MED MIG",
       "url": "https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 121629,
       "name": "Hva Vil Du",
       "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1263,6 +1263,62 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Midja",
+        "url": "https://open.spotify.com/album/58EvnfeGOL2bozVnzGFh2J"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Midja",
+      "url": "https://open.spotify.com/track/3ElxPNHikg80BAC3AX3y80"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 108196,
+      "name": "Vi",
+      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Ung & Dum",
         "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
@@ -1299,42 +1355,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Takket v\u00e6re livet",
-        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "555",
-      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Vi",
-        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        }
-      ],
-      "duration_ms": 108196,
-      "name": "Vi",
-      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Norge Elsker Rap",
         "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 110373,
       "name": "Schnogodidougudugidoubudibow",
       "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Midja",
-        "url": "https://open.spotify.com/album/58EvnfeGOL2bozVnzGFh2J"
-      },
-      "artists": [
-        {
-          "name": "Luc1ano",
-          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Midja",
-      "url": "https://open.spotify.com/track/3ElxPNHikg80BAC3AX3y80"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Bra \u00c5r",
+        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Peder Nord",
+          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
+        }
+      ],
+      "duration_ms": 109766,
+      "name": "Cph Freestyle",
+      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Souljaboii Remixxx",
         "url": "https://open.spotify.com/album/6zobC136l4USs0YOARFGzX"
       },
@@ -1451,26 +1471,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Bra \u00c5r",
-        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        },
-        {
-          "name": "Peder Nord",
-          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
-        }
-      ],
-      "duration_ms": 109766,
-      "name": "Cph Freestyle",
-      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Det Regner Penger (Allez Allez)",
         "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
       },
       "artists": [
         {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
         }
       ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
     }
   ],
   "unique_name": "100 (2)",

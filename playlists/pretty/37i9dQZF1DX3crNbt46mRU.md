@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lo & Leduc
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,405 likes - 111 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,417 likes - 111 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 29 | [Wie man liebt](https://open.spotify.com/track/7HmfBkrNTmW0UUp9en5G9M) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Wie man liebt](https://open.spotify.com/album/5G4T5dMVHavjwL6sJrI5Dg) | 2:12 |
 | 30 | [Bit the Bullet](https://open.spotify.com/track/58BOLaJCMDumYEuGCO0NcK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Bit the Bullet](https://open.spotify.com/album/6W7BpWlR9fmQC5JbUmE08H) | 2:48 |
 | 31 | [Anomalie](https://open.spotify.com/track/3NigfLIeORYx8D5VaklOnN) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Anomalie](https://open.spotify.com/album/32dkevqKo5Gw94B8gtJHDI) | 2:32 |
-| 32 | [Fantasy](https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu), [Severin Häne](https://open.spotify.com/artist/27scjzuultoUX9T5MC9xnt) | [Fantasy](https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd) | 2:37 |
+| 32 | [Fantasy](https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Fantasy](https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd) | 2:37 |
 | 33 | [Dimenticarsi alle 7](https://open.spotify.com/track/3W1xZMEfi44Wxts9HMBJJS) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Dimenticarsi alle 7](https://open.spotify.com/album/0sj9yOnTm1M0fHr18zdNN8) | 3:34 |
 | 34 | [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 |
 | 35 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [Noch ein bisschen draußen \(ich hoffe, das passt\)](https://open.spotify.com/track/0ckI1yFQ8oBdvqFmR0RIvE) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Noch ein bisschen draußen \(ich hoffe, das passt\)](https://open.spotify.com/album/4og9cLAMp8KKFVyPGwbTw6) | 2:31 |
 | 46 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
 | 47 | [obsessed \(LV\)](https://open.spotify.com/track/1B6Vbn2Htv85Y5HEAKXnmI) | [Joje](https://open.spotify.com/artist/2S6bNoFLN4xiDSoEHlPE3s) | [obsessed \(LV\)](https://open.spotify.com/album/7jMU7JVbNa7TuHQo89M11e) | 1:47 |
-| 48 | [Corazón](https://open.spotify.com/track/0eIpWqCU7MIab8Kt00t2Ku) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Corazón](https://open.spotify.com/album/1OK2BYpkOVNYv3XDUtA7bx) | 2:41 |
+| 48 | [Corazón](https://open.spotify.com/track/0eIpWqCU7MIab8Kt00t2Ku) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Corazón](https://open.spotify.com/album/1OK2BYpkOVNYv3XDUtA7bx) | 2:41 |
 | 49 | [Let's go](https://open.spotify.com/track/3Fh86yuOfQmmQjnAzq7JyZ) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Let's go](https://open.spotify.com/album/3Iwge5BQBAJhZoLaf3Z27P) | 3:08 |
 | 50 | [7 Grad](https://open.spotify.com/track/2OSqFJmMC2y4xQFTvTmS55) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [7 Grad](https://open.spotify.com/album/74yh7dMgVOeff5JuAONW70) | 2:24 |
 | 51 | [Don't Panic](https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A New Best Friend](https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO) | 1:50 |

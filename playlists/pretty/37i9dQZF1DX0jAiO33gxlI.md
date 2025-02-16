@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,090 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,099 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pensar Direito](https://open.spotify.com/track/1ui0q6tFro602g92piLjQF) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Pensar Direito](https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj) | 2:53 |
-| 2 | [Missão](https://open.spotify.com/track/7jfsmdHo6qHX3F8wcMjuoU) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 3:28 |
+| 2 | [Missão](https://open.spotify.com/track/7jfsmdHo6qHX3F8wcMjuoU) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 3:28 |
 | 3 | [Só Quero Ver](https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:49 |
 | 4 | [Brasilândia](https://open.spotify.com/track/6fUYTG68tsOi51xp8t2Xj6) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Negra Li: We4Sessions](https://open.spotify.com/album/4ydoP5mhp99gNkSZuCOi6e) | 3:22 |
 | 5 | [Combustão](https://open.spotify.com/track/3H3381RExF26jb1ggvuvFy) | [Casllu](https://open.spotify.com/artist/5MyO8vsAkC3byMAUGsCMSh), [MC Menor da L](https://open.spotify.com/artist/7sYB5bjyGGJ7pKXl4WZn2C), [DJ Kiel](https://open.spotify.com/artist/4kU98i3kKpoVyaKFj8Y4CN) | [Combustão](https://open.spotify.com/album/3Q1mJTmoi8mkaES2rgNxqU) | 2:21 |

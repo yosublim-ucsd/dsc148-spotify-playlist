@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Prazteguh, Ayiqorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,718 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,716 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fantasi Rasa](https://open.spotify.com/track/5jL6E9CxT9ZDYDLbrOdcVb) | [Prazteguh](https://open.spotify.com/artist/5oSvp7bbtsnI4bmpYf8OYM), [Ayiqorry](https://open.spotify.com/artist/1ybRKXb2PLyNb2FnH4Qz0W) | [Fantasi Rasa](https://open.spotify.com/album/7aSRp7IkbdmO6pXPYSIYgU) | 4:34 |
+| 1 | [Fantasi Rasa](https://open.spotify.com/track/5jL6E9CxT9ZDYDLbrOdcVb) | [Praz Teguh](https://open.spotify.com/artist/6ERIHF4o8coTtg2dVlTIoC), [Ayiqorry](https://open.spotify.com/artist/1ybRKXb2PLyNb2FnH4Qz0W) | [Fantasi Rasa](https://open.spotify.com/album/7aSRp7IkbdmO6pXPYSIYgU) | 4:34 |
 | 2 | [Reason To Live](https://open.spotify.com/track/35XLYxmk5RsOWAreitR5f5) | [Rachel The Marionette](https://open.spotify.com/artist/0m4hddAHeV8NMTMQ5lbZTi) | [Reason To Live](https://open.spotify.com/album/7e3jgqaxJ8mdezQxzLRcz2) | 3:30 |
 | 3 | [MARAH\-MARAH](https://open.spotify.com/track/3ErD6aQGZYhN2BJqCBNMqw) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [MARAH\-MARAH](https://open.spotify.com/album/3tfnS60OXqXWxRj8GCq0SF) | 3:47 |
 | 4 | [Dingin](https://open.spotify.com/track/2lvwzTXOtBvvam0h3T8mZV) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Dingin](https://open.spotify.com/album/4OiLWFuoJYtN9pEFOWnHlA) | 4:16 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 33 | [Yang Terakhir](https://open.spotify.com/track/0uwwgt0T1IduZvJy4sUAs7) | [Behawan](https://open.spotify.com/artist/6wcHAZH4qvFqhFSqRiB7iS) | [Yang Terakhir](https://open.spotify.com/album/0zhZUlkAmtBCuZpxzGBvRg) | 4:17 |
 | 34 | [to: the future u](https://open.spotify.com/track/0YJM1bbBT2ipeSCkc5iGma) | [verenathania](https://open.spotify.com/artist/6emw3kSLnG7lNeqQBdY0CV) | [to: the future u](https://open.spotify.com/album/03w7GEgrIPY8hde4C2DJdt) | 3:22 |
 | 35 | [Badut](https://open.spotify.com/track/1jWNeX3oseacu5bsOwwGjp) | [Amadera](https://open.spotify.com/artist/1DDGzZUYmSl45A6DaOkjdR) | [Badut](https://open.spotify.com/album/60JSGVTzeabTSk5DvfWpOH) | 5:08 |
-| 36 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/7wxtnHmdQcTR0kw3BDNOn5) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
+| 36 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/1iEMip3NtCRMWr462uZgdP) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
 | 37 | [Sun](https://open.spotify.com/track/6Dk4kRXq289xngOgvivHP1) | [Berthcavés](https://open.spotify.com/artist/0ECEMKBjw9ocjMBcww8v3e) | [Sun](https://open.spotify.com/album/1gjqt1dSInkPOnZqV0Fmcw) | 5:04 |
 | 38 | [Doomscroll](https://open.spotify.com/track/5loVsCO8rzOGRv0samlLzK) | [GVSDAN](https://open.spotify.com/artist/6LsMIGrfvZsKnxVCM4NGuX) | [Self\-Loop](https://open.spotify.com/album/7j7wGmcB7ukQlbRsg7fDPR) | 3:02 |
 | 39 | [wouldyoubetheone?](https://open.spotify.com/track/4CQkwSFCoPgPy9MTwp5wtD) | [Meindra](https://open.spotify.com/artist/31Y6XaxBKeCnZ39vIZv66y) | [wouldyoubetheone?](https://open.spotify.com/album/2E8yJv1VFUNIacgKo96rcW) | 5:04 |

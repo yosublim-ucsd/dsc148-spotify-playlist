@@ -2013,6 +2013,36 @@
     },
     {
       "album": {
+        "name": "Pra\u00e7a do Papa",
+        "url": "https://open.spotify.com/album/4xaWqeGl6gAmCypwSoHWy0"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Malaca",
+          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
+        },
+        {
+          "name": "CIDO",
+          "url": "https://open.spotify.com/artist/5fwNfJ7qI8reJFxpL3TaPL"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "Pra\u00e7a do Papa",
+      "url": "https://open.spotify.com/track/65QE6IUA5eicu1g6SEygci"
+    },
+    {
+      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: The Velveteers
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,333 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,401 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 63 | [Words Lost Meaning](https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Words Lost Meaning](https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz) | 3:45 |
 | 64 | [Some Girls](https://open.spotify.com/track/4e8ZEY8p3uCsXv9CZqfYdX) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Some Girls](https://open.spotify.com/album/3bMnt6qn7Ta85Xh2Pu1J0A) | 3:26 |
 | 65 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
-| 66 | [Malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [Malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
+| 66 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
 | 67 | [Straight To Heart](https://open.spotify.com/track/6t4GUvtXJK6TVvU7TkBh9d) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rave Immortal](https://open.spotify.com/album/6Wu7z5o5vdseG83pk7NB8q) | 2:54 |
 | 68 | [Blood Red Heart](https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Blood Red Heart](https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm) | 2:24 |
 | 69 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |

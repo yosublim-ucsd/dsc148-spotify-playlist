@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 678612,
+  "num_followers": 678640,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAALPvJA0gwwudk4ASG6YeUA",
+  "snapshot_id": "Z66HgAAAAABw94hsEwE53frLqszEmmrk",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
         "url": "https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF"
       },
@@ -915,26 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+      "duration_ms": 281112,
+      "name": "Bitter - Narration By Cardi B",
+      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
     },
     {
       "added_at": null,
@@ -967,46 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 281112,
-      "name": "Bitter - Narration By Cardi B",
-      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
-        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "On Dat Money (with Cardi B)",
-      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 276214,
       "name": "No Love (with SZA & Cardi B) - Extended Version",
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
+        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "On Dat Money (with Cardi B)",
+      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
     },
     {
       "added_at": null,

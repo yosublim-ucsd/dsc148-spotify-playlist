@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,416 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,443 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 64 | [Mirror bridge](https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 0:52 |
 | 65 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 66 | [Heliconia](https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mosaic](https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a) | 9:13 |
-| 67 | [Scarper](https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 3:47 |
-| 68 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
+| 67 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
+| 68 | [Scarper](https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 3:47 |
 | 69 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t) | 3:29 |
 | 70 | [3eee](https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 1:49 |
 | 71 | [Night Journeys I](https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys](https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY) | 3:06 |
 | 72 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
-| 73 | [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 |
-| 74 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 |
+| 73 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 |
+| 74 | [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 |
 | 75 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
 | 76 | [Heliobat](https://open.spotify.com/track/00hrine247guDPYb1jSBKg) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 3:47 |
 | 77 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 92 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 |
 | 93 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 |
 | 94 | [Movie Night Cancelled \- Domenique Dumont Ambient Remix](https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Movie Night Cancelled \(Domenique Dumont Ambient Remix\)](https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl) | 4:59 |
-| 95 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
-| 96 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 |
+| 95 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 |
+| 96 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 | 97 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 |
 | 98 | [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 |
-| 99 | [What Is Not Strange?](https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg) | [Tashi Wada](https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [What Is Not Strange?](https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt) | 2:05 |
-| 100 | [Tower of Cloud](https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 5:11 |
+| 99 | [Tower of Cloud](https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 5:11 |
+| 100 | [What Is Not Strange?](https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg) | [Tashi Wada](https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [What Is Not Strange?](https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt) | 2:05 |
 
 Snapshot ID: `Z67N/AAAAACkkJnzeDOBa1BpLdhI1EPA`

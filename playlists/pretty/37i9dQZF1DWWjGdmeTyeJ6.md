@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: sosocamo, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,077 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,106 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Pipps Hill](https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w) | [Canty](https://open.spotify.com/artist/513JvMrHUhvAIq8xMntFcw) | [Dim Binge](https://open.spotify.com/album/4ENin5XoyhjiUUXJLFY2aC) | 3:31 |
 | 100 | [You](https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Squu](https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq) | [Lust 1](https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L) | 1:58 |
 
-Snapshot ID: `Z60eLwAAAAB9lwQNpQvFOijj4HTZaz1S`
+Snapshot ID: `Z60eLwAAAAAREB8mrY2aNiMSRjAB7Hu+`

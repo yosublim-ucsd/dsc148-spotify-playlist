@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Hellcat Speedracer
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,423 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,425 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 53 | [Lost My Trust](https://open.spotify.com/track/5wg7kHq2vEbtQiMrqSghQl) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Lost My Trust](https://open.spotify.com/album/6f5kldUSrbrIPQzaZO9bad) | 5:16 |
 | 54 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 |
 | 55 | [Paquera](https://open.spotify.com/track/2vfVvP7IPIBeltQj1fw1zQ) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Paquera](https://open.spotify.com/album/7KBMZwOYrbogOfjQwGDsJa) | 3:30 |
-| 56 | [Back 2 Back](https://open.spotify.com/track/6rLUXCtJSYSuUqDFhoiNip) | [Brandn Shiraz](https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv) | [Back 2 Back](https://open.spotify.com/album/2JCWy86paQijo7Pn1sz1Jw) | 3:46 |
+| 56 | [Back 2 Back](https://open.spotify.com/track/6rLUXCtJSYSuUqDFhoiNip) | [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Brandn Shiraz](https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP) | [Back 2 Back](https://open.spotify.com/album/2JCWy86paQijo7Pn1sz1Jw) | 3:46 |
 | 57 | [\~O.V.O\~](https://open.spotify.com/track/1hpIlvnByp3N9H0mjtjC8w) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [\~O.V.O\~](https://open.spotify.com/album/3ULCMpZ7fnBHoHkIH3TNtn) | 5:30 |
 | 58 | [The Cult](https://open.spotify.com/track/4aA2LngC4dXeycmJZjuOft) | [JKS](https://open.spotify.com/artist/7CQ5jMPSOl75LWm04fshav) | [The Cult](https://open.spotify.com/album/1j5NKmtTAgLNXppt68zqrw) | 5:26 |
 | 59 | [Going Higher](https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Going Higher](https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT) | 3:17 |

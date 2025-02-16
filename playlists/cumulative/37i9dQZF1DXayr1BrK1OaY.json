@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 127968,
       "name": "a little bitter",
       "url": "https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 226958,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1x9SzB3cLpNsykCO5Y2BfR"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 221387,
       "name": "Believe In Myself",
       "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 187145,
       "name": "CAN WE DO BETTER?",
       "url": "https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 125176,
       "name": "can't get you out of my mind",
       "url": "https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 207012,
       "name": "Change This Pain For Ecstasy",
       "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 218853,
       "name": "Choices (We Made)",
       "url": "https://open.spotify.com/track/2Q8YkqxwL8hOUHQ2uve0nK"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 193243,
       "name": "Crossfire - Brooks Remix",
       "url": "https://open.spotify.com/track/78xxLaqXAOyB6My5eyN9C6"
@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0lI4MxPlKzMIaQNKcrkzU1"
+      },
+      "artists": [
+        {
+          "name": "Kid Noize",
+          "url": "https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176746,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0kfDEJky3CCHp5uARqVl96"
+    },
+    {
+      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp"
       },
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 120620,
       "name": "HEARTPIECE",
       "url": "https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF"
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 241040,
       "name": "Heavy With Hoping",
       "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
@@ -3617,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "I Guess We\u2019re Not The Same",
+        "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211575,
+      "name": "I Guess We're Not The Same",
+      "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "album": {
         "name": "i have zero care",
         "url": "https://open.spotify.com/album/45L44NQqwug9hrAQ5nUK0v"
       },
@@ -3894,7 +3934,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
@@ -4762,7 +4802,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
@@ -5668,7 +5708,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 200294,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
@@ -6076,7 +6116,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 182658,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW"
@@ -7638,7 +7678,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 207787,
       "name": "Surrender To The Feeling",
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
@@ -8180,7 +8220,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 236470,
       "name": "Think I'm Gonna Love U",
       "url": "https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm"
@@ -8384,7 +8424,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 172613,
       "name": "u told me",
       "url": "https://open.spotify.com/track/3LRjxc6kt4MGoqGulI6ZhT"
@@ -8420,7 +8460,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 156444,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"

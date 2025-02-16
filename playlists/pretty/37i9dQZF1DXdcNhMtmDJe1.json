@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 89826,
+  "num_followers": 89838,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 141760,
-      "name": "Nice Work If You Can Get It - Remastered",
-      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
+      "duration_ms": 169786,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
+      "duration_ms": 141760,
+      "name": "Nice Work If You Can Get It - Remastered",
+      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -523,6 +523,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Kiri sings Gershwin",
+        "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "New Princess Theater Orchestra",
+          "url": "https://open.spotify.com/artist/59pisH3wBlKCZ6Ym2WbVWj"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
+      "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -567,34 +595,6 @@
       "duration_ms": 275706,
       "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
       "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Kiri sings Gershwin",
-        "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
-        },
-        {
-          "name": "New Princess Theater Orchestra",
-          "url": "https://open.spotify.com/artist/59pisH3wBlKCZ6Ym2WbVWj"
-        },
-        {
-          "name": "John McGlinn",
-          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
-      "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
     },
     {
       "added_at": "2022-08-05 04:02:00",

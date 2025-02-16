@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Laidback Luke & Henry Fong",
-  "num_followers": 453744,
+  "num_followers": 453743,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1233,20 +1233,24 @@
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 142080,
-      "name": "Comeback",
-      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1305,24 +1309,20 @@
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-08-16 14:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+      "duration_ms": 142080,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1449,24 +1449,24 @@
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Late Night Talks",
-        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+        "name": "Droppin' It (La La La)",
+        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         },
         {
-          "name": "INDECK.",
-          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+          "name": "BURNERS!",
+          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
         }
       ],
-      "duration_ms": 200944,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
+      "duration_ms": 156190,
+      "name": "Droppin' It (La La La)",
+      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
       "added_at": "2024-08-16 14:10:04",
@@ -1509,48 +1509,24 @@
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Droppin' It (La La La)",
-        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "BURNERS!",
-          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Droppin' It (La La La)",
-      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:54",
-      "album": {
-        "name": "Bitches Over Boys",
-        "url": "https://open.spotify.com/album/0TWz7v9hJQrIKdUjj5IZYC"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        },
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 147947,
-      "name": "Bitches Over Boys",
-      "url": "https://open.spotify.com/track/5NUpQHTzK9pqhtBGG51TFy"
+      "duration_ms": 200944,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1575,6 +1551,30 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "Bitches Over Boys",
+        "url": "https://open.spotify.com/album/0TWz7v9hJQrIKdUjj5IZYC"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 147947,
+      "name": "Bitches Over Boys",
+      "url": "https://open.spotify.com/track/5NUpQHTzK9pqhtBGG51TFy"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1885,6 +1885,22 @@
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
     },
     {
+      "added_at": "2024-08-30 20:19:56",
+      "album": {
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Move It (with Luciana)",
@@ -1925,36 +1941,24 @@
       "url": "https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp"
     },
     {
-      "added_at": "2024-08-30 20:19:56",
+      "added_at": "2025-02-07 16:18:57",
       "album": {
-        "name": "CAN'T GET ENOUGH",
-        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+        "name": "TALK MY SH*T (feat. Dean Mitchell)",
+        "url": "https://open.spotify.com/album/3BfdRtaM8PmbX0wsAedZF3"
       },
       "artists": [
         {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "CANT GET ENOUGH",
-      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
-      },
-      "artists": [
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
         {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+          "name": "Dean Mitchell",
+          "url": "https://open.spotify.com/artist/4f1eEtlpI6Sjtj1obWK1zz"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
+      "duration_ms": 189850,
+      "name": "TALK MY SH*T (feat. Dean Mitchell)",
+      "url": "https://open.spotify.com/track/4VqqbHPyCQ5LNZRs7gfIRW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1977,6 +1981,22 @@
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Put It Down",
@@ -1995,26 +2015,6 @@
       "duration_ms": 183750,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
-    },
-    {
-      "added_at": "2025-02-07 16:18:57",
-      "album": {
-        "name": "TALK MY SH*T (feat. Dean Mitchell)",
-        "url": "https://open.spotify.com/album/3BfdRtaM8PmbX0wsAedZF3"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Dean Mitchell",
-          "url": "https://open.spotify.com/artist/4f1eEtlpI6Sjtj1obWK1zz"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "TALK MY SH*T (feat. Dean Mitchell)",
-      "url": "https://open.spotify.com/track/4VqqbHPyCQ5LNZRs7gfIRW"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2041,22 +2041,6 @@
       "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "HEX I",
-        "url": "https://open.spotify.com/album/0rIDYYdATJlNtkhuJ47QbQ"
-      },
-      "artists": [
-        {
-          "name": "Savant",
-          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "One Good Thing",
-      "url": "https://open.spotify.com/track/267igl3FTKgz9LcEYumiql"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "I DON'T KNOW",
@@ -2071,6 +2055,22 @@
       "duration_ms": 172519,
       "name": "I DON'T KNOW",
       "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "HEX I",
+        "url": "https://open.spotify.com/album/0rIDYYdATJlNtkhuJ47QbQ"
+      },
+      "artists": [
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "One Good Thing",
+      "url": "https://open.spotify.com/track/267igl3FTKgz9LcEYumiql"
     },
     {
       "added_at": "2024-10-02 17:18:50",
@@ -2161,6 +2161,26 @@
       "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Twin Fang",
+        "url": "https://open.spotify.com/album/7fJ6TIkikeYwJLmK7Acuqc"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Twin Fang",
+      "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Mobbing",
@@ -2187,26 +2207,6 @@
       "duration_ms": 211200,
       "name": "Mobbing",
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Twin Fang",
-        "url": "https://open.spotify.com/album/7fJ6TIkikeYwJLmK7Acuqc"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Twin Fang",
-      "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2261,6 +2261,22 @@
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "10 Outta 10",
@@ -2283,22 +2299,6 @@
       "duration_ms": 216874,
       "name": "10 Outta 10",
       "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2361,6 +2361,22 @@
       "url": "https://open.spotify.com/track/5OwTQxYGQgDr6ty3TY5sYJ"
     },
     {
+      "added_at": "2025-01-17 05:56:39",
+      "album": {
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/2jwif4T7jgWBTy5Sp5gPnN"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "duration_ms": 160827,
+      "name": "LA FAMILIA",
+      "url": "https://open.spotify.com/track/5KoHcFPZXpYY4PefooRiK6"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "BAD",
@@ -2379,22 +2395,6 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2025-01-17 05:56:39",
-      "album": {
-        "name": "LA FAMILIA",
-        "url": "https://open.spotify.com/album/2jwif4T7jgWBTy5Sp5gPnN"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        }
-      ],
-      "duration_ms": 160827,
-      "name": "LA FAMILIA",
-      "url": "https://open.spotify.com/track/5KoHcFPZXpYY4PefooRiK6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2417,6 +2417,22 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "LIMIT",
@@ -2435,22 +2451,6 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     }
   ],
   "unique_name": "Nasty Bits",

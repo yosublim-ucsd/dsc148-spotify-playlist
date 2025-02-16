@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 525823,
+  "num_followers": 525997,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "Destination Lost",
         "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 219017,
       "name": "Destination Lost",
       "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "Imamou",
         "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 240487,
       "name": "Imamou",
       "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+        "name": "Behind The Line",
+        "url": "https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9"
       },
       "artists": [
         {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+          "name": "Enfant Sauvage",
+          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
+        },
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         }
       ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+      "duration_ms": 333213,
+      "name": "Behind The Line",
+      "url": "https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -1771,6 +1775,22 @@
       "duration_ms": 202741,
       "name": "Flora",
       "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Behind The Line",
-        "url": "https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9"
-      },
-      "artists": [
-        {
-          "name": "Enfant Sauvage",
-          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
-        },
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Behind The Line",
-      "url": "https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "Yara",
         "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
       },
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Amado",
-        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "W4U (feat. Jen)",
         "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
       },
@@ -1883,18 +1863,38 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Waka",
-        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
+        "name": "Amado",
+        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
       "artists": [
         {
-          "name": "AFRONOM",
-          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Waka",
-      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
+      "duration_ms": 210500,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "duration_ms": 183439,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
-      },
-      "artists": [
-        {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "Darling (with Aloe Blacc)",
         "url": "https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 272542,
       "name": "Darling (with Aloe Blacc)",
       "url": "https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Waka",
+        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
+      },
+      "artists": [
+        {
+          "name": "AFRONOM",
+          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Waka",
+      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
         "name": "Asa",
         "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
       },
@@ -2091,6 +2091,26 @@
       "duration_ms": 279344,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Koba Brown",
+          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -2115,22 +2135,22 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB"
       },
       "artists": [
         {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
         },
         {
-          "name": "Koba Brown",
-          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
         }
       ],
-      "duration_ms": 180021,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
+      "duration_ms": 258515,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -2179,26 +2199,6 @@
       "duration_ms": 161622,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "ARA",
-          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
-        }
-      ],
-      "duration_ms": 258515,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
+        "name": "No Title Yet",
+        "url": "https://open.spotify.com/album/433ALMp1xUMlXSUPTW69Ah"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "duration_ms": 488266,
+      "name": "No Title Yet",
+      "url": "https://open.spotify.com/track/0lP2AR9s4THJxLsjgYBmar"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 196859,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
-        "name": "No Title Yet",
-        "url": "https://open.spotify.com/album/433ALMp1xUMlXSUPTW69Ah"
-      },
-      "artists": [
-        {
-          "name": "Meera (NO)",
-          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
-        }
-      ],
-      "duration_ms": 488266,
-      "name": "No Title Yet",
-      "url": "https://open.spotify.com/track/0lP2AR9s4THJxLsjgYBmar"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2025-02-14 05:00:24",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Gruwski",
+          "url": "https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6"
+        }
+      ],
+      "duration_ms": 416014,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
         "name": "Murder On The Dancefloor (THEMBA Remix)",
         "url": "https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9"
       },
@@ -2591,26 +2611,6 @@
       "duration_ms": 274576,
       "name": "Light Down",
       "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Gruwski",
-          "url": "https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6"
-        }
-      ],
-      "duration_ms": 416014,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
     },
     {
       "added_at": "2025-02-14 05:00:24",

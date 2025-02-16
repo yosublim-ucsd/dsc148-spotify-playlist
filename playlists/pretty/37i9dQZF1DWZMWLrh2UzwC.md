@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: JISOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,831 likes - 123 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,841 likes - 123 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 24 | [Andai Sampai Akhir Usia](https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Andai Sampai Akhir Usia](https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0) | 5:09 |
 | 25 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 |
 | 26 | [Kencan Pertama](https://open.spotify.com/track/0O7ztA4GbF5u3rBdDuGrWp) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Kencan Pertama](https://open.spotify.com/album/2YZwmhuRd6XRHZy2QeqMWL) | 3:37 |
-| 27 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [PERJUMPAAN](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
+| 27 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
 | 28 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 |
 | 29 | [Thank You](https://open.spotify.com/track/1M1fDf9pNSThwDdXByP121) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 3:45 |
 | 30 | [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 59 | [Solsbury Hill \- Humane World for Animals Cover](https://open.spotify.com/track/7pwtOEq0aAD4a7dIwrDrkb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Solsbury Hill \(Humane World for Animals Cover\)](https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE) | 4:00 |
 | 60 | [Namotau](https://open.spotify.com/track/5CS4xzNMuxkoltWSOysyZP) | [Benzooloo](https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR) | [Namotau](https://open.spotify.com/album/3sRMRqd0VggDPJme7JCeRs) | 2:52 |
 | 61 | [Fleeting Friend](https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Fleeting Friend](https://open.spotify.com/album/0FGrnwHdF1XuHKuer1lbih) | 3:11 |
-| 62 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [Mean](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
+| 62 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
 | 63 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
 | 64 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 |
 | 65 | [If I Got a Dollar](https://open.spotify.com/track/3cHwBNh5kOCogPJ5Hczamj) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [If I Got a Dollar](https://open.spotify.com/album/3Ez7YOJxxaJ1EhrMn1Jtve) | 3:09 |

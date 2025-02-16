@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAABkHkoOzalUVt14emoUEBzH",
+  "snapshot_id": "Z66HgAAAAACP9HOuK8QOAoR/zG43Qjxe",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
-    },
     {
       "added_at": null,
       "album": {
@@ -223,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RZR Rojo",
         "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
       },
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELIKBOY",
-        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BELIKBOY",
-      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BELIKBOY",
+        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BELIKBOY",
+      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Frente",
         "url": "https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV"
       },
@@ -423,6 +423,30 @@
       "duration_ms": 118335,
       "name": "Humildemente",
       "url": "https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUMBA",
+        "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "RUMBA",
+      "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
     },
     {
       "added_at": null,
@@ -463,30 +487,6 @@
       "duration_ms": 172000,
       "name": "Richie Rich - En Vivo",
       "url": "https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUMBA",
-        "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Muzik Junkies",
-          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "RUMBA",
-      "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te He Podido Olvidar",
-        "url": "https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Clave A",
-          "url": "https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "No Te He Podido Olvidar",
-      "url": "https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -687,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+        "name": "No Te He Podido Olvidar",
+        "url": "https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv"
       },
       "artists": [
         {
@@ -696,33 +676,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+          "name": "Clave A",
+          "url": "https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Faramaya",
-        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
-      },
-      "artists": [
-        {
-          "name": "Ely Rosario",
-          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 144303,
-      "name": "Sin Faramaya",
-      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
+      "duration_ms": 218662,
+      "name": "No Te He Podido Olvidar",
+      "url": "https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri"
     },
     {
       "added_at": null,
@@ -747,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -763,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+        "name": "Sin Faramaya",
+        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
       },
       "artists": [
+        {
+          "name": "Ely Rosario",
+          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
+        },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 110256,
-      "name": "RZR Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
+      "duration_ms": 144303,
+      "name": "Sin Faramaya",
+      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
     },
     {
       "added_at": null,
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maserati (En Vivo)",
-        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 162474,
-      "name": "El Maserati - En Vivo",
-      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
+      "duration_ms": 110256,
+      "name": "RZR Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
     },
     {
       "added_at": null,
@@ -835,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+        "name": "El Maserati (En Vivo)",
+        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+      "duration_ms": 162474,
+      "name": "El Maserati - En Vivo",
+      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,
@@ -867,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
       },
       "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 275136,
-      "name": "Mr. Seal The Deal",
-      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
     },
     {
       "added_at": null,
@@ -923,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
       "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+      "duration_ms": 275136,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
     },
     {
       "added_at": null,
@@ -959,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 163980,
       "name": "Empec\u00e9 De Abajo - En Vivo",
       "url": "https://open.spotify.com/track/55wYSAADl63qjatMruo31p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is The End (En Vivo)",
-        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "This Is The End - En Vivo",
-      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,709 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,698 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 60 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
 | 61 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 62 | [Teasing Me](https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw) | [J.F\. Gloss](https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1) | [Teasing Me](https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo) | 1:37 |
-| 63 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
-| 64 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 |
-| 65 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
+| 63 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
+| 64 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
+| 65 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 |
 | 66 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 67 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
 | 68 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
 | 69 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
-| 70 | [Azul](https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR) | [Los Petardos!](https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum) | [Can\-Can](https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML) | 2:52 |
-| 71 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
-| 72 | [Ainda Está No Ar](https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:17 |
-| 73 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
-| 74 | [Prefiro Vila Velha](https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Prefiro Vila Velha](https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq) | 2:27 |
-| 75 | [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 |
+| 70 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 71 | [Azul](https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR) | [Los Petardos!](https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum) | [Can\-Can](https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML) | 2:52 |
+| 72 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
+| 73 | [Ainda Está No Ar](https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:17 |
+| 74 | [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 |
+| 75 | [Big Sky](https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S) | [Pricey](https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9) | [Big Sky](https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL) | 2:43 |
 
 Snapshot ID: `Z6Y8FAAAAACICnO4fUI9DBnx4t/RC6Gx`

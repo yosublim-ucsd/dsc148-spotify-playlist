@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 
 > Songs that are queer\. TO ME.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 25 songs - 1 hr 24 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 27 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 | 23 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 |
 | 24 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 25 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 |
+| 26 | [The Wooded Hills Along the Black Sea](https://open.spotify.com/track/4a4WGeoeja5hlFeOySwwrC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:57 |
+| 27 | [Picture of My Dress](https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:20 |
 
-Snapshot ID: `AAAAHdKeKzWk+5678KRLy5XD2Yo2MQ33`
+Snapshot ID: `AAAAH7jC9kWmxWJr6hIRa3PXiHeF9xw5`

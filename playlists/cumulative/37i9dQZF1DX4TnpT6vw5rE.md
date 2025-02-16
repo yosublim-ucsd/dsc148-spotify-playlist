@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-310 songs - 17 hr 56 min
+311 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-14 |  |
 | [Frozen waves](https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Frozen waves](https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4) | 2:41 | 2024-03-07 |  |
 | [Futura Nova](https://open.spotify.com/track/0oEiyb6tSp2zXavLyUAAlF) | [Ministry of Ambience](https://open.spotify.com/artist/1RoGSkb1MexMKcChn74Vx9) | [Futura Nova](https://open.spotify.com/album/6z8wIJZvAw5DPhVQR6zrcT) | 2:34 | 2021-01-07 |  |
-| [Fyren](https://open.spotify.com/track/2KCp2Xd95ZVecI6MTWFSGq) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Fyren](https://open.spotify.com/album/2XHfzMCfudqecjDp13bAfn) | 3:06 | 2024-07-12 |  |
+| [Fyren](https://open.spotify.com/track/2KCp2Xd95ZVecI6MTWFSGq) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Fyren](https://open.spotify.com/album/2XHfzMCfudqecjDp13bAfn) | 3:06 | 2024-07-12 | 2025-02-16 |
 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 | 2022-09-13 | 2023-06-10 |
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* |  |
@@ -240,6 +240,7 @@
 | [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 | 2021-10-28 |  |
 | [Second Sun](https://open.spotify.com/track/5kM2oy5P6hK2QdYcj66ach) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/0oVZx9Ax0CduKP4UIEi9Yj) | 3:43 | 2020-12-08\* | 2021-02-20 |
 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 | 2020-12-08\* |  |
+| [Selenite](https://open.spotify.com/track/2F75VUaZ39SNpcmKoKrtPI) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Selenite](https://open.spotify.com/album/0HGLpa9WQQMHb4DgsjuNkb) | 2:56 | 2025-01-14 |  |
 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 | 2020-12-08\* |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2020-12-08\* | 2021-07-06 |
 | [Serenity](https://open.spotify.com/track/1wlctHlUetiWICWw0ZZViF) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Serenity](https://open.spotify.com/album/03Al5TXt2KUtIo6vZkAxSt) | 3:03 | 2024-03-07 |  |

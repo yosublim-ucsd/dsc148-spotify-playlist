@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 767110,
+  "num_followers": 767759,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -63,7 +63,7 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Dusty... Definitely",
+        "name": "Dusty... Definitely (Expanded Edtion)",
         "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
       "artists": [
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Cry To Me-The Best Of Freddie Scott",
+        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
+      },
+      "artists": [
+        {
+          "name": "Freddie Scott",
+          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "(You) Got What I Need",
+      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Cry To Me-The Best Of Freddie Scott",
-        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
-      },
-      "artists": [
-        {
-          "name": "Freddie Scott",
-          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "(You) Got What I Need",
-      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 238669,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "All I Really Wanna Do",
         "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 222080,
       "name": "All I Really Wanna Do",
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+      "duration_ms": 196000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1431,22 +1447,6 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Bye Bye 17",
-        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
-      },
-      "artists": [
-        {
-          "name": "Har Mar Superstar",
-          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
-        }
-      ],
-      "duration_ms": 125962,
-      "name": "Late Night Morning Light",
-      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Bye Bye 17",
+        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
+      },
+      "artists": [
+        {
+          "name": "Har Mar Superstar",
+          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
+        }
+      ],
+      "duration_ms": 125962,
+      "name": "Late Night Morning Light",
+      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 169266,
       "name": "Clara Clairvoyant",
       "url": "https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
         }
       ],
-      "duration_ms": 176718,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 176032,
       "name": "Rolodex",
       "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
     },
     {
       "added_at": "2025-02-06 03:10:00",

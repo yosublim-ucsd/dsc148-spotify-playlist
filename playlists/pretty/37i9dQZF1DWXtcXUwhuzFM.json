@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Turisti.",
-  "num_followers": 98406,
+  "num_followers": 98415,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -1272,8 +1272,16 @@
       },
       "artists": [
         {
-          "name": "Juhani & Joonatan Vesku Jokinen",
-          "url": "https://open.spotify.com/artist/6TyqjLih0GT2UiQUo9jwLC"
+          "name": "Juhani",
+          "url": "https://open.spotify.com/artist/0CGoE5547kUz9CXkk4JVM1"
+        },
+        {
+          "name": "Joonatan",
+          "url": "https://open.spotify.com/artist/27ddiSC5Zm4SifSaMvYEE2"
+        },
+        {
+          "name": "Vesku Jokinen",
+          "url": "https://open.spotify.com/artist/58tsj94tcDnxNnMhHkIc2E"
         },
         {
           "name": "Olvari",

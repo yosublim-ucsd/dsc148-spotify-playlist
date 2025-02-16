@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 192052,
       "name": "Falsos Cair\u00e3o",
       "url": "https://open.spotify.com/track/2Ullm8em3nn4YH2LxcOzAl"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 148235,
       "name": "Mesmo Que Demore",
       "url": "https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf"
@@ -2006,10 +2006,40 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 164075,
       "name": "Progresso e Luxo",
       "url": "https://open.spotify.com/track/1l1x2gOhKQIbTto1GYfZQB"
+    },
+    {
+      "album": {
+        "name": "Pul\u00earo",
+        "url": "https://open.spotify.com/album/1l55ZZRGnaXls6fVUvpg4C"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Fuma\u00e7a",
+          "url": "https://open.spotify.com/artist/7eDlh9f8incKPYxg5a58vK"
+        },
+        {
+          "name": "Enece",
+          "url": "https://open.spotify.com/artist/5tGBVo0EUVkf3cwgetzyF3"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153202,
+      "name": "Pul\u00earo",
+      "url": "https://open.spotify.com/track/7ix7N7rPJxxZ2JucZiHkyP"
     },
     {
       "album": {
@@ -2696,7 +2726,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 164005,
       "name": "\u00c1gua Ros\u00e8",
       "url": "https://open.spotify.com/track/7irvkCTV59OuiD6OLlWx2n"

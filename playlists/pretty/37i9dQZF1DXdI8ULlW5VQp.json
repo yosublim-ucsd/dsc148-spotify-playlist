@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Macario Mart\u00ednez en portada.",
-  "num_followers": 77390,
+  "num_followers": 77457,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
-        "name": "desahogo",
-        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "desahogo",
-      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
         "name": "valor de m\u00e1s (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
         "url": "https://open.spotify.com/album/5nffADsIz5z4BZ5CpuhkeV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 253344,
       "name": "valor de m\u00e1s - (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
       "url": "https://open.spotify.com/track/7JMDN7Uq1RTTWVp6m54zL0"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
+        "name": "desahogo",
+        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "desahogo",
+      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
     },
     {
       "added_at": "2025-02-14 06:29:36",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
-        "name": "pesimista",
-        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -607,22 +591,6 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
         "name": "K\u00e9 MaL (versi\u00f3n tierna)",
         "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
       },
@@ -639,6 +607,38 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
         "name": "yo creo que todxs estamos mal",
         "url": "https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 196204,
       "name": "yo creo que todxs estamos mal",
       "url": "https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
-        "name": "aeropuerto",
-        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "aeropuerto",
-      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "added_at": "2025-02-14 06:29:36",
@@ -699,26 +683,6 @@
       "duration_ms": 178039,
       "name": "Mis Amigas Las Flores",
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
-        "name": "Natalia Lafourcade Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
     },
     {
       "added_at": "2025-02-14 06:29:36",
@@ -763,6 +727,26 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
+        "name": "Natalia Lafourcade Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "added_at": "2025-02-14 06:29:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 197274,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
     },
     {
       "added_at": "2025-02-14 06:29:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-02-14 06:29:36",
       "album": {
-        "name": "MUJER MARAVILLA",
-        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "MUJER MARAVILLA",
-      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
-    },
-    {
-      "added_at": "2025-02-14 06:29:36",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2025-02-14 06:29:36",
+      "album": {
+        "name": "MUJER MARAVILLA",
+        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "MUJER MARAVILLA",
+      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
     },
     {
       "added_at": "2025-02-14 06:29:36",

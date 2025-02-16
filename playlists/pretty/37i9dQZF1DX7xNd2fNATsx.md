@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Oliver Koletzki x Talmirage
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,849 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,855 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Touch](https://open.spotify.com/track/4e53IDGlcitKNTlQCRN0JL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Talmirage](https://open.spotify.com/artist/6gEIeLcp6HuMhrfq8ZZvbr) | [Touch](https://open.spotify.com/album/1JACKbsVYkf1OEJQtgoYUU) | 3:02 |
 | 2 | [Vanished](https://open.spotify.com/track/3gGMsx3jxYKfhXq8LMj1tz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT) | 4:02 |
 | 3 | [Behind The Line](https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Behind The Line](https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9) | 5:33 |
-| 4 | [Hypra\-Sensorial \- Remix](https://open.spotify.com/track/327BO34qqnMPKaHEDEb7Ss) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Partyfine](https://open.spotify.com/artist/5CcuQDhuccjZ1ctVrsyIQi), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [Hypra\-Sensorial \(Remix\)](https://open.spotify.com/album/24uLqBHTrzC0vLgtLVLK4c) | 3:15 |
+| 4 | [Hypra\-Sensorial \- Bellaire Remix](https://open.spotify.com/track/327BO34qqnMPKaHEDEb7Ss) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Partyfine](https://open.spotify.com/artist/5CcuQDhuccjZ1ctVrsyIQi), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [Hypra\-Sensorial \(Bellaire Remix\)](https://open.spotify.com/album/24uLqBHTrzC0vLgtLVLK4c) | 3:15 |
 | 5 | [Never Be Like You](https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr) | 3:53 |
 | 6 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 |
 | 7 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 |

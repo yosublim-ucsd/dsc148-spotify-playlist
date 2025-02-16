@@ -4,7 +4,7 @@
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 6 min
+53 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Beautiful](https://open.spotify.com/track/0lcWp2uXDDQul6oHa4Al00) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:52 | 2024-10-23 |  |
 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 | 2024-10-23 |  |
 | [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 | 2024-10-23 |  |
+| [BREAKING](https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 4:07 | 2025-02-16 |  |
 | [Bullet the Blue Sky](https://open.spotify.com/track/5BF8EgFap9pLtSnINN3Ah4) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 5:18 | 2024-10-23 |  |
 | [Change the World \- 2006 Remaster; Warriors EP Version](https://open.spotify.com/track/3Wtl9G9a0EutLyvNXFIwhu) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:03 | 2024-10-23 |  |
 | [Circles](https://open.spotify.com/track/67eAkl0sRvEjcIDwMqxyyn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:27 | 2024-10-23 |  |
@@ -31,7 +32,8 @@
 | [Goodbye for Now](https://open.spotify.com/track/6UO0TGTr33kZLXG4PxRYZx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 4:32 | 2024-10-23 |  |
 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 | 2024-10-23 |  |
 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-10-23 |  |
-| [I WON'T BOW DOWN](https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 2:40 | 2024-10-23 |  |
+| [I WON'T BOW DOWN](https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 2:40 | 2024-10-23 | 2025-02-16 |
+| [I WON’T BOW DOWN \(feat\. Andrés Giménez from A.N.I.M.A.L.\)](https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9) | [I WON’T BOW DOWN \(feat\. Andrés Giménez from A.N.I.M.A.L.\)](https://open.spotify.com/album/0oLUuJWPfVCTn70SSgvA7C) | 2:43 | 2025-02-16 |  |
 | [I'll Be Ready \- 2022 Remixed & Remastered](https://open.spotify.com/track/0AzPcW4jzim6Q6Jwh7xPDc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Marley Girls](https://open.spotify.com/artist/5OiRLtZaj8uyIHKmECFCg8) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:41 | 2024-10-23 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/5Ck9bUuqyDKK5zsRP89PNO) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 3:06 | 2025-02-13 |  |
 | [It Can't Rain Everyday \- 2022 Remixed & Remastered](https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:43 | 2024-10-23 |  |

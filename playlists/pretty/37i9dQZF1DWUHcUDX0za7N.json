@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 59378,
+  "num_followers": 59404,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "Yo My Gee",
+        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
+      },
+      "artists": [
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Yo My Gee",
+      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "Jumpin Bumpin",
         "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
       },
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "Aye / Ori-Ade",
+        "url": "https://open.spotify.com/album/1c9ZxaswF2AYXlLss026tT"
+      },
+      "artists": [
+        {
+          "name": "Dami Drizzy",
+          "url": "https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4SllNixOIyCp7FSqaB1CvJ"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "[escapism]",
         "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
       },
@@ -1099,26 +1131,6 @@
       "duration_ms": 154983,
       "name": "[escapism]",
       "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
-      },
-      "artists": [
-        {
-          "name": "Shoody B",
-          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 183248,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1143,26 +1155,6 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr"
-      },
-      "artists": [
-        {
-          "name": "Niyi",
-          "url": "https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9"
-        },
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 174236,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -1179,6 +1171,46 @@
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
+      },
+      "artists": [
+        {
+          "name": "Shoody B",
+          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 183248,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr"
+      },
+      "artists": [
+        {
+          "name": "Niyi",
+          "url": "https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1327,6 +1359,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        }
+      ],
+      "duration_ms": 113188,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "ADITI ALARIWO",
         "url": "https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj"
       },
@@ -1359,62 +1407,6 @@
       "duration_ms": 184800,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "Astaghfirullah",
-        "url": "https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Astaghfirullah",
-      "url": "https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "On Boiz",
-        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
-      },
-      "artists": [
-        {
-          "name": "Aj\u00e9 (The Realest)",
-          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
-        }
-      ],
-      "duration_ms": 143408,
-      "name": "On Boiz",
-      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p"
-      },
-      "artists": [
-        {
-          "name": "CDQ",
-          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
-        },
-        {
-          "name": "Serenit\u00e0",
-          "url": "https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,805 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,806 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 10 | [Don't Panic](https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A New Best Friend](https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO) | 1:50 |
 | 11 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 |
 | 12 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 |
-| 13 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [PERJUMPAAN](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
+| 13 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
 | 14 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 |
 | 15 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 |
 | 16 | [you and I](https://open.spotify.com/track/1FocHJZivlDIEudoNBbx5G) | [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [you and I](https://open.spotify.com/album/4WDyBqpE8j0r9AGnFp6GoS) | 3:48 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 27 | [Fire](https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/6B7J2anabeL3P2kKK6UsOJ) | 3:45 |
 | 28 | [Some Type Of Skin \(Ft\. ATARASHII GAKKO!\)](https://open.spotify.com/track/0XosFVK1iMaeVKSRoUWTVK) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Some Type Of Skin \(Ft\. ATARASHII GAKKO!\)](https://open.spotify.com/album/5ssnfj7TGiqSmgGbUMfroM) | 3:36 |
 | 29 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
-| 30 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/7wxtnHmdQcTR0kw3BDNOn5) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
+| 30 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/1iEMip3NtCRMWr462uZgdP) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
 | 31 | [Dingin](https://open.spotify.com/track/2lvwzTXOtBvvam0h3T8mZV) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Dingin](https://open.spotify.com/album/4OiLWFuoJYtN9pEFOWnHlA) | 4:16 |
 | 32 | [Guess So](https://open.spotify.com/track/19WpUSR2e3FXVOnO6kDSzf) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Guess So](https://open.spotify.com/album/28InhKTxfiyNUKP3dDIlDE) | 2:36 |
 | 33 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 |

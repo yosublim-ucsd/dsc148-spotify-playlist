@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,723 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,726 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 46 | [Telescópio](https://open.spotify.com/track/2yk3tJ2KXMrVB0r5k7pZk8) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND) | [Escola de Trap II](https://open.spotify.com/album/3lKN73ZhtJHwhtp4qufryz) | 3:05 |
 | 47 | [Vivência de Cria](https://open.spotify.com/track/4LTnZKjV7zhuSGqB3kfXbI) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [$pace](https://open.spotify.com/artist/4111UMyHQHJtS1fUl2477F), [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Vivência de Cria](https://open.spotify.com/album/1dxPFh5HYhiSeyOy006uTj) | 3:26 |
 | 48 | [Ratos](https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Ratos](https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn) | 3:43 |
-| 49 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
-| 50 | [Procedimento](https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa) | [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [Papo Reto](https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e) | 2:31 |
+| 49 | [Procedimento](https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa) | [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [Papo Reto](https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e) | 2:31 |
+| 50 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
 
 Snapshot ID: `Z66yAwAAAAC3PAQMPc66yR0V/PncOhYL`

@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-157 songs - 9 hr 19 min
+158 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Por Eso Tú](https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Por Eso Tú](https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv) | 3:12 | 2021-12-13 | 2024-11-14 |
 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 | 2021-12-13 | 2024-04-19 |
 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 | 2021-12-13 | 2024-04-19 |
+| [Por una Mujer Casada](https://open.spotify.com/track/2vKVjAResslERGdwOxK4iW) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Con Tambora, Vol\. 2](https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy) | 2:47 | 2024-04-09 |  |
 | [Potro Lobo Gateado, El \- La Yegua Colora](https://open.spotify.com/track/1zVYx45Gi1D3qWtuNzT4vD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Corridos De Caballos \- Antonio Aguilar](https://open.spotify.com/album/5BCEuGy3UosQe1jpmbVYDV) | 4:27 | 2024-04-09 | 2025-01-18 |
 | [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 | 2021-12-13 | 2024-04-27 |
 | [Prometiste \(En Vivo\)](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 | 2023-10-13 | 2024-04-19 |
@@ -147,7 +148,7 @@
 | [Soy Como Quiero Ser](https://open.spotify.com/track/5fj9XNJjscbBoZUkJOKDYu) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/3rmJcsxTIFLu4AzQu3QuZK) | 2:35 | 2023-10-13 |  |
 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 | 2022-09-22 | 2022-11-13 |
 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 | 2021-12-13 | 2024-04-19 |
-| [Triste Recuerdo](https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:53 | 2024-04-09 |  |
+| [Triste Recuerdo](https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:53 | 2024-04-09 | 2025-02-16 |
 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2021-12-13 | 2024-04-19 |
 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3) | 3:33 | 2021-12-13 |  |
 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/7JEvTL4J2RMj8QHVWKSgSS) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/6bWMB6mbApeonX5EJYl8vQ) | 3:33 | 2023-10-13 | 2024-04-19 |

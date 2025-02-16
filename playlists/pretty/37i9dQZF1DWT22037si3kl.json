@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Nebrugg",
-  "num_followers": 145723,
+  "num_followers": 145726,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2025-02-14 03:01:23",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
-    },
-    {
-      "added_at": "2025-02-14 03:01:23",
-      "album": {
         "name": "Papo Reto",
         "url": "https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 151115,
       "name": "Procedimento",
       "url": "https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa"
+    },
+    {
+      "added_at": "2025-02-14 03:01:23",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     }
   ],
   "unique_name": "O Drip",

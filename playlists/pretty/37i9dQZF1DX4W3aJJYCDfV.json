@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Sabrina Carpenter (pictured), AJ Tracey ft. Jorja Smith, Bon Iver and more!",
-  "num_followers": 878411,
+  "num_followers": 878509,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -1844,12 +1844,12 @@
       },
       "artists": [
         {
-          "name": "Sarah Story",
-          "url": "https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt"
-        },
-        {
           "name": "Hilit Kolet",
           "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
+        },
+        {
+          "name": "Sarah Story",
+          "url": "https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt"
         }
       ],
       "duration_ms": 163404,
@@ -2114,6 +2114,10 @@
         {
           "name": "Eli Mich",
           "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
         }
       ],
       "duration_ms": 113823,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,914 likes - 40 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,911 likes - 40 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 28 | [A3ed Makanna](https://open.spotify.com/track/4K9YhPUMPdCWVGUjU5z6fT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [A3ed Makanna](https://open.spotify.com/album/7Ecp9AiAFsmT21V7Y0txhc) | 4:05 |
 | 29 | [لقصيدة](https://open.spotify.com/track/6SkZil8JB1TcJ9VXKmD7co) | [Soukaina Fahsi](https://open.spotify.com/artist/39DD8OzHyAs32eKK9GLQDp) | [لقصيدة](https://open.spotify.com/album/4MKnWb0fyITyObW91NK6Mw) | 7:14 |
 | 30 | [Elwaet Be Yesrana](https://open.spotify.com/track/3mR0AAEN7lMBirfVzWMX9X) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [Wahda Tania Khales](https://open.spotify.com/album/0Rd9A7wKzaUgA51QVFKGOK) | 3:55 |
-| 31 | [Tareky](https://open.spotify.com/track/0AL2x60rT9VG3ATGdRdifP) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/0yZTs6sTGAnSY20P1BYk6E) | 4:20 |
-| 32 | [Leila](https://open.spotify.com/track/33u0Y2MhCf5G2NW1UY3T6A) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Leila](https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4) | 3:23 |
+| 31 | [Leila](https://open.spotify.com/track/33u0Y2MhCf5G2NW1UY3T6A) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Leila](https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4) | 3:23 |
+| 32 | [Tareky](https://open.spotify.com/track/0AL2x60rT9VG3ATGdRdifP) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/0yZTs6sTGAnSY20P1BYk6E) | 4:20 |
 | 33 | [Moghram \| مغرم \- New Cover Song](https://open.spotify.com/track/05AzOjhZyH6LnQs3ny7J20) | [MUSAAB](https://open.spotify.com/artist/7bBssoP1hTW5O0uJ3RGPtn) | [Moghram \| مغرم \- New Cover Song](https://open.spotify.com/album/0m6q1X5SnxuIfA3RH7vMFO) | 2:49 |
 | 34 | [Rawaa Demaghak](https://open.spotify.com/track/2u4B6yk5N8lDUFohQQMOoI) | [Cyrine Abdel Noor](https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG), [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [Rawaa Demaghak](https://open.spotify.com/album/6qvX2uQJ1hXJcIjxR7LfHI) | 3:29 |
 | 35 | [Ya Ghrib](https://open.spotify.com/track/2khKVpcq5xBBFYXD0oNjMz) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 4:14 |

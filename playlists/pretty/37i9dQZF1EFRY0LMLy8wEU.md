@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 36 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 36 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 25 | [Christ And Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/04hFX9fSewa7eBFZ9LtmLW) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 12:52 |
 | 26 | [Christ Has Overcome \- Live](https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Christ Has Overcome \(Live\)](https://open.spotify.com/album/6yNrGP3SoOq7HSfAqIEXSb) | 9:49 |
 | 27 | [Lost In Your Love \- Live](https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:15 |
-| 28 | [Yes Again](https://open.spotify.com/track/2l6bRgJWeWbt3uNDPCRGdk) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/5IKHrXR0XVGtkKgtaNvPks) | 5:58 |
+| 28 | [Yes Again](https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/22RIEnCy5vOAzbMTVNFpKg) | 5:58 |
 | 29 | [Be Glorified \- Live](https://open.spotify.com/track/0a0hccemmo7qMCkxtXQdeg) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 7:26 |
 | 30 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 |
 | 31 | [The Fields Are Ready](https://open.spotify.com/track/0nvTazbNK3MzfTRrGcHAf8) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:10 |
 | 32 | [It Is Written \- Live](https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Women Who Worship \(Live\)](https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9) | 8:04 |
-| 33 | [We Say Yes](https://open.spotify.com/track/41Fkr5t1sCWtgfXiRI525y) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/7fgEWRYDoWFpRvkV0JPWcI) | 6:24 |
+| 33 | [We Say Yes](https://open.spotify.com/track/6OWD4D56Xnpa91Uu0tCIX6) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/6LlVIVnpne75qIbHCAcrpz) | 6:24 |
 | 34 | [Nothing You Can't Do](https://open.spotify.com/track/16ibtW4CG0OdbCuI45cc2B) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Let Us Worship \- Kingdom to the Capitol](https://open.spotify.com/album/5PaeB0wIctrq829QPHekdo) | 5:44 |
 | 35 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
 | 36 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbpmfgAAAADNi5/qUNTJU8ECKff3ctPN`
+Snapshot ID: `AbpsCgAAAAA2kXh36H9/Ourx8/aoFv9D`

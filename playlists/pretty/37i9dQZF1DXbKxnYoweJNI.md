@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: HUSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,396 likes - 121 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,396 likes - 121 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 15 | [需要你陪](https://open.spotify.com/track/5AJZjLcTPz6aogfKK8H5nh) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [需要你陪](https://open.spotify.com/album/4vysaDNfsKNqfQPd9P5J5g) | 3:56 |
 | 16 | [半信半疑 \(feat\. 李欣庭\)](https://open.spotify.com/track/7zQ3e5B9onfirIEeL6Nd0Z) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [李欣庭](https://open.spotify.com/artist/0oUpAcUVbIduFLEpZatuBc) | [半信半疑 \(feat\. 李欣庭\)](https://open.spotify.com/album/57M691lgVQKSGQUuMYH6VV) | 4:58 |
 | 17 | [Around the Clock](https://open.spotify.com/track/738gyI1BljcrDyAnFEaiIu) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV), [BR](https://open.spotify.com/artist/0joqe7twuxCbFs8VwBKs4K) | [Around the Clock](https://open.spotify.com/album/5iYY8synfCU9Q9YQRHLqR5) | 2:30 |
-| 18 | [孤寂淹沒](https://open.spotify.com/track/2JnPmfQwAHx7S8KJeDzuHJ) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [3小湯](https://open.spotify.com/artist/1S5ZFhorzcVt7K6sOfBv9J) | [孤寂淹沒](https://open.spotify.com/album/6KlKhP6amNmYojIPjBAsmW) | 3:26 |
+| 18 | [孤寂淹沒](https://open.spotify.com/track/2JnPmfQwAHx7S8KJeDzuHJ) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [3小湯](https://open.spotify.com/artist/1S5ZFhorzcVt7K6sOfBv9J) | [孤寂淹沒](https://open.spotify.com/album/6KlKhP6amNmYojIPjBAsmW) | 4:29 |
 | 19 | [絲路](https://open.spotify.com/track/5OLERNfZOzj0UFICFYKlBW) | [影子計劃 Shadow Project](https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL), [Ye!!ow](https://open.spotify.com/artist/5gWfIE7aVgxHRSipGHXDRw), [Ginjin](https://open.spotify.com/artist/4RFxxqDxfZLkxQlcqFIjeZ) | [絲路](https://open.spotify.com/album/6P95QJVbgsF6PFabugeXIY) | 3:31 |
 | 20 | [悠悠玉桂狗 Cinamoyoyo](https://open.spotify.com/track/1K5sEBppVAlS0hpFq1p5hm) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [悠悠玉桂狗 Cinamoyoyo](https://open.spotify.com/album/5A9nydrfx0nW2PC1xGoA3l) | 2:12 |
 | 21 | [揮霍](https://open.spotify.com/track/6a8IgyzjIATevz68Vhcu9B) | [PASH](https://open.spotify.com/artist/4Ng91ATIEnKSkt86WLh6wo) | [揮霍](https://open.spotify.com/album/5MMpATpXPGhrD3v7UIWbQX) | 1:37 |

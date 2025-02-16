@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 48 min
+81 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 | 2023-11-10 |  |
 | [Pétalos](https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:41 | 2023-11-10 |  |
 | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/album/7skavgAUpwqlVd1svrsOZI) | 3:14 | 2024-10-27 | 2025-01-08 |
-| [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 | 2024-10-19 |  |
+| [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 | 2025-02-16 |  |
+| [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 | 2024-10-19 | 2025-02-16 |
 | [Si Nunca Va a Amanecer](https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:33 | 2023-11-10 |  |
 | [Si Tú Te Vas](https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Si Tú Te Vas](https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV) | 3:29 | 2023-11-10 |  |
 | [Siguele](https://open.spotify.com/track/4qbHgYxL96v8ulUWlY7YVW) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Dr\. Bene](https://open.spotify.com/artist/21VgYxAlrfp0QKBgxmQE5p), [Jeff Turner Musik](https://open.spotify.com/artist/5M7sRhqfcu6miizd5uGlWj), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 4:31 | 2023-12-13 | 2024-03-14 |

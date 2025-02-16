@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,259 likes - 83 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,251 likes - 83 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 56 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 57 | [Sunshine](https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Sunshine](https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB) | 2:32 |
 | 58 | [Madonna](https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [Madonna](https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp) | 3:55 |
-| 59 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
-| 60 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 59 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 60 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
 | 61 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 62 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
 | 63 | [UPSET](https://open.spotify.com/track/3OvCdQoVIWmW4NUbayrBKD) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [i wish we didn't..](https://open.spotify.com/album/69ajOGCWOvtpvM2oSHuaoO) | 1:43 |
-| 64 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
-| 65 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
+| 64 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
+| 65 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
 | 66 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
 | 67 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
 | 68 | [T.X.C.](https://open.spotify.com/track/0ybTysZ1qJTtDPlwmBlVSA) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Imani](https://open.spotify.com/album/6nHwUkyiI7jTSbFn8CujXW) | 2:26 |

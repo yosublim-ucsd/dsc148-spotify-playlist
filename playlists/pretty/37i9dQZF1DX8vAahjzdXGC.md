@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,896 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,987 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 11 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
 | 12 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 |
 | 13 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 |
-| 14 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [PERJUMPAAN](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
+| 14 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 |
 | 15 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 |
 | 16 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 |
 | 17 | [High Alone](https://open.spotify.com/track/2YuGT66twMIc52dUKHUi3c) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [High Alone](https://open.spotify.com/album/1hMH4Fc48tr5MtNRzX7xXi) | 3:15 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [CANDY GUM](https://open.spotify.com/track/4JWPHzfChXRSPMbo0s4ZPl) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [CANDY GUM](https://open.spotify.com/album/5Fq5BisVEmrXUH8C0BZOpP) | 2:49 |
 | 60 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 |
 | 61 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:09 |
-| 62 | [Fantasi Rasa](https://open.spotify.com/track/5jL6E9CxT9ZDYDLbrOdcVb) | [Prazteguh](https://open.spotify.com/artist/5oSvp7bbtsnI4bmpYf8OYM), [Ayiqorry](https://open.spotify.com/artist/1ybRKXb2PLyNb2FnH4Qz0W) | [Fantasi Rasa](https://open.spotify.com/album/7aSRp7IkbdmO6pXPYSIYgU) | 4:34 |
+| 62 | [Fantasi Rasa](https://open.spotify.com/track/5jL6E9CxT9ZDYDLbrOdcVb) | [Praz Teguh](https://open.spotify.com/artist/6ERIHF4o8coTtg2dVlTIoC), [Ayiqorry](https://open.spotify.com/artist/1ybRKXb2PLyNb2FnH4Qz0W) | [Fantasi Rasa](https://open.spotify.com/album/7aSRp7IkbdmO6pXPYSIYgU) | 4:34 |
 | 63 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 |
 | 64 | [MARAH\-MARAH](https://open.spotify.com/track/3ErD6aQGZYhN2BJqCBNMqw) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [MARAH\-MARAH](https://open.spotify.com/album/3tfnS60OXqXWxRj8GCq0SF) | 3:47 |
 | 65 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 |
 | 66 | [Mantra Andalan](https://open.spotify.com/track/2UdpmtilewzX1QdoGDETfc) | [RCKA](https://open.spotify.com/artist/3p3IOzDKc7nqhEKQBcHiEZ) | [Book One : The Good Mantra](https://open.spotify.com/album/52G6P3T49TbHyflVCzD6CL) | 4:17 |
 | 67 | [Dingin](https://open.spotify.com/track/2lvwzTXOtBvvam0h3T8mZV) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Dingin](https://open.spotify.com/album/4OiLWFuoJYtN9pEFOWnHlA) | 4:16 |
-| 68 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/7wxtnHmdQcTR0kw3BDNOn5) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
+| 68 | [Ruang Dan Waktu](https://open.spotify.com/track/3SaMsDeo6O2FvYeVgAayIt) | [Riskur](https://open.spotify.com/artist/1iEMip3NtCRMWr462uZgdP) | [Ruang Dan Waktu](https://open.spotify.com/album/4nFmW56QETZI8zS7SAKsW1) | 4:26 |
 | 69 | [Campfire](https://open.spotify.com/track/6ESZivUp2Tp5uNyuffnMRk) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Campfire](https://open.spotify.com/album/3TRhJfsSgsvZseDYfrRfVD) | 3:17 |
 | 70 | [Guess So](https://open.spotify.com/track/19WpUSR2e3FXVOnO6kDSzf) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Guess So](https://open.spotify.com/album/28InhKTxfiyNUKP3dDIlDE) | 2:36 |
 | 71 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 124 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 |
 | 125 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 |
 
-Snapshot ID: `Z67N/gAAAABvhsT+4rAc7HZk6DmldkBE`
+Snapshot ID: `Z67N/gAAAABU4oa2xE5EbqSeXPEvmcVt`

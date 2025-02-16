@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,754 songs - 3 day 19 hr 1 min
+1,755 songs - 3 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,7 +1173,7 @@
 | [Parasit](https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [Parasit](https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O) | 2:31 | 2024-08-29 | 2024-09-20 |
 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-01-23 |  |
 | [Parking Lot Sunset](https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun) | 3:33 | 2024-04-11 | 2024-05-10 |
-| [Passivt aggressiv inkomst](https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf), [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Passivt aggressiv inkomst](https://open.spotify.com/album/11cpm6ipDpqikocjJcFYBf) | 2:39 | 2024-11-14 |  |
+| [Passivt aggressiv inkomst](https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf), [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Passivt aggressiv inkomst](https://open.spotify.com/album/11cpm6ipDpqikocjJcFYBf) | 2:39 | 2024-11-14 | 2025-02-16 |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
 | [Peace and Quiet](https://open.spotify.com/track/5PEGMGEcDvFM3dEZVIKw51) | [Flux Vortex](https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H) | [Peace and Quiet](https://open.spotify.com/album/5FQuCiGSXHB9TpVg9sgJSB) | 3:20 | 2024-10-24 | 2024-11-12 |
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
@@ -1253,6 +1253,7 @@
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 | 2023-10-06 |
 | [Rymden och tillbaks](https://open.spotify.com/track/3T66ZaObDiVo0XJxLqXoyY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Rymden och tillbaks \(Space Invades My Mind\)](https://open.spotify.com/album/7qqzQse7Mkex7RT9FrtNF3) | 2:53 | 2022-11-04 | 2022-11-18 |
 | [Räcker inte till](https://open.spotify.com/track/1EnVmW3xvHCaVdAeQSJ66N) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Räcker inte till](https://open.spotify.com/album/49alYLq0APO2gfbr8FrjzF) | 3:46 | 2024-04-11 | 2024-05-17 |
+| [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 |  |
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-12-16 | 2022-09-16 |
 | [Räkna med dig](https://open.spotify.com/track/42EFV6HMyikQOtfJ48KbaP) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Räkna med dig](https://open.spotify.com/album/1Z2i0hT2CYxeHWDl0Xj4WB) | 3:19 | 2024-04-04 | 2024-05-10 |
 | [Räkna Med Mig](https://open.spotify.com/track/3JAAD4IQTmOYXnVQnegTvV) | [Pidde P](https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS) | [Räkna Med Mig](https://open.spotify.com/album/0x9hAJGCU47kTN9kGYVouQ) | 2:19 | 2024-03-14 | 2024-04-07 |

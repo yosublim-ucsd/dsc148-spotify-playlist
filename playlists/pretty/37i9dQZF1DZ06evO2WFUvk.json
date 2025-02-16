@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAAZbN3FM9BUX8or+U4UaB5q",
+  "snapshot_id": "Z66HgAAAAADRpdRZq1mPucsIpIW/JiUz",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 323301,
-      "name": "Samambaila - Original Mix",
-      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPACE BLANK - TECH HOUSE",
         "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
       },
@@ -475,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get In",
-        "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
       },
       "artists": [
-        {
-          "name": "Mekane",
-          "url": "https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx"
-        },
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 390236,
-      "name": "Get In - Bass In A Box Remix",
-      "url": "https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM"
+      "duration_ms": 323301,
+      "name": "Samambaila - Original Mix",
+      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

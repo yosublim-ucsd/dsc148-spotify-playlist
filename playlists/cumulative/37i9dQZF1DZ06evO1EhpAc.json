@@ -71,6 +71,36 @@
     },
     {
       "album": {
+        "name": "Believe In Ya (Max Tundra Remix)",
+        "url": "https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6"
+      },
+      "artists": [
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284411,
+      "name": "Believe In Ya (Max Tundra Remix)",
+      "url": "https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo"
+    },
+    {
+      "album": {
         "name": "booboo",
         "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
       },

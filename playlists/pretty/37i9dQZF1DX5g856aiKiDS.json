@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 499812,
+  "num_followers": 499916,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 243785,
+      "name": "Rain Song (Feat. Colde)",
+      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 227973,
       "name": "Only U (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 243785,
-      "name": "Rain Song (Feat. Colde)",
-      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
     },
     {
       "added_at": "2025-02-06 08:02:11",

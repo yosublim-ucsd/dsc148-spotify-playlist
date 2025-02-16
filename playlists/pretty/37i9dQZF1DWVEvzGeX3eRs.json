@@ -1,6 +1,6 @@
 {
   "description": "in the mood for love.",
-  "num_followers": 2620858,
+  "num_followers": 2621385,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Keith Sweat",
         "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
       },
@@ -97,20 +81,20 @@
       "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
     },
     {
-      "added_at": "2025-01-23 21:05:21",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Meant To Be Mint",
-        "url": "https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr"
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
       },
       "artists": [
         {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
         }
       ],
-      "duration_ms": 356960,
-      "name": "Breakin' My Heart (Pretty Brown Eyes)",
-      "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -127,6 +111,22 @@
       "duration_ms": 252266,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
+    },
+    {
+      "added_at": "2025-01-23 21:05:21",
+      "album": {
+        "name": "Meant To Be Mint",
+        "url": "https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr"
+      },
+      "artists": [
+        {
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+        }
+      ],
+      "duration_ms": 356960,
+      "name": "Breakin' My Heart (Pretty Brown Eyes)",
+      "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-01-23 21:05:21",
       "album": {
+        "name": "The Best of Tevin Campbell",
+        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
+    },
+    {
+      "added_at": "2025-01-23 21:05:21",
+      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 296266,
       "name": "Every Time I Close My Eyes (with Kenny G)",
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
-    },
-    {
-      "added_at": "2025-01-23 21:05:21",
-      "album": {
-        "name": "The Best of Tevin Campbell",
-        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        }
-      ],
-      "duration_ms": 284586,
-      "name": "Can We Talk",
-      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
     },
     {
+      "added_at": "2025-01-23 21:05:21",
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 307106,
+      "name": "Share My World",
+      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "The Deele: Greatest Hits",
@@ -539,22 +555,6 @@
       "duration_ms": 393733,
       "name": "Other Side Of The Game",
       "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2025-01-23 21:05:21",
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 307106,
-      "name": "Share My World",
-      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -701,20 +701,24 @@
       "url": "https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2025-01-23 21:05:21",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+        "name": "The Best of Luther Vandross The Best of Love",
+        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+      "duration_ms": 323960,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -739,6 +743,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "The Show, The After Party, The Hotel",
         "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
@@ -751,6 +771,22 @@
       "duration_ms": 290066,
       "name": "Love U 4 Life",
       "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -771,22 +807,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "A Jagged Era",
-        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "I Gotta Be",
-      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
@@ -799,22 +819,6 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
-    },
-    {
-      "added_at": "2025-01-23 21:05:21",
-      "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
-      },
-      "artists": [
-        {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
-        }
-      ],
-      "duration_ms": 376840,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/6KbwCku0kfegSak3qJYDlh"
     },
     {
       "added_at": "2025-01-23 21:05:21",

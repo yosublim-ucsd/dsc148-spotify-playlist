@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,931 likes - 189 songs - 17 hr 46 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,937 likes - 189 songs - 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 51 | [Faithfulness \- Live](https://open.spotify.com/track/4HKVvWjzrust3gZdmBIKtH) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Jami Garcia](https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz) | [Faithfulness \(Live\)](https://open.spotify.com/album/5uvZlD9VF54UMDsKn8wTAW) | 4:46 |
 | 52 | [Still Do Miracles](https://open.spotify.com/track/1qvCgYSG77jqsZmHOjeF3n) | [Engedi Music](https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V), [Anthony Stallion](https://open.spotify.com/artist/0itRB2H80G6Hq3mIjLE5mE) | [Still Do Miracles](https://open.spotify.com/album/0e7YFfa7APXLfoVJEihwSW) | 6:33 |
 | 53 | [Made To Praise](https://open.spotify.com/track/0AXqPIUMx7wFZz0Esue59L) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Made To Praise](https://open.spotify.com/album/174rHF4jdbx9pHfMTf6KZ5) | 2:37 |
-| 54 | [Approach, My Soul \- Live](https://open.spotify.com/track/2nu5HBCBD1CKFm1C1WfBWc) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Approach, My Soul \(Live\)](https://open.spotify.com/album/0BVakc8Mop6j54yEX97OTF) | 3:52 |
+| 54 | [Approach, My Soul \- Live](https://open.spotify.com/track/2nu5HBCBD1CKFm1C1WfBWc) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Approach, My Soul \(Live\)](https://open.spotify.com/album/0BVakc8Mop6j54yEX97OTF) | 3:52 |
 | 55 | [If it wasn't for Jesus \- from the studio](https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus \(from the studio\)](https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo) | 4:02 |
 | 56 | [Interlude \(Mariah’s Song\) \- Live](https://open.spotify.com/track/35xkFr2oTAWn8dBQo4rJn5) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Out Of Our Minds \(Live at Mosaic Conference\)](https://open.spotify.com/album/6Ey16V1Exb9yjahNIRxxiA) | 3:06 |
 | 57 | [Trust in God](https://open.spotify.com/track/2tpufHSY8pS6Nd5ZHvrKMc) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Worship Solutions Volume One](https://open.spotify.com/album/3xc5XEtIclZI3KaAn2VbiS) | 6:03 |

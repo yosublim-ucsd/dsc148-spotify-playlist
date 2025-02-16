@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 34961,
+  "num_followers": 34987,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0KvSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0QDIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Vino s\u0103 te f",
         "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
@@ -41,63 +57,7 @@
       "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "ANGELINA JOLIE",
-        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
-      },
-      "artists": [
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "ANGELINA JOLIE",
-      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Baklava",
-        "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        },
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Baklava",
-      "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Anglia",
         "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
@@ -113,7 +73,7 @@
       "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
@@ -133,7 +93,67 @@
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "M\u0102 DOARE",
+        "url": "https://open.spotify.com/album/6aI8mVuYkqEfh76krXODFN"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "M\u0102 DOARE",
+      "url": "https://open.spotify.com/track/0HJNRP5Kuwx8SW3kxHhXbJ"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "ANGELINA JOLIE",
+        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "ANGELINA JOLIE",
+      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb"
@@ -153,55 +173,27 @@
       "url": "https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+        "name": "Baklava",
+        "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Vreau",
-        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
-      },
-      "artists": [
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        },
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Vreau",
-      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
+      "duration_ms": 144800,
+      "name": "Baklava",
+      "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "NUMAI FEMEI",
-        "url": "https://open.spotify.com/album/4rlHboi2MwBCUXhakiGshB"
-      },
-      "artists": [
-        {
-          "name": "Adrian Norocel",
-          "url": "https://open.spotify.com/artist/07iLLfYlRMf49LJvRu85cD"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "NUMAI FEMEI",
-      "url": "https://open.spotify.com/track/3yLZ0xg3XoEwnl773q9Ymc"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Alo, mama",
         "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
@@ -221,43 +213,7 @@
       "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Cateodata",
-      "url": "https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (feat Playboi Carti)",
-      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -277,7 +233,39 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "NUMAI FEMEI",
+        "url": "https://open.spotify.com/album/4rlHboi2MwBCUXhakiGshB"
+      },
+      "artists": [
+        {
+          "name": "Adrian Norocel",
+          "url": "https://open.spotify.com/artist/07iLLfYlRMf49LJvRu85cD"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "NUMAI FEMEI",
+      "url": "https://open.spotify.com/track/3yLZ0xg3XoEwnl773q9Ymc"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Vreau",
+        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Vreau",
+      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -286,58 +274,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Vin Sa Te Fur",
-        "url": "https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8"
-      },
-      "artists": [
-        {
-          "name": "Luis Gabriel",
-          "url": "https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg"
-        },
-        {
-          "name": "Haziran",
-          "url": "https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL"
-        }
-      ],
-      "duration_ms": 187959,
-      "name": "Vin Sa Te Fur",
-      "url": "https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Jenifer buci de fier",
         "url": "https://open.spotify.com/album/3rLWJ7cgo4moVie8cNs2ME"
@@ -353,111 +297,23 @@
       "url": "https://open.spotify.com/track/40GLYWLoMFhkuoDImEwHm4"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "Hai sa ne iubim ca nemtii",
-        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
         }
       ],
-      "duration_ms": 150239,
-      "name": "Hai sa ne iubim ca nemtii",
-      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
+      "duration_ms": 159360,
+      "name": "Cateodata",
+      "url": "https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Diss Music Romania",
-        "url": "https://open.spotify.com/album/1ld2jfbnBARO7rpxIjUCE7"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Diss Music Romania",
-      "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Sper Ca Esti Bine",
-      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Yali, Yali",
         "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
@@ -477,46 +333,70 @@
       "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
       "artists": [
         {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "REGINA",
-        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 138666,
-      "name": "REGINA",
-      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "El chapo",
-        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Diss Music Romania",
+        "url": "https://open.spotify.com/album/1ld2jfbnBARO7rpxIjUCE7"
       },
       "artists": [
         {
@@ -524,32 +404,12 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 166760,
-      "name": "El chapo",
-      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
+      "duration_ms": 145040,
+      "name": "Diss Music Romania",
+      "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Rusia",
         "url": "https://open.spotify.com/album/67KumuWCArJUDzdqYaHBTB"
@@ -565,98 +425,66 @@
       "url": "https://open.spotify.com/track/3pFcK6taoEkjfirkJWaTv7"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Merhaba (Stil Turcesc)",
-        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
-      },
-      "artists": [
-        {
-          "name": "Denis Ramniceanu",
-          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Merhaba (Stil Turcesc)",
-      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "Sugar Daddy",
-        "url": "https://open.spotify.com/album/4RjOxC32suZlf1ajszXewJ"
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
       },
       "artists": [
         {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Te v\u0103d \u00een trecut",
+        "url": "https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Sugar Daddy",
-      "url": "https://open.spotify.com/track/7fuZr7YvNC22Ld6FjOMfXy"
+      "duration_ms": 232258,
+      "name": "Te v\u0103d \u00een trecut",
+      "url": "https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "BETO DANCE",
-        "url": "https://open.spotify.com/album/1zt9pCnOKR6LGeu7aS3wHp"
-      },
-      "artists": [
-        {
-          "name": "AlbertNbn",
-          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "BETO DANCE",
-      "url": "https://open.spotify.com/track/3U2UZLISDB6TjZyOQbASIg"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
-        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
-      },
-      "artists": [
-        {
-          "name": "Theo Rose",
-          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
-        }
-      ],
-      "duration_ms": 144303,
-      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
-      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+        "name": "El chapo",
+        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
       },
       "artists": [
         {
@@ -664,12 +492,48 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+      "duration_ms": 166760,
+      "name": "El chapo",
+      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Vin Sa Te Fur",
+        "url": "https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg"
+        },
+        {
+          "name": "Haziran",
+          "url": "https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "Vin Sa Te Fur",
+      "url": "https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Hai sa ne iubim ca nemtii",
+        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 150239,
+      "name": "Hai sa ne iubim ca nemtii",
+      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "Zi-mi cine",
         "url": "https://open.spotify.com/album/6L97ViVxuQrKFtFFnLwBWV"
@@ -689,7 +553,167 @@
       "url": "https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "REGINA",
+        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "REGINA",
+      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
+      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "BETO DANCE",
+        "url": "https://open.spotify.com/album/1zt9pCnOKR6LGeu7aS3wHp"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "BETO DANCE",
+      "url": "https://open.spotify.com/track/3U2UZLISDB6TjZyOQbASIg"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/4RjOxC32suZlf1ajszXewJ"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/7fuZr7YvNC22Ld6FjOMfXy"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -705,175 +729,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "Artileria",
-        "url": "https://open.spotify.com/album/6N0s0whEgNwhgplpFl8IvZ"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 144927,
-      "name": "Artileria",
-      "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Amo, Amo",
-        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 147477,
-      "name": "Amo, Amo",
-      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "squabble up",
-      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        }
-      ],
-      "duration_ms": 188399,
-      "name": "Slow Dance (feat. Sofia Carson)",
-      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Cine N-a Gresit Vreodata",
-        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 198837,
-      "name": "Cine N-a Gresit Vreodata",
-      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Te vreau",
-        "url": "https://open.spotify.com/album/6ZNZZIjkFNiIv3xGWyCjDR"
-      },
-      "artists": [
-        {
-          "name": "Lele",
-          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
-        },
-        {
-          "name": "Narcisa",
-          "url": "https://open.spotify.com/artist/74orozagOAzYG0QOWrl4WV"
-        },
-        {
-          "name": "Manele VTM",
-          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
-        }
-      ],
-      "duration_ms": 210663,
-      "name": "Prin\u021besa \u0219i l\u0103utarul",
-      "url": "https://open.spotify.com/track/4RF66Ss3CGZWdpM9IImm2v"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "COMBINA\u021aII",
-        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "COMBINA\u021aII",
-      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "No Pole",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
-      "album": {
-        "name": "Scrum",
-        "url": "https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "Dhali",
-          "url": "https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Scrum",
-      "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
-    },
-    {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
         "name": "P\u0103i naa",
         "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
@@ -893,20 +765,148 @@
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
-      "added_at": "2025-02-14 12:49:08",
+      "added_at": "2025-02-15 13:15:25",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Merhaba (Stil Turcesc)",
+        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+      "duration_ms": 154960,
+      "name": "Merhaba (Stil Turcesc)",
+      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Turbo Orange",
+        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Turbo Orange",
+      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Dema Mamo",
+        "url": "https://open.spotify.com/album/1HHBkFLXObPJTj2Zg4zDP3"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 182791,
+      "name": "Dema Mamo",
+      "url": "https://open.spotify.com/track/7lykVoeRhArAOLcLSV6xWP"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Artileria",
+        "url": "https://open.spotify.com/album/6N0s0whEgNwhgplpFl8IvZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ],
+      "duration_ms": 144927,
+      "name": "Artileria",
+      "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Amo, Amo",
+        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 147477,
+      "name": "Amo, Amo",
+      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Cine N-a Gresit Vreodata",
+        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 198837,
+      "name": "Cine N-a Gresit Vreodata",
+      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "Romeo si Julieta",
+        "url": "https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "Romeo si Julieta",
+      "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
+    },
+    {
+      "added_at": "2025-02-15 13:15:25",
+      "album": {
+        "name": "COMBINA\u021aII",
+        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "COMBINA\u021aII",
+      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
     }
   ],
   "unique_name": "Top 50 - Romania",

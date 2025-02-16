@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: tibia
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,468 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,471 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 64 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 |
 | 65 | [Fake Scenarios / Jesus FOMO](https://open.spotify.com/track/1xK3663nemwOz7MYLrBqys) | [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [Fake Scenarios / Jesus FOMO](https://open.spotify.com/album/0yFeE2xcCdjEFNFqDjolLG) | 3:16 |
 | 66 | [Meant For Two](https://open.spotify.com/track/1KsAHz3g6CyMh7xMWR7zOH) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Meant For Two](https://open.spotify.com/album/668uSPmsbIPfQ3g9VpbMjE) | 3:24 |
-| 67 | [Cold And Dusty](https://open.spotify.com/track/2LZPgyXlQXN3Pap27Sfbhi) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Cold And Dusty](https://open.spotify.com/album/1GvJ6PoVwnMHAIf8WeQThU) | 3:14 |
+| 67 | [Cold & Dusty](https://open.spotify.com/track/2LZPgyXlQXN3Pap27Sfbhi) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Cold & Dusty](https://open.spotify.com/album/1GvJ6PoVwnMHAIf8WeQThU) | 3:14 |
 | 68 | [Clarity](https://open.spotify.com/track/5tzDSCIB1JgThPN2p6ARNo) | [Stéphanie Turcotte](https://open.spotify.com/artist/59FMLidQDQ3XCzAC2nXnDl) | [Clarity](https://open.spotify.com/album/5vM2fgAsd3qY4QOBt7ExjI) | 3:17 |
 | 69 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 |
 | 70 | [Power Loving](https://open.spotify.com/track/4XRlblc9aRPUhFTbxLNDAo) | [MaVe](https://open.spotify.com/artist/1Jdl2CQ7mjVPPcTjkdpWrn) | [Power Loving](https://open.spotify.com/album/1Sg6nPm5MzpQaKPjP5Eb1x) | 3:42 |

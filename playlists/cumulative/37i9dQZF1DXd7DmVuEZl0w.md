@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-152 songs - 8 hr 5 min
+153 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Moshtaklak Ya Nabena](https://open.spotify.com/track/3RIOph6Cak24lqo3E4Xn7x) | [Ahmed Hamdy](https://open.spotify.com/artist/7rwf98k7PayJKQCzFpm0xD) | [Ya Rasoul Allah](https://open.spotify.com/album/008HEgbo9fydgwkr7krc2W) | 3:26 | 2025-01-28 |  |
 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-04-08 | 2025-01-29 |
 | [O Mohammad](https://open.spotify.com/track/1a84hW3AL3EGzPyJfEj74g) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K) | [O Mohammad](https://open.spotify.com/album/76E8vJSZzB8dsC9Q0umrzR) | 3:46 | 2024-03-11 |  |
+| [Qadeer Rabana](https://open.spotify.com/track/42IiWlpfntw14Axb4MM7nW) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Qadeer Rabana](https://open.spotify.com/album/6v5Os5pIFQojhbK3WTUq47) | 1:23 | 2025-01-28 |  |
 | [Qamarun](https://open.spotify.com/track/22mb6VzmAQZwnw2vIHENtp) | [Mustafa Atef](https://open.spotify.com/artist/3KppqB00GrdzA2KlVwHueL) | [Qamarun](https://open.spotify.com/album/2peZ4q3R0pvwRLhx7co5nF) | 4:10 | 2024-03-11 |  |
 | [Rahman W Raheem](https://open.spotify.com/track/5umn164iPgwAJyYICjliDS) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Rahman W Raheem](https://open.spotify.com/album/2jiAWcfvBTcW1a4AyYLnCw) | 4:06 | 2024-03-11 |  |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2024-03-11 |  |
@@ -150,7 +151,7 @@
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-04-08 | 2025-01-29 |
 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2024-04-08 | 2024-04-19 |
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2024-04-10 | 2025-01-29 |
-| [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 |  |
+| [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 | 2025-02-16 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/5PTcKJsd0jFJtSf5GhE6IF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة](https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn) | 2:47 | 2024-04-08 | 2025-01-29 |
 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 | 2024-03-11 |  |
 | [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 | 2024-04-08 | 2024-04-19 |

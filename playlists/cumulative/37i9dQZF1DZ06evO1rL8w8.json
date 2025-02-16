@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 162560,
       "name": "Borracho Y Escandaloso",
       "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
@@ -612,6 +612,24 @@
       "duration_ms": 147506,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Fiesta En La Playa",
+      "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 361021,
+  "num_followers": 361068,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
-        "name": "Back 2 Me (feat. Sadie Walker)",
-        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
-        }
-      ],
-      "duration_ms": 253221,
-      "name": "Back 2 Me (feat. Sadie Walker)",
-      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
       },
       "artists": [
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2025-01-24 00:00:27",

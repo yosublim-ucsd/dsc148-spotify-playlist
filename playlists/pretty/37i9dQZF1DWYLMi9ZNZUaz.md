@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,215 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,255 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 36 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 37 | [NGÂN](https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 2:38 |
 | 38 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 |
-| 39 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
+| 39 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 40 | [Mời Em](https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:23 |
 | 41 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
-| 42 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
+| 42 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 43 | [Hai đứa nhóc](https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Hai đứa nhóc](https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70) | 3:35 |
 | 44 | [Đổi Tư Thế](https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Đổi Tư Thế](https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl) | 3:47 |
 | 45 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 |
 | 48 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
 | 49 | [Cứu Lấy Âm Nhạc](https://open.spotify.com/track/229P16G6GFOCDUNiUNusc4) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Cứu Lấy Âm Nhạc](https://open.spotify.com/album/3starTMIbNsFpGCLQtGESr) | 3:03 |
-| 50 | [SAIGON INK](https://open.spotify.com/track/0yVkVcxstlj8TpDJ2ze7Ve) | [SGI ARTISTS](https://open.spotify.com/artist/5jm2yhY6GH3IksLtJdaFLS) | [SAIGON INK](https://open.spotify.com/album/4CDdy0w7HVikpjM8pclwDy) | 3:22 |
+| 50 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 |
 
-Snapshot ID: `Z66tdAAAAAA7wB0IzZeMWESFzYuRFZER`
+Snapshot ID: `Z7AHFAAAAAB/fhxCC57X6b3XeqFv6FvW`

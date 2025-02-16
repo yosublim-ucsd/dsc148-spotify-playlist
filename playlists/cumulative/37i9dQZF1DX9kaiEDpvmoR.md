@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-293 songs - 16 hr 43 min
+294 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 |  |
+| [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 |  |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 |  |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 |  |
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2025-01-10 |
@@ -258,7 +259,7 @@
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 |  |
 | [True Romantic](https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [True Romantic](https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
-| [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 |  |
+| [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-02-16 |
 | [Vad Dom Sa](https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Vad Dom Sa](https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe) | 2:47 | 2024-09-26 | 2025-01-10 |
 | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h) | 3:00 | 2024-10-10 | 2025-01-30 |
 | [Valet](https://open.spotify.com/track/0RrUetfG2Msa9FNaP4IWAj) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 5:35 | 2024-08-29 | 2024-10-28 |

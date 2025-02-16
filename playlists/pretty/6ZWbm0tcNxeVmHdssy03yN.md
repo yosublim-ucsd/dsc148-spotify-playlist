@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,156 likes - 100 songs - 4 hr 59 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,149 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 13 | [THREE65](https://open.spotify.com/track/5RbkBuNZtqYbD1aCWHZaJD) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [THREE65](https://open.spotify.com/album/43nJ3B8pcxHkQcOI8Ocq1R) | 2:31 |
 | 14 | [Red Garden](https://open.spotify.com/track/32tK0hci0Mfi3XmNDWLedd) | [Southey](https://open.spotify.com/artist/6Lgj14UUAFQTnRFATVYS91) | [Red Garden](https://open.spotify.com/album/571qxTcO4pOaj21MgGZGF1) | 2:28 |
 | 15 | [October](https://open.spotify.com/track/62qbugxX4ojXouTuC5DAak) | [LAYESH](https://open.spotify.com/artist/2McUnocZYO2ub0J07H8Fpf), [Heni](https://open.spotify.com/artist/5DA9XAtp2mrX5v1uWsk136) | [October](https://open.spotify.com/album/0rLso8odEm3XuJ7P3lm7FT) | 3:20 |
-| 16 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:38 |
+| 16 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:40 |
 | 17 | [Sea Of Love](https://open.spotify.com/track/5uITpyKUwmmM1VlnMG51Wo) | [Tejavu](https://open.spotify.com/artist/78TJOEvG9nm4Mp5WbC8aPI) | [Sea Of Love](https://open.spotify.com/album/4C5lRhL8sBT5htAnXVIIUj) | 5:04 |
 | 18 | [WOT U EAT \(Feat\. JAB\)](https://open.spotify.com/track/3D8BVTdEbHlxNw6SXDdAz5) | [Kenzi](https://open.spotify.com/artist/1k9u7JugmvWXhT8AFk5MgS), [Jab](https://open.spotify.com/artist/6BXPRG7b0r9B5pODIVi1oy) | [WOT U EAT](https://open.spotify.com/album/3AZqN661DcuuNRAUADwyGW) | 2:41 |
 | 19 | [OtherKidz](https://open.spotify.com/track/6pzEvBP59bC41EaACE4tK5) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [OtherKidz](https://open.spotify.com/album/6eyCQ5mvmOuCeHbY5K5BgY) | 2:08 |

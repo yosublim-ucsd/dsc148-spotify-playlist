@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 177642,
+  "num_followers": 177685,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Te Agrade\u00e7o",
         "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 157384,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 187950,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 171428,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "O Deus Que Te V\u00ea",
-        "url": "https://open.spotify.com/album/4Ln5JzC809CJzMXv3zGmyF"
-      },
-      "artists": [
-        {
-          "name": "Luna Garcez",
-          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "O Deus Que Te V\u00ea",
-      "url": "https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "B\u00edblia no Jeans",
         "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 138591,
       "name": "B\u00edblia no Jeans",
       "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "O Deus Que Te V\u00ea",
+        "url": "https://open.spotify.com/album/4Ln5JzC809CJzMXv3zGmyF"
+      },
+      "artists": [
+        {
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "O Deus Que Te V\u00ea",
+      "url": "https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1491,18 +1491,26 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "\"23\"",
-        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
+        "name": "Bom Filho",
+        "url": "https://open.spotify.com/album/2wXWvVENP2QkGe2Dh77DWJ"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "Victor Lucass",
+          "url": "https://open.spotify.com/artist/62fvNS9LwWUINTSzvJO5a6"
+        },
+        {
+          "name": "Blackkgus",
+          "url": "https://open.spotify.com/artist/5Vq6rJhiyv3zqiCPPY61TG"
         }
       ],
-      "duration_ms": 132653,
-      "name": "\"23\"",
-      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
+      "duration_ms": 206564,
+      "name": "Bom Filho",
+      "url": "https://open.spotify.com/track/67ygE3MZD0moqgzQBpz5Wa"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1531,26 +1539,18 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Bom Filho",
-        "url": "https://open.spotify.com/album/2wXWvVENP2QkGe2Dh77DWJ"
+        "name": "\"23\"",
+        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
       },
       "artists": [
         {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
-        },
-        {
-          "name": "Victor Lucass",
-          "url": "https://open.spotify.com/artist/62fvNS9LwWUINTSzvJO5a6"
-        },
-        {
-          "name": "Blackkgus",
-          "url": "https://open.spotify.com/artist/5Vq6rJhiyv3zqiCPPY61TG"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 206564,
-      "name": "Bom Filho",
-      "url": "https://open.spotify.com/track/67ygE3MZD0moqgzQBpz5Wa"
+      "duration_ms": 132653,
+      "name": "\"23\"",
+      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Umbral",
         "url": "https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 169019,
       "name": "Umbral",
       "url": "https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2025-02-14 03:01:19",

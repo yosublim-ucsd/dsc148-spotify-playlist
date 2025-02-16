@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,689 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,701 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleepy Mindset](https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w) | [Julia Park](https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS) | [ASMR Sleep Relaxation Meditation](https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL) | 3:49 |
-| 2 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 |
-| 3 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
-| 4 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
+| 2 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
+| 3 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 |
+| 4 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
 | 5 | [Nase](https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0) | [Pelagea ASMR](https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR) | [Insanely Breathy Trigger Words](https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa) | 2:01 |
 | 6 | [Reassuring Whispers Asmr](https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 3:46 |
 | 7 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,853 likes - 107 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,863 likes - 107 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 18 | [In My Mood.](https://open.spotify.com/track/1D9Tk2VXudZHNs9gCEkHUx) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [In My Mood.](https://open.spotify.com/album/31xITzr7PCUAAyhp0KmOvm) | 2:13 |
 | 19 | [sync \(feat\. PM Kenobi\)](https://open.spotify.com/track/6PTkla9gRbiyVUF3Hn4jcf) | [日本猿](https://open.spotify.com/artist/2iSogZBel5MRLfXjfWhRrL), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [PM Kenobi](https://open.spotify.com/artist/4UKQgh3XTopmXatJChUMHL) | [sync \(feat\. PM Kenobi\)](https://open.spotify.com/album/0eKswA0ss2ElmS1MnHlXKg) | 3:22 |
 | 20 | [Abandoned Plans](https://open.spotify.com/track/71kbxptDXjCW0NtyHTKavr) | [Masa Agustin](https://open.spotify.com/artist/09v9JqX630rwSNElYEEVoT), [Royze](https://open.spotify.com/artist/3CU1S2LmTg8xMXQKx9CKjJ) | [Abandoned Plans](https://open.spotify.com/album/3XF5c1LBjrzufnjftPpmZ7) | 3:49 |
-| 21 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [Mean](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
+| 21 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 |
 | 22 | [MARGARET](https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [MARGARET](https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz) | 2:39 |
 | 23 | [Talk To Me](https://open.spotify.com/track/4HXIQ1loaljGOVrkEbSEpG) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Talk To Me](https://open.spotify.com/album/5mIIFzUl9g5Rwwe2cf54Wk) | 2:46 |
 | 24 | [When You @ Me \(Fuck That Nigga\)](https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [What Makes Us Human](https://open.spotify.com/album/7dNo6q5zub68LOMCPa9Vta) | 3:30 |

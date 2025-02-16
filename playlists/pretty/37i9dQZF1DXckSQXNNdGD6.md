@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: SIMONA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,607 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,606 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 40 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 41 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 |
 | 42 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
-| 43 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
-| 44 | [Bossa triste](https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn) | [Bossa triste](https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4) | 3:30 |
+| 43 | [Bossa triste](https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn) | [Bossa triste](https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4) | 3:30 |
+| 44 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
 | 45 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
 | 46 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
 | 47 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
 | 48 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
-| 49 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
-| 50 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
+| 49 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
+| 50 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 
 Snapshot ID: `Z627mgAAAADHk7TVWL8yib7a318M8Chs`

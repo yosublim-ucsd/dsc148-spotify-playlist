@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abrázame Muy Fuerte](https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Abrázame Muy Fuerte](https://open.spotify.com/album/5vbSnDXVHU2hiPwvARCp8P) | 4:02 | 2025-01-06 |  |
+| [Abrázame Muy Fuerte](https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Abrázame Muy Fuerte](https://open.spotify.com/album/5vbSnDXVHU2hiPwvARCp8P) | 4:02 | 2025-01-06 | 2025-02-16 |
 | [Acelero](https://open.spotify.com/track/1erFMv5G2DmznDSciTCmEK) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:57 | 2023-11-10 | 2024-06-09 |
 | [Alcohol Amargo](https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Alcohol Amargo](https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q) | 3:56 | 2023-11-10 | 2024-10-12 |
 | [Alguien Que Me Cure](https://open.spotify.com/track/5FDmrEfagyjBmiCrgymXiB) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alguien Que Me Cure](https://open.spotify.com/album/3d8QWdjqxTBcQO0iJ6lFmD) | 3:52 | 2024-12-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Gusi & Alfredo Gutiérrez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,461 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,472 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 80 | [Muero Por Comerte \- Remix](https://open.spotify.com/track/0SV2S31pfnoT6HiF351FL7) | [Jared](https://open.spotify.com/artist/5mftH8SeGXpILqHYWYyUW7), [Eliz](https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Muero Por Comerte \(Remix\)](https://open.spotify.com/album/2Om9UiP4xdGaODjpGvYk7f) | 3:57 |
 | 81 | [Re Mama](https://open.spotify.com/track/1yX8RxohdIZJNKk0bOQfFm) | [Nomenombres Wey](https://open.spotify.com/artist/466vJugVrW3CnQEJEzSKE9), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Re Mama](https://open.spotify.com/album/6eOza2HUJSgO7wEohcM2VR) | 2:36 |
 | 82 | [Que Más Puedo Pedir \- Versión Mambo](https://open.spotify.com/track/2C70adzv5Oq2w8YGPj3FId) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Que Más Puedo Pedir \(Versión Mambo\)](https://open.spotify.com/album/3wmm4XMMEdmTh64E2rF60N) | 4:09 |
-| 83 | [Que Hago](https://open.spotify.com/track/22lSvRQO2p4Ko8TMnwAu5P) | [Karmen Muradas](https://open.spotify.com/artist/4BEsMu1YbLZtcNpwr5ORE7), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Que Hago](https://open.spotify.com/album/4XMgH9zU0dMuCaIXWQDUjv) | 4:00 |
+| 83 | [Que Hago](https://open.spotify.com/track/22lSvRQO2p4Ko8TMnwAu5P) | [Karmen Muradas](https://open.spotify.com/artist/4BEsMu1YbLZtcNpwr5ORE7), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Que Hago](https://open.spotify.com/album/4XMgH9zU0dMuCaIXWQDUjv) | 4:00 |
 | 84 | [Corazón \- Amantes del Futuro & Vetiver Bong Remix](https://open.spotify.com/track/21ATDZuTTBJG9hhGXImZTc) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0), [Vetiver Bong](https://open.spotify.com/artist/2r0q7EMt6FGEagYtedyGvL), [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Corazón \(Amantes del Futuro & Vetiver Bong\)](https://open.spotify.com/album/6D1A787cQMBvg8wTPFqW9v) | 4:20 |
 | 85 | [Sin Ti](https://open.spotify.com/track/6gnuGsgpN6v7vi3STF2cvy) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Sin Ti](https://open.spotify.com/album/19RDF9G1DJUmyq4TkKvR4q) | 3:16 |
 | 86 | [Te Mudaste De La Lagu](https://open.spotify.com/track/6uGyx3jQlXfufZvTHuC3ec) | [dairon mx](https://open.spotify.com/artist/5VUeNKHWu9reJQAO4MwP6B), [Kartel Del Mambo](https://open.spotify.com/artist/5hZFVaho8wFY572LGA8rZ5), [Diego Shell](https://open.spotify.com/artist/4gmBPahJCVTW4QFl3i6i06), [Cesar H](https://open.spotify.com/artist/0OBczE1Jcj2ndi5dpdPREq), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Te Mudaste De La Lagu](https://open.spotify.com/album/445zFUygtPYjWCD9UpdNSQ) | 3:14 |

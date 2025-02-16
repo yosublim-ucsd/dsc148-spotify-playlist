@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,396 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,403 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 2 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
 | 3 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
-| 4 | [Dansar Under Regn](https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [DANSA UNDER REGN](https://open.spotify.com/album/1ZO17nLoqyOJ7lQc7nQTeh) | 1:45 |
+| 4 | [Dansa Under Regn](https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [DANSA UNDER REGN](https://open.spotify.com/album/1ZO17nLoqyOJ7lQc7nQTeh) | 1:45 |
 | 5 | [Bäst i världen](https://open.spotify.com/track/5j6yebA2Vw4P5nxezSkleJ) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bäst i världen](https://open.spotify.com/album/0oDu7rtyiL89CyehBmsZ8C) | 3:11 |
 | 6 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 |
 | 7 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 |

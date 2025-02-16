@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Your Valentine's Day mood, curated by Rickelle and <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=Tu7SelC\_Q4Spai2nsDG2og">A\-Reece</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 31 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,582 likes - 31 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

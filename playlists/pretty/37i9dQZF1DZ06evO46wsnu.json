@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 169536,
+  "num_followers": 169583,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAAAy95iPG48kkXAu29IUcpFK",
+  "snapshot_id": "Z66HgAAAAACOYaag/E+G6iXarMjKVhJA",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
-        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 154200,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
+        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
+        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
+      "duration_ms": 154200,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 233553,
       "name": "Far From Perfect - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Welcome To The Breakdown",
-      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181502,
       "name": "Voices Off Camera - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Welcome To The Breakdown",
+      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
     },
     {
       "added_at": null,

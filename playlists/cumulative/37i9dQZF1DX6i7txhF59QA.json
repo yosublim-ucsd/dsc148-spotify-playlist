@@ -7663,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART2",
+        "url": "https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz"
+      },
+      "artists": [
+        {
+          "name": "Moo Ryong",
+          "url": "https://open.spotify.com/artist/5NYxmZx6a2MCA7whlURNfY"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0qnRwqx30oAEYeAWh0LRut"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART4",
         "url": "https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB"
       },
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 266680,
       "name": "Regret",
       "url": "https://open.spotify.com/track/1oCBG4fDUmrXKJSFCvTpKK"
@@ -14028,7 +14046,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 112986,
       "name": "Train for the south",
       "url": "https://open.spotify.com/track/0A4X8AL89Ab5UDhG1iYh0D"
@@ -14932,7 +14950,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 198520,
       "name": "What if",
       "url": "https://open.spotify.com/track/2aFpxBegC2yzDECyy8edhc"

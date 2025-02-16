@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sef
 
-154 songs - 8 hr 8 min
+155 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ademwolken \(Hier en Nu\)](https://open.spotify.com/track/53QPiRUZWgHn5jvjTh4GIq) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ademwolken \(Hier en Nu\)](https://open.spotify.com/album/60IY4NX6lsq6V4U3nXCHuA) | 3:24 | 2024-07-25 | 2024-10-23 |
 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 | 2024-10-22 |  |
 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 | 2025-01-23 |  |
+| [Allermooiste Pijn](https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Hopeloze Romanticus](https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8) | 3:14 | 2025-02-13 |  |
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
 | [Als Ik Verdwaal](https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Als Ik Verdwaal](https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9) | 2:33 | 2025-01-10 | 2025-02-04 |
 | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/track/3yKjaxF1VWjzJXJ1uL8l03) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB) | 3:24 | 2024-09-12 | 2025-01-11 |
@@ -154,7 +155,7 @@
 | [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 | 2025-01-10 |  |
 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-06-26 | 2024-07-19 |
 | [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:23 | 2024-06-26 | 2024-10-10 |
-| [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 | 2024-10-22 |  |
+| [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 | 2024-10-22 | 2025-02-16 |
 | [Zonder handen rijden](https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:23 | 2024-10-24 |  |
 | [Zonder Iets Te Doen](https://open.spotify.com/track/3seONUa4YlZIsPcIJvkxkE) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Atmosfeer](https://open.spotify.com/album/4FLFr07DNpeBUHj9Aj2CV4) | 3:05 | 2024-06-26 | 2024-11-15 |
 | [Zonder Liedjes](https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 3:00 | 2024-06-26 | 2024-07-27 |

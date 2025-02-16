@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 56223,
+  "num_followers": 56258,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6vkgAAAAACdsdbNSwEWZfNMxxu5bVAg",
+  "snapshot_id": "Z66HgAAAAAAPMTE5Q5QQganj0wZGnytR",
   "tracks": [
     {
       "added_at": null,
@@ -112,7 +112,7 @@
       "added_at": null,
       "album": {
         "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3q6QbjJGKQpDXT6XDZij6Y"
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/3KUEwttAC1vwVx8EmDR2qY"
+      "duration_ms": 201613,
+      "name": "Future People",
+      "url": "https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL"
     },
     {
       "added_at": null,
@@ -176,7 +176,7 @@
       "added_at": null,
       "album": {
         "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+        "url": "https://open.spotify.com/album/3q6QbjJGKQpDXT6XDZij6Y"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 201613,
-      "name": "Future People",
-      "url": "https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL"
+      "duration_ms": 268853,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/3KUEwttAC1vwVx8EmDR2qY"
     },
     {
       "added_at": null,

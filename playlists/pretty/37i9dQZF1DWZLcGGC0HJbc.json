@@ -27,6 +27,26 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -155,22 +175,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Rust.",
         "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
       },
@@ -183,6 +187,22 @@
       "duration_ms": 215652,
       "name": "Rust.",
       "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -235,26 +255,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
-        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 124577,
-      "name": "There\u2019s a Field (That\u2019s Only Yours)",
-      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Destruction",
         "url": "https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C"
       },
@@ -287,18 +287,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Groundwork Rising",
-        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
       "artists": [
         {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 252080,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -315,6 +315,22 @@
       "duration_ms": 174250,
       "name": "Dead Man Walking.",
       "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Groundwork Rising",
+        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -515,22 +531,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "No Boat No Aeroplane",
         "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "No Kissing on a Sunday",
-        "url": "https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh"
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 164812,
-      "name": "No Kissing on a Sunday",
-      "url": "https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD"
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -591,6 +591,22 @@
       "duration_ms": 182987,
       "name": "Thoughtless Man",
       "url": "https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "No Kissing on a Sunday",
+        "url": "https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "No Kissing on a Sunday",
+      "url": "https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -651,18 +667,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Not Like Yesterday",
-        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
+        "name": "Dreamt of You",
+        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
       },
       "artists": [
         {
-          "name": "the.king.lost",
-          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
         }
       ],
-      "duration_ms": 220719,
-      "name": "Not Like Yesterday",
-      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
+      "duration_ms": 198544,
+      "name": "Dreamt of You",
+      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -683,18 +699,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Dreamt of You",
-        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
+        "name": "Not Like Yesterday",
+        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
       },
       "artists": [
         {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+          "name": "the.king.lost",
+          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
         }
       ],
-      "duration_ms": 198544,
-      "name": "Dreamt of You",
-      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
+      "duration_ms": 220719,
+      "name": "Not Like Yesterday",
+      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p"
-      },
-      "artists": [
-        {
-          "name": "Jonah Capetown",
-          "url": "https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap"
-        }
-      ],
-      "duration_ms": 153928,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Paradise Pop. 10",
-        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Come with Me and Hide",
         "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
       },
@@ -775,6 +759,38 @@
       "duration_ms": 238786,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p"
+      },
+      "artists": [
+        {
+          "name": "Jonah Capetown",
+          "url": "https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap"
+        }
+      ],
+      "duration_ms": 153928,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -807,22 +823,6 @@
       "duration_ms": 160781,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "Dust Chaser (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "My Deliverance",
-      "url": "https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O"
     }
   ],
   "unique_name": "indie folk vibes",

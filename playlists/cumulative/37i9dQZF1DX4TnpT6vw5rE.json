@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 186163,
       "name": "Fyren",
       "url": "https://open.spotify.com/track/2KCp2Xd95ZVecI6MTWFSGq"
@@ -4198,6 +4198,24 @@
       "duration_ms": 175483,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ"
+    },
+    {
+      "album": {
+        "name": "Selenite",
+        "url": "https://open.spotify.com/album/0HGLpa9WQQMHb4DgsjuNkb"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176825,
+      "name": "Selenite",
+      "url": "https://open.spotify.com/track/2F75VUaZ39SNpcmKoKrtPI"
     },
     {
       "album": {

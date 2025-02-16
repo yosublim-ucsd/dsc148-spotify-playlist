@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: B Wise
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,417 likes - 89 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,432 likes - 89 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 25 | [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Faith Sosene](https://open.spotify.com/artist/3EFpIlrlc0rNmqLF1ICSS6) | [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/album/0iieeCBSkaoVPmZGhBs6Cr) | 3:04 |
 | 26 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 |
 | 27 | [G.U.S.U](https://open.spotify.com/track/7upRYFw7oGgCzQtqAdtsp1) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [G.U.S.U](https://open.spotify.com/album/7nyyUB04VF3IKGERYxknoB) | 3:18 |
-| 28 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:38 |
+| 28 | [Rain Coat](https://open.spotify.com/track/2jXN9j6TTxNz27Rc9nc1EJ) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Rain Coat](https://open.spotify.com/album/4gGX7kyiQe3QN1uGxlBece) | 2:40 |
 | 29 | [OtherKidz](https://open.spotify.com/track/6pzEvBP59bC41EaACE4tK5) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [OtherKidz](https://open.spotify.com/album/6eyCQ5mvmOuCeHbY5K5BgY) | 2:08 |
 | 30 | [FIRST OFF](https://open.spotify.com/track/2H274HEloZkDgQFfG4IXVy) | [Cutty Vibez](https://open.spotify.com/artist/1UkCLh64SVsVv3oSjPlzGQ), [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi) | [FIRST OFF](https://open.spotify.com/album/6aBsVH0jrzhYwvMgyAQMFE) | 2:21 |
 | 31 | [F THAT B](https://open.spotify.com/track/28U6wLXC6qNGnkkeWxS3si) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [F THAT B](https://open.spotify.com/album/2PQdyOq0AgFTnVjk4ZWuFk) | 2:01 |

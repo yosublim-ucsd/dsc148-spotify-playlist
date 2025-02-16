@@ -4,11 +4,12 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Shura
 
-214 songs - 11 hr 43 min
+216 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Year Itch](https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [2 Year Itch](https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl) | 2:45 | 2024-10-07 |  |
+| [69](https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [69](https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq) | 3:29 | 2025-02-14 |  |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-08-12 |  |
 | [a letter to myself at 17](https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 3:19 | 2024-09-09 |  |
 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-06-10 |  |
@@ -42,7 +43,7 @@
 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 | 2024-12-04 | 2025-01-14 |
 | [Careless Whisper](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:00 | 2024-10-07 | 2024-11-19 |
 | [Careless Whisper \- Remastered](https://open.spotify.com/track/5ac3D4hNLW7NFhYFCThXgh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Careless Whisper EP](https://open.spotify.com/album/1kpWzb7Wn81IhCagRN3InU) | 5:03 | 2024-12-04 | 2025-01-14 |
-| [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2024-06-10 |  |
+| [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2024-06-10 | 2025-02-16 |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2024-06-10 |  |
 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 | 2025-01-14 |
 | [Closing The Doors](https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS) | [Kelly Maxwell](https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz) | [Closing The Doors](https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB) | 3:02 | 2024-08-12 | 2024-09-19 |
@@ -99,6 +100,7 @@
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2024-06-10 | 2024-12-05 |
 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 | 2024-06-10 |  |
 | [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 | 2024-09-09 |  |
+| [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 |  |
 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 | 2024-12-04 | 2025-01-14 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-06-10 | 2024-08-20 |
 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 |  |
@@ -126,7 +128,7 @@
 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-09-09 |  |
 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-09-09 |  |
 | [let them know they're on your mind](https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [let them know they're on your mind](https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp) | 3:43 | 2024-06-10 |  |
-| [Liar \(Re: Romy\)](https://open.spotify.com/track/6eiY2tu7EKFVGf2ZyCD1wy) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:36 | 2024-06-10 |  |
+| [Liar \(Re: Romy\)](https://open.spotify.com/track/6eiY2tu7EKFVGf2ZyCD1wy) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:36 | 2024-06-10 | 2025-02-16 |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-06-10 |  |
 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 | 2024-12-04 | 2025-01-14 |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-06-10 | 2024-09-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 354691,
+  "num_followers": 354754,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Hi-Teknology",
         "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 274826,
       "name": "The Sun God",
       "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2024-03-26 13:55:21",

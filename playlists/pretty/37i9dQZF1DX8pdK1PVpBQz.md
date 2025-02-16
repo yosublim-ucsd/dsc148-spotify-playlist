@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: JESS REISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,318 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,338 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Luna](https://open.spotify.com/track/65dghAE5WbB4IZlSC6e6CF) | [Strange Talk](https://open.spotify.com/artist/0trBqRcZ4lXqh8FERL5ZMa) | [Luna](https://open.spotify.com/album/3J4i7CLJ9osRJhRb8EZOnb) | 3:11 |
 | 100 | [ZOO](https://open.spotify.com/track/69SxBTkncnh6QvB04uCRdW) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [ZOO](https://open.spotify.com/album/3HdToTf2aOy02Onz7g6hVF) | 2:10 |
 
-Snapshot ID: `Z6vMKQAAAADDhgWull0OFGgu3BJ2ITHH`
+Snapshot ID: `Z6vMKQAAAAAmkaNZ8SGgV5kFzfiiJo52`

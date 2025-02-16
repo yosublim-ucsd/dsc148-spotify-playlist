@@ -1251,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Novio #2 (feat. Junior H)",
+        "url": "https://open.spotify.com/album/0S9tT5GWJiGeDUP1AxE7kN"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Novio #2 (feat. Junior H)",
+      "url": "https://open.spotify.com/track/1XOHe0PrkRiT5vm7aXV9GS"
+    },
+    {
+      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },

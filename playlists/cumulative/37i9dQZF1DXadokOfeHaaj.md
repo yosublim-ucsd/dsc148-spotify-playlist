@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: ANOTR
 
-266 songs - 16 hr 53 min
+267 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Another Life](https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Another Life](https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d) | 3:07 | 2025-01-31 |  |
 | [Any Signs of Love](https://open.spotify.com/track/0LYQCwah3h2YpviChfPWlg) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Any Signs of Love](https://open.spotify.com/album/30RBf9fTDgli7g46pWGQCl) | 6:02 | 2024-06-21 | 2025-02-14 |
 | [Apnea Instructions 04 \- Johannes Albert Remix \- Radio Edit](https://open.spotify.com/track/3q2pd6hTEvTGCanQnKEwaB) | [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Apnea Instructions 04 \(Johannes Albert Remix \- Radio Edit\)](https://open.spotify.com/album/1dXxYYkSS5QtwL83JavGmE) | 4:03 | 2021-10-28 | 2024-04-12 |
-| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 |  |
+| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 | 2025-02-16 |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2021-10-28 | 2023-02-02 |
 | [Ascension](https://open.spotify.com/track/7yKodgnMF6dF737ahs1BHh) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:21 | 2021-10-28 | 2024-02-23 |
 | [Attention \- Moscoman Remix](https://open.spotify.com/track/0Sx8gyhFV4B7bnj8xh8kpt) | [Cagedbaby](https://open.spotify.com/artist/2sbZiktyjJtAAWs3LHeHzO), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN), [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Attention](https://open.spotify.com/album/5dHNiXlC7nUK0KGvWymFqs) | 7:02 | 2021-10-28 | 2024-07-04 |
@@ -85,6 +85,7 @@
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2024-04-12 | 2024-10-25 |
 | [Dopamine Detox](https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [This Is A Reminder That You Are Not Behind Your Face](https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La) | 3:06 | 2024-02-02 | 2024-07-27 |
 | [Each Night \- Boys’ Shorts Remix](https://open.spotify.com/track/5N8HrWOayG5SXsmdG11xcy) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU), [Boys' Shorts](https://open.spotify.com/artist/3nRPgO6HGmq7u7sj3KyEgx) | [Each Night \(Boys’ Shorts Remix\)](https://open.spotify.com/album/02kabmkVaejBXqVISYt6SK) | 2:59 | 2024-03-22 | 2025-01-17 |
+| [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-14 |  |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-06-21 |  |
 | [Electric Cutz](https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk) | 4:49 | 2024-02-23 | 2024-07-19 |
 | [Electric Cutz](https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/61skTfvokQQ3sSQHKVl0K5) | 4:49 | 2024-02-23 | 2024-04-08 |

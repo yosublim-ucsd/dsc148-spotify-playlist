@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 5110,
+  "num_followers": 5117,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
         "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
         "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
@@ -651,22 +671,18 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
       "artists": [
         {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 282984,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -687,38 +703,18 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Dua",
-        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
         }
       ],
-      "duration_ms": 282984,
-      "name": "Dua",
-      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
-      },
-      "artists": [
-        {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -755,18 +751,38 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
       "artists": [
         {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
+        "name": "Aibu",
+        "url": "https://open.spotify.com/album/4ACMsTaPduorUYcmMrWa0c"
+      },
+      "artists": [
+        {
+          "name": "Zorah",
+          "url": "https://open.spotify.com/artist/5ZMZFpOzT2Jaby0ntKL6HL"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Aibu",
+      "url": "https://open.spotify.com/track/0P4QaVn9k71jQrDw1CNNbe"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Aibu",
-        "url": "https://open.spotify.com/album/4ACMsTaPduorUYcmMrWa0c"
-      },
-      "artists": [
-        {
-          "name": "Zorah",
-          "url": "https://open.spotify.com/artist/5ZMZFpOzT2Jaby0ntKL6HL"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "Aibu",
-      "url": "https://open.spotify.com/track/0P4QaVn9k71jQrDw1CNNbe"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Pisi",
-        "url": "https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq"
-      },
-      "artists": [
-        {
-          "name": "Anjella",
-          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Pisi",
-      "url": "https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
         "name": "Hits of Aslay",
         "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 202631,
       "name": "Umbea",
       "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
+        "name": "Pisi",
+        "url": "https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq"
+      },
+      "artists": [
+        {
+          "name": "Anjella",
+          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
+        }
+      ],
+      "duration_ms": 220044,
+      "name": "Pisi",
+      "url": "https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
-      },
-      "artists": [
-        {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
         "name": "Singeli Ya Maajabu",
         "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
       },
@@ -963,22 +943,22 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
       },
       "artists": [
         {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
         },
         {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+      "duration_ms": 229944,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -995,6 +975,26 @@
       "duration_ms": 300698,
       "name": "Mama Samia",
       "url": "https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
         "name": "Chura Wangu",
         "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
       },
@@ -1123,22 +1143,6 @@
       "duration_ms": 187895,
       "name": "Chura Wangu",
       "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
-        "name": "Umedorola",
-        "url": "https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL"
-      },
-      "artists": [
-        {
-          "name": "Asanoo",
-          "url": "https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD"
-        }
-      ],
-      "duration_ms": 246748,
-      "name": "Umedorola",
-      "url": "https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+        "name": "Umedorola",
+        "url": "https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL"
       },
       "artists": [
         {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+          "name": "Asanoo",
+          "url": "https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD"
         }
       ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+      "duration_ms": 246748,
+      "name": "Umedorola",
+      "url": "https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
+        "name": "UTAMUWA BAKHRESA",
+        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 277812,
+      "name": "UTAMUWA BAKHRESA",
+      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
         "name": "Kua Uone",
         "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 291980,
       "name": "Kua Uone",
       "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
-        "name": "UTAMUWA BAKHRESA",
-        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        }
-      ],
-      "duration_ms": 277812,
-      "name": "UTAMUWA BAKHRESA",
-      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Mchepuko",
-        "url": "https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F"
+        "name": "Kwampalange",
+        "url": "https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1"
       },
       "artists": [
         {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+          "name": "MPM Mshamba",
+          "url": "https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB"
+        },
+        {
+          "name": "Mkojani",
+          "url": "https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Mchepuko",
-      "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
+      "duration_ms": 219506,
+      "name": "Kwampalange",
+      "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1307,38 +1311,18 @@
     {
       "added_at": "2025-02-06 23:59:11",
       "album": {
-        "name": "Kwampalange",
-        "url": "https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1"
+        "name": "Mchepuko",
+        "url": "https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F"
       },
       "artists": [
         {
-          "name": "MPM Mshamba",
-          "url": "https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB"
-        },
-        {
-          "name": "Mkojani",
-          "url": "https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U"
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Kwampalange",
-      "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
-    },
-    {
-      "added_at": "2025-02-06 23:59:11",
-      "album": {
-        "name": "Kwetu",
-        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Kwetu",
-      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
+      "duration_ms": 273866,
+      "name": "Mchepuko",
+      "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
     },
     {
       "added_at": "2025-02-06 23:59:11",
@@ -1355,6 +1339,22 @@
       "duration_ms": 291800,
       "name": "Nimejipata",
       "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+    },
+    {
+      "added_at": "2025-02-06 23:59:11",
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     }
   ],
   "unique_name": "Singeli Sounds",

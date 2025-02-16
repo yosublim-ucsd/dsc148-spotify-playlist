@@ -3695,6 +3695,28 @@
     },
     {
       "album": {
+        "name": "Break The Silence",
+        "url": "https://open.spotify.com/album/2yF3guRNUmTG5lA25sqT8p"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Bri Zoli",
+          "url": "https://open.spotify.com/artist/5x1jAa8GrTkfDqRBc2IYk8"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278709,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/1cQjAhDo1qwv4ZDORlUxhk"
+    },
+    {
+      "album": {
         "name": "Breaking Apart",
         "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
@@ -5908,7 +5930,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-16",
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
