@@ -2,9 +2,9 @@
 
 ### [Hot Hits Tunisia](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> Samara en tête de la playlist numéro un en Tunisie.
+> Balti en tête de la playlist numéro un en Tunisie.
 
-243 songs - 14 hr 40 min
+245 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 | 2023-12-27 |
 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 | 2023-03-06 | 2024-06-15 |
 | [9RIBA](https://open.spotify.com/track/0yVjaVZFhhE6tiL0BOCEpO) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [9RIBA](https://open.spotify.com/album/5uO6Nxnr8TruPSyhDpqFKD) | 4:00 | 2024-07-03 |  |
-| [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 | 2023-12-12 |  |
+| [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 | 2023-12-12 | 2025-02-17 |
 | [Aal Hit](https://open.spotify.com/track/5bmskSTrIQF9AG3QRNcRs7) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:42 | 2022-04-14 | 2022-09-09 |
 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 | 2024-10-03 |  |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2021-12-10 | 2022-03-01 |
@@ -205,7 +205,7 @@
 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 | 2022-11-29 | 2024-05-08 |
 | [Trafiquant](https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Trafiquant](https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM) | 3:25 | 2023-12-04 | 2024-07-17 |
 | [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 | 2022-11-25 |
-| [Tutto Passa](https://open.spotify.com/track/1QqnWKAws9X39acDYOokl9) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Tutto Passa](https://open.spotify.com/album/0LlHGHtOHk3wYzDxKNvMww) | 3:15 | 2023-08-19 |  |
+| [Tutto Passa](https://open.spotify.com/track/1QqnWKAws9X39acDYOokl9) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Tutto Passa](https://open.spotify.com/album/0LlHGHtOHk3wYzDxKNvMww) | 3:15 | 2023-08-19 | 2025-02-17 |
 | [Twahachtek Barcha](https://open.spotify.com/track/1X8pBfUNMacs0hoZRDhH2Z) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Conan](https://open.spotify.com/album/6cjiodEbf1rxHUIUWe8S1p) | 5:08 | 2023-08-05 | 2024-01-30 |
 | [Va Bene](https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Va Bene](https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt) | 2:26 | 2023-06-27 | 2024-10-11 |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
@@ -227,6 +227,7 @@
 | [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 | 2023-03-15 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-02-20 | 2024-06-15 |
 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 | 2022-08-31 | 2023-02-24 |
+| [Ya Mra](https://open.spotify.com/track/3xkFpoJKMR4tScr3oH6tuu) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Mra](https://open.spotify.com/album/4mdylq8bf1U8G4z59gAHbf) | 3:57 | 2025-02-16 |  |
 | [Ya Sahbi](https://open.spotify.com/track/4U9GjUOxRoDRO6Yg1QaUeE) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ya Sahbi](https://open.spotify.com/album/2J27wurV6EWwZdzPra8SL4) | 3:18 | 2024-07-04 |  |
 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 | 2024-08-26 |  |
 | [Yamina](https://open.spotify.com/track/0gTUhABQLsXM1l3R0Keuwf) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Yamina](https://open.spotify.com/album/2ZjqDZCh5UR9mAeyScAbxr) | 3:24 | 2024-08-05 |  |
@@ -244,6 +245,7 @@
 | [ضايعة](https://open.spotify.com/track/1RYLhaBQa7eFU8VhFMW1j9) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2), [Manel Ahmed](https://open.spotify.com/artist/4XEibZiJ0jb20Yfv6ZMKXf) | [ضايعة](https://open.spotify.com/album/4RjnkICN3vGRa6g1j27IId) | 4:33 | 2022-12-22 | 2023-01-07 |
 | [عروبية](https://open.spotify.com/track/11ypWG74HBSPJKIhkhJeFR) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [عروبية](https://open.spotify.com/album/72QNAZfCUjvEhaXoOLFZSu) | 4:15 | 2022-09-07 | 2022-11-04 |
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 | 2022-11-27 |
+| [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 | 2025-02-16 |  |
 | [في ظلام الليل](https://open.spotify.com/track/5FWwSKktYjKZgoRmWDs9X6) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Aymen Lessigue](https://open.spotify.com/artist/3JVwiRVxWfIHXlhuKk3PQ4) | [في ظلام الليل](https://open.spotify.com/album/4keFmtZOlKjDkIPEib966A) | 2:40 | 2023-05-16 | 2024-09-08 |
 | [مش بروحي](https://open.spotify.com/track/4d3dXSolGmXPrnTUyICqWO) | [Abn Salah](https://open.spotify.com/artist/0R4MMq6qbsLaTXh63wOMvD), [Vibe Entertainment Ly](https://open.spotify.com/artist/3Qt921zWIOKAGgML2n2Ljl) | [مش بروحي](https://open.spotify.com/album/45UyUIAgWzg5DxjiLblVwj) | 3:29 | 2022-09-14 | 2022-09-22 |
 | [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 | 2022-09-07 | 2022-10-24 |

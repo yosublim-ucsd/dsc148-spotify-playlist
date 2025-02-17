@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Rose Villain in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,106 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,429 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 64 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 |
 | 65 | [Dove si va](https://open.spotify.com/track/7kfKhwwBxouY1oBIAnTPMX) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Dove si va](https://open.spotify.com/album/1FlhTJIKS0pYUtuoG2m1gG) | 2:24 |
 
-Snapshot ID: `Z7B4ZQAAAABBlkWzuOh9VRXwbA1YgMEj`
+Snapshot ID: `Z7B4ZQAAAACpJZS8xzmnKoK5ODpwEOH1`

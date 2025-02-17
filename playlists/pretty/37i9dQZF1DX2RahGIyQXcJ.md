@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover:  Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,714 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,797 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 14 | [REGRETS](https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS / PROMISES](https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw) | 4:02 |
 | 15 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 16 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
-| 17 | [Floating \- Original Mix](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
+| 17 | [Floating \- Feat\. Future](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
 | 18 | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/track/2pxr4j23Gwvjm6TQbyYU5O) | [Nio Endo](https://open.spotify.com/artist/4pEqatZJxCL2Lxb1wNhglR), [FIREBOY](https://open.spotify.com/artist/7vJedHr307srzF8IeAKWML) | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/album/3UNkctOEXdX2Rak9u8e6ed) | 2:39 |
 | 19 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 |
 | 20 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 98 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
 | 99 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 |
 
-Snapshot ID: `Z6ZDFAAAAAAFMKaNxDICvxPT0fKw6rDb`
+Snapshot ID: `Z6ZDFAAAAAClSJIBz6LkI4igCMMHss/Z`

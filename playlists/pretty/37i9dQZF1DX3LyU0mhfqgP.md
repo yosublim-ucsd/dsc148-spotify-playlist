@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\.  Cover: HUSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,341 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,284 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [false gold](https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 2:54 |
 | 50 | [zły](https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [zły](https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ) | 3:20 |
 
-Snapshot ID: `Z69MhQAAAABpK6mB1RItiFQrn10Vj0yo`
+Snapshot ID: `Z69MhQAAAAC0E31rAV8eGvXBIEJ5Nt8n`

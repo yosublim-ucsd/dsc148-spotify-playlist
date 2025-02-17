@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Erika Vikman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,010 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,036 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 71 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
 | 72 | [Kuningasidea](https://open.spotify.com/track/3bmM0j4a1IstLoo09CX75d) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Kuningasidea](https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW) | 3:25 |
 
-Snapshot ID: `Z68PLwAAAABg1gK4SfYx/bXjP+GT6aWn`
+Snapshot ID: `Z68PLwAAAAA79HmT7t96AWuimvvzHooH`

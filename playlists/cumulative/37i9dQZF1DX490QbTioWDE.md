@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Yami Safdie & Q´ Lokura.
 
-515 songs - 1 day 7 hr 46 min
+516 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 | 2022-09-05 | 2023-01-14 |
 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 | 2021-12-24 | 2023-04-24 |
 | [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-02-16 |  |
-| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 |  |
+| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 | 2025-02-17 |
 | [Fiesta para dos](https://open.spotify.com/track/5iH1LuJAXVadg4p4GZQkVB) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Fiesta para dos](https://open.spotify.com/album/0qPqSqsuiRk6WuNhc3fNEx) | 5:05 | 2022-01-21 | 2022-06-18 |
 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 | 2023-01-27 |  |
 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 | 2022-06-24 | 2023-01-23 |
@@ -497,6 +497,7 @@
 | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/track/3GJtk3noiskSGHCc9EcxAm) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/album/3pByc8VZkttOs8mq3Lw2Kd) | 3:55 | 2023-06-09 | 2023-08-19 |
 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 | 2021-12-24 |  |
 | [Ven](https://open.spotify.com/track/3axliHUavA0Qj6AIywW7Da) | [La Zurda Cuartetera](https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H) | [Ven](https://open.spotify.com/album/3gsz5gaSjXtEaKzmmLkMbO) | 3:27 | 2022-01-14 | 2022-04-19 |
+| [Vengo De Engañarte](https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Vengo De Engañarte](https://open.spotify.com/album/5VGEiVMdwQfS9RlXVDR7wT) | 2:51 | 2025-02-07 |  |
 | [Vicio](https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Vicio](https://open.spotify.com/album/25XUWGcDwEpHZQWVclRWTK) | 3:07 | 2022-10-07 | 2022-10-29 |
 | [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 | 2023-01-06 |
 | [Violeta \- En Vivo](https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arriba las Palmas \(En Vivo\)](https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs) | 1:08 | 2023-01-18 | 2023-04-09 |

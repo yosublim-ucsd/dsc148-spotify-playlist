@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,754 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,758 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 38 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 39 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 40 | [Gemmér Gemmér](https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Gemmér Gemmér](https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP) | 3:01 |
-| 41 | [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx), [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 |
+| 41 | [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 |
 | 42 | [bad bitch í RVK](https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9) | [ClubDub](https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7) | [Risa Tilkynning](https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt) | 2:10 |
 | 43 | [FRÆG GELLA](https://open.spotify.com/track/3HEwjmSwSV7YEVF1RL1zBP) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6) | [FRÆG GELLA](https://open.spotify.com/album/4tQprC8v0x4O6FwwijuJJD) | 2:09 |
 | 44 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |

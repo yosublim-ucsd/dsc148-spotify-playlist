@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Sabrina Carpenter.
 
-524 songs - 1 day 2 hr 6 min
+525 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Edelleen](https://open.spotify.com/track/6hI1sTn4NS6BrL9wrlqZaI) | [Larry](https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Edelleen](https://open.spotify.com/album/31upea4lQ4IwOqz3KxIFQf) | 2:39 | 2024-07-02 | 2024-07-05 |
 | [Edes takas](https://open.spotify.com/track/6NuWVmm8npIuW5lVmPYDo7) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Edes takas](https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK) | 3:01 | 2024-09-26 | 2024-10-18 |
 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 | 2025-01-30 |  |
+| [Ei kenenkään maa](https://open.spotify.com/track/6PANiQUSF5adKoACZMBX59) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Ei kenenkään maa](https://open.spotify.com/album/4ZdRFk9YIMNcxfG6MqNBsP) | 3:16 | 2025-02-16 |  |
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 | 2024-09-06 |
 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 | 2024-10-17 | 2024-11-08 |
 | [Eka tai toka](https://open.spotify.com/track/0BsizkduSdj2b90uAk8Sat) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Eka tai toka](https://open.spotify.com/album/6TK9Qr42ghbH7LVWxfxqf6) | 2:38 | 2024-07-02 | 2024-07-19 |

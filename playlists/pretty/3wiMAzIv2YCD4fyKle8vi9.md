@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 
 ### [Jardín de las Nostalgias](https://open.spotify.com/playlist/3wiMAzIv2YCD4fyKle8vi9)
 
-> 
+> ❤️‍🩹
 
 [Joaquin Lobato](https://open.spotify.com/user/11100497949) - 1 like - 65 songs - 6 hr 33 min
 
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 | 64 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 65 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 
-Snapshot ID: `AAABlCAAompdNp+4JP/MLRaKnU2BmYjR`
+Snapshot ID: `AAABlhcSfQuYR1tcL7cOO/94jdN/0HWZ`

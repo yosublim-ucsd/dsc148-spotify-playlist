@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Solann \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,892 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,995 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 15 | [24 Février](https://open.spotify.com/track/26IaO5wCzWZTomLCwonlTy) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:19 |
 | 16 | [ILS ME RIENT TOUS AU NEZ](https://open.spotify.com/track/2oe4ERf40Mx8PWH9gtEfP0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:27 |
 | 17 | [La favorite](https://open.spotify.com/track/2TJBSBcNKmMsVUapWZHWjO) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [La Favorite](https://open.spotify.com/album/60cnL4NlNjkEQWRgPYlrmG) | 4:14 |
-| 18 | [Ma faute \(version 2025\)](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 |
+| 18 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 |
 | 19 | [Je me demande \(feat\. Louane\)](https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Je me demande \(feat\. Louane\)](https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ) | 3:15 |
 | 20 | [scorpion ascendant scorpion \(상승궁 전갈자리\)](https://open.spotify.com/track/12oCxUOAgMIlP4AmlEAjHt) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/1Zc5T41oAD6MoVilGvadRf) | 2:11 |
 | 21 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 |

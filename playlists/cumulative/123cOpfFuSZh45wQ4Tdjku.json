@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "FURFAG",
+        "url": "https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0"
+      },
+      "artists": [
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "PITS",
+      "url": "https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW"
+    },
+    {
+      "album": {
         "name": "Poison (Emily Version)",
         "url": "https://open.spotify.com/album/6ovZIbU4vscAbzpdB7Eh59"
       },

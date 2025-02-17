@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Yailin la Mas Viral is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,745 likes - 20 songs - 58 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,696 likes - 20 songs - 58 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [oxy](https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [oxy](https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ) | 2:42 |
 | 20 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 |
 
-Snapshot ID: `Z63KgwAAAADcU+vrhk7vhozMxieRe2ga`
+Snapshot ID: `Z63KgwAAAACzwPKlpCMwYlrjpgFxG13y`

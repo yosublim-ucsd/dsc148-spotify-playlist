@@ -4,10 +4,11 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=JStfUNLrT5uP8CVC\_Twf5A>Ebuka Songs</a>
 
-467 songs - 1 day 21 hr 18 min
+468 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ADN Du Très Haut](https://open.spotify.com/track/5GC90DIyNa10RJADEyOKaP) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Allégeance](https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW) | 2:42 | 2025-02-07 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-12-05 | 2023-12-11 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 | 2025-01-01 |
 | [Ajakola](https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Justine Nabbosa](https://open.spotify.com/artist/3ajkMpWlRRf2j3XkFJYZfu) | [Ajakola](https://open.spotify.com/album/44CUHBYHKwT05ixgwPjDRM) | 4:25 | 2024-05-08 | 2024-05-10 |
@@ -141,7 +142,7 @@
 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 | 2022-06-09 | 2023-05-26 |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-25 | 2024-10-05 |
 | [Good \(Remix\)](https://open.spotify.com/track/4foBRaj4utf80ptIPLpJn1) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6) | [Good \(Remix\)](https://open.spotify.com/album/0veR3mst1sHrS4kBYllth2) | 6:48 | 2023-04-14 | 2023-06-03 |
-| [Goodness & Mercy \(This Year\)](https://open.spotify.com/track/3bKheJ9drRQvm0CJk35iKO) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Goodness & Mercy \(This Year\)](https://open.spotify.com/album/2oigRgI29RgMSCF6fFgB9D) | 3:30 | 2025-01-10 |  |
+| [Goodness & Mercy \(This Year\)](https://open.spotify.com/track/3bKheJ9drRQvm0CJk35iKO) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Goodness & Mercy \(This Year\)](https://open.spotify.com/album/2oigRgI29RgMSCF6fFgB9D) | 3:30 | 2025-01-10 | 2025-02-17 |
 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 | 2024-12-31 | 2025-01-07 |
 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 | 2024-09-20 |  |
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 | 2023-09-26 |

@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Sensationnel",
+        "url": "https://open.spotify.com/album/4tvSihPpEkii5ncIcfRboA"
+      },
+      "artists": [
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7eHc2nQ1tKJHEwR3ge2ZQy"
+    },
+    {
+      "album": {
         "name": "Rap Game Awful",
         "url": "https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl"
       },

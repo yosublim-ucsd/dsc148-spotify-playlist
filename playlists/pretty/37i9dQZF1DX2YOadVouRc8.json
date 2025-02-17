@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32540,
+  "num_followers": 32554,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
-        "name": "mo de ma [by any minz]",
-        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "mo de ma [by any minz]",
-      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
         "name": "It'll All Make Sense Later",
         "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 194000,
       "name": "Shooting Star (feat. Oxlade)",
       "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "mo de ma [by any minz]",
+        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "mo de ma [by any minz]",
+      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1103,6 +1103,22 @@
       "duration_ms": 208699,
       "name": "Mohobbat - Love",
       "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1151,6 +1167,22 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "Sweet For Joy",
         "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
       },
@@ -1167,38 +1199,6 @@
       "duration_ms": 165159,
       "name": "Sweet For Joy",
       "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "Will I?",
-        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Will I?",
-      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -1291,42 +1311,6 @@
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1367,6 +1351,22 @@
       "duration_ms": 150278,
       "name": "Mentali",
       "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2025-02-14 00:01:13",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-02-14 00:01:13",
       "album": {
-        "name": "If I Dey Lie (with Crayon)",
-        "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
-      },
-      "artists": [
-        {
-          "name": "Almost Joey",
-          "url": "https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "If I Dey Lie (with Crayon)",
-      "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
-    },
-    {
-      "added_at": "2025-02-14 00:01:13",
-      "album": {
         "name": "Belle",
         "url": "https://open.spotify.com/album/1zHSD43t39HAZcLGlDvr7H"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 230265,
       "name": "Pinacolada",
       "url": "https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64"
+    },
+    {
+      "added_at": "2025-02-14 00:01:13",
+      "album": {
+        "name": "If I Dey Lie (with Crayon)",
+        "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
+      },
+      "artists": [
+        {
+          "name": "Almost Joey",
+          "url": "https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "If I Dey Lie (with Crayon)",
+      "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
     }
   ],
   "unique_name": "Afro Chill",

@@ -7390,7 +7390,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 253846,
       "name": "Jaadu Tera",
       "url": "https://open.spotify.com/track/6mk1Jm7UgHV3tlz4jWRqg9"
@@ -17606,6 +17606,28 @@
       "duration_ms": 141525,
       "name": "Tera Saaya",
       "url": "https://open.spotify.com/track/1u9dZcTMqoG63GR0w1mY6N"
+    },
+    {
+      "album": {
+        "name": "Tera Zikr",
+        "url": "https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        },
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "Tera Zikr",
+      "url": "https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5"
     },
     {
       "album": {

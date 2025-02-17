@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Chris Lake and Abel Balder.
 
-1,083 songs - 2 day 15 hr 24 min
+1,084 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-15 | 2024-03-10 |
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2021-12-17 | 2022-12-13 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-19 | 2023-07-08 |
+| [Darkness In Me](https://open.spotify.com/track/1YLMr6JAwM1HhKJdSnvNjX) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k) | [Darkness In Me](https://open.spotify.com/album/6CnT7uYn3gnhz83AaC9Gx9) | 4:28 | 2025-02-14 |  |
 | [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-04-19 | 2024-09-07 |
 | [Deep Inside Of Me](https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Deep Inside Of Me](https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA) | 3:07 | 2023-09-15 | 2023-11-11 |
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-02-16 | 2024-06-01 |
@@ -729,7 +730,7 @@
 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 | 2022-12-28 | 2023-01-06 |
 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 | 2022-11-11 | 2024-01-05 |
 | [Our Time Is Now](https://open.spotify.com/track/2EECRc7ChquXKilHETQ4Ju) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Frank Alowishus](https://open.spotify.com/artist/6iyaBvd1BwRY6AiVgPQqUA) | [Acts of Love Mixtape: Act Three](https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX) | 6:26 | 2022-12-28 | 2023-01-06 |
-| [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 | 2024-12-06 |  |
+| [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 | 2024-12-06 | 2025-02-17 |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-03 | 2022-08-24 |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-05-06 | 2022-07-29 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-06-19 | 2023-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70160,
+  "num_followers": 70168,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Labababa",
+        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 273813,
+      "name": "Tribulations",
+      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 260399,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Min Tid",
-        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
-      },
-      "artists": [
-        {
-          "name": "Ras Cricket",
-          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Polisen sl\u00e5r",
-      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -191,38 +191,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Labababa",
-        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 273813,
-      "name": "Tribulations",
-      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo"
-      },
-      "artists": [
-        {
-          "name": "Rhymes & Riddim",
-          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Likadant",
-      "url": "https://open.spotify.com/track/7ghbl9klH7MAjvofXyuGkb"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Helt Off",
         "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
       },
@@ -243,18 +211,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
         }
       ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+      "duration_ms": 166779,
+      "name": "Likadant",
+      "url": "https://open.spotify.com/track/7ghbl9klH7MAjvofXyuGkb"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -271,6 +239,38 @@
       "duration_ms": 217263,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Min Tid",
+        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
+      },
+      "artists": [
+        {
+          "name": "Ras Cricket",
+          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Polisen sl\u00e5r",
+      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fri",
-        "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
-      },
-      "artists": [
-        {
-          "name": "Rhymes & Riddim",
-          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
-        },
-        {
-          "name": "Robert Athill",
-          "url": "https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Fri (feat. Robert Athill)",
-      "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Marknadens soldat",
         "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
       },
@@ -391,22 +371,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -427,18 +391,38 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+        "name": "Fri",
+        "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
+        },
+        {
+          "name": "Robert Athill",
+          "url": "https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
+      "duration_ms": 194181,
+      "name": "Fri (feat. Robert Athill)",
+      "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -475,6 +459,22 @@
       "duration_ms": 209133,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Min Zina",
         "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
       },
@@ -583,38 +567,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Sweet Reggaemusik",
-        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
-      },
-      "artists": [
-        {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Sweet Reggaemusik",
-      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -655,38 +619,38 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
       },
       "artists": [
         {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     },
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+        "name": "Sweet Reggaemusik",
+        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
       },
       "artists": [
         {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+        },
+        {
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+      "duration_ms": 162000,
+      "name": "Sweet Reggaemusik",
+      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -707,18 +671,38 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
-        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Attityd",
-      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -735,6 +719,38 @@
       "duration_ms": 186666,
       "name": "Orginalo",
       "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "V\u00e4nda Trend",
+        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
+      },
+      "artists": [
+        {
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "V\u00e4nda Trend",
+      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -763,38 +779,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pirret",
-        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Pirret",
-      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "V\u00e4nda Trend",
-        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
-      },
-      "artists": [
-        {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        }
-      ],
-      "duration_ms": 179393,
-      "name": "V\u00e4nda Trend",
-      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
         "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 206853,
       "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
       "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
+        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Attityd",
+      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -827,42 +827,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "L\u00e5t oss leva",
-        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
+        "name": "V\u00e5r Dans",
+        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
       },
       "artists": [
         {
-          "name": "Lani Mo",
-          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
         },
         {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
         }
       ],
-      "duration_ms": 220527,
-      "name": "L\u00e5t oss leva",
-      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "H\u00e5ll i dig",
-        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
-      },
-      "artists": [
-        {
-          "name": "Wagwan",
-          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "H\u00e5ll i dig",
-      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+      "duration_ms": 181115,
+      "name": "V\u00e5r Dans",
+      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -891,18 +871,42 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "K\u00e4r Och Galen",
-        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
+        "name": "L\u00e5t oss leva",
+        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Lani Mo",
+          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+        },
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
         }
       ],
-      "duration_ms": 201951,
-      "name": "K\u00e4r Och Galen",
-      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
+      "duration_ms": 220527,
+      "name": "L\u00e5t oss leva",
+      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Weh Dem A Gwaan",
+        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
+      },
+      "artists": [
+        {
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Weh Dem A Gwaan",
+      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
     }
   ],
   "unique_name": "Svensk Reggae",

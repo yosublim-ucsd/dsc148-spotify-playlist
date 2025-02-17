@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=oAE\-sEhZSaiMWvRUbhKyLA">Tamlyn Wessels</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,059 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,123 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

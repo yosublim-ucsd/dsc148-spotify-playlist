@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ?si=IF6TXGQ2RcuJM9o1Wzj8gA">Christiaan Baartman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,781 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,804 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 59085,
+  "num_followers": 59096,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Lelaki Hebat",
-        "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
-      },
-      "artists": [
-        {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Untuk Mencintaimu",
-      "url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
       },
@@ -151,6 +135,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Lelaki Hebat",
+        "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
+      },
+      "artists": [
+        {
+          "name": "Seventeen",
+          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Untuk Mencintaimu",
+      "url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Kenyataan Perasaan",
         "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
       },
@@ -163,6 +163,22 @@
       "duration_ms": 270671,
       "name": "Tapi Bukan Aku",
       "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Sheila On 7",
+        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "Dan...",
+      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -195,22 +211,6 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Sheila On 7",
-        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "Dan...",
-      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "07 Des",
-        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Seberapa Pantas",
-      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -331,54 +315,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Bukan Cinta Biasa",
-      "url": "https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 222029,
-      "name": "Separuh Nafas",
-      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Judika",
-        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242942,
-      "name": "Jikalau Kau Cinta",
-      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Pongki Barata Meets The Stars",
         "url": "https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy"
       },
@@ -391,6 +327,22 @@
       "duration_ms": 232226,
       "name": "1000 Tahun Lamanya",
       "url": "https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "07 Des",
+        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Seberapa Pantas",
+      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -411,6 +363,38 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Judika",
+        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242942,
+      "name": "Jikalau Kau Cinta",
+      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 222029,
+      "name": "Separuh Nafas",
+      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Untukmu Selamanya",
         "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 283360,
       "name": "Cinta Dalam Hati",
       "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Bukan Cinta Biasa",
+      "url": "https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Kisah Klasik Untuk Masa Depan",
         "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Satu Hati Sejuta Cinta",
+        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
       "artists": [
         {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
+      "duration_ms": 239506,
+      "name": "Mabuk Cinta",
+      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Melayang",
         "url": "https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt"
       },
@@ -523,18 +523,34 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Satu Hati Sejuta Cinta",
-        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
       },
       "artists": [
         {
-          "name": "Armada",
-          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Mabuk Cinta",
-      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Berdua Lebih Baik",
+      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Melayang",
-        "url": "https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt"
-      },
-      "artists": [
-        {
-          "name": "Ungu",
-          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Demi Waktu",
-      "url": "https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "OST. 30 Hari Mencari Cinta",
         "url": "https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 198133,
       "name": "Melompat Lebih Tinggi",
       "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Berdua Lebih Baik",
-      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -671,22 +655,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 264853,
       "name": "Dealova",
       "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Melayang",
+        "url": "https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        }
+      ],
+      "duration_ms": 307520,
+      "name": "Demi Waktu",
+      "url": "https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
-      },
-      "artists": [
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 228386,
-      "name": "Sedih Tak Berujung",
-      "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Pagi Pulang Pagi",
         "url": "https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Di Matamu",
+        "url": "https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        }
+      ],
+      "duration_ms": 247169,
+      "name": "Di Matamu",
+      "url": "https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb"
     }
   ],
   "unique_name": "Berjiran",

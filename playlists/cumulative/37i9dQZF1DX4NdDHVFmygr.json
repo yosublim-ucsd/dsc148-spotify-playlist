@@ -3449,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Jedi ou Jedek",
+        "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Jedi ou Jedek",
+      "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
+    },
+    {
+      "album": {
         "name": "Jelaba",
         "url": "https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM"
       },
@@ -3862,6 +3880,24 @@
       "duration_ms": 176698,
       "name": "Kima Bakri",
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
+    },
+    {
+      "album": {
+        "name": "Kolla Sa3a",
+        "url": "https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Kolla Sa3a",
+      "url": "https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG"
     },
     {
       "album": {

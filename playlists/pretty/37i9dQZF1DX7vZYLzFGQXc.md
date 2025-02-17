@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 조하\(JOHA\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,720 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,726 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 |
 | 50 | [Flirting](https://open.spotify.com/track/5b8IPDBHFGeBI5ixiRAEaA) | [Do haneul](https://open.spotify.com/artist/2jVeAtj7Tmt5Dhkeurzsqt) | [Flirting](https://open.spotify.com/album/3pdvEuErrK1WvCAwit373I) | 3:18 |
 
-Snapshot ID: `Z67yvQAAAADLDTFWPnmpVt+7O1WK1vg2`
+Snapshot ID: `Z67yvQAAAAAqtfJcowbDeINbLY0SI/60`

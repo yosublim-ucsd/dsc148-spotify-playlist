@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Parler Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186885,
+      "name": "Lelo Toko Bina",
+      "url": "https://open.spotify.com/track/2sDw0zhDElBmsrpuKdvYEu"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/1UiDMehKBnzCxTt6aGmTWp"
       },

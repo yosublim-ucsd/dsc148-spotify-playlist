@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 256817,
+  "num_followers": 256848,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAAAWzb9t4mO5SjmricDtW3v0",
+  "snapshot_id": "Z6/ZAAAAAABqx9Hej6A+trESTDQM3/sv",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "melhor sozinha :-)-:",
-        "url": "https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 227215,
-      "name": "melhor sozinha :-)-:",
-      "url": "https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Sirvo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 161749,
       "name": "N\u00e3o Sirvo - Ao Vivo",
       "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "melhor sozinha :-)-:",
+        "url": "https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 227215,
+      "name": "melhor sozinha :-)-:",
+      "url": "https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi"
     },
     {
       "added_at": null,

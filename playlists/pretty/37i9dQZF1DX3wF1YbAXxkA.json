@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 97991,
+  "num_followers": 98082,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cards On The Table",
-        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Cards On The Table",
-      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 125538,
       "name": "Dola re Dola",
       "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "King of Sweden",
+        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "King of Sweden",
+      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Shook Up",
         "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 165244,
       "name": "Ancora, Ancora, Ancora",
       "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "King of Sweden",
-        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "King of Sweden",
-      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Villains",
         "url": "https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 279053,
       "name": "Uptight",
       "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duoteque",
-          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 327508,
-      "name": "ItsNotREEAALLLLLLLL",
-      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hey Hey Hey",
         "url": "https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 166906,
       "name": "Tomorrow Man",
       "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duoteque",
+          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 327508,
+      "name": "ItsNotREEAALLLLLLLL",
+      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
     },
     {
       "added_at": "2024-10-09 21:20:16",

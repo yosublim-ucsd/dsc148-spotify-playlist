@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Jeneba Kanneh\-Mason.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,853 likes - 37 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,920 likes - 37 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 36 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 |
 | 37 | [Tchaikovsky Piano Concerto No\. 1 Variation \(After Piano Concerto No\. 1, Op\. 23, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/1KJMTyjlSgBTARQys99vxL) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Tchaikovsky Piano Concerto No\. 1 Variation](https://open.spotify.com/album/1pRM0fBJpDkRdROKP8Lobn) | 2:52 |
 
-Snapshot ID: `Z5zVbwAAAACi3DjQnIgYlWJXOJrt7ANh`
+Snapshot ID: `Z5zVbwAAAAA3a/UMU+/T7T+T4GE+PhEJ`

@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47086,
+  "num_followers": 47094,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "Piove Ancora",
-        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
-      },
-      "artists": [
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vedova Nera",
-      "url": "https://open.spotify.com/track/03f5a1nr1YqewRSSBxeB0k"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
         "name": "WHERE DOES YOUR SPIRIT GO?",
         "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
@@ -335,30 +315,6 @@
       "duration_ms": 201183,
       "name": "WHERE DOES YOUR SPIRIT GO?",
       "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Scialla Semper (Emodrill Repack)",
-        "url": "https://open.spotify.com/album/5O1eP0CV9le8jxp40zYee3"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "duration_ms": 197585,
-      "name": "Miss - Emodrill version 2019",
-      "url": "https://open.spotify.com/track/7IvawAjYcBRjRCNHaaTuZh"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -395,6 +351,42 @@
       "duration_ms": 167671,
       "name": "Cose che non vuoi sentirti dire",
       "url": "https://open.spotify.com/track/6OMnIqBYSBEOIMuXkiHT2a"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "REBEL (Deluxe)",
+        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "O Mi Uccidi",
+      "url": "https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "Piove Ancora",
+        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vedova Nera",
+      "url": "https://open.spotify.com/track/03f5a1nr1YqewRSSBxeB0k"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -451,18 +443,26 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "REBEL (Deluxe)",
-        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+        "name": "Scialla Semper (Emodrill Repack)",
+        "url": "https://open.spotify.com/album/5O1eP0CV9le8jxp40zYee3"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
         }
       ],
-      "duration_ms": 179815,
-      "name": "O Mi Uccidi",
-      "url": "https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK"
+      "duration_ms": 197585,
+      "name": "Miss - Emodrill version 2019",
+      "url": "https://open.spotify.com/track/7IvawAjYcBRjRCNHaaTuZh"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -499,6 +499,26 @@
       "duration_ms": 168507,
       "name": "Indelebile",
       "url": "https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "Danimarca",
+        "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Danimarca",
+      "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -547,26 +567,6 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Danimarca",
-        "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
-      },
-      "artists": [
-        {
-          "name": "nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
-        },
-        {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Danimarca",
-      "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
+        "name": "Come Uccidere Un Usignolo (67 Edition)",
+        "url": "https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Lei No (Il Tradito)",
+      "url": "https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
         "name": "Suffer On",
         "url": "https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "Come Uccidere Un Usignolo (67 Edition)",
-        "url": "https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq"
+        "name": "CHE IO MI AIUTI",
+        "url": "https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Lei No (Il Tradito)",
-      "url": "https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl"
+      "duration_ms": 156448,
+      "name": "RABBIA DISTILLATA",
+      "url": "https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -715,22 +731,6 @@
       "duration_ms": 149557,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "CHE IO MI AIUTI",
-        "url": "https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 156448,
-      "name": "RABBIA DISTILLATA",
-      "url": "https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
         "name": "FIORI MORTI",
         "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
       },
@@ -883,6 +899,22 @@
       "duration_ms": 136313,
       "name": "FIORI MORTI",
       "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -907,18 +939,18 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
       },
       "artists": [
         {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+      "duration_ms": 162038,
+      "name": "Mai come gli altri - Acoustic",
+      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -935,38 +967,6 @@
       "duration_ms": 185624,
       "name": "Brutto Sogno",
       "url": "https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "La mia stanza (Deluxe)",
-        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Mai come gli altri - Acoustic",
-      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "Anche se forte, l'amore non basta",
-        "url": "https://open.spotify.com/album/2CeJaZSvISUSHXvFfIwsbc"
+        "name": "Scusa ma",
+        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
       },
       "artists": [
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
         }
       ],
-      "duration_ms": 138441,
-      "name": "Anche se forte, l'amore non basta",
-      "url": "https://open.spotify.com/track/6hL8EUDbMIMxVMAuS6E3s4"
+      "duration_ms": 101818,
+      "name": "Scusa ma",
+      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "Scusa ma",
-        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+        "name": "Anche se forte, l'amore non basta",
+        "url": "https://open.spotify.com/album/2CeJaZSvISUSHXvFfIwsbc"
       },
       "artists": [
         {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 101818,
-      "name": "Scusa ma",
-      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+      "duration_ms": 138441,
+      "name": "Anche se forte, l'amore non basta",
+      "url": "https://open.spotify.com/track/6hL8EUDbMIMxVMAuS6E3s4"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
         "name": "Hai fatto tardi",
         "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+        "name": "Mancati",
+        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
       "artists": [
         {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
+      "duration_ms": 112000,
+      "name": "Mancati",
+      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1151,6 +1167,22 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
         "name": "gazzelle",
         "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
       },
@@ -1171,38 +1203,6 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "Mancati",
-        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Mancati",
-      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
         "name": "Tutto o niente 2",
         "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "FOTORICORDO",
+        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
+        }
+      ],
+      "duration_ms": 149671,
+      "name": "FOTORICORDO",
+      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1255,26 +1275,6 @@
       "duration_ms": 123789,
       "name": "Polmoni",
       "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "FOTORICORDO",
-        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        },
-        {
-          "name": "Luk3",
-          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
-        }
-      ],
-      "duration_ms": 149671,
-      "name": "FOTORICORDO",
-      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "il mio miglior nemico",
-        "url": "https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ"
-      },
-      "artists": [
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
-        },
-        {
-          "name": "Loomy",
-          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
-        }
-      ],
-      "duration_ms": 148995,
-      "name": "il mio miglior nemico",
-      "url": "https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
         "name": "bambino perfetto",
         "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 177931,
       "name": "Campi Elisi",
       "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "il mio miglior nemico",
+        "url": "https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        },
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "duration_ms": 148995,
+      "name": "il mio miglior nemico",
+      "url": "https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
-        "name": "nato per morire",
-        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "nato per morire",
-      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1519,26 +1499,6 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
-      },
-      "artists": [
-        {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1563,6 +1523,46 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+      },
+      "artists": [
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
+        "name": "nato per morire",
+        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "nato per morire",
+      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
     },
     {
       "added_at": "2025-02-07 08:01:47",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-02-07 08:01:47",
       "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2025-02-07 08:01:47",
+      "album": {
         "name": "Winston Blue",
         "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 202744,
       "name": "Sedato e Deluso",
       "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
-    },
-    {
-      "added_at": "2025-02-07 08:01:47",
-      "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2025-02-07 08:01:47",

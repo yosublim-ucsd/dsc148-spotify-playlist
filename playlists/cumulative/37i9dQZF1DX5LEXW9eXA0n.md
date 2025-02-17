@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Joon Il Jeong\(정준일\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: GyeongseoYeji\(경서예지\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,407 songs - 3 day 19 hr 1 min
+1,408 songs - 3 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,7 +1072,7 @@
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-03-31 | 2022-04-19 |
 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 | 2024-05-18 |
 | [Supppperman's dream](https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58) | [Supppperman](https://open.spotify.com/artist/4MsSecxgHDVQGEx9SPQSDP) | [Supppperman's dream](https://open.spotify.com/album/2CCq19fvsTdzafRqISmF8K) | 3:36 | 2024-07-31 | 2024-11-07 |
-| [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 |  |
+| [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 | 2025-02-17 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |
 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 | 2024-12-06 |
@@ -1277,6 +1277,7 @@
 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-06-13 | 2023-10-20 |
 | [Why didn't you tell me earlier?](https://open.spotify.com/track/1B3oAgDPCftYycpRyoAYNt) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Why didn't you tell me earlier?](https://open.spotify.com/album/3fupbsn2bRYRYkZ8Ds16rX) | 3:38 | 2023-03-27 | 2023-07-18 |
 | [Why has your love changed](https://open.spotify.com/track/6XFHE9XLCzoBC4H9LZ7LIl) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [Why has your love changed](https://open.spotify.com/album/5AsZEMJ9j2ijGfg6WpJkLO) | 4:30 | 2022-03-29 | 2022-04-01 |
+| [Why is love so hard for me \(feat.Jeon Gunho\)](https://open.spotify.com/track/2z4fAsRuoKve2M57Fuq5up) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [Why is love so hard for me](https://open.spotify.com/album/62o72V2xoO8W3KBgMTQhaw) | 4:02 | 2025-02-16 |  |
 | [Will Be Fine \(2022\)](https://open.spotify.com/track/1lxYYbfWmbcPV6zz58Xjic) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Will Be Fine \(2022\)](https://open.spotify.com/album/578WMHdZmBgacLBrX9tB1h) | 4:17 | 2022-03-22 | 2022-06-14 |
 | [Will I be able to love again?](https://open.spotify.com/track/6plPoVDY8WZqG0HHc7lXfq) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Will I be able to love again?](https://open.spotify.com/album/08Yq9DdLCdxymYMKhqqvGN) | 4:04 | 2022-07-07 | 2022-07-27 |
 | [Will you take this love](https://open.spotify.com/track/03KvuRYNw5GveMBQOx4nQw) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Three Siblings Bravely OST Part.7 \(Soundtrack\)](https://open.spotify.com/album/4NRiSfnfb23h7rFD2uaM6G) | 3:44 | 2023-01-20 | 2023-02-25 |

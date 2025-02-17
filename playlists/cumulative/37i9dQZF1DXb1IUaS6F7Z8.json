@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 220927,
       "name": "Drunk and Fucked Up",
       "url": "https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo"
@@ -1072,6 +1072,24 @@
       "duration_ms": 215840,
       "name": "Kick Out The Scum",
       "url": "https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua"
+    },
+    {
+      "album": {
+        "name": "Drink With the Irish",
+        "url": "https://open.spotify.com/album/6vn52kUftGhXqg0ZHxZr9W"
+      },
+      "artists": [
+        {
+          "name": "Muirsheen Durkin",
+          "url": "https://open.spotify.com/artist/1wWy03z6llk4gPcIfe6Yrn"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Loch Lomond",
+      "url": "https://open.spotify.com/track/57kWBzs2CEq5BXVYiU66y6"
     },
     {
       "album": {

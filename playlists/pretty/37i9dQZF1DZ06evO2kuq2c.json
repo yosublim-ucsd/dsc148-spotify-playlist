@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 77021,
+  "num_followers": 77059,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAACF5PqoL72j5wmBLPifZO1n",
+  "snapshot_id": "Z6/ZAAAAAACb0gU5BPhwxVGR+JJxTlVN",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 232614,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daybreaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 241386,
       "name": "These Colours Don't Run",
       "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 232614,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244614,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daybreaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 235946,
       "name": "Alpha Omega",
       "url": "https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244614,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
     },
     {
       "added_at": null,

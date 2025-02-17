@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. <br/><br/>Cover: PARTYNEXTDOOR & Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,416 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,434 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 56 | [Not In Surrender](https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Not In Surrender](https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO) | 3:19 |
 | 57 | [Wish You Well](https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Wish You Well](https://open.spotify.com/album/0kSjjQeVeJRmfZzochjKIO) | 2:36 |
 | 58 | [Dressed Down](https://open.spotify.com/track/4p8bd4AU5lykxLs1RbifYp) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Dressed Down](https://open.spotify.com/album/4LA74VwF6cJIPhJj4G410l) | 3:10 |
-| 59 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters Deluxe](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
+| 59 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 60 | [valentine](https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [valentine](https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le) | 3:02 |
 | 61 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 | 62 | [When You @ Me \(Fuck That Nigga\)](https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [What Makes Us Human](https://open.spotify.com/album/7dNo6q5zub68LOMCPa9Vta) | 3:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Fuck It](https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE) | 2:16 |
 | 99 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
 
-Snapshot ID: `Z67OAwAAAACM49GstaP61pTYR6s7rGMm`
+Snapshot ID: `Z67OAwAAAAAFoZ08g29En6nbrN6oTrlT`

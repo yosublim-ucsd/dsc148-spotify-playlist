@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,936 likes - 180 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,364 likes - 180 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 179 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 |
 | 180 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 |
 
-Snapshot ID: `Z6M0OAAAAAB0zZe9xInbxf5rsPXBMSU9`
+Snapshot ID: `Z6M0OAAAAADqi/uw+hkdY3p9Temzk1/L`

@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+    },
+    {
+      "album": {
         "name": "No te puedo olvidar",
         "url": "https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 269714,
       "name": "Polvo Blanco",
       "url": "https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM"

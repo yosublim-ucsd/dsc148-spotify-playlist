@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-81 songs - 11 hr 28 min
+82 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adullam \(Live\)](https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [The Secret Place \(Live\)](https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU) | 6:25 | 2024-07-26 |  |
 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 | 2024-07-26 |  |
 | [Alagbada Ina \(feat\. Victoria Orenze\)](https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Revival Flames](https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y) | 4:31 | 2024-07-26 |  |
+| [Alignment Chant \- EP](https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Alignment Chant](https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e) | 13:30 | 2025-02-14 |  |
 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 | 2024-07-26 |  |
 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 | 2024-07-26 |  |
 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 | 2024-07-26 |  |
@@ -63,7 +64,7 @@
 | [Obinigwe](https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 9:12 | 2024-07-26 |  |
 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 | 2024-07-26 |  |
 | [Oji Oku Eri Ajah](https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Oji Oku Eri Ajah](https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv) | 11:15 | 2024-07-26 |  |
-| [Omo'ba](https://open.spotify.com/track/0XA4TIxZnEYsB7OCjyRmdD) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Omo'ba](https://open.spotify.com/album/5Amfrndlz7xQtwvQZXyDlW) | 9:09 | 2024-08-23 |  |
+| [Omo'ba](https://open.spotify.com/track/0XA4TIxZnEYsB7OCjyRmdD) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Omo'ba](https://open.spotify.com/album/5Amfrndlz7xQtwvQZXyDlW) | 9:09 | 2024-08-23 | 2025-02-17 |
 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 | 2024-07-26 |  |
 | [Owo Oluwa](https://open.spotify.com/track/2LGw51AfD8tWdD7lCnIZQe) | [Dj Bentoa](https://open.spotify.com/artist/39TG7mv7cuey0ak7YNUpZx), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Owo Oluwa](https://open.spotify.com/album/2YcNi3CvvetcOnmSnJJtf0) | 3:41 | 2024-07-26 | 2025-02-04 |
 | [Prayer Call \(Chants\) \- Live](https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [God Can Live Ministration](https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P) | 8:50 | 2024-07-26 |  |

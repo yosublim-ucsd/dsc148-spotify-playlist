@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,590 likes - 106 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,606 likes - 106 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

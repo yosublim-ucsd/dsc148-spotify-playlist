@@ -8031,6 +8031,24 @@
     },
     {
       "album": {
+        "name": "Stamina!",
+        "url": "https://open.spotify.com/album/5lYWJbXmfioF7CZCVn4EBC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139620,
+      "name": "Stamina!",
+      "url": "https://open.spotify.com/track/5t6PUE4EW0TMbSyuIxrTqg"
+    },
+    {
+      "album": {
         "name": "Stickin",
         "url": "https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX"
       },

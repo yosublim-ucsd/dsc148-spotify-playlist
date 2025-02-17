@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,485 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,511 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Fuck It](https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE) | 2:16 |
 | 99 | [BLEED](https://open.spotify.com/track/4wKqLGUpj38utREJukCGxz) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [BLEED](https://open.spotify.com/album/0lqtmwACaUjKdMaI2Kus6d) | 1:39 |
 
-Snapshot ID: `Z67OAAAAAAD5XTg+gsuX2HINiK93IaeZ`
+Snapshot ID: `Z7JwLQAAAADDC5gkJC1jtXfkLvj0kZeW`

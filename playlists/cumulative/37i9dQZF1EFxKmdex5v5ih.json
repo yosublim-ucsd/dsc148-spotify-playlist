@@ -6634,10 +6634,36 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 150000,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/4ljWtIqF5JcTnvUZtEof6S"
+    },
+    {
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/50rokNGkMjPrpPwtAtPogn"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Sup I'm Bianca",
+          "url": "https://open.spotify.com/artist/1RyTw0arFCyOJYG5SKNo8o"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183421,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/0Ri12wPHUpmXnCO2e7yGZb"
     },
     {
       "album": {

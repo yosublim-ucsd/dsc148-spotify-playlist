@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-35 songs - 2 hr 5 min
+36 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Rolling Deep](https://open.spotify.com/track/48XrYUiAyvFiO0fnjOpy7a) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 2:02 | 2024-01-29 |  |
 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 | 2024-01-29 |  |
 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 | 2024-01-29 |  |
+| [Sensation](https://open.spotify.com/track/7eHc2nQ1tKJHEwR3ge2ZQy) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Sensationnel](https://open.spotify.com/album/4tvSihPpEkii5ncIcfRboA) | 3:02 | 2025-02-16 |  |
 | [She Wanna](https://open.spotify.com/track/13CqoBKII7rdFn1f6NSjsW) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 3:33 | 2024-01-29 |  |
 | [Spaghetti](https://open.spotify.com/track/7j0AjRMQ5f2AFMLgn9aQHm) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:32 | 2024-01-29 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2024-01-29 |  |

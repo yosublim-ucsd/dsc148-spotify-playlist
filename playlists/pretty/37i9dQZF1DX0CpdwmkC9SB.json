@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 195847,
+  "num_followers": 195879,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
+    },
+    {
       "added_at": "2024-06-26 08:22:54",
       "album": {
         "name": "feelslikeimfallinginlove",
@@ -239,22 +255,6 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 237826,
       "name": "Kong",
       "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "I See",
         "url": "https://open.spotify.com/album/5kRnWFWjvpig5yzU4TsS79"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 147026,
       "name": "Mama",
       "url": "https://open.spotify.com/track/0oyfDe0903Cn8UOthKS8kp"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Light, Dark, Light Again",
-        "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Light, Dark, Light Again",
+        "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/1UW7biiGu9RbUg35auUM2s"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Fly Away XTC",
-      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5FJivl7KKZrbK990A7OE0u"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/1UW7biiGu9RbUg35auUM2s"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5FJivl7KKZrbK990A7OE0u"
+      "duration_ms": 277200,
+      "name": "Fly Away XTC",
+      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "The Angel (North London Forever)",
-        "url": "https://open.spotify.com/album/5pspQhv3uGTRw6R3k8O8cY"
-      },
-      "artists": [
-        {
-          "name": "Louis Dunford",
-          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "The Angel - North London Forever",
-      "url": "https://open.spotify.com/track/230WMHL7rn1yctcsO0FtkO"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Through 2 You",
         "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 198363,
       "name": "Through 2 You",
       "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Angel (North London Forever)",
+        "url": "https://open.spotify.com/album/5pspQhv3uGTRw6R3k8O8cY"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "The Angel - North London Forever",
+      "url": "https://open.spotify.com/track/230WMHL7rn1yctcsO0FtkO"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 140973,
       "name": "At the Bay",
       "url": "https://open.spotify.com/track/41pbH3pJ5E8EjmeyAbJVGu"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "What I Breathe",
-        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 294183,
-      "name": "Love Reigns",
-      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Waiting All Night",
         "url": "https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 271306,
       "name": "Right Here - Andy C Remix",
       "url": "https://open.spotify.com/track/4EqJZ1bQ55Jq4vi2gHuQdQ"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 294183,
+      "name": "Love Reigns",
+      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2307,38 +2307,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -2367,6 +2335,38 @@
       "duration_ms": 534213,
       "name": "Found God in a Tomato",
       "url": "https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Back To Back (B2B)",
-        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
-      },
-      "artists": [
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Back To Back (B2B)",
-      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Terms and Conditions",
         "url": "https://open.spotify.com/album/2EZi1lwRNBMZlIKCNIdppT"
       },
@@ -2659,6 +2643,22 @@
       "duration_ms": 202485,
       "name": "Terms and Conditions",
       "url": "https://open.spotify.com/track/5Dj6O4NKfznlav1xo9TCX1"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Back To Back (B2B)",
+        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Back To Back (B2B)",
+      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Final Credits",
-        "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
-        }
-      ],
-      "duration_ms": 439994,
-      "name": "Final Credits",
-      "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Selected Dub Works",
         "url": "https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 191167,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Final Credits",
+        "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "duration_ms": 439994,
+      "name": "Final Credits",
+      "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0"
-      },
-      "artists": [
-        {
-          "name": "4am Kru",
-          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
-        }
-      ],
-      "duration_ms": 222581,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Burnt Toast & Coffee",
         "url": "https://open.spotify.com/album/0xl0L7fwDbjrqatRt1SNkY"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 198442,
       "name": "Burnt Toast & Coffee",
       "url": "https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0"
+      },
+      "artists": [
+        {
+          "name": "4am Kru",
+          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
+        }
+      ],
+      "duration_ms": 222581,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2963,22 +2963,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 132625,
-      "name": "Shlut",
-      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Floor Show",
         "url": "https://open.spotify.com/album/1dyZYNXdUXbSt6oT0aLCzv"
       },
@@ -2991,6 +2975,22 @@
       "duration_ms": 233973,
       "name": "Cocaine Man",
       "url": "https://open.spotify.com/track/4IIW93KNqv3L5VILol1S7u"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3105,22 +3105,6 @@
       "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
-      "added_at": "2024-06-13 13:22:47",
-      "album": {
-        "name": "The Collective",
-        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
-    },
-    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "White Label Classics",
@@ -3135,6 +3119,22 @@
       "duration_ms": 222021,
       "name": "Together",
       "url": "https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7"
+    },
+    {
+      "added_at": "2024-06-13 13:22:47",
+      "album": {
+        "name": "The Collective",
+        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3175,6 +3175,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "I Need A Dollar",
         "url": "https://open.spotify.com/album/0BtDqGFupFyeptvx37fdLF"
       },
@@ -3191,22 +3207,6 @@
       "duration_ms": 311728,
       "name": "I Need A Dollar",
       "url": "https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Hot Lemonade",
-        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
-      },
-      "artists": [
-        {
-          "name": "A Guy Called Gerald",
-          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Voodoo Ray",
-      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3275,22 +3275,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Roadents",
-        "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
-      },
-      "artists": [
-        {
-          "name": "Cristale",
-          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
-        }
-      ],
-      "duration_ms": 137291,
-      "name": "Roadents",
-      "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Kolaba",
         "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
       },
@@ -3311,6 +3295,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Roadents",
+        "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "duration_ms": 137291,
+      "name": "Roadents",
+      "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "The Ghost Of Cain",
         "url": "https://open.spotify.com/album/3Nb8Vso3Q3eCYymVqicVRV"
       },
@@ -3323,22 +3323,6 @@
       "duration_ms": 155333,
       "name": "51st State",
       "url": "https://open.spotify.com/track/5hiUBcY7ZvytQfWOOfV1pA"
-    },
-    {
-      "added_at": "2024-06-04 13:29:57",
-      "album": {
-        "name": "Night Reign",
-        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3355,6 +3339,22 @@
       "duration_ms": 174841,
       "name": "Heart Monitor Riddem",
       "url": "https://open.spotify.com/track/61NiI5dYMLy7p1Cblkc6G6"
+    },
+    {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     }
   ],
   "unique_name": "Glastonbury 2024",

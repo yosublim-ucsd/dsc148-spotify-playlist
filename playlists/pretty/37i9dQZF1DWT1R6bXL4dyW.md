@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,150 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,241 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 21 | [Malafemmena](https://open.spotify.com/track/47TyVNs0bQfA2CvVCd4cmq) | [Giacomo Rondinella](https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT) | [Malafemmena](https://open.spotify.com/album/5mrAXReX65AC1zOYCgNK43) | 3:21 |
 | 22 | [Nel blu dipinto di blu \- Volare](https://open.spotify.com/track/1wHbRBLiWj9rfikuGsBu5G) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Marino marini, Vol\. 1](https://open.spotify.com/album/164LrJyEnhQN0fJc3ziFQJ) | 3:11 |
 | 23 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 |
-| 24 | [Traditional: Santa Lucia](https://open.spotify.com/track/3uMHUBQ9TyW4QDuTeT7CdR) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [David Romano](https://open.spotify.com/artist/3srYILowq1BvCdlcvuor6x), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Emerson Buckley](https://open.spotify.com/artist/12Lx27kM3i0A3gfE9m3Bcc) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 1:29 |
+| 24 | [Santa Lucia](https://open.spotify.com/track/3uMHUBQ9TyW4QDuTeT7CdR) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [David Romano](https://open.spotify.com/artist/3srYILowq1BvCdlcvuor6x), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Emerson Buckley](https://open.spotify.com/artist/12Lx27kM3i0A3gfE9m3Bcc) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 1:29 |
 | 25 | [Mi sono innamorato di te](https://open.spotify.com/track/5ZO497MmiaF5Q1arqAT5Wg) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Lontano, lontano nel tempo](https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE) | 2:49 |
 | 26 | [La Donna Riccia](https://open.spotify.com/track/3ddMtGoPY2DOOQDvQ46nAt) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:33 |
 | 27 | [Malafemmena](https://open.spotify.com/track/0gr7BsQKGQHzTGHoGELIdE) | [Giacomo Rondinella](https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT) | [50 Greatest Hits \(Le più belle canzoni del '900\)](https://open.spotify.com/album/5IP8WyOvouzGVfdeookdv1) | 3:17 |

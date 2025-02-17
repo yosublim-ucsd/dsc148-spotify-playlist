@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Julión Alvarez
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,479 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,620 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Qué Va A Pasar?](https://open.spotify.com/track/2n7TfZocGOwmdI1RM88big) | [Grupo Los Caballeros](https://open.spotify.com/artist/5Nyw7PGLzZg1zOMUgstdWI), [Santiago Sanchez y Su Seccion](https://open.spotify.com/artist/06Yyh1VauqfwgNKg0WFQ0z) | [Qué Va A Pasar?](https://open.spotify.com/album/4QgOUJNx111J936vacRDG8) | 2:57 |
 | 50 | [NOS ALUMBRO LA LUNA](https://open.spotify.com/track/0Z4hp4L6dbdO35tVTCmQ4H) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [NOS ALUMBRO LA LUNA](https://open.spotify.com/album/5kor3uRlpC1trzdASyhoU7) | 2:37 |
 
-Snapshot ID: `Z67N/gAAAACYxCD/B8Xvc8Q35f0+hn2d`
+Snapshot ID: `Z67N/gAAAADuB5KXmbzybs8knVwLE0te`

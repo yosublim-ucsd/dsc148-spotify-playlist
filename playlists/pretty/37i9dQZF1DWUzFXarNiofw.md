@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: KWN & Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,657 likes - 199 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,765 likes - 199 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

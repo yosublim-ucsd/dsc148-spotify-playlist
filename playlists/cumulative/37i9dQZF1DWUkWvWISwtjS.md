@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-154 songs - 7 hr 42 min
+155 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-10-13 |  |
 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 | 2023-10-13 | 2024-05-06 |
 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 | 2023-10-13 | 2024-04-19 |
-| [Folgado \- Ao Vivo](https://open.spotify.com/track/4DYmJ19DhmxUe26QhANDYv) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:43 | 2023-10-13 |  |
+| [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 | 2024-07-15 |  |
+| [Folgado \- Ao Vivo](https://open.spotify.com/track/4DYmJ19DhmxUe26QhANDYv) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:43 | 2023-10-13 | 2025-02-17 |
 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 | 2023-10-13 | 2024-05-25 |
 | [Impressionando Os Anjos \- Ao Vivo](https://open.spotify.com/track/6tUH34SV3m9mrs4mTyo5AM) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:28 | 2023-10-13 | 2024-04-19 |
 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 | 2023-10-13 |  |

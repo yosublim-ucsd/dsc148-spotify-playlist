@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 95274,
+  "num_followers": 95277,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -143,38 +143,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "hello",
-        "url": "https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 178544,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 142097,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Rust.",
         "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "hello",
+        "url": "https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 178544,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 142097,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+        "name": "Act 4: Atonement",
+        "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
+      "duration_ms": 174250,
+      "name": "Dead Man Walking.",
+      "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Act 4: Atonement",
-        "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
       "artists": [
         {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 174250,
-      "name": "Dead Man Walking.",
-      "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0"
+      },
+      "artists": [
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
         "name": "For Months Now (III)",
         "url": "https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 247000,
       "name": "For Months Now (III)",
       "url": "https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0"
-      },
-      "artists": [
-        {
-          "name": "Philemon",
-          "url": "https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk"
-      },
-      "artists": [
-        {
-          "name": "Isbells",
-          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Big Black Car (Cover)",
         "url": "https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 183272,
       "name": "Big Black Car - Cover",
       "url": "https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Not Like Yesterday",
-        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
-      },
-      "artists": [
-        {
-          "name": "the.king.lost",
-          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
-        }
-      ],
-      "duration_ms": 220719,
-      "name": "Not Like Yesterday",
-      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Sense & Nonsense",
         "url": "https://open.spotify.com/album/49C201EMuA7vMN68BRphjn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 247600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Not Like Yesterday",
+        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
+      },
+      "artists": [
+        {
+          "name": "the.king.lost",
+          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
+        }
+      ],
+      "duration_ms": 220719,
+      "name": "Not Like Yesterday",
+      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK"
+        "name": "Dust Chaser (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE"
       },
       "artists": [
         {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 160781,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY"
+      "duration_ms": 189673,
+      "name": "My Deliverance",
+      "url": "https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O"
     }
   ],
   "unique_name": "indie folk vibes",

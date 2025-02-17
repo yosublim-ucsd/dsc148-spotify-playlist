@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3061,
+  "num_followers": 3060,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,54 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Toutes les filles du monde",
+        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 257092,
+      "name": "Toutes les filles du monde",
+      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Mille vies",
+        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Mille vies",
+      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Lovesongs",
+        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
+      },
+      "artists": [
+        {
+          "name": "Loverman",
+          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
+        }
+      ],
+      "duration_ms": 286094,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "Diego Suarez",
         "url": "https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6"
       },
@@ -171,50 +219,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Mille vies",
-        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
+        "name": "Angoisse",
+        "url": "https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K"
       },
       "artists": [
         {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
         }
       ],
-      "duration_ms": 245693,
-      "name": "Mille vies",
-      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Toutes les filles du monde",
-        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 257092,
-      "name": "Toutes les filles du monde",
-      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Lovesongs",
-        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
-      },
-      "artists": [
-        {
-          "name": "Loverman",
-          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
-        }
-      ],
-      "duration_ms": 286094,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a"
+      "duration_ms": 222094,
+      "name": "Angoisse",
+      "url": "https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -251,22 +267,6 @@
       "duration_ms": 154172,
       "name": "LE LARGE...",
       "url": "https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Angoisse",
-        "url": "https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "duration_ms": 222094,
-      "name": "Angoisse",
-      "url": "https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Follow No One",
-        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
-      },
-      "artists": [
-        {
-          "name": "DITTER",
-          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
-        }
-      ],
-      "duration_ms": 206637,
-      "name": "Follow No One",
-      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Follow No One",
+        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
+      },
+      "artists": [
+        {
+          "name": "DITTER",
+          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+        }
+      ],
+      "duration_ms": 206637,
+      "name": "Follow No One",
+      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Disquette #1 Roots",
-        "url": "https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5"
-      },
-      "artists": [
-        {
-          "name": "Scorpio Qveen",
-          "url": "https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF"
-        },
-        {
-          "name": "Maraboutage",
-          "url": "https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK"
-        },
-        {
-          "name": "Cardozo",
-          "url": "https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH"
-        }
-      ],
-      "duration_ms": 143281,
-      "name": "Massage Gun",
-      "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "NO GOZO",
         "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 393146,
       "name": "Otak\u00e9",
       "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Disquette #1 Roots",
+        "url": "https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5"
+      },
+      "artists": [
+        {
+          "name": "Scorpio Qveen",
+          "url": "https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF"
+        },
+        {
+          "name": "Maraboutage",
+          "url": "https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK"
+        },
+        {
+          "name": "Cardozo",
+          "url": "https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH"
+        }
+      ],
+      "duration_ms": 143281,
+      "name": "Massage Gun",
+      "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Ago Gazo",
-        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
-      },
-      "artists": [
-        {
-          "name": "Ago Gazo",
-          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
-        }
-      ],
-      "duration_ms": 307984,
-      "name": "Togbui Ha",
-      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "POUR DE BON",
         "url": "https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP"
       },
@@ -727,22 +711,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "and I can't breathe enough",
-        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
-      },
-      "artists": [
-        {
-          "name": "Cosmopaark",
-          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Can't Wait",
-      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "FUCK IT WE BALL !",
         "url": "https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 212571,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "and I can't breathe enough",
+        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Ago Gazo",
+        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
+      },
+      "artists": [
+        {
+          "name": "Ago Gazo",
+          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
+        }
+      ],
+      "duration_ms": 307984,
+      "name": "Togbui Ha",
+      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
     },
     {
       "added_at": "2023-11-23 11:08:33",

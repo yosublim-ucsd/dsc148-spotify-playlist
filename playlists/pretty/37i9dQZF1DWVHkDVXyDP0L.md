@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: There's A Tuesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,421 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,426 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [flood](https://open.spotify.com/track/41Pn0bj8sB5GAzpImm2Sg7) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [flood](https://open.spotify.com/album/6zQ6z0C1ACh57yfZZ9rgSG) | 3:15 |
 | 100 | [Don't Be A Stranger](https://open.spotify.com/track/02rCzlqdbWR3EAUvloCp0g) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Don't Be A Stranger](https://open.spotify.com/album/7JiCutogiOKnp7SKwIoEah) | 2:57 |
 
-Snapshot ID: `Z63s7AAAAADOiTUIZIrpiTZcsWmo3SYm`
+Snapshot ID: `Z63s7AAAAABupa+9pKFgWnojYlOwu30x`

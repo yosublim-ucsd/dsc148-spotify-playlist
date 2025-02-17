@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,725 likes - 110 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,748 likes - 110 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 109 | [Saturday Night Special](https://open.spotify.com/track/5NbcmXKwpu0J1IMftT0t2X) | [Jason Broyles](https://open.spotify.com/artist/0biQlMnxfmZJbIU8COQyrp), [Matt Griffith](https://open.spotify.com/artist/5p4W2R6UunIXfXpFp8i0RR) | [Old Rudy Road](https://open.spotify.com/album/6W8spFBR4RcuScmLmJvAAr) | 3:54 |
 | 110 | [American Tune](https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [The New Modern Hymns](https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC) | 3:46 |
 
-Snapshot ID: `Z67N9gAAAABhGkQK8Wy7sDrRUmE1ouuD`
+Snapshot ID: `Z67N9gAAAABit2mAnyLfwHDdaIctrRDr`

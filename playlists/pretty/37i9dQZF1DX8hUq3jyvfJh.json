@@ -1,6 +1,6 @@
 {
   "description": "Escute Duquesa e mais mulheres incr\u00edveis no volume m\u00e1ximo! co-curada por Duquesa",
-  "num_followers": 188796,
+  "num_followers": 188894,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 143202,
+      "name": "Turma da Duq",
+      "url": "https://open.spotify.com/track/2qVB6ZEFztpNoRy6PGRTdd"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
         "name": "In My Bag (feat. GloRilla)",
         "url": "https://open.spotify.com/album/7Donh3heAnk9VwIN1Rr7sK"
       },
@@ -191,26 +211,6 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 143202,
-      "name": "Turma da Duq",
-      "url": "https://open.spotify.com/track/2qVB6ZEFztpNoRy6PGRTdd"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 201988,
       "name": "Cansei De Ser S\u00f3 Minha",
       "url": "https://open.spotify.com/track/0xfaQiFRJ6Q8q6xPe0kgv5"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/4vSYqKdXDXmSgbJYpeZRM2"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -343,6 +363,58 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
+        "name": "CTB",
+        "url": "https://open.spotify.com/album/1LhZSfJi9f1t8hacBoNHmq"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Ak de Ouro",
+      "url": "https://open.spotify.com/track/5qfglYnswvv42BxiVVClrM"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Mundo das Espertas",
+      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -378,39 +450,19 @@
         {
           "name": "THS",
           "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        },
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 130369,
-      "name": "Primeiro de Maio (Gostosas Inteligentes)",
-      "url": "https://open.spotify.com/track/4vSYqKdXDXmSgbJYpeZRM2"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
-        "name": "CTB",
-        "url": "https://open.spotify.com/album/1LhZSfJi9f1t8hacBoNHmq"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Ak de Ouro",
-      "url": "https://open.spotify.com/track/5qfglYnswvv42BxiVVClrM"
+      "duration_ms": 158400,
+      "name": "T\u00e1 Eu e a Nicole",
+      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -483,26 +535,34 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "#SV 10 - Maru2D / Profecia",
+        "url": "https://open.spotify.com/album/3dehLdQ2GoUMoLiUhP8ywZ"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         },
         {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         },
         {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
         }
       ],
-      "duration_ms": 242600,
-      "name": "Mundo das Espertas",
-      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+      "duration_ms": 154736,
+      "name": "#SV 10 - Maru2D / Profecia",
+      "url": "https://open.spotify.com/track/7DYDemv1zIU6dja3iU1MD1"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -547,38 +607,6 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
-        "name": "#SV 10 - Maru2D / Profecia",
-        "url": "https://open.spotify.com/album/3dehLdQ2GoUMoLiUhP8ywZ"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "duration_ms": 154736,
-      "name": "#SV 10 - Maru2D / Profecia",
-      "url": "https://open.spotify.com/track/7DYDemv1zIU6dja3iU1MD1"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
         "name": "LEYS",
         "url": "https://open.spotify.com/album/7plnU8Zk6snisYnjsALZjV"
       },
@@ -591,34 +619,6 @@
       "duration_ms": 134653,
       "name": "Je suis",
       "url": "https://open.spotify.com/track/1ShtGXVKTdaeAnA0w8Qjn3"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        },
-        {
-          "name": "AmandesNoBeat",
-          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "T\u00e1 Eu e a Nicole",
-      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -823,6 +823,46 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
+        "name": "Vista Grossa",
+        "url": "https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb"
+      },
+      "artists": [
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "L\u00edngua de Gravata",
+      "url": "https://open.spotify.com/track/1ltCk3U0gtDFTxrWKEDtT6"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
         "name": "Semiseria",
         "url": "https://open.spotify.com/album/3bVAx8tYtibv6Zcg95mb1N"
       },
@@ -879,46 +919,6 @@
       "duration_ms": 118285,
       "name": "Trajada de oh",
       "url": "https://open.spotify.com/track/0F4diOe69eweREkyvh8iZY"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
-        "name": "Vista Grossa",
-        "url": "https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb"
-      },
-      "artists": [
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "Maunatrack",
-          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "L\u00edngua de Gravata",
-      "url": "https://open.spotify.com/track/1ltCk3U0gtDFTxrWKEDtT6"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Pra Viajar",
-      "url": "https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo"
     },
     {
       "added_at": "2025-02-05 12:36:27",

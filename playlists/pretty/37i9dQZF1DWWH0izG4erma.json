@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 614087,
+  "num_followers": 614169,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+    },
+    {
+      "added_at": "2025-02-14 05:00:51",
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 196281,
       "name": "Home Team",
       "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
-    },
-    {
-      "added_at": "2025-02-14 05:00:51",
-      "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2025-02-14 05:00:51",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
-        "name": "Greener (with Mitchell Tenpenny)",
-        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener (with Mitchell Tenpenny)",
-      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
-    },
-    {
-      "added_at": "2025-02-14 05:00:51",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+    },
+    {
+      "added_at": "2025-02-14 05:00:51",
+      "album": {
+        "name": "Greener (with Mitchell Tenpenny)",
+        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener (with Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
     },
     {
       "added_at": "2025-02-14 05:00:51",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
-    },
-    {
-      "added_at": "2025-02-14 05:00:51",
-      "album": {
         "name": "Whiskey Lullaby",
         "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 269594,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+    },
+    {
+      "added_at": "2025-02-14 05:00:51",
+      "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
     },
     {
       "added_at": "2025-02-14 05:00:51",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2025-02-14 05:00:51",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+    },
+    {
+      "added_at": "2025-02-14 05:00:51",
+      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
-        "name": "Sorry For Nothing",
-        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 198176,
-      "name": "Sorry For Nothing",
-      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
-    },
-    {
-      "added_at": "2025-02-14 05:00:51",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-02-14 05:00:51",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Trainwreck",
-      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
-    },
-    {
-      "added_at": "2025-02-14 05:00:51",
-      "album": {
         "name": "Nobody's Nobody",
         "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 169390,
       "name": "Might As Well Be Me",
       "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+    },
+    {
+      "added_at": "2025-02-14 05:00:51",
+      "album": {
+        "name": "Sorry For Nothing",
+        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 198176,
+      "name": "Sorry For Nothing",
+      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
     },
     {
       "added_at": "2025-02-14 05:00:51",

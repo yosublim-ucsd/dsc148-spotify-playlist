@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,016 likes - 58 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,111 likes - 58 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 57 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 |
 | 58 | [shared waves \- 741hz](https://open.spotify.com/track/4SKqvK2AvQKNNUmrVtm0U2) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [shared waves \- 741hz](https://open.spotify.com/album/0AWvRDOsb8Q875dFkdZjJ6) | 2:53 |
 
-Snapshot ID: `Z2LLggAAAACt+4kLXNXcWhjPHgzGZbWV`
+Snapshot ID: `Z2LLggAAAABf3dOYk1Mdiw4lEui86RzF`

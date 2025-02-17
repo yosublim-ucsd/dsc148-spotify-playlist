@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-179 songs - 9 hr 30 min
+180 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cómo Marea / Besitos \- En Vivo, Teatro Provincial J.C.Saravia \- Salta](https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 2\)](https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto) | 4:20 | 2022-02-11 | 2024-08-16 |
 | [De Goya Soy](https://open.spotify.com/track/1JEZrM0qMpV73paLvLntWJ) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [De Goya Soy](https://open.spotify.com/album/2XXhwp5tDq2C2IBpLVzbb5) | 3:26 | 2024-10-11 |  |
 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 | 2021-11-19 |  |
+| [De Raza Campera](https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU) | [Leandro Gutierrez y su Conjunto](https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm) | [De Raza Campera](https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D) | 2:18 | 2024-11-12 |  |
 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 | 2024-09-27 |
 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 | 2021-11-19 |  |
 | [El Gallo Negro](https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:03 | 2021-11-19 |  |
@@ -99,7 +100,7 @@
 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 | 2021-11-19 | 2024-12-21 |
 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 | 2021-11-19 |  |
 | [La Fiesta Del Chamamé](https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamame](https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH) | 4:56 | 2021-11-19 |  |
-| [La Flecha](https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Con Los Grandes](https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA) | 2:09 | 2021-11-19 |  |
+| [La Flecha](https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Con Los Grandes](https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA) | 2:09 | 2021-11-19 | 2025-02-17 |
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-11-19 |  |
 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 | 2021-11-19 |  |
 | [La Pialada](https://open.spotify.com/track/2K6uQ3ljKIiMkEqXylFbuc) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Hecho en el Cielo, Vol\. 4](https://open.spotify.com/album/5ipomHffIPANoGbDtdTm7W) | 2:36 | 2021-11-19 | 2022-07-27 |

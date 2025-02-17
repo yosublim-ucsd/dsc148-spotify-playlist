@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Sofie Royer.
 
-1,862 songs - 4 day 4 hr 44 min
+1,863 songs - 4 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Aburridos \(Arial 8\)](https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Arial 12](https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ) | 2:38 | 2024-10-25 | 2025-02-02 |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 | 2024-06-08 |
 | [Acid Rain](https://open.spotify.com/track/0u1qECibAI6V0t4cvItL2F) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Acid Rain](https://open.spotify.com/album/3Wr2vHubG92whTTJOgy9To) | 3:06 | 2024-03-29 | 2024-04-06 |
+| [Activists](https://open.spotify.com/track/26uO1N4vHv0rDMhTvYZXGQ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Activists](https://open.spotify.com/album/3cUkFqJjXV8QL4Hm0118EM) | 2:29 | 2025-02-07 |  |
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-04-03 |
 | [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-13 | 2025-01-18 |
 | [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 | 2024-10-04 |  |
@@ -1639,7 +1640,7 @@
 | [Winter Summer](https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Winter Summer](https://open.spotify.com/album/4Gf3zFl4xUzN11HbjzIwz2) | 2:12 | 2022-09-08 | 2022-11-26 |
 | [wir haben's überlebt](https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wir haben's überlebt](https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY) | 2:20 | 2024-10-11 | 2024-11-16 |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-08-26 | 2023-05-31 |
-| [Woman Now](https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now](https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe) | 2:38 | 2024-12-13 |  |
+| [Woman Now](https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now](https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe) | 2:38 | 2024-12-13 | 2025-02-17 |
 | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/track/6FlGnCo8PvCnIWfGoaLLn7) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/album/35OO6oauvdOfXuby4YxcmB) | 1:49 | 2022-04-07 | 2022-08-02 |
 | [Wonderful](https://open.spotify.com/track/7x4RmtZxcyfcpNM0Xmn1IP) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Wonderful](https://open.spotify.com/album/4KQItagk7zPti70xlk71UX) | 3:27 | 2022-02-10 | 2022-02-25 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2022-02-03 | 2022-03-18 |

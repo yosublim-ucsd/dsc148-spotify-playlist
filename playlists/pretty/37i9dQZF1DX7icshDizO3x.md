@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 来日公演 Stray Kids World Tour 『dominATE JAPAN』のセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,910 likes - 36 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,899 likes - 36 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 35 | [Chk Chk Boom \(Festival Version\)](https://open.spotify.com/track/0pvWPyB7T0auonNDeNmyVa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:33 |
 | 36 | [Christmas Love](https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:06 |
 
-Snapshot ID: `Z2+vjQAAAAAoeDb4ZYDbZL9CjmVuUsAW`
+Snapshot ID: `Z2+vjQAAAAA/HXhoHvIIkHNuCnszjSql`

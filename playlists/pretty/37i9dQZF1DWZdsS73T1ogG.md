@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lunay, Hadess66, J Abdiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,019 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,281 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Vamos Pa la Playa](https://open.spotify.com/track/34BfWWtGdxnoDCn4oMlT51) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Moustache](https://open.spotify.com/artist/1VH70SfRlrUxXslGa9FLCG) | [Vamos Pa la Playa](https://open.spotify.com/album/2lOy8ijTOs3anm3SQ5GsIq) | 3:33 |
 | 100 | [Regalito Pa Mi Ex 2](https://open.spotify.com/track/3O6rofKjVEdte3Igfbmtc1) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Regalito Pa Mi Ex 2](https://open.spotify.com/album/7zEwNw8Pl6tDAuMc2OuWBc) | 3:22 |
 
-Snapshot ID: `Z67OAAAAAAAA5GgI7DXf6dIivgpOHTzS`
+Snapshot ID: `Z67OAAAAAAC7ZRMzavIKN1PYgKmceKHj`

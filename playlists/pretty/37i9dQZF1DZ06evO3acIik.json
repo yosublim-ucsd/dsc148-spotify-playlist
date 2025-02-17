@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 61171,
+  "num_followers": 61176,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAAA24HCdsLmxYgag+Gb9XKMA",
+  "snapshot_id": "Z6/ZAAAAAAA7BBguJek8Ji2712RltqZg",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i cant tell (love my money)",
         "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 163062,
       "name": "i cant tell (love my money)",
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "SCREAM MY NAME",
-      "url": "https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "We Are Still In Love",
+      "url": "https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bedroom Gospel",
         "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 188000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "We Are Still In Love",
-      "url": "https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 124885,
-      "name": "You Changed on Me.",
-      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 149508,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 124885,
+      "name": "You Changed on Me.",
+      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 200009,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 205734,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 244453,
       "name": "Your Love Has Called Me Back",
       "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
     },
     {
       "added_at": null,

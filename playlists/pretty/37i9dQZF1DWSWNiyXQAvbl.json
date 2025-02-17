@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 501126,
+  "num_followers": 501196,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
-      },
-      "artists": [
-        {
-          "name": "Andy Kim",
-          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Rock Me Gently",
-      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Christie",
         "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 165960,
       "name": "Yellow River",
       "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
+      },
+      "artists": [
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Rock Me Gently",
+      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Vanilla Sky (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "The Very Best of Suzi Quatro",
         "url": "https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 239240,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Vanilla Sky (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Solsbury Hill",
-      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
     },
     {
       "added_at": "2024-06-03 14:45:23",

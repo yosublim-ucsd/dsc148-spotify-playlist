@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 38963,
+  "num_followers": 38969,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAADlzrnfWLnqWzDLB5KLXYHa",
+  "snapshot_id": "Z6/ZAAAAAADwGjOLMzpqIL2xViHmjvQD",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+      "duration_ms": 206106,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Style, Vol. 5",
-        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "The Ballad Of Sal Villanueva",
-      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tony Hawk's American Wasteland Soundtrack",
         "url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 116053,
       "name": "Suburban Home / I Like Food",
       "url": "https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
     },
     {
       "added_at": null,

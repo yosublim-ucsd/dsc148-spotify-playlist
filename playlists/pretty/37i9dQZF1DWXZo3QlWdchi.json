@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 315683,
+  "num_followers": 315971,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 258265,
       "name": "Tarde Vazia (feat. Samuel Rosa) - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -172,22 +172,6 @@
       "added_at": "2024-06-07 17:34:56",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
       "artists": [
@@ -199,6 +183,22 @@
       "duration_ms": 240799,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Acustico (Live)",
-        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Acustico (Live)",
+        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -299,22 +315,6 @@
       "duration_ms": 291125,
       "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo Em S\u00e3o Paulo / 1999)",
         "url": "https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 277693,
       "name": "S\u00f3 por hoje / Tenis Roque",
       "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 215898,
-      "name": "Aposta - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "CPM 22 - Ac\u00fastico",
         "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 141136,
       "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
       "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "With Or Without You (Songs Of Surrender)",
-        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 194812,
-      "name": "With Or Without You - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "With Or Without You (Songs Of Surrender)",
+        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 194812,
+      "name": "With Or Without You - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "Gold on the Ceiling (BBC Session)",
         "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "Shadow Of The Day (Acoustic)",
         "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb"
     },
     {
       "added_at": "2024-06-07 17:34:56",

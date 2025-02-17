@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 81860,
+  "num_followers": 81872,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAADau9UnqEkCFzAexoSO5h/p",
+  "snapshot_id": "Z6/ZAAAAAAAFjaaCJFFp95JH+JxhNcO3",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
-        {
-          "name": "Kevin Sherwood",
-          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
-        },
-        {
-          "name": "Matthew K. Heafy",
-          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
-        },
         {
           "name": "Trivium",
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 229019,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
+      "duration_ms": 285522,
+      "name": "What The Dead Men Say",
+      "url": "https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh"
     },
     {
       "added_at": null,
@@ -259,18 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
       },
       "artists": [
+        {
+          "name": "Kevin Sherwood",
+          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        },
         {
           "name": "Trivium",
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 285522,
-      "name": "What The Dead Men Say",
-      "url": "https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh"
+      "duration_ms": 229019,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 331933,
-      "name": "The Wretchedness Inside",
-      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228926,
       "name": "Bleed Into Me",
       "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 331933,
+      "name": "The Wretchedness Inside",
+      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
     },
     {
       "added_at": null,

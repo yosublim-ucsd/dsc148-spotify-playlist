@@ -2002,10 +2002,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 260760,
       "name": "Shake It Baby",
       "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
+    },
+    {
+      "album": {
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261837,
+      "name": "Shake It Baby - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU"
     },
     {
       "album": {

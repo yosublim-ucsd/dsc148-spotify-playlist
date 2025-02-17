@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 415483,
+  "num_followers": 415647,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAABo8TiMoYOmoK5x/8yVqiE9",
+  "snapshot_id": "Z6/ZAAAAAABkIKDV986D2ZeYZ+JEL7z0",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Feel No Pain",
-      "url": "https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 328333,
       "name": "Why Can't We Live Together",
       "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Mr Wrong",
-      "url": "https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205973,
       "name": "When Am I Going to Make a Living",
       "url": "https://open.spotify.com/track/5DYD5pUUnf3MT6LafqPqOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Mr Wrong",
+      "url": "https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Maureen",
-      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 283426,
       "name": "I Will Be Your Friend",
       "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Maureen",
+      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Lion",
-        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 252884,
-      "name": "Young Lion",
-      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 378733,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Lion",
+        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 252884,
+      "name": "Young Lion",
+      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soldier of Love",
-        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Be That Easy",
-      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 278306,
       "name": "Frankie's First Affair",
       "url": "https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Be That Easy",
+      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
     },
     {
       "added_at": null,

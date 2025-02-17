@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 161160,
       "name": "Abantwana Basethempeleni (Children of the Temple)",
       "url": "https://open.spotify.com/track/1n5U6EehsjKoFttFoV6oMZ"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 226400,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/0sGbDq8dssHTaXryYykdEa"
@@ -662,10 +662,32 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 265043,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO"
+    },
+    {
+      "album": {
+        "name": "Feathers And Stone",
+        "url": "https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265043,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7t2Y19ZB4Cr9Wja96qrOvS"
     },
     {
       "album": {

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264506,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb"
+    },
+    {
+      "album": {
         "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 73720,
       "name": "I Can Live In Hope",
       "url": "https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 173346,
       "name": "ISS",
       "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 132906,
       "name": "Moon Phases",
       "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 276960,
       "name": "One Bad Apple",
       "url": "https://open.spotify.com/track/7d0tFACa1vdGzVt5HdOLXy"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 82480,
       "name": "One Cup One Heart",
       "url": "https://open.spotify.com/track/5mG99wYvEebgwmXM3gXJyC"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 281213,
       "name": "Our Eternal Sky",
       "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 142360,
       "name": "To Have Adventures",
       "url": "https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp"

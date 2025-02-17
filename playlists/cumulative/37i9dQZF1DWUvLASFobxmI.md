@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-646 songs - 1 day 10 hr 11 min
+647 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [El Mejor De Mis Días](https://open.spotify.com/track/2TiaN5xxTHxUT2jdKAJyP5) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [El Mejor de Mis Días](https://open.spotify.com/album/0GFG1VqrFrdhhZLqxQWZPF) | 3:01 | 2024-06-21 | 2024-08-17 |
 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 | 2023-12-15 | 2024-01-13 |
 | [El Mero Jefe](https://open.spotify.com/track/7x8zB0fCcGX2Laz7aOdX8d) | [Grupo DH](https://open.spotify.com/artist/1hsSik9MaFxsUbimuleDxZ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Mero Jefe](https://open.spotify.com/album/7I18KlTao7kD9zzaiHJA0U) | 2:50 | 2023-01-13 | 2023-01-21 |
+| [El Michoacano](https://open.spotify.com/track/3paVHrLxRcgauA9dNzzBx7) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Michoacano](https://open.spotify.com/album/6pkjlwfyvEvcXbb43ONIwp) | 2:29 | 2025-01-31 |  |
 | [El Mochomo \- Live](https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Mochomo \(Live\)](https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H) | 2:56 | 2024-12-20 |  |
 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-08 | 2024-03-23 |
 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 | 2023-05-26 | 2023-09-22 |
@@ -478,7 +479,7 @@
 | [PARIENTON](https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [PARIENTON](https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR) | 2:29 | 2024-08-30 |  |
 | [Pase y Pase](https://open.spotify.com/track/34bYLz0WrZvFAcjn9f9sW1) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Pase y Pase](https://open.spotify.com/album/3v5dehR5hdwW6ZtV8H9FZV) | 2:23 | 2023-06-30 | 2023-07-15 |
 | [Paul Gallaga](https://open.spotify.com/track/5SW71Rw9qJQvy6QLVctg5h) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Paul Gallaga](https://open.spotify.com/album/2PisFqKeu1mpgRRYLTk9hV) | 3:03 | 2023-02-24 | 2023-03-09 |
-| [Paz En Este Amor](https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:55 | 2024-12-20 |  |
+| [Paz En Este Amor](https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:55 | 2024-12-20 | 2025-02-17 |
 | [Paz en Este Amor](https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Paz en Este Amor](https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT) | 3:22 | 2024-09-20 |  |
 | [Películas de Miedo](https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn) | [Los HH](https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w) | [Películas de Miedo](https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm) | 3:18 | 2024-11-22 | 2024-12-21 |
 | [Pensando En Ti](https://open.spotify.com/track/4FR3utwoboyYzKXrQPtiDG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Pensando En Ti](https://open.spotify.com/album/5wn18PD40QMoq03QNy5777) | 3:02 | 2024-05-24 | 2024-06-29 |

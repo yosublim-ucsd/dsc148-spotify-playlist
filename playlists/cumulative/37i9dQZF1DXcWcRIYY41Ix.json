@@ -10935,6 +10935,28 @@
     },
     {
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/17OuDnrZC8XlT4blmDVYXN"
+      },
+      "artists": [
+        {
+          "name": "Anthony and the Melody Makers",
+          "url": "https://open.spotify.com/artist/0LZEH4SvHZLRkOs45hAYbu"
+        },
+        {
+          "name": "Mau \u00c1alen",
+          "url": "https://open.spotify.com/artist/0HCnWMufqSRED6gy4U0rcC"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222011,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5O0vSAo60lxgy29IwAEcbZ"
+    },
+    {
+      "album": {
         "name": "Quiero y duelo",
         "url": "https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW"
       },
@@ -12240,7 +12262,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"

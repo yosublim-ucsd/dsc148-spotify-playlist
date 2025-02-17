@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Camino De Aguascalientes",
+        "url": "https://open.spotify.com/album/6UikJN7iJDdPecf74oGwEP"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181355,
+      "name": "Camino De Aguascalientes",
+      "url": "https://open.spotify.com/track/1308SaRnXe3eiYEXClt7TL"
+    },
+    {
+      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 147680,
       "name": "Camino de Guanajuato Ay Jalisco",
       "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 206880,
       "name": "El Cantador - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 234500,
       "name": "La Morenita Corrido a Zacatecas",
       "url": "https://open.spotify.com/track/18YWFM0IEaaKNQY9r7LGIh"

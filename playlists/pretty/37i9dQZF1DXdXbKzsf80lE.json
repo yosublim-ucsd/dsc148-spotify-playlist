@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 260919,
+  "num_followers": 260957,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "Piseiro 2020 Ao Vivo",
+        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Chorei na Vaquejada",
         "url": "https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 175046,
       "name": "Tap\u00e3o Na Raba",
       "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Piseiro 2020 Ao Vivo",
-        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -315,42 +315,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "O Original",
         "url": "https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 183536,
       "name": "Cabe\u00e7a Voando",
       "url": "https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Eu Acho Que N\u00e3o",
+      "url": "https://open.spotify.com/track/5uaK6bYrpEqRkJjERzAXfT"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Todos Os Ritmos",
         "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Eu Acho Que N\u00e3o",
-      "url": "https://open.spotify.com/track/5uaK6bYrpEqRkJjERzAXfT"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Xperience Na Praia (ao Vivo)",
-        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Inquilina - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "N\u00e3o Manda \u00c1udio",
         "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 163654,
       "name": "Caf\u00e9zin de V\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Xperience Na Praia (ao Vivo)",
+        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Inquilina - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 209717,
-      "name": "Casal Raiz - Ao Vivo",
-      "url": "https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "Trip do Boyzinho",
         "url": "https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 209717,
+      "name": "Casal Raiz - Ao Vivo",
+      "url": "https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo - Deluxe",
         "url": "https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Saudade Braba",
-        "url": "https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        },
-        {
-          "name": "Tony Guerra & Forr\u00f3 Sacode",
-          "url": "https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV"
-        }
-      ],
-      "duration_ms": 168658,
-      "name": "Amor de Rapariga",
-      "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "CP 25 Anos, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 251061,
       "name": "Um Degrau na Escada - Ao Vivo",
       "url": "https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Saudade Braba",
+        "url": "https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Tony Guerra & Forr\u00f3 Sacode",
+          "url": "https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Amor de Rapariga",
+      "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
     },
     {
       "added_at": "2025-01-17 10:46:45",

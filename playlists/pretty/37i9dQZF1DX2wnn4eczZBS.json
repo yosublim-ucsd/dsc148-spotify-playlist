@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sef",
-  "num_followers": 9865,
+  "num_followers": 9868,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "drift",
-        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "Mathieu Terryn",
-          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Ik heb je zo gemist",
-      "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
-    },
-    {
-      "added_at": "2025-02-13 23:00:15",
-      "album": {
         "name": "IJSLAND",
         "url": "https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 191453,
       "name": "PRADA STELEN",
       "url": "https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG"
+    },
+    {
+      "added_at": "2025-02-13 23:00:15",
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Mathieu Terryn",
+          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Ik heb je zo gemist",
+      "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
     },
     {
       "added_at": "2025-02-13 23:00:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "Altijd Anders",
-        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
-      },
-      "artists": [
-        {
-          "name": "Massi",
-          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Altijd Anders",
-      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
-    },
-    {
-      "added_at": "2025-02-13 23:00:15",
-      "album": {
         "name": "Drijfzand",
         "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 190467,
       "name": "alle buren moeten dood",
       "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
+    },
+    {
+      "added_at": "2025-02-13 23:00:15",
+      "album": {
+        "name": "Altijd Anders",
+        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Altijd Anders",
+      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
     },
     {
       "added_at": "2025-02-13 23:00:15",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "Privilege",
-        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
+        "name": "Hopeloze Romanticus",
+        "url": "https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8"
       },
       "artists": [
         {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+          "name": "Q'n",
+          "url": "https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM"
         }
       ],
-      "duration_ms": 118666,
-      "name": "Privilege",
-      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
+      "duration_ms": 194000,
+      "name": "Allermooiste Pijn",
+      "url": "https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7"
     },
     {
       "added_at": "2025-02-13 23:00:15",
@@ -723,50 +723,18 @@
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "alsof",
-        "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
+        "name": "Privilege",
+        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
       },
       "artists": [
         {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
         }
       ],
-      "duration_ms": 212091,
-      "name": "alsof",
-      "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
-    },
-    {
-      "added_at": "2025-02-13 23:00:15",
-      "album": {
-        "name": "Lach",
-        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Lach",
-      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
-    },
-    {
-      "added_at": "2025-02-13 23:00:15",
-      "album": {
-        "name": "Sorry Lul",
-        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 167968,
-      "name": "Sorry Lul",
-      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
+      "duration_ms": 118666,
+      "name": "Privilege",
+      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
     },
     {
       "added_at": "2025-02-13 23:00:15",
@@ -787,50 +755,82 @@
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "Hopeloze Romanticus",
-        "url": "https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8"
+        "name": "Sorry Lul",
+        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
       },
       "artists": [
         {
-          "name": "Q'n",
-          "url": "https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Allermooiste Pijn",
-      "url": "https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7"
+      "duration_ms": 167968,
+      "name": "Sorry Lul",
+      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
     },
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "Ik Weet Het",
-        "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
+        "name": "alsof",
+        "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
       },
       "artists": [
         {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
         }
       ],
-      "duration_ms": 241833,
-      "name": "Ik Weet Het",
-      "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+      "duration_ms": 212091,
+      "name": "alsof",
+      "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
     },
     {
       "added_at": "2025-02-13 23:00:15",
       "album": {
-        "name": "Dag en Nacht",
-        "url": "https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ"
+        "name": "Staal Op Staal",
+        "url": "https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q"
       },
       "artists": [
         {
-          "name": "YRSA",
-          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
+          "name": "dorpsstraat 3",
+          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
         }
       ],
-      "duration_ms": 219357,
-      "name": "Dag en Nacht",
-      "url": "https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV"
+      "duration_ms": 235704,
+      "name": "Filmster",
+      "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
+    },
+    {
+      "added_at": "2025-02-13 23:00:15",
+      "album": {
+        "name": "Lach",
+        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Lach",
+      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
+    },
+    {
+      "added_at": "2025-02-13 23:00:15",
+      "album": {
+        "name": "Doe Eens Raar",
+        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Doe Eens Raar",
+      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
     }
   ],
   "unique_name": "indiepuntnl",

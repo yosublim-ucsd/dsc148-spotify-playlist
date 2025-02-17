@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Masala Coffee
 
-981 songs - 2 day 5 hr 36 min
+982 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-11 |
 | [Ja Tujhko 2.0](https://open.spotify.com/track/0k9lmwQjlw3Fe73yMzUnRV) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko 2.0](https://open.spotify.com/album/1g4i8uacpNI8e79YY7NhHG) | 3:56 | 2024-06-14 | 2024-08-03 |
 | [Jaadoo](https://open.spotify.com/track/3ZHmiuKzbaOV347H4dFt7t) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaadoo](https://open.spotify.com/album/30nLQdatACyFiqwP9B9V2B) | 3:50 | 2024-07-26 | 2024-08-31 |
-| [Jaadu Tera](https://open.spotify.com/track/6mk1Jm7UgHV3tlz4jWRqg9) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Jaadu Tera](https://open.spotify.com/album/1vOHf5Sn6FTdOgBPtox5r3) | 4:13 | 2025-01-24 |  |
+| [Jaadu Tera](https://open.spotify.com/track/6mk1Jm7UgHV3tlz4jWRqg9) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Jaadu Tera](https://open.spotify.com/album/1vOHf5Sn6FTdOgBPtox5r3) | 4:13 | 2025-01-24 | 2025-02-17 |
 | [Jaadu Tone](https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaadu Tone](https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi) | 3:26 | 2024-01-19 | 2024-06-22 |
 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 | 2024-05-23 | 2024-12-07 |
 | [Jaadui](https://open.spotify.com/track/6n8pzV9uqRScejlQ2FFoM6) | [Shashwat Dixit](https://open.spotify.com/artist/2CIkcfZhKiBcjg2yEfuVSh) | [Jaadui](https://open.spotify.com/album/613SLRILKYFIVUVzhW6CBL) | 2:02 | 2024-07-19 | 2024-09-13 |
@@ -852,6 +852,7 @@
 | [Tera Naam Le Liya](https://open.spotify.com/track/451KgbRMWlczNOcIvaPyz8) | [Sam](https://open.spotify.com/artist/6JCV2i9Pv0OytnAj5zz3oC), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Tera Naam Le Liya](https://open.spotify.com/album/01aNIROZbVeAaLebvYgaJp) | 3:34 | 2024-06-21 | 2024-07-13 |
 | [Tera Rahoon](https://open.spotify.com/track/2trVpKomYRJZP15P8Ya2JU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4) | [Tera Rahoon](https://open.spotify.com/album/1tMApkXGbpx9ZmL9Q0pTEJ) | 2:52 | 2024-08-23 | 2024-10-12 |
 | [Tera Saaya](https://open.spotify.com/track/1u9dZcTMqoG63GR0w1mY6N) | [Venoz](https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm), [Pushkar Bhatia](https://open.spotify.com/artist/1d76U9DrX0mmCEFRqSQuxv) | [Tera Saaya](https://open.spotify.com/album/4sCo1yvDOECVUTdJlkO8bD) | 2:21 | 2024-09-20 | 2024-10-26 |
+| [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 | 2025-02-14 |  |
 | [Tere Baare Mein](https://open.spotify.com/track/5FIZkWhzIHzgzF6TMFDRNV) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Darpan Suthar](https://open.spotify.com/artist/15RFLAL0GREZc3gi4j0GuW), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Tere Baare Mein](https://open.spotify.com/album/7ke5D2jRRyxqftKzofXVIE) | 3:43 | 2023-04-14 | 2023-06-17 |
 | [Tere Bin](https://open.spotify.com/track/2vdLtmGck6EheNdhtsyw6J) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Tere Bin](https://open.spotify.com/album/2feekoDpZxg3bKhnDmMSoJ) | 3:09 | 2024-04-19 | 2024-06-15 |
 | [Tere Bina](https://open.spotify.com/track/3KQPMpUrA1hN2QGlFCNihh) | [Himangshu Bharali](https://open.spotify.com/artist/00dY65h6flKlnEsjSnVek7), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Tere Bina](https://open.spotify.com/album/7l5NVy7P8IqNrT0JZPm7Pp) | 2:20 | 2024-07-05 | 2024-08-10 |

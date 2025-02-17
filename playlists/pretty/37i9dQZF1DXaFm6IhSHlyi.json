@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 146596,
+  "num_followers": 146615,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 265363,
-      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Meri Pyaari Bindu",
         "url": "https://open.spotify.com/album/5aB2ao1SUs9f4bAmptE1yM"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 265363,
+      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Read All About It, Pt. III",
-      "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 202386,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Bitter Pill (Deluxe Version)",
+        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Love song",
         "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Bitter Pill (Deluxe Version)",
-        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Forever And Ever",
         "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 174000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1703,22 +1703,6 @@
       "duration_ms": 177481,
       "name": "The Hunting Field",
       "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "You Are The Reason",
+        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 204326,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 169748,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "You Are The Reason",
-        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 204326,
-      "name": "You Are The Reason",
-      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-        "url": "https://open.spotify.com/album/6wns67svPCJsRZIrCfkLIb"
-      },
-      "artists": [
-        {
-          "name": "HammAli & Navai",
-          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
-        }
-      ],
-      "duration_ms": 240971,
-      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-      "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
         "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 287500,
       "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
       "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+        "url": "https://open.spotify.com/album/6wns67svPCJsRZIrCfkLIb"
+      },
+      "artists": [
+        {
+          "name": "HammAli & Navai",
+          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
+        }
+      ],
+      "duration_ms": 240971,
+      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+      "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/47TtqgVMHFpQnWDqrFvxxB"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
     },
     {
       "added_at": "2022-10-17 15:00:00",

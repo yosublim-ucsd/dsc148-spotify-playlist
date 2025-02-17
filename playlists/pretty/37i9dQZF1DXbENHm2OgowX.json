@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 253762,
+  "num_followers": 253839,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 583160,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
         "name": "F\u266f A\u266f \u221e",
         "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 583160,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -455,6 +471,38 @@
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Soundtracks for the Blind",
+        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 947666,
+      "name": "Helpless Child",
+      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "You Are Here / Ataraxia",
+        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -491,70 +539,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "a mother's daughter",
-        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "a mother's daughter",
-      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "Soundtracks for the Blind",
-        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 947666,
-      "name": "Helpless Child",
-      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "You Are Here / Ataraxia",
-        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -607,6 +575,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -639,6 +623,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "Womb Trails",
         "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200059,
       "name": "Perpetual Care",
       "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Birth Marks",
+      "url": "https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -915,34 +915,18 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
       "artists": [
         {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
         }
       ],
-      "duration_ms": 156301,
-      "name": "Locale",
-      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Birth Marks",
-      "url": "https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR"
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -959,6 +943,22 @@
       "duration_ms": 505249,
       "name": "If I Let Him In",
       "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "duration_ms": 156301,
+      "name": "Locale",
+      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
     },
     {
       "added_at": "2024-12-12 18:00:56",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2024-12-12 18:00:56",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2024-12-12 18:00:56",
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
         "name": "Dreams of a Wake",
         "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 283986,
       "name": "Chlorine Gargoyle",
       "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2024-12-12 18:00:56",

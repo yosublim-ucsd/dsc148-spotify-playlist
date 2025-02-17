@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
-  "num_followers": 162742,
+  "num_followers": 162844,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 342306,
-      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 298174,
       "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
       "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 342306,
+      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Vai Remando",
-        "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 299692,
-      "name": "Vai Remando",
-      "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "O C\u00e9u Tem Mais",
         "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 452805,
       "name": "O C\u00e9u Tem Mais",
       "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Vai Remando",
+        "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 299692,
+      "name": "Vai Remando",
+      "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -395,78 +395,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Tempo de Espera",
-        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
-      },
-      "artists": [
-        {
-          "name": "Ketelyn Amanda",
-          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Tempo de Espera",
-      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Santidade",
-        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 380400,
-      "name": "Santidade",
-      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Foi o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 412703,
-      "name": "Foi o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -491,18 +419,54 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Infinitamente Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv"
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
       "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Santidade",
+        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 380400,
+      "name": "Santidade",
+      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Tempo de Espera",
+        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+      },
+      "artists": [
+        {
+          "name": "Ketelyn Amanda",
+          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+        },
         {
           "name": "Sued Silva",
           "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 375041,
-      "name": "Infinitamente Mais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS"
+      "duration_ms": 263040,
+      "name": "Tempo de Espera",
+      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -543,6 +507,42 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "Foi o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 412703,
+      "name": "Foi o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Infinitamente Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 375041,
+      "name": "Infinitamente Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Sorrir de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 495754,
       "name": "Sorrir de Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "T\u00e1 nas M\u00e3os de Deus",
+        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 262528,
+      "name": "T\u00e1 nas M\u00e3os de Deus",
+      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -603,26 +623,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "T\u00e1 nas M\u00e3os de Deus",
-        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 262528,
-      "name": "T\u00e1 nas M\u00e3os de Deus",
-      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Esp\u00edrito Santo",
         "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Como Flecha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 356403,
       "name": "Como Flecha - Ao Vivo",
       "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Minha Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        }
-      ],
-      "duration_ms": 421992,
-      "name": "Minha Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "O M\u00ednimo de Mim",
         "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314542,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Pra Que Temer (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4"
       },
@@ -851,6 +851,26 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "Minha Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 421992,
+      "name": "Minha Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Foi Livramento",
         "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 219000,
       "name": "Foi Livramento",
       "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314542,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
         "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 282709,
       "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1031,18 +1031,38 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1067,18 +1087,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Deus Vai Agir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1131,26 +1151,6 @@
       "duration_ms": 275132,
       "name": "N\u00e3o Vai Se Repetir",
       "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Estou Entrando em A\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Estou Entrando em A\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 647185,
       "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Estou Entrando em A\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Estou Entrando em A\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Tranquiliza (Ao Vivo)",
         "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 282000,
       "name": "Existe Um Deus",
       "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "A S\u00f3s Com o Pai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "A S\u00f3s Com o Pai (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Casinha",
         "url": "https://open.spotify.com/album/7jBDXpre1faySyuL8MFAHA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 389634,
       "name": "O Noivo Vir\u00e1",
       "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf"
     },
     {
       "added_at": "2025-02-14 03:01:18",

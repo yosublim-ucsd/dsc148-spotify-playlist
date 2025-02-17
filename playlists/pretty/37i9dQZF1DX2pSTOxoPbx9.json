@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 845392,
+  "num_followers": 845466,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Blue Banisters",
-        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 314662,
       "name": "I Always Wanna Die (Sometimes)",
       "url": "https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
     },
     {
       "added_at": "2024-09-24 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
+      "duration_ms": 259466,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -219,6 +219,42 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -247,22 +283,18 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
         }
       ],
-      "duration_ms": 264320,
-      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -283,38 +315,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
-        }
-      ],
-      "duration_ms": 143988,
-      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 254263,
       "name": "Evol",
       "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -607,6 +591,38 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "Noonday Dream",
+        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 394320,
+      "name": "Nica Libres At Dusk",
+      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "Noonday Dream",
-        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 394320,
-      "name": "Nica Libres At Dusk",
-      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -703,38 +703,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "Milk & Honey - Alt Version",
-      "url": "https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "I Can't Go on Without You",
-        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "The Burgh Island EP",
         "url": "https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 288493,
+      "name": "Milk & Honey - Alt Version",
+      "url": "https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Take Me to Church EP",
         "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218986,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "I Can't Go on Without You",
+        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB"
-      },
-      "artists": [
-        {
-          "name": "Sleep Thieves",
-          "url": "https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY"
-        }
-      ],
-      "duration_ms": 123160,
-      "name": "Out of the Darkness",
-      "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Given Up \u2013 EP",
         "url": "https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 317026,
       "name": "Bell Under Water",
       "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB"
+      },
+      "artists": [
+        {
+          "name": "Sleep Thieves",
+          "url": "https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY"
+        }
+      ],
+      "duration_ms": 123160,
+      "name": "Out of the Darkness",
+      "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1255,6 +1255,22 @@
       "duration_ms": 233438,
       "name": "Through a Glass (Quartet Version)",
       "url": "https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "VA",
+        "url": "https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2"
+      },
+      "artists": [
+        {
+          "name": "The Last Bison",
+          "url": "https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc"
+        }
+      ],
+      "duration_ms": 252876,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "VA",
-        "url": "https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2"
-      },
-      "artists": [
-        {
-          "name": "The Last Bison",
-          "url": "https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc"
-        }
-      ],
-      "duration_ms": 252876,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Fire Line",
         "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Washed Away",
         "url": "https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 236364,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1563,6 +1563,30 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "Killer + The Sound",
+        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Abby Gundersen",
+          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
+        }
+      ],
+      "duration_ms": 475186,
+      "name": "Killer + The Sound",
+      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Out in the Storm",
         "url": "https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli"
       },
@@ -1595,46 +1619,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Killer + The Sound",
-        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Abby Gundersen",
-          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
-        }
-      ],
-      "duration_ms": 475186,
-      "name": "Killer + The Sound",
-      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "Occasionally",
-        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Philharmonics",
         "url": "https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 230546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "The System Only Dreams in Total Darkness",
+        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The System Only Dreams in Total Darkness",
+      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
     }
   ],
   "unique_name": "Dark & Stormy",

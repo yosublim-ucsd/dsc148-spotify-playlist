@@ -4,7 +4,7 @@
 
 > Inspirational hip hop\. Cover:  Trae The Truth
 
-478 songs - 23 hr 52 min
+479 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Spare A Dollar](https://open.spotify.com/track/0B8ktOpKDPtiqA9TGVHuLj) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Spare A Dollar](https://open.spotify.com/album/2qvyLCBDxKOvPGsrNScYd9) | 2:38 | 2021-12-11 | 2022-07-25 |
 | [Spirit Lead Me](https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Circle of Life](https://open.spotify.com/album/5rpuUYlJs7QuyER1ZZ75WO) | 2:04 | 2024-08-26 |  |
 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 | 2022-11-18 | 2024-06-26 |
+| [Stamina!](https://open.spotify.com/track/5t6PUE4EW0TMbSyuIxrTqg) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Stamina!](https://open.spotify.com/album/5lYWJbXmfioF7CZCVn4EBC) | 2:19 | 2025-02-16 |  |
 | [Stickin](https://open.spotify.com/track/7Bch9LNK8Ukbi6yKoMBV6W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Foolie Vision](https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd) | [Stickin](https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX) | 1:51 | 2022-11-18 | 2022-11-26 |
 | [STICKS & STONES](https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [GENESIS](https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5) | 3:22 | 2022-03-25 | 2022-04-18 |
 | [Still 40 Deep](https://open.spotify.com/track/5yqhWeJnZWf8lYY8OTBAMP) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Still 40 Deep](https://open.spotify.com/album/55WJJhhkdRw4V3JKCPfz5b) | 2:05 | 2021-12-11 | 2022-11-19 |

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314333,
+      "name": "Getting Into Knives",
+      "url": "https://open.spotify.com/track/2b3XA03SZ0ns3Lgc1Y8Xin"
+    },
+    {
+      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },

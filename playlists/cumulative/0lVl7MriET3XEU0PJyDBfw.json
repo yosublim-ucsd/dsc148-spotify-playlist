@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/5wZuG1yNstkHxyfNq7Twil"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Dave Spoon",
+          "url": "https://open.spotify.com/artist/5PzvgD5FRnWpc5fGOLoNVO"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184855,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/32mSh9HjMRFZV1seZJwgtn"
+    },
+    {
+      "album": {
         "name": "Attracted",
         "url": "https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b"
       },
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 221682,
       "name": "Blacked Out",
       "url": "https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 165581,
       "name": "Came To The Club",
       "url": "https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0"
@@ -2020,7 +2042,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 211384,
       "name": "Dancefloor Queen - Lokmann Remix",
       "url": "https://open.spotify.com/track/1lqxrMy6jaPYxmims8mPz5"
@@ -3899,6 +3921,36 @@
     },
     {
       "album": {
+        "name": "Go Back (feat. Julia Church) [Kyle Watson Remix]",
+        "url": "https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Go Back (feat. Julia Church) - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF"
+    },
+    {
+      "album": {
         "name": "Go Deep",
         "url": "https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2"
       },
@@ -3944,6 +3996,24 @@
       "duration_ms": 160312,
       "name": "Go Fast",
       "url": "https://open.spotify.com/track/5KJ8TLJypyM3nnFZtWbbry"
+    },
+    {
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0"
+      },
+      "artists": [
+        {
+          "name": "Jewel Kid",
+          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT"
     },
     {
       "album": {
@@ -4310,7 +4380,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 155076,
       "name": "Housewrecker",
       "url": "https://open.spotify.com/track/5nH8mtSvwNfkomfI2LLz9r"
@@ -4598,7 +4668,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 145454,
       "name": "I Like The Beat",
       "url": "https://open.spotify.com/track/7EEa4j3RTKc3d6fPQB65uB"
@@ -5080,7 +5150,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 220394,
       "name": "Know Ur Down",
       "url": "https://open.spotify.com/track/5zl5pRRbKSTituTyjqihT0"
@@ -5343,6 +5413,32 @@
     },
     {
       "album": {
+        "name": "Life Lesson",
+        "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Life Lesson",
+      "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
+    },
+    {
+      "album": {
         "name": "Light Show",
         "url": "https://open.spotify.com/album/647PYEX0U886SZ5t8wgoQC"
       },
@@ -5566,6 +5662,24 @@
       "duration_ms": 239083,
       "name": "Lost - TR748",
       "url": "https://open.spotify.com/track/6fEkR4SqsO3ZRjP4NMZPjc"
+    },
+    {
+      "album": {
+        "name": "Love & Happiness",
+        "url": "https://open.spotify.com/album/2vYvtzbmaeQQ1gqeKnLQqt"
+      },
+      "artists": [
+        {
+          "name": "Empher",
+          "url": "https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/1NB6tzi3gczglx7y6smdLL"
     },
     {
       "album": {
@@ -6104,6 +6218,28 @@
       "duration_ms": 219047,
       "name": "MUSIC IS OUR LIFE",
       "url": "https://open.spotify.com/track/0aJ7g4vz8WZfZIwaFsnj0F"
+    },
+    {
+      "album": {
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/4Hj6ISN9FtiDNiRAvay1T6"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202968,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/1MbJcTcrGqZOclhQcKUn8N"
     },
     {
       "album": {
@@ -6837,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/1ACFKfuUnG6QKrqK2JevQC"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GT6lybuzfwsWvhLqdwEKg"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
@@ -7468,7 +7622,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 176250,
       "name": "Raver",
       "url": "https://open.spotify.com/track/4w0im0apa9otecsHkTQjde"
@@ -9537,6 +9691,24 @@
     },
     {
       "album": {
+        "name": "Trills Trills Trills",
+        "url": "https://open.spotify.com/album/6xVBkW5WqbHykYr6bTYHov"
+      },
+      "artists": [
+        {
+          "name": "Paul Maddox",
+          "url": "https://open.spotify.com/artist/75PhvOvv3IXTutHblrES6T"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205652,
+      "name": "The Truth Will Set You Free",
+      "url": "https://open.spotify.com/track/5yBQYqJHaFBhybgObajcwN"
+    },
+    {
+      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M"
       },
@@ -9678,7 +9850,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 196875,
       "name": "Til The Mornin",
       "url": "https://open.spotify.com/track/1feZzZu5qWDce4cudnneJK"

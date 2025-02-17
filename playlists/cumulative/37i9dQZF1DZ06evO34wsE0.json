@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "When You Kiss Me",
+      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
+    },
+    {
+      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 248213,
       "name": "When You Kiss Me - Red Version",
       "url": "https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm"

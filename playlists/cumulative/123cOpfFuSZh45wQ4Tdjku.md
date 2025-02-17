@@ -4,7 +4,7 @@
 
 > mostly furry
 
-287 songs - 14 hr 37 min
+288 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [People Online](https://open.spotify.com/track/2XWJM20RueNd2kcGLRODuR) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [People Online](https://open.spotify.com/album/03afgPjOimp4YFk7acfWxM) | 3:21 | 2024-07-19 |  |
 | [Photo Frames](https://open.spotify.com/track/7KjmNkS41mhypuJ9ykL8TK) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Photo Frames](https://open.spotify.com/album/4xo3X0I11ZQuwIKk32Q23I) | 3:28 | 2024-05-23 |  |
 | [Pineapple Fox](https://open.spotify.com/track/7kHFBaTzcZ1vrVwdIMHdj5) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:56 | 2024-08-03 |  |
+| [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 | 2025-02-16 |  |
 | [Poison \- Emily Version](https://open.spotify.com/track/4Pj4LeXZomBihmFZZwTEIy) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Poison \(Emily Version\)](https://open.spotify.com/album/6ovZIbU4vscAbzpdB7Eh59) | 2:02 | 2024-05-14 |  |
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-01-31 |  |
 | [Polaroid](https://open.spotify.com/track/2RsjsiCzMXqixxqoJH7NDz) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Polaroid](https://open.spotify.com/album/1CVB5PJMyMuZ0w5fTzDjnQ) | 1:07 | 2024-05-23 |  |

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175804,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/74JyrqVaI91P8upaypTa19"
+    },
+    {
+      "album": {
         "name": "Black Diamond (Live from Madison, WI. 2023)",
         "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 181840,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 234893,
       "name": "Gimme Something Good",
       "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
@@ -2471,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271270,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/0RpgOO8taMgvmDKUbTuOFj"
+    },
+    {
+      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 367386,
       "name": "Out of the Woods",
       "url": "https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV"
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 172733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7gE74hB2S8koJmNEPK3NdL"
@@ -3544,7 +3580,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 170133,
       "name": "Starfire",
       "url": "https://open.spotify.com/track/2TpNrJWGjdjLK13IzcXQ67"
@@ -4203,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294708,
+      "name": "Walk In The Dark",
+      "url": "https://open.spotify.com/track/4DGhZZw22xxlbqnMUq7oL9"
+    },
+    {
+      "album": {
         "name": "War Pigs (Live from Birmingham, UK. 2023)",
         "url": "https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq"
       },
@@ -4398,6 +4452,24 @@
       "duration_ms": 211666,
       "name": "When The Stars Go Blue",
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
+    },
+    {
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274146,
+      "name": "When You Cross Over",
+      "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
     },
     {
       "album": {

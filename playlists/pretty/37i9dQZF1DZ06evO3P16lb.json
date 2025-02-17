@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 364,
+  "num_followers": 365,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAADVndrdmIWxn3XnQWgBJZIR",
+  "snapshot_id": "Z6/ZAAAAAAAu53oIO6lbw3ThsRm3QNU8",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herederos",
-        "url": "https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Herencia De Mexico",
-          "url": "https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 156419,
-      "name": "Hay Unos Ojos",
-      "url": "https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Ha Pasado",
         "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 191770,
       "name": "A Mi Me Ha Pasado",
       "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herederos",
+        "url": "https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Herencia De Mexico",
+          "url": "https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 156419,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC"
     },
     {
       "added_at": null,

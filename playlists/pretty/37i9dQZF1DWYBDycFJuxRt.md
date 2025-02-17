@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 斉藤和義 \*👉 <a href="https://spice.eplus.jp/articles/335552">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,105 likes - 68 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,106 likes - 68 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 67 | [こころにさわる](https://open.spotify.com/track/5NoNglAEY6KHzfg5VEXS8w) | [モテギスミスバンド](https://open.spotify.com/artist/27gSxWOxTu47hkiBfsgsd6) | [こころにさわる](https://open.spotify.com/album/6Q3NmDAjTY03iJRRMUMStT) | 4:10 |
 | 68 | [potage](https://open.spotify.com/track/2EHZCfnrbaSyf0tJNmz3oE) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [平田楓](https://open.spotify.com/artist/1H71MH7ERQcNYAKeXIWLxp), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [potage](https://open.spotify.com/album/60yGYp0B1bQWTHCer7hULc) | 3:07 |
 
-Snapshot ID: `Z623WAAAAABukY3rx4+7JAlquUuDbgX1`
+Snapshot ID: `Z623WAAAAADA2QfugBtQAmPAC2uiJo1P`

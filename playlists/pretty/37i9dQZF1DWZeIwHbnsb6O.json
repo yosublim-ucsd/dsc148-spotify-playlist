@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 301480,
+  "num_followers": 301578,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Antolog\u00eda. . . Los Solitarios",
-        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Nada de tu amor",
-      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Coleccion Suprema Plus- Los Polifaceticos",
         "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 187173,
       "name": "Cuatro Lagrimas",
       "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Solitarios",
+        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Nada de tu amor",
+      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Dilo Tu",
-      "url": "https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Adicto al Rock N Roll",
         "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
       "artists": [
         {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
         }
       ],
-      "duration_ms": 157600,
-      "name": "D\u00e9jenme llorar - Con banda",
-      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
+      "duration_ms": 162666,
+      "name": "Dilo Tu",
+      "url": "https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -375,6 +359,38 @@
       "duration_ms": 197920,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Vamos A Platicar",
+      "url": "https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -407,22 +423,6 @@
       "duration_ms": 194426,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/4GFDdDaSwSkJEhPjGfksxM"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Vamos A Platicar",
-      "url": "https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/4ig3SdzkxcUK7VU4cuMGu0"
     },
     {
-      "added_at": "2023-03-25 17:43:32",
-      "album": {
-        "name": "Para los Peques",
-        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 131693,
-      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
-      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
-    },
-    {
       "added_at": "2019-09-04 23:38:38",
       "album": {
         "name": "Smog",
@@ -615,6 +599,38 @@
       "duration_ms": 201586,
       "name": "Smog",
       "url": "https://open.spotify.com/track/6MzXulC37YZkShGJLXYR14"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Si T\u00fa Te Acuerdas de Mi",
+        "url": "https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "duration_ms": 264161,
+      "name": "Ella Fue",
+      "url": "https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX"
+    },
+    {
+      "added_at": "2023-03-25 17:43:32",
+      "album": {
+        "name": "Para los Peques",
+        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 131693,
+      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
+      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -651,18 +667,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Si T\u00fa Te Acuerdas de Mi",
-        "url": "https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG"
+        "name": "Tan Cerca ... Tan Lejos",
+        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
       },
       "artists": [
         {
-          "name": "Javier B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 264161,
-      "name": "Ella Fue",
-      "url": "https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX"
+      "duration_ms": 248266,
+      "name": "Divina Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -699,6 +715,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Cambia, Cambia",
+        "url": "https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3"
+      },
+      "artists": [
+        {
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Cambia, Cambia",
+      "url": "https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA"
       },
@@ -731,22 +763,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Tan Cerca ... Tan Lejos",
-        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Divina Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Sucesos Musicales",
         "url": "https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218693,
       "name": "Puente de Piedra",
       "url": "https://open.spotify.com/track/1IXYAbCJ860RFdYgnse2FD"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Cambia, Cambia",
-        "url": "https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Cambia, Cambia",
-      "url": "https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 231760,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Historia De Un Idolo Vol.II",
         "url": "https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177533,
       "name": "Volver Volver",
       "url": "https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -843,6 +843,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Brillantes - Jose Jose",
+        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Los Nenes con Los Nenes",
         "url": "https://open.spotify.com/album/1VFwdg4Yzw62omxQ7ose4t"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 161786,
       "name": "Los nenes con los nenes",
       "url": "https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Las N\u00famero 1 de Manoella Torres",
-        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -891,18 +891,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Brillantes - Jose Jose",
-        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
+        "name": "Las N\u00famero 1 de Manoella Torres",
+        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
         }
       ],
-      "duration_ms": 236786,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
     },
     {
       "added_at": "2019-09-04 23:38:38",

@@ -2,7 +2,7 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: LiSA
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Kenshi Yonezu
 
 683 songs - 1 day 15 hr 10 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Lacuna Coil on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,976 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536,084 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [An End to Everything](https://open.spotify.com/track/6sKANyckRxoAVakhHnPDGU) | [Entheos](https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI) | [An End to Everything](https://open.spotify.com/album/4TlTgmb6Kwo6VoOh8bDF14) | 3:34 |
 | 75 | [Masc](https://open.spotify.com/track/7rmubB7CWxuSfSGSoFHZRE) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Cool World](https://open.spotify.com/album/3k7GhMNdQ0KXGkC84qVRf2) | 4:09 |
 
-Snapshot ID: `Z67N/wAAAABm8S2FtcPgyoGztv7VfAc+`
+Snapshot ID: `Z67N/wAAAABlpSQLWwJ6klAqO6BZ/M/e`

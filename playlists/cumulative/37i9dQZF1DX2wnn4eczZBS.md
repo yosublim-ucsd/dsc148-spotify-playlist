@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sef
 
-155 songs - 8 hr 11 min
+156 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Boter, Kaas en Eieren](https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Calls From The Hull vol\. III](https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y) | 1:45 | 2024-10-09 | 2025-01-11 |
 | [Cherry Jenna](https://open.spotify.com/track/0Z7EHxmP8WznjmOPNsDSzl) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:41 | 2025-01-21 | 2025-02-08 |
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 | 2024-08-02 |
-| [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 |  |
+| [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 | 2025-02-17 |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 |  |
 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 | 2025-02-07 |  |
 | [Deze Stilte](https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Deze Stilte](https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV) | 2:29 | 2024-09-13 | 2025-01-11 |
@@ -39,13 +39,14 @@
 | [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 | 2025-01-17 |
 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 | 2025-02-13 |  |
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
-| [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-15 |
+| [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 |  |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 | 2024-10-24 |  |
 | [Dus Ik Ga](https://open.spotify.com/track/6GbtsakP9ZMR6w7ok2cTUT) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Dus Ik Ga](https://open.spotify.com/album/55Q2gr5Rhu9ucEFiONmPgP) | 3:19 | 2024-07-19 | 2025-01-11 |
 | [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 |  |
 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 | 2025-01-10 | 2025-02-04 |
 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 | 2024-06-26 | 2024-08-30 |
+| [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 | 2025-02-13 |  |
 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 | 2025-01-16 |  |
 | [Geef me een Teken](https://open.spotify.com/track/1sMC7VDr7zRbNvYVTdLyGA) | [Lucas de Gier](https://open.spotify.com/artist/0IEv7VW29Y0gKhh3gmELOt) | [lucas](https://open.spotify.com/album/7FsUGGBTX3ODgZhNgZnUqj) | 3:56 | 2024-11-07 | 2025-01-11 |
 | [Geen Steek Veranderd](https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [puntpuntpunt](https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM) | 3:25 | 2024-06-26 | 2024-08-02 |
@@ -74,7 +75,7 @@
 | [Ik trek al mijn kleding uit](https://open.spotify.com/track/4HFmsQ1wNEjBKFoWBMr2Vy) | [BARBARA.](https://open.spotify.com/artist/1KowfscHGY7DvEHusHKN17) | [Ik trek al mijn kleding uit](https://open.spotify.com/album/4sg0FbbXiTB23ZVbApS5yW) | 2:56 | 2024-10-09 | 2025-01-11 |
 | [Ik Voel Voor Jou](https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Voel Voor Jou](https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2) | 3:10 | 2024-11-14 | 2025-01-27 |
 | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a) | 4:17 | 2024-08-29 | 2024-11-15 |
-| [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 | 2024-10-09 |  |
+| [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 | 2024-10-09 | 2025-02-17 |
 | [Ik Zet De Toon](https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [Ik Zet De Toon](https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF) | 3:27 | 2024-06-26 | 2024-09-13 |
 | [In Dit Huis](https://open.spotify.com/track/03oSvQ8rmgc8ex4iFZZDOq) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [In Dit Huis](https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX) | 3:18 | 2024-06-26 | 2024-11-15 |
 | [Interessant](https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Interessant](https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d) | 2:16 | 2024-06-26 | 2024-09-13 |

@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-201 songs - 14 hr 35 min
+202 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 | 2024-07-26 |  |
 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 | 2022-01-21 | 2024-05-17 |
 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 | 2022-01-21 | 2024-11-15 |
+| [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 | 2025-02-14 |  |
 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 | 2022-01-21 | 2023-10-14 |
 | [Evolving](https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx) | [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Evolving](https://open.spotify.com/album/7fvxLFTtlCn5FwQaDzpz0b) | 3:40 | 2022-01-21 | 2022-08-06 |
 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 | 2024-05-24 |  |
@@ -100,7 +101,7 @@
 | [Home](https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi) | [U.V.P](https://open.spotify.com/artist/4vBjqyZSwW1mee1gXfo9Cv) | [Home](https://open.spotify.com/album/5cH6HPAArhqrcjgm8FA2Ok) | 4:22 | 2022-01-21 | 2023-01-16 |
 | [Hustlin'](https://open.spotify.com/track/54oGAmxvCLF8oHhtynAz1E) | [Lally](https://open.spotify.com/artist/1gJUSHVNfaoeIIQKiKOpjA), [Aaliyah Esprit](https://open.spotify.com/artist/73JRJE3o5cLbEOIoksppmG) | [Hustlin’](https://open.spotify.com/album/4mBXzTakO5vgeMAdYFVFaQ) | 4:56 | 2022-01-21 | 2022-07-29 |
 | [I Got Your Love \- Low:R & Blooom](https://open.spotify.com/track/0WPnG75MPX5X0uuvBkE8mp) | [Low:r](https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [I Got Your Love \(Low:R & Blooom\)](https://open.spotify.com/album/2iCGxaSho2vO0muXMEcm69) | 4:11 | 2022-10-28 | 2024-01-26 |
-| [I Told Ya](https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [I Told Ya](https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl) | 4:50 | 2024-03-01 |  |
+| [I Told Ya](https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [I Told Ya](https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl) | 4:50 | 2024-03-01 | 2025-02-17 |
 | [I Will Wave To You](https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [I Will Wave To You / Heterize](https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt) | 4:19 | 2022-01-21 | 2022-07-29 |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2022-01-21 |  |
 | [Ida](https://open.spotify.com/track/6l33m7UxaR3pbNtNa8QARI) | [Matt View](https://open.spotify.com/artist/4uMpmqIDOviQTm05ktVtqC) | [Under Pressure EP](https://open.spotify.com/album/5PWBNL64sQMzslVeqim6UZ) | 4:56 | 2022-01-21 | 2022-07-07 |

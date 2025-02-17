@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30110,
+  "num_followers": 30108,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAAAak8YFGX7v68Ifg7UkmiJA",
+  "snapshot_id": "Z6/ZAAAAAADoYCkb2v/CghX5rblg0+Uf",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORS",
-        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+        "name": "#5",
+        "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 93786,
-      "name": "COLORS -CODE GEASS OPENING MIX-",
-      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
+      "duration_ms": 226946,
+      "name": "WORLD END",
+      "url": "https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "#5",
-        "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 226946,
-      "name": "WORLD END",
-      "url": "https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3"
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
     },
     {
       "added_at": null,

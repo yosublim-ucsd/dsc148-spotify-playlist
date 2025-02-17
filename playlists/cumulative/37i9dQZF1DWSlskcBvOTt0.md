@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-855 songs - 3 day 2 hr 47 min
+856 songs - 3 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-24 | 2024-04-13 |
 | [Ihorere](https://open.spotify.com/track/2Y91ewDpHxmaWCEw4ysBkm) | [Roo \(JO\)](https://open.spotify.com/artist/1MDcfE7XhDXPCyyZYW4WU0), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [Ihorere](https://open.spotify.com/album/2VaXdbEP4A97q7RAszP3ew) | 6:53 | 2024-06-28 | 2024-09-21 |
 | [Ikigai \- Radio Edit](https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI) | [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Sediis](https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9) | [Ikigai \(Radio Edit\)](https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt) | 4:08 | 2022-05-06 | 2022-07-23 |
+| [iLanga \- Samm Remix](https://open.spotify.com/track/01uHli2I60dhf2p3cKy3v2) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [iLanga \(Samm Remix\)](https://open.spotify.com/album/5URMWlfNRGISqDtaCcbaxv) | 4:04 | 2025-02-14 |  |
 | [Imamou](https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Imamou](https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw) | 4:00 | 2024-05-17 |  |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-07-08 | 2024-04-19 |
 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 | 2024-06-28 |  |
@@ -667,7 +668,7 @@
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
 | [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-06-14 | 2024-08-31 |
 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 | 2024-09-27 |  |
-| [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 |  |
+| [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 | 2025-02-17 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-24 | 2023-07-16 |
 | [Shadow](https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Shadow](https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO) | 3:16 | 2024-11-29 |  |
 | [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-08-23 | 2025-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi?si=d\_vew40\_TqSrIpLSZkf7Ww">TRESOR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,981 likes - 73 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,989 likes - 73 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

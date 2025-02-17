@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
+        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394346,
+      "name": "Music for Strings, Percussion & Celesta, Sz. 106: I. Andante tranquillo",
+      "url": "https://open.spotify.com/track/193iKswklSU5w9amrMqyDO"
+    },
+    {
+      "album": {
         "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
         "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
@@ -1542,32 +1568,6 @@
       "duration_ms": 393000,
       "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
       "url": "https://open.spotify.com/track/1FFjTygElZaQxzBOu1Xo5U"
-    },
-    {
-      "album": {
-        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
-        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 394346,
-      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
-      "url": "https://open.spotify.com/track/193iKswklSU5w9amrMqyDO"
     },
     {
       "album": {

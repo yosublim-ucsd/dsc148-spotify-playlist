@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: U2",
-  "num_followers": 972137,
+  "num_followers": 972099,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 191290,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "The Night the Zombies Came",
-        "url": "https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "The Vegas Suite",
-      "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
+        "name": "The Night the Zombies Came",
+        "url": "https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+      "duration_ms": 223866,
+      "name": "The Vegas Suite",
+      "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+        "name": "Os Calo",
+        "url": "https://open.spotify.com/album/3pfquBrYpyL8pLDLnX4E8g"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
         }
       ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+      "duration_ms": 213920,
+      "name": "Os Calo",
+      "url": "https://open.spotify.com/track/24K3sHL1SMhwT4p9rslFI4"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Os Calo",
-        "url": "https://open.spotify.com/album/3pfquBrYpyL8pLDLnX4E8g"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Os Calo",
-      "url": "https://open.spotify.com/track/24K3sHL1SMhwT4p9rslFI4"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Blood In The Water",
         "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "The Falling Sky",
-        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "The Falling Sky",
-      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Soldier In The Army of Love",
         "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "The Falling Sky",
+        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "The Falling Sky",
+      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Bad Friend",
-        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Ready For Something",
-        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "One Eyed Bastard",
         "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172899,
       "name": "One Eyed Bastard",
       "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Ready For Something",
+        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Keep It Away",
-        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Keep It Away",
-      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Golden State (20th Anniversary Expanded Version)",
         "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "All Things Must Change",
-        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 215318,
-      "name": "All Things Must Change",
-      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm"
       },
@@ -1039,38 +1023,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Foregone, Pt. 2",
-        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "The Saints Of Violence And Innuendo",
-        "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 221148,
-      "name": "The Saints Of Violence And Innuendo",
-      "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -1087,18 +1039,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Forgotten",
-        "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
+        "name": "Foregone, Pt. 2",
+        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1135,6 +1087,38 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "The Saints Of Violence And Innuendo",
+        "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 221148,
+      "name": "The Saints Of Violence And Innuendo",
+      "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Talk Sick",
         "url": "https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5"
       },
@@ -1163,22 +1147,6 @@
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1215,18 +1183,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "We Are The Rest",
-        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
       },
       "artists": [
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 182449,
-      "name": "We Are The Rest",
-      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -1243,6 +1211,38 @@
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "We Are The Rest",
+        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 182449,
+      "name": "We Are The Rest",
+      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

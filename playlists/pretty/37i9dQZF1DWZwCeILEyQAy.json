@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Megan Thee Stallion",
-  "num_followers": 484661,
+  "num_followers": 484665,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -207,38 +207,6 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "No Statements",
-        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "No Statements",
-      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -259,6 +227,38 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "She's Back",
+      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 192567,
       "name": "Finesse (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "She's Back",
-      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -743,6 +743,46 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
+        "name": "Come Here (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
         "name": "Running Late",
         "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
       },
@@ -775,46 +815,6 @@
       "duration_ms": 137532,
       "name": "Tomioka (with Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Sexyy Love Money (feat. VonOff1700)",
-      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "Come Here (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 194875,
-      "name": "Come Here (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "Clock Dat (feat. Shamar Marco)",
-        "url": "https://open.spotify.com/album/41PFb8SNPnG3sHZ0IDc7aZ"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Shamar Marco",
-          "url": "https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "Clock Dat (feat. Shamar Marco)",
-      "url": "https://open.spotify.com/track/7qr5FFlgqpkFNM1ShAtvlw"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "Clock Dat (feat. Shamar Marco)",
+        "url": "https://open.spotify.com/album/41PFb8SNPnG3sHZ0IDc7aZ"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Shamar Marco",
+          "url": "https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "Clock Dat (feat. Shamar Marco)",
+      "url": "https://open.spotify.com/track/7qr5FFlgqpkFNM1ShAtvlw"
     },
     {
       "added_at": "2025-01-31 05:00:41",

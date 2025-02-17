@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:2HPaUgqeutzr3jx5a9WyDV">PARTYNEXTDOOR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,481 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,619 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 100 | [More Money](https://open.spotify.com/track/5ycfmjGhq6e9vvFHweiAOb) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Tanto Blacks](https://open.spotify.com/artist/4lmElIMV37akQs59AhoIF9) | [More Money](https://open.spotify.com/album/29Y0BC1C3AD4SzfMHvcXzg) | 2:30 |
 
-Snapshot ID: `Z67OAQAAAAD5B29K4BXbQKITYSd3wS7/`
+Snapshot ID: `Z67OAQAAAADxqc15lAWmDlOmnGxSs4bX`

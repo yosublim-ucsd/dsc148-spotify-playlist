@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14858,
+  "num_followers": 14862,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Z\u0142ote Bloki",
-        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+        "name": "Polska nostalgia 60+ Cz. 4",
+        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
       },
       "artists": [
         {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+          "name": "Martyna Jakubowicz",
+          "url": "https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0"
         }
       ],
-      "duration_ms": 191653,
-      "name": "Z\u0142oto",
-      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
+      "duration_ms": 265053,
+      "name": "W domach z betonu nie ma wolnej mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Polska nostalgia 60+ Cz. 4",
-        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
-      },
-      "artists": [
-        {
-          "name": "Martyna Jakubowicz",
-          "url": "https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0"
-        }
-      ],
-      "duration_ms": 265053,
-      "name": "W domach z betonu nie ma wolnej mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Lisek i przyjaciele",
         "url": "https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 133442,
       "name": "Mopsik klopsik",
       "url": "https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Z\u0142oto",
+      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 239712,
-      "name": "Nie by\u0142o Ci\u0119 - Live",
-      "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "DEGRENGOLADA",
         "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 247249,
       "name": "Pi\u0119kna degrengolada",
       "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 239712,
+      "name": "Nie by\u0142o Ci\u0119 - Live",
+      "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dekonstrukcja historyczna I",
-        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
-      },
-      "artists": [
-        {
-          "name": "\u017bywio\u0142ak",
-          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
-        }
-      ],
-      "duration_ms": 364733,
-      "name": "Do licha",
-      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "W Ogniu \u015awiat",
         "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 471480,
       "name": "W Ogniu \u015awiat",
       "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Dekonstrukcja historyczna I",
+        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
+      },
+      "artists": [
+        {
+          "name": "\u017bywio\u0142ak",
+          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
+        }
+      ],
+      "duration_ms": 364733,
+      "name": "Do licha",
+      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Polish Pentagon",
-        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Szlempo",
-          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "After Shave",
-      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "perception of preception",
         "url": "https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 850960,
       "name": "a Story of Perception",
       "url": "https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Polish Pentagon",
+        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Szlempo",
+          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "After Shave",
+      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
     },
     {
       "added_at": "2024-03-25 08:52:09",

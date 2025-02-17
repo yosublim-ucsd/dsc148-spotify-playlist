@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "De Raza Campera",
+        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
+      },
+      "artists": [
+        {
+          "name": "Leandro Gutierrez y su Conjunto",
+          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138844,
+      "name": "De Raza Campera",
+      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
+    },
+    {
+      "album": {
         "name": "Devu\u00e9lveme el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 129693,
       "name": "La Flecha",
       "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"

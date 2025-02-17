@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449 likes - 175 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450 likes - 176 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,14 +174,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 164 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
 | 165 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 |
 | 166 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
-| 167 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
-| 168 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
-| 169 | [Say It](https://open.spotify.com/track/6jsVeEF5uzNEeXQbXQnLvj) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:44 |
-| 170 | [As Long As I'm Alive](https://open.spotify.com/track/3J67uowpSOKMWVHkkC10Wd) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:52 |
-| 171 | [If You Want It](https://open.spotify.com/track/2rHrFEcNuzDtSpgcvTi6CN) | [Nick & Knight](https://open.spotify.com/artist/6GoUnnxRsQtfSLcL3JPtHT) | [Nick & Knight](https://open.spotify.com/album/1rh7dQcyFdqc2912HzbnZH) | 3:24 |
-| 172 | [Hit and Run](https://open.spotify.com/track/59tcOaj5qlNdGRpGzCzYOc) | [A Story Told](https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54) | [Good Looks](https://open.spotify.com/album/1NcKu9EZkyHLshZ9HK6zlG) | 3:17 |
-| 173 | [Painkiller](https://open.spotify.com/track/4YKXUBBXrkRqDYSS5ZAEK9) | [Ava Lily](https://open.spotify.com/artist/4sMp46Lpcrxb9EP6UO6ton) | [Painkiller](https://open.spotify.com/album/09gqHZzuslR5JUQ1CzXC4s) | 3:13 |
-| 174 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
-| 175 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
+| 167 | [Mind Show](https://open.spotify.com/track/6VqltFXeOseAHnpJkRBz0i) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:08 |
+| 168 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
+| 169 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
+| 170 | [Say It](https://open.spotify.com/track/6jsVeEF5uzNEeXQbXQnLvj) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:44 |
+| 171 | [As Long As I'm Alive](https://open.spotify.com/track/3J67uowpSOKMWVHkkC10Wd) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:52 |
+| 172 | [If You Want It](https://open.spotify.com/track/2rHrFEcNuzDtSpgcvTi6CN) | [Nick & Knight](https://open.spotify.com/artist/6GoUnnxRsQtfSLcL3JPtHT) | [Nick & Knight](https://open.spotify.com/album/1rh7dQcyFdqc2912HzbnZH) | 3:24 |
+| 173 | [Hit and Run](https://open.spotify.com/track/59tcOaj5qlNdGRpGzCzYOc) | [A Story Told](https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54) | [Good Looks](https://open.spotify.com/album/1NcKu9EZkyHLshZ9HK6zlG) | 3:17 |
+| 174 | [Painkiller](https://open.spotify.com/track/4YKXUBBXrkRqDYSS5ZAEK9) | [Ava Lily](https://open.spotify.com/artist/4sMp46Lpcrxb9EP6UO6ton) | [Painkiller](https://open.spotify.com/album/09gqHZzuslR5JUQ1CzXC4s) | 3:13 |
+| 175 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
+| 176 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbpsKAAAAAAM2KqXUsUMLnc1XRf9USzw`
+Snapshot ID: `AbpxyAAAAAAY97rsgidBee+OjZ1RwtSg`

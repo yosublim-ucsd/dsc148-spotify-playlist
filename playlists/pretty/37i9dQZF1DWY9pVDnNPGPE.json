@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6813,
+  "num_followers": 6830,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 168104,
+      "name": "Midnight Fiction",
+      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 197795,
       "name": "TFW (That Feeling When)",
       "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 168104,
-      "name": "Midnight Fiction",
-      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Our Beloved BoA #4 - SM STATION",
-        "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Milky Way",
-      "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "Our Beloved BoA #4 - SM STATION",
+        "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 158045,
+      "name": "No More (Prod. Zion.T)",
+      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -615,18 +631,50 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "NO MORE",
-        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+        "name": "982",
+        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
       },
       "artists": [
         {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
         }
       ],
-      "duration_ms": 158045,
-      "name": "No More (Prod. Zion.T)",
-      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
+      "duration_ms": 153986,
+      "name": "Ordinary Ending",
+      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -651,18 +699,18 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -679,54 +727,6 @@
       "duration_ms": 221306,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "982",
-        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
-      },
-      "artists": [
-        {
-          "name": "Jehwwn",
-          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Ordinary Ending",
-      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
-        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 173373,
       "name": "By Your Side (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     },
     {
       "added_at": "2024-11-21 05:25:44",

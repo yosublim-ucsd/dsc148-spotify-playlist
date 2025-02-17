@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: LiSA
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Kenshi Yonezu
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,076 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,493 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 |
 | 75 | [Suburban \(feat\. Tatsuya Kitani\)](https://open.spotify.com/track/3ULjE8zZggZYpv8iCJcJwx) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/3TVnfBuCOqcu9P39zD8FYe) | 3:55 |
 
-Snapshot ID: `Z64JAwAAAADlKe2LbjFpe0anyBvIDIRA`
+Snapshot ID: `Z7HfPwAAAAC5pdritki/o0jMZ4jjH6Tf`

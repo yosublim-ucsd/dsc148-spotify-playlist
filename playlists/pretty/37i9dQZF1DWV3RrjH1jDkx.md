@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,378 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,362 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 98 | [Call This Love](https://open.spotify.com/track/0ClcMZDqAv8eJRjYDcbGZO) | [Jake Cooper](https://open.spotify.com/artist/7KKsjyYI1JYxvme5vEUlNQ), [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv) | [Call This Love](https://open.spotify.com/album/1NAjzN87v1q25fuj1L6nsc) | 2:08 |
 | 99 | [White Lies](https://open.spotify.com/track/4SUtXkjKbUZbZhEHm79c86) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Kenan Waters](https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv), [Dana Shine](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [White Lies](https://open.spotify.com/album/2Vis6pTjyb3Pg4G7vQm6rR) | 2:59 |
 
-Snapshot ID: `Z67N/QAAAACl34NvjuXyjnsyQCR0NaSQ`
+Snapshot ID: `Z67N/QAAAAACF51CDyfpwo36M2ErueMN`

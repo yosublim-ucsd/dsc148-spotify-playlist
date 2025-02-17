@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-153 songs - 8 hr 6 min
+154 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2024-04-08 | 2025-01-29 |
 | [اهديني](https://open.spotify.com/track/3vHSE1pwr3biAxobBF6tnN) | [Shimaa Shreif](https://open.spotify.com/artist/4yiBDuLDMJPNLNEESoO9mw) | [اهديني](https://open.spotify.com/album/4BcKkyQ1RnkgJMm5ivUUX3) | 2:02 | 2024-03-11 | 2025-02-15 |
 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 | 2024-04-08 | 2025-01-29 |
+| [تايب وراجع إليك](https://open.spotify.com/track/2qnhc9vuq4PtBH1iTWdk8U) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [تايب وراجع إليك](https://open.spotify.com/album/24Fk76LIeVjGi2Qc0VDL6H) | 2:58 | 2025-01-28 |  |
 | [حب الله](https://open.spotify.com/track/6qrw0nMF6lyxfgCBfNR9nu) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [حب الله](https://open.spotify.com/album/49HWo0yoOTxqJhbfHc7Q7S) | 3:40 | 2024-03-11 |  |
 | [حيا يا رمضان](https://open.spotify.com/track/6jbzQDbsaflgHAy4c1CUWK) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE), [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [حيا يا رمضان](https://open.spotify.com/album/68jXdnSy95uFiGhEJagHVY) | 1:46 | 2024-03-11 |  |
 | [رمضان](https://open.spotify.com/track/0myW6Y0CahDcAzhGkEqXZp) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [رمضان](https://open.spotify.com/album/3KOYAM1Yo90uGs3LI3Y7qR) | 2:31 | 2024-03-14 |  |
@@ -157,7 +158,7 @@
 | [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 | 2024-04-08 | 2024-04-19 |
 | [واسع الكرم](https://open.spotify.com/track/0h8jtha9IbvKDO4p9vBwc0) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [واسع الكرم](https://open.spotify.com/album/0bXvr1KjkD2JBR782M4byT) | 3:17 | 2024-03-11 |  |
 | [واقف على بابك](https://open.spotify.com/track/3UcUPTW36BwtD3ZOsfoo8W) | [Youssef El Barbary](https://open.spotify.com/artist/2kIDZgEu3dLoedZIzyCRFV) | [واقف على بابك](https://open.spotify.com/album/3SndNOO87K57fEKUPJO8do) | 1:30 | 2024-03-20 | 2024-04-09 |
-| [وهاب يا ربى](https://open.spotify.com/track/5j2FfZN4b7AjMEdrMpQmGy) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 0:57 | 2025-01-28 |  |
+| [وهاب يا ربى](https://open.spotify.com/track/5j2FfZN4b7AjMEdrMpQmGy) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 0:57 | 2025-01-28 | 2025-02-17 |
 | [يا ربنا](https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 1:50 | 2024-03-11 |  |
 | [يا نور الهلال](https://open.spotify.com/track/7y0QiKjGqPQc6FZwHem9r3) | [Omar Ahmed](https://open.spotify.com/artist/1CGrQl9yThrpotF2T6lea3) | [يا نور الهلال](https://open.spotify.com/album/7870bBXR9eLPaNvVxadjb3) | 2:19 | 2024-03-11 |  |
 | [ياسيداً](https://open.spotify.com/track/7avYYI2ybJtDDoDGd3MWmK) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ياسيداً](https://open.spotify.com/album/0pBnc5eARWTFRDXHV2AeY8) | 4:41 | 2024-03-11 |  |

@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-250 songs - 16 hr 9 min
+251 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 |  |
 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 | 2025-02-05 |
+| [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 | 2025-02-10 |  |
 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 | 2021-09-26 |  |
 | [Chissà se lo sai](https://open.spotify.com/track/3zfu6purzESVP3pVQ7RyRP) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Bugie](https://open.spotify.com/album/3ntCfoW9VBhGf9Gm3aCCsl) | 4:02 | 2021-09-26 | 2022-07-29 |
 | [Ci Sarai](https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Fermoimmagine](https://open.spotify.com/album/3usPcrTGNDxXe3ciW0hfnA) | 4:14 | 2021-09-26 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 | 2021-09-26 | 2025-01-24 |
 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 | 2021-09-26 | 2024-03-26 |
 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 | 2021-09-26 |  |
-| [Fotografia \(feat\. Francesca Michielin & Fabri Fibra\)](https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Notti Brave](https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl) | 3:41 | 2025-01-28 |  |
+| [Fotografia \(feat\. Francesca Michielin & Fabri Fibra\)](https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Notti Brave](https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl) | 3:41 | 2025-01-28 | 2025-02-17 |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2021-09-26 |  |
 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:00 | 2024-01-17 |  |
 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 | 2021-09-26 | 2024-04-03 |

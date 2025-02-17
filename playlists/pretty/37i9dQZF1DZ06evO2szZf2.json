@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34936,
+  "num_followers": 34944,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAAAvZYF38/sGul8lmmZDyUcd",
+  "snapshot_id": "Z6/ZAAAAAAAfVkQAfuVFnvLFZCOFqGlE",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Press\u00e3o Mundial Continua",
         "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 119376,
       "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Quer F1 Com o G?",
         "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Golpeame",
-      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 144915,
       "name": "Bate Com Vontade - Remix",
       "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Golpeame",
+      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1015,6 +995,62 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida do Crime",
+        "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "dj stay",
+          "url": "https://open.spotify.com/artist/0e9JMxCh8OjVrZlrV9u3ac"
+        },
+        {
+          "name": "Dj Fiuza",
+          "url": "https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Vida do Crime",
+      "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
     },
     {
       "added_at": null,
@@ -1071,42 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida do Crime",
-        "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
-        },
-        {
-          "name": "MC Fahah",
-          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
-        },
-        {
-          "name": "dj stay",
-          "url": "https://open.spotify.com/artist/0e9JMxCh8OjVrZlrV9u3ac"
-        },
-        {
-          "name": "Dj Fiuza",
-          "url": "https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Vida do Crime",
-      "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nois Bate com a Polpa da Bunda",
         "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
       },
@@ -1123,6 +1123,34 @@
       "duration_ms": 176842,
       "name": "Nois Bate com a Polpa da Bunda",
       "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ritmado 1.0 (feat. Mc Dricka)",
+        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Binn",
+          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
+        },
+        {
+          "name": "Veiga no Beat",
+          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 147072,
+      "name": "Ritmado 1.0 (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
     },
     {
       "added_at": null,
@@ -1311,30 +1339,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catucad\u00e3o",
-        "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
+        "name": "Pra Elas",
+        "url": "https://open.spotify.com/album/6His16JzwBQ9Dx3a7VPm4n"
       },
       "artists": [
         {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+          "name": "DJ Wallace NK",
+          "url": "https://open.spotify.com/artist/2ZZuZ6UcrdTleUPtc0rwBI"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ FB",
+          "url": "https://open.spotify.com/artist/2eX2oCDQyJ79iSoIgTBtJt"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
         }
       ],
-      "duration_ms": 138900,
-      "name": "Catucad\u00e3o",
-      "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+      "duration_ms": 179076,
+      "name": "Minha Bunda N\u00e3o Para",
+      "url": "https://open.spotify.com/track/6bqE6YvhWnTWHPAb0SRlmH"
     },
     {
       "added_at": null,
@@ -1367,6 +1395,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catucad\u00e3o",
+        "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 138900,
+      "name": "Catucad\u00e3o",
+      "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PANCADA",
         "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
       },
@@ -1391,54 +1447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Elas",
-        "url": "https://open.spotify.com/album/6His16JzwBQ9Dx3a7VPm4n"
+        "name": "Minha Ex de Volta",
+        "url": "https://open.spotify.com/album/7ulQNsPAtcCeZMKwPSUluV"
       },
       "artists": [
         {
-          "name": "DJ Wallace NK",
-          "url": "https://open.spotify.com/artist/2ZZuZ6UcrdTleUPtc0rwBI"
+          "name": "Almir delas",
+          "url": "https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "DJ FB",
-          "url": "https://open.spotify.com/artist/2eX2oCDQyJ79iSoIgTBtJt"
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Minha Bunda N\u00e3o Para",
-      "url": "https://open.spotify.com/track/6bqE6YvhWnTWHPAb0SRlmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Elas Te Preferem",
-        "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Porque Elas Te Preferem",
-      "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
+      "duration_ms": 159692,
+      "name": "Minha Ex de Volta",
+      "url": "https://open.spotify.com/track/5ljvo0PWI0lqTN4NDVFurH"
     },
     {
       "added_at": null,
@@ -1471,6 +1499,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque Elas Te Preferem",
+        "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Porque Elas Te Preferem",
+      "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Foi Bate Bate",
         "url": "https://open.spotify.com/album/2kmG2VoE2lf4YwKIT2bFG5"
       },
@@ -1483,54 +1535,6 @@
       "duration_ms": 211633,
       "name": "Foi Bate Bate",
       "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ritmado 1.0 (feat. Mc Dricka)",
-        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Binn",
-          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
-        },
-        {
-          "name": "Veiga no Beat",
-          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 147072,
-      "name": "Ritmado 1.0 (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rickweek",
-        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "Vagabunda do Caralho",
-      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
     }
   ],
   "unique_name": "This Is Mc Dricka",

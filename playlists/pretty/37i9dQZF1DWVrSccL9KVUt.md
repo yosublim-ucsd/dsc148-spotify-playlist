@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,854 likes - 67 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,876 likes - 67 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 6 | [Psalm 51](https://open.spotify.com/track/7K4AXXM9P6PDbTRLxZu4jR) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Eternity](https://open.spotify.com/album/3IDE2YuO2SvYj5ZgsvAEH8) | 2:57 |
 | 7 | [GPS](https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [GPS](https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8) | 2:41 |
 | 8 | [Your Will \(Wait\)](https://open.spotify.com/track/29IDY5pHAqFQn7fqnf8WMA) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Kingdom Minded](https://open.spotify.com/album/5SvdVld8uxdzEdxcsNem8r) | 3:09 |
-| 9 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters Deluxe](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
+| 9 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 10 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
 | 11 | [Spin](https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Spin](https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT) | 3:30 |
 | 12 | [Grown](https://open.spotify.com/track/1CCHqJxDuFi9dgrce1TbiK) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Grown](https://open.spotify.com/album/2YdF2hvDc253W08fPdpp8w) | 3:55 |

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30ba\u30ab\u30a4 (Zukai)",
-  "num_followers": 60670,
+  "num_followers": 60678,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
-        "name": "naughty AI",
-        "url": "https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY"
-      },
-      "artists": [
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        },
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 159085,
-      "name": "naughty AI",
-      "url": "https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE"
       },
@@ -887,22 +867,6 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
-        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 193383,
-      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
       },
@@ -915,6 +879,42 @@
       "duration_ms": 394752,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
+        "name": "naughty AI",
+        "url": "https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 159085,
+      "name": "naughty AI",
+      "url": "https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
+        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 193383,
+      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
     },
     {
       "added_at": "2025-02-12 01:32:39",
@@ -1159,6 +1159,38 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0HdbHHtE0svFLBibnDEHWl"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1PIe3nJeOu1ssOVOvID4bL"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
+        "name": "S'more",
+        "url": "https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "duration_ms": 237667,
+      "name": "\u30a2\u30f3\u30d6\u30ec\u30a4\u30e9",
+      "url": "https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu"
+    },
+    {
+      "added_at": "2025-02-12 01:32:39",
+      "album": {
         "name": "Re:Re:",
         "url": "https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr"
       },
@@ -1183,22 +1215,6 @@
     {
       "added_at": "2025-02-12 01:32:39",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0HdbHHtE0svFLBibnDEHWl"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1PIe3nJeOu1ssOVOvID4bL"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
         "name": "\u706b\u9b45\u87f2",
         "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 190553,
       "name": "\u706b\u9b45\u87f2",
       "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
-    },
-    {
-      "added_at": "2025-02-12 01:32:39",
-      "album": {
-        "name": "S'more",
-        "url": "https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ"
-      },
-      "artists": [
-        {
-          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
-          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
-        }
-      ],
-      "duration_ms": 237667,
-      "name": "\u30a2\u30f3\u30d6\u30ec\u30a4\u30e9",
-      "url": "https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu"
     },
     {
       "added_at": "2025-02-12 01:32:39",

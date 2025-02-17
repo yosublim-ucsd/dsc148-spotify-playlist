@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: t024\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,009 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,017 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 |
 | 50 | [dlTwksgdk](https://open.spotify.com/track/7ezo6D87hjNvCppZu0Adjb) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [dlTwksgdk](https://open.spotify.com/album/6qC7XYjWzqYmdLjjtzTmNB) | 3:40 |
 
-Snapshot ID: `Z67zxQAAAADJZVKX6wZT9wRKZhLwo8XP`
+Snapshot ID: `Z67zxQAAAADkmdXFQwopY29XprG8hTzd`

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214293,
+  "num_followers": 214280,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
-    },
-    {
-      "added_at": "2025-02-13 23:00:21",
-      "album": {
         "name": "Save You a Seat",
         "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
+    },
+    {
+      "added_at": "2025-02-13 23:00:21",
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
+        "name": "Hvitt Gull (Kilroy)",
+        "url": "https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 136338,
+      "name": "Hvitt Gull (Kilroy)",
+      "url": "https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io"
+    },
+    {
+      "added_at": "2025-02-13 23:00:21",
+      "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 120834,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
-    },
-    {
-      "added_at": "2025-02-13 23:00:21",
-      "album": {
-        "name": "Hvitt Gull (Kilroy)",
-        "url": "https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 136338,
-      "name": "Hvitt Gull (Kilroy)",
-      "url": "https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -511,22 +511,6 @@
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
-    },
-    {
-      "added_at": "2025-02-13 23:00:21",
-      "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 134428,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -595,6 +579,22 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 134428,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
+    },
+    {
+      "added_at": "2025-02-13 23:00:21",
+      "album": {
         "name": "Individ",
         "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 188067,
       "name": "Sucker For Pain",
       "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
-    },
-    {
-      "added_at": "2025-02-13 23:00:21",
-      "album": {
-        "name": "Talk My Shit",
-        "url": "https://open.spotify.com/album/1uf59YtLg0GbsRDbRE3U4H"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "Talk My Shit",
-      "url": "https://open.spotify.com/track/0w2rnChlsC41RjhxBFwufW"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -675,22 +659,18 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
-        "name": "Ambassad\u00f8r",
-        "url": "https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou"
+        "name": "Talk My Shit",
+        "url": "https://open.spotify.com/album/1uf59YtLg0GbsRDbRE3U4H"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 169263,
-      "name": "Ambassad\u00f8r",
-      "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
+      "duration_ms": 161706,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/0w2rnChlsC41RjhxBFwufW"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -707,6 +687,26 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2025-02-13 23:00:21",
+      "album": {
+        "name": "Ambassad\u00f8r",
+        "url": "https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Ambassad\u00f8r",
+      "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -819,22 +819,18 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+        "name": "Sorgenfri",
+        "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Aiba",
-          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
         }
       ],
-      "duration_ms": 178226,
-      "name": "VIS MEG DIN VERDEN",
-      "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
+      "duration_ms": 149173,
+      "name": "Vin",
+      "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
     },
     {
       "added_at": "2025-02-13 23:00:21",
@@ -855,18 +851,18 @@
     {
       "added_at": "2025-02-13 23:00:21",
       "album": {
-        "name": "Sorgenfri",
-        "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
+        "name": "hva om jeg slutta \u00e5 bry meg",
+        "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
       },
       "artists": [
         {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
         }
       ],
-      "duration_ms": 149173,
-      "name": "Vin",
-      "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
+      "duration_ms": 186000,
+      "name": "hva om jeg slutta \u00e5 bry meg",
+      "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
     }
   ],
   "unique_name": "ung, dum & lovende",

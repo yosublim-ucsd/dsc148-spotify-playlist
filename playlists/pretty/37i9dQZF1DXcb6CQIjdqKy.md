@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Leanna Crawford
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,474 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,697 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters Deluxe](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
+| 1 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 2 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
 | 3 | [Jesus Loves](https://open.spotify.com/track/6RJ2RMBiczjNiwr1SqEgFt) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/2a5kK7pL7IeyfEnNnDrs9i) | 4:11 |
 | 4 | [When I Fall](https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [When I Fall](https://open.spotify.com/album/6YgL1xiXpuBsTUK5y1MYuP) | 3:25 |

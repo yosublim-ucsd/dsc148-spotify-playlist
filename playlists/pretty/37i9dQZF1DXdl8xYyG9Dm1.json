@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Costa Titch",
-  "num_followers": 168474,
+  "num_followers": 168507,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -371,18 +391,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
         }
       ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -399,26 +423,6 @@
       "duration_ms": 161428,
       "name": "Rebel Music",
       "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Last Week",
-      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -443,22 +447,18 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Hello Habibi",
-        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 194661,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -483,22 +483,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -567,18 +567,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Kilos Milos",
-        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Kilos Milos",
-      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+      "duration_ms": 136000,
+      "name": "100 MILLION (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -603,6 +607,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -679,6 +679,26 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "EKWE",
         "url": "https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN"
       },
@@ -703,42 +723,18 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
-      },
-      "artists": [
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 127612,
-      "name": "BABA",
-      "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -783,18 +779,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+      "duration_ms": 127612,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
     },
     {
       "added_at": "2025-02-14 00:01:12",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 210133,
       "name": "Hate",
       "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
     },
     {
       "added_at": "2025-02-14 00:01:12",

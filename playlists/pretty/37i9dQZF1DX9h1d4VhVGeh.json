@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 202763,
+  "num_followers": 202828,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Bala Ma Nhess",
-      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "Rawaeaa Abd El Halim 5",
         "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
       },
@@ -139,26 +123,6 @@
       "duration_ms": 231735,
       "name": "Fady Shewaya",
       "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        },
-        {
-          "name": "Sara Moullablad",
-          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
-        }
-      ],
-      "duration_ms": 257656,
-      "name": "Nefsy Ahbek",
-      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -195,22 +159,18 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
       },
       "artists": [
         {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+      "duration_ms": 186461,
+      "name": "Bala Ma Nhess",
+      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -227,6 +187,46 @@
       "duration_ms": 373106,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Sara Moullablad",
+          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
+        }
+      ],
+      "duration_ms": 257656,
+      "name": "Nefsy Ahbek",
+      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Shou Byeb'a",
-        "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
-      },
-      "artists": [
-        {
-          "name": "Carla Chamoun",
-          "url": "https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG"
-        }
-      ],
-      "duration_ms": 223014,
-      "name": "Shou Byeb'a",
-      "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "Shou Byeb'a",
+        "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
+      },
+      "artists": [
+        {
+          "name": "Carla Chamoun",
+          "url": "https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG"
+        }
+      ],
+      "duration_ms": 223014,
+      "name": "Shou Byeb'a",
+      "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -987,6 +971,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "Falaytaka Tahlou",
         "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
       },
@@ -999,58 +999,6 @@
       "duration_ms": 236800,
       "name": "Falaytaka Tahlou",
       "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "Hawel Tensany",
-        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Hawel Tensany",
-      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
-      },
-      "artists": [
-        {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
-        }
-      ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
-        }
-      ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1071,6 +1019,38 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+      },
+      "artists": [
+        {
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+        }
+      ],
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Hawel Tensany",
+        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Hawel Tensany",
+      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "ground:from",
         "url": "https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 202879,
       "name": "thank you, goodnight",
       "url": "https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
+        }
+      ],
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI"
     },
     {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "Dessine-moi Un Pays",
-        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Dessine-moi Un Pays",
-      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
-    },
-    {
       "added_at": "2025-02-02 16:14:35",
       "album": {
         "name": "\u0644\u0628 \u0627\u0644\u0645\u0648\u0636\u0648\u0639",
@@ -1263,6 +1247,22 @@
       "duration_ms": 218152,
       "name": "\u0644\u0628 \u0627\u0644\u0645\u0648\u0636\u0648\u0639",
       "url": "https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Dessine-moi Un Pays",
+        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Dessine-moi Un Pays",
+      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Bahlam Maak",
-        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Bahlam Maak",
-      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "Caf\u00e9 Sessions",
         "url": "https://open.spotify.com/album/6ZykoElp78txVMO3Oz7dB8"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
+        "name": "Bahlam Maak",
+        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
       },
       "artists": [
         {
-          "name": "Harget Kart",
-          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
+      "duration_ms": 208573,
+      "name": "Bahlam Maak",
+      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1423,6 +1407,22 @@
       "duration_ms": 206850,
       "name": "La7za",
       "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
+      },
+      "artists": [
+        {
+          "name": "Harget Kart",
+          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
     },
     {
       "added_at": "2025-01-27 11:17:29",

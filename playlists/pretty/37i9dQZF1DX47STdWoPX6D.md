@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Red Tips
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,461 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [By Myself](https://open.spotify.com/track/4Tz6eyLb0J9ICJFtSaL78C) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [By Myself](https://open.spotify.com/album/1CKWNApPBiLQ5A0Lm6bfjj) | 2:48 |
 | 100 | [What If I Die Today?](https://open.spotify.com/track/4AIq9oS8u8RyFFoBdOqW3d) | [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [Pray Forum](https://open.spotify.com/album/0PkWXffcZQxCvqZQHBUIrL) | 3:12 |
 
-Snapshot ID: `Z67N/wAAAABdX7bz2NHkSFckoXDHDrJ9`
+Snapshot ID: `Z67N/wAAAADbhivLZABFFBQYc909hOdr`

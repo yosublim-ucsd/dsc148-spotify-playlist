@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > วาเลนไทน์ เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GEMINI, FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,786 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,886 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

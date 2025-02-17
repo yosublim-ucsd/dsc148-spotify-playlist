@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,325 songs - 4 day 22 hr 44 min
+2,326 songs - 4 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [BELLA E BRUTTA NOTIZIA \(feat\. Maria Becerra\)](https://open.spotify.com/track/5zNi9r8j00Fjte8a1z1om3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:48 | 2024-06-08 | 2024-06-13 |
 | [BELLA FREGATURA](https://open.spotify.com/track/11H6R8nu1QxB1yGWHgzKl7) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 2:54 | 2022-12-08 | 2023-03-26 |
 | [BELLA FREGATURA](https://open.spotify.com/track/2WCxbRxzTDAza5wEBrmWJV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:54 | 2022-11-19 | 2022-12-09 |
+| [BELLA STRONZA](https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [BELLA STRONZA](https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc) | 2:56 | 2025-02-16 |  |
 | [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2022-10-13 | 2023-06-04 |
 | [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 | 2023-06-21 | 2024-04-17 |
 | [BENEF](https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:47 | 2022-05-18 | 2022-05-22 |
@@ -1527,7 +1528,7 @@
 | [Nu creature int’o munno](https://open.spotify.com/track/6Vb2cNnIUQvWEk1JupBVop) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:30 | 2024-08-31 | 2024-09-02 |
 | [Nu cuofn ‘e sord](https://open.spotify.com/track/4JkMzHPcaI9QJweua55aHf) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:51 | 2024-08-31 | 2024-09-02 |
 | [NU PARL, NU SENT, NU VEC](https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:14 | 2024-06-08 | 2024-08-23 |
-| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-10 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-10 | 2025-02-17 |
 | [NULLA ACCADE \(feat\. Capo Plaza\)](https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:54 | 2023-12-09 | 2023-12-16 |
 | [NULLA DI](https://open.spotify.com/track/55ll7hw5DwWLQou5FwGKoX) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-04-09 | 2022-04-18 |
 | [NULLA DI \(Concertos\)](https://open.spotify.com/track/7dGzgiJrLC3ntYiQA7HAff) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 3:07 | 2022-12-18 | 2022-12-20 |

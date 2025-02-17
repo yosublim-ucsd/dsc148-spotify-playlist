@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-59 songs - 3 hr 25 min
+60 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Find The Door](https://open.spotify.com/track/56pfVnia0F1QerVC2ycOxG) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Honey Moonshine](https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR) | 3:08 | 2024-09-16 |  |
 | [Foreign Object](https://open.spotify.com/track/63yjXQBoVXuN3ePTXmNxBQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 2:51 | 2022-05-06 |  |
 | [Get Busy Living Or Get Busy Dying \(Do Your Part To Save The Scene And Stop Going To Shows\)](https://open.spotify.com/track/3ni6qGsTnioh5vlpYdj9A5) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:27 | 2024-11-09 |  |
+| [Getting Into Knives](https://open.spotify.com/track/2b3XA03SZ0ns3Lgc1Y8Xin) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 5:14 | 2025-02-16 |  |
 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
 | [Hammer To Fall](https://open.spotify.com/track/2GCFcbxm61rSA8gzsDk6NJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) | 4:26 | 2023-03-21 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 | 2023-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 887 likes - 286 songs - 14 hr 35 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 889 likes - 287 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,5 +294,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 284 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 |
 | 285 | [HYPNOFREAK](https://open.spotify.com/track/6m4rhXyE6DUhva3MazrxCP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HYPNOFREAK](https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4) | 3:53 |
 | 286 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 |
+| 287 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 |
 
-Snapshot ID: `AAABVebQzwz7+DR+hOlIuWeGJ4wKh3Iu`
+Snapshot ID: `AAABVhrzPHIpKBAM8eyeFIlPOg7cKRsI`

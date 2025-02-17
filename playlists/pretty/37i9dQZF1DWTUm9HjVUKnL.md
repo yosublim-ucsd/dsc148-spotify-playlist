@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,579 likes - 1,076 songs - 2 day 16 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,588 likes - 1,076 songs - 2 day 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -423,7 +423,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 413 | [With A Smile \- Spotify Singles](https://open.spotify.com/track/4lEgR97OSFqpdWoM3bWiFB) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/0JpEZWaqxfQSBVsgICDEey) | 3:59 |
 | 414 | [Oops \(Oh My\) \- Spotify Singles](https://open.spotify.com/track/0K0E8Pd9Vg8gd8PaMJ7BnF) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/0JpEZWaqxfQSBVsgICDEey) | 3:04 |
 | 415 | [With You \- Spotify Studio Oyster Recording](https://open.spotify.com/track/1gob2nlpbo0RwsjMMKlrKy) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [With You \(Spotify Studio Oyster Recording\)](https://open.spotify.com/album/3x0z2ulttbauvykzAS786F) | 2:29 |
-| 416 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 |
+| 416 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/6pwcALc2tY8hwNEVImjKMD), [Blizzy](https://open.spotify.com/artist/5bqzj4dyXkSGGbkolGupRH) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 |
 | 417 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 |
 | 418 | [Letter 2 U \- Acoustic](https://open.spotify.com/track/6ssTulOUZbWKE3Kr1Cj8pM) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Spotify Singles](https://open.spotify.com/album/6oiAFUTlAXAA1hjpnQsK2M) | 3:26 |
 | 419 | [Marvins Room](https://open.spotify.com/track/1iqKjVgLBY36YvY2j3A97S) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Spotify Singles](https://open.spotify.com/album/6oiAFUTlAXAA1hjpnQsK2M) | 4:06 |

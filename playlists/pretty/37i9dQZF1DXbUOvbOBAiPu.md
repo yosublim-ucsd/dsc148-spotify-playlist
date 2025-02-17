@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,470 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,471 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 99 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
 | 100 | [Country Lanes](https://open.spotify.com/track/2ZIgGlww0t5dEjsHMv6gkT) | [Danny Starr](https://open.spotify.com/artist/07hBTbmzz6ddI7NRK6TZu2) | [Country Lanes](https://open.spotify.com/album/4jTm8Jjbtq5Uqp5UonIaSM) | 2:44 |
 
-Snapshot ID: `Z655fwAAAADMyOJmNZRsC2mVKlizHmol`
+Snapshot ID: `Z7JTpQAAAAAxSUWxhpotDukXQSa3AL/m`

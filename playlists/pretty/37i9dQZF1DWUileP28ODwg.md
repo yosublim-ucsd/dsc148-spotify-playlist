@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Sidewalk Prophets
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,251 likes - 90 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,379 likes - 90 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 4 | [Stay \(Gonna Be Okay\)](https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay \(Gonna Be Okay\)](https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd) | 3:25 |
 | 5 | [When I Fall](https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [When I Fall](https://open.spotify.com/album/6YgL1xiXpuBsTUK5y1MYuP) | 3:25 |
 | 6 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 |
-| 7 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters Deluxe](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
+| 7 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 8 | [Grave Robber](https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Grave Robber](https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e) | 2:50 |
 | 9 | [ONE OF A KIND](https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [SuperHuman](https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC) | 4:33 |
 | 10 | [Underwater \- Southern Tracks Session](https://open.spotify.com/track/3LKNZSBXH8QkEZQOK5JCe9) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Time \(25th Anniversary Edition\)](https://open.spotify.com/album/2fFzxgN5NNGAebftudkmEh) | 5:33 |

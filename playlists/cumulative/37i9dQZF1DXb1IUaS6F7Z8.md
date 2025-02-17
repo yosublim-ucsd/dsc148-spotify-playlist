@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-138 songs - 7 hr 41 min
+139 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Devil’s Dance Floor](https://open.spotify.com/track/4HmWMHOYSwxgnnNKG8thuD) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/7Jj1zGBtvK00r417boBIEj) | 3:59 | 2022-03-18 | 2022-07-29 |
 | [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 | 2024-02-06 |  |
 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 | 2024-02-06 |  |
-| [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 | 2022-03-18 |  |
+| [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 | 2022-03-18 | 2025-02-17 |
 | [Drunken Lazy Bastard](https://open.spotify.com/track/4FapNfUUsJMjiVQ30dhOH9) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Draggin' the Days](https://open.spotify.com/album/7jbaaaxYdLPSPjqYSCnAk7) | 3:27 | 2024-02-06 |  |
 | [Drunken Lullabies](https://open.spotify.com/track/3dtVKmxWGhAB9CLnHHS3Nm) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/4BbJ5NKPiICpTrGo1YmQmO) | 3:50 | 2022-03-18 | 2022-07-29 |
 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 | 2022-03-18 | 2024-04-19 |
@@ -67,6 +67,7 @@
 | [Karma Killer](https://open.spotify.com/track/0Js21h5mZmJ9tJchPQ33zg) | [Pipes And Pints](https://open.spotify.com/artist/4OqDoxT2t5pP2S7C1VkoGB) | [Karma Killer](https://open.spotify.com/album/0GaneqwiDOaqyUFCMfoQJY) | 3:18 | 2022-03-18 | 2022-06-10 |
 | [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 | 2022-10-20 |
 | [Kick Out The Scum](https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [Kick Out The Scum](https://open.spotify.com/album/0zMhFOgj0wLZIXbilDbF7Q) | 3:35 | 2022-03-18 | 2022-07-25 |
+| [Loch Lomond](https://open.spotify.com/track/57kWBzs2CEq5BXVYiU66y6) | [Muirsheen Durkin](https://open.spotify.com/artist/1wWy03z6llk4gPcIfe6Yrn) | [Drink With the Irish](https://open.spotify.com/album/6vn52kUftGhXqg0ZHxZr9W) | 3:24 | 2024-02-06 |  |
 | [Madmen](https://open.spotify.com/track/60Mmt4jljoahymqKOxlgO6) | [The Briggs](https://open.spotify.com/artist/63YfNw6QHkJQnLyH8MG384) | [Come All You Madmen](https://open.spotify.com/album/203OddgnjRgmhExxKqZ3GZ) | 2:30 | 2024-02-06 | 2024-04-19 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Mick Jones Nicked My Pudding](https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Middle Finger](https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:35 | 2022-03-18 | 2024-02-07 |

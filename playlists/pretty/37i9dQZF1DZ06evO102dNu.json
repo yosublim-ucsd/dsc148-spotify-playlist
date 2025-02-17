@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1199981,
+  "num_followers": 1200070,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAAAX9ikJpGysHqkxsYoCgd6b",
+  "snapshot_id": "Z6/ZAAAAAAD4JftiuKHxL5Om2MtJGW3f",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -295,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
       "artists": [
         {
@@ -304,9 +288,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+      "duration_ms": 178253,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or"
     },
     {
       "added_at": null,
@@ -327,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
       "artists": [
         {
@@ -336,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 135506,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
     },
     {
       "added_at": null,
@@ -359,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
       "artists": [
         {
@@ -368,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Blue Moon - 1999 Remastered",
-      "url": "https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN"
+      "duration_ms": 135506,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
     },
     {
       "added_at": null,
@@ -407,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
+        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
       },
       "artists": [
         {
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 187360,
-      "name": "My Way Of Life",
-      "url": "https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE"
+      "duration_ms": 171426,
+      "name": "Blue Moon - 1999 Remastered",
+      "url": "https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 199133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "My Way Of Life",
+      "url": "https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing Easy!",
-        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 126533,
-      "name": "All Of Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Are You? (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 172866,
       "name": "Autumn Leaves - 1999 Remastered",
       "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing Easy!",
+        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 126533,
+      "name": "All Of Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,212 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,614 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Seuls dans ta chambre](https://open.spotify.com/track/1tadLcRwtibDfcDr5oICdk) | [Maxence](https://open.spotify.com/artist/6WK6ZRBhoIRXA8xkAvhMKv) | [Comme un enfant](https://open.spotify.com/album/5oNqamIfsePGgS6iXyvk9u) | 3:44 |
 | 90 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
 
-Snapshot ID: `Z69zaAAAAAAVe9IsH7fg/XajkmxReuI1`
+Snapshot ID: `Z69zaAAAAAAhZcxKBXPWQ3Ttf+Y5ivTu`

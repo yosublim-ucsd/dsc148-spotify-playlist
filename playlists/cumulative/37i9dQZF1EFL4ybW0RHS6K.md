@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-88 songs - 4 hr 6 min
+89 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ik Weet Niet](https://open.spotify.com/track/1oloonAKAxJIk7X4lmwnzG) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ik Weet Niet](https://open.spotify.com/album/49fztAIDCYQHrnIBecdPNh) | 2:30 | 2024-01-29 |  |
 | [Je Weet Maar Nooit](https://open.spotify.com/track/2dHlCKfl1F4CfIxUbIQJk6) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 2:56 | 2024-01-29 |  |
 | [Kofferbak](https://open.spotify.com/track/5srlU62BkGl2VxfuuEgOYi) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Kofferbak](https://open.spotify.com/album/7aLOFzXgAssZ9152jx4zwE) | 2:42 | 2024-01-29 |  |
+| [Lelo Toko Bina](https://open.spotify.com/track/2sDw0zhDElBmsrpuKdvYEu) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:06 | 2025-02-16 |  |
 | [Levels](https://open.spotify.com/track/0sHzhhxWtEneat7rYZTpir) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Levels](https://open.spotify.com/album/1UiDMehKBnzCxTt6aGmTWp) | 3:38 | 2025-01-09 |  |
 | [Lockdown](https://open.spotify.com/track/1a4rqo1v8hv75XRXOrW1v1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:09 | 2024-01-29 |  |
 | [Luider](https://open.spotify.com/track/2QRnvYBBSFUIRi4in10AFj) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/1C7APDdiwBmVB5O4LF3Alz) | 2:45 | 2024-01-29 |  |

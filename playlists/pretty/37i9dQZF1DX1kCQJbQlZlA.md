@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,703 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 17 | [Ăn Tết Miền Tây \(New Version\)](https://open.spotify.com/track/6i8wJj50dzTnFbq0EMu9NP) | [Phung Ngoc Huy](https://open.spotify.com/artist/6zb5wPGfIJxrQoQ63bZ0h6), [Đông Thiên Đức](https://open.spotify.com/artist/5y8BH7CZdbyqobybqSv0II) | [Ăn Tết Miền Tây \(New Version\)](https://open.spotify.com/album/0iltC2fBV4cHq6qHJsDeYv) | 4:51 |
 | 18 | [Yêu Cô Gái Bạc Liêu](https://open.spotify.com/track/6QE1YK5SQyy82i9nbBfnny) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Bến Duyên Lành](https://open.spotify.com/album/6mvfa6rKMi8G7gVnj6oQsJ) | 4:52 |
 | 19 | [Duyên Quê](https://open.spotify.com/track/2m6riy7oEECCFeJaOak972) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tiếng Hát Hà Vân 3](https://open.spotify.com/album/4Y5L9iYIBHESSO3BgYYCS0) | 4:24 |
-| 20 | [Sắc Màu Quê Hương](https://open.spotify.com/track/2m2NbJ3C6YmarZQI4YuzTd) | [Hien Thuc](https://open.spotify.com/artist/6xQUSqDu9uizDib9Ww47yO), [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Sắc Màu Quê Hương](https://open.spotify.com/album/0JyTZIgMK0IprOS5MMkzQM) | 4:47 |
+| 20 | [Sắc Màu Quê Hương](https://open.spotify.com/track/2m2NbJ3C6YmarZQI4YuzTd) | [Hien Thuc](https://open.spotify.com/artist/6xQUSqDu9uizDib9Ww47yO) | [Sắc Màu Quê Hương](https://open.spotify.com/album/0JyTZIgMK0IprOS5MMkzQM) | 4:47 |
 | 21 | [Điệu Hò Trao Duyên](https://open.spotify.com/track/4ufX2MCBZV3wBPE6iVGni8) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Ngọc Phụng](https://open.spotify.com/artist/0qsxxwNWl74ERd4qAoNrkT) | [Điệu Hò Trao Duyên](https://open.spotify.com/album/6Q5pbIKIVgzkJ8NS4fmHaL) | 5:01 |
 | 22 | [Chờ Em Hát Lý Duyên Tình](https://open.spotify.com/track/2tGnkY0nX4pi4isOvA9on1) | [Hồng Quyên](https://open.spotify.com/artist/0c9NixQCAgTUuDUdz845KU), [Long Hồ](https://open.spotify.com/artist/6gp7sKbUq9NOVRgpuwm9Tu) | [Bông Ô Môi](https://open.spotify.com/album/6awipOL8UJeNEQyvyggGqg) | 5:09 |
 | 23 | [Xin Đừng Trách Đa Đa](https://open.spotify.com/track/59dA5AuLlFUfKlcq2Bh7Yf) | [Trang Hạ](https://open.spotify.com/artist/05PlxNLGMoexJ15xuen24H) | [Xin Đừng Trách Đa Đa](https://open.spotify.com/album/3Etfj8Vz7QhBzHJNzHcEq7) | 5:28 |

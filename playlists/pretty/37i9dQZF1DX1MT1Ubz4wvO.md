@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Joaquín Fénix en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,433 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,441 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 14 | [baila este cabreo](https://open.spotify.com/track/7Bjsax28IfVL2dbBbA6yXP) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [baila este cabreo](https://open.spotify.com/album/63B0lyrJlDKCoqq9A4Ro3W) | 2:42 |
 | 15 | [El Aniversario](https://open.spotify.com/track/7HDRyTeisdxpumgx0qzq6a) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [El Aniversario](https://open.spotify.com/album/6EKgmBAE0fpAe61hDAt21i) | 2:05 |
 | 16 | [Llegado aquí](https://open.spotify.com/track/0r9JaAiLRcAnDBt1NoHYtV) | [KING SAPO](https://open.spotify.com/artist/1bwttHGw3BRWOfqtGZNdGo) | [Llegado aquí](https://open.spotify.com/album/2XO6uTOonL5L21b57G8Qgp) | 4:13 |
-| 17 | [Phoenix](https://open.spotify.com/track/3eR7jZcJgRdhALPS72y3qj) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [Phoenix](https://open.spotify.com/album/4aR4eaQM6L4DrsXMxbJS4Y) | 3:01 |
+| 17 | [Phoenix](https://open.spotify.com/track/3eR7jZcJgRdhALPS72y3qj) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3), [Catalina Jiménez](https://open.spotify.com/artist/3JtQKVwGvKK9KxPiiiR5XD) | [Phoenix](https://open.spotify.com/album/4aR4eaQM6L4DrsXMxbJS4Y) | 3:01 |
 | 18 | [It's Your Voodoo Working](https://open.spotify.com/track/7biJHrlTcmMZ3tOLeCmLDK) | [The Magnetics](https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC) | [It's Your Voodoo Working](https://open.spotify.com/album/1JM5JvUx8SLzGmLVLqrxQf) | 3:14 |
 | 19 | [Mama, Come, Ríe, Traga](https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Mama, Come, Ríe, Traga](https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K) | 2:52 |
 | 20 | [Contra la Pared](https://open.spotify.com/track/3kUkB1oyE79b0LwABKUNbS) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa) | [Contra la Pared](https://open.spotify.com/album/11wszSCpbQABGYCa2mfTBN) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,695 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,711 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 22 | [Wings](https://open.spotify.com/track/4eVUmmBBQX3VIsXyFqk2Vi) | [Mirak](https://open.spotify.com/artist/0sWjFQRenBeAbkctoC2fOy) | [Wings](https://open.spotify.com/album/01jpCjl1rxcpA5hbm8ath0) | 3:17 |
 | 23 | [Kahlon Flow](https://open.spotify.com/track/6QpPMIo4hiiDTQ9TrHEunN) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Kahlon Flow](https://open.spotify.com/album/2HeYjvIYSbZyHCazu5TsPn) | 3:00 |
 | 24 | [Brosadike](https://open.spotify.com/track/1DU9cAWSOgPzcopQIZRQaY) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Brosadike](https://open.spotify.com/album/73pFQGynZ2LbwY6M6OseXa) | 2:36 |
-| 25 | [CJI](https://open.spotify.com/track/3k09tqn52I8CVEiekVhHe0) | [KID KAT](https://open.spotify.com/artist/1PUgZK0he2wOjX1znDPIs5), [Ezyvibe9 Beatz](https://open.spotify.com/artist/0LmeJPjjO36j2O9zonkaer) | [2022 Archive](https://open.spotify.com/album/5P8iBiGBMaSIjf67YbLecN) | 1:43 |
+| 25 | [CJI](https://open.spotify.com/track/3k09tqn52I8CVEiekVhHe0) | [KID KAT](https://open.spotify.com/artist/1PUgZK0he2wOjX1znDPIs5), [UG DEIN](https://open.spotify.com/artist/1xJsRLBUBFRCkpfQdRx0mW) | [2022 Archive](https://open.spotify.com/album/5P8iBiGBMaSIjf67YbLecN) | 1:43 |
 | 26 | [Birthday Flow 2025](https://open.spotify.com/track/4bDCAgQTn7316uGXqXqhXs) | [Sammohan](https://open.spotify.com/artist/0zbZv29TrM2M9Rs0NIcMvZ) | [Birthday Flow 2025](https://open.spotify.com/album/0crdpfP29EXwXQrfwCWvg6) | 3:03 |
 | 27 | [Money on my Mind](https://open.spotify.com/track/4kogJVc6vSP7HkGbjW8jKo) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG) | [Purple Stick](https://open.spotify.com/album/4RqVltPhFOXen2P5BQ9cZT) | 2:47 |
 | 28 | [Taafu \(From "Fateh"\)](https://open.spotify.com/track/2xgIP8fKs4jRFe9B1m7YDV) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Taafu \(From "Fateh"\)](https://open.spotify.com/album/6ZlSkvyEavEPTDQAF7ar87) | 1:58 |

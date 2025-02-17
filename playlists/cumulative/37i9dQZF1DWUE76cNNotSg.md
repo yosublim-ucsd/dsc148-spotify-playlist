@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-551 songs - 1 day 10 hr 29 min
+552 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Drift](https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e) | 3:42 | 2020-12-22 | 2023-12-16 |
 | [Drift](https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo) | 3:42 | 2020-12-22 | 2023-01-27 |
 | [Dynasty](https://open.spotify.com/track/1UglHGkDf43W58XZKdnqbE) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Through the Walls](https://open.spotify.com/album/58NWdqyxvKIUlzHEXqfeiv) | 3:21 | 2020-12-22 | 2022-04-20 |
+| [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-16 |  |
 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 | 2023-11-10 | 2024-01-06 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 |  |
 | [Ecstasy](https://open.spotify.com/track/5wzGHgamBPcqrWwuhGDfam) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 5:03 | 2020-12-22 | 2022-04-19 |
@@ -506,7 +507,7 @@
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 |  |
 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 | 2023-12-01 | 2024-04-27 |
 | [Type of Girl](https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [Type of Girl](https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd) | 4:16 | 2024-03-29 | 2024-07-13 |
-| [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2024-01-12 |  |
+| [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2024-01-12 | 2025-02-17 |
 | [UH](https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:00 | 2020-12-22 | 2023-12-16 |
 | [UH UH OH](https://open.spotify.com/track/4MFAfQfA5U8lOTijVHvExO) | [Will DiMaggio](https://open.spotify.com/artist/3vok8vbLDelLJYpYVi9IUd) | [At Ease](https://open.spotify.com/album/1eFfzlOEg26ZWWqSEF16R9) | 4:24 | 2020-12-22 | 2022-04-20 |
 | [Under Water / In Air \- feat\. Ruth Radelet](https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU), [Ruth Radelet](https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox) | [Parallel Realms \(Deluxe Edition\)](https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO) | 3:08 | 2024-09-06 |  |

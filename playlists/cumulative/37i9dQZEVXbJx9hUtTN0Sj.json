@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -4220,6 +4220,24 @@
       "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
+    },
+    {
+      "album": {
+        "name": "Chain Reaction (Reverze Anthem 2025)",
+        "url": "https://open.spotify.com/album/2YwpkMZi5w6WyfmH5QLVrd"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255468,
+      "name": "Chain Reaction (Reverze Anthem 2025)",
+      "url": "https://open.spotify.com/track/52dsFQScMUgNhCrpqvz7tK"
     },
     {
       "album": {
@@ -6260,7 +6278,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 144609,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/6ow9Iwh3H3ud5cRREiEX53"
@@ -11472,7 +11490,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 147398,
       "name": "ILS ME RIENT TOUS AU NEZ",
       "url": "https://open.spotify.com/track/2oe4ERf40Mx8PWH9gtEfP0"
@@ -12394,7 +12412,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 228373,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3rmYRJfWYAdKDei4yegdk1"
@@ -14426,7 +14444,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -14487,7 +14505,7 @@
     },
     {
       "album": {
-        "name": "Ma faute (version 2025)",
+        "name": "Ma faute",
         "url": "https://open.spotify.com/album/4JZqeVJQ2pPvAyscxumQQU"
       },
       "artists": [
@@ -14504,7 +14522,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199376,
-      "name": "Ma faute (version 2025)",
+      "name": "Ma faute",
       "url": "https://open.spotify.com/track/6QupfGE0pKJoDUMjhREF3z"
     },
     {
@@ -15944,7 +15962,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 128399,
       "name": "Money Pull Up",
       "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
@@ -16440,7 +16458,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 179823,
       "name": "Mwen An Sa",
       "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
@@ -19284,7 +19302,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 155200,
       "name": "Redemption (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF"
@@ -19752,6 +19770,24 @@
       "duration_ms": 205161,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/4l7sRKSzKybhohKwe0LUXA"
+    },
+    {
+      "album": {
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286880,
+      "name": "Roscoe",
+      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
     },
     {
       "album": {

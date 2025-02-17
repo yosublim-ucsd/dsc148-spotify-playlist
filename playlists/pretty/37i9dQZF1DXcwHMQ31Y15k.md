@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk, Hendra Kumbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,673 likes - 104 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,708 likes - 104 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

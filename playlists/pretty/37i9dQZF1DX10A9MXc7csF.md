@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Julio Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,637 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,693 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 40 | [El 14](https://open.spotify.com/track/6OqsVVxEqZ6iRUFmhnorLn) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [El 14 \(En Vivo\)](https://open.spotify.com/album/4H82PRs7vcN1eGMCXyOk12) | 3:05 |
 | 41 | [YMVP](https://open.spotify.com/track/6mRIRKXeOUtPSYbkjEuQY1) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Con Tokio](https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw) | 2:35 |
 | 42 | [HOLANDA](https://open.spotify.com/track/6pk6CETZHI9brjnFNCxrhC) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [HOLANDA](https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0) | 2:31 |
-| 43 | [Qué Bonita](https://open.spotify.com/track/6GsAFahdCxVEiIYK0uXe79) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Qué Bonita](https://open.spotify.com/album/7EzmgX7Dkh3vGd7Yweo9OL) | 3:03 |
+| 43 | [QUÉ BONITA](https://open.spotify.com/track/6GsAFahdCxVEiIYK0uXe79) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [QUÉ BONITA](https://open.spotify.com/album/7EzmgX7Dkh3vGd7Yweo9OL) | 3:03 |
 | 44 | [El 3](https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El 3](https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M) | 2:45 |
 | 45 | [YO QUISIERA](https://open.spotify.com/track/79UYAOfrV9XHmGycKZv8qm) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [YO QUISIERA](https://open.spotify.com/album/1NREuQ2BrPKmpqXRGTnd1a) | 3:20 |
 | 46 | [CHOMPETAS](https://open.spotify.com/track/782pBZRwtwL7hpKfNPD7HC) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [CHOMPETAS](https://open.spotify.com/album/7J5qui2m6PVBj29w0TW3p0) | 3:05 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 49 | [BARCELONA](https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 2:44 |
 | 50 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 51 | [No Me Borres](https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [No Me Borres](https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6) | 3:51 |
-| 52 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Cada Día Te Quiero Más](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 |
+| 52 | [CADA DÍA TE QUIERO MÁS](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [CADA DÍA TE QUIERO MÁS](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 |
 | 53 | [PERLA](https://open.spotify.com/track/7c8vIRSiWSCvYcQFSUotFD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/4wGQO8krYTucDmi9ilIC8O) | 2:22 |
 | 54 | [Anestesia](https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Anestesia](https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh) | 2:40 |
 | 55 | [La Vida Es Un Juego](https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
 | 100 | [Antes de Ti](https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Antes de Ti](https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5) | 3:34 |
 
-Snapshot ID: `Z67N+wAAAAC0g/Lex2WSQM7KGkU9RDHH`
+Snapshot ID: `Z67N+wAAAAA2g32a5HtEKMMTOybw4GqF`

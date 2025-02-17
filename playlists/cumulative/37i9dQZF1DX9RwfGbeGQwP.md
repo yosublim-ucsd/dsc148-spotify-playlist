@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,541 songs - 2 day 10 hr 0 min
+1,542 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Believe](https://open.spotify.com/track/2IrEBO5jKGNRZJhn1Xqlab) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Believe](https://open.spotify.com/album/3ASNf3waj5UoMXtaI5acwF) | 2:24 | 2024-07-25 | 2024-08-10 |
 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
 | [Best Friends](https://open.spotify.com/track/20tGiDOlsl5HDR7fFssN3w) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Best Friends](https://open.spotify.com/album/3rPFB3nWu1nD2yh8zWwLNG) | 2:20 | 2024-11-22 | 2025-02-09 |
-| [Better Call Paul](https://open.spotify.com/track/4GarVhdXjwIRo2B4NXU8Oa) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Better Call Paul](https://open.spotify.com/album/2ys5fOozBFCfzh60seizGv) | 1:51 | 2023-05-19 |  |
+| [Better Call Paul](https://open.spotify.com/track/4GarVhdXjwIRo2B4NXU8Oa) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Better Call Paul](https://open.spotify.com/album/2ys5fOozBFCfzh60seizGv) | 1:51 | 2023-05-19 | 2025-02-17 |
 | [better future](https://open.spotify.com/track/0YmXffBrd88akIrQXr9TaP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [better future](https://open.spotify.com/album/6yzDS7haJzzTE8B4rsnKL1) | 2:08 | 2022-09-16 | 2023-09-05 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-01-27 | 2022-09-17 |
 | [Beyond the Wall](https://open.spotify.com/track/6QmeLL9H7bxKFXLMgC9Ahq) | [broom closets](https://open.spotify.com/artist/3kHiM40W851Qz0Jen3lx68) | [Beyond the Wall](https://open.spotify.com/album/6o4txGwPNZb9OK54sEeOh8) | 2:05 | 2022-01-27 | 2022-07-08 |
@@ -355,7 +355,7 @@
 | [Drive](https://open.spotify.com/track/4EcxKuPFX1eQuJfm2dJ8c3) | [Sleepy Elk](https://open.spotify.com/artist/4YLTnsSCguyt8c2CBXDnB5) | [Drive](https://open.spotify.com/album/5NfHdR5MsVotD3tt6WegW8) | 2:08 | 2023-02-24 |  |
 | [Drive Thru](https://open.spotify.com/track/6dmo8FpWhleJYdiPwpKo4E) | [Loose Cannonz](https://open.spotify.com/artist/1PICAJuUPRwLbI77aAAtOV) | [Sea Breeze](https://open.spotify.com/album/700wmoRRp6z56TUym4tUPL) | 3:27 | 2022-01-27 | 2023-05-20 |
 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 | 2022-01-27 | 2023-04-21 |
-| [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 | 2022-06-10 |  |
+| [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 | 2022-06-10 | 2025-02-17 |
 | [Dry\-Cleaning Repairman](https://open.spotify.com/track/3ZLv7L1kZvNe4AIBdEcxnH) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Dry\-Cleaning Repairman](https://open.spotify.com/album/0Qcc3EOTW67V0WHxBSBQQS) | 2:45 | 2023-08-03 | 2024-11-30 |
 | [Du Bon Pain](https://open.spotify.com/track/2ZTZ2Wi5D6EbFbkF4Gtn3D) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Du Bon Pain](https://open.spotify.com/album/7bsFmQLW9EBELlsTWOTJrN) | 1:50 | 2022-06-10 | 2024-06-17 |
 | [Dumbo and the Great Glass Elevator](https://open.spotify.com/track/43JOtLoHhl0HM5mIOOIfLW) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [One For the Money](https://open.spotify.com/album/65VYYokDPiarCUQS5WWapo) | 2:16 | 2023-11-17 | 2024-08-26 |
@@ -958,6 +958,7 @@
 | [Oakman](https://open.spotify.com/track/7H61nTj0INqY1oXS4OMd6f) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [Oakman](https://open.spotify.com/album/0jBIlySAdTWJ96emamDarx) | 2:31 | 2022-01-27 | 2022-04-22 |
 | [oasis](https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [oasis](https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k) | 2:10 | 2023-09-22 |  |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2022-01-27 | 2022-09-17 |
+| [Oasis](https://open.spotify.com/track/2LLZDDrv0vwN2pv4KrAvTH) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Oasis](https://open.spotify.com/album/5gC8FVDY26S0ZAMZ3PiRvA) | 2:03 | 2025-02-14 |  |
 | [Objective Perspective](https://open.spotify.com/track/6dP5N3IG0dSl7DNzYebeso) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [Vol\. 1](https://open.spotify.com/album/1VEmotv6TOka8a90mQIYe9) | 1:57 | 2022-11-25 | 2024-12-16 |
 | [Obrigada](https://open.spotify.com/track/4yIcXY0vhBjX4nqtW3uewo) | [Yellow Lime](https://open.spotify.com/artist/7yAHv0v7dbwg5kk9qqie3t), [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Obrigada](https://open.spotify.com/album/3WOiLyAT0Gv0vJYUynTmQ6) | 1:33 | 2022-10-08 | 2023-02-25 |
 | [Ocean Breeze](https://open.spotify.com/track/5I9UpeH4RFZBbDRZoivrvj) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Ocean Breeze](https://open.spotify.com/album/5B1h06rh70brShnJkHS318) | 2:20 | 2022-11-11 |  |
@@ -1395,7 +1396,7 @@
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2022-01-27 | 2022-09-03 |
 | [time to time](https://open.spotify.com/track/1Kgg2zTVznqr6Cv6jxIKcN) | [Calm Zeq](https://open.spotify.com/artist/430cEz06w8yMWvjqLwpIar) | [time to time](https://open.spotify.com/album/0XwAkpXN3w5RRNVbHqLUot) | 2:00 | 2023-03-08 | 2023-06-06 |
 | [time together](https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi) | [Peach Lotus](https://open.spotify.com/artist/7KlRU1JqR54t1nQE9dHpN8) | [time together](https://open.spotify.com/album/71RaloNOmG7PpjGvn8rmQR) | 2:12 | 2023-08-03 |  |
-| [time voyager](https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [desert wind](https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ) | 2:00 | 2023-05-19 | 2024-12-11 |
+| [time voyager](https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [desert wind](https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ) | 2:00 | 2023-05-19 |  |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-01-27 | 2022-06-03 |
 | [to the city](https://open.spotify.com/track/6ALdwHClQphnlRqt7sB4eA) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [to the city](https://open.spotify.com/album/0Eq56ltrIGtmFcNd0YOScM) | 1:42 | 2022-08-05 | 2023-01-07 |
 | [Tomatoes](https://open.spotify.com/track/1ohTj4fUBlEDr06fkZE5IM) | [Almst](https://open.spotify.com/artist/07qY3LqWnWfsCpyJtvWJ57) | [Tomatoes](https://open.spotify.com/album/2DsXMu5NIL4iBirvAJ96yX) | 3:12 | 2024-10-04 |  |

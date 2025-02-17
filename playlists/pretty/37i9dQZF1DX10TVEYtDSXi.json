@@ -1,6 +1,6 @@
 {
   "description": "\u00d6ll bestu l\u00f6gin \u00ed augnablikinu!",
-  "num_followers": 29754,
+  "num_followers": 29758,
   "original_name": "Hot Hits Iceland",
   "owner": {
     "name": "Spotify",
@@ -728,16 +728,16 @@
       },
       "artists": [
         {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        },
-        {
           "name": "Unnsteinn",
           "url": "https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF"
         },
         {
           "name": "Logi Pedro",
           "url": "https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H"
+        },
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
         }
       ],
       "duration_ms": 203076,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 31 min 51 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 10 songs - 35 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,6 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 | 7 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 8 | [Bombs Over Brooklyn](https://open.spotify.com/track/2x3H0vsi0k3JFcl60JeNQH) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 3:42 |
 | 9 | [Everyone Speaks Russian](https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz), [Flo Mega](https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j) | [17 Deutsche Tänze](https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH) | 3:08 |
+| 10 | [Harbor Me](https://open.spotify.com/track/7nj7vE7w2kQ8XrtlRjaqor) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:07 |
 
-Snapshot ID: `AAAADk99sjsdReqzDn2x9gGyh+5oDBik`
+Snapshot ID: `AAAADyy1107HkdKYNkgE8ogVm1ZB2hHq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Retro
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,259 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,393 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

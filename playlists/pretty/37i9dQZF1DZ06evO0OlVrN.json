@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7533,
+  "num_followers": 7536,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HgAAAAADEmd2C60wPXmS5LDZ/i1fz",
+  "snapshot_id": "Z6/ZAAAAAAAgvGBKabjcPho6JTvLzwiZ",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
+      "duration_ms": 170370,
+      "name": "Sin Decirte Lo Que Siento",
+      "url": "https://open.spotify.com/track/17Vo4K9R1sV2Ty8zsLRccG"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 170370,
-      "name": "Sin Decirte Lo Que Siento",
-      "url": "https://open.spotify.com/track/17Vo4K9R1sV2Ty8zsLRccG"
+      "duration_ms": 177573,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Caminar Caminar",
-      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Qu\u00e9 Es Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Espejo",
-      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+      "duration_ms": 156320,
+      "name": "Caminar Caminar",
+      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 166351,
       "name": "Te Voy a Complacer",
       "url": "https://open.spotify.com/track/01b9QR2gAFqNBaIKFkUxYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
       "duration_ms": 162600,
       "name": "Una L\u00e1grima y un Recuerdo",
       "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "Rogante",
-      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
     },
     {
       "added_at": null,
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 164906,
-      "name": "Que Bonita Chaparrita",
-      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+      "duration_ms": 145417,
+      "name": "Deseo de los Dos",
+      "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
       },
       "artists": [
         {
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 145417,
-      "name": "Deseo de los Dos",
-      "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
+      "duration_ms": 129360,
+      "name": "Rogante",
+      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Que Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

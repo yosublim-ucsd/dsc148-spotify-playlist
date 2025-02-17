@@ -4,7 +4,7 @@
 
 > New music from Drake,  Offset and Young Nudy.
 
-2,303 songs - 4 day 23 hr 14 min
+2,304 songs - 4 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Break My Heart](https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Break My Heart](https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz) | 2:49 | 2022-11-11 | 2023-02-04 |
 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2023-09-14 | 2023-09-16 |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-24 | 2024-06-22 |
-| [BRIAN STEEL](https://open.spotify.com/track/3FHO87BSOEVAsedSnCTnvz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:51 | 2025-02-14 |  |
+| [BRIAN STEEL](https://open.spotify.com/track/3FHO87BSOEVAsedSnCTnvz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:51 | 2025-02-14 | 2025-02-17 |
 | [Brick On My Face \(feat\. 2 Chainz\)](https://open.spotify.com/track/233YXWBEQGuvWwNqJQf1XY) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [Worl](https://open.spotify.com/artist/3IWnphotT2WN2jXtYl2AWs), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [No Face No Case](https://open.spotify.com/album/4ZZTAaaz4zrCL1q3cfTnYt) | 2:34 | 2020-02-07 | 2020-02-14 |
 | [Bring The Hook](https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 4:25 | 2022-01-14 | 2022-01-21 |
 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 | 2023-10-13 | 2024-03-02 |
@@ -1353,6 +1353,7 @@
 | [No Where](https://open.spotify.com/track/1lfYsrLHXzo3s7NpHb1fIS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/0M9H12x4U2F2VtAhQRuQ6S) | 2:37 | 2021-09-25 | 2021-12-11 |
 | [Nobody's Favorite \(feat\. Gunplay\)](https://open.spotify.com/track/3ZZkSBbBOXi1NFzPbY7Lxb) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Gunplay](https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34) | [Port of Miami 2](https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0) | 4:05 | 2019-08-16 | 2019-08-23 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-21 | 2024-11-02 |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-16 |  |
 | [Non Believer](https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Non Believer](https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF) | 3:27 | 2024-03-29 | 2024-04-06 |
 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 | 2022-02-11 | 2022-02-19 |
 | [NorthStar \- Remix](https://open.spotify.com/track/7t27DLlJCOCt0Y3XTUGAbc) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 | 2019-12-06 | 2020-01-17 |

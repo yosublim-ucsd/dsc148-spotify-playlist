@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 273357,
       "name": "Encontro a S\u00f3s",
       "url": "https://open.spotify.com/track/46z9goAGF6jnaXDFkfUwam"
@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Louvando \u00e0 Maria",
+        "url": "https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Louvando \u00e0 Maria",
+      "url": "https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi"
+    },
+    {
+      "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
       },
@@ -2510,6 +2528,32 @@
       "duration_ms": 334000,
       "name": "Muito Mais pra Mim",
       "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cassiano Meirelles",
+        "url": "https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o Nova",
+          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
+        },
+        {
+          "name": "Cassiano Meirelles",
+          "url": "https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd"
+        },
+        {
+          "name": "Guilherme Meirelles",
+          "url": "https://open.spotify.com/artist/78wIcCfZh0wbufFAJS5b4k"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283207,
+      "name": "M\u00e3e de Deus e Minha",
+      "url": "https://open.spotify.com/track/0RNhs4AaIUpehk2Rl49Qmr"
     },
     {
       "album": {
@@ -3506,7 +3550,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 235095,
       "name": "Seja Elevado - Ao Vivo",
       "url": "https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA"

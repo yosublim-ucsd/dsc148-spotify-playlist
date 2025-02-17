@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 36 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 36 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 11 | [Freight Train \- Live](https://open.spotify.com/track/3qt10TUcKVGQq9bbcRLAx2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation \(Live\)](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 4:45 |
 | 12 | [Mark My Hands](https://open.spotify.com/track/5WzwrBudvjpvUn3kR2vte8) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:43 |
 | 13 | [People Get Ready \- Live](https://open.spotify.com/track/1eHZstNbimf2jwI52UhYoj) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 5:57 |
-| 14 | [Not My Will \- Live](https://open.spotify.com/track/6v9pmSuiQug8VDuj2WHcrV) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation \(Live\)](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 5:01 |
-| 15 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
+| 14 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
+| 15 | [Not My Will \- Live](https://open.spotify.com/track/6v9pmSuiQug8VDuj2WHcrV) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation \(Live\)](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 5:01 |
 | 16 | [All for You](https://open.spotify.com/track/15gf18OnA0FyhPnNhH2BNz) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Joshua Brennt](https://open.spotify.com/artist/5t40yB32RGnzTLYiAOzYHp), [Eileen Walker](https://open.spotify.com/artist/7BqZuUoZOp35JWycY6noej) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:13 |
 | 17 | [Not Ashamed \(Live\)](https://open.spotify.com/track/1tB0TOwp7Zh8Ob6ziHJAJz) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Deluxe\) \[Live\]](https://open.spotify.com/album/1Zqg6J0ckWkzHXzRsx5Lip) | 4:45 |
 | 18 | [No One Else \(Tear Down The Idols\) \- Live](https://open.spotify.com/track/2BrWJMN0CXvsHiaJRY7HFP) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 10:36 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 35 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
 | 36 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbpsCgAAAAA2kXh36H9/Ourx8/aoFv9D`
+Snapshot ID: `AbpxqgAAAACkllFRytCOj4EBvzKtm9HK`

@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-269 songs - 15 hr 25 min
+270 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bless The Broken Road](https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ) | 4:10 | 2020-04-17 | 2024-04-19 |
 | [Bless The Broken Road](https://open.spotify.com/track/5Fy6J74jVV1skR9rsOzoqE) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Timeless: The Selah Music Collection](https://open.spotify.com/album/2k6RX4wf7ugNg7wsZ6CZw7) | 4:10 | 2020-04-17 | 2022-11-13 |
 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 | 2024-02-03 | 2025-02-08 |
+| [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 | 2025-02-14 |  |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-31 | 2024-02-04 |
 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 | 2024-02-03 |  |
 | [By Your Side](https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Over And Underneath](https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM) | 4:01 | 2024-07-17 |  |
@@ -141,7 +142,7 @@
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-04-17 |  |
 | [Kundi](https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Kundi](https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q) | 3:06 | 2024-02-03 | 2024-07-18 |
 | [L O V E](https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [L O V E](https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK) | 3:04 | 2024-02-03 | 2024-07-18 |
-| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 |  |
+| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 | 2025-02-17 |
 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 | 2020-04-17 | 2025-02-16 |
 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 | 2020-04-17 | 2024-04-19 |
 | [Lemonade](https://open.spotify.com/track/2IDk5wqJgRlIbgtQ9JHJPo) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Lemonade](https://open.spotify.com/album/0ra3AfTVcIiPxgcH2kTXLJ) | 3:06 | 2020-04-17 | 2022-11-13 |

@@ -2033,6 +2033,32 @@
     },
     {
       "album": {
+        "name": "BRUTA",
+        "url": "https://open.spotify.com/album/2ZPdsJYrCNXNdlfP4BHhCr"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287179,
+      "name": "BRUTA",
+      "url": "https://open.spotify.com/track/1AQLTbX8amGpWshReAMxkS"
+    },
+    {
+      "album": {
         "name": "Bubbaloo (Remix)",
         "url": "https://open.spotify.com/album/20S3rT5tuQI0lDut9oG7mT"
       },
@@ -2409,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Cholofresa",
+        "url": "https://open.spotify.com/album/2ds8OYDnexkkRqapKj0X2a"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/0FOLAubOdWPFIBTEUJsAYY"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154639,
+      "name": "Cholofresa",
+      "url": "https://open.spotify.com/track/0AqzAWdWCBK9JVJzHDxQQx"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -2442,6 +2486,28 @@
       "duration_ms": 147120,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR"
+    },
+    {
+      "album": {
+        "name": "Chulx",
+        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
     },
     {
       "album": {
@@ -2534,7 +2600,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 193837,
       "name": "Cloniao",
       "url": "https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN"
@@ -3618,7 +3684,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -3658,7 +3724,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 140307,
       "name": "DOBLEP | Omar Algo Anda Mal #14",
       "url": "https://open.spotify.com/track/5O4LqMwAeBznxOXy76lC1W"
@@ -4073,6 +4139,28 @@
     },
     {
       "album": {
+        "name": "El 3",
+        "url": "https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "El 3",
+      "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
+    },
+    {
+      "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
       },
@@ -4084,7 +4172,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -7628,7 +7716,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 184874,
       "name": "LGN",
       "url": "https://open.spotify.com/track/3vgw6WZLvD9lqt9TrcqVER"
@@ -8138,7 +8226,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 398500,
       "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
       "url": "https://open.spotify.com/track/6olagVojvkvpDBizJ7Y7Cu"
@@ -8683,6 +8771,32 @@
     },
     {
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Me Ha Costado",
+      "url": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB"
+    },
+    {
+      "album": {
         "name": "Me Liber\u00e9",
         "url": "https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx"
       },
@@ -9224,7 +9338,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 107130,
       "name": "Misi\u00f3n S******",
       "url": "https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd"
@@ -9922,6 +10036,24 @@
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+    },
+    {
+      "album": {
+        "name": "166",
+        "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130558,
+      "name": "NO HAGO TRAP",
+      "url": "https://open.spotify.com/track/0Z3g8AK7UWHoPPgJqv6iUj"
     },
     {
       "album": {
@@ -14154,7 +14286,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 218969,
       "name": "Toa la Vida",
       "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
@@ -14292,6 +14424,24 @@
       "duration_ms": 202160,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/0znBmy9nsYHvO1cyipLKDR"
     },
     {
       "album": {
@@ -14825,6 +14975,28 @@
     },
     {
       "album": {
+        "name": "T\u00da ME CALIENTAS",
+        "url": "https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "T\u00da ME CALIENTAS",
+      "url": "https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ"
+    },
+    {
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -14876,7 +15048,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
@@ -15134,7 +15306,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-17",
       "duration_ms": 155307,
       "name": "Urban Outfitters",
       "url": "https://open.spotify.com/track/341VvUJYRuKStiG0WEUgFQ"

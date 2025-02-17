@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-145 songs - 10 hr 6 min
+146 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Same Old Blues Again \- 2007 \- Remaster](https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom \(2007 Remaster\)](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 6:13 | 2024-02-06 |  |
 | [San Francisco](https://open.spotify.com/track/3aosIY82Wisgi7AjqXEHQg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Big Soul Of John Lee Hooker](https://open.spotify.com/album/3gGNap2ZagC4gmWe5r09Ak) | 2:46 | 2022-11-22 | 2023-02-19 |
 | [Serves Me Right to Suffer / Syndicator \(feat\. Van Morrison\) \(2007 Remaster\)](https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 6:26 | 2024-02-06 |  |
-| [Shake It Baby](https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 4:20 | 2022-08-05 |  |
+| [Shake It Baby](https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 4:20 | 2022-08-05 | 2025-02-17 |
+| [Shake It Baby \- 2025 Remaster](https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 4:21 | 2025-02-17 |  |
 | [She Got A Thing Goin' On \- Live 1969](https://open.spotify.com/track/6dLmMQrspbi64ZRqKntAeK) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Festival International De Jazz \(Antibes Live 1969\)](https://open.spotify.com/album/57ZYLAwaLjSe9SmBMWjq5u) | 2:49 | 2022-09-18 | 2022-10-23 |
 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 | 2023-03-11 |  |
 | [She's Long, She's Tall, She Weeps Like A Willow Tree](https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:47 | 2023-04-23 | 2024-05-07 |

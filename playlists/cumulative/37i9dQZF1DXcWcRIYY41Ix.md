@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-758 songs - 1 day 21 hr 10 min
+759 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Quien lo diría](https://open.spotify.com/track/6baaaCha2pprxQv6GmZvXv) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:35 | 2021-12-24 | 2022-07-29 |
 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 | 2022-07-22 | 2024-04-19 |
 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 | 2024-03-08 |  |
+| [Quiero Verte](https://open.spotify.com/track/5O0vSAo60lxgy29IwAEcbZ) | [Anthony and the Melody Makers](https://open.spotify.com/artist/0LZEH4SvHZLRkOs45hAYbu), [Mau Áalen](https://open.spotify.com/artist/0HCnWMufqSRED6gy4U0rcC) | [Quiero Verte](https://open.spotify.com/album/17OuDnrZC8XlT4blmDVYXN) | 3:42 | 2025-02-13 |  |
 | [Quiero y duelo](https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Quiero y duelo](https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW) | 2:36 | 2022-12-23 | 2023-02-25 |
 | [Quietud](https://open.spotify.com/track/0akgM4a7uiPyuOaUcPvX90) | [Anna Andreu](https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Pol Batlle](https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5) | [Quietud](https://open.spotify.com/album/0htvDhfnlEHorNRhOB12mv) | 2:54 | 2023-03-29 | 2023-05-20 |
 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 | 2023-09-15 | 2023-10-05 |
@@ -628,7 +629,7 @@
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |
 | [Si me atreviera](https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Mäbu](https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591) | [Si me atreviera](https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK) | 3:35 | 2024-10-04 | 2024-10-26 |
 | [Si te vas](https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Si te vas](https://open.spotify.com/album/6208RozH4lBLu94n6ih083) | 3:03 | 2024-01-12 | 2024-01-20 |
-| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 |  |
+| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2025-02-17 |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |
 | [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 | 2024-08-30 | 2024-09-15 |

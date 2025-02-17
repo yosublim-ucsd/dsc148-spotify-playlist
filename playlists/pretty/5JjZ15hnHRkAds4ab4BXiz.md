@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 476 songs - 1 day 5 hr 49 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 480 songs - 1 day 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -484,5 +484,9 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 474 | [Heaven](https://open.spotify.com/track/3WUetIYOqcHBqRIQqyUTCN) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:53 |
 | 475 | [Queen of Hearts](https://open.spotify.com/track/6jYk46oSc16JrL78Lx21hR) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:47 |
 | 476 | [Yes, Please, Don't](https://open.spotify.com/track/7KcTTtBkfX5q9x6jloJ1F6) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:27 |
+| 477 | [Song for Clay \(Disappear Here\)](https://open.spotify.com/track/597GuiGA4cD5qhwvQAJ3xU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:49 |
+| 478 | [Waiting for the 7.18](https://open.spotify.com/track/16clYJA4LJME2u29OhGADh) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:15 |
+| 479 | [The Prayer](https://open.spotify.com/track/0TRMfz6PF3yIlYOnEPkRdZ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:45 |
+| 480 | [Uniform](https://open.spotify.com/track/4vGs2hygrUjBn1zsIC8Hd0) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 5:31 |
 
-Snapshot ID: `AAANpcHtot7QEGX4OtL1iCiF7GBy8KTV`
+Snapshot ID: `AAANqSvwVylBl2rT7nQyKdbLET58BMCE`

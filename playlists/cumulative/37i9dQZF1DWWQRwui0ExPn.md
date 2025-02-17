@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,213 songs - 11 day 9 hr 18 min
+7,215 songs - 11 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [after school](https://open.spotify.com/track/3TyjuHEE7JVQZWGurwxe61) | [Erin Bee](https://open.spotify.com/artist/5FX1lx52oWCDgiap5Q1QAu) | [after school](https://open.spotify.com/album/3wYUUZ0DZfAr6XmfKrg3bO) | 2:12 | 2021-08-28 | 2022-03-21 |
 | [After School Sunset](https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [After School Sunset](https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR) | 2:59 | 2023-04-05 | 2023-04-21 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2021-07-31 | 2022-03-12 |
+| [After The Rain](https://open.spotify.com/track/08na55XX2rRgupwFAGDlRI) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [After The Rain](https://open.spotify.com/album/1Q2K0uHiBmY7qdOLR3Jz54) | 2:04 | 2025-02-16 |  |
 | [After the storm](https://open.spotify.com/track/7nXLNvY8XRSTwUNMW6etyB) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [After the storm](https://open.spotify.com/album/5NffXg01pFJe0BwF1NAjbY) | 1:36 | 2023-01-13 | 2023-05-04 |
 | [After Us](https://open.spotify.com/track/3Oi0KzxA2JV6bL4JDaSYP1) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [After Us](https://open.spotify.com/album/5VulHOMsD7genwUB3Z2pY0) | 2:27 | 2023-01-13 | 2023-04-21 |
 | [Afterain](https://open.spotify.com/track/0c64UKO8Ky8lVYCLLgFtmz) | [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H) | [Afterain](https://open.spotify.com/album/0pGLrEBnOlg9gee39d80Qp) | 2:28 | 2024-07-26 |  |
@@ -440,7 +441,7 @@
 | [Autumn Antique](https://open.spotify.com/track/2g8ofV4Nb7t0STDmtQHUqn) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 1:58 | 2020-11-25 | 2021-10-20 |
 | [Autumn Antique](https://open.spotify.com/track/36IONbK6S9l62QdJaCN2Zf) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:58 | 2021-10-26 | 2022-05-27 |
 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2023-12-01 |  |
-| [Autumn By Day](https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Autumn By Day](https://open.spotify.com/album/77zMlgEvTla8owtUALXSLs) | 2:15 | 2023-12-15 |  |
+| [Autumn By Day](https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Autumn By Day](https://open.spotify.com/album/77zMlgEvTla8owtUALXSLs) | 2:15 | 2023-12-15 | 2025-02-17 |
 | [Autumn Chills](https://open.spotify.com/track/4TBN4UOWS9rncMWFZZ6ZPx) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Autumn Chills](https://open.spotify.com/album/4d9E6HwVqUpTbTxBaUIMil) | 2:13 | 2023-10-20 | 2025-01-29 |
 | [Autumn Grove](https://open.spotify.com/track/10BEJVDE35swCqNdBJOKGV) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Autumn Grove](https://open.spotify.com/album/4YRs82mnMRzcB4lh0GHGDl) | 1:58 | 2024-04-26 | 2024-07-19 |
 | [Autumn in Bedford](https://open.spotify.com/track/1CBF67kcwdIKl4VriSSWQn) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Autumn in Bedford](https://open.spotify.com/album/4f9WPunAhXYt0OcK4wH2QA) | 2:09 | 2022-10-21 | 2024-02-16 |
@@ -1397,7 +1398,7 @@
 | [Cozy](https://open.spotify.com/track/0gRZnSZ53Q3lMGAx5IMcXL) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Cozy](https://open.spotify.com/album/66MjnGl13VxwidORsKd6Vu) | 2:21 | 2022-05-27 | 2022-09-23 |
 | [cozy](https://open.spotify.com/track/2wU9QpFQgrXOJZUzS9lGNy) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cozy](https://open.spotify.com/album/6tz2UDYCjmghAbJSlXmrwC) | 1:12 | 2024-01-19 | 2024-05-11 |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-11-24 | 2024-05-11 |
-| [cozy cabin](https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [cozy cabin](https://open.spotify.com/album/3ctKqlalwXzWYrS3vji949) | 3:09 | 2024-02-09 |  |
+| [cozy cabin](https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [cozy cabin](https://open.spotify.com/album/3ctKqlalwXzWYrS3vji949) | 3:09 | 2024-02-09 | 2025-02-17 |
 | [Cozy Embrace](https://open.spotify.com/track/2J3zzEUI8j6Ilv4hHeECqw) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Sweet Lemon](https://open.spotify.com/album/2ailMPxGjMUMv9nwjEgmkM) | 2:17 | 2025-01-10 |  |
 | [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-24 | 2023-04-13 |
 | [Cozy On The Sky](https://open.spotify.com/track/4gbRhISXzWAfgEaTDOtpDX) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [Cozy On The Sky](https://open.spotify.com/album/2cLV0jcukUGFSmhPQjwrnp) | 2:49 | 2022-04-08 | 2022-09-02 |
@@ -4498,6 +4499,7 @@
 | [Oceans](https://open.spotify.com/track/0Wk3yDyOGT9QnxCVP0ZMkI) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Oceans](https://open.spotify.com/album/5RWZa2NiQ64691neR4MITX) | 2:17 | 2022-07-08 | 2022-10-28 |
 | [Oceanside](https://open.spotify.com/track/1EDNe4TkVwGaNnqAEEKODw) | [Floyo](https://open.spotify.com/artist/6OOFi4eNoVWgOPG3SDEfZQ) | [Oceanside](https://open.spotify.com/album/10wVHLdkKnC9mX5iLY84qO) | 1:44 | 2022-09-16 | 2023-02-28 |
 | [Ochre Windfall](https://open.spotify.com/track/2DyzOk6q2dOYxaJcwX4oVS) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Ochre Windfall](https://open.spotify.com/album/0iDrbZHnMAlYxU5NAK7PKZ) | 2:51 | 2023-04-05 | 2023-05-04 |
+| [Ociheal](https://open.spotify.com/track/2gdvBigymNnNAE9uGVypQE) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Ociheal](https://open.spotify.com/album/3z1TtDzn7kEEBFGkToJDiF) | 3:16 | 2025-02-16 |  |
 | [October](https://open.spotify.com/track/2ZkFs8JEykhTSIXiFvCwXR) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [October](https://open.spotify.com/album/5NvEwgvtMAmW5DZn3s6BLi) | 2:30 | 2021-11-05 | 2022-06-03 |
 | [October](https://open.spotify.com/track/7CqyMOgqLtNYx8cSS9fDy2) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [October](https://open.spotify.com/album/4aGZXtzbaIRWIqUmkfRyAd) | 1:57 | 2022-11-11 | 2023-08-09 |
 | [odd mission.](https://open.spotify.com/track/0tZm06UflPV5BxKAgknqbp) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/6kucfOGZ2dGI4G2rqqAW31) | 2:09 | 2022-11-18 | 2022-12-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 172335,
+  "num_followers": 172383,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
         "name": "Amarcord (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 127786,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
         "name": "Allied (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
       },
@@ -627,26 +647,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 229866,
       "name": "The Lady is a Tramp",
       "url": "https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Singing in the Rain (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
         "name": "Jazz in Film",
         "url": "https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 503066,
       "name": "Love Theme (From \"Chinatown\")",
       "url": "https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "Don't Look Up - Main Title Suite - Bonus Track",
-      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
@@ -1007,22 +991,18 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
       },
       "artists": [
         {
-          "name": "Marcelo Zarvos",
-          "url": "https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR"
-        },
-        {
-          "name": "Bruce Fowler",
-          "url": "https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp"
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
         }
       ],
-      "duration_ms": 152599,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW"
+      "duration_ms": 248364,
+      "name": "Don't Look Up - Main Title Suite - Bonus Track",
+      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -1063,6 +1043,26 @@
       "duration_ms": 130600,
       "name": "Damascus Thump",
       "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
+        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Zarvos",
+          "url": "https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR"
+        },
+        {
+          "name": "Bruce Fowler",
+          "url": "https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp"
+        }
+      ],
+      "duration_ms": 152599,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
-      },
-      "artists": [
-        {
-          "name": "Piero Piccioni",
-          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Amore mio aiutami - Version 6",
-      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
         "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 197333,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
+        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
+      },
+      "artists": [
+        {
+          "name": "Piero Piccioni",
+          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Amore mio aiutami - Version 6",
+      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
     },
     {
       "added_at": "2025-01-13 13:12:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Les Liasions Dangereuses",
         "url": "https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 438266,
       "name": "The Feeling Of Love",
       "url": "https://open.spotify.com/track/4lFk0O1MprjoBYo128ZEtP"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
     },
     {
       "added_at": "2025-01-13 13:12:00",
