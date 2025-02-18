@@ -1,4 +1,4 @@
-## Playlists \(8378\)
+## Playlists \(8379\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7751,6 +7751,7 @@
 - [alt rap](/playlists/pretty/37i9dQZF1DXdOtfogi6YRI.md)
 - [alt.ph](/playlists/pretty/37i9dQZF1DX6oLdwrroY56.md)
 - [alt/pop](/playlists/pretty/37i9dQZF1DXdfR43X3iEzK.md)
+- [always and forever](/playlists/pretty/6NjGpCxTPGk35aIzLy1Drb.md)
 - [amor propio <3](/playlists/pretty/37i9dQZF1DXaaHC08WWUUD.md)
 - [amor tóxico](/playlists/pretty/37i9dQZF1DXa5voeWIyAtr.md)
 - [anima R&B](/playlists/pretty/37i9dQZF1DWZuIX5Q3yUjF.md)
