@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,904 songs - 1 day 14 hr 50 min
+1,905 songs - 1 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [Soft Moment \- Piano Lullaby Version](https://open.spotify.com/track/67qqAQw783pEL9cvqDniRO) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soft Moment](https://open.spotify.com/album/7ymJUo9vSHOoPwl6kAQWcW) | 1:00 | 2024-08-17 |  |
 | [Soft Moon \- Piano Version](https://open.spotify.com/track/12YtTb9gCKuSWoEen5TKUF) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Harp and Piano Lullabies](https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7) | 1:03 | 2023-05-14 | 2024-01-30 |
 | [Soft Moon \- Strings Version](https://open.spotify.com/track/4udCwFTuKOPkcYtE0gnKka) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Soft Moon](https://open.spotify.com/album/3araH7fjh9RFmuObPQZIEg) | 1:03 | 2023-05-14 | 2024-02-13 |
+| [Soft Mountain Light](https://open.spotify.com/track/2KvwpGNznjpgJc5QXEpulF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Soft Mountain Light](https://open.spotify.com/album/4h4WrOf8i4cXkqeJWDkV7i) | 1:00 | 2025-02-17 |  |
 | [Soft Pink Sky](https://open.spotify.com/track/1VaRoqna62tIdHC0fh0VDa) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:02 | 2022-03-03 |  |
 | [Soft Ripples](https://open.spotify.com/track/5mV42wCmIYmTpTCyDmtv3a) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:06 | 2022-01-12 |  |
 | [Soft Ripples \- Cello Version](https://open.spotify.com/track/2VAkijYoi5c0RgqtvXs8oW) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:04 | 2022-02-24 | 2024-02-13 |

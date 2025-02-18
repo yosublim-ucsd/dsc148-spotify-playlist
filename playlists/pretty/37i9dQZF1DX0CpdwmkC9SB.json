@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 195879,
+  "num_followers": 195891,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "High Note",
         "url": "https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 225862,
       "name": "High Note",
       "url": "https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 223248,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Fly Away XTC",
-      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Spiral Staircase (Expanded Edition)",
         "url": "https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 248586,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Fly Away XTC",
+      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "MR. SANDMAN",
-        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "MR. SANDMAN",
-      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "MR. SANDMAN",
+        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "MR. SANDMAN",
+      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
     },
     {
       "added_at": "2024-06-04 13:29:57",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW"
     },
     {
-      "added_at": "2024-06-04 13:29:57",
-      "album": {
-        "name": "W.L. (Deluxe)",
-        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 203949,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
-    },
-    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "That! Feels Good!",
@@ -1723,6 +1707,22 @@
       "duration_ms": 234080,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1"
+    },
+    {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "W.L. (Deluxe)",
+        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 203949,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "The Mary Wallopers",
         "url": "https://open.spotify.com/album/0wiY8nJoAWAW8TSLphKv4h"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 186065,
-      "name": "The World\u2019s Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1871,6 +1855,22 @@
       "duration_ms": 181763,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "The World\u2019s Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Club classics / B2b",
-        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 153526,
-      "name": "Club classics",
-      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Lahai",
         "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 286933,
       "name": "Flight Attendant",
       "url": "https://open.spotify.com/track/51b932KKxiuq7pMxfTqwW6"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Club classics / B2b",
+        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "A Larum",
         "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 247080,
       "name": "The Wrote & The Writ",
       "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Love Loves To Love Lulu",
         "url": "https://open.spotify.com/album/5H2oZHVpQ8uNLqQD1ohsoB"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 165800,
       "name": "To Sir With Love",
       "url": "https://open.spotify.com/track/1C1dPegkqX6HMoWcAY5LWA"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/2EZi1lwRNBMZlIKCNIdppT"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 202485,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/5Dj6O4NKfznlav1xo9TCX1"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Terms and Conditions",
-        "url": "https://open.spotify.com/album/2EZi1lwRNBMZlIKCNIdppT"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 202485,
-      "name": "Terms and Conditions",
-      "url": "https://open.spotify.com/track/5Dj6O4NKfznlav1xo9TCX1"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2871,6 +2871,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "High Time",
         "url": "https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0"
       },
@@ -2899,22 +2915,6 @@
       "duration_ms": 235866,
       "name": "Pat Earrings",
       "url": "https://open.spotify.com/track/1HqPMPBhjbf7DR5f60MYpm"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3121,22 +3121,6 @@
       "url": "https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7"
     },
     {
-      "added_at": "2024-06-13 13:22:47",
-      "album": {
-        "name": "The Collective",
-        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
-    },
-    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "Spare Ribs",
@@ -3159,6 +3143,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "The Magic Numbers",
         "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
       },
@@ -3175,18 +3175,34 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Hot Lemonade",
-        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
       },
       "artists": [
         {
-          "name": "A Guy Called Gerald",
-          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Voodoo Ray",
-      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
+      "duration_ms": 197661,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
+    },
+    {
+      "added_at": "2024-06-13 13:22:47",
+      "album": {
+        "name": "The Collective",
+        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3207,22 +3223,6 @@
       "duration_ms": 311728,
       "name": "I Need A Dollar",
       "url": "https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 197661,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
     },
     {
       "added_at": "2024-05-31 13:56:16",

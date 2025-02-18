@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Olivia Dean
 
-774 songs - 1 day 14 hr 58 min
+775 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 | 2024-10-24 | 2024-11-08 |
 | [Drink It Down To There](https://open.spotify.com/track/6SU9TdfnHhxD0aU1nFmkFk) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Drink It Down To There](https://open.spotify.com/album/3MmDqYMn9EJofJcDwJpsFM) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Dying Stars](https://open.spotify.com/track/2MSkKTWPwJNombdDRcb90M) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Dying Stars](https://open.spotify.com/album/2MmkibYmU3TyEJsiaWyzgH) | 3:15 | 2024-10-17 | 2024-11-15 |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-17 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-28 | 2024-07-27 |
 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 | 2024-11-21 | 2024-12-20 |
 | [Easy](https://open.spotify.com/track/0WoJCwvISMEP0xQDAmcw5l) | [Vic Lawrence](https://open.spotify.com/artist/6wVQG36cXMLmutWIOtFicH) | [Easy](https://open.spotify.com/album/5bfHsnbsCgmzG0dDNK400B) | 2:48 | 2024-08-01 | 2024-08-30 |

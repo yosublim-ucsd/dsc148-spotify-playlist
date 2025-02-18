@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-393 songs - 20 hr 49 min
+394 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Beautiful Forever](https://open.spotify.com/track/0BU4HDVxK9UJqEMmQjj6tY) | [Onda Norte](https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Forever](https://open.spotify.com/album/5tnNO1hSNgxk5ti6HUFoyw) | 3:08 | 2022-03-11 | 2022-07-29 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-07-08 | 2024-04-19 |
 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 | 2021-10-29 | 2022-07-29 |
-| [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 | 2025-02-14 |  |
+| [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 | 2025-02-14 | 2025-02-18 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2021-10-29 | 2022-07-29 |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-04-12 |  |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-19 |  |
@@ -94,6 +94,7 @@
 | [Drive](https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO) | [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX), [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94), [Little Venice](https://open.spotify.com/artist/3CO23gK5THkoucYiRmPMAo) | [Drive](https://open.spotify.com/album/6A9gHWgB9CKqlPxdz0Y66u) | 2:39 | 2021-10-29 | 2022-03-26 |
 | [Drunk Talk](https://open.spotify.com/track/6RsD5yjmpKekn3nBsv8ZyO) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Drunk Talk](https://open.spotify.com/album/70LL7AKZhpdb1lhAY8QGvG) | 3:08 | 2021-10-29 | 2022-02-15 |
 | [Duvida](https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u) | [Saint Tropics](https://open.spotify.com/artist/7mwILxFemPgHuGJ1Jertc8) | [Duvida](https://open.spotify.com/album/0cmr2Hbr80WkzdcZt3NBeZ) | 2:17 | 2021-10-29 | 2022-07-16 |
+| [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-14 |  |
 | [Easy](https://open.spotify.com/track/3mBjzlVEwUj2ipUciMJf0l) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Easy](https://open.spotify.com/album/2kyx0UWOT8Do0F5T0oBHo7) | 2:46 | 2023-10-27 | 2023-11-11 |
 | [Echoes](https://open.spotify.com/track/6gSjsxT1iv3Rof2iQNYv5m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Echoes](https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF) | 2:24 | 2023-01-11 | 2023-01-25 |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 |  |

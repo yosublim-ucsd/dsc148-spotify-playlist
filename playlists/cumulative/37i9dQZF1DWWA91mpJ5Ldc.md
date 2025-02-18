@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-248 songs - 15 hr 2 min
+249 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 | 2022-07-22 | 2024-04-19 |
 | [15b](https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [15b](https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc) | 2:41 | 2023-07-07 | 2024-04-19 |
 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 | 2022-02-04 | 2023-08-02 |
-| [20ver](https://open.spotify.com/track/7tiqfQ8TSYiRah8puEJ02l) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [20ver](https://open.spotify.com/album/4frgcxPlRSRLufWtPpjRUu) | 3:18 | 2022-02-04 |  |
+| [20ver](https://open.spotify.com/track/7tiqfQ8TSYiRah8puEJ02l) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [20ver](https://open.spotify.com/album/4frgcxPlRSRLufWtPpjRUu) | 3:18 | 2022-02-04 | 2025-02-18 |
 | [A Coisa Tá Preta](https://open.spotify.com/track/5DskXnnlENZltwmHdKU2IP) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Coisa Tá Preta](https://open.spotify.com/album/1MrQgA0SlpsrGXj5JyHVyO) | 3:01 | 2022-02-04 | 2022-07-25 |
 | [A Estrela e o Astronauta](https://open.spotify.com/track/7gMYX7O4kaij5IMsPH2ohd) | [Parde2](https://open.spotify.com/artist/4TvbeEkwn4ar4HdDxSeGDj), [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd), [Alex Moreira](https://open.spotify.com/artist/5xQSgIYsZy3Hr0gguDgpI8) | [A Estrela e o Astronauta](https://open.spotify.com/album/4F2Fdtg26oRbzDfzFykVt4) | 3:24 | 2022-03-22 | 2022-04-20 |
 | [A Paraíba Não É Chicago](https://open.spotify.com/track/1YL6kqPu1Pde4zb5u93x9t) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4) | [A Paraíba Não É Chicago](https://open.spotify.com/album/1g4IpOiQIki2xR1198ntds) | 2:53 | 2022-02-04 | 2022-07-15 |
@@ -78,6 +78,7 @@
 | [Corpura](https://open.spotify.com/track/0tG3WgBKVuxBxciHEniYVX) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29) | [Corpura](https://open.spotify.com/album/1w20oOwAGU1lWSFuQlIXyp) | 4:56 | 2022-03-22 | 2022-04-21 |
 | [Céu da Boca](https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96) | 2:59 | 2023-10-20 | 2024-04-19 |
 | [Céu da Boca](https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge) | 3:03 | 2022-04-01 | 2023-10-18 |
+| [De Novo](https://open.spotify.com/track/1CvNn5wwJHmCbkTBBAB7By) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [De Novo](https://open.spotify.com/album/4HqdCopAo3Xpo2XNGpUVzb) | 2:30 | 2025-02-14 |  |
 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 | 2022-02-04 |  |
 | [Deixa](https://open.spotify.com/track/1ysILtLWerLamGMXpbeIie) | [dossel](https://open.spotify.com/artist/0kPUGF91WawX8k9lsFZxt3), [Silvia Machete](https://open.spotify.com/artist/6a3loWAysYxkjTW2bxxs8b) | [Deixa](https://open.spotify.com/album/2tdz8G3jOnRh6Ad8WCBZ1Z) | 4:06 | 2022-04-08 | 2022-07-18 |
 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 | 2022-02-04 |  |

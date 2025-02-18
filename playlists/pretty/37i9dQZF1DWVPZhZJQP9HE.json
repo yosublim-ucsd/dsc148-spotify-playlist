@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 75238,
+  "num_followers": 75247,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67qGAAAAACIKdTl8mVpHzuoV2RCLo1a",
+  "snapshot_id": "Z7MtxgAAAAAE/eFWBy39QLAn+ofVA4Zz",
   "tracks": [
     {
       "added_at": "2025-01-31 14:54:10",
@@ -259,6 +259,34 @@
       "duration_ms": 193957,
       "name": "Patta Kaththi Kannala",
       "url": "https://open.spotify.com/track/52DU37uDHxYb7lDkmaxOWx"
+    },
+    {
+      "added_at": "2025-02-17 12:38:30",
+      "album": {
+        "name": "Adiye Paduthadha",
+        "url": "https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Adiye Paduthadha",
+      "url": "https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj"
     },
     {
       "added_at": "2024-11-04 16:13:58",

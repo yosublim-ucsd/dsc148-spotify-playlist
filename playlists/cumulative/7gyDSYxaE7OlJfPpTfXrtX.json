@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Dark in Here",
+      "url": "https://open.spotify.com/track/2o2stv4uGKSYuUaghBTVX3"
+    },
+    {
+      "album": {
         "name": "Sentries in the Ambush / Divided Sky Lane",
         "url": "https://open.spotify.com/album/50TYcIZQqahuqK91pFY5cM"
       },

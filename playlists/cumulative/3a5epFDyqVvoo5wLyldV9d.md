@@ -4,7 +4,7 @@
 
 > 
 
-828 songs - 2 day 17 hr 17 min
+830 songs - 2 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Gape](https://open.spotify.com/track/2ZvRXHGTPumPju9lNIK41U) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/3AWB8SR0Dmd8ksFYJfq2Mh) | 4:53 | 2019-08-24 |  |
 | [Gapu](https://open.spotify.com/track/73LKLBdzAIFbYV4hUTkt59) | [Yothu Yindi](https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP) | [Litmus Original Soundtrack](https://open.spotify.com/album/7GS3lPgAA7LQ5iAR6Z162s) | 5:09 | 2019-09-07 |  |
 | [Gate Crash](https://open.spotify.com/track/2DJpule67eaYaBBMlRhkxP) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:33 | 2024-10-05 |  |
+| [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 | 2025-02-17 |  |
 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 | 2021-09-19 |  |
 | [Gentes e Coisas da Bahía \- Remasterizado](https://open.spotify.com/track/7FUMWDwiJGs2Qo1HLE1bQa) | [Jayme Marques](https://open.spotify.com/artist/35jsvUlsZ3Oc0YJZcCB6pB) | [Stop \(Remasterizado\)](https://open.spotify.com/album/6bnzQkwt2p8F2HcLBRuehQ) | 3:12 | 2024-04-11 |  |
 | [Gida](https://open.spotify.com/track/1uUZTWF47NosyvgFDxFn4h) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:13 | 2025-02-11 |  |
@@ -814,6 +815,7 @@
 | [Écoute\-moi camarade](https://open.spotify.com/track/4kckMTfGW38On1wcgSP11A) | [Mazouni](https://open.spotify.com/artist/0wfq6Qxt4GZIEgjmrXSt9k) | [Un dandy en exil \(Algérie\- France 1969\-1983\)](https://open.spotify.com/album/5nfE58QeoN1Fborapt6UCn) | 6:10 | 2023-10-30 |  |
 | [Зачарованная Моя](https://open.spotify.com/track/33BQnFK04LVjyhVEcZDgax) | [Pesniary](https://open.spotify.com/artist/4gAsHRz5ZHcuD0skMevTdK) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:54 | 2020-12-07 |  |
 | [Миллион алых роз](https://open.spotify.com/track/6hZKMAiaIepVtAtgFKm4xt) | [Alla Pugacheva](https://open.spotify.com/artist/7lyhSLlB5fWJmU5eB6k84L) | [Миллион роз](https://open.spotify.com/album/7oI0E3DdTbD85rhMg19GSU) | 5:53 | 2020-12-09 |  |
+| [مبسوطة](https://open.spotify.com/track/4JHLmPI7vZm42VqRGMiemv) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1) | [الو](https://open.spotify.com/album/0dr8lDtwokH2ys7vAAxVFV) | 4:29 | 2025-02-17 |  |
 | [「祭ばやじか聞こえる」のテーマ](https://open.spotify.com/track/2UxL34mfVIVv3FIUmRlPX8) | [George Yanagi](https://open.spotify.com/artist/5cRWBbkURZ0L2dgRBTqNov), [Nadja Band](https://open.spotify.com/artist/2TltXIcOAArwsRtG1TcOgX) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 4:02 | 2020-12-07 |  |
 | [はらいそ \- 2019 Remastering](https://open.spotify.com/track/2OZAbQEpHe7fz92J9wSOtW) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:39 | 2019-11-23 |  |
 | [イエロー・マジック \(東風\)](https://open.spotify.com/track/3EsDrhZydOrpYUwHGT9ulW) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [イエロー・マジック・オーケストラ（US版）](https://open.spotify.com/album/3qqELRjHOjEkjOiYTJNb2V) | 6:17 | 2021-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,807 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,808 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 54 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 |
 | 55 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
 | 56 | [Lullaby](https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Lullaby](https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky) | 2:39 |
-| 57 | [Persetan](https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Persetan](https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl) | 4:19 |
+| 57 | [Persetan](https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Persetan](https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl) | 4:23 |
 | 58 | [Tak Berakhir Sama](https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Tak Berakhir Sama](https://open.spotify.com/album/40x1sWxBNDkUmvYIFdLsCX) | 3:50 |
 | 59 | [Beban](https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Beban](https://open.spotify.com/album/3pY3HRRPu6QPtYpsImd0CI) | 2:56 |
 | 60 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |

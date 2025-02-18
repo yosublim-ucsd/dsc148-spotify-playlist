@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake & PartyNextDoor",
-  "num_followers": 32213,
+  "num_followers": 32234,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-02-14 07:42:27",
       "album": {
+        "name": "Bhad Boi",
+        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Chocolate & Caramel",
+      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
+    },
+    {
+      "added_at": "2025-02-14 07:42:27",
+      "album": {
         "name": "Cry No More (feat. Stormzy & Tay Keith)",
         "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 204170,
       "name": "Cry No More (feat. Stormzy & Tay Keith)",
       "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
-    },
-    {
-      "added_at": "2025-02-14 07:42:27",
-      "album": {
-        "name": "Bhad Boi",
-        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Chocolate & Caramel",
-      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
     },
     {
       "added_at": "2025-02-14 07:42:27",

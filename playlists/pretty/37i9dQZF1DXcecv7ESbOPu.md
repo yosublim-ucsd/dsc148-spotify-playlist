@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,405 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,402 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [Anchorhold](https://open.spotify.com/track/3DMqzkV7z63FaX2hoEjTgd) | [Apocalypse Orchestra](https://open.spotify.com/artist/5McxshLeSMrORjTGNKXLIs) | [A Plague upon Thee](https://open.spotify.com/album/3rCf5E0Au5UpNEhJ8FmWL9) | 8:23 |
 | 105 | [Julia](https://open.spotify.com/track/4yGmufwP91OUoTsSw2uqkQ) | [Art Nation](https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H) | [Julia](https://open.spotify.com/album/4UDx9yINasZafwPe4SFCm0) | 4:07 |
 
-Snapshot ID: `Z68DcgAAAAARPgbDLdqD2qF5dZ0ky5z2`
+Snapshot ID: `Z68DcgAAAAAPRMiqXun2CKcVg8WiFrpf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,873 likes - 107 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,882 likes - 107 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

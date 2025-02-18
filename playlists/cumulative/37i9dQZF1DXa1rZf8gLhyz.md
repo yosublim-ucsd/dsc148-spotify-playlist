@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-639 songs - 1 day 8 hr 22 min
+642 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 | 2022-11-25 |
 | [A Nightly Walk](https://open.spotify.com/track/0LYvHkBXYBHkt7fcSDUqeu) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [A Nightly Walk](https://open.spotify.com/album/4u7Rn60vYtbvIBT3m6BtBI) | 2:36 | 2024-03-08 |  |
 | [A Restless Night](https://open.spotify.com/track/2AnXloxO4HUVSZDtJvWqWg) | [Elliot Baxter](https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq) | [A Restless Night](https://open.spotify.com/album/2qJanXpxnuQ7AWLVucwXO3) | 3:15 | 2024-05-30 | 2024-08-20 |
-| [A Short Walk](https://open.spotify.com/track/2bunB7RoLa0CXkh774Rhwf) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [A Short Walk](https://open.spotify.com/album/1UkiEHXmYkQFlsIt30p9Op) | 2:52 | 2024-08-19 |  |
+| [A Short Walk](https://open.spotify.com/track/2bunB7RoLa0CXkh774Rhwf) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [A Short Walk](https://open.spotify.com/album/1UkiEHXmYkQFlsIt30p9Op) | 2:52 | 2024-08-19 | 2025-02-18 |
 | [A Single Love](https://open.spotify.com/track/4Ekcc1cobthruCIIdcF9Gx) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [A Single Love](https://open.spotify.com/album/7DTbOOoyLNSxJidemowmSj) | 2:37 | 2024-05-23 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 | 2023-08-11 |
 | [A Thought Of You](https://open.spotify.com/track/2RtX44bwJapdvlQ4BaxyJr) | [Millie Blue](https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P) | [A Thought Of You](https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z) | 2:28 | 2023-11-24 |  |
@@ -93,6 +93,7 @@
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-07 | 2022-10-28 |
 | [But Not For Me](https://open.spotify.com/track/19OV9LlkvwWW6Zz3pyyPEq) | [Riley Cobb](https://open.spotify.com/artist/3dtJzGK4kwhyCJJjnLsI9T) | [But Not For Me](https://open.spotify.com/album/4opEostLBBqzrbpFyFXPNy) | 2:56 | 2024-03-08 |  |
 | [But of course](https://open.spotify.com/track/3rK5GAVF7TiVeULcgK2Z4w) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [But of course](https://open.spotify.com/album/2KlWgUZEM0mOw14TWYwGOK) | 2:58 | 2024-04-02 |  |
+| [By My Side](https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [By My Side](https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE) | 2:54 | 2025-02-17 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/7vZDxwET1WCo9wiO1MgAgR) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cabin In The Sky](https://open.spotify.com/album/0VAsLDBshbyYcZeJAAgTcZ) | 2:07 | 2023-01-19 | 2024-06-28 |
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-09 | 2024-05-11 |
 | [Can't We Be Friends](https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Can't We Be Friends](https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3) | 2:10 | 2023-08-10 |  |
@@ -342,7 +343,7 @@
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2022-10-06 |  |
 | [Love of my life](https://open.spotify.com/track/0xGhtDxlN0wPry1XnFtdsx) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Love of my life](https://open.spotify.com/album/2rfixBbKpVxPXNUJTZMEeu) | 2:15 | 2025-01-27 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |
-| [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-09 |  |
+| [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-09 | 2025-02-18 |
 | [Love's Journey](https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Love's Journey](https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h) | 2:22 | 2023-11-24 |  |
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |
 | [Lovely With Me](https://open.spotify.com/track/5Libp5Ov0uG7yBOmZkMOEX) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Lovely With Me](https://open.spotify.com/album/660j778SWkk6567Nxy9XMd) | 3:01 | 2024-08-06 |  |
@@ -367,7 +368,7 @@
 | [Midnight Stroll](https://open.spotify.com/track/00uBWrCNKvMfHNvgBIaU29) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [Midnight Stroll](https://open.spotify.com/album/3oqLJBIC8Yf6vSgFRjEE7V) | 3:17 | 2025-01-14 |  |
 | [Milano](https://open.spotify.com/track/2ZkXZZCNcLIW4bOhPBEyCG) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Milano](https://open.spotify.com/album/3WFRMcOkcfyq3rCpDrGzsL) | 3:12 | 2024-02-09 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2021-12-07 |  |
-| [Misty Mornings](https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Misty Mornings](https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq) | 4:03 | 2024-01-12 |  |
+| [Misty Mornings](https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Misty Mornings](https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq) | 4:03 | 2024-01-12 | 2025-02-18 |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2021-12-07 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Moonlight In Vermont](https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk) | 2:58 | 2023-06-15 |  |
 | [Moonlight Over Manhattan](https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Moonlight Over Manhattan](https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U) | 3:07 | 2023-10-13 | 2024-05-11 |
@@ -406,6 +407,7 @@
 | [Nightfall](https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Nightfall](https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U) | 2:00 | 2023-05-11 | 2023-08-19 |
 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 | 2021-12-07 | 2023-04-14 |
 | [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-01 | 2024-08-27 |
+| [Not Tonight](https://open.spotify.com/track/7LAsmwVpgaNGin3DwX9YmF) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Not Tonight](https://open.spotify.com/album/4rUxy7EISEPtul2XOKZWIR) | 2:52 | 2025-02-17 |  |
 | [Noticed Moments](https://open.spotify.com/track/1c65kXG4oxgx3PMCRMhD1n) | [Novo Alonso](https://open.spotify.com/artist/5CswSV6SeGqATyFK4cEUqg) | [Noticed Moments](https://open.spotify.com/album/4zrw0vkGLzU1G3xdw49d16) | 2:46 | 2024-05-30 |  |
 | [novak](https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [novak](https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM) | 2:10 | 2023-12-22 |  |
 | [Now\-empty](https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Now\-empty](https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t) | 1:49 | 2023-05-25 | 2023-08-19 |
@@ -444,6 +446,7 @@
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-07 | 2022-09-15 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 | 2024-10-22 |
 | [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 | 2024-11-26 |
+| [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 | 2025-02-17 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2021-12-07 | 2023-08-11 |
 | [Quebec](https://open.spotify.com/track/0JQjizdC8uucjdx8IogkZ3) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Quebec](https://open.spotify.com/album/7AfHXBL9mXhwptOXSXw0yz) | 2:50 | 2024-07-22 |  |
 | [Quiet Now](https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Quiet Now](https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2) | 2:48 | 2023-03-30 |  |

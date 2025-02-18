@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 37396,
+  "num_followers": 37420,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/ZAAAAAACp3vIXuB9t4NxnX7ylC4Y1",
+  "snapshot_id": "Z7EqgAAAAAAjNFkEAoTDMX/Kq8U7Qv/E",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 135419,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
+      "duration_ms": 105508,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 105508,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
     },
     {
       "added_at": null,

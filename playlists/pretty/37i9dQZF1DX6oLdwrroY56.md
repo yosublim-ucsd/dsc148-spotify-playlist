@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: SUYEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,383 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,414 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wag Ka na lang Kumagat](https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5) | [Wag Ka na lang Kumagat](https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT) | 3:28 |
-| 2 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 |
-| 3 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 |
+| 1 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 |
+| 2 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 |
+| 3 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 |
 | 4 | [Isang Linggong Maghihintay](https://open.spotify.com/track/2Wsd2xDZCL1Ng6MUwQMuVK) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [Suyen Imnida](https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA) | 3:26 |
-| 5 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 |
+| 5 | [Wag Ka na lang Kumagat](https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5) | [Wag Ka na lang Kumagat](https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT) | 3:28 |
 | 6 | [all along \(you were right there\)](https://open.spotify.com/track/1s5kvzPk0EeandHdA4qb7g) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [all along \(you were right there\)](https://open.spotify.com/album/49ZZqRW6PNEGYNRP90523b) | 2:53 |
 | 7 | [For Years](https://open.spotify.com/track/7n5keaHfBmfT0kz56EIIr4) | [Kremesoda](https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf) | [For Years](https://open.spotify.com/album/4wyGeGizmF1609QAefbTBa) | 3:54 |
 | 8 | [Suya\-suyo](https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY) | [Frisbee](https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq) | [Suya\-suyo](https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC) | 3:06 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 55 | [Break time](https://open.spotify.com/track/7tDdIzfcxAtmU7JPTBpjiZ) | [Reese Lansangan](https://open.spotify.com/artist/2JI8ViuZDBybY6Xd9ujUrb), [Neat](https://open.spotify.com/artist/57I8hoEk21pfPwjVJvJB8U) | [Break time](https://open.spotify.com/album/6qdAy7eI40I0PGOR6nDCkG) | 3:53 |
 | 56 | [bakasyon](https://open.spotify.com/track/7q7BWieEcjilMrSr752Hqk) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [bakasyon](https://open.spotify.com/album/3muugpfoJOOJm9PaobXiAq) | 4:05 |
 
-Snapshot ID: `Z671jAAAAACoggJeFehVHaxg493cpDNU`
+Snapshot ID: `Z7PvyAAAAAA48fr4GDEiUUNA5rU/PjUa`

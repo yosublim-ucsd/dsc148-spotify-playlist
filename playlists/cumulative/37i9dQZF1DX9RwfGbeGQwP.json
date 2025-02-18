@@ -5885,6 +5885,28 @@
     },
     {
       "album": {
+        "name": "Deep Forest",
+        "url": "https://open.spotify.com/album/4EWtJaAgRmMbTK1cI5dA6e"
+      },
+      "artists": [
+        {
+          "name": "Howiewonder",
+          "url": "https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk"
+        },
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95911,
+      "name": "Deep Forest",
+      "url": "https://open.spotify.com/track/4yGselxigcwriO7LbmCeMb"
+    },
+    {
+      "album": {
         "name": "deep waters",
         "url": "https://open.spotify.com/album/6ZwghYV71Nhxc2ko5VZ5k2"
       },
@@ -7098,7 +7120,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 116666,
       "name": "emerald",
       "url": "https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp"

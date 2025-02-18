@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-998 songs - 2 day 5 hr 47 min
+999 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
 | [Mulakat](https://open.spotify.com/track/5eVCyVrewEENgnQTccju4q) | [Preet Guree](https://open.spotify.com/artist/2YOq6u1oHUoGNvd5t4x7Ah), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [Mulakat](https://open.spotify.com/album/3xaONxvVN6ANn2g0hQa3QN) | 2:19 | 2025-01-30 | 2025-02-14 |
 | [Mulaqaat](https://open.spotify.com/track/3qFxc62CjyE8WYwigvvB9L) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Mulaqaat](https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3) | 2:14 | 2025-01-13 |  |
+| [Mulaqat](https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Mulaqat](https://open.spotify.com/album/6r25oF7XXhIzobYY6IqLoQ) | 3:00 | 2025-02-17 |  |
 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 | 2024-09-26 |
 | [Mundraan](https://open.spotify.com/track/047BsbiQMaej8JBT1KjBUe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Mundraan](https://open.spotify.com/album/1PRLIr0sT8RcvTMN92Vcr1) | 3:21 | 2022-03-18 | 2022-04-06 |
 | [Mundri](https://open.spotify.com/track/2voQrPy1f2ewL7xe9N0Gvp) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Mundri](https://open.spotify.com/album/5DqF0dFjr3DMngneY9sel1) | 2:47 | 2024-04-01 | 2024-04-24 |
@@ -661,7 +662,7 @@
 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 | 2022-04-12 | 2022-04-29 |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 | 2022-04-06 |
 | [Perfect](https://open.spotify.com/track/0z9pKdemlN3xkxA2eIpIFy) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:52 | 2022-09-20 | 2022-12-16 |
-| [Perfect](https://open.spotify.com/track/6mCkecWnrRAtLrQmmHm8Wj) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfect](https://open.spotify.com/album/75K6jbVzvGBWx6ls0G9Y1h) | 3:08 | 2025-02-03 |  |
+| [Perfect](https://open.spotify.com/track/6mCkecWnrRAtLrQmmHm8Wj) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfect](https://open.spotify.com/album/75K6jbVzvGBWx6ls0G9Y1h) | 3:08 | 2025-02-03 | 2025-02-18 |
 | [Perfect Jodi](https://open.spotify.com/track/0BZplgD7cIEyJae5bTYB1s) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Gurp Sandhu](https://open.spotify.com/artist/7x0GUjwAlc9uHb4hSKIqci), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Perfect Jodi](https://open.spotify.com/album/4SRTTZXnl8llE0HSTHS8iY) | 2:42 | 2023-12-08 | 2024-01-04 |
 | [Phone](https://open.spotify.com/track/5uJwszrqcBrS9q1oUv5rdk) | [Kapil Sahdev](https://open.spotify.com/artist/2Biq9oFdCwH1OitFH5UUrC), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Phone](https://open.spotify.com/album/4O1D3WKo52DUEDap6dtQ6e) | 3:34 | 2022-01-10 | 2022-02-01 |
 | [Photo](https://open.spotify.com/track/4GtCxfvTwCK9NxnjmbZvio) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Photo](https://open.spotify.com/album/3mL10Hdr4isTCdtpAJ1rB0) | 3:16 | 2022-08-05 | 2023-02-04 |

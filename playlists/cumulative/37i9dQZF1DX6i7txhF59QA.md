@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-969 songs - 2 day 7 hr 18 min
+970 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Girl from Soyang River](https://open.spotify.com/track/6euTU6KhtvJPCPFtKEZwx4) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:49 | 2022-04-21 | 2022-04-23 |
 | [Girl next door](https://open.spotify.com/track/3HdLXpJla7NJE6mPATwjdu) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Cho young soo All star \- Jang yoon joeng](https://open.spotify.com/album/18KzXcZdFUA6NjfFLp38Bt) | 2:53 | 2022-04-07 |  |
 | [Girls girls girls](https://open.spotify.com/track/4u6ezTi03y6DScGKZovYBo) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 2:55 | 2022-06-18 | 2022-06-28 |
-| [Give It To Me](https://open.spotify.com/track/2GAN7oPTQRFY2r5dW4l82i) | [KIMHEEJIN](https://open.spotify.com/artist/4rQjiclA5p0n9n8EsiCn6F) | [Give It To Me](https://open.spotify.com/album/5T8AnfkPJLADcTtxG5C7oq) | 3:00 | 2024-10-02 |  |
+| [Give It To Me](https://open.spotify.com/track/2GAN7oPTQRFY2r5dW4l82i) | [KIMHEEJIN](https://open.spotify.com/artist/4rQjiclA5p0n9n8EsiCn6F) | [Give It To Me](https://open.spotify.com/album/5T8AnfkPJLADcTtxG5C7oq) | 3:00 | 2024-10-02 | 2025-02-18 |
 | [Glass of Tears](https://open.spotify.com/track/6BvJOVN2kSrC4EUdw9SqPg) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL) | [Glass](https://open.spotify.com/album/7kIf0zFONauuxaqwElNkhk) | 3:38 | 2022-04-07 | 2025-02-01 |
 | [Glue stick](https://open.spotify.com/track/5Uj7VESpHsOCs5BPNARWbt) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:49 | 2022-05-03 | 2022-07-27 |
 | [Go Away](https://open.spotify.com/track/49c9g4DfRP3UODnJgZCkXj) | [Son Tae jin](https://open.spotify.com/artist/7w3dpNEHUV9vTN2EPtJBhf) | [Fire Trot 1:1 Rivals Round PART 1](https://open.spotify.com/album/6vP7U8oJAGJUG75zn7udQr) | 3:56 | 2024-08-13 | 2025-01-21 |
@@ -797,6 +797,7 @@
 | [Wink](https://open.spotify.com/track/3hWlpZfuUcLZPaQ2HuCl1e) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jung Donghyeok](https://open.spotify.com/artist/0fIB9FvROpQQ57VcCIP86M) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:13 | 2022-04-21 | 2022-07-29 |
 | [Winter rose](https://open.spotify.com/track/3g75Tgf3HPdfFlYF4MO7RG) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 3:17 | 2022-04-22 | 2022-07-21 |
 | [With lover](https://open.spotify.com/track/5ijEeVhJmC3GNt6C1yjjyI) | [Kim Gyeongmin](https://open.spotify.com/artist/0zccQI9CweyqICg8BCKGOY) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:24 | 2024-10-16 | 2025-01-19 |
+| [Within 10 Minutes](https://open.spotify.com/track/3BbCBBBonATakYRdDoE4Od) | [Han E Jae](https://open.spotify.com/artist/6VTEmyD2K4K3P9vLoSosqq) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 2:37 | 2025-02-11 |  |
 | [Within 10 minutes](https://open.spotify.com/track/41LnNb32jzlFj2u7V6KLxu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Ryu Jikwang](https://open.spotify.com/artist/4JABjp69hYZ7KWVHI0QCiP), [Kang Taekwan](https://open.spotify.com/artist/1DtspJahFF2GdAW3NXkXHR), [Hwang Yunseong](https://open.spotify.com/artist/1FOvM67AluX3CFyuqtaaZ0) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 1:59 | 2022-07-04 | 2022-07-06 |
 | [Woman never see mirror](https://open.spotify.com/track/7DNp6eS2wrSz3CYx3IJmo2) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 2:28 | 2022-04-07 | 2022-04-21 |
 | [Woman's life](https://open.spotify.com/track/3NxLhADLC7qM7NhvQQCsXk) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [An Seonghun](https://open.spotify.com/artist/509LWms7Nsj9TXZWpguCXC), [Kim Suchan](https://open.spotify.com/artist/50EaMvYHnpDCZvShM4Cz1A), [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 1:45 | 2022-04-07 | 2022-07-03 |

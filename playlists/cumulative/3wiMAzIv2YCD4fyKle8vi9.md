@@ -4,7 +4,7 @@
 
 > ❤️‍🩹
 
-66 songs - 6 hr 40 min
+67 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Lluvia de estrellas](https://open.spotify.com/track/6sWDkTpxivmsjmBCMms1O2) | [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [La Niña Junco](https://open.spotify.com/album/0GuhJnRErjBiJUYuo0nRZY) | 7:32 | 2024-12-23 |  |
 | [Migrations](https://open.spotify.com/track/3ZqjPbjmPUkqQv23ynIEim) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/3Mh9oweGossTl08n8uUV7i) | 3:16 | 2024-12-23 |  |
 | [Moments Descend On My Windowpane](https://open.spotify.com/track/1D2vuD2SBfeCxfu9ah8nqc) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [SMM: Context](https://open.spotify.com/album/2a97FawvuPFdfv2PNrOrPt) | 5:14 | 2024-12-23 |  |
+| [Mumi](https://open.spotify.com/track/1CRID0bXnnDthURSAd5E7Y) | [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [El Idioma De Las Luciérnagas](https://open.spotify.com/album/4l9SYV99xHNbQRaCNml3yK) | 3:35 | 2025-02-17 |  |
 | [My Atelier](https://open.spotify.com/track/1cVXPyKSHj5Kgk5q8JSYqq) | [Keyboard](https://open.spotify.com/artist/3DzZcVQIftRaDBMd5oBDgf) | [Staying In](https://open.spotify.com/album/0M7aFzC51HhyhbMSbntLQG) | 6:52 | 2024-12-23 |  |
 | [Nami](https://open.spotify.com/track/2tSyI5vd1WVpCLjJYGf3Iq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg), [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [Magical Imaginary Child](https://open.spotify.com/album/2YxHTak9Az1tq25GL6YA0w) | 8:57 | 2024-12-23 |  |
 | [New Apt.](https://open.spotify.com/track/5XzTNzMYXP6zl6Kaadp2UH) | [Parish Council](https://open.spotify.com/artist/33ybNzLBurfWiyuNvpml4C) | [Pear & Biscuits Classical](https://open.spotify.com/album/78jctDLSbWxdxIGyeDyp7A) | 3:40 | 2024-12-23 |  |

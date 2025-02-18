@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-354 songs - 19 hr 26 min
+355 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 | 2024-01-26 | 2024-04-27 |
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 | 2023-11-11 |
 | [Donde Estas](https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Donde Estas](https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F) | 2:52 | 2024-03-01 | 2024-05-21 |
+| [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 | 2025-02-14 |  |
 | [Dura](https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ) | [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4) | [Dura](https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH) | 2:43 | 2024-08-09 | 2024-09-26 |
 | [E Baixo](https://open.spotify.com/track/2zIosuEKWuayV6gWSQ9zCN) | [JB Martinz](https://open.spotify.com/artist/3ppRzj5DrR9my3t6GiBtEr), [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [E Baixo](https://open.spotify.com/album/3bvPNbSHHEgnE4nah7R2TG) | 3:12 | 2025-01-10 |  |
 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 | 2023-11-10 | 2024-04-19 |
@@ -283,7 +284,7 @@
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2021-10-08 | 2022-07-29 |
 | [Ritmo 305](https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Ritmo 305](https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5) | 3:35 | 2024-05-03 | 2024-09-07 |
 | [Rosa](https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Rosa](https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy) | 2:51 | 2023-11-17 | 2024-06-01 |
-| [rosa blanca](https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [rosa blanca](https://open.spotify.com/album/4NGRy9UvvUGKhdwCGlis7k) | 2:34 | 2024-05-03 |  |
+| [rosa blanca](https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [rosa blanca](https://open.spotify.com/album/4NGRy9UvvUGKhdwCGlis7k) | 2:34 | 2024-05-03 | 2025-02-18 |
 | [Rosa Que Linda Eres \- Joe Mangione Edit Remix](https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN) | [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Joe Mangione](https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2) | [Rosa Que Linda Eres \(Joe Mangione Remix\)](https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4) | 2:47 | 2024-05-24 |  |
 | [Safari](https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Safari](https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA) | 3:06 | 2021-10-08 | 2023-11-11 |
 | [Sandia](https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu) | [Adiel Mora](https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Sandia](https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp) | 2:32 | 2023-12-01 | 2024-02-24 |

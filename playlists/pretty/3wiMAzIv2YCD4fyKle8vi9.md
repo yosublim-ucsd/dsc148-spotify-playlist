@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 
 > ❤️‍🩹
 
-[Joaquin Lobato](https://open.spotify.com/user/11100497949) - 1 like - 65 songs - 6 hr 33 min
+[Joaquin Lobato](https://open.spotify.com/user/11100497949) - 1 like - 66 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 | 63 | [White Light](https://open.spotify.com/track/4sfORtxIQnO42AJpNy8Gsq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [A Long Journey](https://open.spotify.com/album/0sBlCjVNskfvbNAHwltpIU) | 2:07 |
 | 64 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 65 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
+| 66 | [Mumi](https://open.spotify.com/track/1CRID0bXnnDthURSAd5E7Y) | [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [El Idioma De Las Luciérnagas](https://open.spotify.com/album/4l9SYV99xHNbQRaCNml3yK) | 3:35 |
 
-Snapshot ID: `AAABlhcSfQuYR1tcL7cOO/94jdN/0HWZ`
+Snapshot ID: `AAABl1OBzRT4oPPHGdBGsvhO0z3QIsZW`

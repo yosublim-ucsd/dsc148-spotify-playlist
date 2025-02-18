@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "album": {
         "name": "Dolly",
         "url": "https://open.spotify.com/album/0SO3o4OeB8ewVF8uWgXBHa"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 149826,
       "name": "Don't Leave Me Behind",
       "url": "https://open.spotify.com/track/6oMnaKyIFJgUHmatd5VuRi"
@@ -2441,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/4kAy8OdlkY0gK81ksZSfNI"
+      },
+      "artists": [
+        {
+          "name": "Mark Wilkinson",
+          "url": "https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255852,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/1WNUi5w1tdA7GWE0iEF8iS"
+    },
+    {
+      "album": {
         "name": "Get Through",
         "url": "https://open.spotify.com/album/2nBMZEgu0BDkpUyCkvNw0V"
       },
@@ -2618,6 +2654,24 @@
       "duration_ms": 171653,
       "name": "Hands",
       "url": "https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq"
+    },
+    {
+      "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
     },
     {
       "album": {
@@ -4156,7 +4210,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 228453,
       "name": "Move Away",
       "url": "https://open.spotify.com/track/0oDWgTyFejirLGkw3pFlOI"
@@ -4348,6 +4402,24 @@
       "duration_ms": 216838,
       "name": "Oceans Of Emotions - The Circle Sessions, 2023",
       "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "album": {
+        "name": "oh blue",
+        "url": "https://open.spotify.com/album/4uIkrccwq12Tef8aPhvDyT"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177195,
+      "name": "oh blue",
+      "url": "https://open.spotify.com/track/38aKE9ZK6VyYnshtAnJyaz"
     },
     {
       "album": {
@@ -4680,7 +4752,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 163324,
       "name": "Please Slow Down - Rubber Bridge Version",
       "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
@@ -5830,7 +5902,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 196210,
       "name": "The Mountain Is You",
       "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"

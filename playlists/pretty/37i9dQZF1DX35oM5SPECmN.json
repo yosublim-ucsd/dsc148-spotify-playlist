@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2288343,
+  "num_followers": 2288285,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Calla Lily",
-        "url": "https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr"
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb"
+      "duration_ms": 288629,
+      "name": "Red Bull & Hennessy",
+      "url": "https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+        "name": "Calla Lily",
+        "url": "https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 288629,
-      "name": "Red Bull & Hennessy",
-      "url": "https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE"
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "Consider Me A Winner",
+        "url": "https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "Consider Me A Winner",
+      "url": "https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 186423,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/4nVonORlG4CxVHQPVssBtM"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "Consider Me A Winner",
-        "url": "https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9"
-      },
-      "artists": [
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "Consider Me A Winner",
-      "url": "https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Plague Dogs",
-        "url": "https://open.spotify.com/album/1MNmfHP7XdVjerj8c2MX6m"
+        "name": "Burn Too Bright",
+        "url": "https://open.spotify.com/album/77mrdHTeFaLXQTMfp2NliT"
       },
       "artists": [
         {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
         }
       ],
-      "duration_ms": 251093,
-      "name": "Plague Dogs",
-      "url": "https://open.spotify.com/track/1foa5cCV8qYCtplg9P3sqV"
+      "duration_ms": 179713,
+      "name": "Burn Too Bright",
+      "url": "https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec"
     }
   ],
   "unique_name": "Run Wild",

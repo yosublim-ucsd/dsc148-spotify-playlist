@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Jamie xx\n",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: HAAi",
   "name": "Altar JP",
   "tracks": [
     {
@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Can't Stand To Lose",
+        "url": "https://open.spotify.com/album/5Lum1gX2ESQodmiHRsf7mJ"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292620,
+      "name": "Can't Stand To Lose",
+      "url": "https://open.spotify.com/track/2u15UplNnOJTJF0Sct4A98"
+    },
+    {
+      "album": {
         "name": "Candle Flame",
         "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
       },
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 474888,
       "name": "Dream Sketches",
       "url": "https://open.spotify.com/track/0bgkGdLdB0gCiLgm1fYIZR"
@@ -10568,7 +10586,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "In My Head - Edit",
       "url": "https://open.spotify.com/track/4P7P6cIXe2zNdsPZ9WhJjt"
@@ -11390,7 +11408,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 211406,
       "name": "Keep On - Club Dub",
       "url": "https://open.spotify.com/track/1M78oZyhhFBI5pkm4u9SDk"
@@ -12580,7 +12598,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 225937,
       "name": "Lost Keys - Radio Edit",
       "url": "https://open.spotify.com/track/3DgwtczzUT75VZYaeANcjJ"
@@ -14660,7 +14678,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 325468,
       "name": "Night Moves (feat. Ruby.) - Crackazat Remix",
       "url": "https://open.spotify.com/track/5SnAH00NhhCN2wQSJDEKSD"
@@ -15612,7 +15630,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 215538,
       "name": "Part I",
       "url": "https://open.spotify.com/track/1xCva4FzEDBfB2RIvRoc1w"
@@ -17944,7 +17962,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 206016,
       "name": "Seagulls",
       "url": "https://open.spotify.com/track/7DGGaogybfys4M7iozhbay"

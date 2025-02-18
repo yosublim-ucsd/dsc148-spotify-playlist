@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,634 likes - 180 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,670 likes - 180 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

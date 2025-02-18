@@ -4053,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Thinking Out Loud (Acoustic)",
+        "url": "https://open.spotify.com/album/1WrdSnM8vS3UlX3YD20qms"
+      },
+      "artists": [
+        {
+          "name": "Sands of Summer",
+          "url": "https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184808,
+      "name": "Thinking Out Loud - Acoustic",
+      "url": "https://open.spotify.com/track/30kpPQ8pYmxqyUD9l1mFL7"
+    },
+    {
+      "album": {
         "name": "This Kiss (Acoustic)",
         "url": "https://open.spotify.com/album/7wQAgYNFflHq2AqevwUSWn"
       },

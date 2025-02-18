@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u8292\u679c\u91ac (Mengo Jump)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 234817,
       "name": "11 (with Hooleeger)",
       "url": "https://open.spotify.com/track/5eDJH4MfpRQM9S9WTiu7yU"
+    },
+    {
+      "album": {
+        "name": "3am - Demo Ver.",
+        "url": "https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "3am - Demo Ver.",
+      "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
     },
     {
       "album": {
@@ -300,7 +318,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 191538,
       "name": "SUPA HERO (feat. BG8LOCC)",
       "url": "https://open.spotify.com/track/0FbQzSm6pHy98Dse2VQXZA"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 256706,
       "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
       "url": "https://open.spotify.com/track/1kX9OkIAcrYldGseNeSkXo"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 298942,
       "name": "\u4f55\u5fc5 - \u300a\u524d\u4efb4\uff1a\u82f1\u5e74\u65e9\u5a5a\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0Sh3GH2mqipOARvZ9qqABo"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 289639,
       "name": "\u53c8\u5230\u5929\u9ed1",
       "url": "https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o"
@@ -1268,6 +1286,24 @@
       "duration_ms": 253735,
       "name": "\u552f\u4e00",
       "url": "https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C"
+    },
+    {
+      "album": {
+        "name": "\u559c\u6b61\u4f60",
+        "url": "https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "\u559c\u6b61\u4f60",
+      "url": "https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2"
     },
     {
       "album": {
@@ -1720,6 +1756,24 @@
       "duration_ms": 171388,
       "name": "\u59b9\u59b9",
       "url": "https://open.spotify.com/track/3HLALO7VlxrTcWWQaAs6Ae"
+    },
+    {
+      "album": {
+        "name": "\u5b57\u5b57\u53e5\u53e5",
+        "url": "https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn"
+      },
+      "artists": [
+        {
+          "name": "\u5362\u5362\u5feb\u95ed\u5634",
+          "url": "https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u5b57\u5b57\u53e5\u53e5",
+      "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"
     },
     {
       "album": {
@@ -2326,7 +2380,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 265654,
       "name": "\u6211\u5728\u611b\u60c5\u7684\u76e1\u982d\u770b\u898b\u4e86\u4f60\u548c\u6211",
       "url": "https://open.spotify.com/track/3dEXhWQRe9jPXEAh33ppuy"
@@ -2788,7 +2842,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 200120,
       "name": "\u67d0\u67d0",
       "url": "https://open.spotify.com/track/1B1nHpoz5WHGgwJJZ7OAF3"
@@ -3540,6 +3594,28 @@
       "duration_ms": 214067,
       "name": "\u8a60\u611b",
       "url": "https://open.spotify.com/track/3sf2rfLYBuIz0gHOa7Z33h"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR"
+      },
+      "artists": [
+        {
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+        },
+        {
+          "name": "Wu Bai",
+          "url": "https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278296,
+      "name": "\u8aaa\u4e0d\u51fa\u53e3 (feat. \u4f0d\u4f70)",
+      "url": "https://open.spotify.com/track/3GYRteOB6zIZYNu6O0EXkW"
     },
     {
       "album": {

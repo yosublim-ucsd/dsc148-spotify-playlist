@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,940 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,051 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Zinnia](https://open.spotify.com/track/1yHcyNZMzLW6aRG9jMTJ52) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Zinnia](https://open.spotify.com/album/5UfVCGfL5jwPGGviRbwOv4) | 4:20 |
 | 85 | [IN&OUT\(JAXX/JAXX ver.\)](https://open.spotify.com/track/5k82PmGI8Ktq6wdQ62mgq1) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [JAXX/JAXX](https://open.spotify.com/artist/6HGceVVtmMQcDBRqTU1hhz) | [IN&OUT](https://open.spotify.com/album/7aev1JhLgscMN1sTyWhSlE) | 2:58 |
 
-Snapshot ID: `Z7CsGgAAAACtmnuH6IV5zzacLO2CgLqN`
+Snapshot ID: `Z7CsGgAAAACBrpOWz85TvzoSCeKbK3ET`

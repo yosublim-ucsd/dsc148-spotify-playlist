@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-271 songs - 15 hr 30 min
+275 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/track/1muALek1dLnnpVzZzDEHfC) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi) | 3:13 | 2023-08-21 |  |
 | [Deep Breath Deep Breath \-Reload\-](https://open.spotify.com/track/44U2jUczRzLNme3lweF2Rs) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 2:55 | 2024-06-20 |  |
 | [Delusion](https://open.spotify.com/track/09jUEiCTmG8Ec4zDmmFjV4) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw) | [Delusion](https://open.spotify.com/album/4hHSg9VVMEIyXVH5WUJA47) | 3:18 | 2023-02-02 |  |
+| [Destruction](https://open.spotify.com/track/486OJ5rXesJKnMb21D8P44) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [Destruction](https://open.spotify.com/album/1YWkFs5TxO3dxv5tWuBPcx) | 2:50 | 2025-02-17 |  |
 | [Disconnected](https://open.spotify.com/track/1GCjGQ2zBYumwdSF3uVCfX) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN) | 4:46 | 2024-09-10 |  |
 | [Dive Back In Time \- 动画《时光代理人》片头曲](https://open.spotify.com/track/5MDff48720BZmPEOs3kHpF) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [时光代理人 \(动画《时光代理人》原声带\)](https://open.spotify.com/album/21PcXK6X2irUZ1KSNwk3jy) | 2:54 | 2023-03-21 |  |
 | [Don't](https://open.spotify.com/track/6oQA2z2C8pfDSeVcxjItvq) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/2wAoMMXl5XheXNYzwFHg1x) | 2:45 | 2024-09-07 |  |
@@ -169,6 +170,7 @@
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-06 |  |
 | [あのバンド](https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [あのバンド](https://open.spotify.com/album/0Q7q1edTAuH2hifLVFjscF) | 3:33 | 2023-05-06 |  |
+| [うらみのワルツ \- 第一幕Mix](https://open.spotify.com/track/16nHgNk16haiFdhEpHZpWw) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第一幕](https://open.spotify.com/album/61LtVJlmKKinmd80gtNOry) | 4:12 | 2025-02-17 |  |
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2024-03-10 |  |
 | [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-08 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-10-25 |  |
@@ -252,7 +254,9 @@
 | [毒の王子さま](https://open.spotify.com/track/6btke96zwYQHwsoMGNeQM9) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [毒の王子さま](https://open.spotify.com/album/2HQmMyOZF4D3MWWfFfUeVM) | 3:35 | 2022-07-24 |  |
 | [泡沫の夜](https://open.spotify.com/track/2fGQH6lxM7dQbgY2rbtEIG) | [nqrse](https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3) | [泡沫の夜](https://open.spotify.com/album/1QkpaHdfrYfCUIw4OCYXAa) | 3:37 | 2023-12-04 |  |
 | [浴槽とネオンテトラ](https://open.spotify.com/track/07LC3H76ceeFbrA6XDjPxL) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [浴槽とネオンテトラ](https://open.spotify.com/album/4VqnMClvFtkT4GnQqQUHs8) | 4:25 | 2024-09-02 |  |
+| [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2025-02-17 |  |
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2024-08-19 |  |
+| [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2025-02-17 |  |
 | [白銀の小舟](https://open.spotify.com/track/4c25GpjkCfkD0K4J3C0mCR) | [魔王魂](https://open.spotify.com/artist/5qcsl4mmKIvcKLs1e5vySU), [森田交一](https://open.spotify.com/artist/21rAvbCpRT7lmNK4d08QfL) | [魔王魂BEST1](https://open.spotify.com/album/1x254RwkdfRbe5zNRB9w8T) | 4:20 | 2024-09-02 |  |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-12-29 |  |
 | [砂糖じかけの電影街 \(feat\. GUMI\)](https://open.spotify.com/track/7woJbv6ZxTfNM2eqbTNxYH) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 3:46 | 2023-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Raffa Moreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,437 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,410 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Ferrari Black](https://open.spotify.com/track/1dIREBUCmeo8gjoBPyTqiz) | [CrisMc](https://open.spotify.com/artist/4aSoBq6Ds3OGc7mxg5IOtb), [KássioMc](https://open.spotify.com/artist/533xmMd9PM2FzOUMCn4l4O), [bg](https://open.spotify.com/artist/6PD9T2bqixUqEgcqr7OuNo) | [Ferrari Black](https://open.spotify.com/album/0y3HANHKi9dx3iSe0vbaiU) | 3:36 |
 | 74 | [Homem Medo Ⅱ](https://open.spotify.com/track/59JXfTDDT8QMUdLYyquVJi) | [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB), [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [Homem Medo Ⅱ](https://open.spotify.com/album/0O9mTUYANMuqnOIJ111yX3) | 2:51 |
 
-Snapshot ID: `Z66x/wAAAAAyq1UZQffFNVtoSZ5Cxeif`
+Snapshot ID: `Z66x/wAAAADZgOJjb+bP99zGz5Dqhz2D`

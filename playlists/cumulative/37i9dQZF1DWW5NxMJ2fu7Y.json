@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
+    },
+    {
+      "album": {
         "name": "Molno Jorjo",
         "url": "https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 223666,
       "name": "Sebri Tal",
       "url": "https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0"

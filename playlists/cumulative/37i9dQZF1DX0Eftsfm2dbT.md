@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: 唾奇
 
-1,412 songs - 3 day 0 hr 23 min
+1,413 songs - 3 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 | 2023-09-21 | 2024-01-05 |
 | [Maldoror](https://open.spotify.com/track/1fH209kMTqMxRaN2DMYDd5) | [ID](https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj) | [Maldoror](https://open.spotify.com/album/36MGzpmB31aUlUTXC3cyhl) | 3:35 | 2024-04-12 | 2024-04-19 |
 | [Maldoror](https://open.spotify.com/track/6Y0JVHGfnUuxImegz2s4kW) | [ID](https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj) | [Maldoror](https://open.spotify.com/album/3oxkHJheBNSv8VDKQHr0Sh) | 3:35 | 2024-04-18 | 2024-04-24 |
+| [Malibu Dream](https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr) | [Tiji Jojo](https://open.spotify.com/artist/3XdPjEN5UdOagwWPrgkp0f) | [Malibu Dream](https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP) | 2:31 | 2025-02-18 |  |
 | [Mama Don't Cry](https://open.spotify.com/track/0q9bQrTdxWBQjYrbBcxUvx) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 2:50 | 2024-06-16 | 2024-07-24 |
 | [Mama's Boy](https://open.spotify.com/track/3AG9nySzAQ3MJpQPIc1FIv) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mama's Boy](https://open.spotify.com/album/6wLJHvCiRMzfepO1Q8PVCE) | 3:50 | 2024-05-07 | 2024-10-02 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-06-28 | 2024-09-18 |

@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 202680,
       "name": "Four Day Honory Scat",
       "url": "https://open.spotify.com/track/1QULcJaWvKqijn7rPGO8XS"
@@ -3182,6 +3182,24 @@
       "duration_ms": 196133,
       "name": "Sissy Blues",
       "url": "https://open.spotify.com/track/3b0V3O7zWEZDSqscSPDT5b"
+    },
+    {
+      "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Sissy Blues",
+      "url": "https://open.spotify.com/track/5y0PLg6Cg60vgrmKkTGV4x"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The 100 greatest EA SPORTS FC tracks of all time",
-  "num_followers": 309544,
+  "num_followers": 309558,
   "original_name": "EA SPORTS FC Ultimate Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "Youth And Young Manhood",
-        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Red Morning Light",
-      "url": "https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "The Trick To Life",
         "url": "https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 266813,
       "name": "Goodbye Mr A",
       "url": "https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "Youth And Young Manhood",
+        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Red Morning Light",
+      "url": "https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "Send Them Off!",
-        "url": "https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "Send Them Off!",
-      "url": "https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 236808,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "Send Them Off!",
+        "url": "https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "Send Them Off!",
+      "url": "https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 245533,
       "name": "Gold Guns Girls",
       "url": "https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
     },
     {
       "added_at": "2022-11-07 18:00:00",

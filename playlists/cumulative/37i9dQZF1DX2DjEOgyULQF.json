@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Brown Zafu",
+        "url": "https://open.spotify.com/album/0G2y6fqQZMiHeAxkM7w3Qu"
+      },
+      "artists": [
+        {
+          "name": "Infinity Drifter",
+          "url": "https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153073,
+      "name": "Brown Zafu",
+      "url": "https://open.spotify.com/track/54yxkeux1ZvKxmV8lLkoWL"
+    },
+    {
+      "album": {
         "name": "Br\u00e4nn\u00f6",
         "url": "https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 223255,
       "name": "Up Above",
       "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"

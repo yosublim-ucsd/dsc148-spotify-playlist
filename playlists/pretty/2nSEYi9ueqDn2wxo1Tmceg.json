@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 67435,
+  "num_followers": 67433,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQbU7bY8/tfLxvN5+y8RTZf4tuOaJn",
+  "snapshot_id": "AAAQb4ieCDUV8JtPo3RL13OeL9gHnaC3",
   "tracks": [
     {
       "added_at": "2025-02-12 11:57:55",
@@ -23,6 +23,26 @@
       "duration_ms": 201762,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
+    },
+    {
+      "added_at": "2025-02-17 12:27:03",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        },
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "duration_ms": 199330,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp"
     },
     {
       "added_at": "2025-02-12 11:57:55",

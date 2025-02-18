@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain](/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v)
 
-### [LOVE SONGS & CHILL \| HAPPY VALENTINES DAY](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
+### [LOVE SONGS & CHILL ](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 494,145 likes - 125 songs - 8 hr 5 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 494,150 likes - 125 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 124 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 |
 | 125 | [Lay Me Down \(feat\. John Legend\)](https://open.spotify.com/track/2T3XExryIariqO0fIfXOdw) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:39 |
 
-Snapshot ID: `AAATZDaZ6Jh1T+nEwJ0F1w3FWaH/gbZr`
+Snapshot ID: `AAATZcNSEFY8jQJguCc2VPGUrFpnIJeB`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \n Juju B. Goode) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \n jisokuryClub(\uc9c0\uc18c\ucfe0\ub9ac\ud074\ub7fd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 181946,
       "name": "- x - = + (feat. \ucd5c\uc5d8\ube44)",
       "url": "https://open.spotify.com/track/4pbE7u8JYY1AsbjaxaAGCE"
+    },
+    {
+      "album": {
+        "name": "0405 (Four Five)",
+        "url": "https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "0405 (Four Five)",
+      "url": "https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl"
     },
     {
       "album": {
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 234924,
       "name": "Acacia",
       "url": "https://open.spotify.com/track/6yGfsG9w4hOH3mU2CVS6mH"
@@ -5822,6 +5840,24 @@
       "duration_ms": 146994,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/05DA32NYsDutwuvthUOUSA"
+    },
+    {
+      "album": {
+        "name": "Climbers",
+        "url": "https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE"
     },
     {
       "album": {
@@ -14938,7 +14974,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 295429,
       "name": "we never turn cold",
       "url": "https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T"

@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-229 songs - 11 hr 31 min
+230 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Fore Day Hon'ry Scat](https://open.spotify.com/track/7AeCfmsOkiHg5dNXBJ0e95) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Classic Years, Vol\. 2](https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf) | 3:12 | 2022-12-21 | 2025-01-03 |
 | [Four Day Honorary Scat: 2](https://open.spotify.com/track/7GPJS2ML5iURFTlNElxyhd) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD B](https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz) | 2:54 | 2022-12-27 | 2025-01-18 |
 | [Four Day Honory Scat](https://open.spotify.com/track/2lfPkKxbmRLg8PXtouzQRI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:22 | 2023-08-22 | 2024-06-12 |
-| [Four Day Honory Scat](https://open.spotify.com/track/1QULcJaWvKqijn7rPGO8XS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:22 | 2025-02-16 |  |
+| [Four Day Honory Scat](https://open.spotify.com/track/1QULcJaWvKqijn7rPGO8XS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:22 | 2025-02-16 | 2025-02-18 |
 | [Four Day Honory Scat](https://open.spotify.com/track/5WJ5G7h2urFvhF1apHxY9C) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:22 | 2022-12-28 | 2023-02-03 |
 | [Four Day Honory Scat \(Take 1\)](https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:22 | 2022-10-13 | 2024-12-14 |
 | [Georgia Cake Walk](https://open.spotify.com/track/21KNYnyvwRPR9olc34a1vp) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:02 | 2022-08-05 |  |
@@ -184,6 +184,7 @@
 | [Shaveem Dry Blues](https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:37 | 2022-08-09 | 2025-01-18 |
 | [Sissy Blues](https://open.spotify.com/track/7ERltL992AmkCSbAdQGvzc) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 3:16 | 2022-08-05 | 2023-01-11 |
 | [Sissy Blues](https://open.spotify.com/track/3b0V3O7zWEZDSqscSPDT5b) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:16 | 2022-11-12 | 2024-07-19 |
+| [Sissy Blues](https://open.spotify.com/track/5y0PLg6Cg60vgrmKkTGV4x) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:16 | 2025-02-18 |  |
 | [Slave To The Blues](https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:37 | 2022-09-29 |  |
 | [Slave To The Blues](https://open.spotify.com/track/5iQ61QDLvSjq2TJMp3KIiC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:42 | 2022-08-05 | 2022-09-29 |
 | [Sleep Talking Blue](https://open.spotify.com/track/4MmXwbThRxeUJQGSVA83ZX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/0PbCqRfg9MogkpnDtEf69H) | 3:12 | 2024-03-06 | 2024-05-29 |

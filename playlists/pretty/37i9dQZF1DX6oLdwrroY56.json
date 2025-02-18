@@ -1,29 +1,13 @@
 {
   "description": "pinoy alternative music . Cover: SUYEN",
-  "num_followers": 299383,
+  "num_followers": 299414,
   "original_name": "alt.ph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z671jAAAAACoggJeFehVHaxg493cpDNU",
+  "snapshot_id": "Z7PvyAAAAAA48fr4GDEiUUNA5rU/PjUa",
   "tracks": [
-    {
-      "added_at": "2025-02-14 07:49:32",
-      "album": {
-        "name": "Wag Ka na lang Kumagat",
-        "url": "https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT"
-      },
-      "artists": [
-        {
-          "name": "Sandwich",
-          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Wag Ka na lang Kumagat",
-      "url": "https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM"
-    },
     {
       "added_at": "2025-02-14 07:49:32",
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": "2025-02-14 07:49:32",
       "album": {
+        "name": "Oh, Irog",
+        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
+      },
+      "artists": [
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "duration_ms": 296714,
+      "name": "Oh, Irog",
+      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
+    },
+    {
+      "added_at": "2025-02-14 07:49:32",
+      "album": {
         "name": "Suyen Imnida",
         "url": "https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA"
       },
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-02-14 07:49:32",
       "album": {
-        "name": "Oh, Irog",
-        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
+        "name": "Wag Ka na lang Kumagat",
+        "url": "https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT"
       },
       "artists": [
         {
-          "name": "12th Street",
-          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+          "name": "Sandwich",
+          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
         }
       ],
-      "duration_ms": 296714,
-      "name": "Oh, Irog",
-      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
+      "duration_ms": 208500,
+      "name": "Wag Ka na lang Kumagat",
+      "url": "https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM"
     },
     {
       "added_at": "2025-02-14 07:49:32",

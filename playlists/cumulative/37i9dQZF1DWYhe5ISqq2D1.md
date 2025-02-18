@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: MONONOKE
 
-423 songs - 1 day 3 hr 13 min
+424 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [一切合切](https://open.spotify.com/track/01Y5Y1IVEOCUxBmjycQWGI) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [一切合切](https://open.spotify.com/album/2U5TfMNyAv9ePa9gyowo1s) | 3:09 | 2024-09-24 |  |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2024-07-02 | 2024-10-02 |
 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 | 2024-07-02 | 2024-12-25 |
-| [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 |  |
+| [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 | 2025-02-18 |
 | [二十歳の君よ](https://open.spotify.com/track/1IwSOpNeBjMnDcZor7bmOg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [二十歳の君よ](https://open.spotify.com/album/3LUnSSeJSL0ASYt7hM6mkn) | 3:44 | 2025-01-07 | 2025-01-30 |
 | [人のダンス](https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遊泳の音楽](https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6) | 4:45 | 2024-09-17 | 2024-10-09 |
 | [人間ですから](https://open.spotify.com/track/7mOXHVHj2YCjy00AbDfRxQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [人間ですから](https://open.spotify.com/album/4fFUHKUG56l6NtRUZiRd0H) | 3:18 | 2025-01-21 |  |
@@ -413,6 +413,7 @@
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-12-24 | 2025-01-08 |
 | [花筏](https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花筏](https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf) | 4:35 | 2024-07-02 | 2024-07-29 |
 | [蜘蛛の糸](https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [蜘蛛の糸](https://open.spotify.com/album/7KVlkEoAhI1nfi4ybP5YeN) | 3:40 | 2024-10-08 | 2025-01-24 |
+| [話そうぜ](https://open.spotify.com/track/6ZaoSGrN328a5SyUBAeYk8) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [話そうぜ / トウ](https://open.spotify.com/album/5136LSMtVqGMxmtz1ZWN8r) | 4:48 | 2025-02-13 |  |
 | [誰](https://open.spotify.com/track/4j7zdmTUrt4QFI2agkiGcq) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [誰](https://open.spotify.com/album/7H9ftscZlqNgEK2liXRh9L) | 3:33 | 2024-07-16 | 2024-07-27 |
 | [誰かのとなり](https://open.spotify.com/track/4UGyTsx9kbR1uWUvddRdWO) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [誰かのとなり](https://open.spotify.com/album/1Xg6KK24iPOrsL41KabhlJ) | 3:13 | 2024-10-08 | 2025-02-05 |
 | [誰も知らない](https://open.spotify.com/track/4iqo3T7iUZYAa3r2Tb7lnH) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [誰も知らない](https://open.spotify.com/album/4dZttlwF1bewBaXtbKxlxg) | 4:36 | 2024-07-16 | 2024-07-24 |

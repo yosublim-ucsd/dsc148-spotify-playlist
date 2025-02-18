@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162122,
+  "num_followers": 162135,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Need Me So",
-        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "DON DARKOE",
-          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Need Me So",
-      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
       },
@@ -875,22 +855,22 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
+        "name": "Need Me So",
+        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
       "artists": [
         {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         },
         {
-          "name": "Confz",
-          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
         }
       ],
-      "duration_ms": 180689,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
+      "duration_ms": 180000,
+      "name": "Need Me So",
+      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -911,6 +891,26 @@
       "duration_ms": 165517,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
-        },
-        {
-          "name": "Jasmine Knight",
-          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 189500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Jasmine Knight",
+          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Mwah! (I'm That Bitch)",
-        "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 103714,
-      "name": "Mwah! (I'm That Bitch)",
-      "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Mwah! (I'm That Bitch)",
+        "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 103714,
+      "name": "Mwah! (I'm That Bitch)",
+      "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Back 2 Dance",
-        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Back 2 Dance",
-      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Nancy Junglist",
         "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 220800,
       "name": "Nancy Junglist",
       "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Back 2 Dance",
+        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Back 2 Dance",
+      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
     },
     {
       "added_at": "2025-02-07 00:00:25",

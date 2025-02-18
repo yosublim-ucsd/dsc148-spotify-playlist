@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Samara",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : NumbXiller",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/0hEFFPkulNDw55tWoUZX9h"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185097,
+      "name": "Lila",
+      "url": "https://open.spotify.com/track/2P0ulgDqG2zEuGKxkxFf5A"
+    },
+    {
+      "album": {
         "name": "Lili Lili",
         "url": "https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya"
       },
@@ -1542,6 +1560,32 @@
       "duration_ms": 220116,
       "name": "Mousiba",
       "url": "https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P"
+    },
+    {
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/0BNTa2AYTosb561nNUWG4S"
+      },
+      "artists": [
+        {
+          "name": "NumbXiller",
+          "url": "https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ"
+        },
+        {
+          "name": "Catcher",
+          "url": "https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl"
+        },
+        {
+          "name": "L'vibe",
+          "url": "https://open.spotify.com/artist/2nhBiQjksWJvRoNf9H2fZa"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "N3awed fel 3am",
+      "url": "https://open.spotify.com/track/707GkvPkCHMVdPIXzWlv3g"
     },
     {
       "album": {
@@ -2062,7 +2106,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 186876,
       "name": "True Story",
       "url": "https://open.spotify.com/track/3QBl9rRztpkwjve94I72NE"
@@ -2098,7 +2142,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 207138,
       "name": "Wahda x2",
       "url": "https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt"
@@ -2224,7 +2268,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 148480,
       "name": "YOU BETTER KNOW",
       "url": "https://open.spotify.com/track/3HL9UzSrHbNmmZCknkIsBR"
@@ -2260,7 +2304,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 157182,
       "name": "Zhar",
       "url": "https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,413 songs - 3 day 2 hr 46 min
+1,414 songs - 3 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Egyedül \(Megb\*sztam ezt a kis gádzsit\)](https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj) | 3:29 | 2022-02-18 | 2022-08-08 |
 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-10 | 2024-10-27 |
 | [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 | 2023-10-28 |
+| [El kell, hogy engedj](https://open.spotify.com/track/5NQbbu9mtsT1gdEzNhrA4Q) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [Márkus Luca](https://open.spotify.com/artist/5MiEKKT3qJnyduV07h5f6c) | [Hogyan tudnék élni nélküled? \(Eredeti filmzene\)](https://open.spotify.com/album/6vc5Tdb2pSGSiR9RlpVUNE) | 2:39 | 2025-02-17 |  |
 | [Elaludni](https://open.spotify.com/track/2GNCDexNq9O4PLH0Mubdv9) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:30 | 2023-11-17 | 2023-12-02 |
 | [Eldorádó](https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 1:53 | 2023-11-17 | 2024-01-14 |
 | [Elhagyott](https://open.spotify.com/track/0TbhapWcm8UxFS4wU27Ooa) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Last album](https://open.spotify.com/album/1osdtqNJcPB5VLothrDKIp) | 2:39 | 2023-04-15 | 2023-05-18 |
@@ -903,7 +904,7 @@
 | [Orgonabokor](https://open.spotify.com/track/6PfQxSKdb1T71Y6rotJ5a9) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV) | 3:35 | 2025-02-16 |  |
 | [Orgonabokor](https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat) | 3:35 | 2025-01-10 | 2025-02-17 |
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-04-10 | 2024-04-12 |
-| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 |  |
+| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 | 2025-02-18 |
 | [Osztálytalálkozó](https://open.spotify.com/track/0OHpTUsrI59etfssanq8SX) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Osztálytalálkozó](https://open.spotify.com/album/7yAkGODA0gSuoCXCvBnuXV) | 4:05 | 2022-01-29 | 2022-02-07 |
 | [Osztálytalálkozó](https://open.spotify.com/track/7aigVSzPNuRSf9cBjGebZI) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 4:05 | 2022-03-12 | 2022-03-26 |
 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 | 2023-10-28 | 2023-10-30 |

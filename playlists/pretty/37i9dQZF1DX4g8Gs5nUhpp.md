@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,682 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,714 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 31 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |
 | 32 | [Không Thể Say](https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:48 |
 | 33 | [Tràn Bộ Nhớ](https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 2:52 |
-| 34 | [Chúng Ta Còn Ở Đó Không? \- Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack](https://open.spotify.com/track/015cWxefajYwEUZodBvpfn) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Chúng Ta Còn Ở Đó Không? \(Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack\)](https://open.spotify.com/album/4vq6hunJNWmJbWf2Ib0bUE) | 4:05 |
+| 34 | [Chúng Ta Còn Ở Đó Không? \- Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack](https://open.spotify.com/track/015cWxefajYwEUZodBvpfn) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [SIVEN](https://open.spotify.com/artist/1UiYsRqDfauFxKwgIbhYzm) | [Chúng Ta Còn Ở Đó Không? \(Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack\)](https://open.spotify.com/album/4vq6hunJNWmJbWf2Ib0bUE) | 4:05 |
 | 35 | [Mưa Thâm Lặng Giời](https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Mưa Thâm Lặng Giời](https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5) | 3:48 |
 | 36 | [HÀO QUANG \(feat\. RHYDER, Dương Domic & Pháp Kiều\)](https://open.spotify.com/track/7gSQxwCpEMjg8wb6Y3oqe7) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su) | [ANH TRAI "SAY HI" \(Live Stage 2\)](https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z) | 4:05 |
 | 37 | [Tình Yêu Buông Tha Cho Chúng Ta](https://open.spotify.com/track/3hjirCdXFnVJDZsXlOfhfd) | [Trungg I.U](https://open.spotify.com/artist/6Ue0BbbTOdBjcO4QZB5sio), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [Tình Yêu Buông Tha Cho Chúng Ta](https://open.spotify.com/album/3wfl9F8KTsLVixdRvhVImr) | 4:21 |

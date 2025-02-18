@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Ar myl\u0117tum?",
+        "url": "https://open.spotify.com/album/6iFcIjyc6oUIU4CYbhKoyt"
+      },
+      "artists": [
+        {
+          "name": "Liepa Mondeikaite",
+          "url": "https://open.spotify.com/artist/1Jv0tNT0v2Odz4Q5l5SQwE"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Ar myl\u0117tum?",
+      "url": "https://open.spotify.com/track/4v1qyQtKNszc7lzUbzg9FG"
+    },
+    {
+      "album": {
         "name": "Apkabinti Prisiminimus",
         "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
       },
@@ -3236,7 +3254,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -7219,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Dingo",
+        "url": "https://open.spotify.com/album/7lBBtL83UgHph3IVniNVFH"
+      },
+      "artists": [
+        {
+          "name": "Katarsis",
+          "url": "https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152040,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/0Z3HqjwqQiMZyJUWEOfvzJ"
+    },
+    {
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
       },
@@ -8113,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "DROB\u0116",
+        "url": "https://open.spotify.com/album/2p4MaAEcteSH4ULO5iVRaI"
+      },
+      "artists": [
+        {
+          "name": "Lion Ceccah",
+          "url": "https://open.spotify.com/artist/7ivlxzVHNKJrGyuIdLWYD4"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "DROB\u0116",
+      "url": "https://open.spotify.com/track/3qTgRb25nJg7iC8ydd52hV"
+    },
+    {
+      "album": {
         "name": "Apkabinti Prisiminimus",
         "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
       },
@@ -8826,7 +8880,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -10584,7 +10638,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Gegu\u017eis",
       "url": "https://open.spotify.com/track/46GIpYTmWhr5MEiwE02pYL"
@@ -13026,7 +13080,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
@@ -16786,7 +16840,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 282360,
       "name": "Lau\u017eai",
       "url": "https://open.spotify.com/track/57rGR508WSO4Pd30AWmsG3"
@@ -19542,7 +19596,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Melodramos",
       "url": "https://open.spotify.com/track/0RJHLXajHNw2QrvnT709yQ"
@@ -20430,7 +20484,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -20452,7 +20506,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink"
@@ -24484,7 +24538,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
@@ -27678,7 +27732,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 171624,
       "name": "Sapnas",
       "url": "https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D"
@@ -28812,7 +28866,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 193993,
       "name": "Skambinau ba\u017eny\u010diai",
       "url": "https://open.spotify.com/track/2qTgYYll14Qn5OabfmZmBH"
@@ -34445,6 +34499,24 @@
     },
     {
       "album": {
+        "name": "Vaik\u0161tai Per Mane",
+        "url": "https://open.spotify.com/album/5e7C0LqX38mP3GPaqgUaYy"
+      },
+      "artists": [
+        {
+          "name": "Nombeko Auguste",
+          "url": "https://open.spotify.com/artist/1a1qmSRllFcdwBxl2gkc2N"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Vaik\u0161tai Per Mane",
+      "url": "https://open.spotify.com/track/5mpPRhIcqVGACb2enemYha"
+    },
+    {
+      "album": {
         "name": "Vakar Vakare",
         "url": "https://open.spotify.com/album/4xI4dIYSIlm89zA09Dlkpa"
       },
@@ -34626,7 +34698,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Vasar\u0105 galvoj minoras",
       "url": "https://open.spotify.com/track/1wGPGvj0moDoKMMVwFWFLj"
@@ -36960,7 +37032,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 190387,
       "name": "\u012ekliuvau",
       "url": "https://open.spotify.com/track/3gmO6f3WDuorQqxTjqjATO"

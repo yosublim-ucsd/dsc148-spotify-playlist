@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Wijaya 80
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,090 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,123 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 29 | [Asa Di Senja](https://open.spotify.com/track/7sBAuuyzliBRwLkEtP58wi) | [SEGARA](https://open.spotify.com/artist/6D1hynXv1xe0FGapcZBuGv) | [Asa Di Senja](https://open.spotify.com/album/0cQrB9ZV5a5AizFIfWkQxs) | 3:25 |
 | 30 | [Lullaby](https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Lullaby](https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky) | 2:39 |
 | 31 | [Elegi Esok Pagi](https://open.spotify.com/track/4NuTMOmnKTWBsYh2vn9Rey) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC), [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Elegi Esok Pagi](https://open.spotify.com/album/7hQBSVBwUgEq8brOZxSy3N) | 3:44 |
-| 32 | [Persetan](https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Persetan](https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl) | 4:19 |
+| 32 | [Persetan](https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Persetan](https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl) | 4:23 |
 | 33 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 |
 | 34 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 |
 | 35 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 |

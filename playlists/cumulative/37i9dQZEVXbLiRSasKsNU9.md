@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,472 songs - 7 day 16 hr 36 min
+3,474 songs - 7 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,7 +1255,7 @@
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-03-29 | 2022-05-04 |
 | [Hatıran Yeter](https://open.spotify.com/track/05MvdMKvVahOp9X64639DN) | [Ferdi Tayfur](https://open.spotify.com/artist/6WLkcqDXHgfe80TNMH1C5z) | [Hoşçakal](https://open.spotify.com/album/5GtVQ7Akf89tLbeO4VkcjN) | 4:47 | 2025-01-05 | 2025-01-12 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-22 | 2022-02-06 |
-| [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-02-11 |  |
+| [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-02-11 | 2025-02-18 |
 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-05-09 | 2024-08-01 |
 | [Hay Lupita](https://open.spotify.com/track/7gRtmiCn86Vr1ifw5FDuIL) | [LOMIIEL](https://open.spotify.com/artist/4AyvUpNnpfEs1kGoB0DZH8) | [Hay Lupita](https://open.spotify.com/album/1nqVSn4sTJVmUe29CIDNND) | 1:48 | 2024-05-05 | 2024-05-10 |
 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 | 2023-09-06 | 2023-09-25 |
@@ -2849,7 +2849,8 @@
 | [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-09 | 2023-04-14 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-13 | 2023-05-16 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-19 | 2023-11-02 |
-| [strangers](https://open.spotify.com/track/36i15kanCjDkh8qn2CJWEW) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI) | [strangers](https://open.spotify.com/album/38wsliaFxTgZRA1TiyGTT1) | 2:15 | 2025-02-15 |  |
+| [strangers](https://open.spotify.com/track/36i15kanCjDkh8qn2CJWEW) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI) | [strangers](https://open.spotify.com/album/38wsliaFxTgZRA1TiyGTT1) | 2:15 | 2025-02-15 | 2025-02-18 |
+| [strangers](https://open.spotify.com/track/59aHxkCCgXjOh9TLdgR65P) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [strangers](https://open.spotify.com/album/01aX0xdW6BEGGuIeDkAktl) | 2:15 | 2025-02-17 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-24 | 2024-12-26 |
 | [Stressed Out](https://open.spotify.com/track/28SW36Bv0nTie4UsDeGXD7) | [Tiko](https://open.spotify.com/artist/0iv7RfSxMSAvCzCVnxys6g) | [Wave](https://open.spotify.com/album/0sWpLK0xMiQBbSopNCdKud) | 2:04 | 2022-04-29 | 2022-05-04 |
 | [Strip That Down \(feat\. Quavo\)](https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:22 | 2024-10-18 | 2024-10-27 |
@@ -2962,6 +2963,7 @@
 | [Tennessee Orange](https://open.spotify.com/track/0E8u1U98URbfphBrNUFdHK) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24UnqgKpBTQcKssJTGUBL2) | 3:43 | 2022-10-22 | 2022-10-25 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-27 | 2022-10-23 |
 | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/track/0O84iaC2acwIjeopsFIS6w) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/album/1MtzgmEaLmtch8FpDzuWie) | 4:09 | 2024-10-22 | 2024-11-06 |
+| [Tera Chehra](https://open.spotify.com/track/2Ul0NiluAcBWG6BJBl40sT) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4NVJGZt19WsKL78VY7uqV8) | 4:34 | 2025-02-17 |  |
 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 | 2024-12-27 | 2025-01-15 |
 | [Tere Bin](https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:22 | 2023-08-23 | 2023-08-26 |
 | [Tere Bina Na Guzara E](https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Kinza Hashmi](https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF) | [Tere Bina Na Guzara E](https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH) | 3:40 | 2024-10-18 | 2024-11-27 |

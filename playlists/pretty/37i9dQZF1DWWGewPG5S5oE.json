@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u4e0a\u539f\u3072\u308d\u307f",
-  "num_followers": 42585,
+  "num_followers": 42627,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-11 15:00:10",
       "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0o0mNGUywrcMgBGzmxAXd5"
-      },
-      "artists": [
-        {
-          "name": "otoshik",
-          "url": "https://open.spotify.com/artist/1L8gpoL5UFZvoQXkda0uXu"
-        }
-      ],
-      "duration_ms": 352919,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/7zIf3lvb2jqsyRWPX5IO4A"
-    },
-    {
-      "added_at": "2025-02-11 15:00:10",
-      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2025-02-11 15:00:10",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4"
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0o0mNGUywrcMgBGzmxAXd5"
       },
       "artists": [
         {
-          "name": "Ryoko Moriyama",
-          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+          "name": "otoshik",
+          "url": "https://open.spotify.com/artist/1L8gpoL5UFZvoQXkda0uXu"
         }
       ],
-      "duration_ms": 378240,
-      "name": "TONIGHT'S SPECIAL",
-      "url": "https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs"
+      "duration_ms": 352919,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/7zIf3lvb2jqsyRWPX5IO4A"
     },
     {
       "added_at": "2025-02-11 15:00:10",
@@ -691,6 +675,22 @@
       "duration_ms": 187000,
       "name": "15 Eunomia",
       "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+    },
+    {
+      "added_at": "2025-02-11 15:00:10",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "duration_ms": 378240,
+      "name": "TONIGHT'S SPECIAL",
+      "url": "https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs"
     },
     {
       "added_at": "2025-02-11 15:00:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-02-11 15:00:10",
       "album": {
-        "name": "\u8a00\u8449\u306e\u5ead",
-        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
-      },
-      "artists": [
-        {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
-        }
-      ],
-      "duration_ms": 151497,
-      "name": "\u8a00\u8449\u306e\u5ead",
-      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
-    },
-    {
-      "added_at": "2025-02-11 15:00:10",
-      "album": {
         "name": "1-0",
         "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 281914,
       "name": "1-0",
       "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2025-02-11 15:00:10",
+      "album": {
+        "name": "\u8a00\u8449\u306e\u5ead",
+        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
+      },
+      "artists": [
+        {
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+        }
+      ],
+      "duration_ms": 151497,
+      "name": "\u8a00\u8449\u306e\u5ead",
+      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
     },
     {
       "added_at": "2025-02-11 15:00:10",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-02-11 15:00:10",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "duration_ms": 218673,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
+    },
+    {
+      "added_at": "2025-02-11 15:00:10",
+      "album": {
         "name": "Step Into Paradise -LIVE IN TOKYO-",
         "url": "https://open.spotify.com/album/648R59fQPldVJe9v4mQ2aM"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 367600,
       "name": "Dragonwa Noboru - Live at Tokyo Opera City Concert Hall / 2024",
       "url": "https://open.spotify.com/track/63RFMDC0GwV64toJCsz0ld"
-    },
-    {
-      "added_at": "2025-02-11 15:00:10",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 218673,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
     },
     {
       "added_at": "2025-02-11 15:00:10",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-02-11 15:00:10",
       "album": {
+        "name": "Workaholic",
+        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 266140,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
+    },
+    {
+      "added_at": "2025-02-11 15:00:10",
+      "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
       },
@@ -891,6 +907,22 @@
       "duration_ms": 240315,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
+    },
+    {
+      "added_at": "2025-02-11 15:00:10",
+      "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "To S.",
+      "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
     },
     {
       "added_at": "2025-02-11 15:00:10",
@@ -923,38 +955,6 @@
       "duration_ms": 259486,
       "name": "path",
       "url": "https://open.spotify.com/track/0Ssnsve8Zj16FrN7ImqZhI"
-    },
-    {
-      "added_at": "2025-02-11 15:00:10",
-      "album": {
-        "name": "Workaholic",
-        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 266140,
-      "name": "Workaholic",
-      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
-    },
-    {
-      "added_at": "2025-02-11 15:00:10",
-      "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "To S.",
-      "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
     }
   ],
   "unique_name": "Modern Jazz Japan",

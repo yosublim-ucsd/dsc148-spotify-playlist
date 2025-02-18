@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Natos y Waor, Hoke
 
-500 songs - 1 day 2 hr 19 min
+501 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [SIN CULPA](https://open.spotify.com/track/0yzHr53qnPQKbX6mFt7xhR) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [grauu](https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH) | [SIN CULPA](https://open.spotify.com/album/4DF8dnCP0fYxRHbRjrpFKn) | 2:38 | 2024-02-22 | 2024-03-15 |
 | [Sin presión \(Freestyle \#15\)](https://open.spotify.com/track/5dDAyRWs5OpTqg37YJF3Xf) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [B10](https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK) | [Sin presión \(Freestyle \#15\)](https://open.spotify.com/album/5NQNi4I1aKuy8v2tlaU0ZM) | 2:43 | 2024-11-07 | 2024-11-22 |
 | [Sin\-Ceros](https://open.spotify.com/track/512VEdEqHzzXDKgJELN0Ue) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Inkebrantable](https://open.spotify.com/album/2rWMEx26W79N05xBT5uEF4) | 3:55 | 2023-03-13 | 2024-04-26 |
+| [SKR SKR](https://open.spotify.com/track/30I5DJoyhW0vWsohbOkaCg) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [SKR SKR](https://open.spotify.com/album/3uBoWGratOEy8nXZgoeQRQ) | 3:38 | 2025-02-17 |  |
 | [Smokin Loud](https://open.spotify.com/track/1gS0Q8S8jOaetLdL4Ji798) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Bombony Montana](https://open.spotify.com/artist/5sIpYN3jl80npXJ3GkcWG5) | [Smokin' Loud](https://open.spotify.com/album/7G9mS8OL44JTMd9vGKoRas) | 3:01 | 2023-01-17 | 2023-02-15 |
 | [Social Drive](https://open.spotify.com/track/3SWWgc3aAbor9oRs3fRpzb) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Social Drive](https://open.spotify.com/album/4vrHUkGiWCrgL4adOzIyL7) | 4:31 | 2022-02-04 | 2022-04-22 |
 | [Solo pienso en ti](https://open.spotify.com/track/2hLyWkdMjWsudBEvJ5bokV) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Solo pienso en ti](https://open.spotify.com/album/0kmMqkeWJZbgTwtE7yGonU) | 4:43 | 2023-02-14 | 2024-01-26 |

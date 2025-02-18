@@ -537,6 +537,36 @@
     },
     {
       "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "First Division",
+          "url": "https://open.spotify.com/artist/1J9teNDGoHqQhKTX01BgHM"
+        },
+        {
+          "name": "kochan",
+          "url": "https://open.spotify.com/artist/07bevoU2qzxE641uf43q3J"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221487,
+      "name": "Dead Man Funk",
+      "url": "https://open.spotify.com/track/0ARaApklr14tfmBI6o6n8I"
+    },
+    {
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -980,7 +1010,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 270875,
       "name": "Hip Hop Hooligans",
       "url": "https://open.spotify.com/track/3Nbg69ywb43cwO3TmZ6oSs"
@@ -1818,7 +1848,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 238538,
       "name": "Przyjaciel Diab\u0142a",
       "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
@@ -2206,7 +2236,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 215315,
       "name": "The Return",
       "url": "https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4"

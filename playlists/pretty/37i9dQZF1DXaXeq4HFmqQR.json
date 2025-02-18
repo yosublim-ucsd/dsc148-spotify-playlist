@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen: un homenaje a Violeta Parra. ",
-  "num_followers": 14000,
+  "num_followers": 14003,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
+        "name": "Aunque Duela",
+        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
       },
       "artists": [
         {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
         }
       ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+      "duration_ms": 221826,
+      "name": "Noche no te vayas",
+      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -599,22 +603,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aunque Duela",
-        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
       "artists": [
         {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
-        },
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Noche no te vayas",
-      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     }
   ],
   "unique_name": "EQUAL Chile",

@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Brunori SAS in cover della playlist con il meglio dell’indie italiano 🌰
+> Brunori SAS in cover della playlist con il meglio dell’indie italiano!
 
 205 songs - 10 hr 44 min
 

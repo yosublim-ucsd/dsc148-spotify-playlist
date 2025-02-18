@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1a Polaca, Dani Fern\u00e1ndez.",
-  "num_followers": 24577,
+  "num_followers": 24582,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Tripitir",
-        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Tripitir",
-      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Creo que soy de porcelana",
         "url": "https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 170620,
       "name": "Marcelo Criminal",
       "url": "https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Insurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
-      },
-      "artists": [
-        {
-          "name": "Cala Vento",
-          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
-        }
-      ],
-      "duration_ms": 124521,
-      "name": "Insurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/3zSiRCflmQR6x2AeErQBQb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 168525,
       "name": "Dante",
       "url": "https://open.spotify.com/track/2ksRvauNFgEHWlK7bpD8UW"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Insurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
+      },
+      "artists": [
+        {
+          "name": "Cala Vento",
+          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
+        }
+      ],
+      "duration_ms": 124521,
+      "name": "Insurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Ven a jugar",
         "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 182000,
       "name": "Ven a jugar",
       "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Vicente Calder\u00f3n",
-        "url": "https://open.spotify.com/album/0HXfaUDrSTv8r9incvbKhD"
+        "name": "Joven Ciudad",
+        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
       },
       "artists": [
         {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
         }
       ],
-      "duration_ms": 162110,
-      "name": "Amigos tengo",
-      "url": "https://open.spotify.com/track/1FT0JcORoaEzOrkOiHlYXv"
+      "duration_ms": 191691,
+      "name": "Joven Ciudad",
+      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -979,34 +979,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Joven Ciudad",
-        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
+        "name": "Vicente Calder\u00f3n",
+        "url": "https://open.spotify.com/album/0HXfaUDrSTv8r9incvbKhD"
       },
       "artists": [
         {
-          "name": "el diablo de shanghai",
-          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
         }
       ],
-      "duration_ms": 191691,
-      "name": "Joven Ciudad",
-      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "no hemos aprendido nada",
-        "url": "https://open.spotify.com/album/1N0cwHh53KG07ittN6rwoD"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 187505,
-      "name": "no hemos aprendido nada",
-      "url": "https://open.spotify.com/track/0lVIGMEkOvaNP4zcj9Hg9s"
+      "duration_ms": 162110,
+      "name": "Amigos tengo",
+      "url": "https://open.spotify.com/track/1FT0JcORoaEzOrkOiHlYXv"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1023,6 +1007,22 @@
       "duration_ms": 164400,
       "name": "Danza de la muerte",
       "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1047,18 +1047,34 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+        "name": "1 de enero",
+        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
       },
       "artists": [
         {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+      "duration_ms": 167394,
+      "name": "1 de enero",
+      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "no hemos aprendido nada",
+        "url": "https://open.spotify.com/album/1N0cwHh53KG07ittN6rwoD"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 187505,
+      "name": "no hemos aprendido nada",
+      "url": "https://open.spotify.com/track/0lVIGMEkOvaNP4zcj9Hg9s"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1075,22 +1091,6 @@
       "duration_ms": 146853,
       "name": "Loros",
       "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "1 de enero",
-        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
-      },
-      "artists": [
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "1 de enero",
-      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Zero Az\u00facar",
-        "url": "https://open.spotify.com/album/1GOJQzYOLN0KKtIYjSMHsp"
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
       "artists": [
         {
-          "name": "Zero Az\u00facar",
-          "url": "https://open.spotify.com/artist/6h4QOpvocAGfthRjmeVyeT"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 174451,
-      "name": "Zero Az\u00facar",
-      "url": "https://open.spotify.com/track/24HHvn8ptcD54cBDOubRFx"
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+        "name": "Zero Az\u00facar",
+        "url": "https://open.spotify.com/album/1GOJQzYOLN0KKtIYjSMHsp"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Zero Az\u00facar",
+          "url": "https://open.spotify.com/artist/6h4QOpvocAGfthRjmeVyeT"
         }
       ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+      "duration_ms": 174451,
+      "name": "Zero Az\u00facar",
+      "url": "https://open.spotify.com/track/24HHvn8ptcD54cBDOubRFx"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Torreznos y Larios",
-        "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
-      },
-      "artists": [
-        {
-          "name": "Ashleys",
-          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
-        }
-      ],
-      "duration_ms": 163694,
-      "name": "Torreznos y Larios",
-      "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Poetas de Cristal",
         "url": "https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 212333,
       "name": "Poetas de Cristal",
       "url": "https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Torreznos y Larios",
+        "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
+      },
+      "artists": [
+        {
+          "name": "Ashleys",
+          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
+        }
+      ],
+      "duration_ms": 163694,
+      "name": "Torreznos y Larios",
+      "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Club Social",
-        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Yo-me-mi",
-      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Club Social",
+        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Yo-me-mi",
+      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
     },
     {
       "added_at": "2025-02-13 23:00:16",

@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> วาเลนไทน์ เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GEMINI, FOURTH
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GEMINI, FOURTH
 
 137 songs - 8 hr 55 min
 

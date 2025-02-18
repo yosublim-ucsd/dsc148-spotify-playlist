@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAd5o5YpB4IuTo7ifJU7vDHoAnvkS7V",
+  "snapshot_id": "AAAd54EYCiWHp9GZl6qpzWlbrAxaqROi",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3511,6 +3511,26 @@
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": "2025-02-17 18:42:56",
+      "album": {
+        "name": "SEAL Team",
+        "url": "https://open.spotify.com/album/3dTUIZH3zpfJfX3iN1LhiB"
+      },
+      "artists": [
+        {
+          "name": "DotComNirvan",
+          "url": "https://open.spotify.com/artist/0LbaxICOQlJs3MuIRwVpu4"
+        },
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        }
+      ],
+      "duration_ms": 116167,
+      "name": "SEAL Team",
+      "url": "https://open.spotify.com/track/0eCofGOAk2fxcaLbw7aR8X"
     }
   ],
   "unique_name": "main ",

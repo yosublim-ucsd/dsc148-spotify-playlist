@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,435 likes - 75 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,503 likes - 75 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 61 | [Chithirai Nilavu](https://open.spotify.com/track/0nQkNBxQrbZZgt7BKtW7GF) | [Jayachandran,Minmini](https://open.spotify.com/artist/03vYbI4ZFmXpaxpMaJbvI2) | [Vandicholai Chinnarasu \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/07Zi0VvutqeHXZuRJQT3cY) | 4:47 |
 | 62 | [Kaadhal Yogi](https://open.spotify.com/track/4gmqahu6i5AXRMgn4Lmg1f) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Thaalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dqjhGrFSVGCsqf0BhDx4s) | 6:30 |
 | 63 | [Poongatrile](https://open.spotify.com/track/0lVVSxwaEmStgTECv4JSTM) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 5:40 |
-| 64 | [Rasathi](https://open.spotify.com/track/7LG0J6KNnrqvmrCKgZ6nIt) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 4:35 |
-| 65 | [Kannukku Mai Azhagu \- Male](https://open.spotify.com/track/5GTehHGjk2REUcg4XMd6mb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 4:24 |
+| 64 | [Kannukku Mai Azhagu \- Male](https://open.spotify.com/track/5GTehHGjk2REUcg4XMd6mb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 4:24 |
+| 65 | [Rasathi](https://open.spotify.com/track/7LG0J6KNnrqvmrCKgZ6nIt) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 4:35 |
 | 66 | [Konjam Nilavu](https://open.spotify.com/track/7MBpd31LfRWqSq4S6iXm0t) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 5:48 |
 | 67 | [Mettuppodu Mettuppodu](https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:15 |
 | 68 | [Thoda Thoda](https://open.spotify.com/track/5WhghgcVQSIhFgGTYdtCTO) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 5:08 |

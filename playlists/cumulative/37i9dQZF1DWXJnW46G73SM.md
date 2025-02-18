@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-1,371 songs - 3 day 4 hr 39 min
+1,372 songs - 3 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Bab Rizk](https://open.spotify.com/track/3ZrRdDPgevGRUgERi0OucI) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bab Rizk](https://open.spotify.com/album/2pV6SNCzHgvQzQGHMxscm9) | 2:42 | 2023-03-24 | 2023-05-12 |
 | [Babaat El Salam](https://open.spotify.com/track/5LzoSMQVeW8w7egv1bcdGd) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [Babaat El Salam](https://open.spotify.com/album/12mFlWmsOvnRT8vMjBlRUN) | 2:50 | 2024-06-06 | 2024-07-19 |
 | [babat salamy](https://open.spotify.com/track/6OB98f5Aj7otXeLBBn7JoF) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [babat salamy](https://open.spotify.com/album/6X9Nx5KCj2Zsr8W0CiNftG) | 3:41 | 2023-02-02 | 2023-03-18 |
-| [Baby Ma Tnamesh](https://open.spotify.com/track/3awMCENnvZKoC5hDsCy3QF) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [Baby Ma Tnamesh](https://open.spotify.com/album/3lTqLgxPfefNs2R2HDGE0X) | 3:36 | 2025-01-17 |  |
+| [Baby Ma Tnamesh](https://open.spotify.com/track/3awMCENnvZKoC5hDsCy3QF) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [Baby Ma Tnamesh](https://open.spotify.com/album/3lTqLgxPfefNs2R2HDGE0X) | 3:36 | 2025-01-17 | 2025-02-18 |
 | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/album/7HiynIymuo0REPL1Udiarg) | 2:57 | 2023-06-29 | 2023-08-02 |
 | [baet wahdak](https://open.spotify.com/track/15DNX2g87vP8AgvNxF5yDa) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [baet wahdak](https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL) | 3:44 | 2023-01-19 | 2023-02-24 |
 | [Baftekrek Beleil](https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [Baftekrek Beleil](https://open.spotify.com/album/7oPA18Mt8l9SXJsU8tKaMO) | 2:40 | 2024-11-07 | 2024-12-06 |
@@ -1201,6 +1201,7 @@
 | [قلبك](https://open.spotify.com/track/1XgQfLsakDjS5xJyp2dOJW) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [قلبك](https://open.spotify.com/album/0oFivDs4AJxQ78OQi0HTlv) | 3:26 | 2023-06-22 | 2023-07-21 |
 | [قلبي الشقي](https://open.spotify.com/track/7oSXYJ4i7fCmLIssv6e80u) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [قلبي الشقي](https://open.spotify.com/album/2zccPRTAvgKoZdLYRiP3ks) | 3:36 | 2024-07-24 | 2024-09-13 |
 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 | 2024-01-18 | 2024-02-16 |
+| [قلق](https://open.spotify.com/track/0VJkCpK6wJugvM9iGKLNYP) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC), [Ahmed Gelba](https://open.spotify.com/artist/3M8shshJWVMUkaM49rsjcs) | [قلق](https://open.spotify.com/album/0zoYu353rRR4pfm2fr5Lax) | 2:53 | 2025-02-17 |  |
 | [قللت من نفسي](https://open.spotify.com/track/3f42ZBoQcnTPJbO9REc9Qi) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [قللت من نفسي](https://open.spotify.com/album/42KJPaJptQyPLHQT1sd0h0) | 4:28 | 2024-11-29 | 2025-01-03 |
 | [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-25 | 2024-02-16 |
 | [قول كلام](https://open.spotify.com/track/1EXu89n4nUSvdaTQZoH9pV) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [قول كلام](https://open.spotify.com/album/5gnhLEdsLRoxKIB7x5zVj9) | 4:27 | 2025-01-30 |  |

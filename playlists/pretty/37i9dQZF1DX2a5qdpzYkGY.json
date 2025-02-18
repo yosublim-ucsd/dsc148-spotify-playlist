@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12557,
+  "num_followers": 12561,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
       "added_at": "2024-08-29 04:26:03",
       "album": {
         "name": "Soft Power",
@@ -331,22 +347,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "11000 Dreams",
         "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
       },
@@ -359,6 +359,38 @@
       "duration_ms": 212712,
       "name": "Who Is Still Dreaming?",
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+    },
+    {
+      "added_at": "2024-04-18 20:16:24",
+      "album": {
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Got Me",
+      "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -379,38 +411,6 @@
       "duration_ms": 137076,
       "name": "Mexico Edit",
       "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
-    },
-    {
-      "added_at": "2024-04-18 20:16:24",
-      "album": {
-        "name": "The Sunset Violent",
-        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Got Me",
-      "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
     },
     {
       "added_at": "2024-08-29 04:26:03",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "The Dream of Delphi",
-        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 120840,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Kissing Rosy in the Rain",
@@ -883,6 +867,22 @@
       "duration_ms": 264093,
       "name": "Sky Breaking, Clouds Falling",
       "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "The Dream of Delphi",
+        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 120840,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Ugly Orange",
-        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
-      },
-      "artists": [
-        {
-          "name": "yes/and",
-          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
-        }
-      ],
-      "duration_ms": 259724,
-      "name": "Ugly Orange",
-      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Odin's Raven Magic (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
         "url": "https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 309717,
       "name": "\u00c1ss hinn hv\u00edti (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Ugly Orange",
+        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
+      },
+      "artists": [
+        {
+          "name": "yes/and",
+          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "Ugly Orange",
+      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1313,20 +1313,20 @@
       "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
     },
     {
-      "added_at": "2023-05-12 02:51:50",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Do Make Say Think",
-        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
       },
       "artists": [
         {
-          "name": "Do Make Say Think",
-          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
         }
       ],
-      "duration_ms": 629506,
-      "name": "1978",
-      "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     }
   ],
   "unique_name": "transience",

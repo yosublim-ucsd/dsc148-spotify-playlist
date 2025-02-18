@@ -4,7 +4,7 @@
 
 > The weather is cooler out! It's time to slow down and get cozy as you listen to these songs of faith and encouragement!
 
-269 songs - 15 hr 42 min
+270 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,11 @@
 | [Drives](https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Drives](https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b) | 3:03 | 2024-06-07 | 2024-12-12 |
 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 | 2020-08-13 | 2024-06-08 |
 | [Dust \(Daleth\)](https://open.spotify.com/track/7LOuRHpnVbYGR9BQcThUKI) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [Dust \(Daleth\)](https://open.spotify.com/album/4SVvx68KEWCbT4qwf2c8mL) | 3:50 | 2024-12-11 |  |
-| [Eternal Shores](https://open.spotify.com/track/3GSNZYmrNctJXKqCWoNMAX) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu) | [Eternal Shores](https://open.spotify.com/album/4vVB7Y3Lk2u3Xb4PeBnIAr) | 4:52 | 2024-12-11 |  |
+| [Eternal Shores](https://open.spotify.com/track/3GSNZYmrNctJXKqCWoNMAX) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu) | [Eternal Shores](https://open.spotify.com/album/4vVB7Y3Lk2u3Xb4PeBnIAr) | 4:52 | 2024-12-11 | 2025-02-18 |
 | [Eva Comin' Down](https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Without Jesus / Eva Comin' Down](https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz) | 2:40 | 2024-06-23 | 2024-12-12 |
 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 | 2020-08-13 | 2024-06-08 |
 | [EVERYTHING EVERYTHING](https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [EVERYTHING EVERYTHING](https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs) | 3:20 | 2020-08-13 | 2024-06-08 |
+| [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 | 2025-02-17 |  |
 | [Faith](https://open.spotify.com/track/4l3WVrm1Nih0VDtq29yRZi) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Faith](https://open.spotify.com/album/501RkgKehROZTd4q4Nwxse) | 3:42 | 2020-08-13 | 2022-07-29 |
 | [Faith](https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 3:42 | 2020-08-13 | 2024-04-19 |
 | [Fall Back](https://open.spotify.com/track/2gdhk8NxdVHETlleYlERZX) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Fall Back](https://open.spotify.com/album/0fUS3GFhw8Fc2zi94hbOlG) | 4:11 | 2024-12-11 |  |

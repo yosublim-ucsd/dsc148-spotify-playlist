@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 177710,
+  "num_followers": 177732,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Romanos 12:2",
+        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Romanos 12:2",
+      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Ac\u00fastico, Vol.2",
         "url": "https://open.spotify.com/album/5tR2asqSqYCWuUOrUx2iJ6"
       },
@@ -67,18 +83,18 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Romanos 12:2",
-        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
+        "name": "Fala Que \u00c9 Crente",
+        "url": "https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
         }
       ],
-      "duration_ms": 172965,
-      "name": "Romanos 12:2",
-      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+      "duration_ms": 171728,
+      "name": "Fala Que \u00c9 Crente",
+      "url": "https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -99,22 +115,6 @@
       "duration_ms": 176363,
       "name": "RIO",
       "url": "https://open.spotify.com/track/2Q1bfpjE2DwKnn6yLIYZdZ"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Fala Que \u00c9 Crente",
-        "url": "https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        }
-      ],
-      "duration_ms": 171728,
-      "name": "Fala Que \u00c9 Crente",
-      "url": "https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -179,18 +179,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Bra\u00e7o Forte",
-        "url": "https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X"
+        "name": "Ac\u00fastico, Vol.1",
+        "url": "https://open.spotify.com/album/4H7AGCEhoCXZV6EfuLt8tF"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
         }
       ],
-      "duration_ms": 168112,
-      "name": "Bra\u00e7o Forte",
-      "url": "https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk"
+      "duration_ms": 258549,
+      "name": "O Pai Espera Voc\u00ea Voltar",
+      "url": "https://open.spotify.com/track/7ClOfWsS7Fb2bnj3b3CEJI"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -235,26 +239,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Ac\u00fastico, Vol.1",
-        "url": "https://open.spotify.com/album/4H7AGCEhoCXZV6EfuLt8tF"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
-        }
-      ],
-      "duration_ms": 258549,
-      "name": "O Pai Espera Voc\u00ea Voltar",
-      "url": "https://open.spotify.com/track/7ClOfWsS7Fb2bnj3b3CEJI"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Mucho Mais",
         "url": "https://open.spotify.com/album/1aVZlIIkFk8uaSLeSNkiXe"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 164790,
       "name": "Mucho Mais",
       "url": "https://open.spotify.com/track/7J93tOBmniKvybrY8Qt1HA"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Bra\u00e7o Forte",
+        "url": "https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 168112,
+      "name": "Bra\u00e7o Forte",
+      "url": "https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -347,26 +347,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Ora\u00e7\u00e3o Em Flow",
-        "url": "https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs"
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "Mensageiros da Profecia",
-          "url": "https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI"
-        },
-        {
-          "name": "Mano Sass\u00e1",
-          "url": "https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0"
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Ora\u00e7\u00e3o Em Flow",
-      "url": "https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq"
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -387,22 +383,26 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+        "name": "Ora\u00e7\u00e3o Em Flow",
+        "url": "https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs"
       },
       "artists": [
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
         },
         {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+          "name": "Mensageiros da Profecia",
+          "url": "https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI"
+        },
+        {
+          "name": "Mano Sass\u00e1",
+          "url": "https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+      "duration_ms": 264000,
+      "name": "Ora\u00e7\u00e3o Em Flow",
+      "url": "https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Jesus Salvou Minha Vida",
-        "url": "https://open.spotify.com/album/4Owz4to9p2F66AIS0x61s8"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Jesus Salvou Minha Vida",
-      "url": "https://open.spotify.com/track/3RvTJQqyfOW0CmdQ7iYSOE"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Jesus Salvou Minha Vida",
+        "url": "https://open.spotify.com/album/4Owz4to9p2F66AIS0x61s8"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Jesus Salvou Minha Vida",
+      "url": "https://open.spotify.com/track/3RvTJQqyfOW0CmdQ7iYSOE"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Fardo Leve",
+        "url": "https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 125805,
+      "name": "Fardo Leve",
+      "url": "https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Autenticidade",
         "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 156000,
       "name": "Bem Maior",
       "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Fardo Leve",
-        "url": "https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 125805,
-      "name": "Fardo Leve",
-      "url": "https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Trindade Ac\u00fastico 1",
         "url": "https://open.spotify.com/album/41e3rvy3lc0jq7HYXcik9w"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 250000,
       "name": "Trindade Ac\u00fastico 1",
       "url": "https://open.spotify.com/track/5s4nzKjZMJqchuZypeLuuE"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Vibe de Crente",
         "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 208116,
       "name": "Vibe de Crente",
       "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Penso Alto",
-        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        },
-        {
-          "name": "CT Miss\u00f5es",
-          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "Penso Alto",
-      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Umbral",
         "url": "https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 169019,
       "name": "Umbral",
       "url": "https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Penso Alto",
+        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        },
+        {
+          "name": "CT Miss\u00f5es",
+          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "Penso Alto",
+      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
     },
     {
       "added_at": "2025-02-14 03:01:19",

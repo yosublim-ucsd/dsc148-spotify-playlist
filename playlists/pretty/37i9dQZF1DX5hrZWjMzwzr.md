@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,948 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,947 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 14 | [NÓŻ](https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [LEEO](https://open.spotify.com/artist/5bjlaptdRxdTCicOIX7k2P) | [NÓŻ](https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr) | 2:33 |
 | 15 | [Makarena Freestyle](https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:28 |
 | 16 | [EXIT](https://open.spotify.com/track/79qk9XiwYlTfcgdptq6lH6) | [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg), [Jano Polska Wersja](https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Polska Wersja](https://open.spotify.com/artist/7jr5OpV6K3nyqwKbbwcYR3) | [EXIT](https://open.spotify.com/album/1ts5o3TOPjD9HkK3AVTaQu) | 4:42 |
-| 17 | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:18 |
-| 18 | [RONDO](https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [MOWA WĘŻY](https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74) | 3:05 |
+| 17 | [RONDO](https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [MOWA WĘŻY](https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74) | 3:05 |
+| 18 | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:18 |
 | 19 | [same zmartwienia](https://open.spotify.com/track/2LMXAlcaN53mR1eHiwnJbb) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [spokój.](https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg) | 2:46 |
 | 20 | [Malibu Barbie](https://open.spotify.com/track/0KMDkQbcglNudXuynwKMs6) | [club2020](https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Dwa Sławy](https://open.spotify.com/artist/1CEONobXawu0XPgPhgTD5a), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM) | [Malibu Barbie](https://open.spotify.com/album/61CxqMQJVXSEQ2OUahKLK7) | 3:09 |
 | 21 | [Nicea](https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Nicea](https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU) | 3:37 |

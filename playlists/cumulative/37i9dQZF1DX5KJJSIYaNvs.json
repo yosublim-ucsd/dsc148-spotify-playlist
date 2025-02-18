@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Crazy In Love",
+        "url": "https://open.spotify.com/album/3qo2WD6JDDnuH8RnF1WejY"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219312,
+      "name": "Crazy In Love",
+      "url": "https://open.spotify.com/track/7aSLaClznigsMIu3Vg66Tf"
+    },
+    {
+      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/5ZEncFhF0lK33zAwr1KFhx"
       },
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 159500,
       "name": "Ishq Hai Nibhana",
       "url": "https://open.spotify.com/track/3gmQxTX5z25Dk2OpWtkTVw"
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 258092,
       "name": "Khoon",
       "url": "https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C"
@@ -8548,7 +8566,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 127285,
       "name": "Sirf Mere Ho",
       "url": "https://open.spotify.com/track/6UeNl3CIWIihMr1O1H9Sw0"
@@ -8980,6 +8998,36 @@
       "duration_ms": 262756,
       "name": "Tere Warga (Reprise) [From \"Anari Is Backk\"]",
       "url": "https://open.spotify.com/track/6lfEXA1m5iXRwPUy0Z689r"
+    },
+    {
+      "album": {
+        "name": "Chhaava (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Seeta Qasemie",
+          "url": "https://open.spotify.com/artist/7xt94tFU9c8NgnJrTu4UVJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185909,
+      "name": "Teri Chaahat (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/1By5OBVJcuvs5NncDZPwRM"
     },
     {
       "album": {
@@ -10166,6 +10214,32 @@
       "duration_ms": 248666,
       "name": "Zidd",
       "url": "https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1"
+    },
+    {
+      "album": {
+        "name": "Chhaava (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Hiral Viradia",
+          "url": "https://open.spotify.com/artist/4zpvHvgxkN4FehrkqVSZUl"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308076,
+      "name": "Zinda Rahey (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/6qRHJNT6oILLhehqzxLAQh"
     },
     {
       "album": {

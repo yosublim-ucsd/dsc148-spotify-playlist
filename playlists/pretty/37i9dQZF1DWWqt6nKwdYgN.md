@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Arte Elegante y Jere Klein en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,455 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,457 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Regreso a casa](https://open.spotify.com/track/0AajLeUB3PlFNIC8MFdEC0) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Regreso a casa](https://open.spotify.com/album/2Jrn0NhvhoEp6S6pFQhp8M) | 3:05 |
 | 50 | [Iconoclasta](https://open.spotify.com/track/1AJFcqYb9gC9j3ngU6g8oz) | [Nico Miseria](https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Allan Parrish](https://open.spotify.com/artist/2yMVIdS7Fd5ndzQ7R86PIQ) | [2017](https://open.spotify.com/album/6nEOeF9t2sdFkxu6oQ4LF0) | 3:01 |
 
-Snapshot ID: `Z67b+AAAAAAuZMrhzz/AHpI+F317gUxJ`
+Snapshot ID: `Z67b+AAAAABF7RZ2nJP+WA/Y5fP8FNEF`

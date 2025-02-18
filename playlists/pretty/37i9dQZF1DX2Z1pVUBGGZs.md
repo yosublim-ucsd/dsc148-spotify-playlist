@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring nxdia  ☁️
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,456 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,449 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 84 | [Soulmate](https://open.spotify.com/track/6ZB30gq1dP5u1NjjeR57zw) | [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Love\-Letter\-Lunchbox](https://open.spotify.com/album/61GlXrWd6BL2iOAEWwxb6l) | 3:02 |
 | 85 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 |
 
-Snapshot ID: `Z66HpQAAAABf2umX91p6m1dw1LGrPTe4`
+Snapshot ID: `Z66HpQAAAAB/dBxLLcchrd5it7Njw+bB`

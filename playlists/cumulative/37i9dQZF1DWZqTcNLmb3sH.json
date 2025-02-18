@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 234438,
       "name": "Atom Bomb (From \"Royal\")",
       "url": "https://open.spotify.com/track/12J3j4NPFFLrdug8tdzOMc"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 244887,
       "name": "Bachelor Baduku (From ''Apaayavide Eccharike'')",
       "url": "https://open.spotify.com/track/2scWlSOgj7iBxj83XxJABp"
@@ -14017,6 +14017,28 @@
     },
     {
       "album": {
+        "name": "Idhu Modalane Swagathana (From\"Just Married\")",
+        "url": "https://open.spotify.com/album/5lSSvYlQjkryNQUnmaisZ1"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248021,
+      "name": "Idhu Modalane Swagathana (From\"Just Married\")",
+      "url": "https://open.spotify.com/track/36LDvaeTtAxJkRNW6tv7dE"
+    },
+    {
+      "album": {
         "name": "Idu Bengaluru Kananna (From \"Tales of Mahanagara\")",
         "url": "https://open.spotify.com/album/7FvJx5dkRCf8sI2NM3pr3O"
       },
@@ -19034,7 +19056,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 301439,
       "name": "Maaya Jinke",
       "url": "https://open.spotify.com/track/04tijw4Lw9C1MynKmSPH6R"
@@ -22771,6 +22793,36 @@
     },
     {
       "album": {
+        "name": "Naguthalide Naayi Kode (From \"Manada Kadalu\")",
+        "url": "https://open.spotify.com/album/0NTe6upjBLPr5WyJF6WV3P"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Srilakshmi Belmannu",
+          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Naguthalide Naayi Kode (From \"Manada Kadalu\")",
+      "url": "https://open.spotify.com/track/1v7r9ZrFqLxWOPseFbHTHd"
+    },
+    {
+      "album": {
         "name": "Radhe Shyam",
         "url": "https://open.spotify.com/album/1kjkfSQ954S0wZRlrBmkII"
       },
@@ -23876,6 +23928,32 @@
       "duration_ms": 312000,
       "name": "Nayaka Jananayaka (From \"Prabhutva\")",
       "url": "https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le"
+    },
+    {
+      "album": {
+        "name": "Nee Bandu Ninthey (From \"Yuddhakaanda\")",
+        "url": "https://open.spotify.com/album/1XcQ5Fjs9VrTc1pkqnNex2"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Pavan Bhat",
+          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
+        },
+        {
+          "name": "K B Praveen",
+          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nee Bandu Ninthey - From \"Yuddhakaanda\"",
+      "url": "https://open.spotify.com/track/7pKWwuy0Gb2xIH6Pw4JCxF"
     },
     {
       "album": {

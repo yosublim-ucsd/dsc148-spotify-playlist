@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,123 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,132 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 91 | [Back Again](https://open.spotify.com/track/1Vm3VpRkzkx3NnUL29dAi8) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX), [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Back Again](https://open.spotify.com/album/5D3a4nPCdILKo1q7L33oHH) | 3:00 |
 | 92 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 |
 
-Snapshot ID: `Z68WDgAAAABk4X6X0GrM4DG/XpW2MZdX`
+Snapshot ID: `Z68WDgAAAAANDiY/GXrYvdcAjLly31+I`

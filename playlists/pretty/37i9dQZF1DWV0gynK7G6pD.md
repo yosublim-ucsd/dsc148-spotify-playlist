@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bruce Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,626 likes - 77 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,665 likes - 77 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 76 | [Toccata duodecima](https://open.spotify.com/track/6uSzlTm5TNdqMgHRqcsZGt) | [Georg Muffat](https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR), [Bernard Foccroulle](https://open.spotify.com/artist/7yjkzMrE3QUuAsSoja9eA5) | [Muffat: Apparatus musico\-organisticus](https://open.spotify.com/album/46mPjjDi320AY9I7Gx8CPE) | 6:56 |
 | 77 | [IX\. Night](https://open.spotify.com/track/0zYZ1E5k599pHZI0weT6yb) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Matthias Goerne](https://open.spotify.com/artist/1F3yfrc1DyiWsM0YG7kpsN), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd), [Mikko Franck](https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq) | [Shostakovich: Suite on Verses of Michelangelo Buonarroti, Op\. 145A: IX\. Night](https://open.spotify.com/album/3H8N8ykOc7sIYQKDYwHxhT) | 3:26 |
 
-Snapshot ID: `Z66/yAAAAADUyVr8K42oCgHMDxZbt596`
+Snapshot ID: `Z66/yAAAAADhzsAHF1ub3KImb7CztPeV`

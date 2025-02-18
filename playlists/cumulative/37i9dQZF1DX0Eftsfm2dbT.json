@@ -15165,6 +15165,24 @@
     },
     {
       "album": {
+        "name": "Malibu Dream",
+        "url": "https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP"
+      },
+      "artists": [
+        {
+          "name": "Tiji Jojo",
+          "url": "https://open.spotify.com/artist/3XdPjEN5UdOagwWPrgkp0f"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Malibu Dream",
+      "url": "https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr"
+    },
+    {
+      "album": {
         "name": "AIRERA",
         "url": "https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 790192,
+  "num_followers": 790237,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "...And There Are Devils",
+        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Folk Ramblers",
+          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Gambling Preacher and His Daughter",
+      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 196890,
       "name": "Where the Enemy Sleeps (feat. Lucette)",
       "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "...And There Are Devils",
-        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Folk Ramblers",
-          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Gambling Preacher and His Daughter",
-      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
     },
     {
       "added_at": "2024-07-05 18:50:08",

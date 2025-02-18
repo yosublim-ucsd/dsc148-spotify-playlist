@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> Juju B\. Goode\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> jisokuryClub\(지소쿠리클럽\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-888 songs - 2 day 6 hr 19 min
+890 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-07 | 2023-07-18 |
 | [\- x \- = + \(feat\. CHOILB\)](https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7) | 3:01 | 2023-08-01 | 2023-08-12 |
 | [\- x \- = + \(feat\. 최엘비\)](https://open.spotify.com/track/4pbE7u8JYY1AsbjaxaAGCE) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/5AFxWh93Ou4GC4pkB4nYco) | 3:01 | 2024-04-30 | 2024-05-09 |
+| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 |  |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
@@ -44,7 +45,7 @@
 | [About Loving Someone](https://open.spotify.com/track/4egcdhIJIx8KulcPT1Wi5o) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [About Loving Someone](https://open.spotify.com/album/6uOACaKB5uG9o3mV41FJgJ) | 4:43 | 2024-08-13 | 2024-08-30 |
 | [About Time](https://open.spotify.com/track/2lSUPsWT6vOZQGhu70vdzr) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [About Time](https://open.spotify.com/album/6VxFH2xFkDI6cDQJYbKQCv) | 3:34 | 2023-09-19 | 2024-05-10 |
 | [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 | 2022-07-04 | 2022-08-05 |
-| [Acacia](https://open.spotify.com/track/6yGfsG9w4hOH3mU2CVS6mH) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Guardian](https://open.spotify.com/album/7L9oQ17vTnO8y4ARVSJQog) | 3:54 | 2024-12-06 |  |
+| [Acacia](https://open.spotify.com/track/6yGfsG9w4hOH3mU2CVS6mH) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Guardian](https://open.spotify.com/album/7L9oQ17vTnO8y4ARVSJQog) | 3:54 | 2024-12-06 | 2025-02-18 |
 | [Acacia](https://open.spotify.com/track/0joWBqlVxPBSExJ6uTrnYn) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Acacia](https://open.spotify.com/album/46O3IGuI0uokRu4VE7mjte) | 3:41 | 2022-02-18 | 2022-03-03 |
 | [Action Reaction](https://open.spotify.com/track/4pv4srfPim6XwSUoxueLRF) | [syndasizung 신다사이정](https://open.spotify.com/artist/2JVIMqJWk3OVEEr9oaWYub) | [Action Reaction](https://open.spotify.com/album/0APzH8zMzoBbbweo04UqYI) | 4:35 | 2022-07-04 | 2022-07-09 |
 | [Actually](https://open.spotify.com/track/7Kel2ZwWtyHSPmE1EGMNH2) | [Dear Cloud](https://open.spotify.com/artist/0L4i6fMD8blByZNL0kLhiA) | [Actually](https://open.spotify.com/album/16UI3a9FlhfRhMz25lwQ6U) | 4:18 | 2022-03-31 | 2022-04-11 |
@@ -318,6 +319,7 @@
 | [Hoo! ha..](https://open.spotify.com/track/2g6xX5juQc08YW8UxI8yH7) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 4:33 | 2025-01-30 |  |
 | [Hool Hool](https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [HOOL HOOL](https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4) | 3:30 | 2025-01-22 |  |
 | [HOPE](https://open.spotify.com/track/05DA32NYsDutwuvthUOUSA) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9), [Raphan](https://open.spotify.com/artist/18nrDjJPMoJHC137nkvGVs) | [HOPE](https://open.spotify.com/album/40rKwgG1RLq6FiECMPuMdw) | 2:26 | 2022-01-27 | 2022-02-17 |
+| [Horses](https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Climbers](https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ) | 3:18 | 2025-02-17 |  |
 | [Hotel Loveshine](https://open.spotify.com/track/7cwxi55Ge3r7tgKReBFS56) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Hotel Loveshine](https://open.spotify.com/album/3zuMLHmUBlImxuzggnuDB7) | 3:45 | 2024-04-30 | 2024-05-10 |
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 | 2024-05-16 | 2024-06-20 |
@@ -805,7 +807,7 @@
 | [WATER](https://open.spotify.com/track/6EIShxhgO0xfGx4wQ0zzPL) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [PRISM](https://open.spotify.com/album/4ob0pdaU2exF0jD5QST4oU) | 4:46 | 2022-03-31 | 2022-06-06 |
 | [WAVE](https://open.spotify.com/track/3etI6U4FQnHmsSDjrCi2f2) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 5:57 | 2025-01-30 |  |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
-| [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 | 2024-12-06 |  |
+| [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 | 2024-12-06 | 2025-02-18 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2024-06-13 |
 | [we'll we'll we'll](https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [OUR Ocean](https://open.spotify.com/album/2zWRj9NgN35Im7JHxG3tGR) | 2:38 | 2024-08-05 | 2024-08-11 |

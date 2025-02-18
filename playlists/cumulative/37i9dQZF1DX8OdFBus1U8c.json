@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "AAVARTHANAM",
+        "url": "https://open.spotify.com/album/1iC5zgfqKvrdACeWdQoAr6"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "AAVARTHANAM",
+      "url": "https://open.spotify.com/track/7HAyv8PALKTmJvLujWeeCj"
+    },
+    {
+      "album": {
         "name": "Aayiram Aura",
         "url": "https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 226716,
       "name": "Blue Bucket Rebirth",
       "url": "https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH"
@@ -1355,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Haraamperapp",
+        "url": "https://open.spotify.com/album/29ZHAH886wRC6pCReDO83T"
+      },
+      "artists": [
+        {
+          "name": "RMJ",
+          "url": "https://open.spotify.com/artist/5WhTYRZ1BAzAaMdYBRPtEG"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Haraamperapp",
+      "url": "https://open.spotify.com/track/1Sv7DKIYP9CMtqgqIbTcEL"
+    },
+    {
+      "album": {
         "name": "Hey Nima",
         "url": "https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY"
       },
@@ -1600,7 +1640,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 244982,
       "name": "Kaalangal",
       "url": "https://open.spotify.com/track/5eJlXoWYGixX0SIpeKhlZh"
@@ -2734,7 +2774,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 244356,
       "name": "Naade Naattaare - From \"Operation Java\"",
       "url": "https://open.spotify.com/track/1hSuT0E6wuhRAlRBOYTSBM"
@@ -2846,7 +2886,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 228347,
       "name": "Namma Stories",
       "url": "https://open.spotify.com/track/3TmyH58VMepcWFbtPRNlUC"
@@ -2946,6 +2986,36 @@
       "duration_ms": 179328,
       "name": "Neeyethaa - From \"Naradan\"",
       "url": "https://open.spotify.com/track/6UMVbjz1nsK3dIDhEWSiwx"
+    },
+    {
+      "album": {
+        "name": "Neon Ride (From \"Officer On Duty\")",
+        "url": "https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "REMYA RAM",
+          "url": "https://open.spotify.com/artist/5UU7J5H5K8PNGAqlFgiYyp"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "Neon Ride (From \"Officer On Duty\")",
+      "url": "https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X"
     },
     {
       "album": {
@@ -3634,7 +3704,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 206400,
       "name": "Prayojanam",
       "url": "https://open.spotify.com/track/4yaheKpzPY2sQmeD9axB6q"
@@ -4816,6 +4886,46 @@
       "duration_ms": 215998,
       "name": "Vedi",
       "url": "https://open.spotify.com/track/1hF2EpIVu1pOK2AtRq9Wod"
+    },
+    {
+      "album": {
+        "name": "VELICHAM",
+        "url": "https://open.spotify.com/album/0yQ6SYw2jQ6SFHn92Grkm8"
+      },
+      "artists": [
+        {
+          "name": "Dilthu",
+          "url": "https://open.spotify.com/artist/1SEOpORjLaRtDiQE8UnMAW"
+        },
+        {
+          "name": "BAXC",
+          "url": "https://open.spotify.com/artist/1vmbJ7sRXrAaT0ojZfrlBC"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VELICHAM",
+      "url": "https://open.spotify.com/track/2GLMiM7B6hpFWQrGGsQDvI"
+    },
+    {
+      "album": {
+        "name": "VELLI",
+        "url": "https://open.spotify.com/album/06lYQFfzaLr5RTSO0IW2mq"
+      },
+      "artists": [
+        {
+          "name": "HIMSRA",
+          "url": "https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "VELLI",
+      "url": "https://open.spotify.com/track/78gntht2AtRT1xXIKnZG17"
     },
     {
       "album": {

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Lacuna Coil in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,166 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,167 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Wish You Were Dead](https://open.spotify.com/track/6op6zm0kRq71pCpZhyEiNu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [I Wish You Were Dead](https://open.spotify.com/album/2uNibRozoqsBCjT6G3sJlI) | 2:52 |
 | 2 | [asteria](https://open.spotify.com/track/3bCoe8DIdj3YUFjJLqIsMw) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [asteria](https://open.spotify.com/album/7gcMfIDOmYePfLyEARWGDK) | 4:30 |
-| 3 | [NIRVANA](https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [NIRVANA](https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY) | 3:13 |
-| 4 | [Gestalt](https://open.spotify.com/track/2Ed4VCrIQWPGknRBPwoKfT) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Gestalt](https://open.spotify.com/album/2QfepOeldPxk4QOhZ5ha5N) | 3:25 |
-| 5 | [piombo](https://open.spotify.com/track/18WynQU3BNM0pBt2K9gYs6) | [chiaroscuro](https://open.spotify.com/artist/3RpKCTfi3pinilWNgrX7B2) | [piombo](https://open.spotify.com/album/4JEEz4gFhquzhUgzWov8w7) | 2:51 |
+| 3 | [piombo](https://open.spotify.com/track/18WynQU3BNM0pBt2K9gYs6) | [chiaroscuro](https://open.spotify.com/artist/3RpKCTfi3pinilWNgrX7B2) | [piombo](https://open.spotify.com/album/4JEEz4gFhquzhUgzWov8w7) | 2:51 |
+| 4 | [NIRVANA](https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [NIRVANA](https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY) | 3:13 |
+| 5 | [Gestalt](https://open.spotify.com/track/2Ed4VCrIQWPGknRBPwoKfT) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Gestalt](https://open.spotify.com/album/2QfepOeldPxk4QOhZ5ha5N) | 3:25 |
 | 6 | [Parlami per sempre](https://open.spotify.com/track/3S4eaBOxCBPtlnnyEx59TH) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Sick Tamburo](https://open.spotify.com/album/0xI1Jy3cIKl9jWGIDBBgbO) | 3:03 |
 | 7 | [PER QUALCOSA O QUALCUNO](https://open.spotify.com/track/0uSK1uXv9TiTODNfzkypXO) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PER QUALCOSA O QUALCUNO](https://open.spotify.com/album/2p0gWxx57QZD0wf8b7RWOW) | 3:48 |
 | 8 | [Fossili/Funghi](https://open.spotify.com/track/50VaVvzfEShYpyuewc7Eib) | [Asino](https://open.spotify.com/artist/6I8TKeaMNeWsC26JY16qxI) | [Fossili/Funghi](https://open.spotify.com/album/7fkygq4meejaBdqGwMWwBY) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Something](https://open.spotify.com/track/55yNugNfKkXvF4EaGmdnCX) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Distractions](https://open.spotify.com/album/1SKYFKGSCY6uiVT4hPi55y) | 3:00 |
 | 100 | [Lividi/Occhiaie](https://open.spotify.com/track/69APQ1HfhwpjwP18aWjqrZ) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Per farmi coraggio mi sono buttato dal piano terra](https://open.spotify.com/album/0zjHtyU4q9pMwdiv4qA8Sh) | 4:24 |
 
-Snapshot ID: `Z655rgAAAAB6Y7Q9sJmnXgsax3dw4aLK`
+Snapshot ID: `Z7NjegAAAACn+DUxKg+4VZhG9k2GfxyS`

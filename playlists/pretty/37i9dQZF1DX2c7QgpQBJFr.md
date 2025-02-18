@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: Gaia
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,918 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,944 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,27 +13,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 3 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 |
 | 4 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
 | 5 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 |
-| 6 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 |
-| 7 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
-| 8 | [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 |
-| 9 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 |
-| 10 | [SO CHE CI SEI](https://open.spotify.com/track/6wCmW3Bv3A2zT9pjnvuATf) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 2:52 |
-| 11 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 |
-| 12 | [Sogni al cielo](https://open.spotify.com/track/5AcWsvBp909Sjww1Wt5rlb) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Sogni al cielo](https://open.spotify.com/album/1IIzCvWQ0As2qeXB7BBoRa) | 3:00 |
-| 13 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
+| 6 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
+| 7 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
+| 8 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 |
+| 9 | [SO CHE CI SEI](https://open.spotify.com/track/6wCmW3Bv3A2zT9pjnvuATf) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 2:52 |
+| 10 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 |
+| 11 | [Sogni al cielo](https://open.spotify.com/track/5AcWsvBp909Sjww1Wt5rlb) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Sogni al cielo](https://open.spotify.com/album/1IIzCvWQ0As2qeXB7BBoRa) | 3:00 |
+| 12 | [LUNA](https://open.spotify.com/track/0nAIRuYMOVKSLvQvFULwNF) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [LUNA](https://open.spotify.com/album/1u3OeyzgAnvrRMkZPqDdqU) | 2:29 |
+| 13 | [neon](https://open.spotify.com/track/4psQ1hp6PPaoLcMwzmZoO2) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [neon](https://open.spotify.com/album/3TqQQ7zh3RtfoG8PgKcLvK) | 2:59 |
 | 14 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 |
 | 15 | [CCHIÙ NIENT’](https://open.spotify.com/track/5IhdxKSZraAZSITXfwTts0) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/6RbdLr25xBtcoEd1YbL54V) | 2:03 |
 | 16 | [Van Gogh](https://open.spotify.com/track/6XZ33X1pvJ5oRkXdaep9uT) | [Maria Tomba](https://open.spotify.com/artist/37zHkEzE18MxYD5Mg1Hc69) | [Requiem \(per un sogno\)](https://open.spotify.com/album/3ybhm1DUIr9wqWRaYzBmhc) | 2:35 |
 | 17 | [DOVE TI TROVI TU](https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [DOVE TI TROVI TU](https://open.spotify.com/album/1iYQ3bXd1fj9LVPukNf9KE) | 3:57 |
 | 18 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
-| 19 | [Bilico](https://open.spotify.com/track/3LZKyb5d0kulP7Envw2gUV) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Bilico](https://open.spotify.com/album/19r79Fj3p0L9T9kGROEnxf) | 2:44 |
-| 20 | [bella musica x belle ragazze](https://open.spotify.com/track/0Kou4dC9CIVVY0xXQ2NW1m) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [bella musica x belle ragazze](https://open.spotify.com/album/5W0kxTxjrfi3XZeE8IK1hX) | 2:37 |
-| 21 | [la tua stanza](https://open.spotify.com/track/37v1s7DwPL2DfpKwqlVMWY) | [ioemeg](https://open.spotify.com/artist/1iAww5f7OY85PWZiYGgYxE) | [la tua stanza](https://open.spotify.com/album/3U55JW1AfSKTnQAYGH67ZH) | 2:36 |
-| 22 | [Solamente farfalle](https://open.spotify.com/track/0nrj347mMbEZylQMZgGHVk) | [Cecille](https://open.spotify.com/artist/5WvcnbqIOexP9otoHwLsb6) | [Solamente farfalle](https://open.spotify.com/album/4TjP3MS1VjNfVDjIKWgMhb) | 2:47 |
-| 23 | [Paradiso](https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Paradiso](https://open.spotify.com/album/4DTwNCS6X0QaAM1xcG9gjI) | 2:33 |
-| 24 | [LUNA](https://open.spotify.com/track/0nAIRuYMOVKSLvQvFULwNF) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [LUNA](https://open.spotify.com/album/1u3OeyzgAnvrRMkZPqDdqU) | 2:29 |
-| 25 | [neon](https://open.spotify.com/track/4psQ1hp6PPaoLcMwzmZoO2) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [neon](https://open.spotify.com/album/3TqQQ7zh3RtfoG8PgKcLvK) | 2:59 |
-| 26 | [OH ISSA](https://open.spotify.com/track/0KRqur6aXoZ1wiHfQLDA2R) | [BRUNO](https://open.spotify.com/artist/5Icdq7Mr1Qu1QkNCPxT9X9) | [OH ISSA](https://open.spotify.com/album/69q4FvkXFtkO9eFCDciy2E) | 2:47 |
+| 19 | [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 |
+| 20 | [Bilico](https://open.spotify.com/track/3LZKyb5d0kulP7Envw2gUV) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Bilico](https://open.spotify.com/album/19r79Fj3p0L9T9kGROEnxf) | 2:44 |
+| 21 | [bella musica x belle ragazze](https://open.spotify.com/track/0Kou4dC9CIVVY0xXQ2NW1m) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [bella musica x belle ragazze](https://open.spotify.com/album/5W0kxTxjrfi3XZeE8IK1hX) | 2:37 |
+| 22 | [la tua stanza](https://open.spotify.com/track/37v1s7DwPL2DfpKwqlVMWY) | [ioemeg](https://open.spotify.com/artist/1iAww5f7OY85PWZiYGgYxE) | [la tua stanza](https://open.spotify.com/album/3U55JW1AfSKTnQAYGH67ZH) | 2:36 |
+| 23 | [Solamente farfalle](https://open.spotify.com/track/0nrj347mMbEZylQMZgGHVk) | [Cecille](https://open.spotify.com/artist/5WvcnbqIOexP9otoHwLsb6) | [Solamente farfalle](https://open.spotify.com/album/4TjP3MS1VjNfVDjIKWgMhb) | 2:47 |
+| 24 | [Paradiso](https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Paradiso](https://open.spotify.com/album/4DTwNCS6X0QaAM1xcG9gjI) | 2:33 |
+| 25 | [OH ISSA](https://open.spotify.com/track/0KRqur6aXoZ1wiHfQLDA2R) | [BRUNO](https://open.spotify.com/artist/5Icdq7Mr1Qu1QkNCPxT9X9) | [OH ISSA](https://open.spotify.com/album/69q4FvkXFtkO9eFCDciy2E) | 2:47 |
+| 26 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 |
 | 27 | [COSA?](https://open.spotify.com/track/3B1MFBygjwgaiN7aQJbQ8b) | [Jemel](https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [COSA?](https://open.spotify.com/album/6mBbGPCvB3jTCoFQqPFJHU) | 2:46 |
 | 28 | [TUTTI I MOTIVI](https://open.spotify.com/track/6ifiFJMpGOD45b4VE2fMJj) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/4HI6AXLqgdUFyFWYT5r7Bi) | 2:15 |
 | 29 | [Prenderti](https://open.spotify.com/track/5IqFagR69pqHJ7Pd98GxGv) | [Roden](https://open.spotify.com/artist/6WnaCSqkD179sgtAkzPKvP), [sils](https://open.spotify.com/artist/4K0j9fash3WpgUw7uhZKo8) | [Prenderti](https://open.spotify.com/album/1l9QVYgYkHVS9eZipM3dkR) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 |
 | 100 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 |
 
-Snapshot ID: `Z655rgAAAADWWbPncmBrT3yrhZaTHnVu`
+Snapshot ID: `Z7MktgAAAAAICCo3x9Z4AItFRVdqGgH/`

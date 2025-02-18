@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 86461,
+  "num_followers": 86476,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2025-01-07 17:27:25",
-      "album": {
         "name": "Go To Work (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 108366,
       "name": "Go To Work (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
+    },
+    {
+      "added_at": "2025-01-07 17:27:25",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
     },
     {
       "added_at": "2025-01-07 17:27:25",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
+        "name": "WYN?",
+        "url": "https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE"
+      },
+      "artists": [
+        {
+          "name": "2famousjayy",
+          "url": "https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "WYN?",
+      "url": "https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa"
+    },
+    {
+      "added_at": "2025-01-07 17:27:25",
+      "album": {
         "name": "now rock",
         "url": "https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 170710,
       "name": "now rock",
       "url": "https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm"
-    },
-    {
-      "added_at": "2025-01-07 17:27:25",
-      "album": {
-        "name": "WYN?",
-        "url": "https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE"
-      },
-      "artists": [
-        {
-          "name": "2famousjayy",
-          "url": "https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "WYN?",
-      "url": "https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa"
     },
     {
       "added_at": "2025-01-07 17:27:25",
@@ -1395,26 +1395,22 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
       },
       "artists": [
         {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
     }
   ],
   "unique_name": "Jersey Club Heat",

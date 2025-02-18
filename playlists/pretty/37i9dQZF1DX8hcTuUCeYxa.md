@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Beirut
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,605 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,640 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Poison Ivy](https://open.spotify.com/track/5Lszb7JMTvtMUbt1r2WVXs) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Poison Ivy](https://open.spotify.com/album/711LcdU6ioGH4tAefhJtEm) | 2:26 |
 | 90 | [Dies Irae](https://open.spotify.com/track/679Exr2O6WLxA7GsA4EX6W) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Dies Irae](https://open.spotify.com/album/3KQRywEJ2fOs2ZwMExl9do) | 3:35 |
 
-Snapshot ID: `Z655ewAAAADogQJ9mmZYAGnHdAOw35sr`
+Snapshot ID: `Z655ewAAAADsiBBM35kYcwxsxgOlNlbu`

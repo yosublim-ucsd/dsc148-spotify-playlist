@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Be Quiet",
+        "url": "https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "Be Quiet",
+      "url": "https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p"
+    },
+    {
+      "album": {
         "name": "Beautiful Love",
         "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
       },
@@ -1172,6 +1190,24 @@
       "duration_ms": 169181,
       "name": "Between the Devil and the Deep Blue Sea",
       "url": "https://open.spotify.com/track/649ZNkGmrhFhrJHjB8iVs6"
+    },
+    {
+      "album": {
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/6PdHcC7kDnhl2p94foGcjL"
+      },
+      "artists": [
+        {
+          "name": "Moonsong",
+          "url": "https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101251,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/2RWBFmndDrRQOcax4mfhvw"
     },
     {
       "album": {
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 153717,
       "name": "Cherish the Night",
       "url": "https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam"
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 183145,
       "name": "Come Lay beside Me",
       "url": "https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm"
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 167727,
       "name": "February Brings The Rain",
       "url": "https://open.spotify.com/track/4gR8q8utqVSpwz5Vv8gMys"
@@ -4066,7 +4102,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 197538,
       "name": "I learned to love",
       "url": "https://open.spotify.com/track/4Jo0uFWkHJ7qiEbI2GAfgZ"
@@ -4534,7 +4570,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 194658,
       "name": "In Another Day",
       "url": "https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI"
@@ -9286,7 +9322,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 174333,
       "name": "Still playing",
       "url": "https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX"
@@ -9448,7 +9484,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 172624,
       "name": "Sweetzer Ave",
       "url": "https://open.spotify.com/track/4ZgHWOPfiCca93ZY8Q2QKB"

@@ -7315,28 +7315,6 @@
     },
     {
       "album": {
-        "name": "Rain (feat. Parc Jae Jung)",
-        "url": "https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz"
-      },
-      "artists": [
-        {
-          "name": "Piano Man",
-          "url": "https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g"
-        },
-        {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        }
-      ],
-      "date_added": "2025-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 299166,
-      "name": "Rain (feat. Parc Jae Jung)",
-      "url": "https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH"
-    },
-    {
-      "album": {
         "name": "Regret \ubbf8\ub828",
         "url": "https://open.spotify.com/album/1XsMbgIn0kwL59HfqJJMsL"
       },
@@ -10710,6 +10688,28 @@
       "duration_ms": 233813,
       "name": "\ubcf4\uc5ec\uc904\uac8c",
       "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "album": {
+        "name": "\ube44\uac00 (feat. \ubc15\uc7ac\uc815)",
+        "url": "https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz"
+      },
+      "artists": [
+        {
+          "name": "\ud53c\uc544\ub178\ub9e8",
+          "url": "https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ"
+        },
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299166,
+      "name": "\ube44\uac00 (feat. \ubc15\uc7ac\uc815)",
+      "url": "https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [คลั่งรัก](https://open.spotify.com/playlist/37i9dQZF1DX2wrHNWlb0Eu)
 
-> วาเลนไทน์ มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: ZEE PRUK, NuNew
+> มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: ZEE PRUK, NuNew
 
 196 songs - 12 hr 7 min
 

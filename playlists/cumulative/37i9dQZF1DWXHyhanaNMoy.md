@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Zoë Tauran & Idaly
 
-1,247 songs - 2 day 7 hr 51 min
+1,248 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [DADDY](https://open.spotify.com/track/4NG1Iq0rtf3smj5DEtOzDs) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [MANDALA](https://open.spotify.com/album/5ppnaDzBstF4KnL0z5sUGy) | 2:04 | 2022-07-14 | 2022-07-29 |
 | [Dagga](https://open.spotify.com/track/6HKjTseDDs2B0LuDJYZcfv) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Dagga](https://open.spotify.com/album/3NaE6QwoS3einSqZj2iyrb) | 2:00 | 2024-11-21 | 2025-01-17 |
 | [Daily Paper](https://open.spotify.com/track/68ke3rxPysJ3MIs7F53OcG) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa) | [Daily Paper](https://open.spotify.com/album/56GWd2d3ivge7gJerhe4ON) | 2:15 | 2022-08-25 | 2022-10-21 |
-| [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2024-10-24 |  |
+| [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2024-10-24 | 2025-02-18 |
 | [Dancehall \(Reloaded\)](https://open.spotify.com/track/1igG9385phIiZlrStXRNw6) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [IMMO](https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm), [M Jill](https://open.spotify.com/artist/40Mey9lAUUMsTjUoR7cs5H) | [Dancehall \(Reloaded\)](https://open.spotify.com/album/5Ujrp2PlIbQVKQMfDVSJDJ) | 2:51 | 2024-05-16 | 2024-06-07 |
 | [Dancehall Sound](https://open.spotify.com/track/4NTPkxpdD5UxMSZM8eTI7d) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:29 | 2022-08-04 | 2022-09-23 |
 | [Dangerous](https://open.spotify.com/track/02LoJOfuwCA35gjSrevhMX) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Pum Pum Power](https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt) | 2:40 | 2023-10-05 | 2023-11-03 |
@@ -760,6 +760,7 @@
 | [MY STYLE](https://open.spotify.com/track/0T2MLcykLYj215hslAHtMT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [PINK SUMMER](https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl) | 2:45 | 2024-07-19 | 2024-11-29 |
 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 | 2024-02-08 | 2024-06-21 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-13 | 2022-11-11 |
+| [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 | 2025-02-17 |  |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-07-14 | 2022-08-26 |
 | [Na De Na](https://open.spotify.com/track/3mp4K8l13oqI01AkDkiOsI) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Aire Urbano](https://open.spotify.com/artist/1RQjLf5STI8eoaAEWYllz7) | [Na De Na](https://open.spotify.com/album/33IJNocRCgGO2dJ5Tya2o8) | 2:46 | 2022-07-14 | 2022-08-26 |
 | [Naar De Getver](https://open.spotify.com/track/40y4pVuBIevboi72NU23HM) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Naar De Getver](https://open.spotify.com/album/2t2v0F7hjQAHUJmGTHiHp2) | 2:51 | 2022-07-28 | 2022-08-26 |

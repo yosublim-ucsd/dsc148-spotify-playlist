@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: HNTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,749 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,810 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 107 | [Push Me](https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Push Me](https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh) | 2:30 |
 | 108 | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 |
 | 109 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
-| 110 | [I Only Smoke When I Drink \- Badger Remix](https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 2:11 |
-| 111 | [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 |
-| 112 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 |
+| 110 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 |
+| 111 | [I Only Smoke When I Drink \- Badger Remix](https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 2:11 |
+| 112 | [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 |
 | 113 | [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 |
 | 114 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 115 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 122 | [NEVER STOPPIN'](https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Nouni](https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww) | [NEVER STOPPIN'](https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg) | 2:23 |
 | 123 | [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 |
 | 124 | [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 |
-| 125 | [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 |
+| 125 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 
 Snapshot ID: `Z6WTYwAAAAClNx3ymIkxuR6pVYZ7PUlL`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mazaka",
-  "num_followers": 148442,
+  "num_followers": 148478,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z69MFQAAAAB3BqBZ6QF149ILbhGyqZvi",
+  "snapshot_id": "Z7MsSgAAAAD98N4LPSwe9VTus7EDvl6L",
   "tracks": [
     {
       "added_at": "2025-02-10 11:48:01",
@@ -275,6 +275,34 @@
       "duration_ms": 250844,
       "name": "Oo Nadhi (From \"Vrushabha\")",
       "url": "https://open.spotify.com/track/4Y7HrZc3nnfzWYt26eJBgJ"
+    },
+    {
+      "added_at": "2025-02-17 12:32:09",
+      "album": {
+        "name": "Varshinche Meghamey (From \"Guard\")",
+        "url": "https://open.spotify.com/album/0ZD8DyWY2RDCuUFrG6Tk6a"
+      },
+      "artists": [
+        {
+          "name": "Pranay Kaleru",
+          "url": "https://open.spotify.com/artist/3mVCy8T3rN9X0C2vbA4PQH"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        },
+        {
+          "name": "G Anand Raju",
+          "url": "https://open.spotify.com/artist/4PqsD3YZfQxTmReKFlfqmW"
+        }
+      ],
+      "duration_ms": 283255,
+      "name": "Varshinche Meghamey (From \"Guard\")",
+      "url": "https://open.spotify.com/track/3CgX5QmyXKXuDuPEdRtLZf"
     },
     {
       "added_at": "2025-02-10 10:55:56",
@@ -1171,30 +1199,6 @@
       "duration_ms": 201600,
       "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
       "url": "https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m"
-    },
-    {
-      "added_at": "2024-02-06 12:37:10",
-      "album": {
-        "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
-        "url": "https://open.spotify.com/album/4ZoE4BJJndX6iXdJSNOpar"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 230425,
-      "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
-      "url": "https://open.spotify.com/track/3laPdjIsdYtkilT6c5N1dn"
     }
   ],
   "unique_name": "Latest Romance Telugu",

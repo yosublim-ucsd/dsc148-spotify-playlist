@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Destruction",
+        "url": "https://open.spotify.com/album/1YWkFs5TxO3dxv5tWuBPcx"
+      },
+      "artists": [
+        {
+          "name": "Megurimeguru",
+          "url": "https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170688,
+      "name": "Destruction",
+      "url": "https://open.spotify.com/track/486OJ5rXesJKnMb21D8P44"
+    },
+    {
+      "album": {
         "name": "Persona 3 Reload: Episode Aigis Original Soundtrack",
         "url": "https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN"
       },
@@ -3195,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "\u7b2c\u4e00\u5e55",
+        "url": "https://open.spotify.com/album/61LtVJlmKKinmd80gtNOry"
+      },
+      "artists": [
+        {
+          "name": "\u304d\u304f\u304a\u306f\u306a",
+          "url": "https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "\u3046\u3089\u307f\u306e\u30ef\u30eb\u30c4 - \u7b2c\u4e00\u5e55Mix",
+      "url": "https://open.spotify.com/track/16nHgNk16haiFdhEpHZpWw"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30eb\u30c8\u30b3\u30ed\u30cb\u30fc\u306e\u5b9a\u7406",
         "url": "https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg"
       },
@@ -4741,6 +4777,24 @@
     },
     {
       "album": {
+        "name": "\u6d77\u99ac\u6210\u9577\u75db",
+        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "\u6d77\u99ac\u6210\u9577\u75db",
+      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
+    },
+    {
+      "album": {
         "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
         "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
       },
@@ -4756,6 +4810,28 @@
       "duration_ms": 277700,
       "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
       "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.5",
+        "url": "https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc"
+      },
+      "artists": [
+        {
+          "name": "\u7d75\u5fc3\u751a\u516b (CV.\u795e\u8c37\u6d69\u53f2)",
+          "url": "https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G"
+        },
+        {
+          "name": "\u5e1d\u895f\u30a2\u30f3\u30ea (CV.\u5e78\u6751\u6075\u7406)",
+          "url": "https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "\u72ec\u5168\u7d75\u56f3",
+      "url": "https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP"
     },
     {
       "album": {

@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 193920,
       "name": "Bodas de A\u00e7o",
       "url": "https://open.spotify.com/track/1ekFzswqF5QRomaksdjTBa"
@@ -17450,6 +17450,32 @@
       "duration_ms": 205663,
       "name": "Reis da Revoada",
       "url": "https://open.spotify.com/track/3RuaQEnUtAYSblbk9K16u8"
+    },
+    {
+      "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/6xQGe7nkat7dSTv26EmxGn"
+      },
+      "artists": [
+        {
+          "name": "Memphis Depay",
+          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172981,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/6wWZ5ptp5YrTEgBqAm3hos"
     },
     {
       "album": {

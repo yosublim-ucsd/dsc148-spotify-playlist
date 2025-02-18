@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,542 songs - 2 day 10 hr 2 min
+1,543 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/6IOLrMWpyxWJHbL4chHEdX) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 | 2022-01-27 | 2022-06-10 |
 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 | 2024-09-13 |  |
 | [deep cracks](https://open.spotify.com/track/7zQqLegPosxGECgeN0oRXG) | [fogdream](https://open.spotify.com/artist/7EHIYF01neDzhqyE4yr2ec) | [deep cracks](https://open.spotify.com/album/248nZk1KGE2d5Jbv9nwEfy) | 1:53 | 2022-01-27 | 2022-05-20 |
+| [Deep Forest](https://open.spotify.com/track/4yGselxigcwriO7LbmCeMb) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw) | [Deep Forest](https://open.spotify.com/album/4EWtJaAgRmMbTK1cI5dA6e) | 1:35 | 2025-02-14 |  |
 | [deep waters](https://open.spotify.com/track/1JkZ7GfXv9mFkGuN60pcex) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [deep waters](https://open.spotify.com/album/6ZwghYV71Nhxc2ko5VZ5k2) | 2:10 | 2023-10-06 | 2025-02-08 |
 | [Definition Of Very](https://open.spotify.com/track/2BJt35KZmyfvjsKAwLgrgY) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Grouch](https://open.spotify.com/album/0x8hJrDPribhjX0XZIhnnZ) | 2:01 | 2022-01-27 | 2022-06-10 |
 | [Deli](https://open.spotify.com/track/05rrqalYHvYEw0lKlh7mHD) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Deli](https://open.spotify.com/album/5panDaMSdiykAvGPr034Se) | 2:09 | 2022-08-05 | 2022-12-17 |
@@ -379,7 +380,7 @@
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 | 2022-07-01 |
 | [embrace](https://open.spotify.com/track/4miAtjqI7AnBxamh8HyaT2) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [embrace](https://open.spotify.com/album/0dJqvGo4GcYMOBiN7KLyem) | 2:24 | 2024-10-25 |  |
 | [Emelie](https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Emelie](https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L) | 2:34 | 2024-03-22 | 2024-05-14 |
-| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 |  |
+| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 | 2025-02-18 |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-05-19 | 2023-11-25 |
 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 | 2024-09-27 |  |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 | 2022-10-15 |

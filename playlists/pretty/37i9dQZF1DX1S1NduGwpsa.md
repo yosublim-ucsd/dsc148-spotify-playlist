@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lila\-May
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,011 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,012 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [The painter and the boxer](https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [Surprise !](https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT) | 3:56 |
 | 50 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 
-Snapshot ID: `Z655hgAAAAClJKCjUkAMFfz4h4s0SCwI`
+Snapshot ID: `Z655hgAAAAAR2inrNWIK8ipB+y/oiiJ1`

@@ -1,13 +1,29 @@
 {
   "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak:  Sibel Can",
-  "num_followers": 1488357,
+  "num_followers": 1488545,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z65dcQAAAABB+coJ2u3eYHVVJ1vHEv8L",
+  "snapshot_id": "Z7MfsgAAAABremQ74wdVbylYeEQPtNMI",
   "tracks": [
+    {
+      "added_at": "2025-02-13 21:00:33",
+      "album": {
+        "name": "\u00c7atma Yarim",
+        "url": "https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 177572,
+      "name": "\u00c7atma Yarim",
+      "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
+    },
     {
       "added_at": "2025-02-13 21:00:33",
       "album": {
@@ -87,22 +103,6 @@
       "duration_ms": 225833,
       "name": "Da\u011f\u0131ld\u0131m Sonunda",
       "url": "https://open.spotify.com/track/6WgtaLyJKnnNtfbATAt4q3"
-    },
-    {
-      "added_at": "2025-02-13 21:00:33",
-      "album": {
-        "name": "\u00c7atma Yarim",
-        "url": "https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG"
-      },
-      "artists": [
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 177572,
-      "name": "\u00c7atma Yarim",
-      "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
     },
     {
       "added_at": "2025-02-13 21:00:33",

@@ -5,28 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Debussy: 12 Etudes",
-        "url": "https://open.spotify.com/album/2BzOIvIl6ma2xys1RhWJvr"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Mitsuko Uchida",
-          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
-        }
-      ],
-      "date_added": "2020-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 288000,
-      "name": "12 Etudes, L.136: 11. Pour les Arp\u00e8ges compos\u00e9s",
-      "url": "https://open.spotify.com/track/2u22XYHmJiVBl0HSW8jQFt"
-    },
-    {
-      "album": {
         "name": "Debussy: Beau soir, L. 6 (L. 84) (Arr. Heifetz for Violin and Piano)",
         "url": "https://open.spotify.com/album/5esfhWFVQ9W6lsipK8l9Sn"
       },
@@ -760,6 +738,28 @@
       "duration_ms": 243773,
       "name": "Debussy: String Quartet in G Minor, Op. 10, CD 91, L. 85: II. Assez vif et bien rythm\u00e9",
       "url": "https://open.spotify.com/track/7LBJq7x5egGaaF8NkWMVq7"
+    },
+    {
+      "album": {
+        "name": "Debussy: 12 Etudes",
+        "url": "https://open.spotify.com/album/2BzOIvIl6ma2xys1RhWJvr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Etudes, CD 143: XI. Pour les arp\u00e8ges compos\u00e9s",
+      "url": "https://open.spotify.com/track/2u22XYHmJiVBl0HSW8jQFt"
     },
     {
       "album": {

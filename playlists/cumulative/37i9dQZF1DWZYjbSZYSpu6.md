@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LEE DAE WHI, GRASS\(이대휘, 그래쓰\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Lim Seung Ong x Nana\(임슬옹, 나나\)\)
 
-245 songs - 14 hr 37 min
+246 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [August \(Duet with CHOSNG\)](https://open.spotify.com/track/1o3nbJzw4MXtFr4r6JfvO3) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI), [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [August \(Duet with CHOSNG\)](https://open.spotify.com/album/4NUQvW7uOiI3aDx2Qz9zVZ) | 3:27 | 2022-04-21 | 2022-07-14 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2022-03-24 | 2022-07-28 |
 | [Based On A True Story \(Feat\. HEIZE\)](https://open.spotify.com/track/0ORoBq47N6JHgFXq52UAtM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:54 | 2022-07-25 | 2022-08-19 |
+| [Be there](https://open.spotify.com/track/5Xo68uezxbznhafOy4Zvii) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Nana](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [Be there](https://open.spotify.com/album/2SivmfiCW0Aez8fVapvvtN) | 3:44 | 2025-02-17 |  |
 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 | 2022-03-24 |  |
 | [Beautiful Mint Life](https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Beautiful Mint Life](https://open.spotify.com/album/01rorj7OHIYYw5cfQzUwIi) | 3:24 | 2022-04-21 | 2022-07-25 |
 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-27 | 2025-01-22 |
@@ -93,7 +94,7 @@
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-10-04 | 2023-10-29 |
 | [It's Gonna Be Okay \(with Jo Young Hyun\)](https://open.spotify.com/track/6hdyxl4KsRGJbZHBLzB48T) | [TKNJ](https://open.spotify.com/artist/6huvFAFxwU9XqklbnG2pGF), [조영현](https://open.spotify.com/artist/1mIpkhGlRDQew9unC6VRXi) | [It's Gonna Be Okay \(with Jo Young Hyun\)](https://open.spotify.com/album/1O3vvv2qEAuCjRpjhC0Gin) | 3:32 | 2022-03-24 | 2022-07-13 |
 | [It's Not That I Don't Love You \(Feat\. 유주\)](https://open.spotify.com/track/2clUTcmw9ePMRKWNqzyu3P) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [SOMMELIER](https://open.spotify.com/album/6v13tMTriZUBd6slBqrJ9w) | 3:03 | 2024-03-28 | 2024-05-03 |
-| [It's You](https://open.spotify.com/track/6nWK2Fz96SbV1l0pCPwKGB) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [It's You](https://open.spotify.com/album/5QkTqTPEkn2JQND4Z0xipM) | 3:32 | 2025-01-21 |  |
+| [It's You](https://open.spotify.com/track/6nWK2Fz96SbV1l0pCPwKGB) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [It's You](https://open.spotify.com/album/5QkTqTPEkn2JQND4Z0xipM) | 3:32 | 2025-01-21 | 2025-02-18 |
 | [IWST \(feat\. Hoody\) \(Prod\. Primary\)](https://open.spotify.com/track/7jLusgqUbcOKTQfCzLR9S3) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [IWST](https://open.spotify.com/album/6NlNKO9PIX6o5diIHspn7X) | 4:08 | 2022-04-21 | 2022-07-22 |
 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-08-30 |  |
 | [Just Good](https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Just Good](https://open.spotify.com/album/0R0SuB559BvKENJYqZelUS) | 2:36 | 2022-03-24 | 2022-07-29 |

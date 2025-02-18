@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,018 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,021 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 74 | [this is the best night of my life!](https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [to you, after 2000 years](https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX) | 1:51 |
 | 75 | [NIRVANA](https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [NIRVANA](https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY) | 3:13 |
 
-Snapshot ID: `Z67PHgAAAACZHSJNehVJNdhIkDqeb/fS`
+Snapshot ID: `Z67PHgAAAAAbu8i0ml0EhsDw0sBTv4vr`

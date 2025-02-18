@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2202,
+  "num_followers": 2201,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/ZAAAAAADTxY4nzcmMR45OjtB34ng/",
+  "snapshot_id": "Z7EqgAAAAACcc5G4MlkRdTU05kTk/ium",
   "tracks": [
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 272413,
-      "name": "When One Eight Becomes Two Zeroes - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3bdJiWDQFunhHDp3JWpyG7"
+      "duration_ms": 249480,
+      "name": "Lovebites and Razorblades - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Lovebites and Razorblades - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl"
+      "duration_ms": 272413,
+      "name": "When One Eight Becomes Two Zeroes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3bdJiWDQFunhHDp3JWpyG7"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mark",
-        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 219133,
-      "name": "El Mark",
-      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
+      "duration_ms": 415613,
+      "name": "Stations of the New Cross",
+      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "El Mark",
+        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Stations of the New Cross",
-      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
+      "duration_ms": 219133,
+      "name": "El Mark",
+      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mark",
-        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 303746,
-      "name": "The Number No Good Things Can Come Of",
-      "url": "https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3"
+      "duration_ms": 322106,
+      "name": "Daytona White",
+      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "El Mark",
+        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 322106,
-      "name": "Daytona White",
-      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
+      "duration_ms": 303746,
+      "name": "The Number No Good Things Can Come Of",
+      "url": "https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mark",
-        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "Oxycodone",
-      "url": "https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Material Control",
         "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 249053,
       "name": "strange hours",
       "url": "https://open.spotify.com/track/1m78OHYCAluDPjCfF5J4r5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mark",
+        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 344560,
+      "name": "Oxycodone",
+      "url": "https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O"
     }
   ],
   "unique_name": "This Is Glassjaw",

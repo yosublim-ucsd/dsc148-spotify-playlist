@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,969 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,968 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 65 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 |
 | 66 | [Under The Mistletoe](https://open.spotify.com/track/529eSxqoHAUFj9RJLcPDTG) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [Under The Mistletoe](https://open.spotify.com/album/5UnhWQflxrR1Gh0gNO7oG8) | 3:16 |
 | 67 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
-| 68 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
-| 69 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
+| 68 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
+| 69 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
 | 70 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 |
 | 71 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 72 | [Soaring Reindeer](https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [Have a Lofi Christmas](https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss) | 2:38 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 78 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 |
 | 79 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 |
 | 80 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/0lXxzjicciDCFup1Dble46) | [Szeptic](https://open.spotify.com/artist/0roFsQ57KfoxEHvIMtTagg) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/3hb6u1Qxf5iUUZpPadRujP) | 2:22 |
-| 81 | [Christmas Wrapping](https://open.spotify.com/track/0HRq0BMJ9mDA5pcJRDfpJo) | [bateeq](https://open.spotify.com/artist/4Cra93myOPSZ2Z4DvgMXW0) | [Christmas Wrapping](https://open.spotify.com/album/6AjyOyDNxcEx59wwv3roaM) | 1:39 |
-| 82 | [Corre Caballito](https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m) | [Jaire Tiraxi](https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs) | [Corre Caballito](https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb) | 2:07 |
+| 81 | [Corre Caballito](https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m) | [Jaire Tiraxi](https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs) | [Corre Caballito](https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb) | 2:07 |
+| 82 | [Christmas Wrapping](https://open.spotify.com/track/0HRq0BMJ9mDA5pcJRDfpJo) | [bateeq](https://open.spotify.com/artist/4Cra93myOPSZ2Z4DvgMXW0) | [Christmas Wrapping](https://open.spotify.com/album/6AjyOyDNxcEx59wwv3roaM) | 1:39 |
 | 83 | [Like It's Christmas](https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp) | [Rödälv](https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l) | [Like It's Christmas](https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO) | 2:37 |
 | 84 | [Christmas Lovin'](https://open.spotify.com/track/0y1oqexLerBf5CNHtXC8pK) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Christmas Lovin'](https://open.spotify.com/album/05Wd2HHfDgzxabecreL1PO) | 2:46 |
 | 85 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 122 | [Frosty the Snowman](https://open.spotify.com/track/5aplSXqxGAsfsplGBaxk0w) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [A Very Lofi Christmas](https://open.spotify.com/album/5VcaJd6u7O07L728tIMtbn) | 1:32 |
 | 123 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
 | 124 | [Ice Town](https://open.spotify.com/track/21xsIpj7Oooy2qp9IHoL1k) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 3:02 |
-| 125 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 |
-| 126 | [drive home 4 xmas](https://open.spotify.com/track/1V5xeOfjiIJFhDbaIBCwgL) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [drive home 4 xmas](https://open.spotify.com/album/4q0qteSRoYw6T4nihpFerF) | 2:00 |
+| 125 | [drive home 4 xmas](https://open.spotify.com/track/1V5xeOfjiIJFhDbaIBCwgL) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [drive home 4 xmas](https://open.spotify.com/album/4q0qteSRoYw6T4nihpFerF) | 2:00 |
+| 126 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 |
 | 127 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/7bp84JD1iNgMKgd0Pjdo6K) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/1PtoLfMtF2rSEogd7y01Y4) | 2:37 |
 | 128 | [Driving Home For Christmas](https://open.spotify.com/track/7mWwxSmE7c48vBi7prMn0t) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Driving Home For Christmas](https://open.spotify.com/album/6XKOjoYnhSCY3WdJYcd19X) | 2:30 |
 | 129 | [From all of us](https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [From all of us](https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10) | 2:11 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 136 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |
 | 137 | [Christmas with the Fam](https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup) | [DonVayei](https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb) | [Christmas with the Fam](https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx) | 2:28 |
 | 138 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
-| 139 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
-| 140 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
+| 139 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
+| 140 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
 | 141 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
 | 142 | [Santa's Delight](https://open.spotify.com/track/2CISlQAxMNLeEvOQqxYUzC) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Santa's Delight](https://open.spotify.com/album/6P8hC3DkP5TDiCM6mq6E3Z) | 2:08 |
 | 143 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr) | 2:39 |

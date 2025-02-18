@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Observando Essa Salada e os funks mais 🔑 do Brasil\. Foto: MC Cebezinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,491,287 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,491,931 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 50 | [Conselho da Minha Ex](https://open.spotify.com/track/4eOZLlPpkrnvm8EmU20IqM) | [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [Conselho da Minha Ex](https://open.spotify.com/album/0FCr0p4rgWqFOGWfTJJ8qw) | 1:47 |
 
-Snapshot ID: `Z6+XsAAAAACci7g8DpeSCB8WcmyK+YUJ`
+Snapshot ID: `Z6+XsAAAAAA15uLq7mKWImH65VLYVy8V`

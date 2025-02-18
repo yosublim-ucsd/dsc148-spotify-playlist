@@ -1,12 +1,12 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 702710,
+  "num_followers": 703235,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWwAAAADl7x3vkQpZOq18Wp5I366h",
+  "snapshot_id": "Z7PBqAAAAAA4/XXzVUMYuQGjdV7ayL9B",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
     },
     {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
       "added_at": "2024-11-11 18:08:23",
       "album": {
         "name": "Supernova Love",
@@ -603,22 +619,6 @@
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2024-08-03 15:31:45",

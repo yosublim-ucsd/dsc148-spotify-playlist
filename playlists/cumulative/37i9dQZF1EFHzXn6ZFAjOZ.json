@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/6EoVgNcbXUI7P4XWMeWfVK"
+      },
+      "artists": [
+        {
+          "name": "Kiera Martin",
+          "url": "https://open.spotify.com/artist/3cnUQjgbuSxzIxASWg2CJZ"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232129,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/1M19Mdxx0zQPe2u150qeTq"
+    },
+    {
+      "album": {
         "name": "2 Loutr - 1 Soul",
         "url": "https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q"
       },

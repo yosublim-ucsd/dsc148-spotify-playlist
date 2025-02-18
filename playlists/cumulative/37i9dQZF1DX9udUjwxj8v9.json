@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "O Carnaval de Beth Carvalho & Martinho Da Vila",
+        "url": "https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B"
+    },
+    {
+      "album": {
         "name": "A M\u00fasica do Olodum",
         "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 263146,
       "name": "O Carnaval Quem \u00c9 Que Faz?",
       "url": "https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b"

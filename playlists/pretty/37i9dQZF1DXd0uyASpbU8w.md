@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV?si=qeIG20LMQbad9ucubMkXSA">PARTYNEXTDOOR</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4?si=NfGoxLlEQPmPsFD\_JomFjA">Drake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,623 likes - 84 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,650 likes - 84 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 43 | [Soundtracks and Heater](https://open.spotify.com/track/56ZRJpnf67zr4Zs2B9aBGk) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Samim](https://open.spotify.com/artist/3iI5B3NF2FdRcRocAKOAPM), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Soundtracks and Heater](https://open.spotify.com/album/1HtwJc4W8OP9YVE9chHzNY) | 3:14 |
 | 44 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 |
 | 45 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [JV](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 |
-| 46 | [Liar Liar](https://open.spotify.com/track/0VgIR2BVYm3JupZuLyjDCW) | [Elestee](https://open.spotify.com/artist/5ylTr7eVdcF9caNweKZvMo) | [Liar Liar](https://open.spotify.com/album/54ViALdvgCDx3DlxMjZEc1) | 2:50 |
+| 46 | [Liar Liar](https://open.spotify.com/track/0VgIR2BVYm3JupZuLyjDCW) | [Elestee](https://open.spotify.com/artist/7nq6WMXNGqv0LdZyCfw2Vd) | [Liar Liar](https://open.spotify.com/album/54ViALdvgCDx3DlxMjZEc1) | 2:50 |
 | 47 | [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 |
 | 48 | [Preference](https://open.spotify.com/track/1P1hInsizxuzxcD1KcIAeE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Preference](https://open.spotify.com/album/2Ogtd0f4802h80TFCfgUiN) | 2:16 |
 | 49 | [Glad You Came](https://open.spotify.com/track/4pV1DlvbaTMPtlFI1zsSPQ) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [Glad You Came](https://open.spotify.com/album/6XlnmrgyOvtnCvk5oh7qFg) | 2:54 |

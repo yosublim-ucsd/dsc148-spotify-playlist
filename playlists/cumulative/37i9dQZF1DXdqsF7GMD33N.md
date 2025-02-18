@@ -4,12 +4,12 @@
 
 > Belt it out\. Cover: Nichelle Lewis in The Wiz
 
-86 songs - 5 hr 33 min
+87 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adelaide's Lament](https://open.spotify.com/track/2IvclMRRfknwnR6wgk5uIn) | [Faith Prince](https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9) | [Guys and Dolls \(New Broadway Cast Recording \(1992\)\)](https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic) | 3:40 | 2023-06-12 |  |
-| [Always Starting Over](https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [If/Then: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Fhp5BdCLeLnUzl069FlJK) | 4:42 | 2023-06-12 |  |
+| [Always Starting Over](https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [If/Then: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Fhp5BdCLeLnUzl069FlJK) | 4:42 | 2023-06-12 | 2025-02-18 |
 | [And I Am Telling You I'm Not Going \- Original Broadway Cast/1982](https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 4:04 | 2023-06-12 |  |
 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Annie \(Original Broadway Cast\)](https://open.spotify.com/artist/3RreZNGP8ixMXsm1iHabA3), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 | 2023-06-12 |  |
 | [Anything Goes](https://open.spotify.com/track/7rYyaxdjbG39yL3ZT1CQ7X) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes \(2011 Broadway Cast Recording\)](https://open.spotify.com/album/2W6W4PeMFlKUhf6lDKiVg0) | 5:48 | 2023-06-12 |  |
@@ -46,6 +46,7 @@
 | [I'm Here](https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:31 | 2023-06-12 | 2024-04-19 |
 | [I'm Here](https://open.spotify.com/track/30q6kWgifW3DwuVydQQX3g) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(2015 Broadway Cast Recording\)](https://open.spotify.com/album/00buc4TyAb8lLoTx4PRDrP) | 4:31 | 2023-06-12 |  |
 | [I'm Not Afraid of Anything](https://open.spotify.com/track/6oUPL56txENpmNqMaPzgqt) | [Andrea Burns](https://open.spotify.com/artist/23OBpHr3yXnMMCu13Fg1Oa) | [Songs for a New World \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/3Kp3aGIQI0MCpep5lhXViz) | 4:37 | 2023-06-12 |  |
+| [If You Want Perfection](https://open.spotify.com/track/40J0xscfT3usxkDrhnCWfH) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), ['Death Becomes Her' Original Broadway Cast](https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc) | [Death Becomes Her \- Broadway Sneak Preview](https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8) | 2:57 | 2025-02-17 |  |
 | [Independently Owned](https://open.spotify.com/track/3iOL9G1ENCSNUw0X6yv5pF) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Original Broadway Cast of Shucked](https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj) | [Independently Owned \| Shucked \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2nbfi3Cu6RUmwB1VvyeE4p) | 2:43 | 2023-06-12 |  |
 | [It All Fades Away](https://open.spotify.com/track/7LLhQMq2KPuFz61V18FKGH) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 4:55 | 2023-06-12 |  |
 | [Kiss Of The Spider Woman](https://open.spotify.com/track/3olvRkd8DUlDlzQeJXsWtR) | [Chita Rivera](https://open.spotify.com/artist/55DHRcQ9oxUu76VNuQz48P) | [Kiss of the Spider Woman \(Original Cast Recording\)](https://open.spotify.com/album/5siyxD2uVjKd2W0rFzt9k0) | 2:32 | 2023-06-12 |  |

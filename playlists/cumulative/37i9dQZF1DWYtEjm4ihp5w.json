@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 90714,
       "name": "19",
       "url": "https://open.spotify.com/track/1dem6jRrgtlc1ryKALrhMb"
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Gharam",
+        "url": "https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Gharam",
+      "url": "https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH"
+    },
+    {
+      "album": {
         "name": "RECTOVERSO",
         "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
       },
@@ -2320,6 +2338,24 @@
       "duration_ms": 218619,
       "name": "Ghi T9al (Et2al)",
       "url": "https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
     },
     {
       "album": {
@@ -6280,6 +6316,28 @@
       "duration_ms": 244800,
       "name": "TRAP ROUMI V5",
       "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
+    },
+    {
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2A7jeOCRQ9xbklAosed2eg"
+      },
+      "artists": [
+        {
+          "name": "HB BOSS",
+          "url": "https://open.spotify.com/artist/75kSwvCfQ095CKfPCd07sj"
+        },
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ"
     },
     {
       "album": {

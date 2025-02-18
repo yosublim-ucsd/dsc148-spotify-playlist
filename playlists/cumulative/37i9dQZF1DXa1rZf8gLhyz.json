@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 172271,
       "name": "A Short Walk",
       "url": "https://open.spotify.com/track/2bunB7RoLa0CXkh774Rhwf"
@@ -1532,6 +1532,24 @@
       "duration_ms": 178992,
       "name": "But of course",
       "url": "https://open.spotify.com/track/3rK5GAVF7TiVeULcgK2Z4w"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf"
     },
     {
       "album": {
@@ -6028,7 +6046,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 222643,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi"
@@ -6478,7 +6496,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 243759,
       "name": "Misty Mornings",
       "url": "https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u"
@@ -7169,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Not Tonight",
+        "url": "https://open.spotify.com/album/4rUxy7EISEPtul2XOKZWIR"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172082,
+      "name": "Not Tonight",
+      "url": "https://open.spotify.com/track/7LAsmwVpgaNGin3DwX9YmF"
+    },
+    {
+      "album": {
         "name": "Noticed Moments",
         "url": "https://open.spotify.com/album/4zrw0vkGLzU1G3xdw49d16"
       },
@@ -7850,6 +7886,24 @@
       "duration_ms": 141500,
       "name": "Poor Butterfly",
       "url": "https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X"
+    },
+    {
+      "album": {
+        "name": "Pradayoo",
+        "url": "https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Flynn",
+          "url": "https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130923,
+      "name": "Pradayoo",
+      "url": "https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd"
     },
     {
       "album": {

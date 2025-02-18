@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1539625,
+  "num_followers": 1539655,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6JqFQAAAABDj8EOtZWOcMjr9xkWok8n",
+  "snapshot_id": "Z7NV6AAAAADcVw0u9icGgjC7A0Z8FxlM",
   "tracks": [
     {
       "added_at": "2025-02-04 19:27:17",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
     },
     {
+      "added_at": "2025-02-17 15:29:44",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
       "added_at": "2025-02-04 19:27:17",
       "album": {
         "name": "Call Me by Your Name (Original Motion Picture Soundtrack)",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2025-02-04 19:27:17",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2025-02-04 19:27:17",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-02-04 19:27:17",
       "album": {
-        "name": "A Carnival of Fears",
-        "url": "https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
       "artists": [
         {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 251184,
-      "name": "Love in the Time of Socialism",
-      "url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk"
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     }
   ],
   "unique_name": "sad girl starter pack",

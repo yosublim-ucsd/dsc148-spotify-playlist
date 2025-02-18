@@ -1,15 +1,15 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 181016,
+  "num_followers": 181140,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LKCgAAAAAQ2MrVg006Nl2pqKSwhZF7",
+  "snapshot_id": "Z7NGOAAAAAB/zX6P2rHqDZTqo+0N4+DJ",
   "tracks": [
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "How You Remind Me",
         "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Don't Stop Believin' (Felix Harrer Remix)",
         "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Captain Jack (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
@@ -89,7 +89,151 @@
       "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Turn The Tide",
+        "url": "https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 179938,
+      "name": "Turn The Tide",
+      "url": "https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Since U Been Gone",
+        "url": "https://open.spotify.com/album/3wyllUxPgkvK5dXCPEmcOh"
+      },
+      "artists": [
+        {
+          "name": "Bassbrain",
+          "url": "https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T"
+        },
+        {
+          "name": "Akyra",
+          "url": "https://open.spotify.com/artist/1tHY1h4B9Fv25PrJPmfqlx"
+        }
+      ],
+      "duration_ms": 238451,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/1YmEhpTsO9EyTizN2lGvw1"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5ADhBaElYoDGhF99ZZKJ6v"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        },
+        {
+          "name": "Mary Lena",
+          "url": "https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf"
+        }
+      ],
+      "duration_ms": 227612,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Boulevard Of Broken Dreams",
+        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Boulevard Of Broken Dreams",
+      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "ZAAG IN PARIS",
+        "url": "https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "ZAAG IN PARIS",
+      "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Ik Ga Harder (feat. Jayh)",
         "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
@@ -117,147 +261,23 @@
       "url": "https://open.spotify.com/track/4PN7bjVOqDqztpBkfIXdOK"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/1SuYsP4BDxisXED6OcE9zG"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         }
       ],
-      "duration_ms": 249612,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5dIu4QcXgvZWttv3YPqXSd"
+      "duration_ms": 153000,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5ADhBaElYoDGhF99ZZKJ6v"
-      },
-      "artists": [
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "BassWar & CaoX",
-          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
-        },
-        {
-          "name": "Mary Lena",
-          "url": "https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf"
-        }
-      ],
-      "duration_ms": 227612,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Boulevard Of Broken Dreams",
-        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Boulevard Of Broken Dreams",
-      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "ZAAG IN PARIS",
-        "url": "https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "ZAAG IN PARIS",
-      "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Turn The Tide",
-        "url": "https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2"
-      },
-      "artists": [
-        {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 179938,
-      "name": "Turn The Tide",
-      "url": "https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Weekend!",
         "url": "https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Fire to the Rain Hardstyle",
         "url": "https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "All the Things She Said 2020 (Sub Sonik Remix)",
         "url": "https://open.spotify.com/album/3jq4Nwfz3kIAK1N2bfbRnz"
@@ -313,27 +333,7 @@
       "url": "https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "From The Islands",
-        "url": "https://open.spotify.com/album/4vSSQedIMRm8kAp3nehI8o"
-      },
-      "artists": [
-        {
-          "name": "Strixter",
-          "url": "https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8"
-        },
-        {
-          "name": "D-Venn",
-          "url": "https://open.spotify.com/artist/1xCUPZ21YGSggO8uHPuwvo"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "From The Islands",
-      "url": "https://open.spotify.com/track/2MFAT2hK0Ebz6dxkIRwItX"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
@@ -357,7 +357,23 @@
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/1SuYsP4BDxisXED6OcE9zG"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 249612,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5dIu4QcXgvZWttv3YPqXSd"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Firework",
         "url": "https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Sweater Weather",
         "url": "https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Around the World (La la La)",
         "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Can Can (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Creep (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "The Scientist",
         "url": "https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Safe And Sound (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0tASxnZIV7PdRnUjZUe3ff"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/7nUXc7HC11XCw4zFWHlP3o"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "L'Amour Toujours (Hardstyle Version)",
         "url": "https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Bloody Mary",
         "url": "https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "The Nights (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Lambada (Your Love)",
         "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Don't Let Me Down (Hardwell & Sephyx Remix)",
         "url": "https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "PartyRockerz II",
         "url": "https://open.spotify.com/album/1wfMgS379opKuvdiAdu1k6"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/7bcX5omVxfsu3XTtjw1Ge7"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Daddy DJ",
         "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "S&M (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0zwZA275sXncQ4rqUgQ4Y1"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/2cMwo7ZajYAd0NxNire01U"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
@@ -869,7 +885,23 @@
       "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Epic Sax Song",
+        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "Epic Sax Song",
+      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Komodo",
         "url": "https://open.spotify.com/album/1zQWf3pHPl3SdCk9Au5j7h"
@@ -889,23 +921,7 @@
       "url": "https://open.spotify.com/track/0sVmC0B9NlbH0NoFYIJ4Zy"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Epic Sax Song",
-        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
-      },
-      "artists": [
-        {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "Epic Sax Song",
-      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Irgendwie, irgendwo, irgendwann (HBz Remix)",
         "url": "https://open.spotify.com/album/6IV38M4yff4Krj5RfQmbdX"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/1tJHTEI5v9R4BdnfhWYLDe"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Sweet But Psycho",
         "url": "https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Alone, Pt. II (Remixes)",
         "url": "https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X"
@@ -969,7 +985,27 @@
       "url": "https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "I'm Good (Blue) [Hardstyle Remix]",
+        "url": "https://open.spotify.com/album/6ve23uImjwV76ljprYJHSZ"
+      },
+      "artists": [
+        {
+          "name": "Kratos",
+          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
+        },
+        {
+          "name": "Hardstyle Gym Bro",
+          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "I'm Good (Blue) - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/5YQoeliHU9Iz2La6pgsL9X"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Locked Out Of Heaven (Hardstyle) - Sped Up",
         "url": "https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn"
@@ -993,27 +1029,7 @@
       "url": "https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "I'm Good (Blue) [Hardstyle Remix]",
-        "url": "https://open.spotify.com/album/6ve23uImjwV76ljprYJHSZ"
-      },
-      "artists": [
-        {
-          "name": "Kratos",
-          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
-        },
-        {
-          "name": "Hardstyle Gym Bro",
-          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "I'm Good (Blue) - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/5YQoeliHU9Iz2La6pgsL9X"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ"
@@ -1029,23 +1045,7 @@
       "url": "https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/3aZUmUxAXTcdKTUQhilczM"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 162483,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/0wNENVsFlm4YtUmbbPNd6W"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Boyz In Paris (with VINAI) (Coone Remix)",
         "url": "https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm"
@@ -1073,7 +1073,23 @@
       "url": "https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Axel F",
+        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "duration_ms": 193704,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
@@ -1093,23 +1109,7 @@
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Axel F",
-        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        }
-      ],
-      "duration_ms": 193704,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "LOVE DON'T LET ME GO",
         "url": "https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
@@ -1145,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Turn The Tide Revisited",
         "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
         "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Cry For You",
         "url": "https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Boom, Boom, Boom, Boom!!",
         "url": "https://open.spotify.com/album/7d352aixPubgdC24Loodkb"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/3le8U4X1TublQ5I1kmLgZk"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Oh Fortuna",
         "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
@@ -1269,23 +1269,7 @@
       "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
-      "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
-    },
-    {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Be My Lover",
         "url": "https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB"
@@ -1301,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
@@ -1321,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "I Like the Way You Kiss Me (Techno X Hardstyle)",
         "url": "https://open.spotify.com/album/3yijWMf45W65l7FyPnMhLc"
@@ -1345,7 +1329,7 @@
       "url": "https://open.spotify.com/track/42NexVyBtwDPPFZi1hF6Pj"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "BELIEVE",
         "url": "https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv"
@@ -1365,7 +1349,7 @@
       "url": "https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Europapa: Greatest Hits",
         "url": "https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx"
@@ -1385,7 +1369,7 @@
       "url": "https://open.spotify.com/track/0dSXcpeqmi6Wdq6bZWcuGC"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "I Follow Rivers (Deep Sea Baby)",
         "url": "https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL"
@@ -1409,7 +1393,7 @@
       "url": "https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O"
     },
     {
-      "added_at": "2025-01-23 23:00:26",
+      "added_at": "2025-02-17 14:22:48",
       "album": {
         "name": "Arabian Nights",
         "url": "https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX"
@@ -1427,6 +1411,26 @@
       "duration_ms": 197013,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t"
+    },
+    {
+      "added_at": "2025-02-17 14:22:48",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
     }
   ],
   "unique_name": "Hardstyle Remixes of Popular Songs",

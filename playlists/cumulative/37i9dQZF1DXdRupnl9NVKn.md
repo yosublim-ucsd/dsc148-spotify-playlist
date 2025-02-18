@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-135 songs - 7 hr 9 min
+136 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-17 | 2024-04-19 |
 | [Queencard](https://open.spotify.com/track/68r87x3VZdAMhv8nBVuynz) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 2:41 | 2024-04-05 |  |
 | [Quit](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 3:09 | 2022-05-22 |  |
+| [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 | 2025-02-17 |  |
 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 | 2022-07-04 | 2024-04-19 |
 | [Reset](https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE) | 3:02 | 2024-04-05 |  |
 | [Reset](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:02 | 2022-10-17 | 2024-04-19 |

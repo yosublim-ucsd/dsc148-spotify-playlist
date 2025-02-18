@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 39047,
+  "num_followers": 39056,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -127,8 +127,8 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -247,8 +247,8 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
         "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 204000,
       "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
       "artists": [
         {
-          "name": "Jim Sullivan",
-          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
+      "duration_ms": 217260,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Jim Sullivan",
+          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
         }
       ],
-      "duration_ms": 217260,
-      "name": "Why\u2019d Ya Do It",
-      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
+      "duration_ms": 171053,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
     },
     {
       "added_at": "2024-08-23 04:00:00",

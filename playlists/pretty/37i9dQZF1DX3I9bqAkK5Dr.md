@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,019 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,017 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TSUNAMI](https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [TSUNAMI](https://open.spotify.com/album/4ySQiIqxkmw0VOIbKL0rhS) | 2:54 |
-| 2 | [YOU ARE MINE](https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [YOU ARE MINE](https://open.spotify.com/album/0u1XYaLu8j9hpkKJLiVyxX) | 3:12 |
+| 2 | [My Love \- Telugu](https://open.spotify.com/track/6IvRfKpHwofYcb3378pxMU) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s) | [My Love \(Telugu\)](https://open.spotify.com/album/0m0GKbuc0o7MJbBuuwiaCt) | 4:30 |
 | 3 | [Nee Andamaina Madhi](https://open.spotify.com/track/4aknSFeZ47FevS9ehHnU9Y) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Nee Andamaina Madhi](https://open.spotify.com/album/0SQZ0QqKuKvbESmcAUlO76) | 4:29 |
 | 4 | [Oh Sakhi](https://open.spotify.com/track/4zBxM2CjIj8TjrLB9jySZe) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Oh Sakhi](https://open.spotify.com/album/7N3CCQY0tsJH7GPU4e3o5K) | 3:40 |
 | 5 | [Kannamma](https://open.spotify.com/track/0OpuQnJLRdsLoOO99DkXhV) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Kannamma](https://open.spotify.com/album/7LG1TvZYp9aYEYHB6QgPrd) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 |
 | 75 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 |
 
-Snapshot ID: `Z6804AAAAABb67kV9/rYsaYP9fQFXW4n`
+Snapshot ID: `Z7MtGQAAAADSJGceS2sKA7toYPrxyUx2`

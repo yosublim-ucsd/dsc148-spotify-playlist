@@ -26951,6 +26951,24 @@
     },
     {
       "album": {
+        "name": "Soft Mountain Light",
+        "url": "https://open.spotify.com/album/4h4WrOf8i4cXkqeJWDkV7i"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60441,
+      "name": "Soft Mountain Light",
+      "url": "https://open.spotify.com/track/2KvwpGNznjpgJc5QXEpulF"
+    },
+    {
+      "album": {
         "name": "Soaring",
         "url": "https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI"
       },

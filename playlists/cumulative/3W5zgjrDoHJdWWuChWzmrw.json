@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "The Destruction of the Kola Superdeep Borehole Tower",
+      "url": "https://open.spotify.com/track/5zDPBXHtBjQFuY7Nwt5Ak5"
+    },
+    {
+      "album": {
         "name": "Weapon Of Prayer",
         "url": "https://open.spotify.com/album/70tilmCcAaO0arXKlKrLBF"
       },

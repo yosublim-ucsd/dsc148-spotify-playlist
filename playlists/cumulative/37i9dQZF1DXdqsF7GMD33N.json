@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 282586,
       "name": "Always Starting Over",
       "url": "https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH"
@@ -810,6 +810,28 @@
       "duration_ms": 277626,
       "name": "I'm Not Afraid of Anything",
       "url": "https://open.spotify.com/track/6oUPL56txENpmNqMaPzgqt"
+    },
+    {
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177589,
+      "name": "If You Want Perfection",
+      "url": "https://open.spotify.com/track/40J0xscfT3usxkDrhnCWfH"
     },
     {
       "album": {

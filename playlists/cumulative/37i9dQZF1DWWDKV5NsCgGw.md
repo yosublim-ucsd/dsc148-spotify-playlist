@@ -2,9 +2,9 @@
 
 ### [The White Lotus Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWDKV5NsCgGw)
 
-> La dolce playlist! Listen to all the music from The White Lotus, <br/>now streaming on Max.
+> Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on HBO Max.
 
-95 songs - 3 hr 56 min
+100 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Decadence](https://open.spotify.com/track/1W8xp7ZsPyLqP4AALeDWsP) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 2:02 | 2023-02-17 |  |
 | [Dinner](https://open.spotify.com/track/5YUjfXvoEwrBI9NrXXX3Kl) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 3:57 | 2023-02-17 |  |
 | [Drugs](https://open.spotify.com/track/42ZGYnciBAgO7hqCGKJMsG) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:08 | 2023-02-17 |  |
+| [Enlightenment \(Main Title Theme\) \- from "The White Lotus: Season 3"](https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Enlightenment \(Main Title Theme\) \[from "The White Lotus: Season 3"\]](https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY) | 1:46 | 2025-02-17 |  |
 | [Figli Delle Stelle \- Remastered 2017](https://open.spotify.com/track/4wECg73vCUg8N5RE8jXmEP) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle](https://open.spotify.com/album/6ojyOCzVzawnKXpdJl7Jan) | 4:36 | 2023-02-17 |  |
 | [Finally Jesus!](https://open.spotify.com/track/2zpao5jBHJvWtnd8pson0i) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 4:46 | 2023-02-17 |  |
 | [Fuck This Place!](https://open.spotify.com/track/4FZfkPiXwEYXPqDEXxsUHM) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 2:25 | 2023-02-17 |  |
@@ -62,6 +63,7 @@
 | [Lucia & Valentina](https://open.spotify.com/track/3wQWKP5u1C5aE97e7pTO8X) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:14 | 2023-02-17 |  |
 | [Mahalo](https://open.spotify.com/track/4kOak5RQubf2574WjZOJnd) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:05 | 2023-02-17 |  |
 | [Manchild](https://open.spotify.com/track/2gOxfIX9ew8476rOFa234D) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 2:13 | 2023-02-17 |  |
+| [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2025-02-17 |  |
 | [Meds](https://open.spotify.com/track/6a5FqmAoPH5ZjKddd19GVw) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:52 | 2023-02-17 |  |
 | [Ninna Nanna](https://open.spotify.com/track/7rkyR63fTB9oicQDMO74Up) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A) | [Splendor in the Grass](https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF) | 4:42 | 2023-02-17 |  |
 | [Ocean Call](https://open.spotify.com/track/4KNpWSyNaFUwoefmJj7qEL) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:07 | 2023-02-17 |  |
@@ -72,6 +74,7 @@
 | [Piano Forte](https://open.spotify.com/track/1QwbJjAPDmd3QWAd7OIpF0) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:48 | 2023-02-17 |  |
 | [Piano Oscuro](https://open.spotify.com/track/0QE3lvkDq6SWekaibSEZlV) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:50 | 2023-02-17 |  |
 | [Piccolo piccolo](https://open.spotify.com/track/74zSpmg9Y4kRYcX3vxKRLd) | [Robertino](https://open.spotify.com/artist/1zB6QrCTm5gvZG5ZsYgSfy) | [Robertino Top Songs](https://open.spotify.com/album/5sE9AgCpcXyzPxzi7F4Sm3) | 2:33 | 2023-02-17 |  |
+| [Pimjai Lam Plearn](https://open.spotify.com/track/2aNYUdDZpSDoxtE2lQTFM0) | [The Paradise Bangkok Molam International Band](https://open.spotify.com/artist/1cBpduQulXQHJaj9m0RYS8) | [Araya Lam](https://open.spotify.com/album/6bLisJtpu2YaFXWr07g0m2) | 3:17 | 2025-02-17 |  |
 | [Pineapple Suite](https://open.spotify.com/track/4pslwLGsiXcRBc4jLyT0KE) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 2:37 | 2023-02-17 |  |
 | [Pool Walk](https://open.spotify.com/track/4GxoY1mXROh4OYXMi8ruR5) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:14 | 2023-02-17 |  |
 | [Preghiera in Gennaio](https://open.spotify.com/track/1Hd9I5eGPhOzc4M6C0pgME) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 3:31 | 2023-02-17 |  |
@@ -103,5 +106,7 @@
 | [Welcome to America](https://open.spotify.com/track/2qvvGKce6P7bOqjdhm1rd1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:00 | 2023-02-17 |  |
 | [What's Gonna Happen to Us?](https://open.spotify.com/track/7dKzfKQKBo2WpzLmpn1Zyx) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:05 | 2023-02-17 |  |
 | [Wtf!](https://open.spotify.com/track/4YNWupot2LrDYPYMCuaTnP) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 0:34 | 2023-02-17 |  |
+| [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 | 2025-02-17 |  |
+| [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9), [Center Stage](https://open.spotify.com/artist/7GwkvEAAgD9ve3k9BQgaZM) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

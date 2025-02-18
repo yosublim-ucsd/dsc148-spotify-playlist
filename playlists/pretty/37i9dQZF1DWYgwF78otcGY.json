@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29805,
+  "num_followers": 29813,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Run To The Hills",
         "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 175522,
       "name": "Run To The Hills",
       "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Bada Nakna",
         "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 191047,
       "name": "Bada nakna",
       "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "I Do Me",
         "url": "https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 163263,
       "name": "I Do Me",
       "url": "https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Disco Defenders",
         "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 181680,
       "name": "Blame It On The Disco",
       "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
-        "name": "Kizunguzungu",
-        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
-      },
-      "artists": [
-        {
-          "name": "SaRaha",
-          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Kizunguzungu",
-      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -663,6 +647,22 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
+        "name": "Kizunguzungu",
+        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
+      },
+      "artists": [
+        {
+          "name": "SaRaha",
+          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Kizunguzungu",
+      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
         "name": "H\u00f6gt \u00f6ver havet",
         "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Mera mera mera",
         "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 178168,
       "name": "Mera mera mera",
       "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "X My Heart",
-        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansen",
-          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
-        },
-        {
-          "name": "Pernilla Wahlgren",
-          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Let Your Spirit Fly",
-      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -847,18 +827,38 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+        "name": "A State Of Mind",
+        "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
         }
       ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+      "duration_ms": 174986,
+      "name": "Baby Goodbye",
+      "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "X My Heart",
+        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansen",
+          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
+        },
+        {
+          "name": "Pernilla Wahlgren",
+          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Let Your Spirit Fly",
+      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
     }
   ],
   "unique_name": "Mellofest! ",

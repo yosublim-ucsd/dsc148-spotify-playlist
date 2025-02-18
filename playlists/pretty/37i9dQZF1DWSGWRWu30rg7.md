@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Prazteguh, Ayiqorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,714 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,713 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 17 | [Jika](https://open.spotify.com/track/1IQDqIY9BJd3VfOKcXLJep) | [The Snacks](https://open.spotify.com/artist/537gDy0k0tk0JjVzxktaBk) | [Local Files](https://open.spotify.com/album/6DXdX2aS0OO3tQSVPq5CME) | 4:58 |
 | 18 | [Through Shadows and Light](https://open.spotify.com/track/0LLFDtRIE3DGHBQcfSlGTJ) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [To Whom It May Concern](https://open.spotify.com/album/43RApNG1i4sd4WrqzkApxh) | 6:01 |
 | 19 | [Woyoo](https://open.spotify.com/track/6k1nzQtpK5KrlU1ajzEdfs) | [By\-A Febby](https://open.spotify.com/artist/4LmLxGkimRNwGdxGM0TgLO), [Prasbamba](https://open.spotify.com/artist/0dTleaYiLVp4HqYv4X6Hje) | [Woyoo](https://open.spotify.com/album/4M3l0sipYQcs38ADAcTXUA) | 3:51 |
-| 20 | [Cokelat Strowberi](https://open.spotify.com/track/13in96ZjRzlDkOVHPWBxOS) | [Nadine Abigail](https://open.spotify.com/artist/55n1C8w2fMmIxHWRgM6oE7) | [Addicting](https://open.spotify.com/album/6OF3521ttIuQ9APfQ49EwA) | 4:00 |
+| 20 | [Cokelat Stroberi](https://open.spotify.com/track/13in96ZjRzlDkOVHPWBxOS) | [Nadine Abigail](https://open.spotify.com/artist/55n1C8w2fMmIxHWRgM6oE7) | [Addicting](https://open.spotify.com/album/6OF3521ttIuQ9APfQ49EwA) | 4:00 |
 | 21 | [Every Night](https://open.spotify.com/track/4JlkT1d7033DNhBfQG4xNA) | [HVZH](https://open.spotify.com/artist/6QjnlW6g4gtm5CBA5P9TvG) | [Every Night](https://open.spotify.com/album/4nmkGzmeIqqhzAYGU3FH3z) | 3:52 |
 | 22 | [Segala Rasa](https://open.spotify.com/track/4spkAGRZRDPilzV4DI7PHh) | [Hydavi](https://open.spotify.com/artist/4vougoBDLc0kIAFBmlCB6c) | [Narasi Hati](https://open.spotify.com/album/0kjlLqHDIvw34bw5jum5Q9) | 5:24 |
 | 23 | [I Give U My Heart](https://open.spotify.com/track/0mLDjFKRfaRUpe8DtJSWRp) | [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [I Give U My Heart](https://open.spotify.com/album/03aPkFiGs8OlDuLV1G7jOO) | 4:10 |

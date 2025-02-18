@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 238250,
+  "num_followers": 238301,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 210549,
-      "name": "We Lost The Summer",
-      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "KARD 1st Mini Album 'Hola Hola'",
-        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "Hola Hola",
-      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 186573,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
+        "name": "KARD 1st Mini Album 'Hola Hola'",
+        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "Rewrite",
-        "url": "https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid"
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
       "artists": [
         {
-          "name": "Yerin",
-          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 173666,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/1Bk4mFK1shZUoHfYJMwqWp"
+      "duration_ms": 196866,
+      "name": "Love & hate (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

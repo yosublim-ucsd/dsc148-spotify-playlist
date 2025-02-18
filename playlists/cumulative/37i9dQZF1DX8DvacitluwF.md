@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Your Valentine's Day mood, curated by Rickelle and <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=Tu7SelC\_Q4Spai2nsDG2og">A\-Reece</a> 💘
+> Your Valentine's mood, curated by Rickelle and <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=Tu7SelC\_Q4Spai2nsDG2og">A\-Reece</a> 💘
 
 455 songs - 1 day 0 hr 28 min
 

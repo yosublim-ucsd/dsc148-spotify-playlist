@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 88953,
+  "num_followers": 88950,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "2:30AM",
-        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
+        "name": "The Jam",
+        "url": "https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Stylistic Murder",
+          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
+        },
+        {
+          "name": "Cam One",
+          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
         }
       ],
-      "duration_ms": 182937,
-      "name": "2:30AM",
-      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
+      "duration_ms": 159069,
+      "name": "The Jam",
+      "url": "https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "The Jam",
-        "url": "https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F"
+        "name": "2:30AM",
+        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
       },
       "artists": [
         {
-          "name": "Stylistic Murder",
-          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
-        },
-        {
-          "name": "Cam One",
-          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 159069,
-      "name": "The Jam",
-      "url": "https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0"
+      "duration_ms": 182937,
+      "name": "2:30AM",
+      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
     },
     {
       "added_at": "2024-11-22 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 63147,
+  "num_followers": 63158,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/ZAAAAAAB8wJ4MfP19pLbLPw8y9EXX",
+  "snapshot_id": "Z7EqgAAAAAAteyWrWpmTFYBSrxCyOlwe",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
+      "duration_ms": 158080,
+      "name": "El viejo joven",
+      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 158080,
-      "name": "El viejo joven",
-      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Recu\u00e9rdame y ven",
-      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Est\u00e1s Seleccionada",
         "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 176093,
       "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
       "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Recu\u00e9rdame y ven",
+      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Vivir sin ella",
-      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabra de machos",
         "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174493,
       "name": "Esta tristeza m\u00eda",
       "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "El biling\u00fce",
-      "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
         "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 189266,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "El biling\u00fce",
+      "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
     },
     {
       "added_at": null,

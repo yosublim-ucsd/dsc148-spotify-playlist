@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-342 songs - 20 hr 34 min
+343 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Mounam](https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K), [Akshita Manthina](https://open.spotify.com/artist/1GEqfOP0cVdwqoqJWYOXdq) | [Mounam](https://open.spotify.com/album/3Swoe45Oou7qyXqBL2xVRC) | 4:22 | 2024-01-29 | 2025-02-14 |
 | [Mounam](https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:40 | 2022-07-18 | 2023-05-27 |
 | [My Dear Manohari](https://open.spotify.com/track/7Dh6ndqN64dZFRYGuBvo82) | [P.L Naidu](https://open.spotify.com/artist/00bXZCUqYETc603nuULtBK) | [My Dear Manohari](https://open.spotify.com/album/51n5LmZmLI0aNEK4P1Yiax) | 4:00 | 2024-02-14 |  |
+| [My Love \- Telugu](https://open.spotify.com/track/6IvRfKpHwofYcb3378pxMU) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s) | [My Love \(Telugu\)](https://open.spotify.com/album/0m0GKbuc0o7MJbBuuwiaCt) | 4:30 | 2025-02-17 |  |
 | [Myra](https://open.spotify.com/track/6cTmSsKgWdcYOGRMdBF2hF) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Myra](https://open.spotify.com/album/2t1lor0NlAVEmiWKZSWtpS) | 4:21 | 2023-02-16 | 2023-08-30 |
 | [Na Hrudayama \- Female Version](https://open.spotify.com/track/78Glb2SX7qBYxssJcFb43J) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Ravi Raghunandan](https://open.spotify.com/artist/5ArNYvz9r6cBUYOiZHMlOK) | [Na Hrudayama \(Female Version\)](https://open.spotify.com/album/2zb4W4BOPE9nyQ873J4szp) | 3:49 | 2024-03-01 |  |
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 | 2025-01-07 |
@@ -349,6 +350,6 @@
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-07-18 | 2023-05-23 |
 | [Yenduko Manasu](https://open.spotify.com/track/0GDSYW0LaOvYZvsAGGLMDv) | [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Muralidhar Gidijala](https://open.spotify.com/artist/6lddttOlEDnsODN9Wo2e2R) | [Yenduko Manasu](https://open.spotify.com/album/5umJOE9WhS2PxPkv2iljb9) | 3:06 | 2023-01-24 | 2023-09-28 |
 | [Yevaro \- Tune In For Love](https://open.spotify.com/track/19mpCjxB2QVnD9UPbMBRGh) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Yevaro \- Tune In For Love](https://open.spotify.com/album/4LPlNuelafPwQ6Ut6ux86S) | 3:31 | 2023-06-27 | 2023-07-25 |
-| [YOU ARE MINE](https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [YOU ARE MINE](https://open.spotify.com/album/0u1XYaLu8j9hpkKJLiVyxX) | 3:12 | 2024-10-03 |  |
+| [YOU ARE MINE](https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [YOU ARE MINE](https://open.spotify.com/album/0u1XYaLu8j9hpkKJLiVyxX) | 3:12 | 2024-10-03 | 2025-02-18 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

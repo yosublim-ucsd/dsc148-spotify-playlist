@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,989 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,993 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [ON](https://open.spotify.com/track/0VyK2oBDqDuZXKRn3vUkT6) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Orbit](https://open.spotify.com/album/5Y95h3smPs2ihUnfe06Mi5) | 3:18 |
 | 50 | [F\(U\)NTASY](https://open.spotify.com/track/4TyFSxkPs4qo1lC3FWgoYH) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [F\(U\)NTASY](https://open.spotify.com/album/2l85ehw9edLu9cCowynHW0) | 4:25 |
 
-Snapshot ID: `Z6tl9wAAAAAaGH/c/sdy9pVfWLgr9MFa`
+Snapshot ID: `Z6tl9wAAAADQxk12BaOuo0P+nCGy63rs`

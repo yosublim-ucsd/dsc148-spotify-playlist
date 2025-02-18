@@ -275,6 +275,36 @@
     },
     {
       "album": {
+        "name": "Adiye Paduthadha",
+        "url": "https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Adiye Paduthadha",
+      "url": "https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj"
+    },
+    {
+      "album": {
         "name": "Agaladhu",
         "url": "https://open.spotify.com/album/25NIqVyEhp9CtoTR6iozCU"
       },
@@ -504,7 +534,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 289615,
       "name": "Ammadi Azhagula",
       "url": "https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i"
@@ -552,7 +582,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 187415,
       "name": "Anbin Azhagu",
       "url": "https://open.spotify.com/track/72ttQFiuJtopcOxwkiCluA"
@@ -1596,7 +1626,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 220798,
       "name": "Dhinam Dhinam",
       "url": "https://open.spotify.com/track/6bAoPoRDEqOz2EuE66bMAw"
@@ -4160,6 +4190,32 @@
       "duration_ms": 268361,
       "name": "Kobama",
       "url": "https://open.spotify.com/track/1sJ5KxFAHrHIIPLa5rCqDV"
+    },
+    {
+      "album": {
+        "name": "Kolgai",
+        "url": "https://open.spotify.com/album/6cK1DFzQhlHo1ljifpQS1k"
+      },
+      "artists": [
+        {
+          "name": "abhiraman",
+          "url": "https://open.spotify.com/artist/4Pb98qT9JyD9JoyqOa1P0i"
+        },
+        {
+          "name": "Amita",
+          "url": "https://open.spotify.com/artist/4co2MtdGrIPhs6lAF4ga54"
+        },
+        {
+          "name": "Shafi Ali",
+          "url": "https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Kolgai",
+      "url": "https://open.spotify.com/track/2ddgHxxDt9Az2sKRdADK6P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> ASH ISLAND\)
 
-1,454 songs - 3 day 7 hr 3 min
+1,455 songs - 3 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Hacuna girl](https://open.spotify.com/track/4gE6t1R2kJW7LKU2ZvkiAA) | [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Hacuna girl](https://open.spotify.com/album/3zLBJZ3T2rEzCRgs53V5L2) | 2:16 | 2024-06-27 | 2024-10-15 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-21 | 2024-03-21 |
 | [Hail](https://open.spotify.com/track/30KUBppub5Oni4WkIdy52D) | [Mac Kidd](https://open.spotify.com/artist/3uezMpoFc84nQ6qU2mliqr), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Boy Wonder](https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F) | [TrapBox 2 pt.1](https://open.spotify.com/album/0bbe4Jwlv2IaI8i25oVFKX) | 3:13 | 2022-03-31 | 2022-04-21 |
+| [Hair loss](https://open.spotify.com/track/61Yodrl2e5PrqjJiOK5P8k) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [2.5 VIBES](https://open.spotify.com/album/6kr9NaXZT958E6q6CsTpN1) | 2:31 | 2025-02-17 |  |
 | [Hair Style \(feat\. DON MALIK & Hannah\)](https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH) | [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [CHAPTER 1](https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU) | 3:23 | 2022-06-20 | 2022-08-13 |
 | [HAKA \(Prod\. Wiz World\)](https://open.spotify.com/track/1PDjnLmB01bPGmavXyTATc) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Monthly AP \- October, 2024](https://open.spotify.com/album/4rf6pi0KQklUwlmybIt5FC) | 2:35 | 2024-10-27 | 2025-01-25 |
 | [Halfway Off The Rooftop](https://open.spotify.com/track/5o4GG796hk2wmdHdfEHh1j) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:49 | 2022-01-04 | 2022-07-05 |

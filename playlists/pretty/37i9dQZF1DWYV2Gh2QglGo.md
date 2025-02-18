@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,180 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,202 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Coast to Coast](https://open.spotify.com/track/18fqq295kEELwCmgky7y9a) | [Tyson Ray Borsboom](https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC) | [Coast to Coast](https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh) | 3:58 |
 | 50 | [Good Man](https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Good Man](https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh) | 3:24 |
 
-Snapshot ID: `Z67N3AAAAABNJQyN6oJIHW5aaSlzT9DU`
+Snapshot ID: `Z67N3AAAAACUxlPiRK9LINq1+zisgkMY`

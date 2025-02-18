@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 225000,
       "name": "Ik Baat Kahoon - From \"The Sabarmati Report\"",
       "url": "https://open.spotify.com/track/1tG0yOgP9Cr52ZJZaWzWJM"
@@ -3128,6 +3128,36 @@
       "duration_ms": 55321,
       "name": "Tere Vaaste - Unplugged",
       "url": "https://open.spotify.com/track/0mCStjzY19ZfiG62IEATmk"
+    },
+    {
+      "album": {
+        "name": "Chhaava (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Seeta Qasemie",
+          "url": "https://open.spotify.com/artist/7xt94tFU9c8NgnJrTu4UVJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185909,
+      "name": "Teri Chaahat (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/1By5OBVJcuvs5NncDZPwRM"
     },
     {
       "album": {

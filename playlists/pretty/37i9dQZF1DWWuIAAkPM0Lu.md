@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 💋 <a href="spotify:artist:74KM79TiuVKeVCqs8QtB0B">Sabrina Carpenter</a> 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,842 likes - 108 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,840 likes - 108 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 12 | [Fire](https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/6B7J2anabeL3P2kKK6UsOJ) | 3:45 |
 | 13 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 |
 | 14 | [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 |
-| 15 | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/track/2xe4Zk82EJMOjonx4U5jEp) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx) | 2:08 |
+| 15 | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/track/2xe4Zk82EJMOjonx4U5jEp) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx) | 2:08 |
 | 16 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |
 | 17 | [Omvendt](https://open.spotify.com/track/0cG5XLcf2iOSs5umvP50up) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Omvendt](https://open.spotify.com/album/461Llvbq3xWkbQYS0gQ198) | 2:59 |
 | 18 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |

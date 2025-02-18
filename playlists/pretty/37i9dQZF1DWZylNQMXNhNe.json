@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 222402,
+  "num_followers": 222393,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "MAR\u00c9",
-        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "MAR\u00c9",
-      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 143333,
       "name": "18 dias / 13 cm",
       "url": "https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "MAR\u00c9",
+        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 168650,
+      "name": "MAR\u00c9",
+      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Vampira (Remix)",
-        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Vampira - Remix",
-      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "N\u00e3o Me Atende",
         "url": "https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9"
       },
@@ -955,22 +935,22 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "FREV\u00c1LIA",
-        "url": "https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz"
+        "name": "Vampira (Remix)",
+        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
       },
       "artists": [
         {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         },
         {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 224865,
-      "name": "Em Plena Lua De Mel",
-      "url": "https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO"
+      "duration_ms": 178848,
+      "name": "Vampira - Remix",
+      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -995,6 +975,26 @@
       "duration_ms": 157500,
       "name": "1+1 \u00c9 Pouco",
       "url": "https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "FREV\u00c1LIA",
+        "url": "https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 224865,
+      "name": "Em Plena Lua De Mel",
+      "url": "https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO"
     },
     {
       "added_at": "2024-10-08 13:46:40",

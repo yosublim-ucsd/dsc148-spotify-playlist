@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 480 songs - 1 day 6 hr 8 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 488 songs - 1 day 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -488,5 +488,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 478 | [Waiting for the 7.18](https://open.spotify.com/track/16clYJA4LJME2u29OhGADh) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:15 |
 | 479 | [The Prayer](https://open.spotify.com/track/0TRMfz6PF3yIlYOnEPkRdZ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:45 |
 | 480 | [Uniform](https://open.spotify.com/track/4vGs2hygrUjBn1zsIC8Hd0) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 5:31 |
+| 481 | [On](https://open.spotify.com/track/0PTedhVN7NLBjDrmkT9Wrd) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:46 |
+| 482 | [Where Is Home?](https://open.spotify.com/track/595Bm58GeJ9MUEGxTciTka) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:53 |
+| 483 | [Kreuzberg](https://open.spotify.com/track/4crmHggsvlvIAaelNV4ueK) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 5:25 |
+| 484 | [I Still Remember](https://open.spotify.com/track/4pN5iBtBAjDzxtXum40oNj) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:21 |
+| 485 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 |
+| 486 | [Sunday](https://open.spotify.com/track/5hrh111RWfkWtx0JODjZYU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:59 |
+| 487 | [SRXT](https://open.spotify.com/track/3PnEF1gxuHcF2mHyxFNFWB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:51 |
+| 488 | [Selfish Son](https://open.spotify.com/track/32qYJIgErnGqHszAVaGxFe) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:58 |
 
-Snapshot ID: `AAANqSvwVylBl2rT7nQyKdbLET58BMCE`
+Snapshot ID: `AAANsdroY1e9qhUpjph2Kj2oNSB/MqkR`

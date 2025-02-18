@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 173765,
+  "num_followers": 173821,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/ZAAAAAACPp9B4FQfptwY2juShkgYj",
+  "snapshot_id": "Z7EqgAAAAAAklN0GxIsMz39OHtH/tRyK",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Si Ella Supiera",
-      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 194813,
       "name": "Amor A\u00f1ejo",
       "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Si Ella Supiera",
+      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
     },
     {
       "added_at": null,

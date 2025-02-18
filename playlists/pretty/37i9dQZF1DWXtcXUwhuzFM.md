@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,423 likes - 116 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,429 likes - 116 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 69 | [Ulkona \(feat\. Ares\)](https://open.spotify.com/track/7h1Ds1mu5n7hlyqP8SZo8e) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:52 |
 | 70 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
 | 71 | [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 |
-| 72 | [Verkot Heiluu](https://open.spotify.com/track/1xjOTCOmJDabQ5MhkpHSUx) | [Juhani](https://open.spotify.com/artist/0CGoE5547kUz9CXkk4JVM1), [Joonatan](https://open.spotify.com/artist/27ddiSC5Zm4SifSaMvYEE2), [Vesku Jokinen](https://open.spotify.com/artist/58tsj94tcDnxNnMhHkIc2E), [Olvari](https://open.spotify.com/artist/4Z8NGZ1gIaPAVhz0ppaIho) | [Verkot Heiluu](https://open.spotify.com/album/1Gp5oR8PdtDadmBD72u1Ch) | 3:37 |
+| 72 | [Verkot Heiluu](https://open.spotify.com/track/1xjOTCOmJDabQ5MhkpHSUx) | [Juhani](https://open.spotify.com/artist/0CGoE5547kUz9CXkk4JVM1), [Joonatan](https://open.spotify.com/artist/1sZQyR6CiESk6Zbj5BmvIQ), [Vesku Jokinen](https://open.spotify.com/artist/58tsj94tcDnxNnMhHkIc2E), [Olvari](https://open.spotify.com/artist/4Z8NGZ1gIaPAVhz0ppaIho) | [Verkot Heiluu](https://open.spotify.com/album/1Gp5oR8PdtDadmBD72u1Ch) | 3:37 |
 | 73 | [m.o.w.u.](https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [CUM 2](https://open.spotify.com/album/3UbAyb9cYvmo0CbyY9BILA) | 3:06 |
 | 74 | [Back Again](https://open.spotify.com/track/1Vm3VpRkzkx3NnUL29dAi8) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX), [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Back Again](https://open.spotify.com/album/5D3a4nPCdILKo1q7L33oHH) | 3:00 |
 | 75 | [Disturbia](https://open.spotify.com/track/54vU0qbLnAbM5SoQqq6yUf) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Disturbia](https://open.spotify.com/album/0ls49fA6Mhdg1KQajnHgKS) | 2:25 |

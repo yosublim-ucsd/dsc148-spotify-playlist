@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dierks Bentley,  Zach Bryan, Jon Pardi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,703 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,817 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 65 | [End Of A Bottle](https://open.spotify.com/track/2WNO70yWUQujQVczXplOru) | [Kenna Elpers](https://open.spotify.com/artist/5FisVPwrUiiV4z19WdWPcM), [Jagger Whitaker](https://open.spotify.com/artist/1bQdzVlejL2WOH8DUobw2W) | [End Of A Bottle](https://open.spotify.com/album/6616zqDUeMPQHDf6LWrAnI) | 3:26 |
 | 66 | [Finer Things](https://open.spotify.com/track/2Oc9412gbgT9NmrmRySz3k) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Finer Things](https://open.spotify.com/album/7BQsxg9OHJakXdxXVU9qYf) | 3:17 |
 
-Snapshot ID: `Z6+eGQAAAACDYDuhjU9aWwuYRNoVJyhq`
+Snapshot ID: `Z6+eGQAAAACOufxRLVJwjTsTdliED/c6`

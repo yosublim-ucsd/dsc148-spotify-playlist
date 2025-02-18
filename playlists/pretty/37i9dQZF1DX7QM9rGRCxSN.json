@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 33746,
+  "num_followers": 33756,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Reflejo",
-        "url": "https://open.spotify.com/album/5tWdkHKPFKj8P2txmQm1pM"
+        "name": "Figura de Cristal",
+        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
       },
       "artists": [
         {
-          "name": "MJ Baez",
-          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Estrella del Sol",
+          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
         }
       ],
-      "duration_ms": 177074,
-      "name": "Reflejo",
-      "url": "https://open.spotify.com/track/0sC6ho1eyJnxsWZCsTMTqn"
+      "duration_ms": 180000,
+      "name": "Figura de Cristal",
+      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -747,22 +743,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Figura de Cristal",
-        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
-      },
-      "artists": [
-        {
-          "name": "Estrella del Sol",
-          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Figura de Cristal",
-      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/5tWdkHKPFKj8P2txmQm1pM"
+      },
+      "artists": [
+        {
+          "name": "MJ Baez",
+          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 177074,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/0sC6ho1eyJnxsWZCsTMTqn"
     },
     {
       "added_at": "2024-09-27 06:00:00",

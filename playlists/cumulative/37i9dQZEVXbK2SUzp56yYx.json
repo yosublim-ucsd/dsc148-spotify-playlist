@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "album": {
         "name": "ALLO FUNK",
         "url": "https://open.spotify.com/album/7CQRrZVelF4zjhnpapq7Iv"
       },
@@ -2196,7 +2218,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 117333,
       "name": "Casino",
       "url": "https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS"
@@ -3608,6 +3630,24 @@
       "duration_ms": 101089,
       "name": "EI DO SENSACIO!",
       "url": "https://open.spotify.com/track/2vbl2mqgwZCPqiYjn3MPhS"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216362,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
     },
     {
       "album": {
@@ -6315,6 +6355,24 @@
     },
     {
       "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/26EGMM4quxhs8WX8q2Qwyw"
+      },
+      "artists": [
+        {
+          "name": "h4rtbrkr",
+          "url": "https://open.spotify.com/artist/3vGd7nWqei0BrHqdSWLvj5"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93405,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/1CEUYM7tyPQGXSlXSXwTin"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
       },
@@ -8760,7 +8818,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 91906,
       "name": "MONTAGEM BRAVO - Slowed",
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
@@ -11806,7 +11864,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
@@ -11828,7 +11886,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -20344,7 +20402,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 128935,
       "name": "\u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0443\u043c\u0435\u043b",
       "url": "https://open.spotify.com/track/1fSJ27dnJaa8I1ynIECVrk"
@@ -22290,7 +22348,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 139760,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/7yltqMUpGpjdFGGGlMRRxS"
@@ -24228,7 +24286,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 151714,
       "name": "\u0426\u0432\u0435\u0442\u0430\u0435\u0432\u0430",
       "url": "https://open.spotify.com/track/5ACebyVVWdxEpU8kpd12j9"

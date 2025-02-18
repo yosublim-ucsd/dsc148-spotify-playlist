@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: GyeongseoYeji\(경서예지\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,709 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,861 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
 | 2 | [Why is love so hard for me \(feat.Jeon Gunho\)](https://open.spotify.com/track/2z4fAsRuoKve2M57Fuq5up) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [Why is love so hard for me](https://open.spotify.com/album/62o72V2xoO8W3KBgMTQhaw) | 4:02 |
 | 3 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
-| 4 | [Rain \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rain \(feat\. Parc Jae Jung\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 |
+| 4 | [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 |
 | 5 | [Unspoken Goodbye](https://open.spotify.com/track/1uAvwjXUmaVKtf53rhLQey) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Unspoken Goodbye](https://open.spotify.com/album/4SMN2FnlEMJv3czT7DlzQ6) | 3:54 |
 | 6 | [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 |
 | 7 | [Starlight](https://open.spotify.com/track/5kH47YANTpxd6fJbZecwJC) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Starlight](https://open.spotify.com/album/3hUD4nTrarlSSxYsSqMJ6y) | 4:08 |

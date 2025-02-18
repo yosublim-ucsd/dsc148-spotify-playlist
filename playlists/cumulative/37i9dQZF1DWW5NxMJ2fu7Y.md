@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-130 songs - 7 hr 17 min
+131 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Getafe](https://open.spotify.com/track/7DVtBdHhVfyhtMK3jVFBzQ) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Allo](https://open.spotify.com/album/0l4hOiLzF5RVjK5VNMIXTC) | 3:57 | 2025-01-29 |  |
 | [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 | 2025-01-30 |
 | [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 | 2025-01-02 |
+| [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-17 |  |
 | [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 | 2025-01-25 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2024-07-22 |  |
@@ -114,7 +115,7 @@
 | [Sac](https://open.spotify.com/track/6x8BmqYKINbm7GFyVABsFH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o) | 3:16 | 2024-02-29 | 2024-04-19 |
 | [Sacrifice](https://open.spotify.com/track/2FKXYXYUzmR7eHZmJLWggj) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Black Rose](https://open.spotify.com/album/0fvgRVxvuHOZJdJgjez8EM) | 3:13 | 2024-07-22 |  |
 | [SBT WLA TNINE](https://open.spotify.com/track/1q72QZtGRlwaaZ3re63ZeO) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [SBT WLA TNINE](https://open.spotify.com/album/0GIENMu0gpZUR64MbPVk0f) | 2:31 | 2024-05-25 | 2024-07-23 |
-| [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 | 2024-08-02 |  |
+| [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 | 2024-08-02 | 2025-02-18 |
 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 | 2024-02-29 |  |
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2024-02-29 | 2025-01-09 |
 | [Slow down](https://open.spotify.com/track/5Cn6Z5fjOowWlmGsaw1nDm) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB), [DAOX](https://open.spotify.com/artist/05EKqePxUjw7agh2gReaDM) | [Apollo](https://open.spotify.com/album/0mt64GxT85IDFW2DWeGu3u) | 2:08 | 2024-09-18 | 2024-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Solace Out The Door
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,055,916 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056,001 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 43 | [Maria \(with Lola Amour\)](https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Maria \(with Lola Amour\)](https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ) | 3:11 |
 | 44 | [Ang Himala Ay Nasa Puso \- From "Isang Himala"](https://open.spotify.com/track/7okKzmRUYkKliDRs1x7vXl) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Ang Himala Ay Nasa Puso \(From "Isang Himala"\)](https://open.spotify.com/album/0jy2q8JkmnbNtQoz2n5FSb) | 4:00 |
 | 45 | [Magkasama](https://open.spotify.com/track/6BYfQMc0AOzjdJl3RjJ6v9) | [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd), [Project Yazz](https://open.spotify.com/artist/0X79091i0pt4JbrIM1YK3L) | [Magkasama](https://open.spotify.com/album/2vux7phieF991LAvZfMBcR) | 6:15 |
-| 46 | [A to Z \(Drop It\)](https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [A to Z \(Drop It\)](https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk) | 3:30 |
-| 47 | [Padama](https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Padama](https://open.spotify.com/album/0hfGtoRMfbtf40Y2pBnw51) | 4:29 |
-| 48 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 |
-| 49 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 |
-| 50 | [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 |
+| 46 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 |
+| 47 | [A to Z \(Drop It\)](https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [A to Z \(Drop It\)](https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk) | 3:30 |
+| 48 | [Padama](https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Padama](https://open.spotify.com/album/0hfGtoRMfbtf40Y2pBnw51) | 4:29 |
+| 49 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 |
+| 50 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 |
+| 51 | [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 |
 
-Snapshot ID: `Z6xN/wAAAACdg4Nm2gBfFnyK2rLKB9d/`
+Snapshot ID: `Z7LZcwAAAADXQPaOHZSmAF1NUke5QuZP`

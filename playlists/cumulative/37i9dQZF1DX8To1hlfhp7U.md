@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-106 songs - 5 hr 32 min
+107 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 | 2023-06-22 |  |
 | [Birminghamm](https://open.spotify.com/track/1Yl7emPuRqRHuhnPMxutKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm](https://open.spotify.com/album/2yVD5Ty0xKyFu1U748TaRP) | 2:22 | 2024-04-05 | 2025-01-09 |
 | [Birminghamm](https://open.spotify.com/track/1bWlYuEi1vuSEnanONnxKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm \- Single](https://open.spotify.com/album/6WPhYM5oCb0u0Ydg8TesoR) | 2:22 | 2023-06-22 | 2024-04-19 |
+| [Bison](https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Extent!](https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2) | 2:12 | 2025-02-17 |  |
 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 | 2025-01-08 |  |
 | [Boliyan \- From "Kaake da Viyah"](https://open.spotify.com/track/70SSqFYVzAeWaYEuzNsza0) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Boliyan \(From "Kaake da Viyah"\)](https://open.spotify.com/album/4NOT0DH0n38XbxZpgnMZfs) | 3:24 | 2023-06-22 | 2023-11-19 |
 | [Bom Diggy](https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8) | 3:27 | 2025-01-08 | 2025-02-15 |
@@ -113,6 +114,6 @@
 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2025-01-08 |  |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2025-02-07 | 2025-02-12 |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2023-06-22 |  |
-| [Zindagi Jnaab Saddi](https://open.spotify.com/track/7EiAduObZZ8OrWzbNQAmDT) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Zindagi Jnaab Saddi](https://open.spotify.com/album/4RkMUi4R95mJlHfNc7CkrW) | 3:33 | 2025-02-14 |  |
+| [Zindagi Jnaab Saddi](https://open.spotify.com/track/7EiAduObZZ8OrWzbNQAmDT) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Zindagi Jnaab Saddi](https://open.spotify.com/album/4RkMUi4R95mJlHfNc7CkrW) | 3:33 | 2025-02-14 | 2025-02-18 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

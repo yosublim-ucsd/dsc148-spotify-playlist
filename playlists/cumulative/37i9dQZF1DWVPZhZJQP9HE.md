@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-637 songs - 1 day 13 hr 33 min
+638 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Adiye Agalvizhiye](https://open.spotify.com/track/0thiJnUuAP9G2TlZL9UTRW) | [S.D.Sadikh Hassan](https://open.spotify.com/artist/5WwXNl9tjuWWjdOtCZiwye), [Yuvan Murugan](https://open.spotify.com/artist/0PY0HrnlOHqWQ7jsMfJexC) | [Adiye Agalvizhiye](https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32) | 4:53 | 2022-06-16 | 2022-07-01 |
 | [Adiye Kaantha](https://open.spotify.com/track/1fF4euXpLnQDb0cJx04AVC) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Adiye Kaantha](https://open.spotify.com/album/4rQ2NDh6anTQNnaYOM72Mq) | 3:30 | 2022-05-13 | 2022-07-15 |
 | [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 | 2022-11-17 | 2023-02-22 |
+| [Adiye Paduthadha](https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Adiye Paduthadha](https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F) | 3:38 | 2025-02-17 |  |
 | [Adiye Pogathe](https://open.spotify.com/track/0u7kiuKFuTkxcXgQq6zpYR) | [Josh Thomas Mathew](https://open.spotify.com/artist/4erTQzNoRB1c7lXlBOmih0), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anusha Haneef](https://open.spotify.com/artist/0KJR33DdaLKQq8A3h5P9I8) | [Adiye Pogathe](https://open.spotify.com/album/57XcU9En45cCemIeG76UQb) | 3:40 | 2023-01-13 | 2024-02-01 |
 | [Adiye Sonali](https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Adiye Sonali](https://open.spotify.com/album/17Y3GJG8q0KW5YAoFfhRbt) | 1:00 | 2023-01-25 | 2023-03-23 |
 | [Aigiri](https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [Aigiri](https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ) | 1:43 | 2023-10-25 | 2025-01-31 |

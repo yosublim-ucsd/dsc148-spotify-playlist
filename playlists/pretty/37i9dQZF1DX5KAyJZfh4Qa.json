@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Thursday",
-  "num_followers": 63266,
+  "num_followers": 63301,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+        "name": "Laughing Without Smiling / Spit",
+        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
         }
       ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+      "duration_ms": 172941,
+      "name": "Laughing Without Smiling",
+      "url": "https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -295,18 +295,18 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Laughing Without Smiling / Spit",
-        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
       },
       "artists": [
         {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Laughing Without Smiling",
-      "url": "https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP"
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Cheap Grills",
-        "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Fireplace",
-      "url": "https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "The Cleanest of Houses Are Empty",
         "url": "https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 251431,
       "name": "What Are You, A Cop?",
       "url": "https://open.spotify.com/track/2L8eTF6iQtez7xsduIK3DN"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Cheap Grills",
+        "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Foxing",
-        "url": "https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "No Joy",
         "url": "https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 214869,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Foxing",
+        "url": "https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Every Moment of Every Day",
-        "url": "https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW"
-      },
-      "artists": [
-        {
-          "name": "Short Fictions",
-          "url": "https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h"
-        }
-      ],
-      "duration_ms": 249980,
-      "name": "You Will Never Be the Best at Anything You Try (Surely Not)",
-      "url": "https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "When I Come East",
         "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214447,
       "name": "Stone",
       "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Every Moment of Every Day",
+        "url": "https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW"
+      },
+      "artists": [
+        {
+          "name": "Short Fictions",
+          "url": "https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h"
+        }
+      ],
+      "duration_ms": 249980,
+      "name": "You Will Never Be the Best at Anything You Try (Surely Not)",
+      "url": "https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "the CIA",
-        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
-      },
-      "artists": [
-        {
-          "name": "glass beach",
-          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
-        }
-      ],
-      "duration_ms": 282203,
-      "name": "the CIA",
-      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "Stay Golden",
         "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 154221,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "the CIA",
+        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 282203,
+      "name": "the CIA",
+      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "I'm Here And This Is Real",
-        "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
-      },
-      "artists": [
-        {
-          "name": "Park National",
-          "url": "https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Dead On The Page",
-      "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "All Girls Go to Heaven",
         "url": "https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 242680,
       "name": "What I'm Feeling",
       "url": "https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "I'm Here And This Is Real",
+        "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
+      },
+      "artists": [
+        {
+          "name": "Park National",
+          "url": "https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Dead On The Page",
+      "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
     },
     {
       "added_at": "2025-02-14 18:54:25",

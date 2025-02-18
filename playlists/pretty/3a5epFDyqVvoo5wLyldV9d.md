@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 830 songs - 2 day 17 hr 15 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 832 songs - 2 day 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -838,5 +838,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 828 | [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 |
 | 829 | [Adome Nyueto](https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W) | 5:26 |
 | 830 | [Marimba](https://open.spotify.com/track/1ruyDKHk1B8L8Y1svUKoYk) | [Yargo](https://open.spotify.com/artist/2UT3XvMZfzcs290xEIniHf) | [Luke Una Presents É Soul Cultura, Vol\. 2](https://open.spotify.com/album/4d6KhvaW2fOH9Hu2Yzt7gi) | 5:27 |
+| 831 | [مبسوطة](https://open.spotify.com/track/4JHLmPI7vZm42VqRGMiemv) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1) | [الو](https://open.spotify.com/album/0dr8lDtwokH2ys7vAAxVFV) | 4:29 |
+| 832 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 |
 
-Snapshot ID: `AAADphiDy2K85vt+W32z23YJPz2d3ciE`
+Snapshot ID: `AAADqDQkbzNCFmdetWXSaRVuC7UcK9bM`

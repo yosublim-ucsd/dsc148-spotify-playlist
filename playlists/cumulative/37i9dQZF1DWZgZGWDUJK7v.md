@@ -2,7 +2,7 @@
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: Solo Leveling\(LiSA, Felix of Stray Kids\)\) 지금 인기 있는 웹툰 OST들을 만나보세요! \(커버: 나 혼자만 레벨업\(LiSA, Felix of Stray Kids\)\)
+> Meet the popular webtoon OSTs now! \(Cover: Myst, Might, Mayhem\(괴력난신\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
 226 songs - 13 hr 42 min
 

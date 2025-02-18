@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Cowboy's Gonna Ride",
+        "url": "https://open.spotify.com/album/09YWH4jRJKB8uGqao2tTJM"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208731,
+      "name": "Cowboy's Gonna Ride",
+      "url": "https://open.spotify.com/track/3x0xmBK4uhdG7M0ZeQZBiL"
+    },
+    {
+      "album": {
         "name": "crumbs",
         "url": "https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X"
       },
@@ -9832,7 +9850,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 169870,
       "name": "Peppermint Sky",
       "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"

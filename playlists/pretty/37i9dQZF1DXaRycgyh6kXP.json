@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 253347,
+  "num_followers": 253418,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
-        "name": "Insides",
-        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 100946,
-      "name": "Small Memory",
-      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 180520,
       "name": "Soon It Will Be Cold Enough to Build Fires",
       "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 100946,
+      "name": "Small Memory",
+      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -691,6 +691,30 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
+        "name": "Been Such a Long Time (Luke Alessi Remixes)",
+        "url": "https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 281927,
+      "name": "Been Such a Long Time - Luke Alessi Remix",
+      "url": "https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
         "name": "Reality Testing",
         "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
-        "name": "Been Such a Long Time (Luke Alessi Remixes)",
-        "url": "https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 281927,
-      "name": "Been Such a Long Time - Luke Alessi Remix",
-      "url": "https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -795,22 +795,6 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -911,6 +895,22 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
         "name": "no world",
         "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
-        "name": "Pop Ambient 2021",
-        "url": "https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ"
-      },
-      "artists": [
-        {
-          "name": "Blank Gloss",
-          "url": "https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB"
-        }
-      ],
-      "duration_ms": 271115,
-      "name": "Of A Vessel",
-      "url": "https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
         "name": "Sun_3hd",
         "url": "https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 376000,
       "name": "Sun_3hd",
       "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
+        "name": "Pop Ambient 2021",
+        "url": "https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ"
+      },
+      "artists": [
+        {
+          "name": "Blank Gloss",
+          "url": "https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB"
+        }
+      ],
+      "duration_ms": 271115,
+      "name": "Of A Vessel",
+      "url": "https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 299448,
+      "name": "Way Ur Touchin Me",
+      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -1571,6 +1571,42 @@
     {
       "added_at": "2025-02-14 05:00:26",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Sam Herring",
+          "url": "https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Time Moves Slow",
+      "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
+    },
+    {
+      "added_at": "2025-02-14 05:00:26",
+      "album": {
         "name": "Hallucinogen",
         "url": "https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO"
       },
@@ -1603,22 +1639,6 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     },
     {
       "added_at": "2025-02-14 05:00:26",
@@ -1683,22 +1703,6 @@
       "duration_ms": 192000,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
-    },
-    {
-      "added_at": "2025-02-14 05:00:26",
-      "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
     }
   ],
   "unique_name": "Electronica Romantica",

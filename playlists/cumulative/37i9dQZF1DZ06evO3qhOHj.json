@@ -384,6 +384,24 @@
     {
       "album": {
         "name": "Forever In Our Hearts",
+        "url": "https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277397,
+      "name": "Forever In Our Hearts",
+      "url": "https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp"
+    },
+    {
+      "album": {
+        "name": "Forever In Our Hearts",
         "url": "https://open.spotify.com/album/0nW8iVtU6MxCIu2LIdxc9i"
       },
       "artists": [
@@ -394,7 +412,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 277397,
       "name": "Forever In Our Hearts",
       "url": "https://open.spotify.com/track/75hDg01ShKQ817pJzWIebE"

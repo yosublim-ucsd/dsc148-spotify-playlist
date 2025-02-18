@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Lali y Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,468 likes - 103 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,464 likes - 103 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 102 | [mi mundo entero](https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [mi mundo entero](https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE) | 3:12 |
 | 103 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
 
-Snapshot ID: `Z66xuwAAAADpoY29w8USMTRLpZNwy2rH`
+Snapshot ID: `Z66xuwAAAACardpnu4CGdbC7h21hqc2Z`

@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Extent!",
+        "url": "https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2"
+      },
+      "artists": [
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Bison",
+      "url": "https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c"
+    },
+    {
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-18",
       "duration_ms": 213523,
       "name": "Zindagi Jnaab Saddi",
       "url": "https://open.spotify.com/track/7EiAduObZZ8OrWzbNQAmDT"

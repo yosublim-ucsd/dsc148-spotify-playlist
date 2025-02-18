@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 42 songs - 2 hr 42 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 43 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 | 40 | [Divided Sky Lane](https://open.spotify.com/track/1NVXt1cCkOdsyG3NIjN4vV) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Sentries in the Ambush / Divided Sky Lane](https://open.spotify.com/album/50TYcIZQqahuqK91pFY5cM) | 3:38 |
 | 41 | [It's Raining Again](https://open.spotify.com/track/2bzBI23EJWHjXmGj3xlYaM) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Famous Last Words \(Remastered\)](https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc) | 4:24 |
 | 42 | [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 |
+| 43 | [Dark in Here](https://open.spotify.com/track/2o2stv4uGKSYuUaghBTVX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dark in Here](https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4) | 3:23 |
 
-Snapshot ID: `AAAAMzWe96fQdd5eCjzzH7ukga1Fy5Xu`
+Snapshot ID: `AAAANOxDpKVANuqWZQ74Nv3vsi0ha89Z`

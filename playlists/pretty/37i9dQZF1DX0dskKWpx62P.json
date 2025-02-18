@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 53470,
+  "num_followers": 53491,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Benditas las Madres",
-      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Los Pacharacos",
         "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 169706,
       "name": "Chinita Ingrata",
       "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Benditas las Madres",
+      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Enlazando Cantos II",
-        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 249155,
-      "name": "Clavel de mi pecho",
-      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 159453,
       "name": "Triste Enamorado",
       "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Enlazando Cantos II",
+        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 249155,
+      "name": "Clavel de mi pecho",
+      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Madre Andina",
-        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 238889,
-      "name": "Koka kintucha",
-      "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "La Santa Tierra",
         "url": "https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 365493,
       "name": "La Chismosa",
       "url": "https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Madre Andina",
+        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 238889,
+      "name": "Koka kintucha",
+      "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Madre Andina",
-        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 264855,
-      "name": "Expreso Puquio",
-      "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171490,
       "name": "Adi\u00f3s Pueblo de Ayacucho",
       "url": "https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Madre Andina",
+        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 264855,
+      "name": "Expreso Puquio",
+      "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
     },
     {
       "added_at": "2024-06-24 17:38:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: CeCe
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,398 likes - 145 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,366 likes - 145 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 144 | [Mind On You \(feat\. charlieonnafriday & Kidd G\)](https://open.spotify.com/track/1eoapzLQuYBDRDaHQuxXc4) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Mind On You \(feat\. charlieonnafriday & Kidd G\)](https://open.spotify.com/album/2TXzJqDmxEGtrQJUHxrHoU) | 3:21 |
 | 145 | [Cobain](https://open.spotify.com/track/5QCEu7LvgqZwQW1UbkLBYj) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j), [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cobain](https://open.spotify.com/album/0PnNVejKg9bbz5uBi41K2A) | 2:17 |
 
-Snapshot ID: `Z67N9AAAAADYDJxZyDbYA5fbYA0+XJAK`
+Snapshot ID: `Z67N9AAAAAAeFZX964pv00Ucg9xgT9Ls`

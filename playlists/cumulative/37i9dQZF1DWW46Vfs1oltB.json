@@ -11621,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "2.5 VIBES",
+        "url": "https://open.spotify.com/album/6kr9NaXZT958E6q6CsTpN1"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151120,
+      "name": "Hair loss",
+      "url": "https://open.spotify.com/track/61Yodrl2e5PrqjJiOK5P8k"
+    },
+    {
+      "album": {
         "name": "CHAPTER 1",
         "url": "https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU"
       },

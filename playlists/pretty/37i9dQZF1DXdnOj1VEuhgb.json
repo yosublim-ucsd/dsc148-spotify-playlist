@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
-  "num_followers": 1385565,
+  "num_followers": 1385609,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6700QAAAAAT/hrY5IUgJ5KhsEdkKKXK",
+  "snapshot_id": "Z7MexAAAAAD+yN92KcoJiG6+R6ZX/XBg",
   "tracks": [
     {
       "added_at": "2025-02-14 07:46:25",
@@ -27,6 +27,30 @@
     {
       "added_at": "2025-02-14 07:46:25",
       "album": {
+        "name": "KARANLIK",
+        "url": "https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU"
+      },
+      "artists": [
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Jumpa",
+          "url": "https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is"
+        }
+      ],
+      "duration_ms": 174678,
+      "name": "KARANLIK",
+      "url": "https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C"
+    },
+    {
+      "added_at": "2025-02-14 07:46:25",
+      "album": {
         "name": "BOYNA GALAVA",
         "url": "https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8"
       },
@@ -39,6 +63,22 @@
       "duration_ms": 96000,
       "name": "BOYNA GALAVA",
       "url": "https://open.spotify.com/track/3hC2TUXhcKkVw7xgejsyiz"
+    },
+    {
+      "added_at": "2025-02-14 07:46:25",
+      "album": {
+        "name": "\u00d6lmedim Ben",
+        "url": "https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "duration_ms": 169340,
+      "name": "\u00d6lmedim Ben",
+      "url": "https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz"
     },
     {
       "added_at": "2025-02-14 07:46:25",
@@ -111,46 +151,6 @@
     {
       "added_at": "2025-02-14 07:46:25",
       "album": {
-        "name": "\u00d6lmedim Ben",
-        "url": "https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu"
-      },
-      "artists": [
-        {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
-        }
-      ],
-      "duration_ms": 169340,
-      "name": "\u00d6lmedim Ben",
-      "url": "https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz"
-    },
-    {
-      "added_at": "2025-02-14 07:46:25",
-      "album": {
-        "name": "KARANLIK",
-        "url": "https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU"
-      },
-      "artists": [
-        {
-          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
-          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
-        },
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        },
-        {
-          "name": "Jumpa",
-          "url": "https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is"
-        }
-      ],
-      "duration_ms": 174678,
-      "name": "KARANLIK",
-      "url": "https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C"
-    },
-    {
-      "added_at": "2025-02-14 07:46:25",
-      "album": {
         "name": "DURULDUM",
         "url": "https://open.spotify.com/album/2ISMOqiabzIjxSzaZCFNAL"
       },
@@ -167,30 +167,6 @@
       "duration_ms": 124516,
       "name": "DURULDUM",
       "url": "https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl"
-    },
-    {
-      "added_at": "2025-02-14 07:46:25",
-      "album": {
-        "name": "T\u00dcRK\u00c7E RAP M\u0130XTAPE",
-        "url": "https://open.spotify.com/album/6KT0esShZuc4ceUhgf18F2"
-      },
-      "artists": [
-        {
-          "name": "\u015eam",
-          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
-        },
-        {
-          "name": "Xir",
-          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
-        },
-        {
-          "name": "No.1",
-          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "SOKAK K\u00d6\u015eELER\u0130NDE",
-      "url": "https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM"
     },
     {
       "added_at": "2025-02-14 07:46:25",
@@ -219,6 +195,30 @@
       "duration_ms": 120000,
       "name": "AKTIV",
       "url": "https://open.spotify.com/track/3BF6F5El3dlcxc795bUCpG"
+    },
+    {
+      "added_at": "2025-02-14 07:46:25",
+      "album": {
+        "name": "T\u00dcRK\u00c7E RAP M\u0130XTAPE",
+        "url": "https://open.spotify.com/album/6KT0esShZuc4ceUhgf18F2"
+      },
+      "artists": [
+        {
+          "name": "\u015eam",
+          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
+        },
+        {
+          "name": "Xir",
+          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
+        },
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "SOKAK K\u00d6\u015eELER\u0130NDE",
+      "url": "https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM"
     },
     {
       "added_at": "2025-02-14 07:46:25",

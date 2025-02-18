@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-448 songs - 1 day 0 hr 36 min
+449 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 | 2024-11-21 |
 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 | 2024-07-08 | 2025-01-16 |
 | [Preethi Anno Dyavru](https://open.spotify.com/track/608jUiP43iZPtJJTBryeZ4) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Preethi Anno Dyavru](https://open.spotify.com/album/0xG8YWLgFSeyDCygRX9h97) | 4:04 | 2024-08-14 |  |
+| [Preethiso Hudugane](https://open.spotify.com/track/3esWWiqywedcWEYdEP2vaI) | [Dharini KS](https://open.spotify.com/artist/0x4mGzwdNn1xtc0nRYBI7k), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Preethiso Hudugane](https://open.spotify.com/album/6DHNy6yTHjHAIBSQQPjjVZ) | 4:07 | 2025-02-17 |  |
 | [Preethiso Hudugane](https://open.spotify.com/track/7fhd7foEcDvmBR0TmRJJNM) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc) | [Preethiso Hudugane](https://open.spotify.com/album/6ZRvBbqTKGTkV5iQOOwY4v) | 4:06 | 2024-11-29 |  |
 | [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 | 2024-11-20 |  |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |

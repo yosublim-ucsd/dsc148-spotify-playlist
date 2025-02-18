@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,193 likes - 68 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,290 likes - 68 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 61 | [Where You Dey](https://open.spotify.com/track/3OW8TTRWkCNbwvALsZorvy) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU), [Spykida](https://open.spotify.com/artist/1U5h2Q7PpusNlSlG0CRgSK) | [Where You Dey](https://open.spotify.com/album/0OjiJY0YtOMsNDdQxeivYD) | 2:52 |
 | 62 | [KOKOSE](https://open.spotify.com/track/4hrQftqj4sjEraJ6UFQ2qs) | [Fawaz](https://open.spotify.com/artist/3qujGsGetnOpwao0wB9N5K) | [KOKOSE](https://open.spotify.com/album/6vFjdjezkKELtrsj6q4pbb) | 2:44 |
 | 63 | [Fall in Love Easy](https://open.spotify.com/track/2E0inovomSlpz0lt5PjcBv) | [TBaze](https://open.spotify.com/artist/2SPhk678zxqaCyAzyNk48r) | [Fall in Love Easy](https://open.spotify.com/album/1ZkCcM8gtiJodVtzXtnnfT) | 2:53 |
-| 64 | [Liar Liar](https://open.spotify.com/track/0VgIR2BVYm3JupZuLyjDCW) | [Elestee](https://open.spotify.com/artist/5ylTr7eVdcF9caNweKZvMo) | [Liar Liar](https://open.spotify.com/album/54ViALdvgCDx3DlxMjZEc1) | 2:50 |
+| 64 | [Liar Liar](https://open.spotify.com/track/0VgIR2BVYm3JupZuLyjDCW) | [Elestee](https://open.spotify.com/artist/7nq6WMXNGqv0LdZyCfw2Vd) | [Liar Liar](https://open.spotify.com/album/54ViALdvgCDx3DlxMjZEc1) | 2:50 |
 | 65 | [oulalala](https://open.spotify.com/track/0P4A8a4UNLRuPFbJbRnwwr) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [oulalala](https://open.spotify.com/album/1AgVyRrARoUSYT9I20Dxj4) | 3:15 |
 | 66 | [Ohima](https://open.spotify.com/track/4cXMZ337AIp8xnN7a0d9EH) | [Azee](https://open.spotify.com/artist/4JfLYtGnKnXl9iplt6cAgl) | [Ohima \- Your Body](https://open.spotify.com/album/21g87PQDA8dQQjz5qTb8Tk) | 2:49 |
 | 67 | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/track/7fLBVRu5GFS1QcodNGvPGW) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD), [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/album/7mTHaWSQ8B449zo5ORANUW) | 5:39 |

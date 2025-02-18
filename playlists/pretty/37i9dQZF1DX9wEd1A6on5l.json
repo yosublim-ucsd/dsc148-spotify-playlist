@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 82096,
+  "num_followers": 82212,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "YAYO",
+      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
+    },
+    {
+      "added_at": "2025-02-14 00:01:15",
+      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
-    },
-    {
-      "added_at": "2025-02-14 00:01:15",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "YAYO",
-      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
     },
     {
       "added_at": "2025-02-14 00:01:15",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
-        "name": "FIND MONEY (feat. Zerrydl)",
-        "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 149896,
-      "name": "FIND MONEY (feat. Zerrydl)",
-      "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
-    },
-    {
-      "added_at": "2025-02-14 00:01:15",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2025-02-14 00:01:15",
+      "album": {
+        "name": "FIND MONEY (feat. Zerrydl)",
+        "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 149896,
+      "name": "FIND MONEY (feat. Zerrydl)",
+      "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
     },
     {
       "added_at": "2025-02-14 00:01:15",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
-        "name": "Management",
-        "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "BIGKHALID",
-          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
-        }
-      ],
-      "duration_ms": 155669,
-      "name": "Management",
-      "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
-    },
-    {
-      "added_at": "2025-02-14 00:01:15",
-      "album": {
         "name": "Queen N More",
         "url": "https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 143510,
       "name": "Queen N More",
       "url": "https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC"
+    },
+    {
+      "added_at": "2025-02-14 00:01:15",
+      "album": {
+        "name": "Management",
+        "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+        }
+      ],
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
     },
     {
       "added_at": "2025-02-14 00:01:15",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2025-02-14 00:01:15",
-      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+    },
+    {
+      "added_at": "2025-02-14 00:01:15",
+      "album": {
         "name": "Till Thy Kingdom Come",
         "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2025-02-14 00:01:15",
       "album": {
-        "name": "Jo Vibe",
-        "url": "https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j"
+        "name": "Fuji Garbage",
+        "url": "https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T"
       },
       "artists": [
         {
-          "name": "JoBlaq",
-          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "Peller",
-          "url": "https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI"
+          "name": "Chief Dr. Sikiru Ayinde Barrister (MFR)",
+          "url": "https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg"
         }
       ],
-      "duration_ms": 130731,
-      "name": "Jo Vibe",
-      "url": "https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA"
+      "duration_ms": 161415,
+      "name": "Fuji Garbage",
+      "url": "https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS"
     }
   ],
   "unique_name": "Party Dey!",

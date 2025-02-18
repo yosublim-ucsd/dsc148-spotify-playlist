@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4QuJ2DbcTe7R8lzqfNXz7v.md) - cumulative - [plain](/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v)
 
-### [LOVE SONGS & CHILL \| HAPPY VALENTINES DAY](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
+### [LOVE SONGS & CHILL ](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 

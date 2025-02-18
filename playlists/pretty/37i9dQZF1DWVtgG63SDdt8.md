@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Elle Limebear & Samm Henshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,682 likes - 97 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,694 likes - 97 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
