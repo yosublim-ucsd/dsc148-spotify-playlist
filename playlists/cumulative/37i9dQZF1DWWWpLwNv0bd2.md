@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Kadhalikka Neramillai
+> Check out the Latest Romance Tracks.<br/>Cover : Dragon
 
 273 songs - 17 hr 59 min
 

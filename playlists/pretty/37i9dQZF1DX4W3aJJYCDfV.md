@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter \(pictured\), AJ Tracey ft\. Jorja Smith, Bon Iver and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,628 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,696 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 91 | [WERK](https://open.spotify.com/track/2y9eBuLnUpxWraASyR4Jlg) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [WERK](https://open.spotify.com/album/19q7NKezkDhKW8lu4RV3Wf) | 2:13 |
 | 92 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
 | 93 | [Be Together](https://open.spotify.com/track/7AT2oRWEvDWDsfjrSFA26n) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Be Together](https://open.spotify.com/album/5I2jtUtvKbzAvDcnpFMXP3) | 2:36 |
-| 94 | [Love & War](https://open.spotify.com/track/73KXwEmUY0XRikO58DzbTB) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Love & War](https://open.spotify.com/album/1X1DTxztH7nQRoYYygGH6p) | 3:19 |
+| 94 | [Love & War](https://open.spotify.com/track/73KXwEmUY0XRikO58DzbTB) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Love & War](https://open.spotify.com/album/1X1DTxztH7nQRoYYygGH6p) | 3:20 |
 | 95 | [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 |
 | 96 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
 | 97 | [feral](https://open.spotify.com/track/5EAlhLo5fNV35cQwEBiWDx) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#mia](https://open.spotify.com/album/69yCzxhBGrs0o2hPJWqttf) | 2:45 |

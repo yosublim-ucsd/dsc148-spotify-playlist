@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,033 songs - 3 day 2 hr 18 min
+1,034 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Arps](https://open.spotify.com/track/61fFR9yykNcPDxaewYPCjQ) | [FRCTLS](https://open.spotify.com/artist/5jyU4mBlyaZpjTftz8HbEM) | [Zeit](https://open.spotify.com/album/15vGVVKQHhaljbOHy4mKyQ) | 4:49 | 2023-10-27 |  |
 | [Arps Of Revolución](https://open.spotify.com/track/6j943OaUx84yACnpMurHQf) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 4:33 | 2019-06-21 | 2020-08-26 |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2019-05-26\* | 2019-06-19 |
-| [Asha](https://open.spotify.com/track/1rUI48b5rFq46VvWDyEgjB) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [This Bliss](https://open.spotify.com/album/5ISoAxEvezM5hpiZzmUJ7J) | 6:31 | 2024-05-10 | 2024-07-05 |
+| [Asha](https://open.spotify.com/track/1rUI48b5rFq46VvWDyEgjB) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [This Bliss](https://open.spotify.com/album/5ISoAxEvezM5hpiZzmUJ7J) | 6:31 | 2024-05-10 |  |
 | [Asymmetric Lifeform](https://open.spotify.com/track/310zGCnjb9mpXpI5Hcgl0T) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 5:03 | 2024-06-14 | 2024-12-06 |
 | [at arm's length...](https://open.spotify.com/track/5UW3V9pYyye7qGH8ecNhdL) | [momü](https://open.spotify.com/artist/6fqCoZCxjMrwtuvciQnzKn) | [at arm's length...](https://open.spotify.com/album/4dueFTcpK5Mc9h0zbGhIC2) | 2:47 | 2019-06-19\* | 2020-08-26 |
 | [Attila](https://open.spotify.com/track/2i2luf6v6y7J0jI3UPltIt) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/1qINrjw5JR8Y2cV6yxd9na) | 2:27 | 2021-01-11 | 2022-04-21 |
@@ -352,7 +352,7 @@
 | [Further](https://open.spotify.com/track/3eROgdA5NjH03NF9RvInML) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Further](https://open.spotify.com/album/5ZXdrv2X4rSMl5p2Xza3o7) | 5:07 | 2019-06-19\* | 2022-04-20 |
 | [Further Than It](https://open.spotify.com/track/6typP3PydlxW5m90XWkxYo) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Further Than It](https://open.spotify.com/album/2VjrJ0IskNKJKTsWYCLDgl) | 3:36 | 2019-06-19\* | 2020-10-22 |
 | [Futurism](https://open.spotify.com/track/491TxkFmouTdVqwJTY7UG6) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:15 | 2019-05-26\* | 2020-08-26 |
-| [Gaivotas](https://open.spotify.com/track/1Dl2dAjcRA55FVPWKg9iOA) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Gaivotas](https://open.spotify.com/album/41alvt3Wg20F26oGMJZ9cj) | 4:36 | 2024-10-07 |  |
+| [Gaivotas](https://open.spotify.com/track/1Dl2dAjcRA55FVPWKg9iOA) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Gaivotas](https://open.spotify.com/album/41alvt3Wg20F26oGMJZ9cj) | 4:36 | 2024-10-07 | 2025-02-19 |
 | [Galileo](https://open.spotify.com/track/2d8cXtTTzs0X4UTdhO98am) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 3:03 | 2019-06-19\* | 2020-10-22 |
 | [Ganzfeld \- DjRUM Remix](https://open.spotify.com/track/4ma3jkDm8obf5WXLtUVxgK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc), [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Ganzfeld \- DjRUM Remix](https://open.spotify.com/album/7eu1sHyuOJRXtEsRyO3Lfs) | 10:12 | 2024-10-07 | 2024-10-19 |
 | [Garden of Dreams \- Inner Space Version](https://open.spotify.com/track/5ll8iUvWUd9rJVoq8lmJ9K) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Garden of Dreams \(Inner Space Version\)](https://open.spotify.com/album/2A7rhWSZetLjLirdZdCN0h) | 6:11 | 2024-01-26 |  |
@@ -662,7 +662,7 @@
 | [Passage](https://open.spotify.com/track/5GHqVkQ61MzX7J8uyloBpz) | [Esteble](https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp) | [Feathers EP](https://open.spotify.com/album/5u9P083JpVHf86wGDzmgjd) | 3:01 | 2019-06-21 |  |
 | [Passenger](https://open.spotify.com/track/4fozlawV7ZuB6cMWzTGssU) | [BENNIK](https://open.spotify.com/artist/1D2jBI0hb1xm1LrXm11FuR) | [Passenger](https://open.spotify.com/album/14ODfIJb9dvxZK5XGzvIvZ) | 3:35 | 2019-06-19\* | 2020-08-26 |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2019-06-19\* |  |
-| [Past Beings](https://open.spotify.com/track/2y4EBd0vTV59ZZlAZorSoM) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Serenity](https://open.spotify.com/album/55AK5YFyIJ6N0SHV71av2S) | 3:30 | 2024-11-15 |  |
+| [Past Beings](https://open.spotify.com/track/2y4EBd0vTV59ZZlAZorSoM) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Serenity](https://open.spotify.com/album/55AK5YFyIJ6N0SHV71av2S) | 3:30 | 2024-11-15 | 2025-02-19 |
 | [PAST LIGHT](https://open.spotify.com/track/3lNNZqfjA9X4S0mn5fdUZA) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [5 O’CLOCK / PAST LIGHT](https://open.spotify.com/album/7xPSz9VN9WF1oqBLh3mavO) | 2:55 | 2020-04-23 | 2022-07-04 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2020-11-05 |  |
 | [Pathwork](https://open.spotify.com/track/37Fg30McIZLZkvndkJ7i2d) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8), [Cabin Music](https://open.spotify.com/artist/2HjGmp3Iih5uU0CxTp2TYr) | [Pathwork](https://open.spotify.com/album/1j6xpqcSs6M4Bluomutny4) | 45:53 | 2021-04-05 | 2021-04-24 |
@@ -986,6 +986,7 @@
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2023-09-29 |  |
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |
 | [Waiting on You](https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Waiting on You](https://open.spotify.com/album/2iOQO77EAtci3tu0KZLH4h) | 4:07 | 2021-02-28 |  |
+| [Wake Up](https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Wake Up](https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4) | 2:22 | 2025-02-14 |  |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/2ksI5VBtOvZegQBQRQgzLW) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/69dEWHRcIkqm2ycjET4WSB) | 3:36 | 2021-07-23 | 2022-10-05 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/6lEM7FPuQapGIDEwy0tNvj) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/2wrwP8NMrP8YGCj8g2ssxu) | 3:36 | 2022-09-09 | 2024-04-19 |
 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2023-05-12 | 2024-02-02 |

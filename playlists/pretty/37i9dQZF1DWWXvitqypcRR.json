@@ -1,0 +1,978 @@
+{
+  "description": "<a href=\"spotify:artist:18JlbX3l0yzlwdnQVJrLsp\">Tripolism</a>'s favorite tracks. Updated regularly. Curated by Tripolism. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>",
+  "num_followers": 348,
+  "original_name": "Tripolism's track IDs",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "Z64WGgAAAACB2rsVAfzzeWpmIzK1tN3x",
+  "tracks": [
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Lola's Theme (Tripolism Remix)",
+        "url": "https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 219261,
+      "name": "Lola's Theme - Tripolism Remix",
+      "url": "https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/2rwPuot38U8Pedqj4KZpfQ"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "duration_ms": 209516,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/6yuE9NgllIeorhVIvqfms1"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
+        }
+      ],
+      "duration_ms": 352258,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Delirio Maria EP",
+        "url": "https://open.spotify.com/album/3vzRBbBy6wKUPoiYMQjFB4"
+      },
+      "artists": [
+        {
+          "name": "Alex Medina",
+          "url": "https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2"
+        },
+        {
+          "name": "Alani",
+          "url": "https://open.spotify.com/artist/60HPTp6l9rFQy5e5APgMdq"
+        }
+      ],
+      "duration_ms": 396850,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/3YqstXUHLTtgJPFbBEAkWg"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "You Belong To No-One (Tripolism Remix)",
+        "url": "https://open.spotify.com/album/7pcFLDgJHaAzjsffkFefob"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 393015,
+      "name": "You Belong To No-One - Tripolism Remix",
+      "url": "https://open.spotify.com/track/5mZVyeVcoxFLxKdrXacn2l"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "La Musa (with Miluhska) [Adam Ten & Rafael Remix]",
+        "url": "https://open.spotify.com/album/6EhVwvuwYWjS7mO1smxNnL"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "La Musa (with Miluhska) - Adam Ten & Rafael Remix",
+      "url": "https://open.spotify.com/track/7opyVNOI8UiJic5q6Kwlx8"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "In Technicolor",
+        "url": "https://open.spotify.com/album/4UvZAqMal1TmBchPsTTkoI"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "duration_ms": 341866,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5OZfTYT7scp8rEjMdpF9iT"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Dope Dance",
+        "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Dope Dance",
+      "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "After Five",
+        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "After Five",
+      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Nuraan",
+        "url": "https://open.spotify.com/album/3bZYIgahZjPP58TUDJYc7d"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Nuraan",
+      "url": "https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Phantasy",
+        "url": "https://open.spotify.com/album/0oqGyl8riYy3sivAvvJ11B"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 187796,
+      "name": "Phantasy - Edit",
+      "url": "https://open.spotify.com/track/3GNe0wtYUutSqk0ZEue6l6"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/5riIDzWB1ylPOwIYFDd9ts"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Deija",
+          "url": "https://open.spotify.com/artist/6V8OeO3acZYb6YvSEahsRu"
+        }
+      ],
+      "duration_ms": 319270,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/0h02oY1lJ4cvVLOHFxO2ET"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Basement Traxx",
+        "url": "https://open.spotify.com/album/2yq8UKFxJ9ydl9BVs9TOB1"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "duration_ms": 424868,
+      "name": "Rounded",
+      "url": "https://open.spotify.com/track/6YDybEdRcNch2FbPzKDbpc"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Cookie / Janni",
+        "url": "https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "duration_ms": 231258,
+      "name": "Janni",
+      "url": "https://open.spotify.com/track/6yNMmRZAIvu7ZjeAlXcD4k"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Give It Up For Love (Tripolism Remix)",
+        "url": "https://open.spotify.com/album/2RiVCssTK2u7jye7CslUGW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 320575,
+      "name": "Give It Up For Love - Tripolism Remix",
+      "url": "https://open.spotify.com/track/2wCJOX6zSDb4sv45L7tgTR"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Searchin'",
+        "url": "https://open.spotify.com/album/2PR6AtFZyIX3uSLPH5Uo6d"
+      },
+      "artists": [
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/75SbZJwQU37Tn90qmppqpf"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "A Place To Return",
+        "url": "https://open.spotify.com/album/5ObDNcysHCKct2wSHSi89N"
+      },
+      "artists": [
+        {
+          "name": "Francesco Capodaglio",
+          "url": "https://open.spotify.com/artist/7wLtgMz0h4z3hveBPiZkou"
+        }
+      ],
+      "duration_ms": 272183,
+      "name": "A Place To Return",
+      "url": "https://open.spotify.com/track/1tCMKo6clCyFenJb3XSv4t"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Moxa, Vol. 1 - Follow the X",
+        "url": "https://open.spotify.com/album/6UXfJOuHDHjEwrF7AFgrIM"
+      },
+      "artists": [
+        {
+          "name": "Alix Alvarez",
+          "url": "https://open.spotify.com/artist/2c447ipiN2mudnlVqZAVDh"
+        }
+      ],
+      "duration_ms": 461453,
+      "name": "Fayall",
+      "url": "https://open.spotify.com/track/582kon7RIymrBnQKHnBmio"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Don't Eat the Homies",
+        "url": "https://open.spotify.com/album/5EsL58TzdREFLX4NAvPO7q"
+      },
+      "artists": [
+        {
+          "name": "Dave DK",
+          "url": "https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Don't Eat the Homies",
+      "url": "https://open.spotify.com/track/0A8ZkHJoEluvB8lM5QJ9M3"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Whatever We Call It",
+        "url": "https://open.spotify.com/album/4NgWz429zWjwleHCRlw5vG"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "duration_ms": 483199,
+      "name": "Whatever We Call It",
+      "url": "https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Funk & Rhythms",
+        "url": "https://open.spotify.com/album/0GnmkM36KjMbdAILnZfEDO"
+      },
+      "artists": [
+        {
+          "name": "Abuk",
+          "url": "https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv"
+        },
+        {
+          "name": "Gespona",
+          "url": "https://open.spotify.com/artist/59ewWwEHhZ0yq7SKXxUj0d"
+        }
+      ],
+      "duration_ms": 331561,
+      "name": "Funk & Rhythms",
+      "url": "https://open.spotify.com/track/1XoConMaHmII3lUM2KkveL"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Megacity Servant",
+        "url": "https://open.spotify.com/album/3giZg1sOZTe503fZQiTgnO"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Cari Golden",
+          "url": "https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp"
+        }
+      ],
+      "duration_ms": 475384,
+      "name": "Things We Might Have Said",
+      "url": "https://open.spotify.com/track/4TFeWa8qjlyiRJRdb6bC2m"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Tokyo EP",
+        "url": "https://open.spotify.com/album/4IrmpR95We1ETHUAE4GiJB"
+      },
+      "artists": [
+        {
+          "name": "Federico Grazzini",
+          "url": "https://open.spotify.com/artist/0spctiEqzwIw4CquNWzNnB"
+        }
+      ],
+      "duration_ms": 451920,
+      "name": "Tokyo - Original",
+      "url": "https://open.spotify.com/track/3Lz0RYVyNlthSthwfJLnnV"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Dear Miami (Bedouin Remix)",
+        "url": "https://open.spotify.com/album/1mzwZuiUFLxqiGlv7IUywF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 218553,
+      "name": "Dear Miami - Bedouin Remix",
+      "url": "https://open.spotify.com/track/7kfnbvdDrAvYaxPmOFeP5Y"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 289212,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/64v9obzFAgVwlNqSy1yQby"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "District",
+        "url": "https://open.spotify.com/album/6ktnFjv12Pvze2s9lxEl7H"
+      },
+      "artists": [
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        }
+      ],
+      "duration_ms": 444375,
+      "name": "District",
+      "url": "https://open.spotify.com/track/2FwKcbtuPXlgvFF4r9Z8hX"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Mutations VI",
+        "url": "https://open.spotify.com/album/6lPqp9DlM9TqXgT9MyWfju"
+      },
+      "artists": [
+        {
+          "name": "Auggi\u00eb",
+          "url": "https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe"
+        }
+      ],
+      "duration_ms": 312514,
+      "name": "Five Gorilla",
+      "url": "https://open.spotify.com/track/7ATmLyXXJpChbb5x2TjvfE"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Scala EP",
+        "url": "https://open.spotify.com/album/3Uny2QXIyiq2sOqbg7FzhW"
+      },
+      "artists": [
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        }
+      ],
+      "duration_ms": 502002,
+      "name": "Scala - Original",
+      "url": "https://open.spotify.com/track/4bNyYgiyTtdcCMirzwFVIf"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "NRFTW",
+        "url": "https://open.spotify.com/album/22T05LAJeVmOqMuEU5V0oe"
+      },
+      "artists": [
+        {
+          "name": "Aaaron",
+          "url": "https://open.spotify.com/artist/6sAjR3KTv3ndbi77RmREoj"
+        }
+      ],
+      "duration_ms": 352898,
+      "name": "NRFTW",
+      "url": "https://open.spotify.com/track/2oVivdZuElUwFdb1fOKG3x"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Sensa (Dennis Louvra Remix)",
+        "url": "https://open.spotify.com/album/126n1vtflq8cba4nFTDw1f"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "Zac Martel",
+          "url": "https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g"
+        },
+        {
+          "name": "Tommy Kimpton",
+          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
+        },
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        }
+      ],
+      "duration_ms": 212035,
+      "name": "Sensa - Dennis Louvra Remix",
+      "url": "https://open.spotify.com/track/6jBIwxcjRKpMZuKIIx2MF7"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Thrown Around",
+        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 260407,
+      "name": "Thrown Around",
+      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6BzWXIsAAJCVYdbRurYEDc"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 228688,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/3s0J7zz00CFoc35XjZlG3Q"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Under the Sheets",
+        "url": "https://open.spotify.com/album/59koRlb6RpxtYX4CW2UrM4"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 453254,
+      "name": "Under The Sheets",
+      "url": "https://open.spotify.com/track/2haQNycQXYCnfVXAeBZrKj"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/0ZNLNGlAMyibdrhHXyBzQQ"
+      },
+      "artists": [
+        {
+          "name": "Marc Gonen",
+          "url": "https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf"
+        }
+      ],
+      "duration_ms": 175556,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3a0AsqDY11P66dLEKy1Mzf"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "We Care EP",
+        "url": "https://open.spotify.com/album/6SL0Hk543TlrKPCOOhaTRQ"
+      },
+      "artists": [
+        {
+          "name": "Shiffer",
+          "url": "https://open.spotify.com/artist/5RvJSmZEF6CPySmfJhfL34"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "duration_ms": 442934,
+      "name": "We Care",
+      "url": "https://open.spotify.com/track/2pdozGzNhr5oo97JzSVEd9"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Wile Out (feat. Surya Sen)",
+        "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "duration_ms": 195143,
+      "name": "Wile Out (feat. Surya Sen)",
+      "url": "https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1uOeNRXiTppIR7evFEXOG1"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        }
+      ],
+      "duration_ms": 386195,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/49UnvR3vrn1LtK8bs9484p"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Makes Me Wonder",
+        "url": "https://open.spotify.com/album/0HSwb0U6BDrcB1jLUt6e5N"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 265181,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/6NdyfsjH0wFovyEqqAP0PP"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Sensa",
+        "url": "https://open.spotify.com/album/2RWJTcOuzato9McKwJgzH2"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "Zac Martel",
+          "url": "https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g"
+        },
+        {
+          "name": "Tommy Kimpton",
+          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
+        }
+      ],
+      "duration_ms": 265023,
+      "name": "Sensa",
+      "url": "https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Maasai",
+        "url": "https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Maasai",
+      "url": "https://open.spotify.com/track/0cUnwXhdasx3K1zj69wtYP"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Cookie / Janni",
+        "url": "https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "duration_ms": 206195,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/4gstZtZtXLXv0Uo8FzFpGV"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Lost In The Desert",
+        "url": "https://open.spotify.com/album/3Dl447qI0KgKOwhVMagDQC"
+      },
+      "artists": [
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+        }
+      ],
+      "duration_ms": 264103,
+      "name": "Lost In The Desert",
+      "url": "https://open.spotify.com/track/2RNrddOJ8ABDSNIyqCwg25"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Florista EP",
+        "url": "https://open.spotify.com/album/4empKdJYvKy1e80pFO5GY1"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "duration_ms": 346026,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/4I26MVz0safCGV0DXbDBq4"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Parlem",
+        "url": "https://open.spotify.com/album/5YL43orhu5KCTb1qngirmh"
+      },
+      "artists": [
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "duration_ms": 490983,
+      "name": "Tirant Lo Blanc",
+      "url": "https://open.spotify.com/track/26Vj4dUQJT6uiaORxZo9RJ"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Bass N Hihat",
+        "url": "https://open.spotify.com/album/3fN9NY0o29q9lcHsxlVOnc"
+      },
+      "artists": [
+        {
+          "name": "Philip Arruda",
+          "url": "https://open.spotify.com/artist/2Gt3hvIb9EkEQh97mMPywO"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "duration_ms": 405120,
+      "name": "Seeds Of Brooklyn - &ME Remix",
+      "url": "https://open.spotify.com/track/1fDhptwr0gT0yR4n4KOm2q"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/1BqF0Lv8HRJapU58VwBwwx"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        },
+        {
+          "name": "Last Men On Earth",
+          "url": "https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "duration_ms": 300825,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/6AZRkRckOj62q3irZHDI30"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Herzen Auf",
+        "url": "https://open.spotify.com/album/70DKXudkS9qtNCqJr4QZy5"
+      },
+      "artists": [
+        {
+          "name": "Dave DK",
+          "url": "https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1"
+        }
+      ],
+      "duration_ms": 488000,
+      "name": "Herzen Auf",
+      "url": "https://open.spotify.com/track/1fGUd14SLouFJgy3H4YlTY"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "As Their Ways Intersect",
+        "url": "https://open.spotify.com/album/7AUKDEA6BNv3zpFHIT3NMk"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rieux",
+          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+        }
+      ],
+      "duration_ms": 482304,
+      "name": "Still Minus",
+      "url": "https://open.spotify.com/track/7htrWDLJjzmwE5SPO5NlWi"
+    },
+    {
+      "added_at": "2025-02-12 09:00:12",
+      "album": {
+        "name": "Long Way",
+        "url": "https://open.spotify.com/album/5d1yfljm3mBz14wGuRauaO"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 245496,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/0hvXahHZBF9rgg2GsvsWhi"
+    }
+  ],
+  "unique_name": "Tripolism's track IDs",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWXvitqypcRR"
+}

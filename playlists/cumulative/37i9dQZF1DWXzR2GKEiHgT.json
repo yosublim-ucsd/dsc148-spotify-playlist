@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Calming Pacific Waves",
+        "url": "https://open.spotify.com/album/4o6pmUXodqlqtTso0JbG81"
+      },
+      "artists": [
+        {
+          "name": "Ocean in HD",
+          "url": "https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272741,
+      "name": "Calming Pacific Waves",
+      "url": "https://open.spotify.com/track/3hu7JozO1969BYZpvvrspm"
+    },
+    {
+      "album": {
         "name": "Ocean Sounds Vol. 4",
         "url": "https://open.spotify.com/album/5uHGGk7UbfdQxQpx35spjM"
       },
@@ -1352,6 +1370,24 @@
       "duration_ms": 147121,
       "name": "Intense Waves",
       "url": "https://open.spotify.com/track/1FtSAakJaU7QilpyRo2kmF"
+    },
+    {
+      "album": {
+        "name": "Isora Waves",
+        "url": "https://open.spotify.com/album/7IpbgfxA01UPhbNv1VaSlc"
+      },
+      "artists": [
+        {
+          "name": "Lusunzi",
+          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183322,
+      "name": "Isora Waves",
+      "url": "https://open.spotify.com/track/34NDWHHEGKH8NQBLjUNlv9"
     },
     {
       "album": {
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 255253,
       "name": "Pebbles",
       "url": "https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp"
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 260256,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/5dMjTM8o4K2s3Dh7qWLiu3"

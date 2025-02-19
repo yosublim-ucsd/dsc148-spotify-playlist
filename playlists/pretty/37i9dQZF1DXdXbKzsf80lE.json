@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 260988,
+  "num_followers": 260999,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Pisadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Pisadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "Caf\u00e9zin de V\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 163654,
       "name": "Caf\u00e9zin de V\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Pisadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Pisadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Edilene",
-        "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
-      },
-      "artists": [
-        {
-          "name": "Tayrone",
-          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Edilene",
-      "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W"
       },
@@ -1095,6 +1079,26 @@
       "duration_ms": 116166,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "A Um Beijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 156164,
+      "name": "A Um Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7"
     }
   ],
   "unique_name": "Bora arrochar",

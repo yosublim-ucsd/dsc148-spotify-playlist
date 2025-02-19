@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Almond Chocolate",
+        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Almond Chocolate",
+      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
+    },
+    {
+      "album": {
         "name": "Acoustic -Self Cover Album-",
         "url": "https://open.spotify.com/album/47ZFoBWIddVjqRCAqd7DCz"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 264667,
       "name": "cinema",
       "url": "https://open.spotify.com/track/1FmopaVTLI7dD6ZujdKc17"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 172481,
       "name": "\u305a\u3063\u3068",
       "url": "https://open.spotify.com/track/1mQTJB6OXyW857irRIB2LT"
@@ -3566,6 +3584,28 @@
       "duration_ms": 286693,
       "name": "\u306c\u304f\u3082\u308a",
       "url": "https://open.spotify.com/track/1s410Rb0t77G2xPCZEXun9"
+    },
+    {
+      "album": {
+        "name": "\u306d\u3047\u3001\u3069\u3046\u3057\u3066",
+        "url": "https://open.spotify.com/album/4fzA9kta0uJiCe0FY4Ild8"
+      },
+      "artists": [
+        {
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+        },
+        {
+          "name": "TakaseToya",
+          "url": "https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194925,
+      "name": "\u306d\u3047\u3001\u3069\u3046\u3057\u3066",
+      "url": "https://open.spotify.com/track/6MsfK0v383AJf6BoyTDnPj"
     },
     {
       "album": {
@@ -5308,7 +5348,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 131666,
       "name": "\u5922\u706f\u7c60",
       "url": "https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T"
@@ -6161,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Lovesoku",
+        "url": "https://open.spotify.com/album/5M2uvhEDfCbvxz4dhte1bW"
+      },
+      "artists": [
+        {
+          "name": "R\u00eaRA",
+          "url": "https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160177,
+      "name": "\u611b\u4e0d\u8db3",
+      "url": "https://open.spotify.com/track/0EbZgYhcmmAferyvVQPDQw"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5"
       },
@@ -6226,7 +6284,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 188015,
       "name": "\u672a\u604b",
       "url": "https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6"
@@ -6806,6 +6864,24 @@
       "duration_ms": 269806,
       "name": "\u840c",
       "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"
+    },
+    {
+      "album": {
+        "name": "\u8594\u8587\u3068\u6563\u308b",
+        "url": "https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185900,
+      "name": "\u8594\u8587\u3068\u6563\u308b",
+      "url": "https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ"
     },
     {
       "album": {

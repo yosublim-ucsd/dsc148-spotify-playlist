@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAACU+Q4Lsa5r24opzT9fId4V",
+  "snapshot_id": "Z7J8AAAAAAAiunhTVFLUUqLj9ONVgr+v",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Una Canci\u00f3n por Dios",
-      "url": "https://open.spotify.com/track/06KTyxDHBsb71AYAbb0J1N"
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
+      "duration_ms": 230333,
+      "name": "Una Canci\u00f3n por Dios",
+      "url": "https://open.spotify.com/track/06KTyxDHBsb71AYAbb0J1N"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Donde T\u00fa Est\u00e1s",
-      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
+      "duration_ms": 219533,
+      "name": "Viejas Historias",
+      "url": "https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Viejas Historias",
-      "url": "https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx"
+      "duration_ms": 218680,
+      "name": "Donde T\u00fa Est\u00e1s",
+      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
     },
     {
       "added_at": null,

@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u5143\u6c17\u304c\u51fa\u308b\u30d1\u30ef\u30d5\u30eb\uff06\u30dd\u30c3\u30d7\u306a\u30dc\u30ab\u30ed\u66f2\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 135,
+  "num_followers": 137,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEdHMKxLr6Z4YPRrDRmGGEXIBTGYts",
+  "snapshot_id": "AAAEg7OtJhCVvIQnnrFbDaEjBezZIDzi",
   "tracks": [
+    {
+      "added_at": "2025-02-18 08:25:24",
+      "album": {
+        "name": "\u63a8\u5b9a\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5W3S2Ed1zW3y9keQDGvxcO"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "\u63a8\u5b9a\u30e9\u30d6\u30bd\u30f3\u30b0 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/4AeZsVhDCLrsLp1gbX2c09"
+    },
+    {
+      "added_at": "2025-02-18 08:25:50",
+      "album": {
+        "name": "\u920d\u8272\u306b\u67d3\u307e\u308c",
+        "url": "https://open.spotify.com/album/0MsR2SUl36QnYfQgCc86hD"
+      },
+      "artists": [
+        {
+          "name": "As'257G",
+          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "\u920d\u8272\u306b\u67d3\u307e\u308c (feat. KAITO)",
+      "url": "https://open.spotify.com/track/3ltybQlrurxH8SDHKPzTbQ"
+    },
+    {
+      "added_at": "2025-02-18 08:26:05",
+      "album": {
+        "name": "\u88cf\u5207\u308a\u306e\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/5qzlRq3AuEcQv5jQXautlA"
+      },
+      "artists": [
+        {
+          "name": "Setsuna-P",
+          "url": "https://open.spotify.com/artist/02J9EjtRcBi8rFkNnPNq1D"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 310464,
+      "name": "\u88cf\u5207\u308a\u306e\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/4k6FozeFLv6i5Se5OIs6vU"
+    },
+    {
+      "added_at": "2025-02-18 08:26:17",
+      "album": {
+        "name": "\u30a2\u30a6\u30c7\u30a3\u30aa\u30e0\u30b8\u30ab",
+        "url": "https://open.spotify.com/album/5YUb0AzZaM9hcbavXo80Ou"
+      },
+      "artists": [
+        {
+          "name": "\u60d1\u4e95",
+          "url": "https://open.spotify.com/artist/1w6pUNRcGVGE9pU0uYhcnu"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 190857,
+      "name": "\u30a2\u30a6\u30c7\u30a3\u30aa\u30e0\u30b8\u30ab (feat. KAITO)",
+      "url": "https://open.spotify.com/track/7cHteqIjZydifbOcGi1Na3"
+    },
+    {
+      "added_at": "2025-02-18 08:26:30",
+      "album": {
+        "name": "\u7279\u5225\u3058\u3083\u306a\u3044\u50d5\u306e\u751f\u304d\u308b\u610f\u5473",
+        "url": "https://open.spotify.com/album/6JV9RSu3Kkcf0WSJk092dO"
+      },
+      "artists": [
+        {
+          "name": "Re:nG",
+          "url": "https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 279795,
+      "name": "\u7279\u5225\u3058\u3083\u306a\u3044\u50d5\u306e\u751f\u304d\u308b\u610f\u5473 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/5spgr2bfQYIjPcNeIZ9etu"
+    },
     {
       "added_at": "2025-01-28 08:39:59",
       "album": {
@@ -743,130 +843,6 @@
       "duration_ms": 186973,
       "name": "\u30df\u30eb\u30b3\u30e1\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4Fvdvg3tMd0NoftbNMj0m0"
-    },
-    {
-      "added_at": "2024-11-05 08:29:07",
-      "album": {
-        "name": "\u516d\u82b1\u8b83\u6b4c",
-        "url": "https://open.spotify.com/album/2IDAlpFY78fr4QIONXQ9qv"
-      },
-      "artists": [
-        {
-          "name": "rukaku",
-          "url": "https://open.spotify.com/artist/2lAoVkxFoDf5o1PGtX0iAG"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 218901,
-      "name": "\u516d\u82b1\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/5PpDUdkNlAQIrSQLg7Gcmr"
-    },
-    {
-      "added_at": "2024-11-05 08:29:20",
-      "album": {
-        "name": "EX10SION",
-        "url": "https://open.spotify.com/album/61j3EOlWjZm5fC1SUrYCO6"
-      },
-      "artists": [
-        {
-          "name": "TOKOTOKO",
-          "url": "https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH"
-        },
-        {
-          "name": "GUMI SV",
-          "url": "https://open.spotify.com/artist/0AGJkrs5uRJ9uFDHaqbVZB"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "\u591c\u3082\u3059\u304c\u3089\u541b\u60f3\u3075 (10th Anniv.) feat.GUMI SV",
-      "url": "https://open.spotify.com/track/02j3ouldOLVDdLO3cE4Tw6"
-    },
-    {
-      "added_at": "2024-11-05 08:29:39",
-      "album": {
-        "name": "Dancing on the edge",
-        "url": "https://open.spotify.com/album/3LFMTZdWJoESC9ruWc5evs"
-      },
-      "artists": [
-        {
-          "name": "okameP",
-          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "MAI",
-          "url": "https://open.spotify.com/artist/0HlTcy9czaATTBerfsVICJ"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Dancing on the edge (feat. \u521d\u97f3\u30df\u30af&Mai)",
-      "url": "https://open.spotify.com/track/1QONtjRwTlUODLpIggX5tU"
-    },
-    {
-      "added_at": "2024-11-05 08:30:57",
-      "album": {
-        "name": "next",
-        "url": "https://open.spotify.com/album/1xeKlSKdSgX2Blcs6rrecP"
-      },
-      "artists": [
-        {
-          "name": "Yoshihi",
-          "url": "https://open.spotify.com/artist/41FN2VKfQzEI9LOX4LFeaI"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 197763,
-      "name": "\u30a4\u30ca\u30ba\u30de (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
-      "url": "https://open.spotify.com/track/6y59soOzuUqo1gmLoYFvp0"
-    },
-    {
-      "added_at": "2024-11-05 08:31:07",
-      "album": {
-        "name": "\u65c5\u306e\u9014\u4e2d",
-        "url": "https://open.spotify.com/album/01OoFMOC5ZLJ5xSgZDnwWp"
-      },
-      "artists": [
-        {
-          "name": "dezzy",
-          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "\u65c5\u306e\u9014\u4e2d (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6JcaY9hBH9x6GtqhHJ1Jc0"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

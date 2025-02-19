@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak:  Sibel Can",
-  "num_followers": 1488545,
+  "num_followers": 1488743,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7MfsgAAAABremQ74wdVbylYeEQPtNMI",
+  "snapshot_id": "Z7TI2QAAAAB7nLXzRDTtBG/8BHhB0U09",
   "tracks": [
     {
       "added_at": "2025-02-13 21:00:33",
@@ -71,6 +71,26 @@
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
+    },
+    {
+      "added_at": "2025-02-13 21:00:33",
+      "album": {
+        "name": "Eyl\u00fcl",
+        "url": "https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Eyl\u00fcl",
+      "url": "https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s"
     },
     {
       "added_at": "2025-02-13 21:00:33",
@@ -159,26 +179,6 @@
       "duration_ms": 204833,
       "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
-    },
-    {
-      "added_at": "2025-02-13 21:00:33",
-      "album": {
-        "name": "Eyl\u00fcl",
-        "url": "https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ"
-      },
-      "artists": [
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Eyl\u00fcl",
-      "url": "https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s"
     },
     {
       "added_at": "2025-02-13 21:00:33",

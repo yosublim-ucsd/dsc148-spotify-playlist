@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=Fb98etzwQHGS75PNaRg80w>Celestine Donkor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,683 likes - 102 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,703 likes - 102 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 71 | [Satisfy \- Remix](https://open.spotify.com/track/1OGV0JzujcsDuniVSt2hBO) | [Bene Bliss](https://open.spotify.com/artist/73aQ6cspS8tYWSXEPGuJlR), [Annie Shine](https://open.spotify.com/artist/2o0rwOnD3Y6lOJnC245fmS) | [Love N' Redemption](https://open.spotify.com/album/57EZuQMiH25TZ6hiPrSVtk) | 4:05 |
 | 72 | [Faith](https://open.spotify.com/track/5kF0VDA972ETRkY1Y8v5wH) | [Bosoma](https://open.spotify.com/artist/2OdIbvMTCaQqc1QnhLDSAT) | [Faith](https://open.spotify.com/album/2GC40qAxNSE8RM4jQ5OhFJ) | 2:45 |
 | 73 | [No Holiday](https://open.spotify.com/track/6bxvTw0Yz1ZVfJYBViYRZl) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Holiday](https://open.spotify.com/album/4W9RcH0poROY0B3fowCQHC) | 2:32 |
-| 74 | [Song of Angels \- Revisited](https://open.spotify.com/track/0f5734nCOdFcF6n3cfEsBk) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY), [Isi Iredia](https://open.spotify.com/artist/0cxXoK5m97MFvfgACOKD9j) | [Song of Angels](https://open.spotify.com/album/5P4I5ctdqpbhF8kxNrRn3x) | 13:50 |
+| 74 | [Song of Angels \- Revisited](https://open.spotify.com/track/0f5734nCOdFcF6n3cfEsBk) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Ahjah](https://open.spotify.com/artist/6assgJm2YuFQvi0SOSm3ev), [Isi Iredia](https://open.spotify.com/artist/0cxXoK5m97MFvfgACOKD9j) | [Song of Angels](https://open.spotify.com/album/5P4I5ctdqpbhF8kxNrRn3x) | 13:50 |
 | 75 | [Nobody](https://open.spotify.com/track/4r0B3DI8iCiU29JpCjhn2L) | [Nimix](https://open.spotify.com/artist/3A51ku0vUmDlGshRgD7TPe) | [Nobody](https://open.spotify.com/album/24Oq6641hRVwJlOhu81A2w) | 3:51 |
 | 76 | [ADN Du Très Haut](https://open.spotify.com/track/5GC90DIyNa10RJADEyOKaP) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Allégeance](https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW) | 2:42 |
 | 77 | [Working for My Good \- Remix](https://open.spotify.com/track/5c4DkQDwRwFZgCdIhkNS9f) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Working for My Good \(Remix\)](https://open.spotify.com/album/6AkYFatMd9N3Ly0JdDHacr) | 2:29 |

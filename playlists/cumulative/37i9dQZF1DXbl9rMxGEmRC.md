@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-685 songs - 2 day 10 hr 49 min
+686 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [At Dusk](https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar), [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [At Dusk](https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX) | 4:04 | 2023-05-05 | 2025-01-31 |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2024-07-15 |
 | [Avsändare Okänd](https://open.spotify.com/track/25oIp4MWarQehhgWyQGl3O) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Avsändare Okänd](https://open.spotify.com/album/7ANppiwdgIA2oxrq8mhEqm) | 8:28 | 2023-08-11 | 2023-10-01 |
-| [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 | 2024-03-22 | 2025-02-17 |
+| [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 | 2024-03-22 |  |
 | [Axis Mundi](https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Axis Mundi](https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe) | 4:24 | 2023-02-23 | 2023-04-07 |
 | [AZONEI WYRDWALKER](https://open.spotify.com/track/0vxOahfuJ3Qlcwg2Obzdfs) | [DØDSENGEL](https://open.spotify.com/artist/2X20fIoEYriNBjJA7R7dOM) | [MIRIUM OCCULTUM](https://open.spotify.com/album/75oMnd3O6E9QEaPnGzawWa) | 7:58 | 2022-07-13 | 2022-07-22 |
 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 | 2022-07-13 | 2022-09-02 |
@@ -150,7 +150,7 @@
 | [De Mysteriis Dom Sathanas](https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:21 | 2022-07-13 | 2023-03-01 |
 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 | 2021-12-17 | 2022-01-15 |
 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-17 | 2024-02-16 |
-| [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 |  |
+| [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 | 2025-02-19 |
 | [Dead Wrong](https://open.spotify.com/track/67hZkxdZJReO1T4uW0ZPVn) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ), [Micheal Kearney](https://open.spotify.com/artist/2BFIpsTl7pQRDatPD4lB0U) | [Dead Wrong](https://open.spotify.com/album/1z9vGwn2Nc5SQuWARRNhtq) | 4:33 | 2024-07-03 |  |
 | [Deadly Metal](https://open.spotify.com/track/4y24MxyVxfwLafyTscYKte) | [Cadaver](https://open.spotify.com/artist/3jXKuyWNGa8hUPsnrblyl7) | [The Age Of The Offended](https://open.spotify.com/album/41XSSyvJe1IyHeFB1QHrPq) | 2:45 | 2024-03-01 |  |
 | [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-11 | 2024-03-22 |
@@ -303,6 +303,7 @@
 | [I Am The Black Wizards](https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 6:00 | 2022-07-13 | 2023-05-05 |
 | [I Am The Black Wizards](https://open.spotify.com/track/4jjlYfhduOrGY4mySof5C3) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/0va7zHEUQixlEhLAFz2r63) | 6:00 | 2023-05-05 | 2023-08-19 |
 | [I Am the Night](https://open.spotify.com/track/7n4U90ST7RSr6B0WXXAcbt) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [I Am the Night](https://open.spotify.com/album/5dAqD9ry2pOU7YMPRXazRz) | 4:32 | 2022-04-08 | 2022-05-07 |
+| [I Am The One](https://open.spotify.com/track/4H6MyXDLZZE1jJcxrNSXgS) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [I Am The One](https://open.spotify.com/album/5CO6BmNhI6wT9GI5iKZaYQ) | 4:21 | 2025-01-30 |  |
 | [I Can Never Die](https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [I Can Never Die](https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I) | 4:30 | 2024-11-25 |  |
 | [I Feel Nothing When You Cry](https://open.spotify.com/track/0ewMtem4OT8eys2p1hmyzq) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Umbilical](https://open.spotify.com/album/1WILkP95BuckkTIm4OIQRm) | 3:52 | 2025-01-30 |  |
 | [I Resign](https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [I Resign](https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro) | 3:53 | 2023-04-20 |  |
@@ -597,7 +598,7 @@
 | [The Mask of Fate](https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO) | [ACOD](https://open.spotify.com/artist/6UDDF4b9a4zFj0voyjD4E1) | [Cryptic Curse](https://open.spotify.com/album/0r18y0KQKKKozZjsXQn8Bw) | 5:30 | 2023-02-15 | 2023-03-04 |
 | [The Middlemist Red](https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az) | [Dimman](https://open.spotify.com/artist/6QTX8AwQeLbU7QDEzi8zqZ) | [The Middlemist Red](https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o) | 3:59 | 2022-04-01 | 2022-07-17 |
 | [The Numinous One](https://open.spotify.com/track/30a8YSOFPocPuru2uYe7hY) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Unextinct](https://open.spotify.com/album/7GrP4nNcnXffSlqOAMkadH) | 7:02 | 2025-01-30 |  |
-| [The Orchard of Grief](https://open.spotify.com/track/4aJ8uR5JXf1rSWk6s75gCH) | [Inherits The Void](https://open.spotify.com/artist/4CdFQqeDpciw6AZcIG1xn6) | [Scars of Yesteryears](https://open.spotify.com/album/2Gmii6i6OOielH7IiXW993) | 5:30 | 2024-07-03 |  |
+| [The Orchard of Grief](https://open.spotify.com/track/4aJ8uR5JXf1rSWk6s75gCH) | [Inherits The Void](https://open.spotify.com/artist/4CdFQqeDpciw6AZcIG1xn6) | [Scars of Yesteryears](https://open.spotify.com/album/2Gmii6i6OOielH7IiXW993) | 5:30 | 2024-07-03 | 2025-02-19 |
 | [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 |  |
 | [The Pain, will be Exquisite](https://open.spotify.com/track/6W6bjSvfVOEoBYirhqcl0b) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [The Pain, will be Exquisite](https://open.spotify.com/album/6VMD7XOxLOUv3t3mlFFkdZ) | 4:14 | 2025-01-30 |  |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/0lZFz009jZslzPn0ArTbkl) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves and Titan Woods](https://open.spotify.com/album/2xq8TaPMvQJaXMW79byymI) | 2:55 | 2022-07-13 | 2022-07-28 |

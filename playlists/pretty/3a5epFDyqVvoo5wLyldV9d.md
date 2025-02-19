@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 832 songs - 2 day 17 hr 23 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 834 songs - 2 day 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -749,7 +749,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 739 | [Trouble Sleep Yanga Wake Am](https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight](https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP) | 12:06 |
 | 740 | [Un Ano De Amor](https://open.spotify.com/track/5eIUhOoNHW8zICjotOsmw2) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Talons Aiguilles De Pedro Almodovar](https://open.spotify.com/album/0Vo3Cw2t9UfUVjmuavIkTp) | 3:19 |
 | 741 | [Piensa En Mi](https://open.spotify.com/track/1hLwHet3zs0Vqr47Jz2hLc) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Talons Aiguilles De Pedro Almodovar](https://open.spotify.com/album/0Vo3Cw2t9UfUVjmuavIkTp) | 4:28 |
-| 742 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 |
+| 742 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 |
 | 743 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 |
 | 744 | [Comanche](https://open.spotify.com/track/6jlqL9joFnF98jY335t2y4) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Negro É Lindo](https://open.spotify.com/album/72gN1rKSLa00sDq8fmGQF4) | 2:55 |
 | 745 | [Jelivrà Bo Situaçon](https://open.spotify.com/track/0Bk4J1UclnZ5WvO3rryKG3) | [Manuel Gomes](https://open.spotify.com/artist/62HcnNBJaQeMja6COwsZoa) | [Synthesize the Soul: Astro\-Atlantic Hypnotica from the Cape Verde Islands 1973 \- 1988](https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh) | 2:59 |
@@ -840,5 +840,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 830 | [Marimba](https://open.spotify.com/track/1ruyDKHk1B8L8Y1svUKoYk) | [Yargo](https://open.spotify.com/artist/2UT3XvMZfzcs290xEIniHf) | [Luke Una Presents É Soul Cultura, Vol\. 2](https://open.spotify.com/album/4d6KhvaW2fOH9Hu2Yzt7gi) | 5:27 |
 | 831 | [مبسوطة](https://open.spotify.com/track/4JHLmPI7vZm42VqRGMiemv) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1) | [الو](https://open.spotify.com/album/0dr8lDtwokH2ys7vAAxVFV) | 4:29 |
 | 832 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 |
+| 833 | [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 |
+| 834 | [Batkalem Gad](https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Batkalem Gad](https://open.spotify.com/album/11HyvAF5XrYmjuR7kUoO3Q) | 4:36 |
 
-Snapshot ID: `AAADqDQkbzNCFmdetWXSaRVuC7UcK9bM`
+Snapshot ID: `AAADqoCsZNPpaNrlq05QLJ/kNTaS4lfj`

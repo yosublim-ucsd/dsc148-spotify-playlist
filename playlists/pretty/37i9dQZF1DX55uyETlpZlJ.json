@@ -1,13 +1,33 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Rahul Dit-O",
-  "num_followers": 24425,
+  "num_followers": 24432,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7Ll/AAAAABoW3mw4I7j94G26Ks5T4nM",
+  "snapshot_id": "Z7RzZgAAAABuR3I6+nuzdibm68tPpuK8",
   "tracks": [
+    {
+      "added_at": "2025-02-18 11:45:27",
+      "album": {
+        "name": "My Love (Kannada)",
+        "url": "https://open.spotify.com/album/5SMHqxu7YwAGsIHCPDTn9k"
+      },
+      "artists": [
+        {
+          "name": "R Kaushal",
+          "url": "https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2"
+        },
+        {
+          "name": "Lavanya Anthanna",
+          "url": "https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "My Love - Kannada",
+      "url": "https://open.spotify.com/track/5M6VZVB1wTwgCGqAUln2CT"
+    },
     {
       "added_at": "2025-01-07 12:47:04",
       "album": {
@@ -33,6 +53,30 @@
       "url": "https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j"
     },
     {
+      "added_at": "2025-02-18 11:47:50",
+      "album": {
+        "name": "Alochane",
+        "url": "https://open.spotify.com/album/3GK6rmUrTMqsQWo4WiR1wG"
+      },
+      "artists": [
+        {
+          "name": "Athmik Rai",
+          "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
+        },
+        {
+          "name": "Sukeerth Shetty",
+          "url": "https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo"
+        },
+        {
+          "name": "Thanusha KM",
+          "url": "https://open.spotify.com/artist/0MCXq3V1499mItuvVRmGdl"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Alochane",
+      "url": "https://open.spotify.com/track/76b6XWSPuXZUhyxz5JShhE"
+    },
+    {
       "added_at": "2025-01-30 06:53:46",
       "album": {
         "name": "Sakkathagiddini",
@@ -47,6 +91,22 @@
       "duration_ms": 158986,
       "name": "Sakkathagiddini",
       "url": "https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93"
+    },
+    {
+      "added_at": "2025-02-18 11:47:04",
+      "album": {
+        "name": "Manase Relax",
+        "url": "https://open.spotify.com/album/2bydnauAN63633eCC1ddEM"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Manase Relax",
+      "url": "https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2"
     },
     {
       "added_at": "2025-02-17 07:32:12",
@@ -875,26 +935,6 @@
     {
       "added_at": "2025-01-06 04:59:04",
       "album": {
-        "name": "Ninnindale",
-        "url": "https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8"
-      },
-      "artists": [
-        {
-          "name": "Surabhi Bharadwaj",
-          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
-        },
-        {
-          "name": "Shashank shetty",
-          "url": "https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA"
-        }
-      ],
-      "duration_ms": 225284,
-      "name": "Ninnindale",
-      "url": "https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
         "name": "Sanchari",
         "url": "https://open.spotify.com/album/4GYgujBBza8uMCuPAxxiTi"
       },
@@ -1363,22 +1403,6 @@
     {
       "added_at": "2025-01-06 04:59:04",
       "album": {
-        "name": "Anna Thamma",
-        "url": "https://open.spotify.com/album/36ovnJBaeqKGzWopJkewx2"
-      },
-      "artists": [
-        {
-          "name": "Stunning Brothers",
-          "url": "https://open.spotify.com/artist/0wCLmaPe5QdliCrAF8Iu84"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Anna Thamma",
-      "url": "https://open.spotify.com/track/7kEKFFKfNXGRbcdB5OGnmL"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
         "name": "Nilladu Ninna Kanasugalu",
         "url": "https://open.spotify.com/album/2BaYQQfhXTzkqv7lVVoM1E"
       },
@@ -1411,38 +1435,6 @@
       "duration_ms": 133888,
       "name": "Hosa Belaku",
       "url": "https://open.spotify.com/track/5X9cfjYGqJ00d5vN8vV5Do"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Thundakkinai",
-        "url": "https://open.spotify.com/album/5Cozy1R2uJGFBheWw0Om0J"
-      },
-      "artists": [
-        {
-          "name": "Jeevanandhan Ram",
-          "url": "https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax"
-        }
-      ],
-      "duration_ms": 239294,
-      "name": "Thundakkinai",
-      "url": "https://open.spotify.com/track/5BzbuYcYEXyJni4u92mlEP"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "BRAHMA BAREDA YAAKINGE",
-        "url": "https://open.spotify.com/album/1rJ7M1YHchppCUDNVRqYDV"
-      },
-      "artists": [
-        {
-          "name": "Suraj Jois",
-          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
-        }
-      ],
-      "duration_ms": 271209,
-      "name": "BRAHMA BAREDA YAAKINGE",
-      "url": "https://open.spotify.com/track/1tfn40F6YmXE7W4yEnDIL3"
     }
   ],
   "unique_name": "Kannada Indie",

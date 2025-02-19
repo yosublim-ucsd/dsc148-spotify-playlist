@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Mari Fernandez, Grupo Menos É Mais e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020,565 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020,687 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [Sumiu Na Sexta \- Ao Vivo](https://open.spotify.com/track/3cWEn1jo6Ui1SysgZZ5Tw2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Sumiu Na Sexta \(Ao Vivo\)](https://open.spotify.com/album/0UqEKXDvDqP0goxMf4EQWF) | 2:53 |
 | 13 | [Dizer Não \- Ao Vivo](https://open.spotify.com/track/78eAFe7Ilqe2xqHDp8adjM) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Dizer Não \(Ao Vivo\)](https://open.spotify.com/album/0DRhHalPNmLUH19OShGCmQ) | 2:43 |
 | 14 | [Papai do Céu \- Ao Vivo](https://open.spotify.com/track/3dRC46WimHyhb9UBr3p3Le) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Papai do Céu \(Ao Vivo\)](https://open.spotify.com/album/3MqwDf60dqVOgP1C8pBbWV) | 2:58 |
-| 15 | [No Teu Lugar \- Ao Vivo](https://open.spotify.com/track/4H0yEskgtCxBTYptoXfXeN) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/6g1yc3NZ1Uyj8wxjsma5lB) | 2:47 |
+| 15 | [No Teu Lugar \- Ao Vivo](https://open.spotify.com/track/4H0yEskgtCxBTYptoXfXeN) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ) | [No Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/6g1yc3NZ1Uyj8wxjsma5lB) | 2:47 |
 | 16 | [Me Escolheu \- Ao Vivo](https://open.spotify.com/track/0cS7NeWjuEK0fGSWmvcQU1) | [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Me Escolheu \(Ao Vivo\)](https://open.spotify.com/album/4bGc0UihWgvPY3Vz2Gb2Bq) | 2:47 |
 | 17 | [Elixir](https://open.spotify.com/track/7uI3uYghcCTdPBYdr6qODT) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Elixir](https://open.spotify.com/album/5XAz2CGZR28YpdaJ9cvbpg) | 4:23 |
 | 18 | [Boca Louca \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Boca Louca \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF) | 4:00 |

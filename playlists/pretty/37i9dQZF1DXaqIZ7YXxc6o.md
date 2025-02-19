@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Kylie Minogue, Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,703 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,702 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [DANCER](https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [DANCER](https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s) | 3:45 |
 | 100 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 
-Snapshot ID: `Z63tFwAAAADmcYi8/jjALkEFs4e2TL7Q`
+Snapshot ID: `Z63tFwAAAADP/PZUlRGU6ZqrgYK9vN6e`

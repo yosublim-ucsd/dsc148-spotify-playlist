@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 97865,
+  "num_followers": 97906,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Ta main",
-      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 206626,
       "name": "Evidemment - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Ta main",
+      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
+        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "Femmes... Je vous aime",
+      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
-        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "Femmes... Je vous aime",
-      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "En amont",
-        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Immortels",
-      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190026,
       "name": "Secret",
       "url": "https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "En amont",
+        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
+      },
+      "artists": [
+        {
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Immortels",
+      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Barbara - N\u00b02",
-        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
+        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
+        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
       },
       "artists": [
         {
-          "name": "Barbara",
-          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 161786,
-      "name": "G\u00f6ttingen",
-      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+      "duration_ms": 153866,
+      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
+      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -863,22 +867,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
-        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
+        "name": "Barbara - N\u00b02",
+        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
       },
       "artists": [
         {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        },
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
-      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
+      "duration_ms": 161786,
+      "name": "G\u00f6ttingen",
+      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Lettre \u00e0 France",
-        "url": "https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 249042,
-      "name": "Lettre \u00e0 France",
-      "url": "https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "\u00c2me fifties",
         "url": "https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185053,
       "name": "Ici et l\u00e0",
       "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Lettre \u00e0 France",
+        "url": "https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 249042,
+      "name": "Lettre \u00e0 France",
+      "url": "https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U"
     },
     {
       "added_at": "2024-10-03 14:22:43",

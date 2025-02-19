@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,429 likes - 116 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,422 likes - 116 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

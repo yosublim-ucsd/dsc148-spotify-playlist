@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: wiśniosz
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,561 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,316 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 | 99 | [Dzień dobry, jestem z Polski](https://open.spotify.com/track/4195bCawPCxbOIb4X34BFR) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ) | [Dzień dobry, jestem z Polski](https://open.spotify.com/album/6tzNth0EWSKKEhhfhZg9fY) | 2:33 |
 | 100 | [Dym](https://open.spotify.com/track/6ctwvNFCKJG0thtBkzB4Zc) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [Dym](https://open.spotify.com/album/3mjso73nMQScbyrscDpFfh) | 2:07 |
 
-Snapshot ID: `Z4FNYgAAAACu+Kw7NSEeiOcyjfxpgson`
+Snapshot ID: `Z7SdtAAAAADMT4ubbBDc6SpzTIx4yIuq`

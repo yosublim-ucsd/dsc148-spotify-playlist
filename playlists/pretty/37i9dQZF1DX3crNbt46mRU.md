@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lo & Leduc
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,430 likes - 111 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,431 likes - 111 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

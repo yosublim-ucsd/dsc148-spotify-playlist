@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: HUSH
+> Songs from LGBTQIA+ artists\.  Cover: Vũ Cát Tường
 
-1,422 songs - 3 day 5 hr 13 min
+1,424 songs - 3 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 | 2022-02-25 | 2022-12-01 |
 | [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 | 2024-10-08 | 2024-12-05 |
 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 | 2024-04-09 | 2024-06-06 |
-| [false gold](https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 2:54 | 2024-12-04 |  |
+| [false gold](https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 2:54 | 2024-12-04 | 2025-02-19 |
 | [Family Ties](https://open.spotify.com/track/2dP2iym2h1qCm0Cla5Sa3N) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Michael Stipe](https://open.spotify.com/artist/1BrnT6jR3FfrHHtjxBSCDf) | [Family Ties](https://open.spotify.com/album/4YGMtwgQ0CuqTNh2kBOFre) | 3:44 | 2022-03-22 | 2022-04-21 |
 | [Far Far Away](https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Far Far Away](https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G) | 2:33 | 2023-08-08 | 2023-09-13 |
 | [Fascination](https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/0a2shuL3OZFJ8SzWPz7Egh) | 2:44 | 2022-01-07 | 2022-07-19 |
@@ -1297,6 +1297,7 @@
 | [uh](https://open.spotify.com/track/2hBTQHj1K6vS6GVznHWV3f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [uh](https://open.spotify.com/album/3vvE2HDUbARtLOjJng0jkJ) | 2:49 | 2022-01-07 | 2022-07-21 |
 | [Uh Huh](https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 3:02 | 2023-09-12 | 2023-11-30 |
 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-13 | 2023-05-10 |
+| [Um Lugar na Mouraria \- Gémea Analógica](https://open.spotify.com/track/3Vro2KGZpxVvfaJrkQYdnk) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Gémea Analógica](https://open.spotify.com/album/5TMIMSgK7lYHX3LO51vvJG) | 3:18 | 2025-02-18 |  |
 | [Umkhunkulu](https://open.spotify.com/track/2Lks0ImaV6890yzb2zrhSj) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [Next Level](https://open.spotify.com/album/2MqeRcbAi6Kgy6TNFTDVjy) | 4:43 | 2024-06-05 | 2024-07-10 |
 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 | 2024-05-06 | 2025-01-15 |
 | [Underdogs](https://open.spotify.com/track/4MALiTKHAOFmOqXe16bt8K) | [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Underdogs](https://open.spotify.com/album/10UUUzUXqMPXyoKeVPrALd) | 3:36 | 2022-04-29 | 2022-07-18 |
@@ -1396,10 +1397,11 @@
 | [Your Funeral](https://open.spotify.com/track/3y9K5sfxBscaZDgAJvaBhP) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Your Funeral](https://open.spotify.com/album/7kHawGCjHGSeiZLqcmkPt0) | 2:52 | 2023-04-13 | 2023-05-17 |
 | [your mom](https://open.spotify.com/track/6rp15O3RvL5sOMjHfLjxTK) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [your mom](https://open.spotify.com/album/0MDDf0IrpoEaYU0sMJ98H4) | 3:20 | 2022-10-07 | 2022-10-29 |
 | [Your Side of It](https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Your Side of It](https://open.spotify.com/album/1r4lhS2o8slWxrNPpkdN5I) | 3:23 | 2022-01-21 | 2022-02-22 |
-| [zły](https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [zły](https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ) | 3:20 | 2025-01-14 |  |
+| [zły](https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [zły](https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ) | 3:20 | 2025-01-14 | 2025-02-19 |
 | [Ślady](https://open.spotify.com/track/6ghfzdhPDc8GIrOZjZrfpt) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [IV!II](https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4) | 3:50 | 2024-10-08 | 2024-11-13 |
 | [Światła Lamp](https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Światła Lamp](https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo) | 2:44 | 2023-09-12 | 2023-10-11 |
 | [אוהבת אותך](https://open.spotify.com/track/3i5f4CksO6h06hQ5BXfjBh) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g) | [24](https://open.spotify.com/album/5JnHpd9o8n1snOjhQIrTE0) | 3:32 | 2023-01-24 | 2023-03-08 |
+| [אוויר לנשימה](https://open.spotify.com/track/37UoK4f7ghXOirEorXNsqb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [תדר 4](https://open.spotify.com/album/1kVo6voTgPVOh6IDV2zLOI) | 3:03 | 2025-02-18 |  |
 | [הכל או כלום](https://open.spotify.com/track/0hLXA4QhbXHYViO3YEj3N0) | [Chen Cohen](https://open.spotify.com/artist/4upZpNTghEsx3At2lAWp96) | [הכל או כלום](https://open.spotify.com/album/7BxRc32YDZbf2NbbJz6h81) | 3:14 | 2023-10-10 | 2023-11-14 |
 | [חזרה למציאות](https://open.spotify.com/track/105zU8MJxjQHOf9cRxDMZQ) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [חזרה למציאות](https://open.spotify.com/album/3bUjdo78ZOju0dCDKq8kOS) | 3:04 | 2023-06-01 | 2023-07-12 |
 | [לה די דה](https://open.spotify.com/track/5WDCSXXvISmMEZCZF1ABU2) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [לה די דה](https://open.spotify.com/album/6WuAOLNrUcu7Hs0NbfzqoZ) | 2:46 | 2023-09-12 | 2023-10-11 |

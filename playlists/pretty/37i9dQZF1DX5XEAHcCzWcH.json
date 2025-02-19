@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 46132,
+  "num_followers": 46159,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Down In Mississippi",
         "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "I've Got News For You",
-        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
-      },
-      "artists": [
-        {
-          "name": "Hadda Brooks",
-          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Anytime, Anyplace, Anywhere",
-      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+        "name": "I've Got News For You",
+        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
       "artists": [
         {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+          "name": "Hadda Brooks",
+          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
+      "duration_ms": 189146,
+      "name": "Anytime, Anyplace, Anywhere",
+      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Complete Jazz Series 1938 - 1939",
-        "url": "https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T"
-      },
-      "artists": [
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Roll 'Em, Pete (12-30-38)",
-      "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "New Shade of Blue",
         "url": "https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 262920,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Complete Jazz Series 1938 - 1939",
+        "url": "https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T"
+      },
+      "artists": [
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Roll 'Em, Pete (12-30-38)",
+      "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
     },
     {
       "added_at": "2024-05-30 16:22:42",

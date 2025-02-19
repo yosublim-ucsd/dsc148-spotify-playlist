@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-2,036 songs - 7 day 1 hr 13 min
+2,036 songs - 7 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [Então Profetiza](https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza](https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs) | 4:19 | 2023-09-25 | 2023-10-21 |
 | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/track/6HUVpv7GyUMzvFEvpkE21d) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/album/5jwPfJ2IynSiUzQnWJZoxB) | 3:15 | 2023-11-24 | 2023-12-23 |
 | [Envolve\-me](https://open.spotify.com/track/0NzQza7lA1IQfGVqJzxXVX) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Envolve\-me](https://open.spotify.com/album/6g8wLmk3jsniBv8JaAeOay) | 5:31 | 2024-11-22 | 2024-12-07 |
-| [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:54 | 2025-02-14 |  |
+| [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:56 | 2025-02-14 |  |
 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/6iexRD89rlGE5aJWdSQBMX) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0k6j8inOXGOit3flK9wEGC) | 3:05 | 2023-11-24 | 2023-12-23 |
 | [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 | 2023-11-24 | 2023-12-23 |
 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 | 2023-11-24 | 2023-12-17 |

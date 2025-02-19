@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con Vanessa Zamora & maye en portada.
 
-5,588 songs - 12 day 20 hr 45 min
+5,589 songs - 12 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3658,6 +3658,7 @@
 | [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 | 2022-07-01 | 2022-07-09 |
 | [Nostalgia](https://open.spotify.com/track/4turghziuJouzbooubMoJm) | [iloveyoubrazzy](https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs) | [Nostalgia](https://open.spotify.com/album/3dllg0hgZwFDpWk4399KkN) | 3:39 | 2025-01-17 | 2025-01-25 |
 | [Nostalgia](https://open.spotify.com/track/7n7zqfR0a4J353L0QBY5vn) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Nostalgia](https://open.spotify.com/album/13Uz7RaOauIVwV0JcfpVoG) | 2:37 | 2022-09-02 | 2022-09-10 |
+| [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 | 2025-02-14 |  |
 | [Nostálgico](https://open.spotify.com/track/6ax7OKV0kaoLK42SK5S5iH) | [Stereo Guy](https://open.spotify.com/artist/3k5flvwgMghKrpUaJNmNQl) | [Nostálgico](https://open.spotify.com/album/6HNzFTZJB3sliMDOD6yZxV) | 5:00 | 2022-04-29 | 2022-05-07 |
 | [Nota De Voz](https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Nota De Voz](https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s) | 2:50 | 2023-07-28 | 2023-08-05 |
 | [nothing happens](https://open.spotify.com/track/4c1t7nge8qGkBzRUpOLaHO) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Sensation Remains](https://open.spotify.com/album/1DfoeSd3r5s75544bttQQF) | 3:33 | 2022-11-18 | 2022-11-26 |

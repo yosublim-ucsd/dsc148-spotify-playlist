@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: parksanga quintet(\ubc15\uc0c1\uc544 \ud038\ud15f)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: MIHYANG MOON(\ubb38\ubbf8\ud5a5)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
+    {
+      "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        },
+        {
+          "name": "Dan Nimmer Trio",
+          "url": "https://open.spotify.com/artist/5gP5K1peTVqvLrGCEXWj9k"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299640,
+      "name": "'Tis Autumn (feat. Dan Nimmer Trio)",
+      "url": "https://open.spotify.com/track/61sV2f0c7LJl0nukJTgpGx"
+    },
     {
       "album": {
         "name": "2 Minutes",
@@ -16,7 +38,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 120453,
       "name": "2 Minutes",
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
@@ -96,7 +118,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 267606,
       "name": "A Finite time",
       "url": "https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT"
@@ -294,7 +316,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 186367,
       "name": "Audrey",
       "url": "https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I"
@@ -568,7 +590,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 160800,
       "name": "Breezy Night",
       "url": "https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx"
@@ -1237,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        },
+        {
+          "name": "Koh Sangji",
+          "url": "https://open.spotify.com/artist/6aLJ3PPQ6P81K2eh5RIvIB"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345313,
+      "name": "Estate (feat. Koh Sangji)",
+      "url": "https://open.spotify.com/track/1c2UAjB8uv6oAYYwjcoFcG"
+    },
+    {
+      "album": {
         "name": "Eutopia",
         "url": "https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3"
       },
@@ -1382,7 +1426,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 269266,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC"
@@ -2390,7 +2434,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 224200,
       "name": "Oh Rosy",
       "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
@@ -2426,7 +2470,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 179389,
       "name": "One Way",
       "url": "https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW"
@@ -3193,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416772,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/3mztyid5b6tZi13ZAV9R6s"
+    },
+    {
+      "album": {
         "name": "SPRING OF CHORYANG",
         "url": "https://open.spotify.com/album/3rdSQwYpcGJrw1rIscH2o9"
       },
@@ -3359,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "NONOL VOL 55. DOO ' Sunny Morning '",
+        "url": "https://open.spotify.com/album/2BTLKLtYye3Qwk9x7gEz5v"
+      },
+      "artists": [
+        {
+          "name": "DOO",
+          "url": "https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Sunny Morning",
+      "url": "https://open.spotify.com/track/5oh2EYgsruCFgv3CkJxxzG"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4HYMYaXJfzGhBHS6pPkdui"
       },
@@ -3514,7 +3594,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 340500,
       "name": "The Day Before",
       "url": "https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi"
@@ -3774,7 +3854,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 294179,
       "name": "Unrealtime",
       "url": "https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi"
@@ -4031,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295853,
+      "name": "Winter Moon",
+      "url": "https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP"
+    },
+    {
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
@@ -4194,6 +4292,24 @@
       "duration_ms": 268617,
       "name": "\uac04\ub2e4",
       "url": "https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc"
+    },
+    {
+      "album": {
+        "name": "\ub3c5\uc2e0\uc8fc\uc758 (i love you)",
+        "url": "https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "\ub3c5\uc2e0\uc8fc\uc758 (i love you)",
+      "url": "https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2"
     },
     {
       "album": {

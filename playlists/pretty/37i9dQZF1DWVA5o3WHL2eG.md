@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,630 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,626 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
 | 20 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
 | 21 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
-| 22 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
-| 23 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
+| 22 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
+| 23 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
 | 24 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
 | 25 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
-| 26 | [2 Fledermäuse](https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [2 Fledermäuse](https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO) | 3:19 |
-| 27 | [Tränen gefroren](https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tränen gefroren](https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM) | 2:32 |
-| 28 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 26 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 27 | [2 Fledermäuse](https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [2 Fledermäuse](https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO) | 3:19 |
+| 28 | [Tränen gefroren](https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tränen gefroren](https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM) | 2:32 |
 | 29 | [Nichts tut gut](https://open.spotify.com/track/3u7owldWSaheL4MG4UKIcY) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS), [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Nichts tut gut](https://open.spotify.com/album/35Waw6VtY9cWLB8nENedzQ) | 2:33 |
 | 30 | [Eines Tages](https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Eines Tages](https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2) | 2:16 |
 | 31 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |

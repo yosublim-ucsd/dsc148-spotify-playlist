@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-449 songs - 1 day 3 hr 8 min
+450 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-30 |  |
 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 | 2021-04-02 | 2024-04-06 |
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-08-14 | 2022-07-28 |
-| [Happy](https://open.spotify.com/track/0kfDEJky3CCHp5uARqVl96) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Happy](https://open.spotify.com/album/0lI4MxPlKzMIaQNKcrkzU1) | 2:56 | 2025-02-16 |  |
+| [Happy](https://open.spotify.com/track/0kfDEJky3CCHp5uARqVl96) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Happy](https://open.spotify.com/album/0lI4MxPlKzMIaQNKcrkzU1) | 2:56 | 2025-02-16 | 2025-02-19 |
 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-02 | 2024-04-19 |
 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-26 |  |
 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 | 2024-02-09 |
@@ -341,6 +341,7 @@
 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 | 2024-07-05 | 2025-01-11 |
 | [Save Me \- Kiimi Remix](https://open.spotify.com/track/1I926CHvCngPl4hBRGE9Rv) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez Saunderson](https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI) | [Save Me \(Kiimi Remix\)](https://open.spotify.com/album/7xsGvZlMjP2LFY4mZGoD1h) | 3:27 | 2024-04-12 | 2024-05-04 |
 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 | 2023-12-15 |  |
+| [Say Goodbye](https://open.spotify.com/track/1hVHjnRHGAaQ7MGCLjCanQ) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq), [Alexis Troy](https://open.spotify.com/artist/182gsOkvqjzrlci90dDwAY) | [Say Goodbye](https://open.spotify.com/album/3S2fda63G0DogfSwIuqBWk) | 2:47 | 2025-02-16 |  |
 | [Say It With Your Eyes](https://open.spotify.com/track/2SlXYzSwnUR7GIovMvhwrZ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Say It With Your Eyes](https://open.spotify.com/album/1eReGJ8rK0cMlXliFQZONW) | 3:32 | 2021-04-02 | 2022-07-29 |
 | [Say My Name](https://open.spotify.com/track/6tws5zv83S3oBIX1k8xR4x) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Say My Name](https://open.spotify.com/album/4HKxYqa2F7OwRK3zYoLKdW) | 4:00 | 2021-09-24 | 2022-07-29 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-04-12 | 2024-02-22 |

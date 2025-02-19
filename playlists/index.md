@@ -1,4 +1,4 @@
-## Playlists \(8380\)
+## Playlists \(8382\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3789,6 +3789,7 @@
 - [Mixtape \#14 Zoë Kravitz "Sweet Revenge"](/playlists/pretty/37i9dQZF1DX0Y091BKRxpU.md)
 - [Mixtape \#15 "end of summer playlist by me, kyle maclachlan"](/playlists/pretty/37i9dQZF1DXajdJmP3ZBZI.md)
 - [Mixtape \#16 Addison Rae "Suck my toes"](/playlists/pretty/37i9dQZF1DWSO8slqRqgGK.md)
+- [Mixtape \#17 "Editors' choice"](/playlists/pretty/37i9dQZF1DXdmEA1VNX4s0.md)
 - [Mixtape \#2 Suki Waterhouse "walking around NYC thinking about love"](/playlists/pretty/37i9dQZF1DWUqAW0dNPY2J.md)
 - [Mixtape \#3 Tove Lo "I want you in my bed"](/playlists/pretty/37i9dQZF1DXcQfSEQZkjHd.md)
 - [Mixtape \#4 Thundercat "25 songs for when you're hit by a car while riding an electric scooter"](/playlists/pretty/37i9dQZF1DWWgDMrRmoe23.md)
@@ -7159,6 +7160,7 @@
 - [Trending Now Telugu](/playlists/pretty/37i9dQZF1DWTt3gMo0DLxA.md)
 - [Trinity Connect](/playlists/pretty/37i9dQZF1DX7efntgEZlGn.md)
 - [Trip Hop](/playlists/pretty/37i9dQZF1DWVXbA4kjkg6G.md)
+- [Tripolism's track IDs](/playlists/pretty/37i9dQZF1DWWXvitqypcRR.md)
 - [Trolls Official Playlist](/playlists/pretty/37i9dQZF1DWSXn51Tv3nWo.md)
 - [Trophy Room](/playlists/pretty/37i9dQZF1DX8dTWjpijlub.md)
 - [Tropical Hits](/playlists/pretty/37i9dQZF1DWYey22ryYM8U.md)

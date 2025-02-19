@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
-  "num_followers": 1385609,
+  "num_followers": 1385648,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7MexAAAAAD+yN92KcoJiG6+R6ZX/XBg",
+  "snapshot_id": "Z7SgHgAAAACmXrv8cbjeuqt+EBFgSo52",
   "tracks": [
     {
       "added_at": "2025-02-14 07:46:25",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-02-14 07:46:25",
       "album": {
-        "name": "\u00d6l\u00fcler Park\u0131 Fanzin",
-        "url": "https://open.spotify.com/album/0jBuXfPDZaQiBFM235Spgc"
-      },
-      "artists": [
-        {
-          "name": "Kayra",
-          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
-        }
-      ],
-      "duration_ms": 152258,
-      "name": "Ne Olmaz \u0130htimal",
-      "url": "https://open.spotify.com/track/6vRTFfpWO3iH47zgNX6P52"
-    },
-    {
-      "added_at": "2025-02-14 07:46:25",
-      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8"
       },
@@ -167,6 +151,34 @@
       "duration_ms": 124516,
       "name": "DURULDUM",
       "url": "https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl"
+    },
+    {
+      "added_at": "2025-02-14 07:46:25",
+      "album": {
+        "name": "BRAPAP",
+        "url": "https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "BRAPAP",
+      "url": "https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb"
     },
     {
       "added_at": "2025-02-14 07:46:25",
@@ -243,30 +255,18 @@
     {
       "added_at": "2025-02-14 07:46:25",
       "album": {
-        "name": "BRAPAP",
-        "url": "https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx"
+        "name": "\u00d6l\u00fcler Park\u0131 Fanzin",
+        "url": "https://open.spotify.com/album/0jBuXfPDZaQiBFM235Spgc"
       },
       "artists": [
         {
-          "name": "ERAY067",
-          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
-        },
-        {
-          "name": "Mansur",
-          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
-        },
-        {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
-        },
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
         }
       ],
-      "duration_ms": 143040,
-      "name": "BRAPAP",
-      "url": "https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb"
+      "duration_ms": 152258,
+      "name": "Ne Olmaz \u0130htimal",
+      "url": "https://open.spotify.com/track/6vRTFfpWO3iH47zgNX6P52"
     },
     {
       "added_at": "2025-02-14 07:46:25",

@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK"
+      },
+      "artists": [
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201225,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb"
+    },
+    {
+      "album": {
         "name": "Tangled Up (Deluxe)",
         "url": "https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw"
       },

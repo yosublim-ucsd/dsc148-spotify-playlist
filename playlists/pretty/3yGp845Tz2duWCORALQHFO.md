@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,897 likes - 67 songs - 3 hr 33 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,901 likes - 67 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 39 | [Reflections](https://open.spotify.com/track/7Lu42P39lHOpozgCUBP0SW) | [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid), [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Reflections](https://open.spotify.com/album/1lMA5J1i0cEjA3j3B6RkpJ) | 3:20 |
 | 40 | [Ocean Deep](https://open.spotify.com/track/6Bqp3d9Ri8LQKxo0AbSOC6) | [m00seT](https://open.spotify.com/artist/5rog4USbIpk9T5O1WwyV7g), [Opi](https://open.spotify.com/artist/3n3jBn86eVpuHjygk4Mp15) | [Ocean Deep](https://open.spotify.com/album/5ycroMnd37FpiuYbhGDLrO) | 3:53 |
 | 41 | [Let It Out](https://open.spotify.com/track/2opE9bdjQXcnWYHzx8No63) | [Mala'kai](https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5) | [Let It Out](https://open.spotify.com/album/10K3APoVwwPpUCMs5xzqzY) | 3:29 |
-| 42 | [Voices](https://open.spotify.com/track/5mUw5ZtgUvlTdDEHPkRqTK) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Kristy Jay](https://open.spotify.com/artist/36vgalGKeZMdkQ2d0naLdY) | [Voices](https://open.spotify.com/album/1vhruZhE57CS5FfC94aHlf) | 3:28 |
+| 42 | [Voices](https://open.spotify.com/track/5mUw5ZtgUvlTdDEHPkRqTK) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Kristy Jay](https://open.spotify.com/artist/36vgalGKeZMdkQ2d0naLdY) | [Voices](https://open.spotify.com/album/1vhruZhE57CS5FfC94aHlf) | 3:22 |
 | 43 | [Hymn to the Dawn](https://open.spotify.com/track/1HFG4z9DDNWvCmhl2qpzhM) | [Thomas Schwartz](https://open.spotify.com/artist/2x0tvkLObFJPZ5H21Shp66), [Fausto Fanizza](https://open.spotify.com/artist/6dzxsBa7KD4e5UfphfjRHr), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Hymn to the Dawn](https://open.spotify.com/album/30IZ5CBmxp4OSv70ZhfUdE) | 3:16 |
 | 44 | [High Tide](https://open.spotify.com/track/1L1gZcdlhOJw3YinahEpQN) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [High Tide](https://open.spotify.com/album/6fMf6YXLsbzZ9jCoHK4Hfs) | 2:55 |
 | 45 | [I See You](https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I See You](https://open.spotify.com/album/5j9rJDPD12jdwoL5SfYuIr) | 3:29 |

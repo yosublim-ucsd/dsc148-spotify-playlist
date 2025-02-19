@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6zeQl72GknqjTGCbrzvSbc">Rockout Danny</a>
 
-1,589 songs - 2 day 20 hr 35 min
+1,591 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [No Favors \(feat\. T9ine\)](https://open.spotify.com/track/3dK8Q0Fl1ETHRueC2FMl9H) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [T9ine](https://open.spotify.com/artist/52gt8ml8WfLe2AVJurLrCX) | [Hurricane Season: The Calm Before The Storm \(Deluxe\)](https://open.spotify.com/album/6kkNw3XM9nguxEhnqhOSud) | 2:48 | 2022-01-19 | 2022-01-27 |
 | [No Fear](https://open.spotify.com/track/1eglZ3NfajSZddS74cLEYR) | [LilSccrt](https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ) | [No Fear](https://open.spotify.com/album/3zOvObadSIcrj4po4MImt2) | 2:17 | 2024-09-11 |  |
 | [No Friend](https://open.spotify.com/track/3ZsEmck4yho2KitYkZwnIA) | [JefeDaDon](https://open.spotify.com/artist/1JOTDeQyGjU9q2bBjZocNq), [Jay Fizzle](https://open.spotify.com/artist/1vxMyjYYKghLsYaIbeEHPP) | [El Jefe](https://open.spotify.com/album/2DlIatgNBbr2vR8e1pq7YD) | 3:50 | 2024-03-20 | 2024-04-04 |
+| [No Friends](https://open.spotify.com/track/2skfh2imJk2J9cavIxGFb4) | [OnlyHeaven](https://open.spotify.com/artist/0uaJXiIMrpbOV91Z9JxOL1) | [KISS \(Keep It Short & Sweet\)](https://open.spotify.com/album/7naneISgGsnm9inrjc7O4R) | 2:52 | 2025-02-18 |  |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-16 | 2022-04-28 |
 | [No Gun No Knife](https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [No Gun No Knife](https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu) | 3:32 | 2023-07-19 | 2023-09-14 |
 | [No Handouts](https://open.spotify.com/track/0J7AtMtyQKJ24txM9ntA4m) | [David GotSound](https://open.spotify.com/artist/4wGjBnpl2JnOzLgS4q2HSJ), [Kish!](https://open.spotify.com/artist/1JMsZEdEQaTLW2JdGPpRxg) | [No Handouts](https://open.spotify.com/album/136R3DGWRU3N2WOgwW0muC) | 2:46 | 2022-01-19 | 2022-01-27 |
@@ -1064,6 +1065,7 @@
 | [P.A.B.](https://open.spotify.com/track/087bftYZzRXPduH2CKoNNq) | [Playboy Fresh](https://open.spotify.com/artist/38ehnnDky8g3OFQjo7YLjA) | [H.I.M.](https://open.spotify.com/album/1Rriqr9NJpwq0JpGpKN6Rt) | 2:41 | 2023-11-22 | 2023-11-30 |
 | [Pacer Test](https://open.spotify.com/track/2wtMbKuJ3tPqSu7DWHpxRV) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Pacer Test](https://open.spotify.com/album/5Bd7U0VSswyweYI14X4T32) | 1:21 | 2024-11-20 | 2024-12-05 |
 | [Pain and Love](https://open.spotify.com/track/2H7WY9eXBEwfAxCGdkv7n4) | [Ync Crashout](https://open.spotify.com/artist/27gWrnlUlNzWPfxfuIwq7G) | [Pain and Love](https://open.spotify.com/album/5xyCUeMTTqru232gAOooAA) | 2:33 | 2024-07-03 | 2024-07-11 |
+| [Painting](https://open.spotify.com/track/4qkZQ987QsyDjxEAFXospV) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Bloodbathh Vol\. 1](https://open.spotify.com/album/3WqNWcSbhWsn3hx5aqwfDS) | 2:01 | 2025-02-18 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-15 | 2023-04-13 |
 | [PAINTING PICTURES](https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC) | 2:05 | 2023-11-29 | 2024-01-17 |
 | [Papercuts](https://open.spotify.com/track/6AuqHJkNesmHfHK7AKxhR5) | [White $osa](https://open.spotify.com/artist/1GYdtgkKzP62BRZsCvpkog) | [Papercuts](https://open.spotify.com/album/4PzEyQ4Zh0INv12yKQ4aFC) | 2:15 | 2023-04-12 | 2023-06-01 |

@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 28297,
+  "num_followers": 28314,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
+        "name": "TROUBLE (arcon Remix)",
+        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        },
+        {
+          "name": "arcon",
+          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "TROUBLE - arcon Remix",
+      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
         "name": "iScreaM Vol.16 : Glitch Mode Remix",
         "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 148626,
       "name": "Algorithm (IMLAY Remix)",
       "url": "https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
-        "name": "TROUBLE (arcon Remix)",
-        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        },
-        {
-          "name": "arcon",
-          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "TROUBLE - arcon Remix",
-      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1607,38 +1587,22 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
       "artists": [
         {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
         }
       ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
-        "name": "SPEED VOL. 1",
-        "url": "https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO"
-      },
-      "artists": [
-        {
-          "name": "WACK",
-          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
-        }
-      ],
-      "duration_ms": 246332,
-      "name": "SPEED VOL. 1",
-      "url": "https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr"
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1659,6 +1623,26 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 201931,
       "name": "Power - R3HAB Remix",
       "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "SPEED VOL. 1",
+        "url": "https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO"
+      },
+      "artists": [
+        {
+          "name": "WACK",
+          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
+        }
+      ],
+      "duration_ms": 246332,
+      "name": "SPEED VOL. 1",
+      "url": "https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 219840,
       "name": "INVU - ZHU Remix",
       "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2025-02-11 08:00:13",

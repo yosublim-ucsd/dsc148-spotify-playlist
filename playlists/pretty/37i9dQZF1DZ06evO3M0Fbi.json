@@ -1,12 +1,12 @@
 {
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1410780,
+  "num_followers": 1410951,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAAC8jXesL6ErarbWQvJ1zI6I",
+  "snapshot_id": "Z7J8AAAAAAB9ZhAF9LeZTwgwyVbDNoP9",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 151893,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q"
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
+      "duration_ms": 151893,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q"
     },
     {
       "added_at": null,

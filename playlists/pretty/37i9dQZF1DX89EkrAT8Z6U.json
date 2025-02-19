@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1231070,
+  "num_followers": 1231300,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "- TRAGEDY +",
-        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "GOSHA",
-      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "MARCELINE",
         "url": "https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 155054,
       "name": "MARCELINE",
       "url": "https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "- TRAGEDY +",
+        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "GOSHA",
+      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "emerge pt. 2",
         "url": "https://open.spotify.com/album/0zeq2wUbi6XBQ5HsELg4s5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 93070,
       "name": "chad",
       "url": "https://open.spotify.com/track/5xrVEhQ9BG3tz7A1bYR2MX"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Let\u2019s Ride",
-        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 120981,
-      "name": "Let\u2019s Ride",
-      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Let\u2019s Ride",
+        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 120981,
+      "name": "Let\u2019s Ride",
+      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "chinatown!",
-        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
-      },
-      "artists": [
-        {
-          "name": "22december",
-          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "chinatown!",
-      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "chinatown!",
+        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
+      },
+      "artists": [
+        {
+          "name": "22december",
+          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
+        },
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "chinatown!",
+      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Knocking At My Door",
         "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 190433,
       "name": "Knocking At My Door",
       "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -927,22 +927,6 @@
       "duration_ms": 143750,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1031,6 +1015,22 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Where Are The Traitors?",
         "url": "https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 129175,
       "name": "Castles & Moats",
       "url": "https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     },
     {
       "added_at": "2024-09-18 21:12:46",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 ### [This Is 藤井 風 \- Fujii Kaze \- ](https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok)
 
-> Early Noise 2020選出アーティスト藤井 風の楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Fujii Kaze.
+> The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,515 likes - 29 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,613 likes - 29 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 | 28 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
 | 29 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
 
-Snapshot ID: `ZqJocAAAAADQVxvV91sy0onVU5etgdPz`
+Snapshot ID: `Z7UtKQAAAABhxW0M7gr/E/UxCGImWOVO`

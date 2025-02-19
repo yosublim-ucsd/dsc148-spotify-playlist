@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Aashir Wajahat & Gini",
+  "description": "Home to the best of South Asian Indie scene. Cover: Yawar Abdal",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -2361,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/1bjoz2yfDA18e8lcJVsRO7"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        },
+        {
+          "name": "Ammar Khaled",
+          "url": "https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146714,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/4lPbWfuz7suz1wXRqG4f9I"
+    },
+    {
+      "album": {
         "name": "Ho Jaane Do",
         "url": "https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C"
       },
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 178197,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 185000,
       "name": "Maand",
       "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
@@ -3850,7 +3872,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 188250,
       "name": "MAKE YOU MINE (feat. Abdul Hannan & Hasan Raheem)",
       "url": "https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y"
@@ -4043,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Meri Ho",
+        "url": "https://open.spotify.com/album/0K9nCfWIFmrafSRVYwMKx3"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "Meri Ho",
+      "url": "https://open.spotify.com/track/4A26yugsWmBVHLDj9NZlNr"
+    },
+    {
+      "album": {
         "name": "Mi Amore",
         "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
       },
@@ -4074,7 +4114,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 186753,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
@@ -4132,6 +4172,28 @@
       "duration_ms": 246519,
       "name": "Mulaqat",
       "url": "https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa"
+    },
+    {
+      "album": {
+        "name": "Mumtaaz",
+        "url": "https://open.spotify.com/album/68UHkfoFPcC5MvJVcpeBIt"
+      },
+      "artists": [
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211199,
+      "name": "Mumtaaz",
+      "url": "https://open.spotify.com/track/5K31v6y0QwaeRRABsCr84R"
     },
     {
       "album": {
@@ -4243,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "album": {
         "name": "Nakhre",
         "url": "https://open.spotify.com/album/6gL7uV8ikgeIX8TCV1oQjU"
       },
@@ -4338,7 +4418,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 192592,
       "name": "Noor",
       "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
@@ -4448,7 +4528,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 161805,
       "name": "okay",
       "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
@@ -5887,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "Taranay",
+        "url": "https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229830,
+      "name": "Taranay",
+      "url": "https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1m8UzwuXs2HfHjbM9txHfb"
       },
@@ -6198,6 +6296,24 @@
       "duration_ms": 155594,
       "name": "Titli",
       "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
+    },
+    {
+      "album": {
+        "name": "Tittar Bittar",
+        "url": "https://open.spotify.com/album/7Ch7CBPwb3pKALwumKVnhw"
+      },
+      "artists": [
+        {
+          "name": "Enarsii",
+          "url": "https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169392,
+      "name": "Tittar Bittar",
+      "url": "https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Vintonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,587 likes - 101 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,603 likes - 101 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 |
 | 2 | [Berhasil](https://open.spotify.com/track/4gpG3srdgMXvQUmtXkTlPh) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Berhasil](https://open.spotify.com/album/0haj1kRwOg3FAmaItrFEzm) | 2:52 |
 | 3 | [Be My Bee](https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Be My Bee](https://open.spotify.com/album/4LRTgGRSpf8sFtwLpzPLYl) | 3:16 |
-| 4 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [Prahara Api Asmara](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
+| 4 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
 | 5 | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/track/0AM7XbaUa4fKp9L9afolH5) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/album/4UcYNXkEEDA7LG3KE2h9wi) | 4:14 |
 | 6 | [Nyali](https://open.spotify.com/track/5Xefj8Ap90LSfZCazbCk8R) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Nyali](https://open.spotify.com/album/1IvsI2LopbvtDVu3uqKKpq) | 3:50 |
 | 7 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 |

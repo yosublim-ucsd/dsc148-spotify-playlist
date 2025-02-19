@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Bana Sor",
+        "url": "https://open.spotify.com/album/2GSmPyMhsspGvSdqEdFAxf"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Bana Sor",
+      "url": "https://open.spotify.com/track/5sdlnkbcR3nmHNNTsfjW41"
+    },
+    {
+      "album": {
         "name": "bay area sunsets",
         "url": "https://open.spotify.com/album/6StPyp3N8ksv81eg3jrlIp"
       },
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 209423,
       "name": "Sonumu Bile Bile",
       "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,114 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,149 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 23 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
 | 24 | [Berhasil](https://open.spotify.com/track/4gpG3srdgMXvQUmtXkTlPh) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Berhasil](https://open.spotify.com/album/0haj1kRwOg3FAmaItrFEzm) | 2:52 |
 | 25 | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/track/0AM7XbaUa4fKp9L9afolH5) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/album/4UcYNXkEEDA7LG3KE2h9wi) | 4:14 |
-| 26 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [Prahara Api Asmara](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
+| 26 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
 | 27 | [Selamanya](https://open.spotify.com/track/1Q65wiLzWg3G9eYy1y5ZMh) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [Selamanya](https://open.spotify.com/album/1wweyp0mjOT4yMjz8VgARJ) | 3:09 |
 | 28 | [Blong](https://open.spotify.com/track/104yDSU2OaFlguR4VSQHNk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Blong](https://open.spotify.com/album/57Mm0XSA9nZPzbWpqjJT16) | 6:04 |
 | 29 | [Pernikahan](https://open.spotify.com/track/5o28H0LsPAXHqLRe230q8M) | [Tony Q Rastafara](https://open.spotify.com/artist/27Edni6yuDfSh4bcS7wVV4) | [Pernikahan](https://open.spotify.com/album/2mQQkN0X0QulGVG9qsuIRD) | 4:14 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 58 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
 | 59 | [CANDY GUM](https://open.spotify.com/track/4JWPHzfChXRSPMbo0s4ZPl) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [CANDY GUM](https://open.spotify.com/album/5Fq5BisVEmrXUH8C0BZOpP) | 2:49 |
 | 60 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 |
-| 61 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:09 |
+| 61 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 |
 | 62 | [Fantasi Rasa](https://open.spotify.com/track/5jL6E9CxT9ZDYDLbrOdcVb) | [Praz Teguh](https://open.spotify.com/artist/6ERIHF4o8coTtg2dVlTIoC), [Ayiqorry](https://open.spotify.com/artist/1ybRKXb2PLyNb2FnH4Qz0W) | [Fantasi Rasa](https://open.spotify.com/album/7aSRp7IkbdmO6pXPYSIYgU) | 4:34 |
 | 63 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 |
 | 64 | [MARAH\-MARAH](https://open.spotify.com/track/3ErD6aQGZYhN2BJqCBNMqw) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [MARAH\-MARAH](https://open.spotify.com/album/3tfnS60OXqXWxRj8GCq0SF) | 3:47 |

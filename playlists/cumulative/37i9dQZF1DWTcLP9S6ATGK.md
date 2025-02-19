@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Stevan Pasaribu
 
-366 songs - 23 hr 56 min
+366 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Terlalu Diam](https://open.spotify.com/track/4iFLoWcNLQJgxRkx2ka6nf) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terlalu Diam](https://open.spotify.com/album/0HbCoJs5AM88f362i285KT) | 4:03 | 2024-06-27 | 2024-07-27 |
 | [Terluka Hati](https://open.spotify.com/track/7fIg9hw5tSGt1t0hCVR8gk) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Terluka Hati](https://open.spotify.com/album/3DnRpIm7octk5zGgGdoCJO) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/track/4GQy9VyjJCbV3IAM2wOrUM) | [Atiek CB](https://open.spotify.com/artist/70aLfobQfRHIKpTDimluea) | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/album/7yb2QANZR7ifu4wjKld7lm) | 4:44 | 2024-10-24 | 2025-01-10 |
-| [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:09 | 2025-02-13 |  |
+| [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 | 2025-02-13 |  |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 | 2025-01-10 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |

@@ -3737,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "\u5b64\u7368\u60a3\u8005",
+        "url": "https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4"
+      },
+      "artists": [
+        {
+          "name": "Andy Shieh",
+          "url": "https://open.spotify.com/artist/6VfUvCNDq7I5QZgCEBEKYq"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268552,
+      "name": "\u5b64\u7368\u60a3\u8005",
+      "url": "https://open.spotify.com/track/7p1LiQch1hP16qoaI6J7Fw"
+    },
+    {
+      "album": {
         "name": "\u5b69\u5b50\u554a",
         "url": "https://open.spotify.com/album/1MvX3vqtHhXP7C6YGQMmvu"
       },
@@ -5900,7 +5918,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 224997,
       "name": "\u6700\u6700\u597d",
       "url": "https://open.spotify.com/track/3HPZzjXJzz4Cr4rCJoDp0C"
@@ -7546,7 +7564,7 @@
       },
       "artists": [
         {
-          "name": "\u738bOK",
+          "name": "Wang OK",
           "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
         }
       ],
@@ -8188,7 +8206,7 @@
       },
       "artists": [
         {
-          "name": "\u738bOK",
+          "name": "Wang OK",
           "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
         },
         {

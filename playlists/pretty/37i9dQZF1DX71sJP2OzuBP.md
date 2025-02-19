@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,328 likes - 124 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,330 likes - 124 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 88 | [河畔少年（紀錄片《我的家鄉我的河》主題曲）](https://open.spotify.com/track/0ADg60VuZBX0QHkG4G4QCN) | [王笠人](https://open.spotify.com/artist/0uAzttC80C43KjtN8HAYLQ), [Ice Paper](https://open.spotify.com/artist/35kMWGEVOOesE5U0CdP3Zo) | [河畔少年（紀錄片《我的家鄉我的河》主題曲）](https://open.spotify.com/album/1YQh4Fv2bvgpRohL7gBx6J) | 4:25 |
 | 89 | [同化 \- 广播剧《同花顺》主题曲](https://open.spotify.com/track/1xsij9D6vuueXJQLFfJQln) | [苏玮](https://open.spotify.com/artist/6KZtfKuM7oXf6gT44YJTYG) | [同化 \(广播剧《同花顺》主题曲\)](https://open.spotify.com/album/7oTMV6pf7UlX7yuy0valru) | 4:06 |
 | 90 | [ONLY WITH YOU](https://open.spotify.com/track/2Eq5uUnAM2yAjzaejhNUBs) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [ONLY WITH YOU](https://open.spotify.com/album/1m5ICOkTtQhnDw2fbeYlbb) | 4:00 |
-| 91 | [愛最深的總是我 \(feat\. PPlin\)](https://open.spotify.com/track/2DvktwQzqXZYJBGDTGoJnT) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [PPlin](https://open.spotify.com/artist/5WNUNiod0p0ZH7EeQtpk1b) | [愛最深的總是我 \(feat\. PPlin\)](https://open.spotify.com/album/0idVWYyIxlyKy5TkL4nkpx) | 2:37 |
+| 91 | [愛最深的總是我 \(feat\. PPlin 林芃逸\)](https://open.spotify.com/track/2DvktwQzqXZYJBGDTGoJnT) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [愛最深的總是我 \(feat\. PPlin 林芃逸\)](https://open.spotify.com/album/0idVWYyIxlyKy5TkL4nkpx) | 2:37 |
 | 92 | [指尖的蝶](https://open.spotify.com/track/0MRbAOefU9syLYMJMGsIwn) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [指尖的蝶](https://open.spotify.com/album/5eFhmLxJdhrKhAjmLnFzVL) | 4:29 |
 | 93 | [GBGN](https://open.spotify.com/track/1fBhRipx61ht4NGFOztJeh) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [GBGN](https://open.spotify.com/album/0Ki9p6PWle09xFmnmXDyUH) | 4:24 |
 | 94 | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/track/64qnAIAkkKjLfJcxaopwzv) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/album/0JkH98SX1EUFyhk8J9bElw) | 4:23 |

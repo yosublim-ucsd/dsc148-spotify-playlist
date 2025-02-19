@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz?si=ilpTcCoAQ6GEAx77fBxGyA">Kyla Blac</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7?si=4qdte8HmRpSCogFKCC\-Ahw">wordsofAzia</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,962 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,976 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 54 | [FA TA SI](https://open.spotify.com/track/1StkdM4oVjKo55BGsEJRFk) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [FA TA SI](https://open.spotify.com/album/1MxS7J64CdjzeK91gSOz8P) | 2:19 |
 | 55 | [Patience Ozokwor](https://open.spotify.com/track/3blPHQ507J4INRzKu8oaRk) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:33 |
 
-Snapshot ID: `Z6xhgAAAAAAfCdvZ5PSBSb6zayDYEn+M`
+Snapshot ID: `Z7URBAAAAAAEh/Df7cJnQy0g+nRDjgl6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Jil Tanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,208 likes - 90 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,309 likes - 90 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Paula's Dance](https://open.spotify.com/track/3hg5haAl3RnUERHbV6mgxP) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Paula's Dance](https://open.spotify.com/album/5m3jM3rRdyzWRU4UNblrlq) | 4:04 |
 | 90 | [José \- GAZZI Remix](https://open.spotify.com/track/4hed2FERzicDDrax174XOT) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [José \(GAZZI Remix\)](https://open.spotify.com/album/6T8dPXY6zu2wkilVf3vLsd) | 3:51 |
 
-Snapshot ID: `Z655igAAAAC7JqUQKTvgCHB7mOhSL95A`
+Snapshot ID: `Z655igAAAADDxxgoHQ31nxGaV4kuDfcB`

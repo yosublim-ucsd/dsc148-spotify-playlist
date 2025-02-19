@@ -71,6 +71,40 @@
     },
     {
       "album": {
+        "name": "Ave, generosa: Verses 1 - 4",
+        "url": "https://open.spotify.com/album/6P8cK9XzM1cgmplRwcfz8e"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Sarah Sexton",
+          "url": "https://open.spotify.com/artist/10bI1OEOEoUyMIXqylfsQ1"
+        },
+        {
+          "name": "Elisabeth Paul",
+          "url": "https://open.spotify.com/artist/0DZwNKRRwb3kVgoNgesGIm"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ave, generosa: Verses 1 - 4",
+      "url": "https://open.spotify.com/track/1pZ5dtclq9vrbpOyyTy9GL"
+    },
+    {
+      "album": {
         "name": "The Tallis Scholars Sing William Byrd",
         "url": "https://open.spotify.com/album/5o2Vzb7bgZHzE5sHh2T38o"
       },

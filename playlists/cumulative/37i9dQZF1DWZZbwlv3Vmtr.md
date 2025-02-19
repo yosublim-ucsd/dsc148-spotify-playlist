@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,009 songs - 1 day 15 hr 5 min
+1,011 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-04-15 | 2022-07-08 |
 | [Beyond the Wall](https://open.spotify.com/track/6QmeLL9H7bxKFXLMgC9Ahq) | [broom closets](https://open.spotify.com/artist/3kHiM40W851Qz0Jen3lx68) | [Beyond the Wall](https://open.spotify.com/album/6o4txGwPNZb9OK54sEeOh8) | 2:05 | 2022-04-15 | 2024-06-29 |
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2022-04-15 | 2022-05-20 |
+| [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 |  |
 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 | 2022-07-29 | 2022-08-12 |
 | [Blank Canvas](https://open.spotify.com/track/4R9fYpcyz1BUFZ7FCiuJXg) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Blank Canvas](https://open.spotify.com/album/6zLHXiO7t2klPX6w5Dpt2T) | 2:32 | 2022-04-15 |  |
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2022-08-19 | 2023-11-17 |
@@ -534,6 +535,7 @@
 | [Morning Read](https://open.spotify.com/track/4B11reI63aYGSH2ASjxKT5) | [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [Mister Calm](https://open.spotify.com/artist/6NXpqG8WiGvpAT9szvlUI8), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Morning Read](https://open.spotify.com/album/51mZ8yavWAKoNdJpIHGm56) | 1:34 | 2022-04-15 | 2023-10-13 |
 | [Morning Sax](https://open.spotify.com/track/13jHt6ATRkoxbmdjh3U3tz) | [Years From Now](https://open.spotify.com/artist/2KkmGVdGFnNKQeVbf69Fp4) | [Morning Sax](https://open.spotify.com/album/3HeKfEFoaAEgRgIhA8D7SQ) | 3:03 | 2022-09-30 | 2022-12-10 |
 | [Morning Stroll](https://open.spotify.com/track/3iIJ5WP1c6TuvTpJ2GJ8UD) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Insights](https://open.spotify.com/album/2JnOxnGfgXP5CwoiZXKQFE) | 2:20 | 2022-12-16 |  |
+| [Morse](https://open.spotify.com/track/4Od4ZRReLhtOLjOk5WwniX) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Morse](https://open.spotify.com/album/6HhukpHgPeBhjwTAKYieJ0) | 2:48 | 2025-02-14 |  |
 | [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2022-04-15 |  |
 | [Motions](https://open.spotify.com/track/29VTaoe555T9II0veG9SCi) | [midnight alpha.](https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK), [Needraw](https://open.spotify.com/artist/0RLfDzqlvXQT6C5yyfOD6z) | [Motions](https://open.spotify.com/album/34D8KTNlCjzuRSFY5Mv5vi) | 2:56 | 2022-07-08 | 2022-10-29 |
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-04-15 | 2022-07-01 |
@@ -583,7 +585,7 @@
 | [Oase](https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU) | [Mo Anando](https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH) | [Oase](https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa) | 4:45 | 2022-06-17 | 2023-10-06 |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2022-04-15 | 2022-08-19 |
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-22 |  |
-| [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 |  |
+| [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 | 2025-02-19 |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
 | [Off the Grid](https://open.spotify.com/track/6bmBDrRgDi0MuDu3TCTq0d) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Off the Grid](https://open.spotify.com/album/2SIhBpm83H8nMC0ZMkBnGJ) | 2:14 | 2025-01-24 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
@@ -648,7 +650,7 @@
 | [Plants for free](https://open.spotify.com/track/3wHLlr7Mt7FalYpX2EpogI) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Plants for free](https://open.spotify.com/album/1dJSgO3ATHe6yDQkXa4bWP) | 2:31 | 2023-04-28 |  |
 | [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-07-19 | 2024-12-06 |
 | [Pleasant Trip](https://open.spotify.com/track/4Noemyd2YfXLAXLUItJ7Fh) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Pleasant Trip](https://open.spotify.com/album/2slqsS4evjnu3OydgPOKja) | 2:19 | 2022-11-25 |  |
-| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 |  |
+| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 | 2025-02-19 |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2022-04-15 |  |
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2022-04-15 | 2023-07-20 |
 | [Poolside](https://open.spotify.com/track/6CY364GXE5gEMnQch6KGF4) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Poolside](https://open.spotify.com/album/7IERaPp1czfhKdTywV3OT2) | 2:22 | 2022-08-05 | 2022-10-14 |

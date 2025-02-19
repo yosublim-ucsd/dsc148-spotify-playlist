@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ozuna & Kapo, De La Rose, Neton Vega, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,248 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,291 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 27 | [Bandido](https://open.spotify.com/track/3FmrK5OmqwnjzSmJ5XBWEO) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [En Honor Al Que Ama](https://open.spotify.com/album/5Fto1VFi4UvBlM5GJcdHYy) | 2:53 |
 | 28 | [Tesoro](https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tesoro](https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna) | 2:24 |
 | 29 | [ANDAMOS GANANDO](https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [ANDAMOS GANANDO](https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx) | 2:42 |
-| 30 | [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/track/5BANKpqtQx6KKDHrKuNCdX) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/3LMiSHSN5fvQWbuGnSOBkM) | 3:26 |
-| 31 | [Noche](https://open.spotify.com/track/2osRPu8IcR8Uy2i7IChVrc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Noche](https://open.spotify.com/album/2AHMI2JrrwcibzSd6M3mPL) | 2:43 |
+| 30 | [Noche](https://open.spotify.com/track/2osRPu8IcR8Uy2i7IChVrc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Noche](https://open.spotify.com/album/2AHMI2JrrwcibzSd6M3mPL) | 2:43 |
+| 31 | [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/track/0QCRgt9in3ASJdBLTXCwki) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/album/2tQMsKb848JIqbw5hbsFLm) | 3:26 |
 | 32 | [margarita](https://open.spotify.com/track/73slWEo7yLEIUM5pHHhwrE) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [margarita](https://open.spotify.com/album/30kbfZ5AM3LnxxRW1ox7V4) | 2:53 |
 | 33 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 |
 | 34 | [Ya Es Tarde](https://open.spotify.com/track/44V54dkd5rHRlZzmgEX9x7) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Ya Es Tarde](https://open.spotify.com/album/3mDFdvw86lhm1v8xLOBdga) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 59 | [No Puedo Olvidarte](https://open.spotify.com/track/2uKvLBz4BCk0jGKFviOn4o) | [DREAH](https://open.spotify.com/artist/6PQMN59XxY6G316nWgLv0o) | [No Puedo Olvidarte](https://open.spotify.com/album/4QiHwqstfXJtmxPA9Xvveu) | 2:42 |
 | 60 | [NINA](https://open.spotify.com/track/4U1UvfG0B2UVqWb8Pgvvbw) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [NINA](https://open.spotify.com/album/1OctTG0xdFHuIdixua7451) | 2:53 |
 
-Snapshot ID: `Z6+iZwAAAADs2mJK2XDvVrw/Xv1v+oRB`
+Snapshot ID: `Z7SiugAAAAC29M12PbXdJxDN379AstHm`

@@ -2,7 +2,7 @@
 
 ### [The White Lotus Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWDKV5NsCgGw)
 
-> Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on HBO Max.
+> Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
 100 songs - 4 hr 11 min
 

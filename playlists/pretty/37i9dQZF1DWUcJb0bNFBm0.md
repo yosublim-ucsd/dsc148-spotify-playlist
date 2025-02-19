@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: AprilBlue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,301 likes - 85 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,310 likes - 85 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

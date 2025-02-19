@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Nava Hip-Hop Punjabi! Cover: Sultaan",
+  "description": "Nava Hip-Hop Punjabi! Cover: The PropheC",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 195000,
       "name": "ASTARR",
       "url": "https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy"
@@ -748,6 +748,32 @@
       "duration_ms": 165466,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
+    },
+    {
+      "album": {
+        "name": "Aura Jatt Da",
+        "url": "https://open.spotify.com/album/0AsG4YqUQMLiDHB2e54ihR"
+      },
+      "artists": [
+        {
+          "name": "Prince Narula",
+          "url": "https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Jaymeet",
+          "url": "https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Aura Jatt Da",
+      "url": "https://open.spotify.com/track/1CirVTLXTUdZKnabJCc611"
     },
     {
       "album": {
@@ -980,6 +1006,32 @@
       "duration_ms": 138382,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq"
+    },
+    {
+      "album": {
+        "name": "Bhau Hood",
+        "url": "https://open.spotify.com/album/60Cab7ZW7uDeMbrCt3KQHc"
+      },
+      "artists": [
+        {
+          "name": "Amrit Randhawa",
+          "url": "https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux"
+        },
+        {
+          "name": "Raas",
+          "url": "https://open.spotify.com/artist/3szxrtt3CYePoAUbLlb4K3"
+        },
+        {
+          "name": "Space",
+          "url": "https://open.spotify.com/artist/76vZk3TWaVcNiP7H7in9fu"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181892,
+      "name": "Bhau Hood",
+      "url": "https://open.spotify.com/track/5vWxAKJYe240lWEuVLSIeP"
     },
     {
       "album": {
@@ -1250,7 +1302,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 141098,
       "name": "C4",
       "url": "https://open.spotify.com/track/1114qWncoGza22TR62wiTh"
@@ -2152,7 +2204,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 180000,
       "name": "Doabe Aale",
       "url": "https://open.spotify.com/track/4giuDqNTVBjFSFbvXe5faK"
@@ -2818,7 +2870,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 150628,
       "name": "G Life",
       "url": "https://open.spotify.com/track/47bmBZ86Qurp4wyaz7wggA"
@@ -3377,6 +3429,28 @@
     },
     {
       "album": {
+        "name": "Hood Flow",
+        "url": "https://open.spotify.com/album/351ZBaKCvQRpBKNz8i77je"
+      },
+      "artists": [
+        {
+          "name": "Navjot",
+          "url": "https://open.spotify.com/artist/0ZUqu05Mb60sUUWVyFnzfg"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161935,
+      "name": "Hood Flow",
+      "url": "https://open.spotify.com/track/51bZuhKECpxtzKsCEKrq4K"
+    },
+    {
+      "album": {
         "name": "Hood Icon",
         "url": "https://open.spotify.com/album/4Sdgyge8bqZDDDFVzibg4B"
       },
@@ -3455,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Horoscope",
+        "url": "https://open.spotify.com/album/5bIHgN0VcY6PN7YFgUGTjc"
+      },
+      "artists": [
+        {
+          "name": "Mny Deep",
+          "url": "https://open.spotify.com/artist/3UdKotGfHi8C7k8xsRi4a4"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147355,
+      "name": "Horoscope",
+      "url": "https://open.spotify.com/track/1fv4JfzNlPXsSmptXHOrDc"
+    },
+    {
+      "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u"
       },
@@ -3500,7 +3592,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 143545,
       "name": "HUNDO (feat. Mxrci)",
       "url": "https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab"
@@ -4991,6 +5083,28 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6EPJgCDmzwQPnLkPruYsjS"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153531,
+      "name": "My Turn",
+      "url": "https://open.spotify.com/track/0NqUztsZk9poCuvmKJuJ9m"
+    },
+    {
+      "album": {
         "name": "my turn/meri vaari",
         "url": "https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ"
       },
@@ -5498,7 +5612,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 152039,
       "name": "Now They See",
       "url": "https://open.spotify.com/track/4tgZJA6om51mMKozSljKnQ"
@@ -5810,6 +5924,28 @@
       "duration_ms": 145025,
       "name": "Pariyan Di Rani",
       "url": "https://open.spotify.com/track/0tYEJq5faTClQ1fyFma5zg"
+    },
+    {
+      "album": {
+        "name": "Photo",
+        "url": "https://open.spotify.com/album/3SRbsDvrVpvyhaWpUcHnC9"
+      },
+      "artists": [
+        {
+          "name": "TOOR",
+          "url": "https://open.spotify.com/artist/5EWY7Jo2G1gWqPRnKmGeiX"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Photo",
+      "url": "https://open.spotify.com/track/4ikWBkKI2qs7SADwnWBSEp"
     },
     {
       "album": {
@@ -6399,6 +6535,28 @@
     },
     {
       "album": {
+        "name": "Scan",
+        "url": "https://open.spotify.com/album/6BYc1dffEZklrKiZc1REFF"
+      },
+      "artists": [
+        {
+          "name": "Cheema",
+          "url": "https://open.spotify.com/artist/2Q5bNdXbSQLSdLqMCNTJfR"
+        },
+        {
+          "name": "Supernova Muzic",
+          "url": "https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143478,
+      "name": "Scan",
+      "url": "https://open.spotify.com/track/3yxoB7T6HHGirQnktkIXb9"
+    },
+    {
+      "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS"
       },
@@ -6568,6 +6726,24 @@
       "duration_ms": 175620,
       "name": "Shehzaada",
       "url": "https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom"
+    },
+    {
+      "album": {
+        "name": "Sher Bachiye",
+        "url": "https://open.spotify.com/album/4lHiacIkg5efKy7WhAYkTf"
+      },
+      "artists": [
+        {
+          "name": "Ray Z",
+          "url": "https://open.spotify.com/artist/0Ym0kFA89Lf2D2Rsm50obR"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124484,
+      "name": "Sher Bachiye",
+      "url": "https://open.spotify.com/track/4Yif4Gcc243cz92Kl3WQ1h"
     },
     {
       "album": {
@@ -6826,7 +7002,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 109714,
       "name": "Sultan Rahi",
       "url": "https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ"
@@ -7480,7 +7656,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 166250,
       "name": "TYPE SHII",
       "url": "https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY"
@@ -7791,6 +7967,28 @@
     },
     {
       "album": {
+        "name": "We Good",
+        "url": "https://open.spotify.com/album/6MDbBkMVIw10O5xYT6qS4Q"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sidhu",
+          "url": "https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY"
+        },
+        {
+          "name": "Sir Manny",
+          "url": "https://open.spotify.com/artist/3ZlRQatldojeb7wSXFEHxL"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/7GbvOvxgb24oGk2XHxs4pm"
+    },
+    {
+      "album": {
         "name": "WE ROLLIN",
         "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
       },
@@ -8058,7 +8256,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 199999,
       "name": "Yaari Hood",
       "url": "https://open.spotify.com/track/72lykxjGBmwCq8RMtchJDS"

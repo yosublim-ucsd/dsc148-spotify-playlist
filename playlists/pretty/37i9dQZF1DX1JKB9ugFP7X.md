@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: Javiera Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,450 likes - 90 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,449 likes - 90 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 73 | [Alma](https://open.spotify.com/track/5RggnhC0wezlETdsLBFMUE) | [Berni](https://open.spotify.com/artist/4Eim1AfnmiItMvlUeAHrax), [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR) | [Raíz Despierta](https://open.spotify.com/album/38K7u9akDvXYaEtkENoBqH) | 3:36 |
 | 74 | [Si No Vas a Venir](https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Si No Vas a Venir](https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly) | 3:11 |
 | 75 | [Atempera la Distancia \(Club Set\)](https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Atempera la Distancia \(Club Set\)](https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh) | 35:37 |
-| 76 | [Bienvenide Mi Sueño](https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Bienvenide Mi Sueño](https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW) | 3:16 |
-| 77 | [El Modo](https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [El Modo](https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS) | 4:16 |
-| 78 | [Inevitable](https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C) | [Linxes](https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx) | [Inevitable](https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD) | 2:50 |
-| 79 | [Quemo la Estrella](https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [Quemo la Estrella](https://open.spotify.com/album/0x0EqxJq11eOJey3L3ShiI) | 3:33 |
-| 80 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 |
-| 81 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
+| 76 | [El Modo](https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [El Modo](https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS) | 4:16 |
+| 77 | [Bienvenide Mi Sueño](https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Bienvenide Mi Sueño](https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW) | 3:16 |
+| 78 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
+| 79 | [Inevitable](https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C) | [Linxes](https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx) | [Inevitable](https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD) | 2:50 |
+| 80 | [Quemo la Estrella](https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [Quemo la Estrella](https://open.spotify.com/album/0x0EqxJq11eOJey3L3ShiI) | 3:33 |
+| 81 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 |
 | 82 | [Juego Amoroso](https://open.spotify.com/track/0z40KTSBqMWIhoFsGF2K9U) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Cecilia Aguayo](https://open.spotify.com/artist/6rXlCSp0d779BSfgaIvCI2) | [Juego Amoroso](https://open.spotify.com/album/0J6rQSqSd7VADiee89nGdv) | 4:18 |
 | 83 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 |
 | 84 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 |

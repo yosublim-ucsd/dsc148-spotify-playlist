@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Niña Polaca, Dani Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,582 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,593 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 52 | [Ven a jugar](https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Ven a jugar](https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp) | 3:02 |
 | 53 | [ojalá](https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Ojalá](https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo) | 3:13 |
 | 54 | [Me paso por tu zona](https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Me paso por tu zona](https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO) | 2:11 |
-| 55 | [Línea 11](https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Línea 11](https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA) | 3:51 |
-| 56 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
+| 55 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
+| 56 | [Línea 11](https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Línea 11](https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA) | 3:51 |
 | 57 | [1900](https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Gran Hostal](https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9) | 2:47 |
 | 58 | [Amigos tengo](https://open.spotify.com/track/1FT0JcORoaEzOrkOiHlYXv) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Vicente Calderón](https://open.spotify.com/album/0HXfaUDrSTv8r9incvbKhD) | 2:42 |
 | 59 | [Danza de la muerte](https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Danza de la muerte](https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc) | 2:44 |
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 80 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 |
 | 81 | [Pastillas](https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Pastillas](https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs) | 2:30 |
 | 82 | [Zero Azúcar](https://open.spotify.com/track/24HHvn8ptcD54cBDOubRFx) | [Zero Azúcar](https://open.spotify.com/artist/6h4QOpvocAGfthRjmeVyeT) | [Zero Azúcar](https://open.spotify.com/album/1GOJQzYOLN0KKtIYjSMHsp) | 2:54 |
-| 83 | [Viaje De Estudios \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Viaje De Estudios \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke) | 3:08 |
+| 83 | [Duele](https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Duele](https://open.spotify.com/album/4mzquVGH20iTnFjmDEEklN) | 3:26 |
 | 84 | [Eres Un Regalo](https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Eres Un Regalo](https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b) | 3:30 |
-| 85 | [Duele](https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Duele](https://open.spotify.com/album/4mzquVGH20iTnFjmDEEklN) | 3:26 |
+| 85 | [Viaje De Estudios \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Viaje De Estudios \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke) | 3:08 |
 | 86 | [La batalla final](https://open.spotify.com/track/2ADGnVlRK5FHUuoS5pOGcD) | [Caballo Prieto Azabache](https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3), [Ama Ia](https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER) | [La batalla final](https://open.spotify.com/album/3mWHJ42U15jnObX3pCDNJN) | 3:40 |
 | 87 | [Poetas de Cristal](https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Poetas de Cristal](https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX) | 3:32 |
 | 88 | [Torreznos y Larios](https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Torreznos y Larios](https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK) | 2:43 |
 | 89 | [Perdiendo el tiempo](https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Perdiendo el tiempo](https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c) | 2:46 |
-| 90 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
-| 91 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 |
+| 90 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 |
+| 91 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
 | 92 | [Maldades](https://open.spotify.com/track/4oRHN8NdPlSgeM2E3Ll5rj) | [Daniel Mutante](https://open.spotify.com/artist/20izHUqhHt9K2KhgdGE0z3), [Ales Fabiani](https://open.spotify.com/artist/3kpaIsdBuAMjpQPiPppAKv) | [Maldades](https://open.spotify.com/album/48rrcwLRqBzhav1mYSzSGD) | 2:42 |
 | 93 | [Nadie Se Muere De Amor](https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Nadie Se Muere De Amor](https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO) | 2:46 |
 | 94 | [Ganas de verte](https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y) | [Pagafantas](https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV), [Lucía Moreno](https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V) | [Ganas de verte](https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM) | 2:54 |

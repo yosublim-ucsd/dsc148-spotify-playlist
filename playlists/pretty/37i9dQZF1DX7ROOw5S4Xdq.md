@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,445 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,491 likes - 49 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:54 |
+| 1 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:56 |
 | 2 | [Yeshua \- Live Session](https://open.spotify.com/track/0mggoBDY7yBtYk6dY6PqBj) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Yeshua \(Live Session\)](https://open.spotify.com/album/370TweCf3tJ02GviRMFFEt) | 5:49 |
 | 3 | [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Ato 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 |
 | 4 | [Vou Continuar](https://open.spotify.com/track/0VLEMHzMwRFwQCFdgwRXeL) | [Betania Lima](https://open.spotify.com/artist/3C7JHp80jfY2l5PGVpy4rM), [Bless Music](https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk) | [Vou Continuar](https://open.spotify.com/album/3fDwl5VRAvtedEDPLCZhdz) | 4:03 |

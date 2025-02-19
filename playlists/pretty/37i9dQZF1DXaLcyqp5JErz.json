@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 593994,
+  "num_followers": 594174,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Que Se Abram Os C\u00e9us",
+        "url": "https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "duration_ms": 307944,
+      "name": "Que Se Abram Os C\u00e9us",
+      "url": "https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Diante do Trono 10 Anos - Tempo de Festa (Ao Vivo)",
         "url": "https://open.spotify.com/album/2EWR5135TNFC58nhMIalIG"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 668986,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5JfiqvXnyiGfATt2c5sqJQ"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Que Se Abram Os C\u00e9us",
-        "url": "https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        }
-      ],
-      "duration_ms": 307944,
-      "name": "Que Se Abram Os C\u00e9us",
-      "url": "https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -943,18 +943,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t"
+        "name": "Flashback F\u00e9 (Live)",
+        "url": "https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
         }
       ],
-      "duration_ms": 453106,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN"
+      "duration_ms": 450857,
+      "name": "Amigo Fiel - Live",
+      "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -975,22 +979,34 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Flashback F\u00e9 (Live)",
-        "url": "https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1"
+        "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        },
-        {
-          "name": "Brun\u00e3o Morada",
-          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
         }
       ],
-      "duration_ms": 450857,
-      "name": "Amigo Fiel - Live",
-      "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
+      "duration_ms": 453106,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 319924,
+      "name": "Faz Um Milagre em Mim",
+      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 386773,
       "name": "Descansarei",
       "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 319924,
-      "name": "Faz Um Milagre em Mim",
-      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
     },
     {
       "added_at": "2024-11-29 03:01:00",

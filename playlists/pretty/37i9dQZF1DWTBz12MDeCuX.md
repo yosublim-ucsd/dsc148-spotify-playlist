@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Eli Preiss, makko
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,127 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,140 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 22 | [Low Life \(feat\. The Weeknd\)](https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 5:13 |
 | 23 | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/track/5jtca751346RjMOjNh4M0P) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx) | 2:40 |
 | 24 | [100.000](https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [100.000](https://open.spotify.com/album/1zK2tmCjG873OQ9UrbKjd1) | 4:03 |
-| 25 | [Ypsilon \- LMMR Remix](https://open.spotify.com/track/0Kx6rOYyacTbjQcKiBV0hR) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [LMMR](https://open.spotify.com/artist/7u7QXrFgKj2G6Sgu2naqlA), [Moritz Limmer](https://open.spotify.com/artist/2lZHH9MxYc9CRnjgzxfnGS) | [Ypsilon \(LMMR Remix\)](https://open.spotify.com/album/3ecZh7nuK8SVeeEpxU2G6X) | 2:24 |
+| 25 | [Ypsilon \- LMMR Remix](https://open.spotify.com/track/0Kx6rOYyacTbjQcKiBV0hR) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [LMMR](https://open.spotify.com/artist/7u7QXrFgKj2G6Sgu2naqlA) | [Ypsilon \(LMMR Remix\)](https://open.spotify.com/album/3ecZh7nuK8SVeeEpxU2G6X) | 2:24 |
 | 26 | [unendlichkeit](https://open.spotify.com/track/5MB5Rsv1zV55oChldxIlpj) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [unendlichkeit](https://open.spotify.com/album/3AiTnxSIokH16CVrXJtHgA) | 3:00 |
 | 27 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 |
 | 28 | [Sommer macht melancholisch](https://open.spotify.com/track/0u716Qk5hYqmj74KxHmk1E) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Sommer macht melancholisch](https://open.spotify.com/album/4ho4Hqv3CbFMMAxqFJPlx1) | 3:22 |

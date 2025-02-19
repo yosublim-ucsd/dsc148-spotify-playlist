@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,290 likes - 68 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,368 likes - 68 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 67 | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/track/7fLBVRu5GFS1QcodNGvPGW) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD), [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/album/7mTHaWSQ8B449zo5ORANUW) | 5:39 |
 | 68 | [Love & Money](https://open.spotify.com/track/1UzIJ1vDEBF26WAmqQmlwa) | [Sahene](https://open.spotify.com/artist/7KAeQIss0qfW6zEqcKA0EG) | [Love & Money](https://open.spotify.com/album/1p1yzpeeJ274jyFxIhv879) | 2:28 |
 
-Snapshot ID: `Z66HxwAAAABJ1sUEr2wkLRGgLmnmLxpx`
+Snapshot ID: `Z7R3WgAAAACsUXgcSBMbgH5Fc1ovptWL`

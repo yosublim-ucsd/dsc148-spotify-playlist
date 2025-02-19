@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Feat Tropical",
+        "url": "https://open.spotify.com/album/5uQwIpYts2TaPwqhdcwU82"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Aya Florez",
+          "url": "https://open.spotify.com/artist/5pAEIWr1snmCkKSiXWbfjv"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157667,
+      "name": "Feat Tropical",
+      "url": "https://open.spotify.com/track/5SHKtig0htIpj4PT1aO9S4"
+    },
+    {
+      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"

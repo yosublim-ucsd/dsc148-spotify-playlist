@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,404 likes - 68 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,471 likes - 68 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 | 14 | [Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |
 | 15 | [Chopin: Nocturne No\. 13 in C Minor, Op\. 48 No\. 1](https://open.spotify.com/track/2oEK8HdbgtJ7tjqMSSabVG) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [YUNDI](https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u) | [Chopin: Nocturnes](https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx) | 5:17 |
 | 16 | [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/00x8ogYPKcIAAtDzC414DR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin](https://open.spotify.com/album/2y7XA7KLJXRPzTgULfXK5F) | 8:10 |
-| 17 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 |
+| 17 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1\. Moderato](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 |
 | 18 | [Nocturne in G Minor, Op\. 15 No\. 3: Nocturne No\. 6 in G Minor, Op\. 15, No\. 3](https://open.spotify.com/track/5DgCpbEZ2WCpS45BvhTNkc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Amir Katz](https://open.spotify.com/artist/7Ko3m6zrJJ8yokj3KLJa7I) | [Chopin: 21 Nocturnes](https://open.spotify.com/album/3q5JM8WJVVBNBBNr0tku0J) | 4:10 |
 | 19 | [Chopin: Scherzo No\. 3 in C\-Sharp Minor, Op\. 39](https://open.spotify.com/track/5tA1cp06dn0J5UCRupOVjv) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Chopin: 12 Études, Op\. 25 & 4 Scherzi \- Scherzo No\. 3 in C\-Sharp Minor, Op\. 39](https://open.spotify.com/album/4qxCYtrPDO5KXhKGsskqOI) | 7:55 |
 | 20 | [Études, Op\. 10: No\. 4 in C\-Sharp Minor "Torrent" \- Live](https://open.spotify.com/track/5JNgYciqwBjuo84p2nx8jU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Chopin: Études, Op\. 10: No\. 4 in C Sharp Minor "Torrent" \(Live\)](https://open.spotify.com/album/6URmpTM747hZXdRztkcz0E) | 2:01 |

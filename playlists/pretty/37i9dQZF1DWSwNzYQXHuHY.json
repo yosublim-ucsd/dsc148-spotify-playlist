@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10694,
+  "num_followers": 10705,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "Really Like You",
-        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Really Like You",
-      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
-    },
-    {
-      "added_at": "2025-02-14 01:40:44",
-      "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 239099,
       "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
+    },
+    {
+      "added_at": "2025-02-14 01:40:44",
+      "album": {
+        "name": "Really Like You",
+        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Really Like You",
+      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
     },
     {
       "added_at": "2025-02-14 01:40:44",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "Winter Dance",
-        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
       },
       "artists": [
         {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 165504,
-      "name": "Winter Dance",
-      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
     },
     {
       "added_at": "2025-02-14 01:40:44",
@@ -659,18 +659,34 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
+        "name": "Winter Dance",
+        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
       },
       "artists": [
         {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
         }
       ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
+      "duration_ms": 165504,
+      "name": "Winter Dance",
+      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+    },
+    {
+      "added_at": "2025-02-14 01:40:44",
+      "album": {
+        "name": "Motel California OST Part.9",
+        "url": "https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Seems Like I Like You",
+      "url": "https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC"
     },
     {
       "added_at": "2025-02-14 01:40:44",
@@ -695,22 +711,6 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2025-02-14 01:40:44",
-      "album": {
         "name": "bright #4",
         "url": "https://open.spotify.com/album/39B1ZrREuZZ1U0W70xFUAh"
       },
@@ -727,18 +727,34 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "Motel California OST Part.9",
-        "url": "https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c"
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
       "artists": [
         {
-          "name": "Cloud koh",
-          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Seems Like I Like You",
-      "url": "https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC"
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2025-02-14 01:40:44",
+      "album": {
+        "name": "To Be Honest (This is a Campus Romance Series X YERIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "To Be Honest",
+      "url": "https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa"
     },
     {
       "added_at": "2025-02-14 01:40:44",
@@ -795,22 +811,6 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2025-02-14 01:40:44",
-      "album": {
         "name": "What's On Your Mind? (Feat. UNE)",
         "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-02-14 01:40:44",
       "album": {
-        "name": "To Be Honest (This is a Campus Romance Series X YERIN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk"
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
       "artists": [
         {
-          "name": "Yerin",
-          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 170466,
-      "name": "To Be Honest",
-      "url": "https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa"
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     },
     {
       "added_at": "2025-02-14 01:40:44",

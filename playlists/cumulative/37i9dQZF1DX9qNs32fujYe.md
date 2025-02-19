@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Bloodywood
 
-1,010 songs - 3 day 2 hr 8 min
+1,011 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2021-12-17 | 2024-07-13 |
 | [Blacksong](https://open.spotify.com/track/0cBRw4lIhWudd9hblZ9MlD) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [The Duke](https://open.spotify.com/album/0cdtpGIK6hQdGFni4TZEzE) | 5:36 | 2022-07-08 | 2022-11-13 |
 | [Blacksong](https://open.spotify.com/track/5cchzU1igYAggOulRcD9Sn) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Dukebox](https://open.spotify.com/album/314eT1BiDyVkpazS12cPkA) | 5:36 | 2021-12-17 | 2022-07-20 |
+| [Blasphemous Paradise](https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Blasphemous Paradise](https://open.spotify.com/album/5iimgNW82dhY6JIJo8VeDq) | 3:36 | 2025-02-14 |  |
 | [Blast in the Past](https://open.spotify.com/track/2p5rIZJiwzRKkSBLHJTeGU) | [Burning Point](https://open.spotify.com/artist/3eMK8v3YnHRyrVbBp04jxt) | [Blast in the Past](https://open.spotify.com/album/50NOFmwOY45UaQt33lh19g) | 3:11 | 2021-12-29 | 2022-07-19 |
 | [Bleed](https://open.spotify.com/track/1xKsLEYyHWivhSLTwZZ6JM) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/7oCOk3WDJVHIi5RcsuKdtH) | 3:07 | 2022-07-08 | 2023-11-06 |
 | [Bleed](https://open.spotify.com/track/1COgBLG6bc5ECSlDMLOwxO) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/1a4gTPJPhvWv0L1RwcGy8u) | 3:07 | 2022-01-28 | 2022-06-08 |
@@ -710,7 +711,7 @@
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-08 | 2024-01-27 |
 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 | 2022-03-25 | 2024-06-22 |
-| [Saoirse](https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Saoirse](https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz) | 6:17 | 2024-04-05 |  |
+| [Saoirse](https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Saoirse](https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz) | 6:17 | 2024-04-05 | 2025-02-19 |
 | [Saturday Night \(Hallelujah\)](https://open.spotify.com/track/3cnHO8mFG1tqSNWChMI1zh) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Saturday Night \(Hallelujah\)](https://open.spotify.com/album/12oWtJ1bV116awAv3DRWMK) | 3:16 | 2021-12-17 | 2022-07-27 |
 | [Saturn Coming Down](https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Saturn Coming Down](https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge) | 5:58 | 2024-07-05 | 2024-10-12 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-02 | 2022-07-29 |

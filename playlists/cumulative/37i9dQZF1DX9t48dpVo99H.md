@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-90 songs - 3 hr 56 min
+91 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [741 Hz Pure Expression](https://open.spotify.com/track/48R0qTAVmLRyTxxT8PhUA9) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [741 Hz Pure Expression](https://open.spotify.com/album/3R1ahXku6SNrnXE5xVThif) | 3:02 | 2024-08-30 |  |
 | [741 Hz Release](https://open.spotify.com/track/4rkQICXJfWg1UH2LWM2gqd) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [741 Hz Revelation on Antarasu](https://open.spotify.com/track/7AXeWe71oNt7gRfz4l2cwQ) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [741 Hz Revelation on Antarasu](https://open.spotify.com/album/1QvcdeYB87XrfVd7iC3tL7) | 2:18 | 2024-08-30 |  |
+| [741 Hz Ripple Unbound](https://open.spotify.com/track/5BYW3hfPA3m4yNCZFNAWFj) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [741 Hz Ripple Unbound](https://open.spotify.com/album/01Gx9PWbj99xOTe5g6V9AB) | 2:35 | 2025-02-18 |  |
 | [741 Hz Spectral Journey](https://open.spotify.com/track/6t4LHtbQMqoTVGdn5SH6hu) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [741 Hz Spectral Journey](https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY) | 2:42 | 2023-11-30 |  |
 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 | 2023-03-10 |  |
 | [741 Hz Voice Unveiled](https://open.spotify.com/track/6S6iGO59lg5Lh1MsC9GPIf) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [741 Hz Voice Unveiled](https://open.spotify.com/album/6NYKUVr1koEQUOE2a82CI9) | 2:35 | 2024-04-07 |  |

@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-246 songs - 11 hr 50 min
+247 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Stream Of Sleep](https://open.spotify.com/track/2sntSmbUc6xYEAh82RfreY) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Liquid Dream](https://open.spotify.com/album/0tnqwi45420HdLVOC1V9rn) | 2:24 | 2022-08-03 |  |
 | [Stress Relieving Sounds](https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW) | [Hidden Baltic Waves](https://open.spotify.com/artist/4wfduTyoMdvRNrbexmxn97) | [Wave Sounds For Sleep](https://open.spotify.com/album/3tvZj6qxgRKRg4WQEJiMGP) | 2:45 | 2022-08-03 |  |
 | [Strong Meditative Waves](https://open.spotify.com/track/71rGcSQE92qYA2JiY1kv1j) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Wave Sound Meditation](https://open.spotify.com/album/3Lyz2GGV8wu73cBbPPTJ3r) | 3:12 | 2023-06-19 |  |
+| [Strong sea waves in Caribbean](https://open.spotify.com/track/3HMILLluqpXBiv6ildDTqC) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Strong sea waves in Caribbean](https://open.spotify.com/album/1f2d3TyKSRc2LhhpaCrSgx) | 3:00 | 2025-02-18 |  |
 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 | 2022-08-03 |  |
 | [Summer Ocean Waves](https://open.spotify.com/track/6RfkQdyd9B1Q8SFNT6Wvwn) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:31 | 2022-08-03 |  |
 | [Sunrise At The Ocean Mermaid](https://open.spotify.com/track/51bdGaEYbw9o5GTnVw6c4A) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:17 | 2022-08-03 |  |

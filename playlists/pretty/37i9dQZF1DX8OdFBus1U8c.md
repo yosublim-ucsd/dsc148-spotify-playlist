@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : Dabzee & Rishi Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,325 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,403 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 |
-| 2 | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u), [REMYA RAM](https://open.spotify.com/artist/5UU7J5H5K8PNGAqlFgiYyp) | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj) | 3:11 |
+| 2 | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u), [Ramya RamC](https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD) | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj) | 3:11 |
 | 3 | [AAVARTHANAM](https://open.spotify.com/track/7HAyv8PALKTmJvLujWeeCj) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [AAVARTHANAM](https://open.spotify.com/album/1iC5zgfqKvrdACeWdQoAr6) | 3:14 |
 | 4 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 |
 | 5 | [Kaipuzha to Balewadi](https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [Kaipuzha to Balewadi](https://open.spotify.com/album/18NoTZC6G1zSKxvKSThiPh) | 2:34 |

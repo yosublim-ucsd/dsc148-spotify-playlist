@@ -4421,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Somos o no somos?",
+        "url": "https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165997,
+      "name": "Somos o no somos?",
+      "url": "https://open.spotify.com/track/2AZ23mGgDkXaeuM49kzRWl"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },

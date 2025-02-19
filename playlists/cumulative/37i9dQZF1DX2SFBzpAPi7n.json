@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can\u2019t be blue (\uce94\ud2b8\ube44\ube14\ub8e8)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: OWALLOIL(\uc624\uc6d4\uc624\uc77c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 186720,
       "name": "A DAY (Feat. NO:EL)",
       "url": "https://open.spotify.com/track/47LSp3DyU9PWj7po4ahooz"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 206773,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 240000,
       "name": "Camelia",
       "url": "https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK"
@@ -2682,6 +2682,28 @@
       "duration_ms": 223093,
       "name": "Crazy Weather (Our Pie X LUCY)",
       "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
+    },
+    {
+      "album": {
+        "name": "FRUTO",
+        "url": "https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3"
+      },
+      "artists": [
+        {
+          "name": "OWALLOIL",
+          "url": "https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2"
+        },
+        {
+          "name": "Nah",
+          "url": "https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180679,
+      "name": "Creaminal (feat. Nah)",
+      "url": "https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki"
     },
     {
       "album": {
@@ -5687,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Climbers",
+        "url": "https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE"
+    },
+    {
+      "album": {
         "name": "Motel California OST Part.4",
         "url": "https://open.spotify.com/album/2Q7hjEvaWy6BnoWixX31Ly"
       },
@@ -5796,7 +5836,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 222938,
       "name": "Human mechanism",
       "url": "https://open.spotify.com/track/6hfaaIr9uFny885jQBve8s"
@@ -8352,7 +8392,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 169026,
       "name": "Midnight's Cat",
       "url": "https://open.spotify.com/track/2BZLUI9quqfN84GvUlu0ZY"
@@ -10494,7 +10534,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 189990,
       "name": "RE.BOLD",
       "url": "https://open.spotify.com/track/41LJCJ3QR7KrdoVfYYP5Pl"
@@ -13103,6 +13143,24 @@
     },
     {
       "album": {
+        "name": "That\u2019s all",
+        "url": "https://open.spotify.com/album/7nrWwUHACD51HLQDf1B3PB"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yong Min",
+          "url": "https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277186,
+      "name": "That\u2019s all",
+      "url": "https://open.spotify.com/track/7tvls0s6SWA9KTEBcrj1RN"
+    },
+    {
+      "album": {
         "name": "ASTERUM : The Shape of Things to Come",
         "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
       },
@@ -14340,7 +14398,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 207760,
       "name": "We Go Run",
       "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"
@@ -14585,6 +14643,24 @@
     },
     {
       "album": {
+        "name": "When the Stars Gossip OST Part.7",
+        "url": "https://open.spotify.com/album/3BKpeluHXvRuVbSfM3Kyzt"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233040,
+      "name": "When You Appeared",
+      "url": "https://open.spotify.com/track/01TrFgDQ1YzBSS4LWrBar9"
+    },
+    {
+      "album": {
         "name": "ENTITY",
         "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
       },
@@ -14802,6 +14878,42 @@
       "duration_ms": 283033,
       "name": "WINDFALL",
       "url": "https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1KoXOE4p1UonlE2Q3I1WYb"
+      },
+      "artists": [
+        {
+          "name": "IRIS\u00c9",
+          "url": "https://open.spotify.com/artist/0QQS9kR4qcFg7PLwr3JHgN"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3LTpV2o1uer2BJ3RlbauKz"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6BnVGBspQY6A12s8mXHqSS"
+      },
+      "artists": [
+        {
+          "name": "LETO",
+          "url": "https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239300,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/2X9h9oIzIjv82bTLYDIvjQ"
     },
     {
       "album": {
@@ -15608,6 +15720,24 @@
       "duration_ms": 114380,
       "name": "zombie pop",
       "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
+    },
+    {
+      "album": {
+        "name": "\ub3c5\uc218\ub9ac 5\ud615\uc81c\ub97c \ubd80\ud0c1\ud574! (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/38HdDPMgvczUFfSddkW9R3"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "\uadf8\ub140\uac00 \ub0a0 \uae68\uc6e0\ub2e4",
+      "url": "https://open.spotify.com/track/0ZiqukZrA8LLP4CTA7VSsS"
     },
     {
       "album": {

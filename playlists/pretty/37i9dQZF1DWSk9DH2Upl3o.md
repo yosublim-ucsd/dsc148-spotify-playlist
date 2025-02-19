@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,850 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,866 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 42 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 |
 | 43 | [Al's Anti\-Gravity Machine](https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Al's Anti\-Gravity Machine](https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go) | 4:27 |
 | 44 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
-| 45 | [Fire And Brimstone](https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Fire And Brimstone](https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S) | 4:29 |
+| 45 | [Fire And Brimstone](https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fire And Brimstone](https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S) | 4:29 |
 | 46 | [Warming Up](https://open.spotify.com/track/5atSKRkn8KIc6juTtZuRja) | [Jon Sullivan Band](https://open.spotify.com/artist/23FBB7KARNDUnKXhzo93Pb) | [Warming Up](https://open.spotify.com/album/37LcA7IfthCIjmFG4v1Vsn) | 5:38 |
 | 47 | [Frog Rock](https://open.spotify.com/track/5Gbm1ipybjf63mU439XcrC) | [Road Waves](https://open.spotify.com/artist/0v5yDE94Tf7agKSVwqSwau) | [Frog Rock](https://open.spotify.com/album/5yAKhXWdnSINL6HH87aKpK) | 9:35 |
 | 48 | [East West \- Tchad Blake Remix](https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H) | [The Third Mind](https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD), [Tchad Blake](https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp) | [East West \(Tchad Blake Remix\)](https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D) | 17:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,522 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,578 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Materac](https://open.spotify.com/track/4Vjo8A00Nh5PZu0V3ip1cz) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni) | [Materac](https://open.spotify.com/album/65MgbHF5nlda57Ia8yyr9P) | 2:47 |
 | 50 | [MAMA POWTARZAŁA](https://open.spotify.com/track/0K6thngxWrsspm5kzKgFCR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [MAMA POWTARZAŁA](https://open.spotify.com/album/5BxZauvVwPhsl0xyTpkcOK) | 3:22 |
 
-Snapshot ID: `Z655iQAAAAAdie8UZjKwWhxiilg3Geyr`
+Snapshot ID: `Z655iQAAAADBNLBQzUsvNySUobZG8vP2`

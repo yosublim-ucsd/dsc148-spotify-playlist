@@ -49,28 +49,6 @@
     },
     {
       "album": {
-        "name": "Satie: The Magic of Satie",
-        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219760,
-      "name": "3 Gymnop\u00e9dies: No. 1 Lent et douloureux",
-      "url": "https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK"
-    },
-    {
-      "album": {
         "name": "Satie: Piano Works, Vol. 4",
         "url": "https://open.spotify.com/album/07BgwryrkniEoX2drLTqQ1"
       },
@@ -799,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Satie: The Complete solo piano music",
+        "url": "https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105840,
+      "name": "Gnossienne No. 6",
+      "url": "https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB"
+    },
+    {
+      "album": {
         "name": "Satie: Piano Music",
         "url": "https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH"
       },
@@ -821,8 +821,8 @@
     },
     {
       "album": {
-        "name": "Satie: The Complete solo piano music",
-        "url": "https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX"
+        "name": "Satie: The Magic of Satie",
+        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
       },
       "artists": [
         {
@@ -837,9 +837,9 @@
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 105840,
-      "name": "Gnossiennes: No. 6",
-      "url": "https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB"
+      "duration_ms": 219760,
+      "name": "Gymnop\u00e9die No. 1. Lent et douloureux",
+      "url": "https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK"
     },
     {
       "album": {
@@ -1306,6 +1306,28 @@
       "duration_ms": 248200,
       "name": "Le pi\u00e8ge de M\u00e9duse",
       "url": "https://open.spotify.com/track/6jYtCHFHWK3E7GKwQvXiLR"
+    },
+    {
+      "album": {
+        "name": "Satie: The Magic of Satie",
+        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334466,
+      "name": "Le poisson r\u00eaveur",
+      "url": "https://open.spotify.com/track/0r02zzxjeM5ThzbL9C4FEj"
     },
     {
       "album": {
@@ -2032,28 +2054,6 @@
       "duration_ms": 274880,
       "name": "Tendrement - Valse chant\u00e9e",
       "url": "https://open.spotify.com/track/1qZ68NcYFYJRpd0vSzfU71"
-    },
-    {
-      "album": {
-        "name": "Satie: The Magic of Satie",
-        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 334466,
-      "name": "The dreamy fish",
-      "url": "https://open.spotify.com/track/0r02zzxjeM5ThzbL9C4FEj"
     },
     {
       "album": {

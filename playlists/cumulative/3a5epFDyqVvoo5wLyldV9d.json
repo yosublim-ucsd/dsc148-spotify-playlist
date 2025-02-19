@@ -1617,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Batkalem Gad",
+        "url": "https://open.spotify.com/album/11HyvAF5XrYmjuR7kUoO3Q"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1"
+        },
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276506,
+      "name": "Batkalem Gad",
+      "url": "https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3"
+    },
+    {
+      "album": {
         "name": "Yalil",
         "url": "https://open.spotify.com/album/61NxoE3TkhvLGc5VZI5LXN"
       },
@@ -7355,6 +7377,24 @@
     },
     {
       "album": {
+        "name": "Lw Kan",
+        "url": "https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID"
+      },
+      "artists": [
+        {
+          "name": "El Shab Arab",
+          "url": "https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238066,
+      "name": "Lw Kan",
+      "url": "https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV"
+    },
+    {
+      "album": {
         "name": "Nimeh Gomshodeh Man",
         "url": "https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC"
       },
@@ -12361,7 +12401,7 @@
     },
     {
       "album": {
-        "name": "Alech / Soul Brother",
+        "name": "Alech / Soul Brother (Habibi Funk 001)",
         "url": "https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize"
       },
       "artists": [

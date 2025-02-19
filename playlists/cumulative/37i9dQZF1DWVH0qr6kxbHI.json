@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Pur\u00edsimo Sara",
+        "url": "https://open.spotify.com/album/4DA9Khggt2SPrKLYHGYOQm"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "Atr\u00e9vete Otra Vez",
+      "url": "https://open.spotify.com/track/0pSE8F90YFpOFeUM4jzWCc"
+    },
+    {
+      "album": {
         "name": "Baladilla De Los Tres R\u00edos",
         "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
       },
@@ -186,6 +204,24 @@
       "duration_ms": 233666,
       "name": "Blanco y Negro",
       "url": "https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de hierro",
+        "url": "https://open.spotify.com/album/7w7AuNDsrrbryexIA1g9V9"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215706,
+      "name": "Brindaremos por \u00e9l",
+      "url": "https://open.spotify.com/track/3FVpM9dyJHgiTNYcp87dId"
     },
     {
       "album": {
@@ -474,7 +510,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 282893,
       "name": "Dejandonos La Piel (with Lolita)",
       "url": "https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW"
@@ -500,6 +536,24 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
+    },
+    {
+      "album": {
+        "name": "Tiempos dificiles",
+        "url": "https://open.spotify.com/album/6lfk9pty2XTZPUeJw3Onf9"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282266,
+      "name": "El amor",
+      "url": "https://open.spotify.com/track/5LpflH9ncdBJwSlem7ey9a"
     },
     {
       "album": {
@@ -1040,7 +1094,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 211746,
       "name": "Los Nardos",
       "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 279026,
       "name": "Se Nos Rompio el Amor (with Mal\u00fa)",
       "url": "https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Your future favourite pop hits, fresh for the UK\. Cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,286 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,295 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/36BeMqxR7q254G08CemQ8L) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Fly](https://open.spotify.com/album/2rTDXdAyl0MkYaF0XpUHz4) | 2:44 |
 | 50 | [Dive In](https://open.spotify.com/track/1VUhLrBErkwHoS0vGEfpzm) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Dive In](https://open.spotify.com/album/6dcwju1Kh5LlhyhlUoyWNd) | 2:19 |
 
-Snapshot ID: `Z66HxwAAAAC4nDfcZ1JHqw3FUOAlZzDp`
+Snapshot ID: `Z66HxwAAAABT4V9UdJila3zx+FaKbNuf`

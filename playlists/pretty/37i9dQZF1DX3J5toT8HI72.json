@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 786418,
+  "num_followers": 786478,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,22 @@
     {
       "added_at": "2025-02-14 15:40:33",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
       },
       "artists": [
         {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Bela Flor",
-      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
+      "duration_ms": 240000,
+      "name": "Me Namora",
+      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
     },
     {
       "added_at": "2025-02-14 15:40:33",
@@ -835,22 +839,18 @@
     {
       "added_at": "2025-02-14 15:40:33",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
       "artists": [
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Me Namora",
-      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+      "duration_ms": 183506,
+      "name": "Bela Flor",
+      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
     },
     {
       "added_at": "2025-02-14 15:40:33",

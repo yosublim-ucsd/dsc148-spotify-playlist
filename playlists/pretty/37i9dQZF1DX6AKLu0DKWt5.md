@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,178 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,180 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 22 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
 | 23 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
 | 24 | [Hum](https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 3:27 |
-| 25 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
-| 26 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
+| 25 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
+| 26 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
 | 27 | [Overture of Conclave](https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:27 |
 | 28 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
 | 29 | [Wallace & Gromit](https://open.spotify.com/track/6DWohjBrR8myDqpYtWXfXX) | [Julian Nott](https://open.spotify.com/artist/5rTSrGxGb29AiNRh0omvKS), [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG), [James Michael Dooley](https://open.spotify.com/artist/1WMsCBVNqqlhDMioUVt239), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Alastair King](https://open.spotify.com/artist/4o43d8XbIhNhlVGqFe7s8e) | [Wallace & Gromit: The Curse Of The Were\-Rabbit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/432WkQOMik5HTiAB5cqCxG) | 1:08 |

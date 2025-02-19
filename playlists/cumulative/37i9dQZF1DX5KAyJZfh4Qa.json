@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 168353,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q"
@@ -4174,6 +4174,24 @@
       "duration_ms": 95253,
       "name": "This # Is No Longer in Service",
       "url": "https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq"
+    },
+    {
+      "album": {
+        "name": "to you, after 2000 years",
+        "url": "https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX"
+      },
+      "artists": [
+        {
+          "name": "Customer Service",
+          "url": "https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111518,
+      "name": "this is the best night of my life!",
+      "url": "https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N"
     },
     {
       "album": {

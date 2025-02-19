@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Majo y Dan
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,784 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,815 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 2 | [Gracias](https://open.spotify.com/track/1vbxljUiVWuKTsbt04VFQx) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Gracias](https://open.spotify.com/album/5LhnKDEfNXW2fZoRXusH4w) | 5:23 |
 | 3 | [Mayordomo de la rima](https://open.spotify.com/track/6TtCtlCj6Kgkk28u8l18xP) | [Elemento](https://open.spotify.com/artist/18cY0XRBki7XQXG2Sd5Fwd), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Mayordomo de la rima](https://open.spotify.com/album/0G6ws0de5h8jxFqeVlPpJO) | 4:03 |
 | 4 | [Colores](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
-| 5 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:09 |
+| 5 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:11 |
 | 6 | [TU LO VA VE´](https://open.spotify.com/track/71oSDGrrSEfXnFqcKOruvn) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [TU LO VA VE´](https://open.spotify.com/album/3OFNif6K20Oc7o0tkXV080) | 2:20 |
 | 7 | [Es Perfecto](https://open.spotify.com/track/3qxNVoyBha3n4if8DNMG1o) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Es Perfecto](https://open.spotify.com/album/01DnsGke4f0gUMpRDW8QSo) | 3:38 |
 | 8 | [Amores](https://open.spotify.com/track/5WJvjSAb4dkSPMrYMOjuc9) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Amores](https://open.spotify.com/album/2UmUeKP2x0BO8OCf2LFZu0) | 3:38 |

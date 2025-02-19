@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "396 Hz Crystal Clarity",
+        "url": "https://open.spotify.com/album/5KlFlMtEN7RXbRCR1kDujY"
+      },
+      "artists": [
+        {
+          "name": "Infinite Imagination",
+          "url": "https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180331,
+      "name": "396 Hz Crystal Clarity",
+      "url": "https://open.spotify.com/track/5bO2CAfJEbWohlKNBOQKc6"
+    },
+    {
+      "album": {
         "name": "396 Hz Crystal Clear Communication",
         "url": "https://open.spotify.com/album/4meOuguV2uA5oIC15bIu85"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 181285,
       "name": "396 Hz Endless Dream",
       "url": "https://open.spotify.com/track/1uhhQzim9TCtUhjh6CR6oZ"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 160646,
       "name": "396 Hz Melody of Release",
       "url": "https://open.spotify.com/track/214fMDZSTdIftSeAT2X3tF"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 142857,
       "name": "396 Hz Release",
       "url": "https://open.spotify.com/track/3sIeuXqta0pBs5mXZZ7Cns"
@@ -2062,6 +2080,24 @@
       "duration_ms": 226971,
       "name": "Pace Setting (396 Hz)",
       "url": "https://open.spotify.com/track/0MrfRWL1e7BzteaVRLM86J"
+    },
+    {
+      "album": {
+        "name": "Pathfinding (396 Hz)",
+        "url": "https://open.spotify.com/album/3b86BeHvuSoXlIcNoZzqGa"
+      },
+      "artists": [
+        {
+          "name": "Orbit Of Zen",
+          "url": "https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Pathfinding (396 Hz)",
+      "url": "https://open.spotify.com/track/4dDU6T7MSk0W89QPaDP7HK"
     },
     {
       "album": {

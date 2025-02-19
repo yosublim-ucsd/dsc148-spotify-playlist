@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Sofie Royer.
 
-1,863 songs - 4 day 4 hr 47 min
+1,864 songs - 4 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [My lovely killer](https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [My lovely killer](https://open.spotify.com/album/5z6e7ospoCedgVD1l9bMbm) | 2:12 | 2025-01-17 |  |
 | [My Mr.Right](https://open.spotify.com/track/7jg3UyQr4zJdiBcjrXN0rd) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [My Mr.Right](https://open.spotify.com/album/77R5JWquBVS0tqeB2J0pG9) | 3:26 | 2022-02-03 | 2022-03-11 |
 | [MY WAY \(Prod\. R.Tee\)](https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 6:17 | 2023-05-30 | 2024-01-13 |
+| [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-14 |  |
 | [Ménage À Trois](https://open.spotify.com/track/2ZJbAQc3f1VkNsMrkB7ckF) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [New World Order](https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD) | 2:10 | 2025-01-31 |  |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-09-08 | 2023-05-23 |
 | [Một Điều Mà Anh Rất Ngại Nói Ra](https://open.spotify.com/track/3c0tvuQ3Wq05jlnBA1po76) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Một Điều Mà Anh Rất Ngại Nói Ra](https://open.spotify.com/album/6BRscfY1NbNkKKTHsgnO1q) | 3:22 | 2022-03-24 | 2023-04-18 |
@@ -1669,7 +1670,7 @@
 | [your house, my house](https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [your house, my house](https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM) | 3:14 | 2024-05-24 | 2024-06-17 |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-03-24 | 2023-04-18 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
-| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 |  |
+| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 | 2025-02-19 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-24 | 2024-12-01 |
 | [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 | 2024-12-22 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 | 2024-08-03 |

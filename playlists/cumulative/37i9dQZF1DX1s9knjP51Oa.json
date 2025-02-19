@@ -6667,6 +6667,24 @@
     },
     {
       "album": {
+        "name": "Jasmine Dreams",
+        "url": "https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190084,
+      "name": "Jasmine Dreams",
+      "url": "https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ"
+    },
+    {
+      "album": {
         "name": "Je crois en toi",
         "url": "https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL"
       },
@@ -12310,7 +12328,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 157840,
       "name": "Sweet Serene",
       "url": "https://open.spotify.com/track/230kFn9H2qTsJXURSEnfX2"
@@ -12818,6 +12836,24 @@
       "duration_ms": 181250,
       "name": "The Question",
       "url": "https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu"
+    },
+    {
+      "album": {
+        "name": "The Silence Between",
+        "url": "https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1"
+      },
+      "artists": [
+        {
+          "name": "Niwa Nova",
+          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181347,
+      "name": "The Silence Between",
+      "url": "https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2"
     },
     {
       "album": {

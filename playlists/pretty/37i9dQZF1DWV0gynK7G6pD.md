@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bruce Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,665 likes - 77 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,706 likes - 77 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 29 | [12 Romances, Op\. 21: No\. 5, Lilacs](https://open.spotify.com/track/3oAceOAn0c6LfYzHA1zx2Y) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Claude Monet](https://open.spotify.com/artist/03Uu6Q3OuzTZh03cFyO4fg) | [Rachmaninoff: 12 Romances, Op\. 21: No\. 5, Lilacs](https://open.spotify.com/album/78bP7WAafyNI0Xnkdjz25W) | 2:52 |
 | 30 | [3 Chansons, M\. 69: III\. Ronde](https://open.spotify.com/track/1TrWncT4WjFCXNOVYzZBTf) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [3 Chansons, M\. 69: III\. Ronde](https://open.spotify.com/album/3ZHyDlLNpEvePIE3FXAP55) | 1:48 |
 | 31 | [Ascension](https://open.spotify.com/track/3JtHfz2okMXq2u3BQweOYG) | [The Ayoub Sisters](https://open.spotify.com/artist/0vFkVid8pFiVX9aLS8jdru) | [The 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gJcpuHSZH9H6cykiZjNsq) | 1:02 |
-| 32 | [Sonata for Piano and Violin in E\-Flat Major, K\. 481, No\. 33: I\. Molto Allegro](https://open.spotify.com/track/1RAMQgYwf6zSfRtXYf5xbK) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Claudio Cruz](https://open.spotify.com/artist/6Bpfb5XDqRahzoMnrL5iaO), [Olga Kopylova](https://open.spotify.com/artist/10b6IIxvCkupBJNb1gRW1U) | [Mozart: Sonatas for Piano and Violin, Vol\. 3](https://open.spotify.com/album/493TAU7XPHJngAIV8PhGa3) | 7:21 |
+| 32 | [Sonata for Piano and Violin No\. 33 in E\-Flat Major, K\. 481: I\. Molto Allegro](https://open.spotify.com/track/1RAMQgYwf6zSfRtXYf5xbK) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Claudio Cruz](https://open.spotify.com/artist/6Bpfb5XDqRahzoMnrL5iaO), [Olga Kopylova](https://open.spotify.com/artist/10b6IIxvCkupBJNb1gRW1U) | [Mozart: Sonatas for Piano and Violin, Vol\. 3](https://open.spotify.com/album/493TAU7XPHJngAIV8PhGa3) | 7:21 |
 | 33 | [Shimmers I \- Loved Beyond Measure](https://open.spotify.com/track/1BrsLWrneUGY6ymOpbtazN) | [Daniela Mars](https://open.spotify.com/artist/71r1FG65OQEQiR6Tk5c1bJ), [Barnaby Smith](https://open.spotify.com/artist/7ejNaQI6qqhLCklGDuCpcm) | [Heartweaving](https://open.spotify.com/album/3WMIG7vb1IUen3NsKTJ6RF) | 1:52 |
 | 34 | [For the Moon](https://open.spotify.com/track/2OKnb8Bp073NjsGYUxma6N) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [For the Moon](https://open.spotify.com/album/0fX0JaD0pn03RUb0NcevVl) | 2:51 |
 | 35 | [Orfeo ed Euridice, Wq\. 30: "Dance of the Blessed Spirits" \- Arr\. for Solo Piano by Alexander Siloti](https://open.spotify.com/track/5O1MVWQwgtBWaDUT7aGT1V) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Gluck: Orfeo ed Euridice, Wq\. 30: "Dance of the Blessed Spirits" \(Arr\. for Solo Piano by Alexander Siloti\)](https://open.spotify.com/album/2RfKsGjnl0fJoLgug8P0L1) | 3:56 |

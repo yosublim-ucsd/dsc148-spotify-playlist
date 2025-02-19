@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Conscious Dream",
+        "url": "https://open.spotify.com/album/0pyn3nt7UTFH5Jv8s9PdYy"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92530,
+      "name": "Conscious Dream",
+      "url": "https://open.spotify.com/track/1EFZlRC3hOeFbN2mmxs6pv"
+    },
+    {
+      "album": {
         "name": "Cortado",
         "url": "https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C"
       },
@@ -6636,7 +6654,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 138000,
       "name": "Space Lady",
       "url": "https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo"

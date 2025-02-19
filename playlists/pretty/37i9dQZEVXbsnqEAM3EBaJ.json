@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACKNeooJo1LhcUoWs36kiOJ",
+  "snapshot_id": "AAAAAAAAAAAm0Sx1j2e3VbGtfyfMb6Jq",
   "tracks": [
     {
       "added_at": "2025-02-14 03:00:00",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
         }
       ],
-      "duration_ms": 268317,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/10ulADIuNQmJEbIHwdMnTv"
+      "duration_ms": 205988,
+      "name": "Sex Type Thing",
+      "url": "https://open.spotify.com/track/4jw0bdjcEts1joegCtNS9w"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -51,98 +51,6 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "In Eternity (Orchestral Version)",
-        "url": "https://open.spotify.com/album/76qLz9QDHAG9pWSd4ksU2h"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 219532,
-      "name": "In Eternity - Orchestral Version",
-      "url": "https://open.spotify.com/track/0NmovNgYggojvsQIFxXE29"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Army of the Trees",
-        "url": "https://open.spotify.com/album/0lQjLhpzihGEI2EwaPEhy4"
-      },
-      "artists": [
-        {
-          "name": "Savage Lands",
-          "url": "https://open.spotify.com/artist/5fft5SyNYhNar3PdYtKQSF"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 271871,
-      "name": "Ruling Queen",
-      "url": "https://open.spotify.com/track/5HZYnLblCELRg2fBsxFVUK"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "I Wish You Were Dead",
-      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "I Was Made For Lovin\u2019 You (Disco Lines Remix)",
-        "url": "https://open.spotify.com/album/1U617ES34q9sIKxIXSEqnI"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 260181,
-      "name": "I Was Made For Lovin' You - Disco Lines Remix",
-      "url": "https://open.spotify.com/track/302iphQDRz3hMJoelyKTh5"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Your Name In Lights (Pyramid Music Mix)",
-        "url": "https://open.spotify.com/album/7zZULmz86UjKZLyVSHJYTA"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        },
-        {
-          "name": "Pyramid Music",
-          "url": "https://open.spotify.com/artist/3fvmbhHUtlmLfutvhUi2p9"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Your Name In Lights - Pyramid Music Mix",
-      "url": "https://open.spotify.com/track/6200gfWDlpru5njPReAXdb"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/3bOVlVIbppdU9hKujjOK6B"
       },
@@ -167,42 +75,38 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
-        "url": "https://open.spotify.com/album/0oLUuJWPfVCTn70SSgvA7C"
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 163071,
-      "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
-      "url": "https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP"
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
     },
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/48doH9nnym0XhIm1587p3F"
+        "name": "Army of the Trees",
+        "url": "https://open.spotify.com/album/0lQjLhpzihGEI2EwaPEhy4"
       },
       "artists": [
         {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+          "name": "Savage Lands",
+          "url": "https://open.spotify.com/artist/5fft5SyNYhNar3PdYtKQSF"
         },
         {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
         }
       ],
-      "duration_ms": 256165,
-      "name": "War Time",
-      "url": "https://open.spotify.com/track/0Meyr7LVvQ4ptotgWXTLK1"
+      "duration_ms": 271871,
+      "name": "Ruling Queen",
+      "url": "https://open.spotify.com/track/5HZYnLblCELRg2fBsxFVUK"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -227,6 +131,46 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
+        "name": "Your Name In Lights (Pyramid Music Mix)",
+        "url": "https://open.spotify.com/album/7zZULmz86UjKZLyVSHJYTA"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        },
+        {
+          "name": "Pyramid Music",
+          "url": "https://open.spotify.com/artist/3fvmbhHUtlmLfutvhUi2p9"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Your Name In Lights - Pyramid Music Mix",
+      "url": "https://open.spotify.com/track/6200gfWDlpru5njPReAXdb"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
+        "url": "https://open.spotify.com/album/0oLUuJWPfVCTn70SSgvA7C"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
+      "url": "https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
         "name": "The Witch",
         "url": "https://open.spotify.com/album/5ApBOWRLMM0X9BbmM6z3uW"
       },
@@ -243,22 +187,6 @@
       "duration_ms": 255266,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/2neRXYyKh7o5Nxuvea7g3R"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "All The Love Is Gone",
-        "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 182650,
-      "name": "All The Love Is Gone",
-      "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -295,26 +223,74 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "Octubre sin ti feat. F\u00e1rmacos & Ross Mayfield",
-        "url": "https://open.spotify.com/album/2VY43KNEf2HojYxE0TIDGf"
+        "name": "In Eternity (Orchestral Version)",
+        "url": "https://open.spotify.com/album/76qLz9QDHAG9pWSd4ksU2h"
       },
       "artists": [
         {
-          "name": "PUERTO DOMINGO",
-          "url": "https://open.spotify.com/artist/4ghptDak0jWQSCNSUDrzCk"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        },
-        {
-          "name": "Ross Mayfield",
-          "url": "https://open.spotify.com/artist/1QSYr9JvGbgQSmIizvUNuL"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 136173,
-      "name": "Octubre sin ti feat. F\u00e1rmacos & Ross Mayfield",
-      "url": "https://open.spotify.com/track/2IaRrwKo7hcjuJhGkFKtb2"
+      "duration_ms": 219532,
+      "name": "In Eternity - Orchestral Version",
+      "url": "https://open.spotify.com/track/0NmovNgYggojvsQIFxXE29"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/48doH9nnym0XhIm1587p3F"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        },
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 256165,
+      "name": "War Time",
+      "url": "https://open.spotify.com/track/0Meyr7LVvQ4ptotgWXTLK1"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "All The Love Is Gone",
+        "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 182650,
+      "name": "All The Love Is Gone",
+      "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "I Was Made For Lovin\u2019 You (Disco Lines Remix)",
+        "url": "https://open.spotify.com/album/1U617ES34q9sIKxIXSEqnI"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 260181,
+      "name": "I Was Made For Lovin' You - Disco Lines Remix",
+      "url": "https://open.spotify.com/track/302iphQDRz3hMJoelyKTh5"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -363,6 +339,30 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
+        "name": "Octubre sin ti feat. F\u00e1rmacos & Ross Mayfield",
+        "url": "https://open.spotify.com/album/2VY43KNEf2HojYxE0TIDGf"
+      },
+      "artists": [
+        {
+          "name": "PUERTO DOMINGO",
+          "url": "https://open.spotify.com/artist/4ghptDak0jWQSCNSUDrzCk"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        },
+        {
+          "name": "Ross Mayfield",
+          "url": "https://open.spotify.com/artist/1QSYr9JvGbgQSmIizvUNuL"
+        }
+      ],
+      "duration_ms": 136173,
+      "name": "Octubre sin ti feat. F\u00e1rmacos & Ross Mayfield",
+      "url": "https://open.spotify.com/track/2IaRrwKo7hcjuJhGkFKtb2"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
         "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
         "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/0ZdgpbDDrPdvV5iEgPM6vs"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -435,18 +451,18 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/2Thk2chudkQfw6TujY7E0D"
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
       "artists": [
         {
-          "name": "Soviet Soviet",
-          "url": "https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 211489,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/2R4naTnDcjFFS6R7cRbZ9W"
+      "duration_ms": 444120,
+      "name": "Bend the Clock",
+      "url": "https://open.spotify.com/track/68D2W6r8x6vcdzHCPVmw04"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -467,34 +483,18 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "Paper Tiger",
-        "url": "https://open.spotify.com/album/0ZdgpbDDrPdvV5iEgPM6vs"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2Thk2chudkQfw6TujY7E0D"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Soviet Soviet",
+          "url": "https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Parasomnia",
-        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 444120,
-      "name": "Bend the Clock",
-      "url": "https://open.spotify.com/track/68D2W6r8x6vcdzHCPVmw04"
+      "duration_ms": 211489,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2R4naTnDcjFFS6R7cRbZ9W"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
+        "name": "AntiFragile",
+        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 263622,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
         "name": "Punk Rock Valentines",
         "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "AntiFragile",
-        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 263622,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
         "name": "Astro (Y Que El Mundo Espere) [B-side]",
         "url": "https://open.spotify.com/album/1Fnbk82nypEADTWeEgkWYx"
       },
@@ -603,42 +603,6 @@
       "duration_ms": 335706,
       "name": "Astro (Y Que El Mundo Espere) - B-side",
       "url": "https://open.spotify.com/track/0Bf96DHQYyzeoaZe4CaMIs"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "The Tipu House",
-        "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "The Tipu House",
-      "url": "https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Ray)",
-      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -663,6 +627,26 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Ray)",
+      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "The Tipu House",
+        "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "The Tipu House",
+      "url": "https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "Nada Para Ti (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/43HzRMB4IFFxw6PZgy1Y6d"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Nada Para Ti (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1ExJH7GeqarJmpAZk1IyAF"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
         "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 152456,
       "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "Nada Para Ti (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43HzRMB4IFFxw6PZgy1Y6d"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Nada Para Ti (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1ExJH7GeqarJmpAZk1IyAF"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "Brain Tissue",
+        "url": "https://open.spotify.com/album/4UNI3TGMueOJisBKwhj4Zd"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 237886,
+      "name": "Brain Tissue",
+      "url": "https://open.spotify.com/track/3akArKnQKVVXgUB9B8nOUe"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 242500,
       "name": "No Me Hagan Reir",
       "url": "https://open.spotify.com/track/1J6DYoPyMg7h5sgQX77NrQ"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
-        "name": "Brain Tissue",
-        "url": "https://open.spotify.com/album/4UNI3TGMueOJisBKwhj4Zd"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 237886,
-      "name": "Brain Tissue",
-      "url": "https://open.spotify.com/track/3akArKnQKVVXgUB9B8nOUe"
     },
     {
       "added_at": "2025-02-14 03:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-02-14 03:00:00",
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 196254,
-      "name": "Found Someone",
-      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
-    },
-    {
-      "added_at": "2025-02-14 03:00:00",
-      "album": {
         "name": "La Danza del Subconsciente",
         "url": "https://open.spotify.com/album/6dduY2j7nqpM3cVtmQFi1R"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 228215,
       "name": "La Danza del Subconsciente",
       "url": "https://open.spotify.com/track/22vqJzu6GWcsHKyJQXHfvz"
+    },
+    {
+      "added_at": "2025-02-14 03:00:00",
+      "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 196254,
+      "name": "Found Someone",
+      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
     },
     {
       "added_at": "2025-02-14 03:00:00",

@@ -185,7 +185,7 @@
     },
     {
       "album": {
-        "name": "End of the Century - Expanded 2005 Remaster",
+        "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
       "artists": [
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 148333,
       "name": "Chinese Rock - 1999 Remaster",
       "url": "https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 199933,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK"

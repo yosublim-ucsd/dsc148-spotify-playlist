@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 557101,
+  "num_followers": 557151,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAABWkeDZZNdmjrNePb/t+tt8",
+  "snapshot_id": "Z7J8AAAAAABYkmqTBP8LkuZny/D8oQ7h",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 223766,
-      "name": "Battle Born",
-      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
+      "duration_ms": 187670,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 187670,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 214542,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 178100,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 178100,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way of the Fist",
         "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
       },
@@ -596,7 +596,7 @@
       "added_at": null,
       "album": {
         "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 162051,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc"
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/093pLJk6h71BCYyrcVQGEO"
     },
     {
       "added_at": null,
@@ -660,7 +660,7 @@
       "added_at": null,
       "album": {
         "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 227309,
-      "name": "When the Seasons Change",
-      "url": "https://open.spotify.com/track/093pLJk6h71BCYyrcVQGEO"
+      "duration_ms": 162051,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc"
     },
     {
       "added_at": null,

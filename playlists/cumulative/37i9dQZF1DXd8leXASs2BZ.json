@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 5Leaf",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Issei Uno Fifth",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -264,6 +264,24 @@
       "duration_ms": 127007,
       "name": "20221218",
       "url": "https://open.spotify.com/track/6fcN2s2sZzUYntuHwye4J5"
+    },
+    {
+      "album": {
+        "name": "2025 Freestyle",
+        "url": "https://open.spotify.com/album/1JGhfNCUVpixfswmsTTywR"
+      },
+      "artists": [
+        {
+          "name": "KVGGLV",
+          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102600,
+      "name": "2025 Freestyle",
+      "url": "https://open.spotify.com/track/4ZOps6xTaAjxdkFMYR5rwm"
     },
     {
       "album": {
@@ -3745,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/4rp1EW6AC9Yx3sJMwFR38A"
+      },
+      "artists": [
+        {
+          "name": "RIVA",
+          "url": "https://open.spotify.com/artist/2A1lr06LiCIxIsGBQDp62g"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146406,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/26zWqYh4fdyAyVtGjZyL3X"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
       },
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 140984,
       "name": "Dum Diggy Diggy Dumb",
       "url": "https://open.spotify.com/track/3YlrZRgo6luyFmCeWc3CWO"
@@ -4700,7 +4736,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 193656,
       "name": "EYES",
       "url": "https://open.spotify.com/track/2fsbu9lHlhON4zGVluUwBx"
@@ -4722,7 +4758,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 171305,
       "name": "Eyes on you (feat. Masato Hayashi)",
       "url": "https://open.spotify.com/track/3bBuFud7OatqgOA7u8J8De"
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 117600,
       "name": "Ghetto Saiyan",
       "url": "https://open.spotify.com/track/6s6Z4n8IVBECW4VpqBAmXz"
@@ -6004,6 +6040,32 @@
       "duration_ms": 111209,
       "name": "GINGINDEGO",
       "url": "https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR"
+    },
+    {
+      "album": {
+        "name": "Girls Don't Cry",
+        "url": "https://open.spotify.com/album/2dbpqsXvODf3vqrz1ld1zB"
+      },
+      "artists": [
+        {
+          "name": "SENA",
+          "url": "https://open.spotify.com/artist/594nTuyRvGYcEoCWNGGfhc"
+        },
+        {
+          "name": "Aroma-T",
+          "url": "https://open.spotify.com/artist/0HTlt2kXPrnBEdj40BqhQ2"
+        },
+        {
+          "name": "Awkisonic",
+          "url": "https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135680,
+      "name": "Girls Don't Cry",
+      "url": "https://open.spotify.com/track/0ElITOt1EJo4yc6bZvS0PI"
     },
     {
       "album": {
@@ -7114,6 +7176,28 @@
       "duration_ms": 180422,
       "name": "i have a wing",
       "url": "https://open.spotify.com/track/210KJALjlNU0gWvWg7VfNS"
+    },
+    {
+      "album": {
+        "name": "I know I am",
+        "url": "https://open.spotify.com/album/7nGYIYm1POKbFZ5bj6TOqN"
+      },
+      "artists": [
+        {
+          "name": "Cuegee",
+          "url": "https://open.spotify.com/artist/1aquTqscrUeZrug116Rxy5"
+        },
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "I know I am",
+      "url": "https://open.spotify.com/track/7C2q4ZrXwiTNMxsflZp8wh"
     },
     {
       "album": {
@@ -8339,6 +8423,24 @@
     },
     {
       "album": {
+        "name": "NEW SOUTH",
+        "url": "https://open.spotify.com/album/55gjOYpKN0WejIdqfq8dpB"
+      },
+      "artists": [
+        {
+          "name": "DOUBLE UP",
+          "url": "https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "KORIAN TOWN",
+      "url": "https://open.spotify.com/track/2UWAwPr8JiOS64mbKZJ8Ca"
+    },
+    {
+      "album": {
         "name": "KUKULU",
         "url": "https://open.spotify.com/album/1uXa8xF040EXPsjYxoCOdt"
       },
@@ -9130,6 +9232,24 @@
       "duration_ms": 120000,
       "name": "MAKE YOU WAIT",
       "url": "https://open.spotify.com/track/6f3ZGbEs6VwhIbOzfMcEnj"
+    },
+    {
+      "album": {
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML"
+      },
+      "artists": [
+        {
+          "name": "Issei Uno Fifth",
+          "url": "https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202645,
+      "name": "Mama I Can Fly",
+      "url": "https://open.spotify.com/track/30m2COgY5EzfPii95m1sX2"
     },
     {
       "album": {
@@ -10191,6 +10311,28 @@
     },
     {
       "album": {
+        "name": "Ningen",
+        "url": "https://open.spotify.com/album/52nKHfEhfjm11ajpY3R88h"
+      },
+      "artists": [
+        {
+          "name": "Hanagata",
+          "url": "https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP"
+        },
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148872,
+      "name": "Ningen",
+      "url": "https://open.spotify.com/track/0KRmaNFtt6ZCfztkFEavBX"
+    },
+    {
+      "album": {
         "name": "NO BODY",
         "url": "https://open.spotify.com/album/1wrgi8hcFfkRQU9OqhjRkU"
       },
@@ -10462,7 +10604,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 143317,
       "name": "noraneko",
       "url": "https://open.spotify.com/track/2qrhIpXn31TaLxbyb1PQ2M"
@@ -11810,7 +11952,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 138181,
       "name": "R2D",
       "url": "https://open.spotify.com/track/6Nhz0SBtoCYyKpQUBcFEOI"
@@ -12642,7 +12784,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 186857,
       "name": "SAIKO NICE GUY",
       "url": "https://open.spotify.com/track/16tXqNkbIaPXPIbLeU90jt"
@@ -15252,7 +15394,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 133931,
       "name": "wanna be",
       "url": "https://open.spotify.com/track/5q1N0LFZUogJ1WRLKUCwbd"
@@ -15634,7 +15776,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 210149,
       "name": "Who?",
       "url": "https://open.spotify.com/track/75Oa0p1FJ31i6yZlufxB8n"
@@ -17602,6 +17744,28 @@
       "duration_ms": 177272,
       "name": "\u9650\u754c\u306f\u7121\u3044",
       "url": "https://open.spotify.com/track/5raMIE3T5NTvKqA42gmFod"
+    },
+    {
+      "album": {
+        "name": "\u9aea\u5207\u3063\u305f",
+        "url": "https://open.spotify.com/album/024p9ukXcKT6DHoWHyXOsn"
+      },
+      "artists": [
+        {
+          "name": "Albert Connor",
+          "url": "https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154874,
+      "name": "\u9aea\u5207\u3063\u305f",
+      "url": "https://open.spotify.com/track/4BrMFJHZUlaosh8wSVwebo"
     },
     {
       "album": {

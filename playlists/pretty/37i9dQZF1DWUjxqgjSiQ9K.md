@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Gocho
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,725 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,858 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:09 |
+| 1 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:11 |
 | 2 | [Colores](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
 | 3 | [Es Perfecto](https://open.spotify.com/track/3qxNVoyBha3n4if8DNMG1o) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Es Perfecto](https://open.spotify.com/album/01DnsGke4f0gUMpRDW8QSo) | 3:38 |
 | 4 | [Tú me ves](https://open.spotify.com/track/1AS2mBCQCXkPQongFHI4Kz) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Tú me ves](https://open.spotify.com/album/4WGtcfoIgea7uzdSrjenGH) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Yeshua](https://open.spotify.com/track/5rkKRSgIXnbSG08vhALLxE) | [Amara Rodes](https://open.spotify.com/artist/41iUVjv0FJlo5wlyhmG7Uq), [Agustin Rodes](https://open.spotify.com/artist/5nVZrbP8yLBMAf2nEt4hQU), [Jony Losada](https://open.spotify.com/artist/7tLRxSmyYKHtaop8PtawRz) | [Yeshua](https://open.spotify.com/album/6J0WDj6gZjFLtCfuK4ZNj9) | 3:41 |
 | 100 | [Es Con Tus Fuerzas](https://open.spotify.com/track/6DNl0jMpEvYsWAaKZZWkV2) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [Es Con Tus Fuerzas](https://open.spotify.com/album/1wsJWGmpZhoPKFvBfpwzg1) | 3:52 |
 
-Snapshot ID: `Z68IiAAAAACZJih2VF6zimZIU7HGyM7h`
+Snapshot ID: `Z68IiAAAAADz8XQ9WcebG+3G/H7HAYVn`

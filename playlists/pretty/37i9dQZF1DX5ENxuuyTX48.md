@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: lewloh
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,005 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,017 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 15 | [lover like you](https://open.spotify.com/track/2ArLfwU02n5xHpvT1Na1j8) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO), [JYYN](https://open.spotify.com/artist/2Gxpw6WUcMPGBC7L4Z0aF3) | [lover like you](https://open.spotify.com/album/1WlKdCkmf1kaLSct4wL9j1) | 3:14 |
 | 16 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 17 | [Masa \- Koplo Ver.](https://open.spotify.com/track/1ImLNHHSV9i24uiXN0KVmU) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Masa \(Koplo Ver.\)](https://open.spotify.com/album/3OWEJzpePJMAgKd2uIEDes) | 1:04 |
-| 18 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [Prahara Api Asmara](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
+| 18 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
 | 19 | [Nasty](https://open.spotify.com/track/2LlHtgSL1T4G7H9fAraMxw) | [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI) | [Nasty](https://open.spotify.com/album/28sfMIRBua6Vqgk36qtt9O) | 2:56 |
 | 20 | [Potret](https://open.spotify.com/track/2Km9LonDsR028M1PUDXIgR) | [GrizzLee](https://open.spotify.com/artist/2dff1ZE4HIGQ15F3Z60CFS), [dimpseyyy.](https://open.spotify.com/artist/66FPJiVCQkzhSOSayVWajF), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Potret](https://open.spotify.com/album/122zp5DwLMnoWFpeBqxgRv) | 3:02 |
 | 21 | [Pelangi](https://open.spotify.com/track/7t37xeXTrFw0F6UQPBNu3V) | [Adzrin](https://open.spotify.com/artist/5yBpdiEOEvWOZxUD36kz6B) | [Pelangi](https://open.spotify.com/album/5gCz4vaKwQ9dAjJEbIqvD8) | 3:44 |

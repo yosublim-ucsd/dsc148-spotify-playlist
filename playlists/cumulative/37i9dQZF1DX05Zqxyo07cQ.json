@@ -5391,6 +5391,24 @@
     },
     {
       "album": {
+        "name": "In the Stillness",
+        "url": "https://open.spotify.com/album/1t7JhPDdr9OqJOez5uB1SW"
+      },
+      "artists": [
+        {
+          "name": "Hector Warrens",
+          "url": "https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "In the Stillness",
+      "url": "https://open.spotify.com/track/38UK747YAiaElqtkXz8xmX"
+    },
+    {
+      "album": {
         "name": "Incandescent",
         "url": "https://open.spotify.com/album/2LihUwNXSVTW601y1XLlzz"
       },
@@ -10896,7 +10914,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 174438,
       "name": "Tides",
       "url": "https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej"

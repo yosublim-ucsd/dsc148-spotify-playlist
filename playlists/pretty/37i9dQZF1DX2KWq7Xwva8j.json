@@ -183,8 +183,8 @@
     {
       "added_at": "2025-02-06 23:00:31",
       "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn"
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
       },
       "artists": [
         {
@@ -192,21 +192,17 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
-          "name": "aka luigi",
-          "url": "https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC"
         }
       ],
-      "duration_ms": 139200,
-      "name": "LOTUS",
-      "url": "https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw"
+      "duration_ms": 232800,
+      "name": "SexeSexy",
+      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
     },
     {
       "added_at": "2025-02-06 23:00:31",
@@ -307,8 +303,8 @@
     {
       "added_at": "2025-02-06 23:00:31",
       "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn"
       },
       "artists": [
         {
@@ -316,17 +312,21 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "aka luigi",
+          "url": "https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC"
         }
       ],
-      "duration_ms": 232800,
-      "name": "SexeSexy",
-      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
+      "duration_ms": 139200,
+      "name": "LOTUS",
+      "url": "https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw"
     },
     {
       "added_at": "2025-02-06 23:00:31",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62754,
+  "num_followers": 62767,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7LmkAAAAADeXfUS0as1DSWtYGSqaNxZ",
+  "snapshot_id": "Z7RzBgAAAAAkDPxipXpu5P7YO75kKbfv",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -115,6 +115,34 @@
       "duration_ms": 211466,
       "name": "Naguthalide Naayi Kode (From \"Manada Kadalu\")",
       "url": "https://open.spotify.com/track/1v7r9ZrFqLxWOPseFbHTHd"
+    },
+    {
+      "added_at": "2025-02-18 11:46:14",
+      "album": {
+        "name": "Singleagiddhe Nannu (From \"Kuchuku\")",
+        "url": "https://open.spotify.com/album/100acAvAwiOeznfYE9D2Z9"
+      },
+      "artists": [
+        {
+          "name": "A T Ravish",
+          "url": "https://open.spotify.com/artist/7KbOjeMXqQhBrGrFq71Yvq"
+        },
+        {
+          "name": "Manju Kavi",
+          "url": "https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Singleagiddhe Nannu (From \"Kuchuku\")",
+      "url": "https://open.spotify.com/track/39u9HzPxlVyzJ4WI0RQKAA"
     },
     {
       "added_at": "2025-01-28 12:50:30",
@@ -1715,26 +1743,6 @@
       "duration_ms": 217000,
       "name": "Family Man - Kannada",
       "url": "https://open.spotify.com/track/346xbZLQZt40jhG41yqdLy"
-    },
-    {
-      "added_at": "2024-12-19 14:12:37",
-      "album": {
-        "name": "Ee Bhava Lokada From Daskath",
-        "url": "https://open.spotify.com/album/6wgtXObbu4ki2Dy2EJNpC1"
-      },
-      "artists": [
-        {
-          "name": "Samarthan S Rao",
-          "url": "https://open.spotify.com/artist/6T4RnZmGSgBDAneg58CVcx"
-        },
-        {
-          "name": "Ashwini R Bhat",
-          "url": "https://open.spotify.com/artist/3mxlEVIWTBkTVtm3ZU4200"
-        }
-      ],
-      "duration_ms": 237853,
-      "name": "Ee Bhava Lokada ( From \"Daskath\")",
-      "url": "https://open.spotify.com/track/2fEk33SpIqT3baLJHxDTQP"
     },
     {
       "added_at": "2024-12-26 07:29:54",

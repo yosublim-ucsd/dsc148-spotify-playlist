@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Blasphemous Paradise",
+        "url": "https://open.spotify.com/album/5iimgNW82dhY6JIJo8VeDq"
+      },
+      "artists": [
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Blasphemous Paradise",
+      "url": "https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK"
+    },
+    {
+      "album": {
         "name": "Blast in the Past",
         "url": "https://open.spotify.com/album/50NOFmwOY45UaQt33lh19g"
       },
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 377453,
       "name": "Saoirse",
       "url": "https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn"

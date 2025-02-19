@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 167931,
       "name": "Aas Paas",
       "url": "https://open.spotify.com/track/4Y0CVAMUQgpe1I0yV23JmI"
@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Dil Ka Pata",
+        "url": "https://open.spotify.com/album/5ju98pY4tm6QOoz4SLPafH"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231489,
+      "name": "Dil Ka Pata",
+      "url": "https://open.spotify.com/track/0uNhjHuLgecChfHUt9XxbW"
+    },
+    {
+      "album": {
         "name": "Dil Teri Raah",
         "url": "https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ"
       },
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 149508,
       "name": "Don\u2019t Wanna Love",
       "url": "https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG"
@@ -4116,6 +4134,24 @@
       "duration_ms": 224090,
       "name": "Nasamjhi",
       "url": "https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr"
+    },
+    {
+      "album": {
+        "name": "Nazarein Utaarun",
+        "url": "https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Nazarein Utaarun",
+      "url": "https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl"
     },
     {
       "album": {

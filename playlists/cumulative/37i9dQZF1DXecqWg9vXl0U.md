@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Vesica Piscis ✨
 
-354 songs - 19 hr 14 min
+355 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 | 2024-04-19 | 2024-10-11 |
 | [Noctámbula](https://open.spotify.com/track/0FD55GW2V8cfDf3GikuGm1) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Noctámbula](https://open.spotify.com/album/6tqCKu4P73ZT81bldAO4g3) | 3:45 | 2022-03-25 | 2022-05-17 |
+| [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 | 2025-02-14 |  |
 | [Nube](https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 5:39 | 2024-06-21 |  |
 | [nuestra historia](https://open.spotify.com/track/66gTt3LAz9w8Xlrlj3zoJU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/4NefaGha9X5oeSKH2UHG1d) | 4:01 | 2022-03-25 | 2022-07-29 |
 | [Nunca Te Dejaré Ir](https://open.spotify.com/track/0FB054yjgRBv1sWNNFoMxS) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Nunca Te Dejaré Ir](https://open.spotify.com/album/2DJ7QXD6yaWvyylxsizFcx) | 1:54 | 2022-03-25 | 2022-09-13 |

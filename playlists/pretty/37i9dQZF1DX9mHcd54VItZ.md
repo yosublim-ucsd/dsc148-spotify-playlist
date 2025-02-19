@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw?si=YezHxkrgR1SKTCQU\-SlGJw">ANVR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,221 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,236 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 13 | [4 In The Morning](https://open.spotify.com/track/73Zxkvj9a5mPJoXl8uvuKH) | [4am](https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z) | [4 In The Morning](https://open.spotify.com/album/3qBDIRNWUWxh2YeZcNBzgO) | 3:19 |
 | 14 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 15 | [Just Live It Up](https://open.spotify.com/track/6pPAwuuYZ8bT2ujleLIEIo) | [The Rocc Lobsters](https://open.spotify.com/artist/3ylSwZObELpgKEoXmTcPWJ) | [Just Live It Up](https://open.spotify.com/album/2OGWiLgIxjYfD1pNwTjXst) | 4:19 |
-| 16 | [Crystal Body](https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Crystal Body](https://open.spotify.com/album/4buETyZvDwjVzVZlZdxKQt) | 4:30 |
+| 16 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 17 | [think about it](https://open.spotify.com/track/1SasABz9MXN2klCgPefFRC) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq), [Stephen Tshuma](https://open.spotify.com/artist/7aRQk7Rk7NF2ARhBRUxri4) | [think about it](https://open.spotify.com/album/5v9edN5GEMhfvbb6ty5LA7) | 4:12 |
-| 18 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 18 | [Crystal Body](https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Crystal Body](https://open.spotify.com/album/4buETyZvDwjVzVZlZdxKQt) | 4:30 |
 | 19 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 20 | [SOMEBODY](https://open.spotify.com/track/5he6ljlzMhvh5MFfulFy7D) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [SOMEBODY](https://open.spotify.com/album/4iKuvdY3iTdf7pdpYCvAuC) | 2:54 |
 | 21 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Diskoria (Indonesia)",
-  "num_followers": 118125,
+  "num_followers": 118129,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "Prahara Api Asmara",
+        "name": "INTONESIA O.5",
         "url": "https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L"
       },
       "artists": [
@@ -611,18 +611,22 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
+        "name": "b\u00ecnh y\u00ean",
+        "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
       },
       "artists": [
         {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
         }
       ],
-      "duration_ms": 190000,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
+      "duration_ms": 201655,
+      "name": "b\u00ecnh y\u00ean",
+      "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -643,22 +647,18 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "b\u00ecnh y\u00ean",
-        "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
       },
       "artists": [
         {
-          "name": "V\u0169.",
-          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
-        },
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
         }
       ],
-      "duration_ms": 201655,
-      "name": "b\u00ecnh y\u00ean",
-      "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
+      "duration_ms": 190000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8"
+      },
+      "artists": [
+        {
+          "name": "Zild",
+          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
+        }
+      ],
+      "duration_ms": 260191,
+      "name": "Lia",
+      "url": "https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv"
+    },
+    {
+      "added_at": "2025-02-13 15:50:21",
+      "album": {
         "name": "Birdsong",
         "url": "https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 252000,
       "name": "Birdsong",
       "url": "https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk"
-    },
-    {
-      "added_at": "2025-02-13 15:50:21",
-      "album": {
-        "name": "Superpower",
-        "url": "https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8"
-      },
-      "artists": [
-        {
-          "name": "Zild",
-          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
-        }
-      ],
-      "duration_ms": 260191,
-      "name": "Lia",
-      "url": "https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "WDYS",
-        "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
-      },
-      "artists": [
-        {
-          "name": "yedira",
-          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
-        },
-        {
-          "name": "asheu",
-          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
-        }
-      ],
-      "duration_ms": 144835,
-      "name": "WDYS",
-      "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
-    },
-    {
-      "added_at": "2025-02-13 15:50:21",
-      "album": {
         "name": "Sakura Abadi",
         "url": "https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 405150,
       "name": "Sakura Abadi",
       "url": "https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El"
+    },
+    {
+      "added_at": "2025-02-13 15:50:21",
+      "album": {
+        "name": "WDYS",
+        "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        }
+      ],
+      "duration_ms": 144835,
+      "name": "WDYS",
+      "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "right where you left me",
-        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
+        "name": "Take My Body",
+        "url": "https://open.spotify.com/album/2KxPHf0Em4pjeCfW8xxyk6"
       },
       "artists": [
         {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        },
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
         }
       ],
-      "duration_ms": 173466,
-      "name": "right where you left me",
-      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
+      "duration_ms": 209446,
+      "name": "Take My Body",
+      "url": "https://open.spotify.com/track/3JRTvLuOKLLZoO0M5Wxj77"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "Take My Body",
-        "url": "https://open.spotify.com/album/2KxPHf0Em4pjeCfW8xxyk6"
+        "name": "right where you left me",
+        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
       },
       "artists": [
         {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
         }
       ],
-      "duration_ms": 209446,
-      "name": "Take My Body",
-      "url": "https://open.spotify.com/track/3JRTvLuOKLLZoO0M5Wxj77"
+      "duration_ms": 173466,
+      "name": "right where you left me",
+      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "LOVERs ATLAS",
-        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
+        "name": "Now and Ever",
+        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
         }
       ],
-      "duration_ms": 196977,
-      "name": "WANDERLUST",
-      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+      "duration_ms": 220161,
+      "name": "Now and Ever",
+      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1515,6 +1515,22 @@
       "duration_ms": 185600,
       "name": "midnight train",
       "url": "https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF"
+    },
+    {
+      "added_at": "2025-02-13 15:50:21",
+      "album": {
+        "name": "LOVERs ATLAS",
+        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 196977,
+      "name": "WANDERLUST",
+      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1551,22 +1567,6 @@
       "duration_ms": 197100,
       "name": "happy endings do exist",
       "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
-    },
-    {
-      "added_at": "2025-02-13 15:50:21",
-      "album": {
-        "name": "Now and Ever",
-        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
-      },
-      "artists": [
-        {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Now and Ever",
-      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn"
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
+        "url": "https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "loserpop",
+          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
         }
       ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N"
+      "duration_ms": 282996,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
+      "url": "https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog"
     },
     {
       "added_at": "2025-02-13 15:50:21",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-02-13 15:50:21",
       "album": {
-        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
-        "url": "https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn"
       },
       "artists": [
         {
-          "name": "loserpop",
-          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 282996,
-      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
-      "url": "https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog"
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N"
     },
     {
       "added_at": "2025-02-13 15:50:21",

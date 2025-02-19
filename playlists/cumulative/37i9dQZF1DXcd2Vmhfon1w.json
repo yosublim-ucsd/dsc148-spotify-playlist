@@ -955,6 +955,36 @@
     },
     {
       "album": {
+        "name": "Aunque Duela Remix",
+        "url": "https://open.spotify.com/album/4I4bjMof9exE6SxOCEG3Oa"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "KG970",
+          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310714,
+      "name": "Aunque Duela Remix",
+      "url": "https://open.spotify.com/track/1u9I516BLaOBwoVwQU4Nbv"
+    },
+    {
+      "album": {
         "name": "Aunque Pase To' La Vida",
         "url": "https://open.spotify.com/album/3QKW8Cm3YM3ThtHOTdpdZh"
       },
@@ -10278,7 +10308,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 156603,
       "name": "U Know I Love The Slime",
       "url": "https://open.spotify.com/track/41aBxZwiLW8qWHRkkqPR56"
@@ -10502,7 +10532,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 150857,
       "name": "Vete con Tus",
       "url": "https://open.spotify.com/track/0nQhKeg2kQQ8qVhhDhre6a"

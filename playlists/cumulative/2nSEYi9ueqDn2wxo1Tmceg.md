@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,220 songs - 3 day 11 hr 28 min
+1,221 songs - 3 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Love Me A Little](https://open.spotify.com/track/3Mj5x4DRYGYgK6nggCy78t) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Swells](https://open.spotify.com/album/1djJMOaxq9mdZur8Z0Wt99) | 4:20 | 2023-07-12 | 2023-08-31 |
 | [Love One Self with Joe Love](https://open.spotify.com/track/4vWwod2I0P5HEKiVOUcpSg) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Joe Love](https://open.spotify.com/artist/62NjyntFCTJ5h6NjNebGew) | [Love One Self](https://open.spotify.com/album/3BGuwzUjv1k1MIZpNXhqJL) | 4:36 | 2023-11-23 | 2024-01-18 |
 | [Love Song \- Just One Bruk Mix](https://open.spotify.com/track/5fVtReLDRuOccCzZbeLCaI) | [Miranda Nicole](https://open.spotify.com/artist/4CvrBtGw6zIdNcA9SP6qCu), [Just One](https://open.spotify.com/artist/7fmB4EoXgEWpDjcnO3TJW6) | [Love Song \(Just One Mixes\)](https://open.spotify.com/album/6xakZnXgL3wxxceguDElSQ) | 7:58 | 2024-10-16 | 2024-11-21 |
+| [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 | 2025-02-18 |  |
 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-08-30 | 2023-10-13 |
 | [Lucked Out](https://open.spotify.com/track/5tIk9HI04FCiYFJqRFef5B) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 1:48 | 2022-11-23 | 2023-01-12 |
 | [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 | 2024-04-17 | 2024-05-16 |

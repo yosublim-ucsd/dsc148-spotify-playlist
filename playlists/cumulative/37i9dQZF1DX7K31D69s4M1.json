@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Agilis",
+        "url": "https://open.spotify.com/album/21TIrpEbhEE7a6673fIURK"
+      },
+      "artists": [
+        {
+          "name": "Olhans",
+          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131785,
+      "name": "Agilis",
+      "url": "https://open.spotify.com/track/4FST1ZxPQbuH0YMv8fCxUu"
+    },
+    {
+      "album": {
         "name": "Ahniara",
         "url": "https://open.spotify.com/album/1tM7ljEZfDCRlXygGY6iDW"
       },
@@ -2336,6 +2354,24 @@
       "duration_ms": 168512,
       "name": "Au Fond D'Amour",
       "url": "https://open.spotify.com/track/4Qk8tKfZW3lrPG18ZdWmE6"
+    },
+    {
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3nthhPdTXBSHY9A0Owcoe2"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166323,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/7vfdFzzXnux3FSS1GOQ5cn"
     },
     {
       "album": {
@@ -8509,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Flowers In A Vase",
+        "url": "https://open.spotify.com/album/5E6eLL6KKtD5zBRgJtZjNR"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181017,
+      "name": "Flowers In A Vase",
+      "url": "https://open.spotify.com/track/1rbQrSEKX9iB3FHzqFGz8W"
+    },
+    {
+      "album": {
         "name": "Fluttering Shadows",
         "url": "https://open.spotify.com/album/2pUzXyhVxtSQXz01LVGXy3"
       },
@@ -9504,6 +9558,24 @@
       "duration_ms": 150124,
       "name": "Geppetto",
       "url": "https://open.spotify.com/track/0x0GefRYhw9dU2gZwqw3BF"
+    },
+    {
+      "album": {
+        "name": "Gliding",
+        "url": "https://open.spotify.com/album/0nlJIXzHUDzaCFAIFkdRjs"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171541,
+      "name": "Gliding",
+      "url": "https://open.spotify.com/track/3uFfBRROUWitZXc2zdrHyD"
     },
     {
       "album": {
@@ -14454,7 +14526,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 154844,
       "name": "Lik Eit Tre - Ps.1",
       "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
@@ -15052,7 +15124,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 143229,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c"
@@ -20612,7 +20684,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 141500,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks"
@@ -25499,6 +25571,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1WMJxArpMCKdWDKFie4azg"
+      },
+      "artists": [
+        {
+          "name": "Kuro Yama",
+          "url": "https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7gcHVrqiSXb2vhLKvze7Ub"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -26126,7 +26216,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 184000,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/1agCj3RNoIpFcBOlgycVMu"
@@ -26252,7 +26342,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 125394,
       "name": "The Curtain Rises",
       "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
@@ -26720,7 +26810,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 125000,
       "name": "The little princess",
       "url": "https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2"
@@ -27440,7 +27530,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 144000,
       "name": "There and Then",
       "url": "https://open.spotify.com/track/2sTPEZ07GXOaHASVh9qRPa"

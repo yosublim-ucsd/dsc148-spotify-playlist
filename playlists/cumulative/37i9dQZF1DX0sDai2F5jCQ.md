@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 0:00 | 2023-11-16 | 2023-12-08 |
-| [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 | 2025-02-06 |  |
+| [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/2aaPtq8rDJJOqXk7sfplNV) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 | 2025-02-06 |  |
 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 | 2023-11-03 | 2024-01-05 |
 | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/album/0dEpwUIoXY3qhmkJ0OatS1) | 3:02 | 2023-11-30 | 2024-02-09 |
 | [17X's](https://open.spotify.com/track/4pRT6SZF29tZaO79CULoVT) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [17X's](https://open.spotify.com/album/0LJHGRVZ0tzoMmhFaZsAYA) | 1:53 | 2023-11-02 | 2023-11-21 |

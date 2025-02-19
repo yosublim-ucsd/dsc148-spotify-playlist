@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: B Wise
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,446 likes - 89 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,449 likes - 89 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PHONE CALL](https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [PHONE CALL](https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M) | 3:09 |
 | 2 | [THREE65](https://open.spotify.com/track/5RbkBuNZtqYbD1aCWHZaJD) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [THREE65](https://open.spotify.com/album/43nJ3B8pcxHkQcOI8Ocq1R) | 2:31 |
 | 3 | [Walk The Line](https://open.spotify.com/track/4rcvNSDihDNNj7OKr6ZoFU) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Walk The Line](https://open.spotify.com/album/6o1AQo0yiL0bJURZvjhQAc) | 3:02 |
-| 4 | [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 |
+| 4 | [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/2aaPtq8rDJJOqXk7sfplNV) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 |
 | 5 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 |
 | 6 | [SPINNIN \(Segway Remix\)](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 |
 | 7 | [Like A G](https://open.spotify.com/track/22WEXvUNuue8dqladnadkE) | [Pistol Pete & Enzo](https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Like A G](https://open.spotify.com/album/1VTThCh8vZr3AgsgFjhDHA) | 2:51 |

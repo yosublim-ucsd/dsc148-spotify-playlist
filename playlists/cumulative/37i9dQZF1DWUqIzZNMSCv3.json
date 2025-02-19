@@ -267,28 +267,6 @@
     },
     {
       "album": {
-        "name": "Satie: The Magic of Satie",
-        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219760,
-      "name": "3 Gymnop\u00e9dies: No. 1 Lent et douloureux",
-      "url": "https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK"
-    },
-    {
-      "album": {
         "name": "Brahms: 3 Intermezzi, Op. 117: No. 1, Andante moderato",
         "url": "https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV"
       },
@@ -1398,6 +1376,28 @@
       "duration_ms": 138880,
       "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
       "url": "https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO"
+    },
+    {
+      "album": {
+        "name": "Satie: The Magic of Satie",
+        "url": "https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Gymnop\u00e9die No. 1. Lent et douloureux",
+      "url": "https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK"
     },
     {
       "album": {

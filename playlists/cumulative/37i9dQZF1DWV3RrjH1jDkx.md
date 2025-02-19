@@ -4,7 +4,7 @@
 
 > Ny musikk 🎵
 
-4,333 songs - 9 day 8 hr 18 min
+4,334 songs - 9 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3651,6 +3651,7 @@
 | [Svart Hvitt](https://open.spotify.com/track/2VYkhKU6oHSQWRPf5Fj4hc) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Svart Hvitt](https://open.spotify.com/album/5Riqu2wfrqZCBEJHGTjWN6) | 1:57 | 2024-09-12 | 2024-09-20 |
 | [Svøm](https://open.spotify.com/track/5xrgZpB508X1LM25S5XdfI) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k) | [Svøm](https://open.spotify.com/album/7vDNTBqyxS0ER8wWQzv9gK) | 2:38 | 2024-08-29 | 2024-09-06 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2024-11-01 |
+| [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 | 2025-02-13 |  |
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-01 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-02-07 |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 | 2024-10-25 |

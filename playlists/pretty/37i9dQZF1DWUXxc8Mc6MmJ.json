@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 918974,
+  "num_followers": 919350,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 193933,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+      "duration_ms": 234093,
+      "name": "You're Cold",
+      "url": "https://open.spotify.com/track/5sVeJMHMfCWf2H6g66KQXz"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 234093,
-      "name": "You're Cold",
-      "url": "https://open.spotify.com/track/5sVeJMHMfCWf2H6g66KQXz"
+      "duration_ms": 193933,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 12",
+        "url": "https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        },
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/25Hiqyo9VBhheykjheHPbI"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 259306,
       "name": "For You",
       "url": "https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 12",
-        "url": "https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        },
-        {
-          "name": "EZ Kim",
-          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f"
     }
   ],
   "unique_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",

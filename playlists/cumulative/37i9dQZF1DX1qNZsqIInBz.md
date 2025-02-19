@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Phut Hon Funk](https://open.spotify.com/track/4axki6LDm47iWaxm5oTDnv) | [MGD](https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf), [KhangMxne](https://open.spotify.com/artist/7JFLhTR5zEmZPQ9pamzDYV) | [2 Phut Hon Funk](https://open.spotify.com/album/5QVq8SkJHrzo4ciLyzagxE) | 2:25 | 2024-11-22 |  |
+| [2 Phut Hon Funk](https://open.spotify.com/track/4axki6LDm47iWaxm5oTDnv) | [MGD](https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf), [KhangMxne](https://open.spotify.com/artist/7kufcLLrvV0pv0AwWVRpDj) | [2 Phut Hon Funk](https://open.spotify.com/album/5QVq8SkJHrzo4ciLyzagxE) | 2:25 | 2024-11-22 |  |
 | [After World](https://open.spotify.com/track/43jFJOD28MIG9vgcqVlvhn) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw) | [After World](https://open.spotify.com/album/42cJG6MAXsrjoR7wV5e22G) | 2:11 | 2022-10-10 | 2023-08-05 |
 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-10-10 |  |
 | [ALL FOR YOU](https://open.spotify.com/track/6EAewY7sUaLGigFkwsPZ05) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [ALL FOR YOU](https://open.spotify.com/album/6GkycAHZzXAIDBpEuM0XAR) | 1:31 | 2023-09-22 | 2023-10-14 |

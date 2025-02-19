@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Duquesa e mais mulheres incríveis no volume máximo! co\-curada por Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,883 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,998 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Às Vezes](https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:28 |
 | 32 | [Bosses's Marmita](https://open.spotify.com/track/4tpA0cnmErlJAmr5orjvtk) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:15 |
 | 33 | [Deixa Disso](https://open.spotify.com/track/6Z138aKnjrqylVqSjZnKvk) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Deixa Disso](https://open.spotify.com/album/0BPfHK9eVOn9QixVu6CjQn) | 3:05 |
-| 34 | [Gostosa Mermo](https://open.spotify.com/track/1C2Z0mWoK0wjbLpxAKvRCb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [DjCasDaGrock](https://open.spotify.com/artist/6O6AQeTjX1HkLl4blhLFjP) | [Gostosa Mermo](https://open.spotify.com/album/2HGJopmy8KCxT9VY68OKVl) | 2:01 |
-| 35 | [Pra Viajar](https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 4:09 |
+| 34 | [Pra Viajar](https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 4:09 |
+| 35 | [Gostosa Mermo](https://open.spotify.com/track/1C2Z0mWoK0wjbLpxAKvRCb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [DjCasDaGrock](https://open.spotify.com/artist/6O6AQeTjX1HkLl4blhLFjP) | [Gostosa Mermo](https://open.spotify.com/album/2HGJopmy8KCxT9VY68OKVl) | 2:01 |
 | 36 | [Versão Brasileira](https://open.spotify.com/track/66vsMJx2gHRRPaIYul3BVY) | [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [Versão Brasileira](https://open.spotify.com/album/33TlaWYd03vtmEmvIllMLj) | 2:22 |
-| 37 | [SONHAR](https://open.spotify.com/track/1BGWVmKMGPOHgbcougU0o7) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:45 |
-| 38 | [Localiza](https://open.spotify.com/track/1PrpGOiuLHEnZHTcWM32kL) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:14 |
+| 37 | [Localiza](https://open.spotify.com/track/1PrpGOiuLHEnZHTcWM32kL) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:14 |
+| 38 | [SONHAR](https://open.spotify.com/track/1BGWVmKMGPOHgbcougU0o7) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:45 |
 | 39 | [Língua de Gravata](https://open.spotify.com/track/1ltCk3U0gtDFTxrWKEDtT6) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:08 |
 | 40 | [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 |
 | 41 | [Leal](https://open.spotify.com/track/7zIaynf7fWLmsT3pKc3tg8) | [Bel4triz](https://open.spotify.com/artist/0QmA5E0b0M6klwF9QYwzc4) | [Leal](https://open.spotify.com/album/5CvlAp3xG4Fhe0iLRBzrxD) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Robin Kester
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,787 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,812 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 84 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP), [onzekere guy](https://open.spotify.com/artist/3a5u8lJqeBPWSc1jCWfhbF) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 |
 | 85 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 |
 
-Snapshot ID: `Z7NB7AAAAADNnOO9ujVnnC2mmMmizq2T`
+Snapshot ID: `Z7NB7AAAAAD8+wQ1n/qIsagmaZJcGmIN`

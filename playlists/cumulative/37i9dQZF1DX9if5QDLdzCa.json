@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Oceanic Lullabies",
+        "url": "https://open.spotify.com/album/4rP8MrlsgLYj2gt8vu2Q93"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249010,
+      "name": "Calming Ocean in Texas",
+      "url": "https://open.spotify.com/track/0PhpXQqGJiuBFNA8neiww4"
+    },
+    {
+      "album": {
         "name": "Ocean Sounds Vol. 4",
         "url": "https://open.spotify.com/album/5uHGGk7UbfdQxQpx35spjM"
       },
@@ -754,7 +776,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 163785,
       "name": "Dark Winds And Stormy Ocean",
       "url": "https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J"
@@ -1010,6 +1032,24 @@
       "duration_ms": 200000,
       "name": "Good Dunes",
       "url": "https://open.spotify.com/track/3NYkZCy3NQlEdnkSbn0DgZ"
+    },
+    {
+      "album": {
+        "name": "Wonders of Tranquility",
+        "url": "https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A"
+      },
+      "artists": [
+        {
+          "name": "Nature Neighbors",
+          "url": "https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 900000,
+      "name": "Gulf Coast Tranquility",
+      "url": "https://open.spotify.com/track/39Hzq22bQcNhpZn21Gr709"
     },
     {
       "album": {
@@ -2238,7 +2278,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 255253,
       "name": "Pebbles",
       "url": "https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp"
@@ -2436,7 +2476,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 260256,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/5dMjTM8o4K2s3Dh7qWLiu3"
@@ -3232,6 +3272,24 @@
       "duration_ms": 165240,
       "name": "Stress Relieving Sounds",
       "url": "https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW"
+    },
+    {
+      "album": {
+        "name": "Receding Tide",
+        "url": "https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46"
+      },
+      "artists": [
+        {
+          "name": "Coastal Sounds",
+          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185514,
+      "name": "Strong Soothing Surf",
+      "url": "https://open.spotify.com/track/5TmrnJjw5npy4fb7DozZLN"
     },
     {
       "album": {

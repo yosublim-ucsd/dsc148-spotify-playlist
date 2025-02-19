@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 67520,
+  "num_followers": 67684,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAAAaPm+eoYsAsYRwMmGei+rZ",
+  "snapshot_id": "Z7J8AAAAAAAV9IyKCjHVXebopA8ZVlny",
   "tracks": [
     {
       "added_at": null,
@@ -1319,26 +1319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+        "name": "Arteiro",
+        "url": "https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM"
       },
       "artists": [
         {
+          "name": "Ramonzin",
+          "url": "https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q"
+        },
+        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 232096,
-      "name": "Gigantes",
-      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
+      "duration_ms": 230000,
+      "name": "Viv\u00eancia",
+      "url": "https://open.spotify.com/track/7n94CCZ7C8xN9seKuBsFVX"
     }
   ],
   "unique_name": "This Is BK",

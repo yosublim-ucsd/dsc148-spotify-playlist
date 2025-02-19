@@ -429,6 +429,32 @@
     },
     {
       "album": {
+        "name": "Aura Jatt Da",
+        "url": "https://open.spotify.com/album/0AsG4YqUQMLiDHB2e54ihR"
+      },
+      "artists": [
+        {
+          "name": "Prince Narula",
+          "url": "https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Jaymeet",
+          "url": "https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Aura Jatt Da",
+      "url": "https://open.spotify.com/track/1CirVTLXTUdZKnabJCc611"
+    },
+    {
+      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC"
       },
@@ -810,7 +836,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 181000,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
@@ -836,6 +862,32 @@
       "duration_ms": 180880,
       "name": "Clockin",
       "url": "https://open.spotify.com/track/41P540FctQvKXvGLMDQTBd"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5eR6sgjE9UCXfWg3Z0odk7"
+      },
+      "artists": [
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "MNLTX",
+          "url": "https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157055,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/00XkDGA1r9y738Jn6o1w4D"
     },
     {
       "album": {
@@ -1162,7 +1214,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 200658,
       "name": "ELEVATED",
       "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
@@ -2982,7 +3034,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 179154,
       "name": "Rank 1",
       "url": "https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP"
@@ -3362,6 +3414,32 @@
       "duration_ms": 152508,
       "name": "Small Circle",
       "url": "https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg"
+    },
+    {
+      "album": {
+        "name": "Smooth (From \"Badnaam\")",
+        "url": "https://open.spotify.com/album/1stVawIaTwnlBa2iQT3GO1"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "Smooth (From \"Badnaam\")",
+      "url": "https://open.spotify.com/track/6P1t6KqIpTyDRc5ZxsLDn1"
     },
     {
       "album": {

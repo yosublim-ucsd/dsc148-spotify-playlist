@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bulgaria.",
-  "num_followers": 798,
+  "num_followers": 799,
   "original_name": "Top Songs - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0ajyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-02-14 12:51:19",
@@ -923,8 +923,8 @@
     {
       "added_at": "2025-02-14 12:51:19",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
       "artists": [
         {
@@ -934,7 +934,7 @@
       ],
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
+      "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
     }
   ],
   "unique_name": "Top Songs - Bulgaria",

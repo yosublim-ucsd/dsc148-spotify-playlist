@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 | 2025-01-30 |  |
+| [100 Of Em](https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX) | [Kerser](https://open.spotify.com/artist/2aaPtq8rDJJOqXk7sfplNV) | [100 Of Em](https://open.spotify.com/album/39rGDU8iZGIpXTztM9tbG2) | 4:44 | 2025-01-30 |  |
 | [17X's](https://open.spotify.com/track/4pRT6SZF29tZaO79CULoVT) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [17X's](https://open.spotify.com/album/0LJHGRVZ0tzoMmhFaZsAYA) | 1:53 | 2023-11-02 | 2024-05-04 |
 | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE) | 2:35 | 2023-06-22 | 2023-10-27 |
 | [2 STEP](https://open.spotify.com/track/5kjAcTZuwCFQD5Fm6nCp8M) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [2 STEP](https://open.spotify.com/album/2uJx5YdXjaD81ymmWrNy8H) | 2:03 | 2023-02-23 | 2023-08-18 |

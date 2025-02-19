@@ -2,7 +2,7 @@
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
-> Get moving on the dancefloor with some big room beats! Cover: Steve Aoki, Sam Feldt, Xandra, Zak Abel &amp; Nile Rodgers
+> Get moving on the dancefloor with some big room beats! Cover: Loud Luxury
 
 189 songs - 10 hr 3 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q"> Kennedy Ryon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,811 likes - 189 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,887 likes - 189 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 188 | [Gemini](https://open.spotify.com/track/56UJfi2EV1fXl800yetpch) | [Maray](https://open.spotify.com/artist/6ChY6xBN5iaiP59I0UyRGw) | [WhosMaray](https://open.spotify.com/album/3J2OSmWsPCZ8MtR6INXowo) | 2:02 |
 | 189 | [Insecure](https://open.spotify.com/track/6qWvfaLH8W4EBCYEMOYNyk) | [Résa](https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O) | [Insecure](https://open.spotify.com/album/5q0JB8CNJQWiwNQH1SAwHy) | 3:00 |
 
-Snapshot ID: `Z68WJQAAAAD4YbVchSUtOC6iYaXlWzUD`
+Snapshot ID: `Z68WJQAAAAATcUIMoK32r6uBDT4TWKqQ`

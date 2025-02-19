@@ -2,7 +2,7 @@
 
 ### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
-> The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">G3 Gelo</a>
+> The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">GELO</a>
 
 2,173 songs - 4 day 0 hr 48 min
 
@@ -573,7 +573,7 @@
 | [EBT](https://open.spotify.com/track/0gWNq0lLP0C10Fv059l6Yn) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Detroit Raised Me](https://open.spotify.com/album/1VSgHchOjhzuYMR9HdV3SC) | 3:16 | 2022-05-20 | 2022-07-09 |
 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 | 2024-09-27 | 2024-10-05 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-04 | 2024-12-07 |
-| [Embrace It \- Remix](https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Embrace It Remix](https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT) | 3:22 | 2024-12-06 |  |
+| [Embrace It \(feat\. Sexyy Red, Flo Milli, RJ Pasin\) \- Remix](https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Embrace It \(Remix\) \(feat\. Sexyy Red, Flo Milli, RJ Pasin\)](https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT) | 3:22 | 2024-12-06 |  |
 | [Emily](https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Emily](https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL) | 1:39 | 2023-09-22 | 2023-10-28 |
 | [Eminem ft\. Veeze](https://open.spotify.com/track/6Q2isGQ6xXITDRtruDUM8B) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:00 | 2023-11-17 | 2024-01-20 |
 | [Emo Stick](https://open.spotify.com/track/1skLCDR1M1zPulz3lgiZJt) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Emo Stick](https://open.spotify.com/album/0cJWXPxQz9hx7eSQv5JIAC) | 2:52 | 2022-02-25 | 2022-04-09 |

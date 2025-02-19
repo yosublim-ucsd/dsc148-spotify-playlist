@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV?si=qeIG20LMQbad9ucubMkXSA">PARTYNEXTDOOR</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4?si=NfGoxLlEQPmPsFD\_JomFjA">Drake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,650 likes - 84 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,691 likes - 84 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 3 | [Mnakwethu](https://open.spotify.com/track/0Jrnz68fubElF9LAR0l0Ej) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Mnakwethu](https://open.spotify.com/album/3gOvW5ufkfSwDMZCQyTyjo) | 3:16 |
 | 4 | [NOMSA](https://open.spotify.com/track/00M97ICmXgguOVlRJcs1YP) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [NOMSA](https://open.spotify.com/album/4PzLiqkrMCSaNwHmE3clTK) | 6:35 |
 | 5 | [Balele \(feat\. Xduppy, Madumane & Dutch\)](https://open.spotify.com/track/3mDRSanJRwr0VCbvu7MqXB) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Dutch](https://open.spotify.com/artist/17c2OpPnVj1XnklT3IlOdY) | [Balele \(feat\. Xduppy, Madumane & Dutch\)](https://open.spotify.com/album/0avZFP2uhSP2cFQtmWRnSz) | 7:00 |
-| 6 | [Phinde \(feat\. Thatohatsi & Tshepo Keyz\)](https://open.spotify.com/track/2k783VxXtFGqW05faan13j) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Tshepo Keyz](https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T) | [TOKOLLO](https://open.spotify.com/album/4n8rLUNgwk1kG6Bya5Y51q) | 10:41 |
+| 6 | [Phinde \(feat\. Tshepo Keyz\)](https://open.spotify.com/track/2k783VxXtFGqW05faan13j) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Tshepo Keyz](https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T) | [TOKOLLO](https://open.spotify.com/album/4n8rLUNgwk1kG6Bya5Y51q) | 10:41 |
 | 7 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 |
 | 8 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 9 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 |

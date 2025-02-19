@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 200250,
       "name": "Dawnings",
       "url": "https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3"
@@ -938,6 +938,24 @@
       "duration_ms": 213952,
       "name": "Healing Bowls",
       "url": "https://open.spotify.com/track/0A8FaTLnTktPGdT445LvOl"
+    },
+    {
+      "album": {
+        "name": "Healing Salve",
+        "url": "https://open.spotify.com/album/49xub4BlrA9hKQ9hKlaW0d"
+      },
+      "artists": [
+        {
+          "name": "Spirit Garden",
+          "url": "https://open.spotify.com/artist/21ADT1cKkGhiB070brX819"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Healing Salve",
+      "url": "https://open.spotify.com/track/7CkVOb36IuH1f3EuRZLelV"
     },
     {
       "album": {
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 158571,
       "name": "Sunset By The Lake",
       "url": "https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 199090,
       "name": "Whispering Dryad",
       "url": "https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5"

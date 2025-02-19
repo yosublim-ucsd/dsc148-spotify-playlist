@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 421000,
       "name": "El-Fagr (Dawn)",
       "url": "https://open.spotify.com/track/0JSAqiLstBIkWDs9n5ho4D"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 135226,
       "name": "First Meeting",
       "url": "https://open.spotify.com/track/1OUvyFR4u1CrHlqDBUBQ9O"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 367346,
       "name": "Laytaka",
       "url": "https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 296746,
       "name": "Misage",
       "url": "https://open.spotify.com/track/2ed8ct9ysWH6Cp7DquMSiQ"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 136759,
       "name": "Nada",
       "url": "https://open.spotify.com/track/0nqKh7q35gKJSXv7VuqtH7"
@@ -838,6 +838,24 @@
       "duration_ms": 246040,
       "name": "Oriental Dreams",
       "url": "https://open.spotify.com/track/5UgcKwDo470y2ghbPWKIfp"
+    },
+    {
+      "album": {
+        "name": "Arabian Lounge Club, Volume 1",
+        "url": "https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN"
+      },
+      "artists": [
+        {
+          "name": "Abdul Al Kahabir",
+          "url": "https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259320,
+      "name": "Oriental Pearls",
+      "url": "https://open.spotify.com/track/4rj7twM1JiFJAHmAUPVB2N"
     },
     {
       "album": {
@@ -953,7 +971,7 @@
     },
     {
       "album": {
-        "name": "Iraq - Irak : The Art of the '\u00fbd",
+        "name": "Iraq - Irak : The Art of the '\u00fbd (Collection Ocora Radio-France)",
         "url": "https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x"
       },
       "artists": [

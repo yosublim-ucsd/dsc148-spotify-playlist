@@ -833,7 +833,7 @@
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141783,
+      "duration_ms": 130220,
       "name": "Als Een God",
       "url": "https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5"
     },
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/32lW3MCN5GNp9tXTk520ix"
+      },
+      "artists": [
+        {
+          "name": "Noizephere",
+          "url": "https://open.spotify.com/artist/1oDwIiSLEmSz0pQZWXgIwz"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222375,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/58rfGMh7UiuvYlSiotefdu"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/0aDEgxm1MlLxXBmGmNlRVt"
       },
@@ -1116,10 +1134,28 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 182181,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/5GBFBPSECdPkAYCMnjxd3D"
+    },
+    {
+      "album": {
+        "name": "Anubis",
+        "url": "https://open.spotify.com/album/6v6wNj8TJ5FXOYbYlTFXrD"
+      },
+      "artists": [
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186171,
+      "name": "Anubis",
+      "url": "https://open.spotify.com/track/0K2uD1cVlHK5NyIdmH9O8X"
     },
     {
       "album": {
@@ -1777,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "Bass Powah",
+        "url": "https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179718,
+      "name": "Bass Powah",
+      "url": "https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f"
+    },
+    {
+      "album": {
         "name": "Bass Pump",
         "url": "https://open.spotify.com/album/4eWcogbJRGvMr6zFkb6JpK"
       },
@@ -2207,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Better Day (Deluxe Emotional Mix)",
+        "url": "https://open.spotify.com/album/7eKhfndYpTuW78fQzKrjwB"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200027,
+      "name": "Better Day - Deluxe Emotional Mix",
+      "url": "https://open.spotify.com/track/5O4YpCkxzMF3uaf3KWshFB"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4Bm0Ks7xotQtRymSCHM8SO"
       },
@@ -2508,7 +2588,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 191250,
       "name": "Black Widow - Live Edit",
       "url": "https://open.spotify.com/track/6eqdKZA3zGWGisN4PSp0iz"
@@ -2777,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/0P5w4jlC0azTCXjNfC4OFj"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "TwinTigerz",
+          "url": "https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229548,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/7oqIwI5vvNXUjnt8EZHVrh"
+    },
+    {
+      "album": {
         "name": "Bodyrock",
         "url": "https://open.spotify.com/album/3OM6Z9wNjS5oHYB3ACL8AH"
       },
@@ -2792,7 +2894,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 207347,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/7tiQMowzNWzn6Q8oGZYqXI"
@@ -3688,7 +3790,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 204334,
       "name": "Call Of Cthulhu",
       "url": "https://open.spotify.com/track/0dMK8lJiejtOthJHCzwrmD"
@@ -3956,7 +4058,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 178500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/1P7RRVdJqEnpl8GITB5V7n"
@@ -4874,7 +4976,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 202500,
       "name": "DA PRODUCT",
       "url": "https://open.spotify.com/track/6cArdVuwtWNiuWoPOwd5sF"
@@ -4940,6 +5042,32 @@
       "duration_ms": 222519,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/5dJuzfjAdIWjhmwDbenBwh"
+    },
+    {
+      "album": {
+        "name": "Dancing Through The Darkness",
+        "url": "https://open.spotify.com/album/5qjrR41tDVAiuvHMQ8FZg4"
+      },
+      "artists": [
+        {
+          "name": "Bioweapon",
+          "url": "https://open.spotify.com/artist/3EfUmgy6o1IOQBL4vXKgwd"
+        },
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Dancing Through The Darkness",
+      "url": "https://open.spotify.com/track/68grbCkjBpA9Op869E5vdA"
     },
     {
       "album": {
@@ -6840,7 +6968,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 240800,
       "name": "Enter The Void",
       "url": "https://open.spotify.com/track/3WO7udjmsazKhTcGsNEZfQ"
@@ -7977,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K"
+    },
+    {
+      "album": {
         "name": "Fitness Move (Warrior Workout OST)",
         "url": "https://open.spotify.com/album/0wSt9ElPEr8rHVUP8nYAEp"
       },
@@ -8884,7 +9030,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 144027,
       "name": "GET VIOLENT",
       "url": "https://open.spotify.com/track/6DWYP6PvBig2To0O7adVfU"
@@ -9584,7 +9730,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 246800,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/0BbUcGafHsxq8qRkXs04g4"
@@ -10436,7 +10582,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 171870,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W"
@@ -11654,7 +11800,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 214391,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/48f5TUgl70P3oScvkvcyHF"
@@ -12890,7 +13036,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 171433,
       "name": "Left Me",
       "url": "https://open.spotify.com/track/1Nqc57oD1GBWjhCgPwrX1D"
@@ -15487,6 +15633,24 @@
     },
     {
       "album": {
+        "name": "My Own Sun",
+        "url": "https://open.spotify.com/album/5yym2Dzj8e8aPM9r2C3o4L"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "My Own Sun",
+      "url": "https://open.spotify.com/track/0QyAAzUdUqae2W5sRra6rw"
+    },
+    {
+      "album": {
         "name": "Cognitive Chaos",
         "url": "https://open.spotify.com/album/6KFBWXbscOOgRsufAipATw"
       },
@@ -16170,7 +16334,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "No Angel",
       "url": "https://open.spotify.com/track/3JkPVnpvClPIif61EP4IrX"
@@ -19297,6 +19461,28 @@
     },
     {
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/7B5EwLFBmGgGffHNtNCvz8"
+      },
+      "artists": [
+        {
+          "name": "Audiofighterz",
+          "url": "https://open.spotify.com/artist/5okudnhoz5wh1wDQTDdy1D"
+        },
+        {
+          "name": "Dirty Workz",
+          "url": "https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/72vul40gHfOjp1b3NDVrdn"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1lYXabkqizoZa0Ke8EbaH1"
       },
@@ -19556,6 +19742,24 @@
       "duration_ms": 254015,
       "name": "Requiem For Frenchcore",
       "url": "https://open.spotify.com/track/74BhIuyvu7JybiatXBSsjR"
+    },
+    {
+      "album": {
+        "name": "Research Myself",
+        "url": "https://open.spotify.com/album/6oOeihqDa3i1YZ12li7BkB"
+      },
+      "artists": [
+        {
+          "name": "Pulserz",
+          "url": "https://open.spotify.com/artist/0fujXq1smK5pNrKT6hlPAs"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244887,
+      "name": "Research Myself",
+      "url": "https://open.spotify.com/track/4zPZfnA5ZF66ICsmLkgv7w"
     },
     {
       "album": {
@@ -21944,7 +22148,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 166500,
       "name": "STFU",
       "url": "https://open.spotify.com/track/7wqYyl9WqstDDjStGOc6Ym"
@@ -22194,7 +22398,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 157036,
       "name": "Strictly Hard - Maxtreme Remix",
       "url": "https://open.spotify.com/track/2L8gvLK80wvsgtYaviOoOJ"
@@ -23098,6 +23302,24 @@
       "duration_ms": 168800,
       "name": "Team No Sleep",
       "url": "https://open.spotify.com/track/3khsjS0d0qOwB3x8k5gVca"
+    },
+    {
+      "album": {
+        "name": "Tears In The Rain",
+        "url": "https://open.spotify.com/album/77XqtCj36nVGTtu2XPAEWW"
+      },
+      "artists": [
+        {
+          "name": "Dulehec",
+          "url": "https://open.spotify.com/artist/108YJc17toqidCLr2UBXsQ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131204,
+      "name": "Tears In The Rain",
+      "url": "https://open.spotify.com/track/0S9xDAoTyeDjIysfSytQLy"
     },
     {
       "album": {
@@ -25823,6 +26045,24 @@
     },
     {
       "album": {
+        "name": "Underground Sound",
+        "url": "https://open.spotify.com/album/2cxBuKfmUOKWdyu9zJy2cx"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Underground Sound",
+      "url": "https://open.spotify.com/track/2iPy982QEeP97z0IgBwWmh"
+    },
+    {
+      "album": {
         "name": "UNDRGRND",
         "url": "https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj"
       },
@@ -26368,6 +26608,28 @@
       "duration_ms": 147003,
       "name": "W.T.P.",
       "url": "https://open.spotify.com/track/19MRTtkMtF70WoGcUzNM3r"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
+      },
+      "artists": [
+        {
+          "name": "LORD HADES",
+          "url": "https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo"
+        },
+        {
+          "name": "Hardstyle Covers",
+          "url": "https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Wake Me Up - Hardstyle Mix",
+      "url": "https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433"
     },
     {
       "album": {
@@ -26984,7 +27246,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 267839,
       "name": "We Unite - Archive 2024 Anthem",
       "url": "https://open.spotify.com/track/259Q6i1SugLVU6TT5BULc4"
@@ -28042,7 +28304,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 181683,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/52xbrJDSqHDIomOgZ4c5Dp"

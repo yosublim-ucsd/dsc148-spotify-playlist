@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Levity
 
-918 songs - 2 day 2 hr 50 min
+919 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Feel The Vibe](https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Feel The Vibe](https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD) | 3:22 | 2024-04-12 |  |
 | [FEEL THIS](https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [FEEL THIS](https://open.spotify.com/album/4XmAELT7o9pCbK0L5I4TzQ) | 3:01 | 2024-10-04 | 2025-02-17 |
 | [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 |  |
+| [FFO](https://open.spotify.com/track/2kooa34cnfCMuCUsnbMeEf) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [FFO](https://open.spotify.com/album/2eTmqwXJAbl41hiK813t6k) | 4:30 | 2025-02-16 |  |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 | 2023-04-01 |
 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 | 2023-02-17 | 2024-10-05 |
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 | 2023-09-16 |
@@ -487,7 +488,7 @@
 | [Lose Control](https://open.spotify.com/track/1E6meFZ4yDVstks1aK5SUa) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Lose Control](https://open.spotify.com/album/7kHo68bHhe3tP4gf2DRIZN) | 2:50 | 2024-11-04 |  |
 | [Lose Your Shit](https://open.spotify.com/track/43AQsk8AnWfEwiwFB5lo8K) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Lose Your Shit](https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW) | 3:07 | 2021-12-17 | 2022-05-07 |
 | [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 | 2022-06-17 | 2023-05-13 |
-| [LOST MY MIND](https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j) | [ELEVATD](https://open.spotify.com/artist/4Jp2Y29zopLWCqPWRt2TCR) | [LOST MY MIND](https://open.spotify.com/album/40KiR2AHMLIn8W7PeUXYWI) | 3:54 | 2025-01-10 |  |
+| [LOST MY MIND](https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j) | [ELEVATD](https://open.spotify.com/artist/4Jp2Y29zopLWCqPWRt2TCR) | [LOST MY MIND](https://open.spotify.com/album/40KiR2AHMLIn8W7PeUXYWI) | 3:54 | 2025-01-10 | 2025-02-19 |
 | [LOUD](https://open.spotify.com/track/0G2Rh4K8prhlCQb8GRyCiH) | [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [LOUD](https://open.spotify.com/album/5xXul2PWn3SYaEdcZ0xesB) | 2:44 | 2025-02-07 |  |
 | [LOUD PACK](https://open.spotify.com/track/1aSM6LyVWAg1OQxguwfkiN) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd), [MUERTE](https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y) | [LOUD PACK](https://open.spotify.com/album/5gUUKOr7E26tC0mEjIGwm3) | 2:52 | 2024-12-06 |  |
 | [Love You Like That \- Hekler Remix](https://open.spotify.com/track/1fcnrUWCAs9hTflVrnJYs4) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [KATT](https://open.spotify.com/artist/7LRt8tHoPmvlTc8yjCSmjR) | [Love You Like That \(Hekler Remix\)](https://open.spotify.com/album/29cf8yfnG7yb9Y0z164YgL) | 4:18 | 2023-12-22 | 2024-02-03 |

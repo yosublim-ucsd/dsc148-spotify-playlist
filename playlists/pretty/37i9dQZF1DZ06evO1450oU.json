@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAAApU9USTgci/Cq9ExelIN71",
+  "snapshot_id": "Z7J8AAAAAAAntNfiFCDLAv+9iJWHNQ71",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 254733,
       "name": "Window Shade",
       "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
     },
     {
       "added_at": null,

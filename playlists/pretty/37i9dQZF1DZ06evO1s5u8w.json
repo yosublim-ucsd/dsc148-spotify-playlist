@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 191870,
+  "num_followers": 191895,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7EqgAAAAAC353c3RItsIiPSnHDTN6G2",
+  "snapshot_id": "Z7J8AAAAAACOux/vRpjmXoLZsoMoMaYo",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Psycho Killer - Acoustic",
-      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures (Deluxe Version)",
         "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 222413,
       "name": "Stay up Late - 2005 Remaster",
       "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Psycho Killer - Acoustic",
+      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: RESCENE",
+  "description": "Future K-Pop hits! Cover: ONF",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -15054,7 +15054,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 204733,
       "name": "Point Nemo",
       "url": "https://open.spotify.com/track/3cKR6eNYOujXr4tEc9xTHe"
@@ -19642,6 +19642,24 @@
       "duration_ms": 186026,
       "name": "The Story",
       "url": "https://open.spotify.com/track/1RgojDREKMLTMyhhD66LWj"
+    },
+    {
+      "album": {
+        "name": "ONF:MY IDENTITY",
+        "url": "https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD"
     },
     {
       "album": {

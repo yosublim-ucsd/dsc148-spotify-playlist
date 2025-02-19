@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "PINK CRUSH",
+        "url": "https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl"
+      },
+      "artists": [
+        {
+          "name": "ONE PACT",
+          "url": "https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193345,
+      "name": "100!",
+      "url": "https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ"
+    },
+    {
+      "album": {
         "name": "2 Baddies - The 4th Album",
         "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
       },
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 202626,
       "name": "dummy",
       "url": "https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb"
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
@@ -4866,7 +4884,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 147160,
       "name": "HOT MESS",
       "url": "https://open.spotify.com/track/03Yzb3GUh2MVFxszy3Jxc7"
@@ -7180,7 +7198,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 221341,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
@@ -10444,6 +10462,24 @@
       "duration_ms": 209186,
       "name": "Tiger Inside",
       "url": "https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE"
+    },
+    {
+      "album": {
+        "name": "GLOWY DAY",
+        "url": "https://open.spotify.com/album/3bs9sez7X2JSmBicDzv8Nb"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "TIME 2 SHINE",
+      "url": "https://open.spotify.com/track/4l2O1DETs5DkWj213pZdua"
     },
     {
       "album": {

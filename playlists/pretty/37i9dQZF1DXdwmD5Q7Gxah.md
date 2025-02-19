@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,679 likes - 107 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,619 likes - 107 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 106 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
 | 107 | [Let Me Go!](https://open.spotify.com/track/72vbQiZdPWaLMXaHjRUpiJ) | [Leila Lamb](https://open.spotify.com/artist/2n3aUuffTp4GLAVEcqILwp) | [Let Me Go!](https://open.spotify.com/album/4z21RHl8jWa0ohHXpO37wD) | 2:04 |
 
-Snapshot ID: `Z67N4QAAAABh8JBRSuprAQrOEM7FLXzB`
+Snapshot ID: `Z67N4QAAAAAFaSDkSs90JLDU/hen+lbo`

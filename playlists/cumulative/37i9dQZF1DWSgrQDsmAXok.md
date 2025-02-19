@@ -2,7 +2,7 @@
 
 ### [This Is 藤井 風 \- Fujii Kaze \- ](https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok)
 
-> Early Noise 2020選出アーティスト藤井 風の楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Fujii Kaze.
+> The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
 54 songs - 3 hr 49 min
 

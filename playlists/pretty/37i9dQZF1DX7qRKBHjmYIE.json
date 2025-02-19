@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Marc Segu\u00ed & Rawayana.",
-  "num_followers": 750665,
+  "num_followers": 750657,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-02-14 05:00:28",
       "album": {
+        "name": "mami let go",
+        "url": "https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4"
+      },
+      "artists": [
+        {
+          "name": "Guzmen",
+          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
+        }
+      ],
+      "duration_ms": 139393,
+      "name": "mami let go",
+      "url": "https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I"
+    },
+    {
+      "added_at": "2025-02-14 05:00:28",
+      "album": {
         "name": "SUKHA",
         "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 187468,
       "name": "CONFUNDIDO",
       "url": "https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD"
-    },
-    {
-      "added_at": "2025-02-14 05:00:28",
-      "album": {
-        "name": "mami let go",
-        "url": "https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4"
-      },
-      "artists": [
-        {
-          "name": "Guzmen",
-          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
-        }
-      ],
-      "duration_ms": 139393,
-      "name": "mami let go",
-      "url": "https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I"
     },
     {
       "added_at": "2025-02-14 05:00:28",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-02-14 05:00:28",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 201043,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
+    },
+    {
+      "added_at": "2025-02-14 05:00:28",
+      "album": {
         "name": "Balas de Fogueo",
         "url": "https://open.spotify.com/album/3fhho7MnychDA1LDUk8TIM"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 186537,
       "name": "Balas de Fogueo",
       "url": "https://open.spotify.com/track/76ctQ5HCF15awVSYFH2skE"
-    },
-    {
-      "added_at": "2025-02-14 05:00:28",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 201043,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
     },
     {
       "added_at": "2025-02-14 05:00:28",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-02-14 05:00:28",
       "album": {
-        "name": "LE CHILL 2",
-        "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
-      },
-      "artists": [
-        {
-          "name": "Chill Chicos",
-          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 172335,
-      "name": "NO SALES DE MI CABEZA",
-      "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
-    },
-    {
-      "added_at": "2025-02-14 05:00:28",
-      "album": {
         "name": "Escudo",
         "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 171272,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:28",
+      "album": {
+        "name": "LE CHILL 2",
+        "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
+      },
+      "artists": [
+        {
+          "name": "Chill Chicos",
+          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 172335,
+      "name": "NO SALES DE MI CABEZA",
+      "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
     },
     {
       "added_at": "2025-02-14 05:00:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-02-14 05:00:28",
       "album": {
-        "name": "Mabel",
-        "url": "https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 160296,
-      "name": "Mabel",
-      "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
-    },
-    {
-      "added_at": "2025-02-14 05:00:28",
-      "album": {
         "name": "Cervezas y Tabacos",
         "url": "https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 160398,
       "name": "OBSSD",
       "url": "https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg"
+    },
+    {
+      "added_at": "2025-02-14 05:00:28",
+      "album": {
+        "name": "Mabel",
+        "url": "https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 160296,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
     },
     {
       "added_at": "2025-02-14 05:00:28",

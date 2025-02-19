@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 144081,
+  "num_followers": 144097,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "N\u00e3o Somos Mais",
+        "url": "https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Torres",
+          "url": "https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy"
+        }
+      ],
+      "duration_ms": 250431,
+      "name": "N\u00e3o Somos Mais",
+      "url": "https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 442667,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "N\u00e3o Somos Mais",
-        "url": "https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ"
-      },
-      "artists": [
-        {
-          "name": "Matheus Torres",
-          "url": "https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy"
-        }
-      ],
-      "duration_ms": 250431,
-      "name": "N\u00e3o Somos Mais",
-      "url": "https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "Pouso",
         "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207145,
       "name": "Eu Vi Tudo",
       "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 149646,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
         "name": "One (Songs Of Surrender)",
         "url": "https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 216374,
       "name": "One - Songs Of Surrender",
       "url": "https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "Quatro Cantos de Um Mundo Redondo",
+        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 208636,
+      "name": "Come\u00e7a Tudo Outra Vez",
+      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "On My Own (Live in Brazil)",
         "url": "https://open.spotify.com/album/0enNwM1573EU28QawJJdJ2"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 198250,
       "name": "On My Own (Live In Brazil)",
       "url": "https://open.spotify.com/track/1tFELGPptFjocrjTaRAqmM"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Quatro Cantos de Um Mundo Redondo",
-        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "Come\u00e7a Tudo Outra Vez",
-      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Alquimia",
         "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Esteban Tavares",
+          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
         }
       ],
-      "duration_ms": 177397,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+      "duration_ms": 230565,
+      "name": "Vida Real",
+      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2025-02-14 03:01:18",
@@ -875,22 +891,6 @@
       "duration_ms": 243504,
       "name": "No Delta dos Rios",
       "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
-      },
-      "artists": [
-        {
-          "name": "Esteban Tavares",
-          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
-        }
-      ],
-      "duration_ms": 230565,
-      "name": "Vida Real",
-      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2025-02-14 03:01:18",

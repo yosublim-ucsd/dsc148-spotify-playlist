@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: ODUMODUBLVCK
 
-539 songs - 1 day 1 hr 30 min
+540 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BIG CHIEF](https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [BIG CHIEF](https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S) | 3:04 | 2024-06-21 | 2025-02-09 |
 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 | 2024-11-08 | 2024-11-16 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
+| [Biko](https://open.spotify.com/track/2EU8sMA1cxTIWIbUGd8pRA) | [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Biko / Iwai](https://open.spotify.com/album/5loaagDKYuReBMUeeLq35C) | 2:14 | 2025-02-14 |  |
 | [Bless Me](https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K) | [Pharaoh 47](https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Bless Me](https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91) | 3:31 | 2024-11-22 |  |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 | 2023-12-04 |
@@ -541,7 +542,7 @@
 | [Yemi My Lover](https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Yemi My Lover](https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s) | 2:56 | 2024-08-02 | 2024-08-14 |
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [Yo My Gee](https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Yo My Gee](https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3) | 2:34 | 2025-02-14 |  |
-| [Yolo](https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp) | [Freezy](https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Yolo](https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A) | 3:04 | 2024-11-22 |  |
+| [Yolo](https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp) | [Freezy](https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Yolo](https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A) | 3:04 | 2024-11-22 | 2025-02-19 |
 | [YOTU Cypher](https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW) | [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB), [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Year of the Underdogs](https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p) | 3:04 | 2024-12-16 |  |
 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 | 2023-03-25 | 2024-05-25 |
 | [YOUNG PREACHER](https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:22 | 2022-10-28 | 2023-02-16 |

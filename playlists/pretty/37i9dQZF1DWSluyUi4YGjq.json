@@ -1,13 +1,29 @@
 {
   "description": "Gazing at pedals, soaring celestially high. cover: Trauma Ray",
-  "num_followers": 193325,
+  "num_followers": 193393,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5L6xgAAAAA+kXRN7KVkUftSGVetznr/",
+  "snapshot_id": "Z7TUSQAAAAAeVm3R1OCxNnbTFOeMAiQi",
   "tracks": [
+    {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "Ghostholding",
+        "url": "https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn"
+      },
+      "artists": [
+        {
+          "name": "venturing",
+          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
+        }
+      ],
+      "duration_ms": 243645,
+      "name": "Dead forever",
+      "url": "https://open.spotify.com/track/2vzyqt2PutPPxAl52xvBHU"
+    },
     {
       "added_at": "2025-01-24 02:28:22",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
     },
     {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "Graze",
+        "url": "https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 264824,
+      "name": "Graze",
+      "url": "https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q"
+    },
+    {
       "added_at": "2025-01-24 02:28:22",
       "album": {
         "name": "Happy",
@@ -57,20 +89,36 @@
       "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
     },
     {
-      "added_at": "2025-01-24 02:28:22",
+      "added_at": "2025-02-18 18:41:13",
       "album": {
-        "name": "Shannon Waves",
-        "url": "https://open.spotify.com/album/653q7cYSLyPhkciK3hdfe2"
+        "name": "malaise",
+        "url": "https://open.spotify.com/album/5ER0j2Y4dNi7zTL49OTjdS"
       },
       "artists": [
         {
-          "name": "Drop Nineteens",
-          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
+          "name": "Rehash",
+          "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Shannon Waves",
-      "url": "https://open.spotify.com/track/4HHJVIp3sTKCGT7R52gaIW"
+      "duration_ms": 194095,
+      "name": "malaise",
+      "url": "https://open.spotify.com/track/3yf2VsW8fLAOHGhMpMbynv"
+    },
+    {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/362mjExaEaTHsrGK5tdBOU"
+      },
+      "artists": [
+        {
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        }
+      ],
+      "duration_ms": 219457,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/2whjziw7ZEzkXTUhuQ6tAF"
     },
     {
       "added_at": "2024-11-22 05:25:40",
@@ -105,6 +153,54 @@
       "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "Ghostholding",
+        "url": "https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn"
+      },
+      "artists": [
+        {
+          "name": "venturing",
+          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
+        }
+      ],
+      "duration_ms": 271676,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2mkCAh6bWzMD9AUC97rvjy"
+    },
+    {
+      "added_at": "2025-01-24 02:28:22",
+      "album": {
+        "name": "Shannon Waves",
+        "url": "https://open.spotify.com/album/653q7cYSLyPhkciK3hdfe2"
+      },
+      "artists": [
+        {
+          "name": "Drop Nineteens",
+          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Shannon Waves",
+      "url": "https://open.spotify.com/track/4HHJVIp3sTKCGT7R52gaIW"
+    },
+    {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "It\u2019s Almost Like You\u2019re Here",
+        "url": "https://open.spotify.com/album/1CmW2ezh4ClPrnky18Iwwr"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "It\u2019s Almost Like You\u2019re Here",
+      "url": "https://open.spotify.com/track/6dkbwlR6IEUINiPhj0t2hD"
+    },
+    {
       "added_at": "2024-12-09 21:20:08",
       "album": {
         "name": "Always",
@@ -119,6 +215,22 @@
       "duration_ms": 208875,
       "name": "Always",
       "url": "https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX"
+    },
+    {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "(sublimate)",
+        "url": "https://open.spotify.com/album/67PKB8ZfTT2r7l5pXtnXQZ"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "(sublimate)",
+      "url": "https://open.spotify.com/track/6buBXsG5hpKMg48v1yCfni"
     },
     {
       "added_at": "2025-01-24 02:28:22",
@@ -167,6 +279,22 @@
       "duration_ms": 202373,
       "name": "bedbugs",
       "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
+    },
+    {
+      "added_at": "2025-02-18 18:41:13",
+      "album": {
+        "name": "Necklace",
+        "url": "https://open.spotify.com/album/3FagFB7QjdO5Yng2POsNDB"
+      },
+      "artists": [
+        {
+          "name": "Crate",
+          "url": "https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Necklace",
+      "url": "https://open.spotify.com/track/50l3XkUnhVOWfZ6MLcOcc0"
     },
     {
       "added_at": "2024-10-25 17:08:37",

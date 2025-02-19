@@ -3395,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Strong sea waves in Caribbean",
+        "url": "https://open.spotify.com/album/1f2d3TyKSRc2LhhpaCrSgx"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Gutierrez G.",
+          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180805,
+      "name": "Strong sea waves in Caribbean",
+      "url": "https://open.spotify.com/track/3HMILLluqpXBiv6ildDTqC"
+    },
+    {
+      "album": {
         "name": "Ocean HD Vol. 3",
         "url": "https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo"
       },

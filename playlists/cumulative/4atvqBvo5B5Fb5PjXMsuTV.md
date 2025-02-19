@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 17 Feb 09:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 18 Feb 19:03 UTC.
 
-4,188 songs - 9 day 16 hr 24 min
+4,191 songs - 9 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,7 +694,7 @@
 | [Chest Pain](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-05 | 2024-12-07 |
 | [Chevy Tahoe](https://open.spotify.com/track/0CLiYWy7oPUicVElT0woQH) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Chevy Tahoe](https://open.spotify.com/album/783jGL2koLrnwiC0yPWqy2) | 2:27 | 2024-05-02 | 2024-05-04 |
 | [Chewing Gum](https://open.spotify.com/track/32Bndp39GNYH6KVVDUWU12) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/4UzpXaGSJJtn6NuyfDHBVq) | 3:20 | 2024-08-21 | 2024-08-24 |
-| [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 |  |
+| [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 | 2025-02-19 |
 | [Chicago](https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K) | 3:58 | 2024-07-17 | 2024-07-19 |
 | [Chicken](https://open.spotify.com/track/1LOuKvI3KRwlOhPzuLocqw) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [DTB](https://open.spotify.com/artist/2alpYK7qCcXtNiy1JV5wvK) | [Chicken](https://open.spotify.com/album/7hqAGmEzMyVYARBAzpqYrr) | 1:57 | 2024-12-14 | 2024-12-21 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-24 | 2024-07-27 |
@@ -834,7 +834,7 @@
 | [Cubicle](https://open.spotify.com/track/16bo9rjhuBfM6mUFKpSdRJ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Cubicle](https://open.spotify.com/album/3kKNE1FnPhgRLpj0c5tIz0) | 2:15 | 2025-01-22 | 2025-01-28 |
 | [Cueste Lo Que Cueste](https://open.spotify.com/track/2l5uzRxRaNDFCdpSI6y186) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Cueste Lo Que Cueste](https://open.spotify.com/album/7oqd5XNbWxZbgM0Oz8IkLS) | 3:50 | 2024-11-07 | 2024-11-09 |
 | [Cult Leader](https://open.spotify.com/track/594JFMh9jfj9k2ilbczn1m) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Cult Leader](https://open.spotify.com/album/3gaIdlvLWmj4le6rVc7b66) | 2:08 | 2024-12-13 | 2024-12-18 |
-| [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 |  |
+| [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 | 2025-02-19 |
 | [Cupid's Bow](https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Cupid's Bow](https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ) | 2:51 | 2024-10-11 | 2024-10-17 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2024-08-06 | 2024-08-09 |
 | [Curious Ruminant](https://open.spotify.com/track/1GwbwKkKsj3EqkJda5RdoR) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Curious Ruminant](https://open.spotify.com/album/7EfhM9H9X5qCBr1Q5jVCXa) | 6:00 | 2025-01-13 | 2025-01-20 |
@@ -1537,7 +1537,7 @@
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-07 | 2024-08-09 |
 | [HALLOWEEN FREESTYLE](https://open.spotify.com/track/1Y2ohtaV7873XVPzpXgLRn) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [HALLOWEEN FREESTYLE](https://open.spotify.com/album/4htYUjnyQYUKm4xYTnnwci) | 1:51 | 2024-10-16 | 2024-10-18 |
 | [Halloween Is Dead](https://open.spotify.com/track/3Oy4YrjmlkdSVDi7ehSUMZ) | [Billy Cobb](https://open.spotify.com/artist/1jIl0sLvlOzGpT2RqPBfyE) | [Halloween Is Dead](https://open.spotify.com/album/3bCPDB0nbLDmcq9eP6e1rH) | 2:48 | 2024-10-15 | 2024-10-18 |
-| [Hallways](https://open.spotify.com/track/6az05Q3tEYs5cKzrcW9z63) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Hallways](https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb) | 3:38 | 2025-02-12 |  |
+| [Hallways](https://open.spotify.com/track/6az05Q3tEYs5cKzrcW9z63) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Hallways](https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb) | 3:38 | 2025-02-12 | 2025-02-19 |
 | [Hallways Engraved in Aether](https://open.spotify.com/track/7e5g84gNIAqmsVhn3aXWmR) | [Cosmic Putrefaction](https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8) | [Hallways Engraved in Aether](https://open.spotify.com/album/2qzhdnUdu7sFzQuR7YKO5G) | 5:02 | 2024-08-08 | 2024-08-10 |
 | [HALO](https://open.spotify.com/track/38Fz8Ph9dW96M8e2W5AuGK) | [Yody 4x](https://open.spotify.com/artist/1wewcLUgdkeDzQILfsDTtH) | [HALO](https://open.spotify.com/album/3OsjaxLAhTrB9B1fBW7CFS) | 2:00 | 2024-10-31 | 2024-11-02 |
 | [HAMMER](https://open.spotify.com/track/49p6Jr3v4lrHxoUa7XnMN5) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [HAMMER](https://open.spotify.com/album/2hYS5RoJQZ9kXr6NkHu8NN) | 3:20 | 2024-11-01 | 2024-11-06 |
@@ -2125,6 +2125,7 @@
 | [Living Lavish](https://open.spotify.com/track/07jRDsccmmp4BuX3eCjqye) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Living Lavish](https://open.spotify.com/album/2QFsU81wet3eLc2hYV9UEL) | 2:24 | 2024-07-30 | 2024-08-01 |
 | [Living Legend](https://open.spotify.com/track/1oUMONFJ4ne768oA5siqez) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Living Legend](https://open.spotify.com/album/6Qtrhep6csqw0jdKOy6YkY) | 2:26 | 2024-10-16 | 2024-10-19 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-17 | 2024-05-19 |
+| [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 | 2025-02-18 |  |
 | [LL](https://open.spotify.com/track/0aGJkYqYWFfF2aaJgTVxgJ) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [LL / Sinamen](https://open.spotify.com/album/1r4RFekgWv8K9u8numDS9M) | 2:12 | 2024-10-21 | 2024-10-25 |
 | [LLOGCLAY](https://open.spotify.com/track/4CGUa53VCVIM7wQBTMPWoa) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [LLOGCLAY](https://open.spotify.com/album/1dTxuFBMFbBYeVmVUTVl6v) | 3:43 | 2024-05-10 | 2024-05-15 |
 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 | 2024-09-17 | 2024-09-19 |
@@ -2693,6 +2694,7 @@
 | [PARANOIA](https://open.spotify.com/track/0JEBGDE606MtNgI4BZinFH) | [Chauncey666](https://open.spotify.com/artist/2RrDgEA06BdjYXlzCHRmUh) | [PARANOIA](https://open.spotify.com/album/06uoX3aAmIFypUIblVoQnp) | 2:51 | 2024-08-04 | 2024-08-08 |
 | [Paranoid](https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Paranoid](https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr) | 3:25 | 2025-01-09 | 2025-01-19 |
 | [PARASITE](https://open.spotify.com/track/6j69bnzsC2K5qnrqNDpJi4) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [PARASITE](https://open.spotify.com/album/59Lxtyv1wKwyVReWqGgOyD) | 2:35 | 2024-10-09 | 2024-10-12 |
+| [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 | 2025-02-18 |  |
 | [Parklife \- Live at Wembley Stadium](https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Live at Wembley Stadium\)](https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY) | 3:50 | 2024-06-05 | 2024-06-07 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 | 2024-08-27 |
 | [Party Never Ends](https://open.spotify.com/track/61LV4axlniLckSeyB15HtC) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Party Never Ends](https://open.spotify.com/album/5mJPlL9P5oLexaBWyP0jys) | 2:10 | 2024-07-22 | 2024-07-25 |
@@ -3712,6 +3714,7 @@
 | [Tommy](https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy](https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT) | 4:34 | 2024-08-20 | 2024-08-23 |
 | [TOMORROW](https://open.spotify.com/track/7JJcnekfqPME6cknquGfOz) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [TOMORROW](https://open.spotify.com/album/2g7DPkZS6oTESCoX4m4hh4) | 2:11 | 2024-05-03 | 2024-05-08 |
 | [Tongue Tied](https://open.spotify.com/track/1HcRDA0WRgTNlkxn0rxcAb) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Tongue Tied](https://open.spotify.com/album/5wpKCTDeTp8nTtODahg2Uu) | 2:40 | 2024-06-26 | 2024-06-28 |
+| [tonight](https://open.spotify.com/track/1Zzzo2MiWo9Bz7l0UmY8am) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [tonight](https://open.spotify.com/album/6TmdwqMxBMwjDFp8KaQNIr) | 1:45 | 2025-02-18 |  |
 | [TONIGHT](https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [VINYARD](https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm) | 3:27 | 2024-10-15 | 2024-10-18 |
 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-07-31 | 2024-08-03 |
 | [TOO LATE II](https://open.spotify.com/track/5Bt4KILKgEXVU3cIln0Kjd) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [TOO LATE II](https://open.spotify.com/album/2UnNUtWS47noKHC9EZlq9g) | 2:56 | 2024-10-29 | 2024-11-01 |

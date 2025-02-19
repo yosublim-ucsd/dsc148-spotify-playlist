@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-1,372 songs - 3 day 4 hr 42 min
+1,373 songs - 3 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3ada Kol El Kalam](https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [3ada Kol El Kalam](https://open.spotify.com/album/3U0f2e9rvMojOb8JaR6KAn) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [3Afareet](https://open.spotify.com/track/4TOwJNVjP9k8gmaYH8DCwQ) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [3Afareet](https://open.spotify.com/album/1xUK1PKwIMrXAJoSZQ1IQb) | 2:35 | 2024-08-15 | 2024-09-13 |
 | [3al Wa3d](https://open.spotify.com/track/0jBnk6ZGo8XuurCrYaEZon) | [Wust El Balad](https://open.spotify.com/artist/5kpaPebhiMoUmLOVyPW7gv) | [3al Wa3d](https://open.spotify.com/album/5atcnSO2Vs5QQKu6xxAY0Z) | 3:01 | 2023-07-28 | 2023-08-19 |
+| [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/2pPyRxqHb4PHqziNGNX89w) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 | 2025-02-18 |  |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-06 |
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 | 2023-05-11 |
 | [3ala kol 7al](https://open.spotify.com/track/4NYBQPtfAWWS0AKvrpTs3X) | [Ameen](https://open.spotify.com/artist/4nDzLqw4W7n1RwX2jD4y55) | [3ala kol 7al](https://open.spotify.com/album/5pDlOavvYmqo9V3T2YhJqG) | 2:59 | 2024-09-12 | 2024-11-15 |
@@ -729,7 +730,7 @@
 | [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 | 2023-04-21 |
 | [Sadma](https://open.spotify.com/track/4EBcYRftM4nue57Ua31bNK) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Sadma](https://open.spotify.com/album/5X4Y77t5vLwviculy0kkDL) | 3:23 | 2024-07-24 | 2024-08-09 |
 | [Safert B3eed \- سافرت بعيد](https://open.spotify.com/track/4dRCwaICB2eo2VBcelXmNu) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Safert B3eed \(سافرت بعيد\)](https://open.spotify.com/album/0WZPlrKmI7mZPjBkIahYkg) | 4:03 | 2023-08-28 | 2023-12-21 |
-| [Safina](https://open.spotify.com/track/7GaursQ5AqrRalyP49w9eQ) | [Salah Tayr](https://open.spotify.com/artist/4XSPo8v5n4oGPc7uw1YZS9) | [QALBI](https://open.spotify.com/album/2UbWwXWIlSY90igG0gOq3s) | 3:03 | 2025-02-07 |  |
+| [Safina](https://open.spotify.com/track/7GaursQ5AqrRalyP49w9eQ) | [Ahmedythegr8](https://open.spotify.com/artist/72v5C9amne1zphSU3n7H3u) | [QALBI](https://open.spotify.com/album/2UbWwXWIlSY90igG0gOq3s) | 3:03 | 2025-02-07 |  |
 | [Saggan](https://open.spotify.com/track/7yKvi1Ftnda6J3PyqKY139) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Saggan](https://open.spotify.com/album/7FqxSipC4DIQ0IA3RgWqxa) | 2:53 | 2024-01-15 | 2024-02-14 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-09-26 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
@@ -1229,7 +1230,7 @@
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [كلمني عن نفسك](https://open.spotify.com/track/0Y52u3T0C9sroUFFtY0UQ1) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [كلمني عن نفسك](https://open.spotify.com/album/1tg6iaoch6dNDoHJ3bBk1Z) | 2:36 | 2024-07-25 | 2024-09-13 |
 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 | 2024-07-29 | 2024-08-16 |
-| [لأ ثوانى](https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [لأ ثوانى](https://open.spotify.com/album/687gIsuuNRehoRPmBmFM9d) | 4:17 | 2025-01-09 |  |
+| [لأ ثوانى](https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [لأ ثوانى](https://open.spotify.com/album/687gIsuuNRehoRPmBmFM9d) | 4:17 | 2025-01-09 | 2025-02-19 |
 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-06-27 | 2024-08-06 |
 | [لاموني](https://open.spotify.com/track/4k5Fyhlxmh4st5HBCxDM4h) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [لاموني](https://open.spotify.com/album/0n4nzBMbsSG70vgi4NhB96) | 3:18 | 2024-09-26 | 2024-12-13 |
 | [لحظات التجلى](https://open.spotify.com/track/22FRaouGKCZsuNdz9wlu9b) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [لحظات التجلى](https://open.spotify.com/album/0kL1oOdnut1dvfX3BFGmyd) | 3:33 | 2025-01-06 | 2025-02-15 |

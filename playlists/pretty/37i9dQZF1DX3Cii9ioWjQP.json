@@ -1,15 +1,83 @@
 {
-  "description": "All about Korean Jazz hits & new (Cover: parksanga quintet(\ubc15\uc0c1\uc544 \ud038\ud15f)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 21787,
+  "description": "All about Korean Jazz hits & new (Cover: MIHYANG MOON(\ubb38\ubbf8\ud5a5)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "num_followers": 21794,
   "original_name": "Jazzy Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4YHxgAAAACI2z/t1Q8iMm7HaSu/WjmB",
+  "snapshot_id": "Z7QGigAAAAARGfoZCcuuPlDo/F5Wb9zu",
   "tracks": [
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "duration_ms": 416772,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/3mztyid5b6tZi13ZAV9R6s"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "NONOL VOL 55. DOO ' Sunny Morning '",
+        "url": "https://open.spotify.com/album/2BTLKLtYye3Qwk9x7gEz5v"
+      },
+      "artists": [
+        {
+          "name": "DOO",
+          "url": "https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Sunny Morning",
+      "url": "https://open.spotify.com/track/5oh2EYgsruCFgv3CkJxxzG"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "\ub3c5\uc2e0\uc8fc\uc758 (i love you)",
+        "url": "https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "\ub3c5\uc2e0\uc8fc\uc758 (i love you)",
+      "url": "https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        },
+        {
+          "name": "Koh Sangji",
+          "url": "https://open.spotify.com/artist/6aLJ3PPQ6P81K2eh5RIvIB"
+        }
+      ],
+      "duration_ms": 345313,
+      "name": "Estate (feat. Koh Sangji)",
+      "url": "https://open.spotify.com/track/1c2UAjB8uv6oAYYwjcoFcG"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "JAZZ CATS",
         "url": "https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG"
@@ -25,7 +93,7 @@
       "url": "https://open.spotify.com/track/6xtFuRnxG73wkslu4Lzt6C"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "JEZZ or JAZZ (Feat. Yireh)",
         "url": "https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC"
@@ -45,7 +113,27 @@
       "url": "https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        },
+        {
+          "name": "Dan Nimmer Trio",
+          "url": "https://open.spotify.com/artist/5gP5K1peTVqvLrGCEXWj9k"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "'Tis Autumn (feat. Dan Nimmer Trio)",
+      "url": "https://open.spotify.com/track/61sV2f0c7LJl0nukJTgpGx"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "JAZZ CATS",
         "url": "https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG"
@@ -61,7 +149,7 @@
       "url": "https://open.spotify.com/track/4yN9VWrEjSea3wOaFxOt0W"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "WHITE",
         "url": "https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK"
@@ -89,7 +177,7 @@
       "url": "https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Embrace Your Emotions",
         "url": "https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG"
@@ -105,7 +193,23 @@
       "url": "https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
+      "album": {
+        "name": "EVERMOON",
+        "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "duration_ms": 295853,
+      "name": "Winter Moon",
+      "url": "https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP"
+    },
+    {
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "For Sentimental Reasons",
         "url": "https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9"
@@ -121,7 +225,7 @@
       "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "romanticismo",
         "url": "https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg"
@@ -137,7 +241,7 @@
       "url": "https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "WHITE",
         "url": "https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK"
@@ -153,7 +257,7 @@
       "url": "https://open.spotify.com/track/7cuApcXcpQ8xxbZAzCWJt4"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "The Night View In Seoul (Feat. Ahn Seo Jin) [Big Band ver.]",
         "url": "https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f"
@@ -173,7 +277,7 @@
       "url": "https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Things I Love",
         "url": "https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me"
@@ -189,7 +293,7 @@
       "url": "https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Michael Bender Big Band : Feast Of Jazz",
         "url": "https://open.spotify.com/album/6xUUwSnK5MvA4dhfsxMdKR"
@@ -205,7 +309,7 @@
       "url": "https://open.spotify.com/track/3LnrTczveIzEqxAr74aY52"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Sae jip da oh",
         "url": "https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J"
@@ -221,7 +325,7 @@
       "url": "https://open.spotify.com/track/1QOrJBxHzCW74wFYDh8rxe"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Impatient",
         "url": "https://open.spotify.com/album/3qBZXH0Exl3yFx6Ue2w9pn"
@@ -237,7 +341,7 @@
       "url": "https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Soft Swing Jazz Piano",
         "url": "https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S"
@@ -253,7 +357,7 @@
       "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "BLUFF",
         "url": "https://open.spotify.com/album/0D5vrxdURqpeLD63v8BCWL"
@@ -269,7 +373,7 @@
       "url": "https://open.spotify.com/track/6ByYCzySGJ0zfQus2J4NKc"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Letter",
         "url": "https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt"
@@ -285,7 +389,7 @@
       "url": "https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "MuRR P84. Journey Through Autumn",
         "url": "https://open.spotify.com/album/2BGQGDtlSCfhBYBTNrGKNv"
@@ -301,7 +405,7 @@
       "url": "https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "bye summer",
         "url": "https://open.spotify.com/album/3zWePPmeOOZVOjLMWsPqRv"
@@ -317,7 +421,7 @@
       "url": "https://open.spotify.com/track/61CZH3oXQ7pkcTCwo1MoXa"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Modalism",
         "url": "https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF"
@@ -333,7 +437,7 @@
       "url": "https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "dudndudndudn",
         "url": "https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD"
@@ -349,7 +453,7 @@
       "url": "https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Fine waltz",
         "url": "https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99"
@@ -365,7 +469,7 @@
       "url": "https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Woo-Woo-Ah-Ah",
         "url": "https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M"
@@ -381,7 +485,7 @@
       "url": "https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "\ud55c\uac00\uc704 \ube14\ub8e8\uc2a4",
         "url": "https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ"
@@ -397,7 +501,7 @@
       "url": "https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4HYMYaXJfzGhBHS6pPkdui"
@@ -413,7 +517,7 @@
       "url": "https://open.spotify.com/track/1diaSeNj5bvc48mTGrabJQ"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/3Z1KCZyrhWSCXkO19acBA8"
@@ -429,7 +533,7 @@
       "url": "https://open.spotify.com/track/0OevcboX4JSYxC2o9RtOOm"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "\uc774\uc0c1\uc544\uc758 \uc7ac\uc988&\ud53c\uc544\ub178 Pt.2",
         "url": "https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ"
@@ -445,7 +549,7 @@
       "url": "https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "BOSSA",
         "url": "https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "My summer's not over yet",
         "url": "https://open.spotify.com/album/1bEhI89GMah1UU96sfAQFb"
@@ -481,7 +585,7 @@
       "url": "https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag"
@@ -501,7 +605,7 @@
       "url": "https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Supernova (Jazz Version)",
         "url": "https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7"
@@ -517,23 +621,7 @@
       "url": "https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "JAZZSTRA Live in Seoul",
-        "url": "https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw"
-      },
-      "artists": [
-        {
-          "name": "Serena Ahn JAZZSTRA",
-          "url": "https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Prologue : Hope",
         "url": "https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "visitor",
         "url": "https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Romantic Slow Jazz Piano",
         "url": "https://open.spotify.com/album/4ns5qsQplj2MR9Dv2dsAmN"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Research Daily 2",
         "url": "https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh"
@@ -597,23 +685,7 @@
       "url": "https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2Yf93imyiTFQajsE5BYvux"
-      },
-      "artists": [
-        {
-          "name": "\ud55c\uc11d\uaddc",
-          "url": "https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR"
-        }
-      ],
-      "duration_ms": 179389,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Puddle",
         "url": "https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "love nwantiti",
         "url": "https://open.spotify.com/album/1uWWEYIJdIencEhnfQiEXt"
@@ -649,7 +721,7 @@
       "url": "https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Parasol Violet",
         "url": "https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/50xIhpMuGbJD6ZGVUoRjaO"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Take a Break",
         "url": "https://open.spotify.com/album/0aEMu0UemoafzHBLiRHX96"
@@ -681,7 +753,7 @@
       "url": "https://open.spotify.com/track/5fjY9RhBP29AYMPaWLcq1V"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Romantic Bossa Nova Jazz",
         "url": "https://open.spotify.com/album/39MI6zpDha8UnD2BTDdm3v"
@@ -697,7 +769,7 @@
       "url": "https://open.spotify.com/track/1CpFmDDFvPvKP386r04vNV"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Parasol Violet",
         "url": "https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D"
@@ -717,7 +789,7 @@
       "url": "https://open.spotify.com/track/34K57qXV5vNW7DmCSau8TH"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
@@ -737,7 +809,7 @@
       "url": "https://open.spotify.com/track/118mcL5m0P2Ve2Gietl36B"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8"
@@ -753,7 +825,7 @@
       "url": "https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "DUO",
         "url": "https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi"
@@ -769,7 +841,7 @@
       "url": "https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp"
     },
     {
-      "added_at": "2025-01-14 06:44:22",
+      "added_at": "2025-02-18 04:03:22",
       "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb"
@@ -783,118 +855,6 @@
       "duration_ms": 352960,
       "name": "Escape",
       "url": "https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "Foggy",
-        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Oh Rosy",
-      "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "Audrey",
-        "url": "https://open.spotify.com/album/5HTXudQOdLtmZvDNawqwMW"
-      },
-      "artists": [
-        {
-          "name": "Yeri Kang",
-          "url": "https://open.spotify.com/artist/0dO41bAMVabROIYUSbbhL9"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Audrey",
-      "url": "https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "2 Minutes",
-        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "2 Minutes",
-      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "On the Way Home",
-        "url": "https://open.spotify.com/album/5vlDbrQPuOXA5FdGnE634D"
-      },
-      "artists": [
-        {
-          "name": "Mind Nook",
-          "url": "https://open.spotify.com/artist/3y71oigavnqzw1D3bFpuSf"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Breezy Night",
-      "url": "https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "The Day Before",
-        "url": "https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX"
-      },
-      "artists": [
-        {
-          "name": "Kim Seong Hwa Trio",
-          "url": "https://open.spotify.com/artist/5B8SahzFBloYOMfoZVLBsE"
-        }
-      ],
-      "duration_ms": 340500,
-      "name": "The Day Before",
-      "url": "https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "Unrealtime",
-        "url": "https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303"
-      },
-      "artists": [
-        {
-          "name": "\uc784\uad11\uade0",
-          "url": "https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv"
-        }
-      ],
-      "duration_ms": 294179,
-      "name": "Unrealtime",
-      "url": "https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi"
-    },
-    {
-      "added_at": "2025-01-14 06:44:22",
-      "album": {
-        "name": "A Finite time",
-        "url": "https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI"
-      },
-      "artists": [
-        {
-          "name": "Heemin Chae",
-          "url": "https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy"
-        }
-      ],
-      "duration_ms": 267606,
-      "name": "A Finite time",
-      "url": "https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT"
     }
   ],
   "unique_name": "Jazzy Korea",

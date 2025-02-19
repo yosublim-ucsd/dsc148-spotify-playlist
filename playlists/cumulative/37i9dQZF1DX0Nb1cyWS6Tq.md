@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> He is coming\. Cover: Nosferatu
+> Release the bats..\. The Cure on cover.
 
 304 songs - 22 hr 44 min
 

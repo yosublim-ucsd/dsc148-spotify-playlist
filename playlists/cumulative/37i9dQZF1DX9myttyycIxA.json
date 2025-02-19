@@ -9231,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237716,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ"
+    },
+    {
+      "album": {
         "name": "FWB",
         "url": "https://open.spotify.com/album/4XaVVFYM0fUcCU7durf2L8"
       },

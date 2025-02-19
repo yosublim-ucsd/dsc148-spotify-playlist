@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,977 likes - 92 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,008 likes - 92 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 70 | [Waltz No\. 19 in A minor, Op\. posth.](https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: 19 Waltzes](https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg) | 2:29 |
 | 71 | [Mazurkas, Op\. 24: Mazurka No\. 14 in G Minor, Op\. 24, No\. 1](https://open.spotify.com/track/6PPs4hQ4zbqpAixLYkvz92) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/7p41w6rasps37nOAysSBdX) | 3:06 |
 | 72 | [Chopin: Scherzo No\. 2 in B\-Flat Minor, Op\. 31](https://open.spotify.com/track/6OwavBgVS1N4lAXZ2zKUfc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Simon Trpčeski](https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU) | [Chopin: Piano Sonata No\. 2 Op\. 35 & 4 Scherzos](https://open.spotify.com/album/2nYlvZ89PuF4MVME7EHqns) | 9:47 |
-| 73 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 |
+| 73 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1\. Moderato](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 |
 | 74 | [Chopin: 3 Waltzes, Op\. 34: I\. Vivace in A\-Flat Major](https://open.spotify.com/track/11Zz5UDvcxr4V8gccPFdRE) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: The Complete Waltzes](https://open.spotify.com/album/6xY0iw7zIbuyLX4uGvvM3M) | 5:55 |
 | 75 | [Chopin: 24 Preludes, Op\. 28: No\. 17 in A\-Flat Major](https://open.spotify.com/track/5pRvToCuk09YRIcGRrJKI9) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Dong Hyek Lim](https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP) | [Chopin: 24 Préludes, Barcarolle, Berceuse & Variations brillantes](https://open.spotify.com/album/4aaqfEizAN4hvpGdKtvGZa) | 3:25 |
 | 76 | [Chopin: Piano Sonata No\. 2 in B\-Flat Minor, Op\. 35: III\. Marche Funèbre](https://open.spotify.com/track/4tDa5P1so01pdVc5Ywl6Or) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Piano Sonata No\. 2 \- Liszt: Dante Sonata & 3 Petrarch Sonnets](https://open.spotify.com/album/02jMrMAn68A2jh6zeB4E0E) | 9:57 |

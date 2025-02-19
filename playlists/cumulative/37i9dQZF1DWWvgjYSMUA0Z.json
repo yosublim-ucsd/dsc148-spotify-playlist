@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aether Window",
+        "url": "https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma"
+      },
+      "artists": [
+        {
+          "name": "Quiet Robot",
+          "url": "https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Aether Window",
+      "url": "https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6"
+    },
+    {
+      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 151520,
       "name": "Andares",
       "url": "https://open.spotify.com/track/2S5om86Ep9oh6JXhJvBfpu"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 210250,
       "name": "At last",
       "url": "https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 309134,
       "name": "Aware of Awareness",
       "url": "https://open.spotify.com/track/2t3aECDRZDsMN8858uYRar"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 205804,
       "name": "Balance",
       "url": "https://open.spotify.com/track/34ouZf9PLM1YyFbWAgtbM8"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 175423,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
@@ -596,6 +614,24 @@
       "duration_ms": 175171,
       "name": "Bowed Dreams",
       "url": "https://open.spotify.com/track/6GpJ4WmeHxyiMl1wla4s3c"
+    },
+    {
+      "album": {
+        "name": "Breath of the Earth",
+        "url": "https://open.spotify.com/album/1P0Y9kbSG1LCk804vC3plv"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Reverie",
+          "url": "https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186117,
+      "name": "Breath of the Earth",
+      "url": "https://open.spotify.com/track/1WZQXQmVCHzV6YnBVjGNWW"
     },
     {
       "album": {
@@ -722,7 +758,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 418285,
       "name": "Cellular Connection",
       "url": "https://open.spotify.com/track/6VLgAi4LEGmIZ2dzIeD2IU"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 195171,
       "name": "Cestrum Nocturnum",
       "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
@@ -1118,7 +1154,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 159500,
       "name": "Dawn stillness",
       "url": "https://open.spotify.com/track/6sSlBSEGhY6mRG5ZvW7B27"
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 183284,
       "name": "Designated Solitude",
       "url": "https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i"
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 193918,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x"
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 192380,
       "name": "Enhanced Focus",
       "url": "https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw"
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 151458,
       "name": "Gemstone",
       "url": "https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW"
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 137142,
       "name": "Harmony Sky",
       "url": "https://open.spotify.com/track/6llTeNGIl9BlpBWppvGUHs"
@@ -2051,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Howl at Night",
+        "url": "https://open.spotify.com/album/6OUOrvhAZdos5F3v3TnNbk"
+      },
+      "artists": [
+        {
+          "name": "Dayonas Dream",
+          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203684,
+      "name": "Howl at Night",
+      "url": "https://open.spotify.com/track/0ec9yOc1nC6MDw9eDWrAD1"
+    },
+    {
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 190000,
       "name": "In jouw armen",
       "url": "https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3"
@@ -2386,7 +2440,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 203353,
       "name": "Kalmte",
       "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
@@ -2764,7 +2818,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 177428,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX"
@@ -3142,7 +3196,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 213000,
       "name": "Our Secret",
       "url": "https://open.spotify.com/track/6Z4NvvryL9Af5gloYsvNMx"
@@ -3416,7 +3470,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 165639,
       "name": "Pure And Calm",
       "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
@@ -3528,7 +3582,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 230652,
       "name": "Rainfall",
       "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
@@ -3618,7 +3672,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 200400,
       "name": "Rejuvenation",
       "url": "https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6"
@@ -3816,7 +3870,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 192899,
       "name": "Sacred Spirit",
       "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
@@ -4086,7 +4140,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 163092,
       "name": "Shamanic",
       "url": "https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP"
@@ -4158,7 +4212,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 175178,
       "name": "Signs Of Life",
       "url": "https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ"
@@ -4698,7 +4752,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 193000,
       "name": "Sv\u00edt\u00e1n\u00ed",
       "url": "https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw"
@@ -4950,7 +5004,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 206764,
       "name": "Tranquil Meditation",
       "url": "https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv"
@@ -5022,7 +5076,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 137670,
       "name": "Triangulated Approval",
       "url": "https://open.spotify.com/track/2EcCTbAbBJiOx5iM9vvb5J"
@@ -5407,6 +5461,42 @@
     },
     {
       "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/6SoYA3Ay1qSWc14Ug5E9lR"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220549,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/0we7ueXlIbKRsfPkOuX9dW"
+    },
+    {
+      "album": {
+        "name": "Zense",
+        "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
+      },
+      "artists": [
+        {
+          "name": "Nagawa Meditation",
+          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177688,
+      "name": "Zense",
+      "url": "https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA"
+    },
+    {
+      "album": {
         "name": "\u661f\u661f\u4e4b\u706b\u53ef\u4ee5\u71ce\u539f - Where there is life, there is hope",
         "url": "https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw"
       },
@@ -5418,7 +5508,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 189374,
       "name": "\u661f\u661f\u4e4b\u706b\u53ef\u4ee5\u71ce\u539f - Where there is life, there is hope",
       "url": "https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO"

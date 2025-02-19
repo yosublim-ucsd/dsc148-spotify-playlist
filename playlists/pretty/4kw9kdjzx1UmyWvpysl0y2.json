@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125450,
+  "num_followers": 125444,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATrqOE/Sk2rgC2/mS2HwC5LXpa2h6S",
+  "snapshot_id": "AAATsWKGo0PNeWD0jH4KBBuy+p7GhEsy",
   "tracks": [
+    {
+      "added_at": "2025-02-18 16:09:58",
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/0bpxJRyDJ22ph6NOhHwpLB"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Deagon",
+          "url": "https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/71TPyvUHZO7tNTWjERvvwv"
+    },
+    {
+      "added_at": "2025-02-18 16:09:46",
+      "album": {
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
+    },
     {
       "added_at": "2025-02-14 15:56:01",
       "album": {
@@ -1195,46 +1235,6 @@
       "duration_ms": 248275,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/22rStFQ2WXKmD1HkVFJ4hJ"
-    },
-    {
-      "added_at": "2024-11-08 18:13:48",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/3J3ajVI0IhBSG8B1p0kwu7"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/0LSo5akCIlPEZdRp7nRP4d"
-    },
-    {
-      "added_at": "2024-11-07 16:14:49",
-      "album": {
-        "name": "Endless In Between",
-        "url": "https://open.spotify.com/album/7KZR8pFGa3dyCCK0bJkwK8"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Endless In Between",
-      "url": "https://open.spotify.com/track/63nPbxic2qf5nA4yicN4pg"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

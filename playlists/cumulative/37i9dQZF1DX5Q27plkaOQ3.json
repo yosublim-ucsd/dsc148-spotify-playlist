@@ -6205,6 +6205,24 @@
     },
     {
       "album": {
+        "name": "FFO",
+        "url": "https://open.spotify.com/album/2eTmqwXJAbl41hiK813t6k"
+      },
+      "artists": [
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2025-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "FFO",
+      "url": "https://open.spotify.com/track/2kooa34cnfCMuCUsnbMeEf"
+    },
+    {
+      "album": {
         "name": "Fight Milk",
         "url": "https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS"
       },
@@ -10190,7 +10208,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 234267,
       "name": "LOST MY MIND",
       "url": "https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j"

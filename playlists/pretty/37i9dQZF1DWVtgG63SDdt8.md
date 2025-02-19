@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Elle Limebear & Samm Henshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,694 likes - 97 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,717 likes - 97 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [You Won't Take Your Love](https://open.spotify.com/track/30bKsvM1Rn6wloVbdlkNuo) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [You Won't Take Your Love](https://open.spotify.com/album/7GhIzYJWsfR4i05KiE1lDj) | 3:37 |
 | 19 | [Heartbeat \- Live](https://open.spotify.com/track/5901lRKYg3yE8TSikghLsO) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Heartbeat \(Live\)](https://open.spotify.com/album/3e4yorS3h0tIJ93uvOcVK4) | 3:35 |
 | 20 | [I Got Love](https://open.spotify.com/track/2AX7wGgTBg3C6yiFNcoyXz) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [I Got Love](https://open.spotify.com/album/2ZzDouSxZLDsG7vjQ5dD8X) | 8:25 |
-| 21 | [Show Me Your Face / Yahweh](https://open.spotify.com/track/1kF9KGzK0N3jANOgrH2Vqt) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w) | [Show Me Your Face / Yahweh](https://open.spotify.com/album/120pXKz9TN4sU4qe84Fz9J) | 9:01 |
+| 21 | [Show Me Your Face / Yahweh](https://open.spotify.com/track/1kF9KGzK0N3jANOgrH2Vqt) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Show Me Your Face / Yahweh](https://open.spotify.com/album/120pXKz9TN4sU4qe84Fz9J) | 9:01 |
 | 22 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
 | 23 | [Oh Spirit Fall \(Reprise\) \- Live](https://open.spotify.com/track/5xjWxOi8LCHhmNGsMK80Qm) | [Lydia Ingegneri](https://open.spotify.com/artist/5zXH2BUYq9vVQQxPDU8fL8) | [Anchor \(Live\)](https://open.spotify.com/album/2WWyaNlLehj6fO7P6DdZaS) | 3:59 |
 | 24 | [You Keep on Blessing Me \(Live\)](https://open.spotify.com/track/4PfBmnE8hWWZiXFaN5Y3jX) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [You Keep on Blessing Me \(Live\)](https://open.spotify.com/album/1dStiU54rjBgfipEX78NJp) | 5:40 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 96 | [Jesus Name Above All Names](https://open.spotify.com/track/79tuKYXjZlM1G1b7nnHV1F) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Tom Eccleshall](https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1) | [Jesus Name Above All Names](https://open.spotify.com/album/1AorYGtFrnqrtLaFIs9BJ5) | 4:12 |
 | 97 | [He's My God](https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Joy Wharton](https://open.spotify.com/artist/5IJlUFsS8bZ8fTzHyB2SCd), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [He's My God](https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4) | 5:25 |
 
-Snapshot ID: `Z7GElwAAAACK7blzIIYx+IQRiwPZYfhm`
+Snapshot ID: `Z7GElwAAAADsKq8FxrLBNtnQvEFB27Gv`

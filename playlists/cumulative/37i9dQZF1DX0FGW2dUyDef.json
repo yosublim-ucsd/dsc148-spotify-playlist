@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "16-24",
+        "url": "https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "16-24",
+      "url": "https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi"
+    },
+    {
+      "album": {
         "name": "AM2TERDAM",
         "url": "https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C"
       },
@@ -28,7 +46,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 206464,
       "name": "AM2TERDAM",
       "url": "https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j"
@@ -68,7 +86,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -224,6 +242,24 @@
       "duration_ms": 126834,
       "name": "behzat \u00e7",
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
+    },
+    {
+      "album": {
+        "name": "Bekleyenim",
+        "url": "https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Bekleyenim",
+      "url": "https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR"
     },
     {
       "album": {
@@ -394,6 +430,36 @@
       "duration_ms": 201822,
       "name": "Bo\u015f Yere - Lan ben sana nerden tutuldum",
       "url": "https://open.spotify.com/track/1hlVcQCwARlFc8fqUb0Z01"
+    },
+    {
+      "album": {
+        "name": "BRAPAP",
+        "url": "https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "BRAPAP",
+      "url": "https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb"
     },
     {
       "album": {
@@ -626,7 +692,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -1012,7 +1078,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
@@ -1198,7 +1264,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 258466,
       "name": "\u0130\u00e7im Yanar",
       "url": "https://open.spotify.com/track/2iJSm2qKRujRjBeMAHUbKn"
@@ -1274,6 +1340,32 @@
       "duration_ms": 156000,
       "name": "KAPALI KAPILAR",
       "url": "https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj"
+    },
+    {
+      "album": {
+        "name": "KARANLIK",
+        "url": "https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU"
+      },
+      "artists": [
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Jumpa",
+          "url": "https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174678,
+      "name": "KARANLIK",
+      "url": "https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C"
     },
     {
       "album": {
@@ -1952,7 +2044,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -2115,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Yalan",
+        "url": "https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy"
+      },
+      "artists": [
+        {
+          "name": "Ceren Sagu",
+          "url": "https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "Yalan",
+      "url": "https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z"
+    },
+    {
+      "album": {
         "name": "YANKI X \u0130NT\u0130HAR",
         "url": "https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr"
       },
@@ -2240,6 +2350,24 @@
       "duration_ms": 169822,
       "name": "Zamans\u0131zd\u0131k",
       "url": "https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki"
+    },
+    {
+      "album": {
+        "name": "\u00c7atma Yarim",
+        "url": "https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177572,
+      "name": "\u00c7atma Yarim",
+      "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
     },
     {
       "album": {

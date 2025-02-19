@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Bon Iver
 
-547 songs - 1 day 7 hr 42 min
+548 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Supermarket Fridays](https://open.spotify.com/track/01f2MOPf7mAIJBocrM7nKo) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Supermarket Fridays](https://open.spotify.com/album/1r9zHUtC13FtsOY601Qud2) | 4:02 | 2025-01-02 | 2025-02-14 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-27 | 2024-08-16 |
 | [Supersonic P\*$$y \(Better Than Your Dreams\) \- Shadi G Remix](https://open.spotify.com/track/3RU2luMdAh9w58OPLwcp8R) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr), [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D) | [Supersonic P\*$$y \(Better Than Your Dreams\) \[Shadi G Remix\]](https://open.spotify.com/album/0wT3e81qEIN3kVDpeWjq1q) | 2:48 | 2024-10-24 | 2025-01-17 |
+| [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 | 2025-02-13 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 |  |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2025-01-17 |
 | [Testimony](https://open.spotify.com/track/1ldSOIzsgzdsTx5RR6m7Fr) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [XTHALIA](https://open.spotify.com/artist/4CMe9rojupD9kJlvxP3FoC) | [Testimony](https://open.spotify.com/album/4uA73SXe7ACFznfFL4mtNt) | 3:19 | 2024-10-17 | 2025-01-17 |

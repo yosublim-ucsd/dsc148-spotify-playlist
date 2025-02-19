@@ -4313,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu"
+      },
+      "artists": [
+        {
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174762,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc"
+    },
+    {
+      "album": {
         "name": "Weyes",
         "url": "https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV"
       },

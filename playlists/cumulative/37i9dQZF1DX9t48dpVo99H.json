@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "741 Hz Ripple Unbound",
+        "url": "https://open.spotify.com/album/01Gx9PWbj99xOTe5g6V9AB"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Clyde",
+          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "741 Hz Ripple Unbound",
+      "url": "https://open.spotify.com/track/5BYW3hfPA3m4yNCZFNAWFj"
+    },
+    {
+      "album": {
         "name": "741 Hz Spectral Journey",
         "url": "https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY"
       },

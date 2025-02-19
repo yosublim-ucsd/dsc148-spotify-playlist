@@ -4,7 +4,7 @@
 
 > New music by Ozuna & Kapo, De La Rose, Neton Vega, and more! Updates every Friday.
 
-8,919 songs - 19 day 10 hr 46 min
+8,920 songs - 19 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4276,7 +4276,8 @@
 | [Lengua de serpiente](https://open.spotify.com/track/5NBOefRH76s5hiVghfQzzi) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Lengua de serpiente](https://open.spotify.com/album/26PJbpqSoi13k3Mb3W5pcB) | 3:16 | 2022-09-16 | 2022-09-24 |
 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 | 2022-07-08 | 2022-07-16 |
 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 | 2023-03-24 | 2023-04-01 |
-| [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/track/5BANKpqtQx6KKDHrKuNCdX) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/3LMiSHSN5fvQWbuGnSOBkM) | 3:26 | 2025-02-14 |  |
+| [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/track/0QCRgt9in3ASJdBLTXCwki) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/album/2tQMsKb848JIqbw5hbsFLm) | 3:26 | 2025-02-18 |  |
+| [Lentamente \(Cada Maldito Sentimiento\)](https://open.spotify.com/track/5BANKpqtQx6KKDHrKuNCdX) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/3LMiSHSN5fvQWbuGnSOBkM) | 3:26 | 2025-02-14 | 2025-02-19 |
 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 | 2022-09-30 | 2022-10-08 |
 | [Lento](https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Lento](https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB) | 3:49 | 2024-10-25 | 2024-11-02 |
 | [lento](https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [idek](https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1) | 2:32 | 2024-03-01 | 2024-03-09 |

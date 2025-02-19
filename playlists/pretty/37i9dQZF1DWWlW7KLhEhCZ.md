@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Raffa Moreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,410 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,390 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 40 | [CALVIN KLEIN](https://open.spotify.com/track/2SxnF7ibCTxMihwyiW7znz) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:55 |
 | 41 | [DOT](https://open.spotify.com/track/4yP1jaoSAFzcfMm4uAbnzs) | [FYE](https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [DOT](https://open.spotify.com/album/5MMOY8QodxVK4eHbYlKBDr) | 2:51 |
 | 42 | [Tentei](https://open.spotify.com/track/0Bx1xUinWUMVRbKICzvNsC) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Tentei](https://open.spotify.com/album/2KttO7mQz9KR0Oe0v7xPyI) | 2:34 |
-| 43 | [PISTA HOJE](https://open.spotify.com/track/0f3d1yMLT3FLn6aPbOy6uq) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [EXPLÍCITO](https://open.spotify.com/album/5vqj1COIKDcRq9Yo2U5Y4F) | 2:17 |
+| 43 | [PISTA HOJE](https://open.spotify.com/track/0f3d1yMLT3FLn6aPbOy6uq) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M), [Joe Challen](https://open.spotify.com/artist/0A0eAyHf5R7h1sdwrpAOwo) | [EXPLÍCITO](https://open.spotify.com/album/5vqj1COIKDcRq9Yo2U5Y4F) | 2:17 |
 | 44 | [Canino](https://open.spotify.com/track/1ZIgNqkdknrvq9LsiFiXbh) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Tuti](https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM) | [2 L3Trinha \(Deluxe\)](https://open.spotify.com/album/57kZZd9aelpP8EDZrJ0Whl) | 2:45 |
 | 45 | [Campari](https://open.spotify.com/track/7apw6xmVZysUaJEJZe7auL) | [Oguto](https://open.spotify.com/artist/4X9bcBEsoeNnp9QKhLMyEQ), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [Campari](https://open.spotify.com/album/0qQ8gGQeBAm7U8mfzhWU41) | 2:48 |
 | 46 | [RICO DO QUE IMPORTA](https://open.spotify.com/track/2y4DfIV90JWA6aRVd1uJIe) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [RICO DO QUE IMPORTA](https://open.spotify.com/album/647An87CGnenMynLaySRTs) | 1:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Ferrari Black](https://open.spotify.com/track/1dIREBUCmeo8gjoBPyTqiz) | [CrisMc](https://open.spotify.com/artist/4aSoBq6Ds3OGc7mxg5IOtb), [KássioMc](https://open.spotify.com/artist/533xmMd9PM2FzOUMCn4l4O), [bg](https://open.spotify.com/artist/6PD9T2bqixUqEgcqr7OuNo) | [Ferrari Black](https://open.spotify.com/album/0y3HANHKi9dx3iSe0vbaiU) | 3:36 |
 | 74 | [Homem Medo Ⅱ](https://open.spotify.com/track/59JXfTDDT8QMUdLYyquVJi) | [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB), [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [Homem Medo Ⅱ](https://open.spotify.com/album/0O9mTUYANMuqnOIJ111yX3) | 2:51 |
 
-Snapshot ID: `Z66x/wAAAADZgOJjb+bP99zGz5Dqhz2D`
+Snapshot ID: `Z66x/wAAAAAyq1UZQffFNVtoSZ5Cxeif`

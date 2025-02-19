@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: indigo la End",
+  "description": "The biggest rock artists in Japan right now!  Cover: ASIAN KUNG-FU GENERATION",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/5h7QI5jthxlztdUzUMOptj"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Beautiful Stars",
+      "url": "https://open.spotify.com/track/12tjX1CpZYr7uYQoU2PW0e"
+    },
+    {
+      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo"
       },
@@ -1813,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "CHAMPiONS",
+        "url": "https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "CHAMPiONS",
+      "url": "https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5"
+    },
+    {
+      "album": {
         "name": "Change and Vanish",
         "url": "https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne"
       },
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 171093,
       "name": "Cheep Hero",
       "url": "https://open.spotify.com/track/6rQOoCmuWJqSUuvpPN2bpu"
@@ -3070,6 +3106,24 @@
       "duration_ms": 238412,
       "name": "Everything With You",
       "url": "https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t"
+    },
+    {
+      "album": {
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/7D9c3Csn8B0qtw7I0JCTPo"
+      },
+      "artists": [
+        {
+          "name": "INABA / SALAS",
+          "url": "https://open.spotify.com/artist/2jrmtlq6cZjytdgG8xW6BG"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217234,
+      "name": "EVERYWHERE",
+      "url": "https://open.spotify.com/track/3o9IoxPIqhflWJjR0Tiyo0"
     },
     {
       "album": {
@@ -11266,7 +11320,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 225826,
       "name": "The Great Time Killer",
       "url": "https://open.spotify.com/track/2TWxpuIdzsvYwC4WsJBMAZ"
@@ -11634,7 +11688,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 228400,
       "name": "todayyyyy",
       "url": "https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03"
@@ -15230,7 +15284,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 194226,
       "name": "\u30af\u30a4\u30f3\u30c6\u30c3\u30c8",
       "url": "https://open.spotify.com/track/2WL0ALOUe9NX6W6NwEC9Sa"
@@ -21140,7 +21194,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 203909,
       "name": "\u829d\u5c45\u306e\u7d42\u7109",
       "url": "https://open.spotify.com/track/6wTfkkgv9GyWPsCuaXwQ2Z"

@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 131684,
       "name": "Dandelion Lullaby",
       "url": "https://open.spotify.com/track/08qJ7igtZJPpvS1kNZz9yV"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 183602,
       "name": "Deux",
       "url": "https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Fiore",
+        "url": "https://open.spotify.com/album/3uNpgppb88r1tYCOUyIQ2h"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144045,
+      "name": "Fiore",
+      "url": "https://open.spotify.com/track/0WawGuRGr9dUuAL2ifURnx"
+    },
+    {
+      "album": {
         "name": "Fjord",
         "url": "https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs"
       },
@@ -852,6 +870,24 @@
       "duration_ms": 157500,
       "name": "Fjord",
       "url": "https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj"
+    },
+    {
+      "album": {
+        "name": "fleur au vent",
+        "url": "https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156130,
+      "name": "fleur au vent",
+      "url": "https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI"
     },
     {
       "album": {
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 138797,
       "name": "Heavens Night",
       "url": "https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV"
@@ -1342,7 +1378,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 148043,
       "name": "Moon and Stars",
       "url": "https://open.spotify.com/track/2OA9riU1GjVDo02j8REb3X"
@@ -1472,6 +1508,24 @@
       "duration_ms": 129000,
       "name": "Olivanders",
       "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
+    },
+    {
+      "album": {
+        "name": "Overseas",
+        "url": "https://open.spotify.com/album/0hflEhJMAriEiH7ycnM8kn"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149436,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/6ytsH0ChHAoR4Se9vgACwZ"
     },
     {
       "album": {
@@ -1612,7 +1666,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48"
@@ -1886,7 +1940,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 123500,
       "name": "Saying Things",
       "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
@@ -1976,7 +2030,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 166350,
       "name": "Serene Lullaby",
       "url": "https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K"
@@ -2181,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Soothing Solitude",
+        "url": "https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO"
+      },
+      "artists": [
+        {
+          "name": "Alisa Moon",
+          "url": "https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Soothing Solitude",
+      "url": "https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN"
+    },
+    {
+      "album": {
         "name": "Stars over Salzburg",
         "url": "https://open.spotify.com/album/1OuTfuGjS8KZaoX8geI1gx"
       },
@@ -2192,7 +2264,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 141844,
       "name": "Sophie's Dream",
       "url": "https://open.spotify.com/track/0NuArIxWB7jwUpukJX48cb"
@@ -2408,7 +2480,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 140986,
       "name": "Through The Fields",
       "url": "https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z"

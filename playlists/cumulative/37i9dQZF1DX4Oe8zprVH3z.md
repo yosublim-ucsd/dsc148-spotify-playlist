@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-158 songs - 7 hr 49 min
+159 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Crystal Bowl 340 Hz \(Soundbath \- Nature noise\)](https://open.spotify.com/track/6LKhzu6cNQhMyoe3TOVxR8) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Crystal Bowl Chakras](https://open.spotify.com/album/03bi3Pw2YKjAzFNAY0lbaM) | 2:20 | 2023-04-06 |  |
 | [Crystal Healing](https://open.spotify.com/track/6SmrMgr29JRgaQT8V8Z2l0) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [Crystal Healing](https://open.spotify.com/album/7m0z59Tcmyw4onj9yZgmFw) | 2:54 | 2022-12-12 |  |
 | [D E F Sharp Bowl \- Rivers & Creeks](https://open.spotify.com/track/4m77sJnHAWNNs4Ed1iUBQC) | [Kristina Loveflower](https://open.spotify.com/artist/0DksfCfY3vEEIgwBRlmNkp) | [Baby Sleep Bowl \(Rivers & Creeks\)](https://open.spotify.com/album/2nt9ATyTtEKCymqnkbdKoD) | 2:32 | 2022-12-12 |  |
-| [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2022-12-12 |  |
+| [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2022-12-12 | 2025-02-19 |
 | [Des Roches Ritual](https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Des Roches Ritual](https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7) | 3:33 | 2024-03-20 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2022-12-12 | 2023-09-02 |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-12-12 |  |
@@ -60,6 +60,7 @@
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-12-12 | 2024-06-04 |
 | [Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/4du82N9n27ykNxac9eoYEN) | [Self Lovers](https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC) | [Beyond](https://open.spotify.com/album/3UG51jaBaJ1ylORsICu3eg) | 3:50 | 2022-12-12 | 2024-06-04 |
 | [Healing Bowls](https://open.spotify.com/track/0A8FaTLnTktPGdT445LvOl) | [Earth Tone](https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj) | [Healing Bowls](https://open.spotify.com/album/1ZiNUgU0nlnDWiY9IX0B8X) | 3:33 | 2024-03-20 |  |
+| [Healing Salve](https://open.spotify.com/track/7CkVOb36IuH1f3EuRZLelV) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Healing Salve](https://open.spotify.com/album/49xub4BlrA9hKQ9hKlaW0d) | 3:14 | 2025-02-18 |  |
 | [Healing Waters](https://open.spotify.com/track/4ddsjkH75YM1Yl62v4YLJ7) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Healing Waters](https://open.spotify.com/album/6LVZrLGKA5XfiFvSy4v5Xo) | 2:37 | 2023-08-02 |  |
 | [Healing Winds \(Nature\)](https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds \(Nature\)](https://open.spotify.com/album/2CdswrRTCsE83LvoZYNV3h) | 3:02 | 2024-03-20 |  |
 | [Heavenly Harmony](https://open.spotify.com/track/51HmqenuPlvudo20PcSxqB) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Heavenly Harmony](https://open.spotify.com/album/0UNyqJLmNwlDwb5IxXaGeo) | 3:12 | 2023-08-02 |  |
@@ -137,7 +138,7 @@
 | [Starry Night](https://open.spotify.com/track/0VfBUuUgvUfkpxujoNyHuv) | [Siyotanka](https://open.spotify.com/artist/6z7aFfuglPapY8jOgkpuH6) | [Starry Night](https://open.spotify.com/album/3dwR4XJPm8u2mWTohgbBgo) | 5:12 | 2023-02-13 | 2024-01-26 |
 | [Stillness](https://open.spotify.com/track/08Gpe8g0L8fI7gkLipbusB) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Stillness](https://open.spotify.com/album/35pEhP9EXlnw7BGGkdDlPM) | 3:04 | 2023-10-13 |  |
 | [Stream of Tranquility](https://open.spotify.com/track/4VqtWOHhhdbklfPH8h0QkA) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Stream of Tranquility](https://open.spotify.com/album/6K14NQ5VoxutX1nyUHdetu) | 3:12 | 2024-12-20 |  |
-| [Sunset By The Lake](https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Sunset By The Lake](https://open.spotify.com/album/3kuF2vn6OWgCmjHvO8FnSe) | 2:38 | 2023-10-26 |  |
+| [Sunset By The Lake](https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Sunset By The Lake](https://open.spotify.com/album/3kuF2vn6OWgCmjHvO8FnSe) | 2:38 | 2023-10-26 | 2025-02-19 |
 | [Tamber](https://open.spotify.com/track/48d93hJAYO1AXulXARqTYO) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Tamber](https://open.spotify.com/album/6Q582niAm4psDFt9W8Lqyo) | 3:04 | 2024-12-20 |  |
 | [Temptations](https://open.spotify.com/track/4rUp0Wj4JKnN0YyNKbZfz5) | [Anapanasati](https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M) | [Temptations](https://open.spotify.com/album/0RruKNh8Ep7k5FmNy8cLp6) | 2:22 | 2025-02-07 |  |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-02-13 |  |
@@ -163,7 +164,7 @@
 | [Water Of Life](https://open.spotify.com/track/7pfxPDZx3Yyz8Kgw74yyjJ) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Water Of Life](https://open.spotify.com/album/2gtcrLQjRw39d46pS8BRSn) | 2:36 | 2024-12-20 |  |
 | [Waterfall Rhythm](https://open.spotify.com/track/6d3wdsVgFYKoep39EG79II) | [Sven Dawa Sherpa](https://open.spotify.com/artist/33ZHRfd906t180hJyP1y2A) | [Waterfall Rhythm](https://open.spotify.com/album/3NLKDYBXb8Uu1j8FVnABR4) | 1:50 | 2022-12-12 | 2023-09-02 |
 | [Where Water Flows](https://open.spotify.com/track/6eaW0e9LlYcWtvvzkrmZ9E) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Where Water Flows](https://open.spotify.com/album/0WIe9rx99rBd7VWDZ4veCG) | 2:50 | 2023-03-20 | 2024-10-02 |
-| [Whispering Dryad](https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:19 | 2022-12-12 |  |
+| [Whispering Dryad](https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:19 | 2022-12-12 | 2025-02-19 |
 | [With the Flow](https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [With the Flow](https://open.spotify.com/album/1yKVBgjfkVmAPPsRhGEBmi) | 3:02 | 2024-03-20 |  |
 | [Zen Forest \(Binaural\)](https://open.spotify.com/track/7H6ckuFM3xcPHxtjDS6iyp) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Binaural Drones with Nature Textures](https://open.spotify.com/album/2vVYNRxKXoT1eaxDfuDECm) | 3:07 | 2022-12-12 |  |
 

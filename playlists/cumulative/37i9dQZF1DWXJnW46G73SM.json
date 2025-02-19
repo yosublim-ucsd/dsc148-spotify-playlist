@@ -189,6 +189,32 @@
     },
     {
       "album": {
+        "name": "3Ala Bali",
+        "url": "https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE"
+      },
+      "artists": [
+        {
+          "name": "amadio",
+          "url": "https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj"
+        },
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        },
+        {
+          "name": "Tag",
+          "url": "https://open.spotify.com/artist/2pPyRxqHb4PHqziNGNX89w"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "3Ala Bali",
+      "url": "https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF"
+    },
+    {
+      "album": {
         "name": "3ALA BALI",
         "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
       },
@@ -13632,8 +13658,8 @@
       },
       "artists": [
         {
-          "name": "Salah Tayr",
-          "url": "https://open.spotify.com/artist/4XSPo8v5n4oGPc7uw1YZS9"
+          "name": "Ahmedythegr8",
+          "url": "https://open.spotify.com/artist/72v5C9amne1zphSU3n7H3u"
         }
       ],
       "date_added": "2025-02-07",
@@ -23110,7 +23136,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 257571,
       "name": "\u0644\u0623 \u062b\u0648\u0627\u0646\u0649",
       "url": "https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK"

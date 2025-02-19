@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Klaudia Daliva
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,548 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,545 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 44 | [Mermaids](https://open.spotify.com/track/3Ufjss8NivX7uIHacEy5Kh) | [Pan Ba](https://open.spotify.com/artist/4zMN5xAFsBHA2idVpUiag1) | [Mermaids](https://open.spotify.com/album/5ZtMtdwknP7bKF7D75hBgj) | 2:46 |
 | 45 | [Gdzie jesteś?](https://open.spotify.com/track/6yK1ZycVo0MosTE3lBB29c) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Gdzie jesteś?](https://open.spotify.com/album/3voZHXvAISl9CcTrlKmkKI) | 2:48 |
 | 46 | [Król palantów](https://open.spotify.com/track/01n46UYnSknCIMcLUEpuTY) | [Mademoiselle Dorota](https://open.spotify.com/artist/3dKM1lkTw0KpKBxl6KF6nO), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Król palantów](https://open.spotify.com/album/609KkKRwN5PxLAh99Dehe5) | 2:54 |
-| 47 | [Pustka](https://open.spotify.com/track/2xo5IWekHON3WMuPdExWeE) | [Natalia Szczypuła](https://open.spotify.com/artist/67tEvvPeEJgi7Xqt5AWWNP), [Olek Miśkiewicz](https://open.spotify.com/artist/0eZCqaXEK2ym3Ci7hH2rtH) | [Pustka](https://open.spotify.com/album/4ONIuCTx0hQ2KqLdvVOnKk) | 3:28 |
+| 47 | [Pustka](https://open.spotify.com/track/2xo5IWekHON3WMuPdExWeE) | [Natalia Szczypuła](https://open.spotify.com/artist/67tEvvPeEJgi7Xqt5AWWNP), [Olek Miśkiewicz](https://open.spotify.com/artist/022h6kQiV9cyIndF8QdXFz) | [Pustka](https://open.spotify.com/album/4ONIuCTx0hQ2KqLdvVOnKk) | 3:28 |
 | 48 | [Płynę](https://open.spotify.com/track/0fl1GG395icBH50RuGM93R) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE), [AUKSO Orkiestra Kameralna Miasta Tychy](https://open.spotify.com/artist/1MsQpt1ZdDDxma03wozIXS) | [Płynę](https://open.spotify.com/album/6RnfdSXx6iLFPrIaXYLa5v) | 3:57 |
 | 49 | [Zwierciadło](https://open.spotify.com/track/129TCiLRD80ck8JcEu0JmC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Zwierciadło](https://open.spotify.com/album/2E941hH81YIOPLEnu5YsaQ) | 2:36 |
 | 50 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 |

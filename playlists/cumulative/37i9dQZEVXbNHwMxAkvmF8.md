@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,414 songs - 3 day 2 hr 48 min
+1,415 songs - 3 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,6 +791,7 @@
 | [Mind1](https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:11 | 2022-05-21 |  |
 | [MINDEN KUTYA A MENNYBE JUT](https://open.spotify.com/track/3wQfiLD0Jyqxml3azemORz) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA), [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 1:49 | 2024-03-09 | 2024-03-16 |
 | [Minden Éjjel \- Bonus Track](https://open.spotify.com/track/5w0ZoKW8mjoATVqofPV2Oy) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 3:23 | 2023-02-24 | 2023-02-27 |
+| [Mindenen túl](https://open.spotify.com/track/370EMCCloJejSkJdgfQgxf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV) | 2:21 | 2025-02-18 |  |
 | [Mindenen túl](https://open.spotify.com/track/4QUEpIpyYXJhk8LB2js3Vy) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 1\)](https://open.spotify.com/album/19gTH12mvxBSHgiSjOfdpq) | 2:21 | 2025-01-13 | 2025-02-02 |
 | [Mini Krúbi](https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [III\. Krúbi](https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq) | 4:32 | 2023-11-18 | 2023-12-14 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-16 |
@@ -1165,7 +1166,7 @@
 | [szosziazi](https://open.spotify.com/track/4bHXbXDT0p9exqBsW49fDo) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [szosziazi](https://open.spotify.com/album/1y3BEzFK1hJ4FwOlpwKJVH) | 3:26 | 2023-03-08 | 2023-05-03 |
 | [Százszorszebb](https://open.spotify.com/track/7fP6QaybUJQUncS89dFlyk) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Szalai](https://open.spotify.com/artist/7kDEAMv0Mem8bBG4vwoENq), [Susa](https://open.spotify.com/artist/2SKopMv2qSNLLxFI7X4tgZ) | [Százszorszebb](https://open.spotify.com/album/2ogeOru6GjobuWQzUJPi6z) | 3:44 | 2024-12-21 | 2024-12-23 |
 | [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2023-04-08 | 2024-01-05 |
-| [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-02-04 |  |
+| [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-02-04 | 2025-02-19 |
 | [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 | 2023-05-13 | 2024-04-03 |
 | [Szélcsend](https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Szélcsend](https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP) | 2:38 | 2023-03-31 | 2023-05-14 |
 | [SZÍNVAK](https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [SZÍNVAK](https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl) | 3:18 | 2022-10-31 | 2023-11-16 |

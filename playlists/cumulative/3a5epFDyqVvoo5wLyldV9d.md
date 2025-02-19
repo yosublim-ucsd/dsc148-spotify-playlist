@@ -4,7 +4,7 @@
 
 > 
 
-830 songs - 2 day 17 hr 25 min
+832 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Bar Mediterraneo](https://open.spotify.com/track/3gfULpXswOBwrEcJB7Q9On) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:04 | 2023-01-06 |  |
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2023-04-03 |  |
 | [Barcelona](https://open.spotify.com/track/6iw40hlRf77ti3ikBTMzOf) | [Giulia Y Los Tellarini](https://open.spotify.com/artist/5FGRi6VEnxlHSmeZggFbu8) | [Eusebio](https://open.spotify.com/album/1qqtVcmjqZWWon6M2eIU6A) | 2:25 | 2020-07-26 |  |
+| [Batkalem Gad](https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Batkalem Gad](https://open.spotify.com/album/11HyvAF5XrYmjuR7kUoO3Q) | 4:36 | 2025-02-19 |  |
 | [Belly Dance](https://open.spotify.com/track/38h5AatRyCvPcWdRdfRjyG) | [Amina](https://open.spotify.com/artist/0YjVZkuo6DCP2gx34ZM2q2) | [Yalil](https://open.spotify.com/album/61NxoE3TkhvLGc5VZI5LXN) | 4:49 | 2023-11-19 |  |
 | [Bia Lulucha](https://open.spotify.com/track/2ddfCiC26mGInDqeKmQwNz) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [La diva aux pieds nus](https://open.spotify.com/album/68ainFkjoFnPRN1y9pHugc) | 5:02 | 2020-09-23 |  |
 | [Big Baglama](https://open.spotify.com/track/142sQCB0AlTGMF5OcB9XMY) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Şatellites](https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK) | 3:31 | 2022-06-28 |  |
@@ -403,6 +404,7 @@
 | [Love Words](https://open.spotify.com/track/48ZhKhbBQFF5hTVvWRHZCa) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 4:42 | 2020-04-11 |  |
 | [Loving You](https://open.spotify.com/track/0b3sXNCllKHYn6SqDkK5BS) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 9:28 | 2022-08-02 |  |
 | [Lui E Lei](https://open.spotify.com/track/7CwBlDpfPEpeAmAO2fE1Ao) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La Legge Dei Gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:34 | 2020-09-20 |  |
+| [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 | 2025-02-18 |  |
 | [Ma Be Ham Nemiresim](https://open.spotify.com/track/0i27GYpTwao1Yyqn8pv3z3) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Nimeh Gomshodeh Man](https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC) | 5:36 | 2023-03-15 |  |
 | [Ma Huno](https://open.spotify.com/track/0E13ER49Am3UzRpahU5tk4) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Coming Home](https://open.spotify.com/album/4t2suyEBeShOXvvzQS4hcV) | 5:43 | 2023-03-26 |  |
 | [Ma Tfel](https://open.spotify.com/track/0pKxrkFh8fxPKpkO29MYmi) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:25 | 2023-10-02 |  |
@@ -670,7 +672,7 @@
 | [Song Of The Sleeping Forest](https://open.spotify.com/track/0zNnrjAohPi8ghYD3t5HIX) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 4:19 | 2022-02-28 |  |
 | [Sono pronto](https://open.spotify.com/track/5A9oF0HJJC8W63AjMGKzV5) | [Roberto Colombo](https://open.spotify.com/artist/3WBrljf7sExe9kbdahLAd5) | [Sfogatevi bestie](https://open.spotify.com/album/5RDyQvTa2C354c7tnj1iha) | 2:19 | 2023-04-03 |  |
 | [Sorriso Dela](https://open.spotify.com/track/4JEXDH5Slf6MEQvN5qj4Rz) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Sonhos E Memórias \- 1941 / 1972](https://open.spotify.com/album/0UFcljWRWT4oEpls4E1l46) | 3:07 | 2022-11-08 |  |
-| [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 | 2024-01-25 |  |
+| [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 | 2024-01-25 |  |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-08-27 |  |
 | [South Sudan](https://open.spotify.com/track/0FgyQlCRZb6j5uT5jrrzy9) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Unity](https://open.spotify.com/album/66kjRjllHcoW1aXmC5yMgQ) | 8:05 | 2021-02-24 |  |
 | [Speed Racer](https://open.spotify.com/track/5kZbymDUiBrZu6QLddJOhL) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:02 | 2021-06-01 |  |

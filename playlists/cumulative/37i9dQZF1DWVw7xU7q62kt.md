@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-406 songs - 19 hr 23 min
+407 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Complete](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Complete](https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6) | 3:37 | 2023-08-22 | 2024-03-08 |
 | [Concept of Jazz](https://open.spotify.com/track/5Ott1vy68HeQh2fVvLQORX) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Concept of Jazz](https://open.spotify.com/album/1XWEJyyh5XWeMrjRObeVC5) | 2:09 | 2025-02-14 |  |
 | [Conflicting](https://open.spotify.com/track/7sjJb0GmthGYl8TXGzwh4n) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Conflicting](https://open.spotify.com/album/0LBqMg7aOOg2FYjjY4NmdN) | 2:55 | 2025-02-14 |  |
+| [Conscious Dream](https://open.spotify.com/track/1EFZlRC3hOeFbN2mmxs6pv) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Conscious Dream](https://open.spotify.com/album/0pyn3nt7UTFH5Jv8s9PdYy) | 1:32 | 2025-02-14 |  |
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-08-23 |  |
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
@@ -322,7 +323,7 @@
 | [Sonder](https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Sonder](https://open.spotify.com/album/6Z6OX5DULjWFKq8lZj76EX) | 2:01 | 2025-01-24 | 2025-02-15 |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
 | [Soul Garden](https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Soul Garden](https://open.spotify.com/album/2ojpfqyVlSteol0iPPRbGG) | 2:24 | 2024-12-13 |  |
-| [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |
+| [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 | 2025-02-19 |
 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 | 2024-09-13 |  |
 | [Speakeasy](https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Speakeasy](https://open.spotify.com/album/0qcEeZzloAY2Bn6CQjzBcZ) | 1:48 | 2024-12-13 |  |
 | [Speaker](https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Speaker](https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn) | 2:03 | 2023-08-22 |  |

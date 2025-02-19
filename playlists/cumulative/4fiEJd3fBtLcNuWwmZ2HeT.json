@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "completion",
+        "url": "https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo"
+      },
+      "artists": [
+        {
+          "name": "Megurimeguru",
+          "url": "https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129072,
+      "name": "completion",
+      "url": "https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH"
+    },
+    {
+      "album": {
         "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
       },

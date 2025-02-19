@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: KWN & Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,853 likes - 199 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,929 likes - 199 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 198 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 199 | [FALLING \(IN PLACE\)](https://open.spotify.com/track/0tCd1wfXWkZsWB8mRop3B2) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [IT MUST BE LOVE](https://open.spotify.com/album/3JOGpP6VA7wEPiWcsDKEss) | 2:11 |
 
-Snapshot ID: `Z67aWQAAAAAY8JzZf02WfAziNt+ZM7MS`
+Snapshot ID: `Z67aWQAAAADbuKbHH6Kp30gKrFlhZ4xw`

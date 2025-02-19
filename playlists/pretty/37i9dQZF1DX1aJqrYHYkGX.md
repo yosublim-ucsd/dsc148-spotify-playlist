@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,617 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,692 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 83 | [Morning Healing](https://open.spotify.com/track/5y391bgrSpwr54n5Xwr2z6) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:12 |
 | 84 | [Autumn Moon Lullaby](https://open.spotify.com/track/0jD5bJEiiFwKeCKvL9Wvaz) | [Tri Nguyen](https://open.spotify.com/artist/5svAezhgWghJK0KaFgcf0J), [Buynta Goryaeva](https://open.spotify.com/artist/5rEEug0EEtuHzGqgX3dIbO), [Iryna Topolnitska](https://open.spotify.com/artist/29rG1jJMlyyDoThYBnahln), [Caroline Berry](https://open.spotify.com/artist/2g2cbCYIa6gk39PMxS24J9), [Dima Tsypkin](https://open.spotify.com/artist/14gDdc1auGtMntQQ69cbMC) | [The Art of the Vietnamese Zither](https://open.spotify.com/album/3ptY5gi8UboBVtBvJqxszv) | 4:06 |
 
-Snapshot ID: `Z5eixAAAAADx9IM07wuVqr2QVhn4/gU/`
+Snapshot ID: `Z5eixAAAAACJZPLTJLYZL1rXDDSE7tv9`

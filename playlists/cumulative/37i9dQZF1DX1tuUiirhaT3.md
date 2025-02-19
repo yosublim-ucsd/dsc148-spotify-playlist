@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-355 songs - 18 hr 30 min
+356 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Ringlo](https://open.spotify.com/track/4ARkXV21WeehAaRFhGNCW1) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Serenity](https://open.spotify.com/album/6RAAqB52NsotO2pWcsBH74) | 2:13 | 2022-07-22 | 2024-04-02 |
 | [Ringlo](https://open.spotify.com/track/7nIeAAVVaug5sJqCADGDuw) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Serenity](https://open.spotify.com/album/6F8YYRYpK7XvPhfpQUmxi9) | 2:13 | 2021-12-17 | 2022-07-29 |
 | [Ripples](https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu) | [Cotton Duo](https://open.spotify.com/artist/1kIGV2gyUr4qbx4o1jHVZ6) | [Ripples](https://open.spotify.com/album/4mKdlYkk85ECsIpO2CIBeu) | 2:05 | 2021-12-17 | 2024-04-02 |
+| [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 |  |
 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 | 2022-06-24 |  |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-02-05 |  |
 | [Sacred Flute](https://open.spotify.com/track/2PxEmKGDlIaPKK1nqEv97F) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Sacred Flute](https://open.spotify.com/album/7dMMLqXgYs9fnoR4wy6FRQ) | 2:15 | 2023-10-04 |  |
@@ -290,7 +291,7 @@
 | [Sinergia](https://open.spotify.com/track/0iBu4dSNpYnbaHjJL92LrO) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Sinergia](https://open.spotify.com/album/3RjsEGVnhEn38KrWoiouLV) | 2:27 | 2024-04-01 |  |
 | [Sleeping Moons \- Sound Bath](https://open.spotify.com/track/4G6yXGixVP0L8y7H7S7VAC) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:41 | 2022-09-30 |  |
 | [Slow Mind Down](https://open.spotify.com/track/54FbTXlSUxVbW9GzdqeTTb) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:09 | 2021-12-17 | 2023-03-18 |
-| [Slow Water](https://open.spotify.com/track/0FxXYM7iJBt3BQk72FkWh2) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Slow Water](https://open.spotify.com/album/48X7nxWrIIjaYxmSqr3M7g) | 3:11 | 2023-08-11 |  |
+| [Slow Water](https://open.spotify.com/track/0FxXYM7iJBt3BQk72FkWh2) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Slow Water](https://open.spotify.com/album/48X7nxWrIIjaYxmSqr3M7g) | 3:11 | 2023-08-11 | 2025-02-19 |
 | [Soixante Forest](https://open.spotify.com/track/24IeEGwVyVsIWZXg3c6JTX) | [Drew\-10](https://open.spotify.com/artist/0Xlsc8iACDFB2p9Y0XT6qs) | [Soixante Forest](https://open.spotify.com/album/2n4PRDmk2gfcsmtPTl5mGJ) | 2:46 | 2024-04-01 |  |
 | [Solemn Flight](https://open.spotify.com/track/0krOu7GP4oAfj5dQUxvUcM) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:30 | 2021-12-17 | 2024-04-02 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-08-15 | 2024-11-21 |

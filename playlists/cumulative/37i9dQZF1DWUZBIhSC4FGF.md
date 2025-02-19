@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-121 songs - 7 hr 25 min
+122 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-05-19 |  |
 | [News From New Zealand](https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:13 | 2022-05-19 |  |
 | [Nirmal](https://open.spotify.com/track/73sksFmJyTHnjnHTDAoTrU) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Nirmal](https://open.spotify.com/album/1viztqNgbQ3xO8ALlvMf2Y) | 2:44 | 2025-02-05 |  |
+| [Nomad Sunset](https://open.spotify.com/track/7i4vfxYPhQOAKhqx693w8U) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset](https://open.spotify.com/album/7cCqGm4KWivC0lbOR3X752) | 3:24 | 2025-02-18 |  |
 | [On a Different River](https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [On a Different River](https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK) | 3:51 | 2023-01-13 |  |
 | [Orientale](https://open.spotify.com/track/2zjEkh1tCbRtARZZLkP5SI) | [David Charrier](https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98), [Sylvain Paslier](https://open.spotify.com/artist/2q9bru2FtUf8MQlALS1GjC) | [Keona the cousins' hang duet](https://open.spotify.com/album/16d1nehPbUG1Y5TY6Nu9EU) | 4:31 | 2022-05-19 | 2023-07-15 |
 | [Perhentian](https://open.spotify.com/track/6uwiYkV67uGEEeAGnpmVMC) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 4:28 | 2022-05-19 |  |
@@ -99,7 +100,7 @@
 | [Rhythmic Odyssey](https://open.spotify.com/track/5iIJxhyD7Aile3v11sWZza) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Rhythmic Odyssey](https://open.spotify.com/album/22KoLGWDyvIAERdQf86MBD) | 3:19 | 2024-03-05 |  |
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-05-19 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 |  |
-| [Rooh](https://open.spotify.com/track/6yJkuiFAhItI6yv5IcJjr7) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Rooh](https://open.spotify.com/album/1yqqOf2RFe7N7iudspYJWu) | 2:47 | 2024-03-05 |  |
+| [Rooh](https://open.spotify.com/track/6yJkuiFAhItI6yv5IcJjr7) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Rooh](https://open.spotify.com/album/1yqqOf2RFe7N7iudspYJWu) | 2:47 | 2024-03-05 | 2025-02-19 |
 | [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 | 2022-05-19 |  |
 | [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 | 2024-01-31 |  |
 | [Sacred Ground \(Percussion Only\)](https://open.spotify.com/track/5M8BTt6WQjBfUORnHDQ7FT) | [Native Spirit](https://open.spotify.com/artist/2OE9yjoQB6ctlwY1uznBb9) | [Sacred Ground: Traditional Native American Flute & Drums](https://open.spotify.com/album/2BGeocG4BEHp52QHZhtPb3) | 1:59 | 2022-05-19 | 2023-10-06 |

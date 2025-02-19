@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14864,
+  "num_followers": 14863,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Wicher",
+        "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
+      },
+      "artists": [
+        {
+          "name": "Ugory",
+          "url": "https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Wicher",
+      "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Full Speed No Brakes",
         "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 181548,
       "name": "Summerland",
       "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Wicher",
-        "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
-      },
-      "artists": [
-        {
-          "name": "Ugory",
-          "url": "https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Wicher",
-      "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
     },
     {
       "added_at": "2024-03-25 08:52:09",

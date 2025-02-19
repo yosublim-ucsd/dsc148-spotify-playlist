@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-1,469 songs - 3 day 12 hr 18 min
+1,470 songs - 3 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Fugazi](https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Fugazi](https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB) | 4:26 | 2022-01-28 | 2022-03-17 |
 | [Full Size Render](https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/1ITm7iuEyilyq4EDMMzzRN) | 2:58 | 2021-08-27 | 2022-04-29 |
 | [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2022-03-26 | 2022-05-03 |
+| [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 | 2025-02-18 |  |
 | [FWB](https://open.spotify.com/track/3d0xIqicBSu1Uc6b2ShTHg) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [FWB](https://open.spotify.com/album/4XaVVFYM0fUcCU7durf2L8) | 2:25 | 2021-03-05 | 2022-04-26 |
 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 | 2024-09-20 |  |
 | [Gardetto.](https://open.spotify.com/track/60TTojDqpr2XFzV6pKyWs3) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:55 | 2023-06-15 | 2023-09-16 |

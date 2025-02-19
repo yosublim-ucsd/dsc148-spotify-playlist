@@ -68569,6 +68569,24 @@
     },
     {
       "album": {
+        "name": "Swan",
+        "url": "https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg"
+    },
+    {
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR"
       },

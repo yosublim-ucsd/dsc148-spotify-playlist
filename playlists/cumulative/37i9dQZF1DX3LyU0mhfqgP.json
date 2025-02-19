@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists.  Cover: HUSH",
+  "description": "Songs from LGBTQIA+ artists.  Cover: V\u0169 C\u00e1t T\u01b0\u1eddng",
   "name": "GLOW",
   "tracks": [
     {
@@ -7282,7 +7282,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 174733,
       "name": "false gold",
       "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
@@ -24507,6 +24507,24 @@
     },
     {
       "album": {
+        "name": "G\u00e9mea Anal\u00f3gica",
+        "url": "https://open.spotify.com/album/5TMIMSgK7lYHX3LO51vvJG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Sambado",
+          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Um Lugar na Mouraria - G\u00e9mea Anal\u00f3gica",
+      "url": "https://open.spotify.com/track/3Vro2KGZpxVvfaJrkQYdnk"
+    },
+    {
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2MqeRcbAi6Kgy6TNFTDVjy"
       },
@@ -26396,7 +26414,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-19",
       "duration_ms": 200000,
       "name": "z\u0142y",
       "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
@@ -26454,6 +26472,24 @@
       "duration_ms": 212999,
       "name": "\u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/3i5f4CksO6h06hQ5BXfjBh"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05d3\u05e8 4",
+        "url": "https://open.spotify.com/album/1kVo6voTgPVOh6IDV2zLOI"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183459,
+      "name": "\u05d0\u05d5\u05d5\u05d9\u05e8 \u05dc\u05e0\u05e9\u05d9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/37UoK4f7ghXOirEorXNsqb"
     },
     {
       "album": {

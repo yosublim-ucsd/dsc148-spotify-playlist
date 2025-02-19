@@ -4,7 +4,7 @@
 
 > 💋 <a href="spotify:artist:74KM79TiuVKeVCqs8QtB0B">Sabrina Carpenter</a> 💋
 
-4,130 songs - 8 day 21 hr 53 min
+4,131 songs - 8 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3494,6 +3494,7 @@
 | [Svanejagten \(feat\. Mads DK\)](https://open.spotify.com/track/373ZcIgd2p4aZOIQjvLcL0) | [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL), [Mads DK](https://open.spotify.com/artist/1GqbdTG5xptTw4PzolOyiP) | [Svanejagten \(feat\. Mads DK\)](https://open.spotify.com/album/7rApWLuCGR4wuRTgrhsHMq) | 3:13 | 2025-02-13 |  |
 | [Svært Ved At Se](https://open.spotify.com/track/6e4f6M6jscfkzkfzecROrT) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Svært Ved At Se](https://open.spotify.com/album/5RbnRsA8jKHolMLLkLDOxj) | 2:32 | 2024-07-18 | 2024-07-27 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2024-11-01 |
+| [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 | 2025-02-14 |  |
 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 | 2024-10-24 | 2024-11-01 |
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-01 |
 | [SWEET](https://open.spotify.com/track/203R8nzSPZssBVTczIBrrk) | [BAGG](https://open.spotify.com/artist/6TKPGIjpbGko3z9jzdQwCH) | [SWEET](https://open.spotify.com/album/4VL2MnYfFM4qHAN0hy8A1F) | 2:48 | 2024-05-02 | 2024-05-10 |

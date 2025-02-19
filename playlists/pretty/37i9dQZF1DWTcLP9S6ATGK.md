@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Stevan Pasaribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,340 likes - 99 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,343 likes - 99 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 3 | [Andai Sampai Akhir Usia](https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Andai Sampai Akhir Usia](https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0) | 5:09 |
 | 4 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
 | 5 | [Bersamamu](https://open.spotify.com/track/68Z2rw1ffXVmJleB8lzmfU) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Bersamamu](https://open.spotify.com/album/3Oy3oc04FmaJGjMbVnnPEa) | 5:17 |
-| 6 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:09 |
+| 6 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 |
 | 7 | [Nuansa Romansa](https://open.spotify.com/track/3LwX0Ikils12jvt5sWsAmo) | [Danar](https://open.spotify.com/artist/324cP6fYaUtaQiGyc2UViq), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Nuansa Romansa](https://open.spotify.com/album/4kM1iRXUWBgL3jYCRR5aZB) | 4:00 |
 | 8 | [Tak Berakhir Sama](https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Tak Berakhir Sama](https://open.spotify.com/album/40x1sWxBNDkUmvYIFdLsCX) | 3:50 |
 | 9 | [Asa Di Senja](https://open.spotify.com/track/7sBAuuyzliBRwLkEtP58wi) | [SEGARA](https://open.spotify.com/artist/6D1hynXv1xe0FGapcZBuGv) | [Asa Di Senja](https://open.spotify.com/album/0cQrB9ZV5a5AizFIfWkQxs) | 3:25 |

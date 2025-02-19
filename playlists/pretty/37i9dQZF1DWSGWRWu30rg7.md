@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Prazteguh, Ayiqorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,713 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,714 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 9 | [SAY IT](https://open.spotify.com/track/08iXCxRXnCMzxYaIeFsE1c) | [Shanda](https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT), [Frenkieur](https://open.spotify.com/artist/39pZTlOdgf0trB9xq4TYjl) | [SAY IT](https://open.spotify.com/album/5biWQ776xkyHtmhVlqL1QH) | 2:56 |
 | 10 | [Kissing Ghosts Goodnight \- Acoustic](https://open.spotify.com/track/0KKvHseE0mI5R8iMcqSDuw) | [Sorenza Nuryanti](https://open.spotify.com/artist/3UtnHWhOJ3UXTyuWmdFqUN) | [Kissing Ghosts Goodnight \(Acoustic\)](https://open.spotify.com/album/4J2vl7gsBXtgPueLH7c6qw) | 3:44 |
 | 11 | [Skak](https://open.spotify.com/track/1ITHy4u76rozlCBG6pymuG) | [Fury+](https://open.spotify.com/artist/3N6IubtRCAAGAhxFVD6lVH), [Concerto](https://open.spotify.com/artist/4NS5bBuhLGEigxOjxTtzSZ), [GACE](https://open.spotify.com/artist/7ky3mPSQ3ZpfS25XEO4sxl) | [Lain Punya Story](https://open.spotify.com/album/4olOxa7IXJABWbz9c4FO3y) | 3:22 |
-| 12 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:09 |
+| 12 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 |
 | 13 | [Dimensi](https://open.spotify.com/track/4WZ19Kukp4dsE6MZdv9g6b) | [Kalih](https://open.spotify.com/artist/1EmsDjkyjyjv5whNNDWxUC) | [Dimensi](https://open.spotify.com/album/6USMmNIJ8gfIo0TblFXZqN) | 3:31 |
 | 14 | [Two Pawns](https://open.spotify.com/track/7FZV109CNuQJvyMLNhMZeh) | [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq), [Keshya Valerie](https://open.spotify.com/artist/3ioWvy85yCgiqmpyu4jEma) | [Two Pawns / Crutched](https://open.spotify.com/album/1CNF6Y0xdxT9GGeg3WcjQ6) | 2:43 |
 | 15 | [one i see](https://open.spotify.com/track/2tRUSiApPgn3gIymi5TzYk) | [Nahtan](https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7), [Katlyn Kim](https://open.spotify.com/artist/7y4WNvJmKzJpw6eFzMZ03O) | [one i see](https://open.spotify.com/album/1qTZgHAK3KamVkv5ecvKhR) | 3:48 |

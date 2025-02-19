@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,916 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,319 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 4 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 |
 | 5 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
 | 6 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 |
-| 7 | [2 Phut Hon Funk](https://open.spotify.com/track/4axki6LDm47iWaxm5oTDnv) | [MGD](https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf), [KhangMxne](https://open.spotify.com/artist/7JFLhTR5zEmZPQ9pamzDYV) | [2 Phut Hon Funk](https://open.spotify.com/album/5QVq8SkJHrzo4ciLyzagxE) | 2:25 |
+| 7 | [2 Phut Hon Funk](https://open.spotify.com/track/4axki6LDm47iWaxm5oTDnv) | [MGD](https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf), [KhangMxne](https://open.spotify.com/artist/7kufcLLrvV0pv0AwWVRpDj) | [2 Phut Hon Funk](https://open.spotify.com/album/5QVq8SkJHrzo4ciLyzagxE) | 2:25 |
 | 8 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
 | 9 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 |
 | 10 | [NXSTY BLOOD](https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L) | [Wels](https://open.spotify.com/artist/5gQXdVmzGuWYNiG1ZOFS7S) | [NXSTY BLOOD](https://open.spotify.com/album/7ydimgAmoZWwEiKAIJ3GWP) | 1:54 |
