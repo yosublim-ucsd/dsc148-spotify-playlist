@@ -1,4 +1,4 @@
-## Playlists \(8379\)
+## Playlists \(8380\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2632,6 +2632,7 @@
 - [Halloween Party](/playlists/pretty/37i9dQZF1DX8S9gwdi7dev.md)
 - [Hallyu Boy Bands \(한류 보이 밴드\)](/playlists/pretty/37i9dQZF1DX1gjl24GAQC0.md)
 - [Halo](/playlists/pretty/37i9dQZF1DX5YyEO1dtgbR.md)
+- [Halo \(2\)](/playlists/pretty/6XLByjEgAdhEl6uNFpmN8t.md)
 - [Hamd\-o\-Naat](/playlists/pretty/37i9dQZF1DXbCdb6frP71o.md)
 - [Hanging Out & Relaxing](/playlists/pretty/37i9dQZF1DXci7j0DJQgGp.md)
 - [Hangover Detox by block.fm](/playlists/pretty/37i9dQZF1DX3emOGTS84VM.md)
